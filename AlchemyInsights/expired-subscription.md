@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: 604e645175696043a8e9e9a0d796b2c904786e23
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297629"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476801"
 ---
 # <a name="expired-subscription"></a>有効期限が切れたサブスクリプション
 
 1 つまたは複数の有効期限が切れたサブスクリプションがある場合が表示されます。サービスを続行する場合は、サブスクリプションを再アクティブ化または新規購入する必要があります。
   
- **[再アクティブ化]**
+ [再アクティブ化]
   
 1. 管理センターで、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動または**請求先**を選択\>**のサブスクリプション**。
     

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298055"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477013"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>トラブルシューティングの不正行為を検出するための安全性のヒントをチェックします。
 
@@ -24,7 +24,7 @@ ms.locfileid: "28298055"
   
 役立つその他のいくつかのリンクを以下に示します。
   
-- [Office 365 が送信者ポリシー フレームワーク (SPF) を使用して、スプーフィングを防止する方法](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- Office 365 において Sender Policy Framework (SPF) を使用して、スプーフィングを防止する方法
     
 - [スプーフィングを防止するために Office 365 で SPF を設定する](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     

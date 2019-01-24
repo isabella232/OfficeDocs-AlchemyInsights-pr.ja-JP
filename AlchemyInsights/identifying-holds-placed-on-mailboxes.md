@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: 9950fb8af79c7689133a226df29c123feefb0254
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297274"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476809"
 ---
 **保持**を、**保持**することはできませんを識別する、対象となっているコンテンツを使用していますか。**について**は、保留中の**メールボックス**の場所に必要ですか。(*保存機能*) を保持は、Office 365 では、次の方法のいずれかで適用できます。 
   
 - 訴訟ホールド 
     
-- 電子的証拠開示の保留中
+- 電子情報開示の保留
     
 - インプレース保持
     

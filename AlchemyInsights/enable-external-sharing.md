@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297496"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476831"
 ---
 # <a name="enable-external-sharing"></a>外部共有を有効にします。
 
@@ -33,7 +33,7 @@ ms.locfileid: "28297496"
     
   - "の共有に同意した両方の外部ユーザーを許可するへの招待および匿名ゲスト リンク」
     
-- **個々 のサイト コレクション**
+- 個別のサイト コレクション
     
   - サイト コレクションの [サイト コレクションの対象の [共有] をクリックして - - リボンから\>いずれかの共有オプションが選択されていることを確認します。
     

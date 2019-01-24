@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297605"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476799"
 ---
 # <a name="enable-an-archive-mailbox"></a>アーカイブ メールボックスの有効化
 

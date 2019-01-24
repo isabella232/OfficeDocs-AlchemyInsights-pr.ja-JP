@@ -1,5 +1,5 @@
 ---
-title: 企業向け Office 365 の試用版を拡張します。
+title: 一般法人向け Office 365 の試用期間を延長する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297101"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476734"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>企業向け Office 365 の試用版を拡張します。
+# <a name="extend-your-trial-for-office-365-for-business"></a>一般法人向け Office 365 の試用期間を延長する
 
 試用版サブスクリプションの期限が切れる 15 日以内で、試用版をする前に拡張されていない場合は、別の 30 日間の試用版を拡張できます。この 1 回のみ行うことができます。
   
