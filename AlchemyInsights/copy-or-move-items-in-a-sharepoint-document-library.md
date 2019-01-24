@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297092"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476675"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>コピーまたは SharePoint ドキュメント ライブラリにアイテムを移動
 
@@ -37,6 +37,6 @@ ms.locfileid: "28297092"
 3. **ここにコピー**または**移動には、ここ**をクリックします。
     
 > [!NOTE]
->  一度に最大 500 MB のファイルとフォルダーをコピーできます。> バージョン履歴を含むドキュメントをコピーするときは、最新バージョンのみがコピーされます。ドキュメントを移動すると、履歴にも移動します。 
+>  一度に最大 500 MB のファイルとフォルダーをコピーできます。_gt バージョン履歴、最新のバージョンのみを含むドキュメントをコピーするときにコピーされます。ドキュメントを移動すると、履歴にも移動します。 
   
 

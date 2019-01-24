@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
 ms.openlocfilehash: c87659704f086025de1287e807db743a935ba8a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297575"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476727"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>配布グループにメッセージを送信するのには外部の送信者を許可します。
 
