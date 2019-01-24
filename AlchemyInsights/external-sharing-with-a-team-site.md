@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
 ms.openlocfilehash: f91258e018e81e51029961e5df21e4975e857907
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297386"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476710"
 ---
-# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="1a1cc-102">外部のチーム サイトと共有</span><span class="sxs-lookup"><span data-stu-id="1a1cc-102">External Sharing with a Team Site</span></span>
+# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="48222-102">外部のチーム サイトと共有</span><span class="sxs-lookup"><span data-stu-id="48222-102">External Sharing with a Team Site</span></span>
 
-<span data-ttu-id="1a1cc-103">外部のユーザーがチーム サイトの共有を有効にするのには以下の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
+<span data-ttu-id="48222-103">外部のユーザーがチーム サイトの共有を有効にするのには以下の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="48222-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="1a1cc-p101">開いている**現代管理センター** - 従来の管理センターでなら、**今すぐ**または**プレビューを実行してください**] ボタンが表示右上から。かかる現代管理センターへ。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-p101">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or **Try the preview** button from the top right. This will take you to the Modern Admin Center.</span></span> 
+1. <span data-ttu-id="48222-p101">開いている**現代管理センター** - 従来の管理センターでなら、**今すぐ**または**プレビューを実行してください**] ボタンが表示右上から。かかる現代管理センターへ。</span><span class="sxs-lookup"><span data-stu-id="48222-p101">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or **Try the preview** button from the top right. This will take you to the Modern Admin Center.</span></span> 
   
-2. <span data-ttu-id="1a1cc-106">**アクティブなサイト**を選択します。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-106">Select **Active Sites**.</span></span> 
+2. <span data-ttu-id="48222-106">**アクティブなサイト**を選択します。</span><span class="sxs-lookup"><span data-stu-id="48222-106">Select **Active Sites**.</span></span> 
   
-3. <span data-ttu-id="1a1cc-107">**チーム サイト**テンプレートを含むサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-107">Select a site that has a **Team Site** template.</span></span> 
+3. <span data-ttu-id="48222-107">**チーム サイト**テンプレートを含むサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="48222-107">Select a site that has a **Team Site** template.</span></span> 
   
-4. <span data-ttu-id="1a1cc-108">トップ メニューから、[**共有**] ボタンを選択します。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-108">Select the **Sharing** button from the top menu.</span></span> 
+4. <span data-ttu-id="48222-108">トップ メニューから、[**共有**] ボタンを選択します。</span><span class="sxs-lookup"><span data-stu-id="48222-108">Select the **Sharing** button from the top menu.</span></span> 
   
- <span data-ttu-id="1a1cc-109">**注**: 既定では、現代のチーム サイトが作成されると、共有オプションの外部に設定されます新規および既存の外部ユーザー。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-109">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
+ <span data-ttu-id="48222-109">**注**: 既定では、現代のチーム サイトが作成されると、共有オプションの外部に設定されます新規および既存の外部ユーザー。</span><span class="sxs-lookup"><span data-stu-id="48222-109">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
   
- <span data-ttu-id="1a1cc-p102">**注:** 選択した 1 つ以上のサイトがあれば、**共有**] ボタンを無効に表示されます。1 つのサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="1a1cc-p102">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled. Select only one site.</span></span> 
+ <span data-ttu-id="48222-p102">**注:** 選択した 1 つ以上のサイトがあれば、**共有**] ボタンを無効に表示されます。1 つのサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="48222-p102">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled. Select only one site.</span></span> 
   
 
