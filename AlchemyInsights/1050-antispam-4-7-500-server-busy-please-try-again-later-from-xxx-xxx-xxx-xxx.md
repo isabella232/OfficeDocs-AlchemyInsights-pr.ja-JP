@@ -13,8 +13,8 @@ ms.openlocfilehash: ac54320a5b0b42743d98e493c1637d4d31f77011
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383343"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454363"
 ---
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 サーバーがビジー状態で、もう一度やり直してください。
 

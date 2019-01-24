@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383345"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454435"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -209,7 +209,7 @@ ms.locfileid: "29383345"
 | 1/10/2019 | [ワークフローを表示するとき、アクセスが拒否されました](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 追加 |
 | 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | 追加 |
 | 1/10/2019 | [プロダクト キーを使用して新しいサブスクリプションをアクティブにします。](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 追加 |
-| 1/10/2019 | [Office を有効にする](/AlchemyInsights/activate-office) | 追加 |
+| 1/10/2019 | Office を有効にする | 追加 |
 | 1/10/2019 | [Microsoft Office 365 のボリューム ライセンス サブスクリプションをアクティブにします。](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 追加 |
 | 1/10/2019 | [ライセンス認証のトラブルシューティング](/AlchemyInsights/activation-troubleshooting) | 追加 |
 | 1/10/2019 | [グループを SharePoint サイトに追加します。](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 追加 |
@@ -218,7 +218,7 @@ ms.locfileid: "29383345"
 | 1/10/2019 | [追加またはユーザーの電子メール エイリアスを削除します。](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 追加 |
 | 1/10/2019 | [プリペイド サブスクリプションに座席を追加します。](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 追加 |
 | 1/10/2019 | [プリペイド サブスクリプションに座席を追加します。](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 追加 |
-| 1/10/2019 | [Office 365 にユーザーを追加する](/AlchemyInsights/add-users-to-office-365) | 追加 |
+| 1/10/2019 | Office 365 にユーザーを追加する | 追加 |
 | 1/10/2019 | [配布グループに外部ユーザーを追加しますか。](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 追加 |
 | 1/10/2019 | [外部ユーザーを追加します。](/AlchemyInsights/adding-external-users) | 追加 |
 | 1/10/2019 | [ADFS フェデレーション証明書の有効期限が切れる](/AlchemyInsights/adfs-federation-certificate-expiring) | 追加 |
@@ -272,11 +272,11 @@ ms.locfileid: "29383345"
 | 1/10/2019 | [SharePoint Online のドメイン名の変更](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 追加 |
 | 1/10/2019 | [支払方法を変更します。](/AlchemyInsights/change-how-often-you-pay) | 追加 |
 | 1/10/2019 | [MDM の権限を変更します。](/AlchemyInsights/change-mdm-authority) | 追加 |
-| 1/10/2019 | [ネームサーバを変更します。](/AlchemyInsights/change-nameservers) | 追加 |
+| 1/10/2019 | Change nameservers | 追加 |
 | 1/10/2019 | [ビジネスの記憶域のクォータの変更 OneDrive](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 追加 |
 | 1/10/2019 | [支払方法を変更する](/AlchemyInsights/change-payment-method) | 追加 |
 | 1/10/2019 | [SharePoint リストまたはライブラリの権限の変更](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 追加 |
-| 1/10/2019 | [請求通知の送り先である連絡用電子メール アドレスを変更する](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 追加 |
+| 1/10/2019 | 請求通知の送り先である連絡用電子メール アドレスを変更する | 追加 |
 | 1/10/2019 | [UPN を変更](/AlchemyInsights/change-upn) | 追加 |
 | 1/10/2019 | [外部ユーザー アクセスの変更](/AlchemyInsights/changes-to-external-user-access) | 追加 |
 | 1/10/2019 | [メッセージまたは添付ファイルのサイズを変更します。](/AlchemyInsights/changing-message-or-attachment-size) | 追加 |
@@ -303,7 +303,7 @@ ms.locfileid: "29383345"
 | 1/10/2019 | [フローを作成します。](/AlchemyInsights/create-a-flow) | 追加 |
 | 1/10/2019 | [現代のチーム サイトを作成します。](/AlchemyInsights/create-a-modern-team-site) | 追加 |
 | 1/10/2019 | [共有メールボックスを作成する](/AlchemyInsights/create-a-shared-mailbox) | 追加 |
-| 1/10/2019 | [SharePoint サイトを作成する](/AlchemyInsights/create-a-sharepoint-site) | 追加 |
+| 1/10/2019 | SharePoint サイトを作成する | 追加 |
 | 1/10/2019 | [SharePoint online サイトを作成します。](/AlchemyInsights/create-a-site-in-sharepoint-online) | 追加 |
 | 1/10/2019 | [作成し、共有されているメールボックスを使用します。](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 追加 |
 | 1/10/2019 | [作成し、共有メールボックスを使用します。](/AlchemyInsights/create-and-use-a-shared-mailbox) | 追加 |
@@ -321,7 +321,7 @@ ms.locfileid: "29383345"
 | 1/10/2019 | [クレジット カードが拒否されました。](/AlchemyInsights/declined-credit-card) | 追加 |
 | 1/10/2019 | [ハイブリッド環境で委任されたメールボックスのアクセス許可](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 追加 |
 | 1/10/2019 | [コミュニケーション サイトを削除します。](/AlchemyInsights/delete-a-communication-site) | 追加 |
-| 1/10/2019 | [ページの削除](/AlchemyInsights/delete-a-page) | 追加 |
+| 1/10/2019 | ページの削除 | 追加 |
 | 1/11/2019 | [1047 AntiSpam\550 5.7.708 サービスを利用できません。アクセスが拒否されたトラフィックがこの IP からは受け付けられません](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 更新日時 |
 | 1/11/2019 | [1048 5.7.750 サービスを利用できません。クライアントが登録されていないドメインからの送信は禁止](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 更新日時 |
 | 1/11/2019 | [1049 AntiSpam\4.5.3 が多数の受信者 (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | 更新日時 |
@@ -506,7 +506,7 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [ワークフローを表示するとき、アクセスが拒否されました](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 更新日時 |
 | 1/11/2019 | [Access Services](/AlchemyInsights/access-services) | 更新日時 |
 | 1/11/2019 | [プロダクト キーを使用して新しいサブスクリプションをアクティブにします。](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 更新日時 |
-| 1/11/2019 | [Office を有効にする](/AlchemyInsights/activate-office) | 更新日時 |
+| 1/11/2019 | Office を有効にする | 更新日時 |
 | 1/11/2019 | [Microsoft Office 365 のボリューム ライセンス サブスクリプションをアクティブにします。](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 更新日時 |
 | 1/11/2019 | [ライセンス認証のトラブルシューティング](/AlchemyInsights/activation-troubleshooting) | 更新日時 |
 | 1/11/2019 | [グループを SharePoint サイトに追加します。](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 更新日時 |
@@ -515,7 +515,7 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [追加またはユーザーの電子メール エイリアスを削除します。](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 更新日時 |
 | 1/11/2019 | [プリペイド サブスクリプションに座席を追加します。](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 更新日時 |
 | 1/11/2019 | [プリペイド サブスクリプションに座席を追加します。](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 更新日時 |
-| 1/11/2019 | [Office 365 にユーザーを追加する](/AlchemyInsights/add-users-to-office-365) | 更新日時 |
+| 1/11/2019 | Office 365 にユーザーを追加する | 更新日時 |
 | 1/11/2019 | [配布グループに外部ユーザーを追加しますか。](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 更新日時 |
 | 1/11/2019 | [外部ユーザーを追加します。](/AlchemyInsights/adding-external-users) | 更新日時 |
 | 1/11/2019 | [ADFS フェデレーション証明書の有効期限が切れる](/AlchemyInsights/adfs-federation-certificate-expiring) | 更新日時 |
@@ -569,11 +569,11 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [SharePoint Online のドメイン名の変更](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 更新日時 |
 | 1/11/2019 | [支払方法を変更します。](/AlchemyInsights/change-how-often-you-pay) | 更新日時 |
 | 1/11/2019 | [MDM の権限を変更します。](/AlchemyInsights/change-mdm-authority) | 更新日時 |
-| 1/11/2019 | [ネームサーバを変更します。](/AlchemyInsights/change-nameservers) | 更新日時 |
+| 1/11/2019 | Change nameservers | 更新日時 |
 | 1/11/2019 | [ビジネスの記憶域のクォータの変更 OneDrive](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 更新日時 |
 | 1/11/2019 | [支払方法を変更する](/AlchemyInsights/change-payment-method) | 更新日時 |
 | 1/11/2019 | [SharePoint リストまたはライブラリの権限の変更](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 更新日時 |
-| 1/11/2019 | [請求通知の送り先である連絡用電子メール アドレスを変更する](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 更新日時 |
+| 1/11/2019 | 請求通知の送り先である連絡用電子メール アドレスを変更する | 更新日時 |
 | 1/11/2019 | [UPN を変更](/AlchemyInsights/change-upn) | 更新日時 |
 | 1/11/2019 | [外部ユーザー アクセスの変更](/AlchemyInsights/changes-to-external-user-access) | 更新日時 |
 | 1/11/2019 | [メッセージまたは添付ファイルのサイズを変更します。](/AlchemyInsights/changing-message-or-attachment-size) | 更新日時 |
@@ -600,7 +600,7 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [フローを作成します。](/AlchemyInsights/create-a-flow) | 更新日時 |
 | 1/11/2019 | [現代のチーム サイトを作成します。](/AlchemyInsights/create-a-modern-team-site) | 更新日時 |
 | 1/11/2019 | [共有メールボックスを作成する](/AlchemyInsights/create-a-shared-mailbox) | 更新日時 |
-| 1/11/2019 | [SharePoint サイトを作成する](/AlchemyInsights/create-a-sharepoint-site) | 更新日時 |
+| 1/11/2019 | SharePoint サイトを作成する | 更新日時 |
 | 1/11/2019 | [SharePoint online サイトを作成します。](/AlchemyInsights/create-a-site-in-sharepoint-online) | 更新日時 |
 | 1/11/2019 | [作成し、共有されているメールボックスを使用します。](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 更新日時 |
 | 1/11/2019 | [作成し、共有メールボックスを使用します。](/AlchemyInsights/create-and-use-a-shared-mailbox) | 更新日時 |
@@ -618,7 +618,7 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [クレジット カードが拒否されました。](/AlchemyInsights/declined-credit-card) | 更新日時 |
 | 1/11/2019 | [ハイブリッド環境で委任されたメールボックスのアクセス許可](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 更新日時 |
 | 1/11/2019 | [コミュニケーション サイトを削除します。](/AlchemyInsights/delete-a-communication-site) | 更新日時 |
-| 1/11/2019 | [ページの削除](/AlchemyInsights/delete-a-page) | 更新日時 |
+| 1/11/2019 | ページの削除 | 更新日時 |
 | 1/11/2019 | [SharePoint サイトを削除します。](/AlchemyInsights/delete-a-sharepoint-site-0) | 更新日時 |
 | 1/11/2019 | [SharePoint サイトを削除します。](/AlchemyInsights/delete-a-sharepoint-site) | 更新日時 |
 | 1/11/2019 | [コミュニケーション サイトを削除します。](/AlchemyInsights/delete-communication-site) | 更新日時 |
@@ -626,7 +626,7 @@ ms.locfileid: "29383345"
 | 1/11/2019 | [サイトのグループの削除](/AlchemyInsights/delete-group-site) | 更新日時 |
 | 1/11/2019 | [SharePoint 内の項目を削除します。](/AlchemyInsights/delete-items-in-sharepoint) | 更新日時 |
 | 1/11/2019 | [ページを削除します。](/AlchemyInsights/delete-page) | 更新日時 |
-| 1/11/2019 | [サイト コレクションを削除します。](/AlchemyInsights/delete-site-collection) | 更新日時 |
+| 1/11/2019 | [サイト コレクションの削除](/AlchemyInsights/delete-site-collection) | 更新日時 |
 | 1/11/2019 | [サブサイトまたは従来のチーム サイトを削除します。](/AlchemyInsights/delete-subsite-or-classic-team-site) | 更新日時 |
 | 1/11/2019 | [チーム サイトを削除します。](/AlchemyInsights/delete-team-site) | 更新日時 |
 | 1/11/2019 | [ユーザを削除します。](/AlchemyInsights/deleting-users) | 更新日時 |
