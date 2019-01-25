@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297628"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477328"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>ハブの SharePoint サイトを作成します。
 
@@ -24,7 +24,7 @@ ms.locfileid: "28297628"
 3. ハブ サイトの表示名を入力し、個々 のユーザーまたはハブ サイトに関連付けることを許可するセキュリティ グループを指定します。
     
     > [!NOTE]
-    >  コミュニケーション サイト、または新しいテンプレートを使用するチーム サイトを選択することをお勧めします。クラシック チーム サイトを使用する場合ハブ ナビゲーションが現在のページにのみ表示され、ハブ サイトの設定は、最新のページにのみ表示されます。> 既に別のハブに関連付けられているサイトをハブ サイトとして登録できません。 
+    >  コミュニケーション サイト、または新しいテンプレートを使用するチーム サイトを選択することをお勧めします。クラシック チーム サイトを使用する場合ハブ ナビゲーションが現在のページにのみ表示され、ハブ サイトの設定は、最新のページにのみ表示されます。_gt 既に別のハブに関連付けられているサイトをハブ サイトとして登録できません。 
   
 [ハブ サイトの詳細を表示します](https://go.microsoft.com/fwlink/?linkid=869149)
   

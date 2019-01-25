@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297399"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477545"
 ---
 **データ損失防止 (DLP)** O365 で DLP の機密性の高い情報の種類を使用する場合は、**クレジット カード番号**を含むコンテンツの動作していない問題が発生しているでしょうか。その場合は、コンテンツには、トリガーに必要な情報が含まれていることを確認して、DLP ポリシーが評価されるときです。などの 85% の信頼レベルで構成されている**クレジット カードのポリシー** 、次は評価され、ルールをトリガーするを検出する必要があります。 
   
@@ -32,11 +32,11 @@ ms.locfileid: "28297399"
     
   - Keyword_cc_verification のキーワードを検出した。
     
-  - Keyword_cc_name からキーワードが見つかりました
+  - Keyword_cc_name のキーワードを検出した。
     
   - 関数 Func_expiration_date が適切な日付形式の日付を検出した。
     
-  - チェックサム パス
+  - チェックサムが渡される。
     
     たとえば、次の例を DLP のクレジット カード番号のポリシーのトリガー。
     

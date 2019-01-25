@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
 ms.openlocfilehash: 2835e0665e602caaf793ec6bb78b0ee2cc43527e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297179"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476744"
 ---
 ユーザーは、自分以外のメールボックスへのアクセスを必要とそれらのメールボックスのアクセス許可を指定する、必要があります。これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。場合はユーザーへのアクセスが必要があります。
   

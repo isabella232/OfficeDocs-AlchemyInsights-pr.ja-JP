@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: 05ab8844df6b34a9c7ae556b91ece341e1370ccd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297504"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477245"
 ---
 # <a name="set-up-information-management-policies"></a>情報管理ポリシーを設定します
 
@@ -21,7 +21,7 @@ ms.locfileid: "28297504"
     
 2. **の設定**] をクリックし、[**サイトの設定**] をクリックします。サイトが、Office 365 のグループに接続されたサイトの場合は、[**設定**] をクリックして**サイトの内容**を**サイトの設定**] をクリックします。
     
-3. [**サイト コレクションの管理**] で、[**サイト コレクションの機能**] をクリックします。
+3. [サイト コレクションの管理] で、[サイト コレクションの機能] をクリックします。
     
 4. **場所レコード管理で**、[**アクティブ化**を] をクリックします。
     

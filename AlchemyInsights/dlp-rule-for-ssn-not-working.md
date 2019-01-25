@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297281"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477582"
 ---
 **データ損失防止 (DLP)** を Office 365 で機密性の高い情報の種類を使用する場合、**社会保障番号 (SSN)** が含まれているコンテンツの動作していない問題が発生しているでしょうか。場合は、コンテンツには、DLP ポリシーが目的に必要な情報が含まれていることを確認します。 
   
@@ -36,7 +36,7 @@ ms.locfileid: "28297281"
     
 - **[定義:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP ポリシーとは、85% をこの種類の機密情報を検出したことを確信、近くにある 300 文字以内の場合。 
     
-  - [関数 Func_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)では、パターンに一致するコンテンツを検索します。 
+  - 関数 Func_ssn がパターンに一致するコンテンツを検出した。 
     
   - [Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn)からキーワードを検出するとします。キーワードの例が含まれています:*社会保障、社会保障番号、Soc 秒、SSN* 。SSN の DLP ポリシーの次の例では、たとえば、: **SSN: 489-36-8350**
     

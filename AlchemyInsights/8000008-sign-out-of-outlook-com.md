@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
 ms.openlocfilehash: f44aa6ccc8ceccde5527552f7a76b7e19eb43af0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297958"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476920"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Outlook.com に署名する方法
 

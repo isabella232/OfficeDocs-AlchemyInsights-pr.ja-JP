@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298273"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477414"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 ビジネスに関する重要事項の購読を設定します。
 
 Office 365 のアカウントを作成し、自分のドメインを追加します。
   
-- この手順で、ユーザーの Office 365 アカウントを作成し、独自のドメインを追加するセットアップ ウィザードを使用します。ウィザードでは、すべてのユーザーのユーザー ID と[rob@contoso.com](mailto:rob@contoso.com)のように、お客様のビジネスの電子メールをパーソナライズすることができます。
+- この手順では、セットアップ ウィザードを使用して組織のユーザーの Office 365 アカウントを作成し、組織の独自のドメインを追加します。このウィザードでは、すべてのユーザーのユーザー ID とメール アドレスを、rob@contoso.com のようにカスタマイズできます。
     
 - [Office 365 管理センターに移動します](https://login.partner.microsoftonline.cn/)。
     

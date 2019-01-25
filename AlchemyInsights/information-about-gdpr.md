@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297117"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477476"
 ---
 # <a name="information-about-gdpr"></a>GDPR についての情報
 
@@ -21,9 +21,9 @@ ms.locfileid: "28297117"
     
 - **データ処理契約**(DPA) に関連するものを次のように確認してください。 
     
-  - [データ保護のリソース](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - データ保護のリソース
     
-  - [監査レポート](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - 監査レポート
     
 - (DSR) の**主題のデータ要求**の情報を検出、アクセス、修正、制限、削除、エクスポートは、[はここです](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)。
     

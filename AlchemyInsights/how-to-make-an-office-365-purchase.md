@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298214"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477296"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Office 365 の購入方法
 
@@ -30,12 +30,12 @@ ms.locfileid: "28298214"
     
   - 選択 * * プランを切り替える * * 使用できる新しいプランの一覧を表示します。 
     
-  - 1 か月あたりの新規の総コストを確認するための計画を選択します。キーの情報を読み、[**次**へをチェック アウトを選択することを確認します。 
+  - プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ 次へ] を選択して購入手続きへ進みます。 
     
  **その他のリソース**
   
 - [一般法人向け Office 365 ライセンスをユーザーに割り当てる](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [ビジネス向けの Office 365 をキャンセルします。](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

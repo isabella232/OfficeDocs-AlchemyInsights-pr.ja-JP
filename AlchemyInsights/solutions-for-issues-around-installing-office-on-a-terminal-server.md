@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297671"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477450"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>ターミナル サーバーに office のインストールに関する問題のためのソリューション
 
@@ -24,13 +24,13 @@ ms.locfileid: "28297671"
     
 - Office 365 ProPlus のライセンス認証が成功したことを確認する
     
-- 共有のコンピューターのライセンス認証のエラー メッセージを確認してください。
+- 共有コンピューターのライセンス認証に関するエラー メッセージを確認する
     
-  - 製品をお客様のアカウントがわかりました」共有のコンピューターのシナリオで Office をライセンス認証を使用できません"
+  - お客様がアカウントにお持ちの製品では、共有コンピューター シナリオで Office をライセンス認証することができません。
   
 このエラーは、Office 365 用リソースが含まれている Office 365 のプランがないことを意味します。
     
-  - ライセンスのない製品」
+  - ライセンスのない製品
     
   - ユーザーが Office 365 用リソースのライセンスを割り当てられているを確認します。
     
