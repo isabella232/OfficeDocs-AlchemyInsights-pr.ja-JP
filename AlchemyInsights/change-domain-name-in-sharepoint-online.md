@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: ff7ed718299a88b21638ab1b73a6e9b631d8659b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298339"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499351"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>SharePoint Online のドメイン名の変更
 
-残念ながら、Office 365 で、組織の SharePoint Online のドメイン名を変更することはできません。たとえば、「コーヒーハウス」への"Contoso"から、組織の名前が変更された場合は、fourthcoffee.sharepoint.com に contoso.sharepoint.com を変更できません。
+残念ながら、Office 365 で組織の SharePoint Online ドメイン名を変更することはできません。たとえば、組織の名前が「Contoso」から「Fourth Coffee」に変更された場合、contoso.sharepoint.com から fourthcoffee.sharepoint.com に変更することはできません。
   
 ドメイン名の fourthcoffee.sharepoint.com を使用するには、この新しい Office 365 サブスクリプションを購入し、すべての電子メール、ファイル、およびその他の新しいサブスクリプションを保持するデータを移動する必要があります。
   
