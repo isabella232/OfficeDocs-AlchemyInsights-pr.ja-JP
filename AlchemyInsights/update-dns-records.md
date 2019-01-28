@@ -1,5 +1,5 @@
 ---
-title: DNS レコードを更新します。
+title: DNS レコードを更新する
 ms.author: pebaum
 author: pebaum
 ms.date: 12/13/2018
@@ -16,21 +16,21 @@ search.appverid:
 ms.assetid: b6c579b1-7665-4705-8b40-691cc9d9f59a
 ms.openlocfilehash: 51f798a1e03bfe607368e6a40e11dd62cddcf1c7
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477067"
 ---
-# <a name="update-your-dns-records"></a>DNS レコードを更新します。
+# <a name="update-your-dns-records"></a>DNS レコードを更新する
 
-カスタム ドメインを Office 365 で作業を取得するのには、DNS レコードを更新する必要があります。詳細な説明を見つけるには、以下のリンクを使用します。
+Office 365 で動作するカスタム ドメインを入手するには、DNS レコードを更新する必要があります。以下のリンクを使用して、詳細な手順を確認します。
   
- **ヘルプ記事**(任意のドメインの登録機関) の 
+ **ヘルプ記事** (ドメイン レジストラーの場合) 
   
 - [任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
- **ビデオ ガイド**(GoDaddy.com でホストされているドメイン) の 
+ **ビデオ ガイド** (GoDaddy.com でホストされているドメインの場合) 
   
-- [ドメインおよびユーザーを設定します。](https://support.office.com/article/26524a2c-1d65-48ab-8927-ae0b27370c62)
+- [ドメインとユーザーをセットアップする](https://support.office.com/article/26524a2c-1d65-48ab-8927-ae0b27370c62)
     
 
