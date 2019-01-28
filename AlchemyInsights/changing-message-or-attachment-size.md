@@ -1,5 +1,5 @@
 ---
-title: メッセージまたは添付ファイルのサイズを変更します。
+title: メッセージまたは添付ファイルのサイズを変更する
 ms.author: pebaum
 author: pebaum
 ms.date: 6/8/2018
@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
 ms.openlocfilehash: e6527fff1ff5937f20ba15bd5e191b02bcd12715
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476692"
 ---
-# <a name="changing-message-or-attachment-size"></a>メッセージまたは添付ファイルのサイズを変更します。
+# <a name="changing-message-or-attachment-size"></a>メッセージまたは添付ファイルのサイズを変更する
 
-最大/最小のサイズのメッセージ (添付ファイルを含む) を変更する、Office 365 の管理者として、ユーザーが送信されます。これは、個々 のユーザーまたはすべてのユーザー (組織の既定値) を行うことができます。この設定を変更した後、有効にするのには約 30 分がかかります。
+Office 365 管理者は、ユーザーが送信するメッセージ (添付ファイルを含む) の最大サイズや最小サイズを変更できます。これは、個別のユーザーまたはすべてのユーザーに対して実施できます。この設定を変更してから反映されるまでに約 30 分かかります。
   
-- 特定のユーザーのメッセージのサイズを変更するには、**管理センター**に移動\> **Exchange** \> **受信者** \> **メールボックス**です。ユーザーのメールボックスを選択します。編集アイコンをクリックし、[**メッセージ サイズの制限**、**詳細の表示**を選択し、新しいメッセージの最大サイズを指定します。 
+- 特定のユーザーのメッセージ サイズを変更するには、**[管理センター]** \> **[Exchange]** \> **[受信者]** \> **[メールボックス]** に移動します。ユーザーのメールボックスを選択します。編集アイコンをクリックして、**[メッセージのサイズ制限]** にある **[詳細の表示]** を選択して、新しい最大メッセージ サイズを指定します。 
     
-- すべてのメールボックスに対してこの設定を変更する方法については、[この資料](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)を参照してください。
+- この変更をすべてのメールボックスに対して実施する場合は、[この記事](https://www.microsoft.com/ja-JP/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)を参照してください。
     
-- Outlook または web 上で Outlook を使用して最大の制限の詳細を表示、[この資料](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#MessageLimits)を参照してください。Outlook Mobile では、最大 25 MB の制限があります。Outlook iOS および Android のサポートでは、[ここをクリックして](https://support.office.com/en-us/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)を取得します。
+- Outlook または Outlook on the web を使用した最大値の制限については、[この記事](https://technet.microsoft.com/ja-JP/library/exchange-online-limits.aspx#MessageLimits)を参照してください。Outlook Mobile には、25MB の最大サイズ制限があります。Outlook iOS および Android のサポートについては、[ここをクリック](https://support.office.com/ja-JP/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)してください。
     
 

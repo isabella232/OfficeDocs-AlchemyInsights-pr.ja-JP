@@ -1,5 +1,5 @@
 ---
-title: メールボックスのサイズを大ききます。
+title: メールボックス サイズの拡大
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476578"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>プランを切り替えてメールボックスのサイズを増やす
+# <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 
-既にメールボックスのサイズが 100 GB の場合は、値を大きく方法はありません。その場合は、[このアドバイス](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)に従います。 
+メールボックスのサイズが既に 100 GB になっている場合は、そのサイズを拡大する方法はありません。その場合は、[このアドバイス](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)に従ってください。 
   
-メールボックスのサイズが 50 GB の場合は[Office 365 エンタープライズ E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software)または[Office 365 エンタープライズ E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software)に切り替えることで 100 GB に増やすことが。別の Office 365 のプランに切り替える手順を以下に示します。
+メールボックスのサイズが既に 100 GB である場合は、メールボックスのサイズを増やす方法はありません。メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/ja-JP/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/ja-JP/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の Office 365 プランに切り替える手順を次に示します。
   
-1. Office 365 管理センターで、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動または**請求先**を選択\>**のサブスクリプション**。
+1. Office 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** を選択します。
     
 2. [ **プランの切り替え**] を選択して、利用可能な新しいプランを一覧表示します。 
     
 3. プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ **次へ**] を選択して購入手続きへ進みます。 
     
-4. 購入手続きが完了すると、Office 365 の切り替えの最終処理に数分かかります。すぐに新しいサブスクリプションの使用を開始することができます。
+4. 購入手続の完了後、Office 365 による切り替えの最終処理に数分間かかります。新しいサブスクリプションは、すぐに使用開始できます。
     
-詳細については、「[別の Office 365 プランまたはサブスクリプションに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」をご覧ください。
+詳細については、「[別の Office 365 プランに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」を参照してください。
   
 

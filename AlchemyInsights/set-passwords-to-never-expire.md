@@ -1,5 +1,5 @@
 ---
-title: セットのパスワードを無期限にするには
+title: パスワードを無期限に設定する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
 ms.openlocfilehash: 3ee77c3c4f625a6c0e7e712dbed670383847f788
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476569"
 ---
-# <a name="set-passwords-to-never-expire"></a>セットのパスワードを無期限にするには
+# <a name="set-passwords-to-never-expire"></a>パスワードを無期限に設定する
 
-有効期限なしにパスワードを設定する[セキュリティ&amp;プライバシー](https://portal.office.com/adminportal/home#/settings/security)。パスワードのポリシーの横にある [編集] をクリックし、スライダーを有効にするのです。
+[[セキュリティとプライバシー]](https://portal.office.com/adminportal/home#/settings/security) に移動して、すべてのパスワードを無期限に設定します。[パスワード ポリシー] の隣にある [編集] をクリックし、スライダーを [オン] にします。
   
-詳細についてを参照してください:[組織のパスワードの有効期限ポリシーを設定](https://support.office.com/en-us/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f)します。
+詳細については、「[組織のパスワード有効期限ポリシーを設定する](https://support.office.com/ja-JP/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f)」を参照してください。
   
 

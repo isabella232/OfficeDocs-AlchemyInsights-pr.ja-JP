@@ -1,5 +1,5 @@
 ---
-title: 8000005 閉じる Outlookcom アカウント
+title: 8000005 Outlookcom アカウントを削除する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,23 +13,23 @@ ms.custom: Adm_O365
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
 ms.openlocfilehash: e36e35c39f10e88b022ab26ed88dfa26ba6c43dc
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476600"
 ---
-# <a name="close-your-outlookcom-email-account"></a>Outlook.com 電子メール アカウントを削除します。
+# <a name="close-your-outlookcom-email-account"></a>Outlook.com 電子メール アカウントを削除する
 
-1. [アカウントを削除する](https://go.microsoft.com/fwlink/p/?linkid=845493)ページに移動します。 
+1. [[アカウントを削除する]](https://go.microsoft.com/fwlink/p/?linkid=845493) ページに移動します。 
     
-2. 自分のアカウントを終了する準備ができていることを確認するのにはページの指示に従って] をクリック**します**。 
+2. ページの指示に従ってアカウントの削除準備が整っていることを確認し、**[次へ]** を選択します。 
     
-3. 一覧を読み取るし、各項目を読んだことを確認するボックスをオンにします。
+3. リストを確認して、各項目のボックスをオンにすることで項目を承認します。
     
-4. **理由を選択**」ドロップ ダウン リストで、アカウントを閉じようとしている理由を選択します。 
+4. **[理由を選ぶ]** ドロップダウン リストで、アカウントを削除する理由を選択します。 
     
-5. **クロージャのマークのアカウント**を選択します。 
+5. **[アカウントに削除のマークを付ける]** を選択します。 
     
-詳細については、 [Outlook.com アカウントを削除する](https://go.microsoft.com/fwlink/p/?linkid=873106)を参照してください[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx)。
+詳細については、「[Outlook.com アカウントの使用を停止する](https://go.microsoft.com/fwlink/p/?linkid=873106)[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx)」を参照してください。
   
 

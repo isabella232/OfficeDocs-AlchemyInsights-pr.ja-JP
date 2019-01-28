@@ -1,5 +1,5 @@
 ---
-title: 30068-39 のエラーのためのソリューション
+title: エラー 30068-39 の解決方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom: Adm_O365
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
 ms.openlocfilehash: 6792651dcccead6416ff882ca9b628ff10d09e63
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476586"
 ---
-# <a name="solutions-for-error-30068-39"></a>30068-39 のエラーのためのソリューション
+# <a name="solutions-for-error-30068-39"></a>エラー 30068-39 の解決方法
 
-[30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)のエラーを修正するのにはこれらのソリューションを試してください。
+エラー [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) の修正には、次の解決方法を試してみてください。
   
-- コンピューターを再起動し、 [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)してください。
+- コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
     
-- 場合**マイクロソフトのクイック実行**[サービスが無効になって](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)おり、それが使用できなくなり、状態を**手動**または**自動**に変更します。
+- **Microsoft クイック実行**[サービスが無効化されている](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)かどうかを確認します。無効化されている場合は、その状態を **[手動]** または **[自動]** に変更します。
     
-- ダウンロードし、インストール、[サポート、および回復時のアシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)。
+- [サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。
     
-1. 開いたとき、**アンインストールの Office 製品**のバージョンをアンインストールし、**次へ**を選択するを選択します。 
+1. 起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。 
     
-2. 画面を通じて継続しが表示されたらコンピューターを再起動します。
+2. 各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。
     
-    再起動後は、サポートと回復時のアシスタントが自動的に再開きますアンインストール プロセスを完了します。
+    再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。
     
-3. 以下の残りのプロンプト、および[Office を再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
+3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
     
 

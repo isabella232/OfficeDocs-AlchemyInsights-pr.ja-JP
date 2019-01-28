@@ -1,5 +1,5 @@
 ---
-title: Alchemy - Outlook クラッシュのトラブルシューティング手順
+title: Alchemy - Outlook のクラッシュをトラブルシューティングする手順
 ms.author: pdigia
 author: pdigia
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
 ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476735"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook クラッシュのトラブルシューティング手順
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlook のクラッシュをトラブルシューティングする手順
 
-Outlook のデスクトップのクラッシュの問題がある場合は場合、まず 3 以下の手順、この資料で詳細にリストされている:[と Outlook がクラッシュするか、Office 365 で使用する場合にハングアップする問題を解決する方法です](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)。
+Outlook デスクトップがクラッシュする問題が発生する場合は、まず、次の 3 つの手順を実行します。これらの手順の詳細は、「[Office 365 で Microsoft Outlook を使用した場合に Outlook がクラッシュする、または応答しない (ハングする) という問題をトラブルシューティングする方法](https://support.microsoft.com/ja-JP/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)」の記事に示されています。
   
-手順 1: アドインで考えられる問題を調査します。
+手順 1: アドインに関する潜在的な問題を調査します。
   
-ステップ 2: Outlook の修復と影響を受けるコンピューターに[Outlook の起動時のエラーのトラブルシューティングをサポートし、回復時のアシスタントのツール](https://aka.ms/SaRA-OutlookWontStart)を実行します。 
+手順 2: Outlook を修復し、影響を受けているマシンで[サポート/回復アシスタント ツールを実行して Outlook スタート アップのエラーをトラブルシューティング](https://aka.ms/SaRA-OutlookWontStart)します。 
   
-手順 3: 新しい Outlook プロファイルを作成するか、 [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile)を実行するには影響を受けるコンピューターにします。 
+手順 3: 新しい Outlook プロファイルを作成するか、影響を受けているマシンで [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile)を実行します。 
   
-更新後に問題が発生した、上記の手順が動作しない場合は、以前のビルドに戻す必要があります。[Office 2013 または 2016年クイック実行の Office の以前のバージョンに戻す方法](https://support.microsoft.com/EN-US/help/2770432)を参照してください。
+この問題がアップデート後に発生して、上記の手順がうまくいかない場合は、以前のビルドに戻すことが必要になる可能性があります。「[クイック実行 (C2R) 版の Office 2016 を以前のバージョンに戻す方法](https://support.microsoft.com/ja-JP/help/2770432)」を参照してください。
   
 

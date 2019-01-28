@@ -1,5 +1,5 @@
 ---
-title: 大量の迷惑メールの送信をブロックする送信者
+title: 大量のスパムの送信によってブロックされた送信者
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
 ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476610"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>大量の迷惑メールを送信するためにアカウントがブロックされています。
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>大量のスパムの送信によりアカウントがブロックされています
 
-送信元のアカウントが侵害される可能性があります。必要になります。
+送信元アカウントが侵害されている可能性があります。次の作業が必要になります。
   
-1. [アカウントが危険にさらされた場合を決定します](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。危険にさらされた場合の[危険にさらされた Office 365 の電子メール アカウントに対応する](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)手順に従います。
+1. [アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」の手順を実行します。
     
-2. セキュリティでは**[、アカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)** をするのには制限付きのユーザーに移動&amp;コンプライアンス センターです。終わったら、 *1 時間内で*は、[メッセージの送信を再開することができます。 
+2. セキュリティ/コンプライアンス センターの [制限されたユーザー] に移動して、**[アカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)** します。この操作を完了すると、*1 時間以内*にメッセージの送信を再開できるようになります。 
     
-3. 今後のアカウント侵害を防ぐため、「[Office 365 のセキュリティのベスト プラクティス](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)」の推奨事項を実行します。
+3. 今後のアカウント侵害を防止するために、「[Office 365 のセキュリティのベスト プラクティス](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)」の推奨事項に従ってください。
   
 
