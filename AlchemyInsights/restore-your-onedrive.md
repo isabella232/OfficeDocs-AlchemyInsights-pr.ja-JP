@@ -1,5 +1,5 @@
 ---
-title: OneDrive を復元します。
+title: OneDrive を復元する
 ms.author: matteva
 author: matteva
 manager: scotv
@@ -13,23 +13,23 @@ ms.custom: Adm_O365
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
 ms.openlocfilehash: 2eb2803f5f414302cf0bb8c88380746a3bca4bdf
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476575"
 ---
-# <a name="restore-your-onedrive"></a><span data-ttu-id="4fbef-102">OneDrive を復元します。</span><span class="sxs-lookup"><span data-stu-id="4fbef-102">Restore your OneDrive</span></span>
+# <a name="restore-your-onedrive"></a><span data-ttu-id="d8257-102">OneDrive を復元する</span><span class="sxs-lookup"><span data-stu-id="d8257-102">Restore your OneDrive</span></span>
 
-<span data-ttu-id="4fbef-103">場合は、OneDrive ファイルの多くを取得削除すると、overwritted、壊れているか、マルウェアに感染している、過去 30 日内の前の時間を全体の OneDrive を戻すことができます。</span><span class="sxs-lookup"><span data-stu-id="4fbef-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
+<span data-ttu-id="d8257-103">OneDrive の多数のファイルが削除、上書き、破損された場合やマルウェアに感染した場合は、OneDrive 全体を過去 30 日以内の以前の時点に復元できます。</span><span class="sxs-lookup"><span data-stu-id="d8257-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
   
-1. <span data-ttu-id="4fbef-104">Web ブラウザーで、OneDrive に移動します。</span><span class="sxs-lookup"><span data-stu-id="4fbef-104">Go to your OneDrive in your web browser.</span></span>
+1. <span data-ttu-id="d8257-104">Web ブラウザーで OneDrive に移動します。</span><span class="sxs-lookup"><span data-stu-id="d8257-104">Go to your OneDrive in your web browser.</span></span>
     
-2. <span data-ttu-id="4fbef-105">、右上の [設定] アイコンをクリックし **、OneDrive の復元**を選択します。</span><span class="sxs-lookup"><span data-stu-id="4fbef-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
+2. <span data-ttu-id="d8257-105">右上にある [設定] アイコンをクリックして、**[OneDrive を復元する]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="d8257-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
     
-3. <span data-ttu-id="4fbef-106">ボックスの一覧から日付を選択するか、**ユーザー設定の日付と時刻**を選択します。</span><span class="sxs-lookup"><span data-stu-id="4fbef-106">Select a date from the list, or choose **Custom date and time**.</span></span>
+3. <span data-ttu-id="d8257-106">リストから日付を選択するか、**[ユーザー設定の日付と時刻]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="d8257-106">Select a date from the list, or choose **Custom date and time**.</span></span>
     
-4. <span data-ttu-id="4fbef-107">**リストア**に選択した日付以降後のすべての活動を元に戻す] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="4fbef-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
+4. <span data-ttu-id="d8257-107">**[復元]** をクリックして、選択した日付より後のアクティビティをすべて元に戻します。</span><span class="sxs-lookup"><span data-stu-id="d8257-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
     
-[<span data-ttu-id="4fbef-108">ファイルの復元を使用する詳細なヘルプ</span><span class="sxs-lookup"><span data-stu-id="4fbef-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
+[<span data-ttu-id="d8257-108">ファイルの復元を使用するその他のヘルプ</span><span class="sxs-lookup"><span data-stu-id="d8257-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

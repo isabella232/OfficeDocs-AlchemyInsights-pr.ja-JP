@@ -1,5 +1,5 @@
 ---
-title: 既定値を追加することはできません 2010 の承認ワークフロー
+title: 既定の 2010 承認ワークフローを追加できない
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/3/2018
@@ -10,35 +10,35 @@ localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476605"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="b34ab-102">既定値を追加することはできません 2010 の承認ワークフロー</span><span class="sxs-lookup"><span data-stu-id="b34ab-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="253ef-102">既定の 2010 承認ワークフローを追加できない</span><span class="sxs-lookup"><span data-stu-id="253ef-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="b34ab-103">、Microsoft SharePoint サイト コレクション内 (「承認の SharePoint 2010」) などのグローバルに再利用可能なワークフローをリストまたはライブラリに追加できません。</span><span class="sxs-lookup"><span data-stu-id="b34ab-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="253ef-103">Microsoft SharePoint サイト コレクションにおいて、グローバルに再利用可能なワークフロー (“承認 - SharePoint 2010” など) をリストまたはライブラリに追加することができません。</span><span class="sxs-lookup"><span data-stu-id="253ef-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
   
-<span data-ttu-id="b34ab-104">この問題を解決するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-104">To resolve this issue, follow these steps:</span></span> 
+<span data-ttu-id="253ef-104">この問題を解決するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="253ef-104">To resolve this issue, follow these steps:</span></span> 
   
-1. <span data-ttu-id="b34ab-105">SharePoint Designer 2013 では、サイト コレクションのルート web サイトを開きます。</span><span class="sxs-lookup"><span data-stu-id="b34ab-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
+1. <span data-ttu-id="253ef-105">SharePoint Designer 2013 で、該当のサイト コレクションのルート Web サイトを開きます。</span><span class="sxs-lookup"><span data-stu-id="253ef-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
   
-2. <span data-ttu-id="b34ab-106">[**サイト オブジェクト**] の [**ワークフロー**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-106">Under **Site Objects**, select **Workflows**.</span></span> 
+2. <span data-ttu-id="253ef-106">**[サイト オブジェクト]** で、**[ワークフロー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="253ef-106">Under **Site Objects**, select **Workflows**.</span></span> 
   
-3. <span data-ttu-id="b34ab-107">[**ワークフロー** ] リボンの [**新規作成**] セクションでは、**再利用可能なワークフロー**を選択します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
+3. <span data-ttu-id="253ef-107">**[ワークフロー]** リボンの **[新規作成]** セクションで、**[再利用可能なワークフロー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="253ef-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
   
-4. <span data-ttu-id="b34ab-p101">**再利用可能なワークフローの作成**フォームで、名前を入力してください \* **Repair2010\*\*\*。**プラットフォームの種類\*\*には、 **SharePoint 2010 ワークフロー**を選択し、 **[ok]** を選択し、します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-p101">On the **Create Reusable Workflow** form, enter the name  \* **Repair2010**\* . For **Platform Type**, select **SharePoint 2010 Workflow**, and then select **OK**.</span></span> 
+4. <span data-ttu-id="253ef-p101">**[再利用可能なワークフローの作成]** フォームで、名前 ***Repair2010*** を入力します。**[プラットフォームの種類]** に、**[SharePoint 2010 ワークフロー]** を選択して **[OK]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="253ef-p101">On the **Create Reusable Workflow** form, enter the name  \* **Repair2010**\* . For **Platform Type**, select **SharePoint 2010 Workflow**, and then select **OK**.</span></span> 
   
-5. <span data-ttu-id="b34ab-110">[**ワークフロー** ] リボンの [**保存**] セクションでは、**発行**を選択します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
+5. <span data-ttu-id="253ef-110">**[ワークフロー]** リボンの **[保存]** セクションで、**[発行]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="253ef-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
   
-6. <span data-ttu-id="b34ab-p102">[**ワークフロー** ] リボンの [**管理**] セクションで、**グローバルに公開**を選択します。表示される [確認] ダイアログ ボックスで **[ok]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b34ab-p102">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**. In the confirmation dialog box that appears, select **OK**.</span></span> 
+6. <span data-ttu-id="253ef-p102">**[ワークフロー]** リボンの **[管理]** セクションで、**[グローバルに発行]** を選択します。表示される確認ダイアログ ボックスで **[OK]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="253ef-p102">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**. In the confirmation dialog box that appears, select **OK**.</span></span> 
   
-7. <span data-ttu-id="b34ab-p103">Web ブラウザーで、サイト コレクションのルート web サイトを検索し、**サイトの設定**にアクセスし、 \> **サイト コレクションの機能**です。次に、**ワークフロー**機能を切り替えます。</span><span class="sxs-lookup"><span data-stu-id="b34ab-p103">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**. Then, toggle the **Workflows** feature:</span></span> 
+7. <span data-ttu-id="253ef-p103">Web ブラウザーで、サイト コレクションのルート Web サイトを見つけて、**[サイトの設定]** \> **[サイト コレクションの機能]** の順にアクセスします。次に、**ワークフロー**機能を切り替えます。</span><span class="sxs-lookup"><span data-stu-id="253ef-p103">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**. Then, toggle the **Workflows** feature:</span></span> 
   
-<span data-ttu-id="b34ab-115">·フィーチャーが*アクティブ化*の場合は、**非アクティブ化**をクリックし**をアクティブにする**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b34ab-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
+<span data-ttu-id="253ef-115">本機能が*アクティブ化*されている場合は、**[非アクティブ化]** をクリックしてから、**[アクティブ化]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="253ef-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
   
-<span data-ttu-id="b34ab-116">·*Deactivated*の機能が表示された場合は、**アクティブ化**をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b34ab-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
+<span data-ttu-id="253ef-116">本機能が*非アクティブ化*されている場合は、**[アクティブ化]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="253ef-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
   
-<span data-ttu-id="b34ab-117">詳細については、次の[資料](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b34ab-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
+<span data-ttu-id="253ef-117">詳細については、次の[記事](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="253ef-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
   
 

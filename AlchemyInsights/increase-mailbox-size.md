@@ -1,5 +1,5 @@
 ---
-title: メールボックスのサイズを大ききます。
+title: メールボックス サイズの拡大
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476578"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="312e3-102">プランを切り替えてメールボックスのサイズを増やす</span><span class="sxs-lookup"><span data-stu-id="312e3-102">Switch plans to increase mailbox size</span></span>
+# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="0ef3c-102">メールボックス サイズを拡大するためにプランを切り替える</span><span class="sxs-lookup"><span data-stu-id="0ef3c-102">Switch plans to increase mailbox size</span></span>
 
-<span data-ttu-id="312e3-p101">既にメールボックスのサイズが 100 GB の場合は、値を大きく方法はありません。その場合は、[このアドバイス](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)に従います。</span><span class="sxs-lookup"><span data-stu-id="312e3-p101">If the mailbox size is already 100 GB, there's no way to increase it. In that case, follow [this advice](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).</span></span> 
+<span data-ttu-id="0ef3c-p101">メールボックスのサイズが既に 100 GB になっている場合は、そのサイズを拡大する方法はありません。その場合は、[このアドバイス](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)に従ってください。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-p101">If the mailbox size is already 100 GB, there's no way to increase it. In that case, follow [this advice](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).</span></span> 
   
-<span data-ttu-id="312e3-p102">メールボックスのサイズが 50 GB の場合は[Office 365 エンタープライズ E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software)または[Office 365 エンタープライズ E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software)に切り替えることで 100 GB に増やすことが。別の Office 365 のプランに切り替える手順を以下に示します。</span><span class="sxs-lookup"><span data-stu-id="312e3-p102">If the mailbox size is 50 GB, you can increase it to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Here are the steps to switch to a different Office 365 plan:</span></span>
+<span data-ttu-id="0ef3c-p102">メールボックスのサイズが既に 100 GB である場合は、メールボックスのサイズを増やす方法はありません。メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/ja-JP/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/ja-JP/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の Office 365 プランに切り替える手順を次に示します。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-p102">If the mailbox size is 50 GB, you can increase it to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/ja-JP/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/ja-JP/business/office-365-enterprise-e5-business-software). Here are the steps to switch to a different Office 365 plan:</span></span>
   
-1. <span data-ttu-id="312e3-107">Office 365 管理センターで、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動または**請求先**を選択\>**のサブスクリプション**。</span><span class="sxs-lookup"><span data-stu-id="312e3-107">In the Office 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="0ef3c-107">Office 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-107">In the Office 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="312e3-108">[ **プランの切り替え**] を選択して、利用可能な新しいプランを一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="312e3-108">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
+2. <span data-ttu-id="0ef3c-108">[ **プランの切り替え**] を選択して、利用可能な新しいプランを一覧表示します。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-108">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
     
-3. <span data-ttu-id="312e3-p103">プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ **次へ**] を選択して購入手続きへ進みます。</span><span class="sxs-lookup"><span data-stu-id="312e3-p103">Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
+3. <span data-ttu-id="0ef3c-p103">プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ **次へ**] を選択して購入手続きへ進みます。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-p103">Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
     
-4. <span data-ttu-id="312e3-p104">購入手続きが完了すると、Office 365 の切り替えの最終処理に数分かかります。すぐに新しいサブスクリプションの使用を開始することができます。</span><span class="sxs-lookup"><span data-stu-id="312e3-p104">When you finish checkout, Office 365 takes a few minutes to finalize the switch. You can start using your new subscription right away.</span></span>
+4. <span data-ttu-id="0ef3c-p104">購入手続の完了後、Office 365 による切り替えの最終処理に数分間かかります。新しいサブスクリプションは、すぐに使用開始できます。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-p104">When you finish checkout, Office 365 takes a few minutes to finalize the switch. You can start using your new subscription right away.</span></span>
     
-<span data-ttu-id="312e3-113">詳細については、「[別の Office 365 プランまたはサブスクリプションに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="312e3-113">For more details, see [Switch to a different Office 365 plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span></span>
+<span data-ttu-id="0ef3c-113">詳細については、「[別の Office 365 プランに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0ef3c-113">For more details, see [Switch to a different Office 365 plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Alchemy インサイト ホーム
+title: Alchemy Insights ホーム
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,7 +12,7 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.openlocfilehash: c41104c5d386fa4054467767d80dd946eecf15bb
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476633"
