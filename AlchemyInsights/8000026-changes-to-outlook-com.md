@@ -1,5 +1,5 @@
 ---
-title: Outlook.com に 8000026 の変更
+title: 8000026 Outlook.com の変更
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Critical
 ms.assetid: 77216e51-08d8-4f75-8c8c-e91e14eed75d
 ms.openlocfilehash: 2f9863d84483e6d9b4985548ad6e5a4558afa057
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498379"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="9de85-102">新しい Outlook.com についてください。</span><span class="sxs-lookup"><span data-stu-id="9de85-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="3532a-102">新しい Outlook.com に関する詳細</span><span class="sxs-lookup"><span data-stu-id="3532a-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="9de85-103">新しい Outlook.com または下のボックスに検索の変更について[の詳細を表示](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409)します。</span><span class="sxs-lookup"><span data-stu-id="9de85-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="3532a-103">新しい Outlook.com で変更に関する[詳細](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409)を確認するか、以下のボックスで検索してください。</span><span class="sxs-lookup"><span data-stu-id="3532a-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="9de85-104">結果を表示するスクロールします。</span><span class="sxs-lookup"><span data-stu-id="9de85-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="3532a-104">結果を表示するには、下にスクロールします。</span><span class="sxs-lookup"><span data-stu-id="3532a-104">Scroll down to see the results.</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Office クライアントの Excel
+title: Office クライアント - Excel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,38 +9,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e22c3f6c-0582-47d5-a9da-ec6690af0e0e
-description: 非常に短い説明 (1 文) で、あなたの記事を開始します。読者の立場に自分自身にそれらをここではなぜですか。どのようなことを教えてください。
+description: 記事は短い前書き (1 文) から始めます。読者の立場に立ち、読者がこの記事を読む目的や、何を必要としているかを考慮します。
 ms.openlocfilehash: fe775bb821ae84058806d45cd76a42bb99f96f92
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29500395"
 ---
-<span data-ttu-id="fac90-p102">非常に短い説明 (1 文) で、あなたの記事を開始します。読者の立場に自分自身にそれらをここではなぜですか。どのようなことを教えてください。</span><span class="sxs-lookup"><span data-stu-id="fac90-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
+<span data-ttu-id="a18aa-p102">記事は短い前書き (1 文) から始めます。読者の立場に立ち、読者がこの記事を読む目的や、何を必要としているかを考慮します。</span><span class="sxs-lookup"><span data-stu-id="a18aa-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
   
-1. <span data-ttu-id="fac90-108">タスクを実行する手順のリストを簡単に直線を取得します。</span><span class="sxs-lookup"><span data-stu-id="fac90-108">Get straight to a quick list of steps to accomplish the task.</span></span>
+1. <span data-ttu-id="a18aa-108">前置きなしで、タスクを完了するための簡単な手順のリストを記載します。</span><span class="sxs-lookup"><span data-stu-id="a18aa-108">Get straight to a quick list of steps to accomplish the task.</span></span>
     
-    <span data-ttu-id="fac90-109">、概念を説明する必要があります、事前に必要な手順を実行する、または場合は、以下の手順を、必要な概念や手順への[リンク](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx)と、簡単な概要を追加します。</span><span class="sxs-lookup"><span data-stu-id="fac90-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
+    <span data-ttu-id="a18aa-109">概念を説明する必要がある場合や、前提条件の手順を実行する必要がある場合は、簡単な概要を手順の下の必要な場所に追加し、概念や手順への[リンク](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx)を張ります。</span><span class="sxs-lookup"><span data-stu-id="a18aa-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
     
-2. <span data-ttu-id="fac90-110">プロシージャできれば 5 つ以下の手順、以上 8 に簡単にしてください。</span><span class="sxs-lookup"><span data-stu-id="fac90-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
+2. <span data-ttu-id="a18aa-110">手順は簡潔にします。可能であれば 5 つ以下にまとめ、8 つ以上にはしません。</span><span class="sxs-lookup"><span data-stu-id="a18aa-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
     
-3. <span data-ttu-id="fac90-111">入力するユーザー インターフェイス要素やテキストに必要な**Ui のスタイル**を使用します。</span><span class="sxs-lookup"><span data-stu-id="fac90-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
+3. <span data-ttu-id="a18aa-111">ユーザー インターフェイス要素や、ユーザーが入力する必要のあるテキストには、**UI スタイル**を使用します。</span><span class="sxs-lookup"><span data-stu-id="a18aa-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
     
-4. <span data-ttu-id="fac90-112">動詞」を選択、またはアクションを入力し、**メニュー**とメニューの書式設定を使用して\>**コマンド**です。</span><span class="sxs-lookup"><span data-stu-id="fac90-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
+4. <span data-ttu-id="a18aa-112">操作を示す動詞には「選択する」や「入力する」を使用し、メニューについては **[メニュー]** \> **[コマンド]** の形式を使用します。</span><span class="sxs-lookup"><span data-stu-id="a18aa-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
     
-5. <span data-ttu-id="fac90-113">オプションでは、(UI では、ハードを見つけるには、またはタスクを完了する必要がある) 場合は、コンテキストのスクリーン ショットを追加します。</span><span class="sxs-lookup"><span data-stu-id="fac90-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
+5. <span data-ttu-id="a18aa-113">必要に応じて、コンテキストのスクリーンショットを追加します (UI が見つけにくい場合や、タスクの完了に必要な場合)。</span><span class="sxs-lookup"><span data-stu-id="a18aa-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
     
-    <span data-ttu-id="fac90-p103">最大の幅: 520 ピクセルです。標準のテーマを使用して、表示しない個人情報、しは関連のみを表示するのにはトリミング。</span><span class="sxs-lookup"><span data-stu-id="fac90-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
+    <span data-ttu-id="a18aa-p103">最大幅は 520 ピクセルです。標準のテーマを使用し、個人情報を表示してはいけません。関連する情報のみが表示されるようにトリミングします。</span><span class="sxs-lookup"><span data-stu-id="a18aa-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
     
-    ![SOC 資料アートの最大の幅のプレース ホルダーは、520 ピクセルです。](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
+    ![プレース ホルダー - SOC 記事のアートの最大幅は 520 ピクセル](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
   
-<span data-ttu-id="fac90-117">2 列のグリッドを使用して、左とビデオの手順を実行またはスクリーン ショットの右側にあるビデオやスクリーン ショットを追加する場合は、[手順を実行しビデオのグリッドの例](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fac90-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
+<span data-ttu-id="a18aa-117">ビデオやスクリーンショットを追加する場合は 2 段組みグリッドを使用して、左に手順、右にビデオやスクリーンショットを表示します。「[手順およびビデオのグリッドの例](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a18aa-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
   
-<span data-ttu-id="fac90-118">記事には、500 の単語を対象とします。</span><span class="sxs-lookup"><span data-stu-id="fac90-118">Target no more than 500 words for an article.</span></span>
+<span data-ttu-id="a18aa-118">1 つの記事は 500 語以下でまとめることを目標にします。</span><span class="sxs-lookup"><span data-stu-id="a18aa-118">Target no more than 500 words for an article.</span></span>
   
-# <a name="example-article"></a><span data-ttu-id="fac90-119">資料の例</span><span class="sxs-lookup"><span data-stu-id="fac90-119">Example article</span></span>
+# <a name="example-article"></a><span data-ttu-id="a18aa-119">記事の例</span><span class="sxs-lookup"><span data-stu-id="a18aa-119">Example article</span></span>
 
-[<span data-ttu-id="fac90-120">写真を変更します。</span><span class="sxs-lookup"><span data-stu-id="fac90-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+[<span data-ttu-id="a18aa-120">自分の写真を変更する</span><span class="sxs-lookup"><span data-stu-id="a18aa-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
   
 
