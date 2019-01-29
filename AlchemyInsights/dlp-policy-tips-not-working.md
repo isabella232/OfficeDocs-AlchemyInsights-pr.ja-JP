@@ -1,5 +1,5 @@
 ---
-title: DLP ポリシーのヒントが動作していません。
+title: DLP ポリシーのヒントが機能しない
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476622"
 ---
-**DLP ポリシー**を使用する場合は、**ポリシーのヒント**でポリシー違反が発生のユーザーを通知することができます。管理者は、DLP ポリシーのテスト中に、または完全強制モードでは、ポリシーを表示するポリシー ヒントを構成できます。 
+**DLP ポリシー**を使用していると、**ポリシー ヒント**に対するポリシー違反をユーザーに通知できます。管理者は、DLP ポリシーのテスト中や、ポリシーが完全強制モードの場合にポリシー ヒントを表示するよう構成できます。 
   
-ポリシーを構成するのには完全強制モードでのセキュリティとコンプライアンスの中心で DLP ポリシーに関するヒント、次の操作を行います。
+完全強制モードで DLP ポリシーに関するポリシー ヒントをセキュリティ/コンプライアンス センターで構成するには、次のようにします。
   
-- ポリシーのヒントは、手順を使用して、DLP ルールで**有効になっている**がされていることを確認して[ここで](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)。
+- DLP ルールでポリシー ヒントを**有効**にします。そのためには、[こちら](https://docs.microsoft.com/ja-JP/office365/securitycompliance/use-notifications-and-policy-tips)の手順を実行します。
     
-- 確認の**内容と一致する**何が**必要な**この資料に記載されているルールをトリガーするのには[ここ](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)です。
+- **コンテンツが、[こちら](https://docs.microsoft.com/ja-JP/office365/securitycompliance/what-the-sensitive-information-types-look-for)の記事に略述されているルールをトリガーする**ために**必要な**点を満たしていることを確認します。
     
-- ポリシーのヒントは、OWA と Outlook の両方で表示します。ただし、 **Outlook 2013 以降**を使用して、ポリシー ヒントがだけ表示され、特定の条件下で。これらの条件がここに記載されている:[ポリシーのヒントを表示するためには、後で Outlook 2013 でサポートされている条件](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- ポリシー ヒントは OWA と Outlook の両方に表示されますが、**Outlook 2013 以降**を使用する場合、ポリシー ヒントが表示されるのは特定の条件下に限定されます。該当する条件については、次の資料に記されています: [ポリシー ヒントを表示するために Outlook 2013 以降でサポートされている条件](https://docs.microsoft.com/ja-JP/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-DLP ポリシーのヒントの詳細についてを参照してください: [DLP ポリシーのポリシーのヒントを表示します。](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
+DLP ポリシー ヒントについての追加情報については、以下をご覧ください: [DLP ポリシーのポリシー ヒントを表示する](https://docs.microsoft.com/ja-JP/office365/securitycompliance/use-notifications-and-policy-tips)
   
 

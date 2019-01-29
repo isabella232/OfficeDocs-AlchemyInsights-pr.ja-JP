@@ -1,5 +1,5 @@
 ---
-title: PowerApps でアプリケーションを作成します。
+title: PowerApps でアプリを作成する
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -10,21 +10,21 @@ localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476581"
 ---
-# <a name="create-apps-with-powerapps"></a>PowerApps を使用してアプリケーションを作成します。
+# <a name="create-apps-with-powerapps"></a>PowerApps でアプリを作成する
 
-PowerApps は、ビジネス アプリケーションの開発プラットフォームです。3 つの主要なコンポーネントがあります。 
+PowerApps は、ビジネス アプリ向けの開発プラットフォームです。次の 3 つの主要コンポーネントが含まれています: 
   
-- [アプリのキャンバス](https://go.microsoft.com/fwlink/?linkid=874495)ユーザー エクスペリエンスは、空白のキャンバスのパワーを備えた高度なカスタマイズされたインターフェイスを作成し、200 のデータ ソースの選択に接続することで開始します。Web、モバイル、およびタブレット アプリケーションのキャンバスのアプリケーションを構築できます。 
+- [キャンバス アプリ](https://go.microsoft.com/fwlink/?linkid=874495)。空白のキャンバスを 200 のデータ ソースから希望するソースを選択して結び付けることにより、独自のユーザー エクスペリエンスと、高度にカスタマイズされたインターフェイスの作成を開始できます。Web、モバイル、タブレット用のアプリケーション向けキャンバス アプリを構築できます。 
     
-- コア ビジネス データとプロセスの一般的なデータ サービスの形状からモデルのフォーム、ビュー、およびその他のコンポーネントを構築、データ モデルと[モデル駆動型アプリケーション](https://go.microsoft.com/fwlink/?linkid=874496)の開始。モデル駆動型アプリケーションは、デバイス間で応答性のある優れた UI を自動的に生成します。 
+- [モデル駆動型アプリ](https://go.microsoft.com/fwlink/?linkid=874496)。主要なビジネス データの全体像に基づいてデータ モデルを最初に作成し、Common Data Service で処理することにより、フォームやビューなど他のコンポーネントをモデル化できます。モデル駆動型アプリは、さまざまなデバイスで応答可能な優れた UI を自動的に生成します。 
     
-- [共通のデータ サービス](https://go.microsoft.com/fwlink/?linkid=874497)は、PowerApps が付属していますしを使用すると、ビジネス データのモデルを格納およびデータ プラットフォームです。それは、Dynamics 365 アプリケーションを構築するプラットフォームです。Dynamics 顧客の場合、一般的なデータ サービスで、データが既にです。 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497)。PowerApps に基づくデータ プラットフォームで、ビジネス データを格納し、モデル化できます。Dynamics 365 アプリケーションを構築する際に基盤となっているプラットフォームです。Dynamics ユーザーの場合、データは Common Data Service に既に格納されています。 
     
-[PowerApps についての詳細情報](https://go.microsoft.com/fwlink/?linkid=874498)
+[PowerApps の詳細情報](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

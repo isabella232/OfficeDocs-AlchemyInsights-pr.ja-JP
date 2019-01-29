@@ -1,5 +1,5 @@
 ---
-title: グループを SharePoint サイトに追加します。
+title: SharePoint サイトにグループを追加する
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,37 +13,37 @@ ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: d7a63edc7d5fb51b5d92549d96b62854dbee2031
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476646"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>グループを SharePoint サイトに追加します。
+# <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint サイトにグループを追加する
 
-(マイクロソフトのチームで作成されたものも含む)、一部の SharePoint チーム サイトは、Office 365 のグループの所有者によって管理されます。Office 365 のグループ、および SharePoint グループと、SharePoint サイトとコンテンツを共有もできます。SharePoint グループは、すべてが同じサイトおよびコンテンツへのアクセス許可のセットを持っているユーザーの集まりです。クラシックのサイトを簡単に割り当てるアクセス許可の 1 人ではなく、一度に多くの人に同時に同じアクセス許可レベルを割り当てるには、グループを使用することをお勧めします。
+一部の SharePoint チーム サイト (Microsoft Teams で作成されたサイトも含む) は Office 365 グループ所有者によって管理されます。また SharePoint サイトとコンテンツは、Office 365 グループおよび SharePoint グループと共有できます。SharePoint グループは、サイトとコンテンツに対して同じ一連のアクセス許可を持つユーザーのコレクションです。クラシック サイトの場合、一度に 1 人ずつアクセス許可を割り当てるのではなく、グループを使用して多数のユーザーに同じレベルのアクセス許可を適宜割り当てることをお勧めします。
   
-Office 365 のグループのメンバーを管理します。
+Office 365 グループのメンバーを次のように管理します:
   
-1. [Office 365 の管理センターでのグループのページ](https://portal.office.com/adminportal/home#/groups)に移動します。
+1. [Office 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。
     
-2. 所有者およびメンバーを表示するグループを選択します。を追加またはユーザーを削除するには、**所有者**または**メンバー**行の [**編集**] リンクをクリックします。 
+2. 所有者とメンバーを確認するグループを選択します。メンバーを追加または削除する場合、**[所有者]** 行または **[メンバー]** 行の **[編集]** リンクをクリックします。 
     
-コミュニケーション サイトを Office 365 グループに共有します。
+次のように Office 365 グループとコミュニケーション サイトを共有します:
   
-1. ブラウザーでサイトに移動し、右上の**サイトの共有**] をクリックします。 
+1. ブラウザーで対象サイトに移動し、右上にある **[サイトの共有]** をクリックします。 
     
-2. グループの名前を入力し、アクセス許可のレベル (読み取り、編集、またはフル コントロール) を選択し、します。
+2. グループ名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。
     
-クラシックのサイトで使用する SharePoint グループを作成します。
+次のようにクラシック サイトで使用する SharePoint グループを作成します:
   
-1. ブラウザーでサイトに移動し、右上の [設定] アイコンをクリックします。
+1. ブラウザーで対象サイトに移動し、右上にある [設定] アイコンをクリックします。
     
-2. **サイトの設定**] をクリックし、[**ユーザーと権限**、**サイトのアクセス許可**] をクリックします。
+2. **[サイトの設定]** をクリックし、**[ユーザーと権限]** で **[サイトの権限]** をクリックします。
     
-3. [アクセス許可] タブで、**グループの作成**をクリックします。
+3. [アクセス許可] タブで、**[グループの作成]** をクリックします。
     
-[クラシック チーム サイトを新しい Office 365 グループに接続します。](https://go.microsoft.com/fwlink/?linkid=2008654)
+[従来のチーム サイトを新しい Office 365 グループに接続する](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[SharePoint グループの操作の詳細については](https://go.microsoft.com/fwlink/?linkid=874658)
+[SharePoint グループ操作の詳細情報](https://go.microsoft.com/fwlink/?linkid=874658)
   
 
