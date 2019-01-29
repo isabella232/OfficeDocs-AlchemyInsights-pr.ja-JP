@@ -13,17 +13,17 @@ ms.custom: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.openlocfilehash: 4a331294bffb04ab54684ad256d172d45e27cf22
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498235"
 ---
 # <a name="billing-cycle-credit-card"></a>請求サイクル クレジット カード
 
-マイクロソフトから直接ビジネスのサブスクリプションに、Office 365 を購入するときは、クレジット_カードやデビット カードで支払うことができます。いくつかの国や地域では、銀行口座に支払うことができるも。
+一般法人向け Office 365 のサブスクリプションを Microsoft から直接購入する場合、クレジット カードまたはデビット カードで支払うことができます。一部の国や地域では、銀行口座を使って支払うこともできます。
   
-お支払方法としてクレジット カードを使用する場合は、管理およびトラブルシューティングの[追加、更新、または、クレジット カードまたはビジネスのための Office 365 の銀行口座を削除](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI)する方法を学びます。
+支払い方法としてクレジット カードを使用する場合、管理とトラブルシューティングを行う方法については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI)」を参照してください。
   
-これには、クレジット カードが拒否されたときに問題を解決して、カードが受け入れられるように、クレジット カード情報を変更することが含まれます。
+ここには、クレジット カードが拒否されたときに問題を解決し、カードが承諾されるようにクレジット カードを変更する方法が含まれています。
   
 

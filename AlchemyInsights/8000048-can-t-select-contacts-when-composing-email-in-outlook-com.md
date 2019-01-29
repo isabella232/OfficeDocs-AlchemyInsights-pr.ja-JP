@@ -1,5 +1,5 @@
 ---
-title: 8000048 Outlook.com に電子メールを作成するときの連絡先を選択することはできません。
+title: 8000048 Outlook.com でメールを作成する場合に連絡先を選択できない
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
 ms.openlocfilehash: 6aa5b1995010447a1d256bf1e8a2c080b29f4f33
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498667"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>電子メールを作成するときの連絡先を選択することはできません。
+# <a name="cant-select-contacts-when-composing-email"></a>メールを作成する場合に連絡先を選択できない
 
-ときに新しい電子メールを作成して**する**か、 **[cc]** ボタンをクリックすると、お客様も見ることができない連絡先の一覧です。名を選択するに**する**または **[cc]** フィールドに文字列を入力し、関連する連絡先が表示されます。 
+新しいメールを作成するときに、[**宛先**] または [**CC**] ボタンをクリックする場合、一部のお客様は自分の連絡先のリストを表示できない可能性があります。名前を選択するには、[**宛先**] または [**CC**] フィールドで入力を始めると、関連する連絡先が表示されます。 
   
 

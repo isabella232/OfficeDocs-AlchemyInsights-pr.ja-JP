@@ -1,5 +1,5 @@
 ---
-title: 711 の配布リストまたはグループを作成します。
+title: 711 配布リストまたは配布グループの作成
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
 ms.openlocfilehash: 931f8a4cd52f6fd18332fdb6a8de6a4c9c399461
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498847"
 ---
 # <a name="create-distribution-groups"></a>配布グループの作成
 
-(配布リストとも呼ばれます)、配布グループを使用するには、組織内外のユーザーとグループに電子メール メッセージを配信します。それらを作成するは簡単です。手順については、 [Office 365 の管理センターで作成する配布リストを使用する](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400)を参照してください。
+配布グループ (配布リストとも呼ばれる) を使用して、組織内および組織外のユーザーのグループにメール メッセージを配信します。これを作成するのは簡単です。手順については、「[Office 365 管理センターで配布リストを作成する](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400)」を参照してください。
   
- **注**: 管理者は、配布グループのメンバーシップを管理する必要があります。ユーザーの場合は、一覧を独自のグループ メンバーシップを管理する、代わりに[Office 365 のグループ](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)を考慮することができます。 
+ **注**: 管理者は配布グループのメンバーシップを管理する必要があります。ユーザーが独自のグループ メンバーシップを管理する必要がある場合は、代わりに [Office 365 グループ](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)を検討することをお勧めします。 
   
 

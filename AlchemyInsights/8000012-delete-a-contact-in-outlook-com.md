@@ -1,5 +1,5 @@
 ---
-title: 8000012 は、Outlook.com で連絡先を削除します。
+title: 8000012 Outlook.com で連絡先を削除する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
 ms.openlocfilehash: a5f5a31e946e4f916dc926ede32dbdafae2d0196
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498811"
 ---
-# <a name="delete-a-contact"></a>連絡先を削除します。
+# <a name="delete-a-contact"></a>連絡先を削除する
 
-1. アプリケーション起動ツールを選択して、ページの上部には、 ![、アプリケーションの起動ツール ボタン。](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png)し、**ユーザー**を選択します。 
+1. ページの上部で、アプリ起動ツール ![アプリ起動ツール ボタン](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png)を選択して [**ユーザー**] を選択します。 
     
-2. 削除し、[**削除**] を選択する連絡先を選択して![を削除](media/deb47846-8483-4f9d-813a-fc8fe288b583.png)。
+2. 削除する連絡先を選択して、[**削除**]![削除](media/deb47846-8483-4f9d-813a-fc8fe288b583.png) を選択します。
     
-    **削除**を選択することはできない場合、Skype または接続されているソーシャル ネットワークのアカウントから連絡先を引き起こすことがあります。連絡先を削除するには、連絡先が保存されている Skype またはアカウントに移動します。
+    [**削除**] を選択できない場合は、連絡先は Skype または接続しているソーシャル ネットワークのアカウントのものである可能性があります。連絡先を削除するには、Skype または連絡先が配置されているアカウントに移動します。
     
-3. **削除**を確認するを選択します。 
+3. [**削除**] を選択して確認します。 
     
 

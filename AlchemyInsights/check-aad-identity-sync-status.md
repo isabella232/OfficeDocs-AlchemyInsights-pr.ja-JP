@@ -1,5 +1,5 @@
 ---
-title: AAD の Id の同期の状態を確認します。
+title: AAD ID 同期状態を確認する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 1b74656713f4521b083490b585941aeba3abc89c
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498451"
 ---
-# <a name="check-aad-identity-sync-status"></a>AAD の Id の同期の状態を確認します。
+# <a name="check-aad-identity-sync-status"></a>AAD ID 同期状態を確認する
 
-同期ステータスのチェックは簡単です。 
+同期状態を確認するのは簡単です。 
   
-- Office 365 の管理センターにサインインして、* * ディレクトリ同期のステータス * * ホーム ページにします。 
+- Office 365 管理センターにサインインして、ホーム ページで **[DirSync の状態]** を選択します。 
     
-- 代わりに、ユーザーに情報を移動することができます\>アクティブなユーザーは、[アクティブ ユーザ] ページで詳細を選択し、\>ディレクトリ同期します。
+- または、[ユーザー] \>、[アクティブなユーザー] の順に移動し、[アクティブなユーザー] ページで [その他] \>、[ディレクトリ同期] の順に選択することができます。
     
-- ディレクトリ同期] ウィンドウで、[ディレクトリ同期の管理に移動」を選択します。 
+- [ディレクトリ同期] ウィンドウで、[DirSync の管理に移動] を選択します。 
     
-ディレクトリ同期によって、問題がある、このページでエラーが表示されます。さまざまなエラーが発生する可能性の詳細については、 [Office 365 のディレクトリ同期エラーを識別する](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)を参照してください。
+ディレクトリの同期で問題がある場合は、このページにエラーが一覧表示されます。発生する可能性があるさまざまなエラーの詳細については、[Office 365 のディレクトリ同期エラーの識別](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)に関するページを参照してください。
   
 

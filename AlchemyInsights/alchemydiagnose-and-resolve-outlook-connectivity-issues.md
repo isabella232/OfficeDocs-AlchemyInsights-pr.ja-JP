@@ -1,5 +1,5 @@
 ---
-title: Alchemy を診断し、Outlook の接続の問題を解決するには
+title: Alchemy - Outlook の接続に関する問題を診断して解決する
 ms.author: pdigia
 author: pdigia
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
 ms.openlocfilehash: 0668c269841f6f6237023d11bc70186e4d2fab50
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498631"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>診断し、Outlook の接続の問題を解決するには
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Outlook の接続に関する問題を診断して解決する
 
-診断して、Outlook の接続の問題を解決するために影響を受けるコンピューター上の[Outlook の接続ツール](https://aka.ms/SaRA-OutlookDisconnect)を実行できます。 
+Outlook の接続に関する問題を診断して解決するには、影響を受けたコンピューター上で [Outlook 接続ツール](https://aka.ms/SaRA-OutlookDisconnect)を実行します。 
   
-このツールでは、診断チェックを実行し、Outlook の接続の問題に対処する解決策を提案します。
+このツールでは診断チェックが実行され、Outlook の接続に関する問題にユーザーが対処するために考えられる解決策が提案されます。
   
 
