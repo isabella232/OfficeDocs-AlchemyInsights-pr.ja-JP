@@ -1,5 +1,5 @@
 ---
-title: Outlook.com の 8000049 の状態を常に表示可能として
+title: 8000049 Outlook.com の状態が常に "連絡可能" と表示される
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
 ms.openlocfilehash: f06c6af06be38489489e41585da3e2e3d29dfacc
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29497767"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a><span data-ttu-id="77621-102">Outlook.com 状態を常に使用可能として表示します。</span><span class="sxs-lookup"><span data-stu-id="77621-102">My Outlook.com status always shows as Available</span></span>
+# <a name="my-outlookcom-status-always-shows-as-available"></a><span data-ttu-id="44b3a-102">Outlook.com の状態が常に "連絡可能" と表示される</span><span class="sxs-lookup"><span data-stu-id="44b3a-102">8000049 Outlook.com status always shows as Available</span></span>
 
-<span data-ttu-id="77621-p101">自分のアカウントの状態は、アカウントの画像の横に表示し、Outlook.com では、および、Skype の連絡先がないかどうかはチャットしたり、Skype の呼び出しを利用可能です。Outlook.com または Skype で、アカウントの状態を変更することができますが、Outlook.com にサインインするたびに、アカウントの状態は、使用可能にリセットされます。</span><span class="sxs-lookup"><span data-stu-id="77621-p101">Your account status appears next to your account picture and lets your Outlook.com and Skype contacts know if you're available to chat or have a Skype call. you can change your account status in Outlook.com or Skype, but each time you sign in to Outlook.com, your account status will be reset to Available.</span></span>
+<span data-ttu-id="44b3a-p101">アカウントの状態はアカウントの画像の横に表示されるので、チャットできるか Skype 通話を受けることができるかは Outlook.com と Skype の連絡先からわかります。Outlook.com または Skype でアカウントの状態を変更できますが、Outlook.com にサインインするたびに、アカウントの状態は "連絡可能" にリセットされます。</span><span class="sxs-lookup"><span data-stu-id="44b3a-p101">Your account status appears next to your account picture and lets your Outlook.com and Skype contacts know if you're available to chat or have a Skype call. you can change your account status in Outlook.com or Skype, but each time you sign in to Outlook.com, your account status will be reset to Available.</span></span>
   
-<span data-ttu-id="77621-p102">Outlook.com のベータ版を使用して、または Outlook.com のない署名を変更するから自分の状態を防ぐことができます。お使いのブラウザーを閉じてサインアウトと同じではありません、自分の状態に影響を与えませんに注意してください。サインイン状態の継続、ブラウザーを閉じるときに、ダイアログ ボックスで、記号 [**サインアウトしない**] ボックスを選択します。</span><span class="sxs-lookup"><span data-stu-id="77621-p102">You can prevent your status from changing by using the Outlook.com beta, or by not signing out of Outlook.com. Note that closing your browser is not the same as signing out and has no effect on your status. To stay signed in when closing your browser, select the **Keep me signed in** box at the sign in prompt.</span></span> 
+<span data-ttu-id="44b3a-p102">Outlook.com のベータ版を使用するか、Outlook.com からサインアウトしないことで、自分の状態が変更されないようにすることができます。ブラウザーを閉じることはサインアウトすることと同じではなく、状態に影響を与えない点に注意してください。ブラウザーを閉じてもサインインしたままにするには、サインイン プロンプトで [**サインインしたままにする**] ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="44b3a-p102">You can prevent your status from changing by using the Outlook.com beta, or by not signing out of Outlook.com. Note that closing your browser is not the same as signing out and has no effect on your status. To stay signed in when closing your browser, select the **Keep me signed in** box at the sign in prompt.</span></span> 
   
 
