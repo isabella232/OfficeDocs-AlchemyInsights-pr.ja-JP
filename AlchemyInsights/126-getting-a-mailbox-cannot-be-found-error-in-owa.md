@@ -1,5 +1,5 @@
 ---
-title: メールボックスを取得する 126 が見つかりませんエラー OWA のでしょうか。
+title: 126 OWA で「メールボックスが見つかりませんでした」というエラーが表示される場合
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
 ms.openlocfilehash: 6ef8a706ac14d6b1c11c467800e0c41df2450ea1
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477593"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>見つからないというエラーで、web 上で Outlook のメールボックスを取得しますか。
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Outlook on the web で「メールボックスが見つかりませんでした」というエラーが表示される場合
 
-Web 上で Outlook を使用している**のメールボックスが見つかりません**のエラーが発生する場合は、web 上の Outlook への接続に使用したアカウントが Exchange Online のライセンスを取得しないし、そのため、メールボックスは、アカウントに関連付けられています。管理者は、次の手順で、自分のアカウントにライセンスを割り当てることができます。 
+Outlook on the web を使用しているときに、「**メールボックスが見つかりませんでした**」というエラーが表示された場合は、Outlook on the web への接続時に使用したアカウントに Exchange Online ライセンスが付与されていないため、そのアカウントにメールボックスが関連付けられていません。管理者は、次の手順に従ってアカウントにライセンスを割り当てることができます。 
   
-1. [Office 365 管理センター](https://portal.office.com/adminportal/home#/homepage)を開くし、**作業中のユーザー**] の下の [**ユーザーの編集**] を選択します。
+1. [Office 365 管理センター](https://portal.office.com/adminportal/home#/homepage)を開いて、**[アクティブなユーザー]** で、**[ユーザーの編集]** を選択します。
     
-2. **ユーザーの編集**ページを開くには、ユーザーを選択します。ユーザーのプロパティ ページで、[**製品のライセンス**の [**編集**] をクリックします。
+2. 表示された **[ユーザーの編集]** ページで、ユーザーを選択します。表示された [ユーザーのプロパティ] ページで、**[製品のライセンス]** の **[編集]** をクリックします。
     
-3. **製品ライセンス**ページで表示される、適切なの**場所**の値を選択し、Exchange Online に含まれているライセンスを割り当てます。 (詳細を表示するにはライセンスを展開する)。完了したら、[**保存**] をクリックします。
+3. 表示された **[製品のライセンス]** ページで、該当する **[場所]** の値を設定して、Exchange Online を含むライセンスを割り当てます (ライセンスを展開してその詳細を表示します)。完了したら、**[保存]** をクリックします。
     
 

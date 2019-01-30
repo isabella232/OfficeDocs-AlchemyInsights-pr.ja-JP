@@ -1,5 +1,5 @@
 ---
-title: OneDrive または SharePoint で失われたまたは不足しているファイルを検索します。
+title: OneDrive または SharePoint で消失したまたは不明なファイルを探す
 ms.author: matteva
 author: matteva
 manager: scotv
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: e3d146005252fc5a774745daee7aae923b4d712a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477573"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で失われたまたは不足しているファイルを検索します。
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で消失したまたは不明なファイルを探す
 
-- OneDrive または web 上の SharePoint サイトを参照して左側のペインで、ごみ箱をクリックするとごみ箱を確認してください。(ビンのリサイクルを表示されない場合は左側のペインでは、設定アイコンをクリックして**サイトの内容**を選択し。**ごみ箱**が上部にあるコマンド バーの右端に表示されます。) 
+- OneDrive または Web 上の SharePoint サイトを参照して、左側のウィンドウでごみ箱をクリックすることにより、ごみ箱を確認します (左側のウィンドウにごみ箱が表示されない場合は、[設定] アイコンをクリックしてから、**[サイト コンテンツ]** を選択します。**[ごみ箱]** は最上部のコマンド バーの右端にあります)。 
     
-- 、お使いのコンピューター上のファイルを同期している場合は、お使いのコンピューターのごみ箱を確認してください。 
+- コンピューター上のファイルを同期している場合は、コンピューター上のごみ箱を確認します。 
     
-- 項目が表示されない場合は、探している、最近削除された、サイト コレクションの管理者は、サイト コレクションのごみ箱から復元できる可能性があります。サイト コレクションの管理者の場合、[復元は、サイト コレクションのごみ箱からアイテムを削除](https://go.microsoft.com/fwlink/?linkid=866439)を参照してください。
+- 探しているアイテムが表示されず、最近削除されたばかりの場合は、サイト コレクションの管理者がサイト コレクションのごみ箱からそのアイテムを復元できる可能性があります。サイト コレクションの管理者は、「[サイト コレクションのごみ箱から、削除したアイテムを復元する](https://go.microsoft.com/fwlink/?linkid=866439)」を参照してください。
     
-[復元する詳細なヘルプは、OneDrive のファイルとフォルダーを削除](https://go.microsoft.com/fwlink/?linkid=872872)
+[OneDrive での削除したファイルおよびフォルダーの復元を支援する](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

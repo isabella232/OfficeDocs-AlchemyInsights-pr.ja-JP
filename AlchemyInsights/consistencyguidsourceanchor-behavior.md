@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: 80516ed9e15040475a8b65a1af98a1b561704d49
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29498523"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor の動作
 
-Azure AD 接続 (バージョン 1.1.524.0 後と) msDS ConsistencyGuid の sourceAnchor の属性としての使用が容易になっています。この機能を使用すると、Azure AD 接続に同期規則が自動的に構成します。
+Azure AD Connect (バージョン 1.1.524.0 以降) は、sourceAnchor 属性としての msDS-ConsistencyGuid の使用を容易にしました。この機能が使用されている場合は、Azure AD Connect が同期ルールを次のように自動的に構成します。
   
-- ユーザー オブジェクトの sourceAnchor 属性として msDS ConsistencyGuid を使用します。他のオブジェクト型のオブジェクト Guid が使用されます。
+- ユーザー オブジェクトの sourceAnchor 属性として msDS-ConsistencyGuid を使用します。他のオブジェクトの種類では、ObjectGUID が使用されます。
     
-- 指定されたいずれかのオンプレミス AD ユーザー msDS ConsistencyGuid 属性を持つの objectGUID の値がバックアップ、オンプレミスの Active Directory で msDS ConsistencyGuid 属性に設定されている、Azure の AD 接続書き込みをされていないオブジェクトです。MsDS ConsistencyGuid 属性を読み込んだ後、Azure AD 接続は Azure AD にオブジェクトをエクスポートします。
+- msDS-ConsistencyGuid 属性が入力されていない特定のオンプレミス AD ユーザー オブジェクトの場合は、Azure AD Connect がオンプレミス Active Directory 内の msDS-ConsistencyGuid 属性に objectGUID 値を書き戻します。msDS-ConsistencyGuid 属性が入力されると、Azure AD Connect が Azure AD にオブジェクトをエクスポートします。
     
- **注:** 1 回、オンプレミス AD オブジェクトは、Azure の AD 接続 (つまり、AD のコネクタ空間にインポートされ、メタバースに投影) にインポートは、もはや、sourceAnchor の値を変更することはできません。SourceAnchor 値を指定するのには、設置型を指定した AD オブジェクト、Azure AD 接続にインポートする前に、msDS ConsistencyGuid 属性を構成します。 
+ **メモ:** オンプレミス AD オブジェクトを Azure AD Connect にインポートする (つまり、AD コネクタ スペースにインポートしてから、Metaverse に投影する) と、sourceAnchor 値を変更できなくなります。特定のオンプレミス AD オブジェクトの SourceAnchor 値を指定するには、Azure AD Connect にインポートする前に、その msDS-ConsistencyGuid 属性を構成します。 
   
-SourceAnchor と ConsistencyGuid の詳細については、以下を参照してください: [Azure AD 接続: 概念の設計](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+SourceAnchor と ConsistencyGuid の詳細については、「[Azure AD Connect: 設計概念](https://docs.microsoft.com/ja-JP/azure/active-directory/connect/active-directory-aadconnect-design-concepts)」を参照してください。
   
 

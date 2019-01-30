@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 7a97d1a5ff352b55833bd457e3220a56130d7e7e
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29499639"
 ---
 # <a name="error-attributevaluemustbeunique"></a>エラー: AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique エラーの最も一般的な理由は、別の SourceAnchor (immutableId) と 2 つのオブジェクトが ProxyAddresses、UserPrincipalName 属性に同じ値を持ちます。AttributeValueMustBeUnique エラーを修正するには。
+AttributeValueMustBeUnique エラーの最も一般的な原因は、SourceAnchor (immutableId) が異なる 2 つのオブジェクトの ProxyAddresses 属性または UserPrincipalName 属性の値が同じであることです。AttributeValueMustBeUnique エラーを修正するには、次の手順を実行します。
   
-1. 重複 proxyAddresses、userPrincipalName またはエラーの原因となっている他の属性値を識別します。競合に関連する 2 つ (以上) のオブジェクトを識別します。Azure AD 接続の稼働状態の同期によって生成されるレポートは、2 つのオブジェクトを識別するのに役立ちます。
+1. エラーの原因になっている重複した proxyAddresses、userPrincipalName、またはその他の属性値を特定します。また、競合に関係している 2 つ以上のオブジェクトを特定します。Azure AD Connect Health for sync によって生成されるレポートが 2 つのオブジェクトの特定に役立ちます。
     
-2. 重複した値を設定するオブジェクトを続行する必要がありますであり、どのオブジェクトを識別します。
+2. 重複した値を持ち続けるオブジェクトとそうでないオブジェクトを識別します。
     
-3. オブジェクトをその値を持たないする必要がありますから、重複した値を削除します。オブジェクトを供給する場所のディレクトリに変更を行う必要があることに注意してください。場合によっては、競合しているオブジェクトの 1 つを削除する必要があります。
+3. 重複した値を持たないはずのオブジェクトから重複した値を除去します。オブジェクトの供給元になっているディレクトリで変更を加える必要があることに注意してください。競合しているオブジェクトのいずれかを削除しなければならない場合もあります。
     
-4. AD の施設内で変更を加えた場合は、Azure の AD 接続を修正するのにはエラーが発生する変更の同期を使用できます。
+4. オンプレミス AD で変更を加えた場合は、Azure AD Connect 同期にエラーを修正するための変更を指示します。
     
 
