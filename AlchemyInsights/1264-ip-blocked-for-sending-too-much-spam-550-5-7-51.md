@@ -1,5 +1,5 @@
 ---
-title: 1264 IP が大量のスパム (550 5.7.51) を送信するためにブロックされています。
+title: 1264 大量の迷惑メールが送信されたため IP がブロックされました (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
 ms.openlocfilehash: 44a6b5b3ee91a99b94af8fca7aef561870cf0921
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477250"
 ---
-# <a name="access-denied-banned-sender"></a>禁止された送信者のアクセスが拒否されると、
+# <a name="access-denied-banned-sender"></a>Access denied, banned sender
 
- **エラー**: RCPT コマンドには、ホスト用のリモート サーバーからの SMTP エラー: *xxxx* -com.mail.protection.outlook.com ( *xxx.xxx.xxx.xxx* ) 理由: 550 の 5.7.511 にアクセス拒否、禁止された送信者の [ *xx.xxx.x.xxx* ]。 
+ **Error**: SMTP error from remote server for RCPT TO command, host:  *xxxx*  -com.mail.protection.outlook.com (  *xxx.xxx.xxx.xxx*  ) reason: 550 5.7.511 Access denied, banned sender [  *xx.xxx.x.xxx*  ]. 
   
-Office 365 の受信者に電子メールを送信するときにこのエラーが発生した場合は、影響を受けるアカウントを削除にある [受信拒否リストから[https://sender.office.com](https://sender.office.com)。
+Office 365 の受信者にメールを送信中にこのエラーが表示された場合は、[https://sender.office.com](https://sender.office.com) にある受信拒否リストから、影響を受けているアカウントを削除してください。
   
 

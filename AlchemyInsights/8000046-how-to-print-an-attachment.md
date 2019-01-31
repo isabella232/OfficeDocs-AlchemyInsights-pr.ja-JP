@@ -1,5 +1,5 @@
 ---
-title: 8000046 添付ファイルを印刷する方法を
+title: 8000046 添付ファイルを印刷する方法
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.assetid: 5e2f1581-027a-4417-8d7a-6cae5c6d52b6
 ms.openlocfilehash: c43ef598905322b7c7685fcbb89d77153d9ea66f
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476771"
 ---
-# <a name="print-an-attachment"></a>添付ファイルを印刷します。
+# <a name="print-an-attachment"></a>添付ファイルを印刷する
 
-電子メールの添付ファイルを印刷するには、ダウンロードし、ローカル コンピューターまたは OneDrive の添付ファイルを保存し、適切なプログラムでファイルを開いてください。
+メールの添付ファイルを印刷するには、添付ファイルをダウンロードし、ローカル コンピューターまたは OneDrive に保存してから、適切なプログラムを使って開きます。
   
-1. 印刷する添付ファイルを含むメッセージを開きます。
+1. 印刷する添付ファイルが含まれるメッセージを開きます。
     
-2. 添付ファイルの下には、**ダウンロード**を選択します。 
+2. 添付ファイルの下にある **[ダウンロード]** を選択します。 
     
-3. ファイルがダウンロードされたら、適切なプログラムで開き、印刷するオプションを選択します。たとえば、Word で .doc ファイルを開くし、印刷し。
+3. ファイルがダウンロードされた後、適切なプログラムを使ってファイルを開き、印刷オプションを選択します。たとえば、Word で .doc ファイルを開いて印刷します。
     
-詳細については、[電子メール メッセージを印刷し Outlook.com で添付ファイル](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409)を読み取る。
+詳細については、[Outlook.com でのメール メッセージと添付ファイルの印刷](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409)に関するページを参照してください。
   
 

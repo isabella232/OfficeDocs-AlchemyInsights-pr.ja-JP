@@ -1,5 +1,5 @@
 ---
-title: 123 のアカウントを取得するには、owa エラーが無効になりますか。
+title: 123 OWA で "アカウントが無効です" というエラーが表示される場合
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom: Adm_O365
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
 ms.openlocfilehash: aaeee1f2bb35c0351149509aa7789f3484dd3879
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476815"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>アカウントを取得するには、web 上の Outlook でエラーを無効になっているでしょうか。
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Outlook on the web で "アカウントが無効です" というエラーが表示される場合
 
-**自分のアカウントが無効になって**エラーが発生するかどうかに`X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException`(Outlook Web App と呼ばれていました)、web 上で Outlook を開くときに、組織管理者は、可能性がありますが無効になっている web 上の Outlook へのアクセス。管理[を有効にするか Outlook Web App のメールボックスを無効にする](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)」の手順を実行してこのエラーを修正できます。
+Outlook on the web (旧称: Outlook Web App) を開こうとしたときに `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` を含む "**アカウントが無効になっています**" エラーが表示される場合、組織の管理者が Outlook on the web へのアクセスを無効にしている可能性があります。管理者は、「[メールボックスに対して Outlook Web App を有効または無効にする](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)」トピックの手順に従うことで、このエラーを修正できます。
   
 

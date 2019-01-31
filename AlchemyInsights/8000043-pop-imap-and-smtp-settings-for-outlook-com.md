@@ -1,5 +1,5 @@
 ---
-title: Outlook.com の POP、IMAP、および SMTP の設定を 8000043
+title: 8000043 Outlook.com の POP、IMAP、SMTP 設定
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,33 +11,33 @@ localization_priority: Priority
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
 ms.openlocfilehash: b5b7609d6daee9afe43e9cb6bfe5f2766d1e7c39
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477121"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Outlook.com の POP、IMAP、および SMTP の設定
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Outlook.com の POP、IMAP、SMTP 設定
 
-Outlook.com アカウントを POP または IMAP をサポートしている別のメール アプリケーションに追加する場合は、サーバーを手動設定する必要があります以下に示します。
+Outlook.com アカウントを、POP または IMAP をサポートしている別のメール アプリに追加する場合は、手動で以下のサーバー設定を行う必要があります。
   
-- **< IMAP サーバー名:** imap mail.outlook.com 
+- **IMAP サーバー名:** imap-mail.outlook.com 
     
-- **の IMAP ポート:** 993 
+- **IMAP ポート:** 993 
     
-- **IMAP 暗号化方式:** TLS 
+- **IMAP 暗号化方法:** TLS 
     
-- **POP サーバー名:** pop mail.outlook.com 
+- **POP サーバー名:** pop-mail.outlook.com 
     
 - **POP ポート:** 995 
     
-- **POP 暗号化方式:** TLS 
+- **POP 暗号化方法:** TLS 
     
-- **SMTP サーバー名:** smtp mail.outlook.com 
+- **SMTP サーバー名:** smtp-mail.outlook.com 
     
 - **SMTP ポート:** 587 
     
-- **SMTP の暗号化の方法:** STARTTLS 
+- **SMTP 暗号化方法:** STARTTLS 
     
-[Outlook.com の POP、IMAP、および SMTP の設定](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409)に関する詳細を表示します。
+[Outlook.com の POP、IMAP、SMTP 設定](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409)の詳細をご覧ください。
   
 

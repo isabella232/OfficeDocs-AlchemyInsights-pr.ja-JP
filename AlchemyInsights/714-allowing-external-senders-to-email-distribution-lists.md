@@ -1,5 +1,5 @@
 ---
-title: 714 Allowing 外部送信者配布リストを電子メールで送信することが
+title: 714 外部の送信者が配布リストにメールを送信するのを許可する
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
 ms.openlocfilehash: c87659704f086025de1287e807db743a935ba8a6
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476727"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>配布グループにメッセージを送信するのには外部の送信者を許可します。
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>外部の送信者が配布グループにメッセージを送信できるようにする
 
-組織外部のユーザーにエラーが表示されるはの配布グループにメッセージを送信、または外部の送信者からのメールを受信するのには、配布グループが構成されていることを確認するとき、以下の手順を実行します。
+組織外のユーザーが配布グループにメッセージを送信したときにエラーが表示される場合、または配布グループが外部の送信者からのメールを受信するように構成されていることを確認する場合は、以下の手順に従います。
   
-1. [Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の [**グループ**] ノードに移動します。
+1. [Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の **[グループ]** ノードに移動します。
     
-2. 配布グループを選択し、グループ プロパティ フライ アウトが表示されますが、**外部の送信者を許可する**を含むセクションの [**編集**] をクリックします。
+2. 配布グループを選択し、表示されたグループ プロパティのフライ アウトで、**[外部の送信者を許可する]** を含むセクションの **[編集]** をクリックします。
     
-3. **詳細を編集**するには、スライド アウトするが表示されますを**この配布グループに電子メールを送信する組織外のメンバーを許可する**が **[****保存**] をクリックしてであることを確認します。
+3. 表示された **[詳細の編集]** フライ アウトで、**[この配布グループにメールを送信するには、自分の所属組織外のユーザーを許可します。]** が **[オン]** になっていることを確認してから、**[保存]** をクリックします。
     
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: 1 つの記事は 500 語以下でまとめることを目標にします。
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498163"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662188"
 ---
 1 つの記事は 500 語以下でまとめることを目標にします。
   
@@ -33,6 +33,6 @@ ms.locfileid: "29498163"
     
 4. [**ユーザーによるサインインを禁止します**]、[**保存**] の順に選択します。 
     
- **注**: 一部のアプリに対するサインアウトは、直ちに適用されない可能性があります。「[Office 365 から元従業員を削除する](https://support.office.com/article/https://support.office.com/ja-JP/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)」の記事にある他のアクションをフォローアップします。
+ **注**: 一部のアプリに対するサインアウトは、直ちに適用されない可能性があります。「[Office 365 から元従業員を削除する](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)」の記事にある他のアクションをフォローアップします。
   
 

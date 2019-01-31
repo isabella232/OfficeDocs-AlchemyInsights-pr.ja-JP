@@ -1,5 +1,5 @@
 ---
-title: 124 が共有されている OWA でメールボックスにアクセスするとき、アクセス権のエラーを取得しますか。
+title: 124 OWA で共有メールボックスにアクセスしようとしたときにアクセス権のエラーが表示される場合
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom: Adm_O365
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
 ms.openlocfilehash: 5d8d4f71c38d3a5346fc7a6fa90224d8c00012cb
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477173"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Web 上の Outlook で共有されているメールボックスを開くときは、アクセス権のエラーを取得するでしょうか。
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開くときにアクセス権のエラーが表示される場合
 
-エラー**が発生する場合は、問題が発生しました。このメールボックスを開く権限がありません**。web 上の Outlook で共有されているメールボックスを開くときに、自分のアカウントが共有メールボックスにアクセスするアクセス許可をいない可能性があります。組織の管理者は、[共有メールボックスを作成する](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)」の手順に従って、共有メールボックスにアカウントのアクセス許可を割り当てることができます。
+Outlook on the web で共有メールボックスを開こうとしたときに "**問題が発生しました。このメールボックスを開く権限がありません**" というエラーが表示された場合、その共有メールボックスへのアクセス権が自分のアカウントに付与されていない可能性があります。組織の管理者は、トピック「[共有メールボックスを作成する](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)」の手順に従って、共有メールボックスへのアクセス権をアカウントに割り当てることができます。
   
 
