@@ -2,27 +2,32 @@
 title: Office をインストールする場所
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 45332a437a6e28510f2872983890c28e1c779102
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7dcef35e1624500abcfbd6c21638cd32af7043c1
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477413"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645659"
 ---
-# <a name="install-office"></a><span data-ttu-id="0b730-102">Office をインストールする</span><span class="sxs-lookup"><span data-stu-id="0b730-102">Install Office</span></span>
+# <a name="install-office"></a><span data-ttu-id="32c8e-102">Office をインストールする</span><span class="sxs-lookup"><span data-stu-id="32c8e-102">Install Office</span></span>
 
-<span data-ttu-id="0b730-p101">Office をインストールするのにはユーザーがデスクトップ アプリケーションとの[ライセンスの割り当て](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を含む[ビジネス製品を Office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx)で必要があります。以下の手順に従って Office をインストールできます。</span><span class="sxs-lookup"><span data-stu-id="0b730-p101">To install Office users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). Office can then be installed following the steps below:</span></span>
+<span data-ttu-id="32c8e-103">Office をインストールするのにはユーザーがデスクトップ アプリケーションとの[ライセンスの割り当て](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を含む[ビジネス製品を Office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)で必要があります。</span><span class="sxs-lookup"><span data-stu-id="32c8e-103">To install Office users must have an [Office 365 business product](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) that includes the desktop applications and an [assigned license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
   
-1. <span data-ttu-id="0b730-105">[Office.com](https://www.office.com)に移動し、まだサインインしている場合、職場、学校のアカウントを使用して署名します。</span><span class="sxs-lookup"><span data-stu-id="0b730-105">Go to [office.com](https://www.office.com) and sign in with your work or school account if you're not already signed in.</span></span> 
+<span data-ttu-id="32c8e-104">以下の手順に従って Office をインストールできます。</span><span class="sxs-lookup"><span data-stu-id="32c8e-104">Office can then be installed following the steps below:</span></span>
+  
+1. <span data-ttu-id="32c8e-105">[Portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)に移動します。</span><span class="sxs-lookup"><span data-stu-id="32c8e-105">Go to [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)</span></span>
     
-2. <span data-ttu-id="0b730-p102">ホーム ページの [Office には、 **Office のインストール**を選択します。(別の開始ページの設定をした場合に移動する[aka.ms と office のインストール](https://aka.ms/office-install)代わりに。</span><span class="sxs-lookup"><span data-stu-id="0b730-p102">On the Office home page, select **Install Office**. (If you have a different start page set, go to [aka.ms/office-install](https://aka.ms/office-install) instead.)</span></span> 
+2. <span data-ttu-id="32c8e-106">Office ホーム ページで [詳細設定] を選択して、64 ビットと 32 ビット版との間を選択し、言語を選択します。</span><span class="sxs-lookup"><span data-stu-id="32c8e-106">On the Office home page, select the Language you want and then select Advanced to choose between the 64-bit or 32-bit version</span></span>
     
-<span data-ttu-id="0b730-108">詳細については、[ダウンロードしインストール、または PC または Mac 上の Office を再インストール](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0b730-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).</span></span>
+3. <span data-ttu-id="32c8e-107">**Office のインストール**を選択します。</span><span class="sxs-lookup"><span data-stu-id="32c8e-107">Select **Install Office**.</span></span>
+    
+<span data-ttu-id="32c8e-108">詳細については、「[ダウンロードおよびインストールまたは再インストール、PC または Mac 上の Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)の使用」を参照していますください。</span><span class="sxs-lookup"><span data-stu-id="32c8e-108">For more details, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
   
 
