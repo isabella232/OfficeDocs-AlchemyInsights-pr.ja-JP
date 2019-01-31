@@ -1,5 +1,5 @@
 ---
-title: 1332 OWA の受信トレイ ルールが実行していないメールボックスの
+title: 1332 OWA - 受信トレイのルールがメールボックスに対して実行されていません
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,25 +11,25 @@ localization_priority: Priority
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
 ms.openlocfilehash: f090d0a9d84bc6a4d1a1f4c0af55102d4b0ddfbe
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477473"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="735c2-102">受信トレイ ルールが期待どおりに動作しません。</span><span class="sxs-lookup"><span data-stu-id="735c2-102">An Inbox rule doesn't work as expected</span></span>
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="f78ad-102">受信トレイのルールが期待どおりに機能しません</span><span class="sxs-lookup"><span data-stu-id="f78ad-102">An Inbox rule doesn't work as expected</span></span>
 
-<span data-ttu-id="735c2-103">次の設定を確認します。</span><span class="sxs-lookup"><span data-stu-id="735c2-103">Verify the following settings:</span></span>
+<span data-ttu-id="f78ad-103">次の設定を確認してください。</span><span class="sxs-lookup"><span data-stu-id="f78ad-103">Verify the following settings in your conferencing policy:</span></span>
   
-- <span data-ttu-id="735c2-p101">転送、または自動的に受信トレイ ルールに基づいて 1 回だけ返信、メッセージをリダイレクトできます。(受信トレイのルールまたはメール フロー ルール、トランスポート ルールとも呼ばれます) のリダイレクトのルールは、メッセージを 10 個の転送先の受信者の最大を追加できます。詳細については、[仕訳帳、トランスポート、および受信トレイ ルールの制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="735c2-p101">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time. A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message. For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
+- <span data-ttu-id="f78ad-p101">メッセージは、自動的に受信トレイのルールに 1 回だけ従うように、リダイレクト、転送、または返信できます。リダイレクト ルール (受信トレイのルールまたはメール フロー ルール。トランスポート ルールとも呼ばれる) では、メッセージに最大 10 個の転送受信者を追加できます。詳細については、[ジャーナル、トランスポート、および受信トレイのルールの制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="f78ad-p101">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time. A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message. For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
     
-- <span data-ttu-id="735c2-p102">代替ジャーナリング メールボックスの受信トレイのルールが機能しません。代替ジャーナリング メールボックスの詳細については、[代替ジャーナリング メールボックス](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="735c2-p102">Inbox rules don't work on the alternate journaling mailbox. For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
+- <span data-ttu-id="f78ad-p102">受信トレイのルールは、代替ジャーナリング メールボックスでは機能しません。代替ジャーナリング メールボックスの詳細については、[代替ジャーナリング メールボックス](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="f78ad-p102">Inbox rules don't work on the alternate journaling mailbox. For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
     
-<span data-ttu-id="735c2-109">これらの問題を修正するのには、 [KB 2829319](https://support.microsoft.com/kb/2829319)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="735c2-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
+<span data-ttu-id="f78ad-109">これらの問題を修正するには、「[KB 2829319](https://support.microsoft.com/kb/2829319)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f78ad-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
   
-<span data-ttu-id="735c2-110">以前の問題が適用されない場合は、Microsoft サポートにこの問題をエスカレートする前に、受信トレイ ルールの診断レポートを実行します。</span><span class="sxs-lookup"><span data-stu-id="735c2-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
+<span data-ttu-id="f78ad-110">以前の問題が該当しない場合は、Microsoft サポートに問題をエスカレーションする前に、受信トレイのルールの診断レポートを実行します。</span><span class="sxs-lookup"><span data-stu-id="f78ad-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
   
-1. <span data-ttu-id="735c2-111">Web 上の Outlook でメールボックスを開くし、[**設定**] をクリックして\>**オプション** \> **整理電子メール** \> **受信トレイのルール**です。</span><span class="sxs-lookup"><span data-stu-id="735c2-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
+1. <span data-ttu-id="f78ad-111">Outlook on the web でメールボックスを開き、**[設定]**、**[オプション]**、**[メールの整理]**、**[受信トレイのルール]** の順にクリックします。</span><span class="sxs-lookup"><span data-stu-id="f78ad-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
     
-2. <span data-ttu-id="735c2-112">ページの下部には、**ルールは、診断レポートを生成するのにはここをクリックして動作していないかどうか**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="735c2-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
+2. <span data-ttu-id="f78ad-112">ページの下部にある **[ルールが正しく機能しない場合は、ここをクリックして診断レポートを生成してください]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="f78ad-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
     
 
