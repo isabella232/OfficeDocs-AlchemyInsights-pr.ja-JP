@@ -1,5 +1,5 @@
 ---
-title: 899 カレンダーの共有ポリシー
+title: 899 予定表の共有ポリシー
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: 45a54971-c06e-4f04-8a1f-d4c72cb7249e
 ms.openlocfilehash: 602f1cc56229f0b80215fb501e9de6626f37d114
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477262"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a>予定表を共有する場合、ポリシー エラー
+# <a name="policy-error-when-sharing-a-calendar"></a>予定表を共有する場合のポリシー エラー
 
-予定表を共有しようとしている場合は、エラーが発生する「ポリシーにより 1 つまたは複数の受信者には、このレベルでアクセス許可を付与する」は、[このトピック](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor)を参照してください。
+予定表を共有しようとしているときに、"このレベルのアクセス権限を 1 人以上の受信者に付与することは、ポリシーで許可されていません。" というエラーが表示される場合は、[このトピック](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor)を参照してください。
   
 

@@ -1,5 +1,5 @@
 ---
-title: 8000048 Outlook.com には、電子メールが送信され '' の自分のメール アドレスの代わりに
+title: 8000048 Outlook.com がメール アドレスの "代理" としてメールを送信する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
 ms.openlocfilehash: 1db4613d963e128c1742d8adc1bb7f2c2c246ce4
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476950"
 ---
-「に代わって」自分のメール アドレスの
+メール アドレスの "代理"
 
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com の代理として自分のメール アドレスに電子メールを送信します。
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com がメール アドレスの "代理" としてメールを送信する
 
-メールは、Microsoft アカウントの代理で送信されると、接続されているアカウントの番組から送信されます。
+接続されたアカウントから送信されたメールは、ユーザーの Microsoft アカウントの代理として送信されたものとして表示されます。
   
-これは既知の問題と、将来のリリースで修正される予定です。それまでは、変更するには、主に Microsoft アカウントのエイリアスと同じアドレスからです。
+これは既知の問題であり、今後のリリースで修正される予定です。それまでは、プライマリ Microsoft アカウント エイリアスと同じになるように差出人アドレスを変更することができます。
   
-詳細については、 [Outlook.com の代理として自分のメール アドレスに電子メールを送信する](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409)を参照してください。
+詳細については、「[Outlook.com は、メール アドレス "に代わって" メールを送信します](https://go.microsoft.com/fwlink/p/?linkid=2001600&amp;clcid=0x409)」をご覧ください。
   
 

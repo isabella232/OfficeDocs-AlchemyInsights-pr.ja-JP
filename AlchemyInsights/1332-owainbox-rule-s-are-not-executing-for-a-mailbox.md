@@ -1,5 +1,5 @@
 ---
-title: 1332 OWA の受信トレイ ルールが実行していないメールボックスの
+title: 1332 OWA - 受信トレイのルールがメールボックスに対して実行されていません
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,25 +11,25 @@ localization_priority: Priority
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
 ms.openlocfilehash: f090d0a9d84bc6a4d1a1f4c0af55102d4b0ddfbe
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477473"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a>受信トレイ ルールが期待どおりに動作しません。
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a>受信トレイのルールが期待どおりに機能しません
 
-次の設定を確認します。
+次の設定を確認してください。
   
-- 転送、または自動的に受信トレイ ルールに基づいて 1 回だけ返信、メッセージをリダイレクトできます。(受信トレイのルールまたはメール フロー ルール、トランスポート ルールとも呼ばれます) のリダイレクトのルールは、メッセージを 10 個の転送先の受信者の最大を追加できます。詳細については、[仕訳帳、トランスポート、および受信トレイ ルールの制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)を参照してください。
+- メッセージは、自動的に受信トレイのルールに 1 回だけ従うように、リダイレクト、転送、または返信できます。リダイレクト ルール (受信トレイのルールまたはメール フロー ルール。トランスポート ルールとも呼ばれる) では、メッセージに最大 10 個の転送受信者を追加できます。詳細については、[ジャーナル、トランスポート、および受信トレイのルールの制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)に関するページを参照してください。
     
-- 代替ジャーナリング メールボックスの受信トレイのルールが機能しません。代替ジャーナリング メールボックスの詳細については、[代替ジャーナリング メールボックス](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)を参照してください。
+- 受信トレイのルールは、代替ジャーナリング メールボックスでは機能しません。代替ジャーナリング メールボックスの詳細については、[代替ジャーナリング メールボックス](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)に関するページを参照してください。
     
-これらの問題を修正するのには、 [KB 2829319](https://support.microsoft.com/kb/2829319)を参照してください。
+これらの問題を修正するには、「[KB 2829319](https://support.microsoft.com/kb/2829319)」を参照してください。
   
-以前の問題が適用されない場合は、Microsoft サポートにこの問題をエスカレートする前に、受信トレイ ルールの診断レポートを実行します。
+以前の問題が該当しない場合は、Microsoft サポートに問題をエスカレーションする前に、受信トレイのルールの診断レポートを実行します。
   
-1. Web 上の Outlook でメールボックスを開くし、[**設定**] をクリックして\>**オプション** \> **整理電子メール** \> **受信トレイのルール**です。
+1. Outlook on the web でメールボックスを開き、**[設定]**、**[オプション]**、**[メールの整理]**、**[受信トレイのルール]** の順にクリックします。
     
-2. ページの下部には、**ルールは、診断レポートを生成するのにはここをクリックして動作していないかどうか**] をクリックします。
+2. ページの下部にある **[ルールが正しく機能しない場合は、ここをクリックして診断レポートを生成してください]** をクリックします。
     
 

@@ -1,5 +1,5 @@
 ---
-title: 1336 RecoverableItems フォルダーがいっぱい
+title: 1336 [回復可能なアイテム] フォルダーに空きがない
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,33 +11,33 @@ localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
 ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477024"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>回復可能なアイテム フォルダーがいっぱい
+# <a name="the-recoverable-items-folder-is-full"></a>[回復可能なアイテム] フォルダーに空きがない
 
-Office 365 のオンラインの Exchange メールボックスは、回復可能なアイテム] フォルダーの既定の格納域の制限は 30 GB です。メールボックスは、証拠保全、電子的証拠開示の保留リストに配置または Office 365 のリテンション ・ ポリシーに割り当てられた場合、100 GB に、回復可能なアイテム] フォルダーの格納域の制限が自動的に増加します。
+Office 365 の Exchange Online メールボックスの場合、[回復可能なアイテム] フォルダーの記憶域の既定の制限は 30 GB です。メールボックスが訴訟ホールドまたは電子情報開示の保留リストに配置されるか、Office 365 のアイテム保持ポリシーに割り当てられている場合、[回復可能なアイテム] フォルダーの記憶域の制限は自動的に 100 GB に増やされます。
   
-回復可能な項目] フォルダーでは、格納域の制限に達すると、メールボックスの機能は次の方法で影響を受けます。
+[回復可能なアイテム] フォルダーが記憶域の制限に達すると、メールボックスの機能は次のように影響を受けます。
   
-- ユーザーは、メールボックスからアイテムを削除することはできません。
+- ユーザーは、メールボックスからアイテムを削除できません。
     
-- 管理フォルダー アシスタントが、保持タグや管理フォルダー設定をもとにしてアイテムを削除できない。
+- 管理フォルダー アシスタントは、保持タグや管理フォルダー設定をもとにしてアイテムを削除できません。
     
-- 有効になっている 1 つのアイテムの回復または保留中のメールボックスのコピー オン ライト ページ保護プロセスは、ユーザーを編集する項目のバージョンを維持できません。
+- 単一アイテムの回復が有効になっているメールボックスまたは訴訟ホールドに配置されているメールボックスでは、コピー オン ライト ページ保護プロセスが、ユーザーにより編集されたアイテムのバージョンを維持できません。
     
-- 監査ログを有効にするメールボックスのあるメールボックスのメールボックス監査ログ エントリできますに保存されません、回復可能なアイテム] フォルダー内のサブフォルダーに監査します。
+- メールボックス監査ログが有効なメールボックスで、[回復可能なアイテム] フォルダーの Audits サブフォルダーにメールボックス ログ エントリを保存できません。
     
-保留リストに登録されていないメールボックスでは、管理者が使用して、`Search-Mailbox -SearchDumpsterOnly -DeleteContent`で、回復可能なアイテム] フォルダー内のアイテムを削除するのには、Exchange オンライン PowerShell コマンドです。詳細については、次のトピックを参照してください。 
+保持中でないメールボックスでは、管理者は Exchange Online PowerShell の `Search-Mailbox -SearchDumpsterOnly -DeleteContent` コマンドを使用して、[回復可能なアイテム] フォルダーのアイテムを削除できます。詳細については、次のトピックをご覧ください。 
   
 - [メッセージを検索して削除する](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
     
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-保留中のメールボックスの回復可能なアイテム] フォルダーから削除済みアイテムを前に、保留リストを削除するのには管理者があります。詳細については、[クラウド ベースのメールボックスのフォルダーを保持する回復可能な項目で項目の削除](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)を参照してください。
+保持中のメールボックスでは、先に保留リストを削除しなければ、[回復可能なアイテム] フォルダーのアイテムを削除することはできません。詳細については、「[保留中のクラウド ベースのメールボックスの [回復可能なアイテム] フォルダーのアイテムを削除する](https://docs.microsoft.com/ja-JP/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)」をご覧ください。
   
-いっぱいになるたびに、回復可能なアイテム] フォルダーを防ぐため、管理者が上のメールボックスのフォルダーを保持し、ユーザーのアーカイブを回復可能なアイテム] フォルダーからアイテムを移動するメールボックスの保持ポリシーを設定は、回復可能な項目の格納域の制限を増やすことができます。メールボックスです。[上のメールボックスのクォータを保持する回復可能な項目の増加](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)を参照してください。
+[回復可能なアイテム] フォルダーがいっぱいになるのを防ぐには、管理者は保持中のメールボックスに対する [回復可能なアイテム] フォルダーの記憶域制限を増やし、[回復可能なアイテム] フォルダーからユーザーのアーカイブ メールボックスにアイテムを移動するメールボックス保持ポリシーを設定することができます。「[保持中のメールボックスの [回復可能なアイテム] のクォータを拡大する](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)」をご覧ください。
   
 

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com で 8000052 ファイルを添付
+title: 8000052 Outlook.com でファイルを添付する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,25 +11,25 @@ localization_priority: Priority
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
 ms.openlocfilehash: 448fd1b09682a672fe6a87bfcb1cebe4028c4c95
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477021"
 ---
 # <a name="how-to-attach-files"></a>ファイルを添付する方法
 
-クラシック Outlook.com でファイルを添付するには。
+従来の Outlook.com でファイルを添付するには:
   
-1. 新しいメッセージまたはメッセージに対する返信を作成します。
+1. 新しいメッセージを作成するか、メッセージに返信します。
     
-2. [新規作成] ウィンドウの上部には、**アタッチ**をクリックします。 
+2. 作成ウィンドウの上部にある **[添付]** を選択します。 
     
-Outlook.com のベータ版のファイルを添付するには。
+Outlook.com ベータ版でファイルを添付するには:
   
-1. 新しいメッセージまたはメッセージに対する返信を作成します。
+1. 新しいメッセージを作成するか、メッセージに返信します。
     
-2. [新規作成] ウィンドウの下部には、次のように選択します。 ![添付](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png).
+2. 作成ウィンドウの下部で ![[添付] を選択します。](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png).
     
-[Outlook.com でファイルを添付する方法](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)について説明します。
+詳細については、「[Outlook.com でファイルを添付する](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)」をご覧ください。
   
 
