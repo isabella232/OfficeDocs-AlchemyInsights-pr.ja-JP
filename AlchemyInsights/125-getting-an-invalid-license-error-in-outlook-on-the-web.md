@@ -1,5 +1,5 @@
 ---
-title: 125 は、web 上の Outlook で無効なライセンス エラーが発生しますか。
+title: 125 Outlook on the web で無効なライセンス エラーが表示される場合
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
 ms.openlocfilehash: 39ef2ce55f4884ac789445c7446e15ba732bbd43
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476832"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="6d7d4-102">Web 上の Outlook で無効なライセンス エラーが発生しますか。</span><span class="sxs-lookup"><span data-stu-id="6d7d4-102">Getting an invalid license error in Outlook on the web?</span></span>
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="0b93a-102">Outlook on the web で無効なライセンス エラーが表示される場合</span><span class="sxs-lookup"><span data-stu-id="0b93a-102">125 Getting an invalid license error in Outlook on the web?</span></span>
 
-<span data-ttu-id="6d7d4-p101">Web 上で Outlook を使用しているし、**問題が発生した**エラー メッセージが表示される場合が含まれています**X の OWA エラー: Microsoft.Exchange.Data.Storage.InvalidLicenseException**、Exchange Online ライセンスが正常に割り当てられていないか、最近は有効期限が切れています。管理者は、次の手順でユーザーにライセンスを割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="6d7d4-p101">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired. Your admin can assign a license to you by following these steps:</span></span>
+<span data-ttu-id="0b93a-p101">Outlook on the web を使用しているときに、**X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException** を含む "**問題が発生しました**" エラーが表示される場合は、Exchange Online ライセンスが正しく割り当てられていないか、最近有効期限が切れています。管理者は、以下の手順に従うことで、ライセンスを割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="0b93a-p101">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired. Your admin can assign a license to you by following these steps:</span></span>
   
-1. <span data-ttu-id="6d7d4-105">[Office 365 管理センター](https://portal.office.com/adminportal/home#/homepage)を開くし、**作業中のユーザー**] の下の [**ユーザーの編集**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6d7d4-105">Open the [Office 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+1. <span data-ttu-id="0b93a-105">[Office 365 管理センター](https://portal.office.com/adminportal/home#/homepage)を開き、**[アクティブなユーザー]** で、**[ユーザーの編集]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="0b93a-105">Open the [Office 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
     
-2. <span data-ttu-id="6d7d4-p102">**ユーザーの編集**ページを開くには、ユーザーを選択します。ユーザーのプロパティ ページで、[**製品のライセンス**の [**編集**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6d7d4-p102">In the **Edit a user** page that opens, select the user. In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
+2. <span data-ttu-id="0b93a-p102">開いた **[ユーザーの編集]** ページで、ユーザーを選択します。開いた [ユーザーのプロパティ] ページで、**[製品のライセンス]** の **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="0b93a-p102">In the **Edit a user** page that opens, select the user. In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
     
-3. <span data-ttu-id="6d7d4-p103">**製品ライセンス**ページで表示される、適切なの**場所**の値を選択し、Exchange Online に含まれているライセンスを割り当てます。 (詳細を表示するにはライセンスを展開する)。完了したら、[**保存**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6d7d4-p103">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details). When you're finished, click **Save**.</span></span>
+3. <span data-ttu-id="0b93a-p103">開いた **[製品のライセンス]** ページで、該当する **[場所]** の値を選択し、Exchange Online を含むライセンスを割り当てます (ライセンスを展開して、その詳細を表示します)。完了したら、**[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="0b93a-p103">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details). When you're finished, click **Save**.</span></span>
     
 

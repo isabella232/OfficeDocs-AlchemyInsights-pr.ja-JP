@@ -1,5 +1,5 @@
 ---
-title: 8000040 は、Windows 用の Outlook で、Outlook.com アカウントを追加します。
+title: 8000040 Outlook for Windows で Outlook.com のアカウントを追加する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: 9b130870-ce56-4505-b93b-d1f0d4e52b3c
 ms.openlocfilehash: c5d910f79d75332e56b47ea08c309dbb395034a8
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476788"
 ---
-# <a name="add-your-outlookcom-account-to-another-mail-app"></a><span data-ttu-id="bb4b3-102">Outlook.com アカウントを別のメール アプリケーションに追加します。</span><span class="sxs-lookup"><span data-stu-id="bb4b3-102">Add your Outlook.com account to another mail app</span></span>
+# <a name="add-your-outlookcom-account-to-another-mail-app"></a><span data-ttu-id="12fc9-102">Outlook.com アカウントを別のメール アプリに追加する</span><span class="sxs-lookup"><span data-stu-id="12fc9-102">Add your Outlook.com account to another mail app</span></span>
 
-<span data-ttu-id="bb4b3-103">Outlook.com アカウントを PC、Mac、またはモバイル デバイス上の Outlook に追加する方法については、[別のメール アプリケーションには、Outlook.com アカウントの追加](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bb4b3-103">To learn how to add your Outlook.com account to Outlook on your PC, Mac, or mobile device, see [Add your Outlook.com account to another mail app](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409).</span></span>
+<span data-ttu-id="12fc9-103">PC、Mac、またはモバイル デバイス上の Outlook に Outlook.com アカウントを追加する方法については、「[Outlook.com アカウントを別のメール アプリに追加する](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="12fc9-103">To learn how to add your Outlook.com account to Outlook on your PC, Mac, or mobile device, see [Add your Outlook.com account to another mail app](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409).</span></span>
   
 

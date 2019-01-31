@@ -1,5 +1,5 @@
 ---
-title: エンタープライズ計画の office 365
+title: Office 365 for Enterprise プラン
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 50f6e688917961eb4a7e212794b3d4685945d9fd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 649ad47c8b283f0e353ed709beb0cb36e9014864
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477574"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662152"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="4e9f5-102">エンタープライズ計画の office 365</span><span class="sxs-lookup"><span data-stu-id="4e9f5-102">Office 365 for Enterprise Plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="6b2d8-102">Office 365 for Enterprise プラン</span><span class="sxs-lookup"><span data-stu-id="6b2d8-102">Office 365 for Enterprise Plan</span></span>
 
-<span data-ttu-id="4e9f5-p101">5 つの異なるプロジェクトがエンタープライズ向けの Office 365 で利用できます。[エンタープライズのプランと価格設定の Office 365 を比較](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans)します。</span><span class="sxs-lookup"><span data-stu-id="4e9f5-p101">There are five different plans available with Office 365 for Enterprise. [Compare Office 365 for Enterprise plans and pricing](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).</span></span>
+<span data-ttu-id="6b2d8-p101">Office 365 for Enterprise には 5 種類のプランがあります。「[Office 365 for Enterprise のプランと価格の比較](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b2d8-p101">There are five different plans available with Office 365 for Enterprise. [Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>
   
 
