@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477552"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661216"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>請求書にクレジット カードによる支払いから変更する方法
 
@@ -28,12 +28,9 @@ ms.locfileid: "29477552"
 2. 変更するサブスクリプションを選択し、[ **支払い方法**] セクションで [ **お支払いの詳細の変更**] を選択します。
     
 3. [ **お支払いの詳細の変更**] ウィンドウで、[ **支払方法を変更する**] を選択します。
-    
-    > [!TIP]
-    > [ **支払方法を変更する**] リンクが表示されない場合、サブスクリプションが請求書支払いの最小金額を満たしておらず、クレジット カードから請求書に切り替えられないことを意味します。請求書支払いに必要な最小金額は地理的な場所によって異なります。 
+<br>*注: の**お支払方法の変更**] リンクが表示されていないため、クレジット_カードまたは請求書に銀行口座からの切り替えは使用できません、サブスクリプションのサブスクリプションは、請求書で請求のコストが最小量を満たしていないためです。請求書で請求するために必要な最低限の原価金額は、地理的位置によって異なります。*
   
 4. * *、お支払方法を変更する * *] ダイアログ ボックスで、[**続行**] をクリックします。
     
-5. [ **OK**] を選択し、管理センターに戻ります。 
-    
-
+5. 管理ページに戻るには **[ok]** を選択します。 
+   

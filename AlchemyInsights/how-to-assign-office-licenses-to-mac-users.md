@@ -3,18 +3,19 @@ title: Mac ユーザーに Office のライセンスを割り当てる方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d95601e868d7c31d99f8a151677d4a9acf7dd15e
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477442"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646316"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac ユーザーに Office のライセンスを割り当てる方法
 
@@ -24,10 +25,10 @@ ms.locfileid: "29477442"
     
 - 右側の [ **製品のライセンス**] 行で、[ **編集**] を選びます。
     
-- [ **製品のライセンス**] ウィンドウで、このユーザーに割り当てるライセンスを [ **オン**] の位置に切り替えます。 
+- **製品のライセンス**のペインで、[このユーザーに割り当てるライセンスの**上**の位置に、表示/非表示を切り替えます。 
     
 - **保存**を選択]、[**製品ライセンス**] ウィンドウの下部にある\>**閉じる** \> **閉じる**。
     
-詳細:[ビジネスのための Office 365 のユーザーにライセンスを割り当てる](.md)
+詳細:[ビジネスのための Office 365 のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
 

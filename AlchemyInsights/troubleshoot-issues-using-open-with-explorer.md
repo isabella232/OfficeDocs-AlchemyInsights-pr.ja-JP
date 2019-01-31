@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477507"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661756"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>エクスプ ローラーを開いた状態で問題を修正します。
 
@@ -31,6 +31,6 @@ SharePoint または**エクスプ ローラーで開く**コマンドを使用�
 > [!NOTE]
 > ファイル エクスプ ローラーで、ライブラリを開くときは、コピーまたは、1 回だけですが、ライブラリで定期的に作業を行う場合に、複数のファイルとフォルダーを移動する必要がある場合に便利ですが、同期することお勧めします。ファイル エクスプ ローラーで開くときの問題のトラブルシューティングを行うには、[エクスプ ローラーで開く](https://go.microsoft.com/fwlink/?linkid=871665)を参照してください。同期の設定に関する情報は、[新しい OneDrive 同期クライアントと同期 SharePoint ファイル](https://go.microsoft.com/fwlink/?linkid=871666)を参照してください。
   
-[SharePoint Online での問題をトラブルシューティングするのには [開くとエクスプ ローラー] コマンドを使用する方法](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)の詳細についての資料を参照してください。 
+[SharePoint Online での問題をトラブルシューティングするのには [開くとエクスプ ローラー] コマンドを使用する方法](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)の詳細についての資料を参照してください。 
   
 

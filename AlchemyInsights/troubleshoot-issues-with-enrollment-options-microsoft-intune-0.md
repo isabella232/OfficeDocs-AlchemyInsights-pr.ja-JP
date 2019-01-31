@@ -1,5 +1,5 @@
 ---
-title: 登録オプション Microsoft Intune に関する問題をトラブルシューティングします。
+title: Microsoft Intune の登録オプションに関する問題のトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 13e840e5ed413359ba32498fd6e7a2f6312c1e85
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03c8a26d66eef67009ab0230ab4ede25fa0a3817
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477025"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659884"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>登録オプション Microsoft Intune に関する問題をトラブルシューティングします。
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune の登録オプションに関する問題のトラブルシューティング
 
 これで問題を解決するのには下記のリソースを確認します。 
   
-- [レビュー Intune の TechNet の回答と共通の問題の解決方法を検索します](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。
+- [Intune の TechNet で一般的な問題の回答および解決策を見つける](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。
     
-- [Intune トラブルシューティングのポータル](https://aka.ms/intunetroubleshooting)を使用して、診断し、一般的な登録の失敗を解決します。詳細については[このドキュメント](https://docs.microsoft.com/en-us/intune/help-desk-operators)を確認します。 
+- [Intune トラブルシューティング ポータル](https://aka.ms/intunetroubleshooting)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。 
     
-- 各登録と解決策を防ぐための一般的なエラーの一覧については、[このドキュメント](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)を確認します。 
+- 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)を参照してください。 
     
-- [Microsoft Intune に登録オプションについて学習](https://docs.microsoft.com/en-us/intune/enrollment-options)します。
+- [Microsoft Intune の登録オプションの説明](https://docs.microsoft.com/intune/enrollment-options)。
     
 

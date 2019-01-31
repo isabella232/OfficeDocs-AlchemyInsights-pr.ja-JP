@@ -2,27 +2,32 @@
 title: Office をインストールする場所
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 45332a437a6e28510f2872983890c28e1c779102
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7dcef35e1624500abcfbd6c21638cd32af7043c1
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477413"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645659"
 ---
 # <a name="install-office"></a>Office をインストールする
 
-Office をインストールするのにはユーザーがデスクトップ アプリケーションとの[ライセンスの割り当て](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を含む[ビジネス製品を Office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx)で必要があります。以下の手順に従って Office をインストールできます。
+Office をインストールするのにはユーザーがデスクトップ アプリケーションとの[ライセンスの割り当て](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を含む[ビジネス製品を Office 365](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)で必要があります。
   
-1. [Office.com](https://www.office.com)に移動し、まだサインインしている場合、職場、学校のアカウントを使用して署名します。 
+以下の手順に従って Office をインストールできます。
+  
+1. [Portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)に移動します。
     
-2. ホーム ページの [Office には、 **Office のインストール**を選択します。(別の開始ページの設定をした場合に移動する[aka.ms と office のインストール](https://aka.ms/office-install)代わりに。 
+2. Office ホーム ページで [詳細設定] を選択して、64 ビットと 32 ビット版との間を選択し、言語を選択します。
     
-詳細については、[ダウンロードしインストール、または PC または Mac 上の Office を再インストール](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx)を参照してください。
+3. **Office のインストール**を選択します。
+    
+詳細については、「[ダウンロードおよびインストールまたは再インストール、PC または Mac 上の Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)の使用」を参照していますください。
   
 
