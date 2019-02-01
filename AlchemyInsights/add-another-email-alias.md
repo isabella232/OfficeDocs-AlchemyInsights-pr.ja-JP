@@ -1,5 +1,5 @@
 ---
-title: 別の電子メール エイリアスを追加します。
+title: 別のメール エイリアスを追加する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 6c7a31514515054da84d5e315b6ab55b39674374
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2623ac8a06b0fd277c04dd0ed7a800a56d30e2bb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476816"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659776"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 
-ユーザー用にメール エイリアスを作成する場合、または他のメール アドレスを追加する必要がある場合次の手順を実行してください。
+ユーザーに対してメール エイリアスを作成したり、その他のメール アドレスを追加したりする必要がある場合、次の手順に従ってください。
   
-1. Office 365 管理センターで、[[ユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822) ] ページに移動または**ユーザー**の選択\>**アクティブなユーザー**です。
+1. Office 365 管理センターで、[[ユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822)] ページにアクセスするか、[**ユーザー**]、[**アクティブなユーザー**] の順に選択します。
     
 2. [ **アクティブなユーザー**] ページで、編集するユーザー名を選びます。 
     
@@ -32,8 +32,8 @@ ms.locfileid: "29476816"
     
     **重要**: " **パラメーター名 'EmailAddresses' に一致するパラメーターが見つかりません**" というエラー メッセージが表示される場合、これは、Office 365 で最近追加したテナントまたはカスタム ドメインのセットアップに少し時間がかかっていることを意味します。セットアップ プロセスが完了するには、最大 4 時間かかります。しばらくすると、セットアップ プロセスが完了します。その後、やり直してください。問題が解決しない場合は、サポートにご連絡ください。サポートでは完全な同期を行います。
     
-    通常、新しいエイリアスが有効になるまで 30 分ほどかかります。
+    通常、新しいエイリアスが有効になるには、約 30 分かかります。
     
-    **詳細については、「**[ユーザーにメール エイリアスを追加する](https://support.office.com/article/https://support.office.com/en-US/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)」を参照してください。
+    **詳細については、「**[Add additional email aliases to a user](https://support.office.com/article/https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)」 (その他のメール アドレスをメールに追加する) の記事を参照してください。
     
 

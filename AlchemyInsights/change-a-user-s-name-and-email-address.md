@@ -1,5 +1,5 @@
 ---
-title: ユーザーの名前と電子メール アドレスを変更します。
+title: ユーザー名とメール アドレスを変更する
 ms.author: dianef
 author: dianef77
 ms.date: 12/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
-ms.openlocfilehash: 79d7b6bb76398dbc41b32af0bbb75edea652c8c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 5be4f432d21ab79c7a92d49a44889468d3a801c7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476711"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662116"
 ---
-# <a name="change-a-users-name-and-email-address"></a>ユーザーの名前と電子メール アドレスを変更します。
+# <a name="change-a-users-name-and-email-address"></a>ユーザー名とメール アドレスを変更する
 
-ユーザーの名前と電子メール アドレスを変更することは簡単です。[アクティブなユーザー](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users)に移動し、その情報を編集するユーザーを選択します。手順についてはこの資料を使用することもできます。 
+ユーザー名とメール アドレスを変更するのは簡単です。[[アクティブなユーザー](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users)] に移動してユーザーを選択し、その情報を編集します。詳細な手順については、次の記事も参照してください。 
   
-Office 365 でユーザー名とメール アドレスを変更する
+[Office 365 でユーザー名とメール アドレスを変更する](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297?wt.mc_id=change_email_AI.aspx)
   
- **注**: ユーザーのメインのメール アドレスを変更する場合、古い電子メール アドレスも有効になります (これは自動的に実行) の電子メールを受信するためです。また、組織がハイブリッド状態である場合は、すべての電子メールとユーザー名の変更をオンプレミスの Active Directory で行われると、クラウドに同期されている必要があります。 
+ **注**: ユーザーのメインのメール アドレスを変更しても、古いメール アドレスはメールの受信用に引き続き有効です (これは自動的に発生します)。また、組織がハイブリッド状態の場合、すべてのメールとユーザー名の変更をオンプレミスの Active Directory で行い、クラウドと同期する必要があります。 
   
 

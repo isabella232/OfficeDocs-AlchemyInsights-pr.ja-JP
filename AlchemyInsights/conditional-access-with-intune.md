@@ -1,5 +1,5 @@
 ---
-title: Intune で条件付きのアクセス
+title: Intune での条件付きアクセス
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477400"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662332"
 ---
-# <a name="conditional-access-with-intune"></a>Intune で条件付きのアクセス
+# <a name="conditional-access-with-intune"></a>Intune での条件付きアクセス
 
-Intune で**条件付きのアクセス**を使用するには、3 つの手順が必要です。 
+Intune で**条件付きアクセス**を使用するには、次の 3 つの手順が必要です。 
   
-- どのようなリソースが保護されていると、条件は満たす必要があるこれらのリソースにアクセスする必要がある**条件付きのアクセス ポリシー**を作成します。などのデバイスは、企業の電子メールにアクセスする前に準拠している必要があります。 
+- 保護されているリソース、およびそれらのリソースにアクセスするために満たす必要がある条件を定義する、**条件付きアクセス ポリシー**を作成します。たとえば、企業メールにアクセスする前に、デバイスを準拠させる必要があります。 
     
-- デバイスは準拠と見なされる前に満たす必要のある設定を定義するための**コンプライアンス ・ ポリシー**を作成します。などのデバイスは、準拠と見なされる前に、少なくとも 6 桁の暗証番号 (pin) が必要です。 
+- **コンプライアンス ポリシー**を作成して、デバイスが準拠していると見なされるよう満たす必要がある設定を定義します。たとえば、準拠と見なされるには、デバイスには少なくとも 6 桁の暗証番号が必要です。 
     
-- **コンプライアンス ・ ポリシー**と**アクセス ポリシーの条件**の両方が必要なユーザーのグループを対象としたことを確認します。Azure Active Directory 内の特定のユーザー グループを作成するこの必要があります。 
+- **コンプライアンス ポリシー**と**条件付きアクセス ポリシー**の両方を確認することは、目的のユーザーのグループを対象としています。これには、Azure Active Directory のユーザーで特定のグループを作成することが必要な場合があります。 
     
-詳細情報
+続きを読む:
   
-- [条件付きアクセスのベスト プラクティス](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [条件付きアクセスのベスト プラクティス](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [条件付きアクセスの概要](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [条件付きアクセスの概要](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

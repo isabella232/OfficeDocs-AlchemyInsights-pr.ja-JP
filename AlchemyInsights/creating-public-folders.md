@@ -11,27 +11,27 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 1657865d328ca9a891a2928b8a37d82db553575b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 75ed65775d4d96284d3411dcdc15eb58afbdfcc4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476825"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659524"
 ---
 # <a name="creating-public-folders"></a>パブリック フォルダーの作成
 
-ユーザーは、Office 365 内のパブリック フォルダーを使用できます、前に、少なくとも 1 つのパブリック フォルダーのメールボックスを作成する必要があります。作成します。
+Office 365 でパブリック フォルダーを使用するには、事前にパブリック フォルダー メールボックスを少なくとも 1 つ作成しておく必要があります。作成するには、次の手順を実行します。
   
-1. Office 365 の管理センターで**管理センター**に移動する\>**交換**します。
+1. Office 365 管理センターから [**管理センター**]、[**Exchange**] の順に移動します。
     
-2. **パブリック フォルダー**に移動\>**パブリック フォルダーのメールボックス**、し、[**追加**] をクリックします。
+2. [**パブリック フォルダー**]、[**パブリック フォルダー メールボックス**] の順に移動して、[**追加**] をクリックします。
     
-3. **[パブリック フォルダー メールボックス]** ページで、パブリック フォルダー メールボックスの名前を入力します。
+3. [**パブリック フォルダー メールボックス**] ページで、パブリック フォルダー メールボックスの名前を入力します。
     
-4. **[保存]** をクリックします。
+4. [**保存**] をクリックします。
     
-メールボックスが作成されると、個々 のフォルダーの作成を開始したり、 [Outlook でパブリック フォルダーの作成および開始](https://support.office.com/en-us/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)するのには、ユーザーに通知できます。管理者は、することも[、組織のパブリック フォルダーを作成](https://technet.microsoft.com/en-us/library/bb691104%28v=exchg.150%29.aspx)します。
+メールボックスが作成されたら、個々のフォルダーの作成を始めたり、ユーザーに [Outlook でパブリック フォルダーの作成や使用を開始する](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)ように伝えたりすることができます。管理者は、[組織用のパブリック フォルダーを作成する](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx)こともできます。
   
-パブリック フォルダーは、モバイル デバイス上でアクセス可能ではありません。
+モバイル デバイス上で、パブリック フォルダーにアクセスすることはできません。
   
 

@@ -1,5 +1,5 @@
 ---
-title: SpamHaus によってブロックされている電子メールを送信中にエラー
+title: SpamHaus によってブロックされたメールの送信エラー
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom: Adm_O365
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
 ms.openlocfilehash: a16c998d2f289ea2da52454819f6677c405381a1
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476817"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>メールの送信エラー:Spamhaus を使用してブロックされたクライアント ホスト
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>メール送信エラー: クライアント ホストが Spamhaus を使用してブロックされました
 
 メッセージを送信した IP アドレスは、[Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) が所有するブロック リストにあります。Spamhaus によってブロックされる理由には、アカウントが侵害された、パブリック IP アドレスを共有しているコンピューターが侵害された、およびインターネット サービス プロバイダー (ISP) のポリシーが含まれます。考えられる解決策は次のとおりです。
   

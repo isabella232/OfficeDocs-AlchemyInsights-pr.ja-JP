@@ -1,5 +1,5 @@
 ---
-title: 929 受信トレイ ルールは deflectTransport ルール
+title: 929 トランスポート ルールを回避する受信トレイ ルール
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
 ms.openlocfilehash: ed4afe938b310f1569061ad00bf90ad87e91b465
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476777"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>メール フロー ルール (トランスポート ルールでとも呼ばれます)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>メール フロー ルール (トランスポート ルールとも呼ばれます)
 
-- メール フロー ルールの概要:[メール フロー ルール (トランスポート ルール) では、Exchange オンライン](https://technet.microsoft.com/library/jj919238.aspx)
+- メール フロー ルールの全般的な概要: [Exchange Online のメール フロー ルール (トランスポート ルール)](https://technet.microsoft.com/library/jj919238.aspx)
     
-- メール フロー ルールを設定:[メール フロー ルールの手順では、Exchange オンライン](https://technet.microsoft.com/library/dn600436.aspx)
+- メール フロー ルールの設定: [Exchange Online のメール フロー ルール手順](https://technet.microsoft.com/library/dn600436.aspx)
     
-- 作成、変更、およびメール フロー ルールを削除:[メール フロー ルールの管理](https://technet.microsoft.com/library/jj657505.aspx)
+- メール フロー ルールの作成、変更、削除: [メール フロー ルールの管理](https://technet.microsoft.com/library/jj657505.aspx)
     
-Exchange オンライン PowerShell でのメール フロー ルールを管理することもできます。詳細については、 [Get TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (ビュー) で、[新しい TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule)を参照してください (作成)、[削除 TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (削除)、[セット TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (既存を変更する)[を無効にする TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (無効にする既存の) と[有効にする TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)(既存を有効にする)。 
+Exchange Online PowerShell でメール フロー ルールを管理することもできます。詳細については、「[Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule)」 (表示)、「[New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule)」 (作成)、「[Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule)」 (削除)、「[Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule)」 (既存の変更)、「[Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule)」 (既存の無効化)、および「[Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)」 (既存の有効化) を参照してください。 
   
-その他のメール フロー ルール コマンドレット: [Get TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (使用可能なアクションのリスト)、 [Get TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (リストの利用可能な条件および例外)、[エクスポート TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (ルールをエクスポート)、および[インポート TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (ルールをインポートする)。 
+その他のメール フロー ルール コマンドレット: 「[Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction)」 (使用できるアクションの一覧表示)、「[Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate)」 (使用できる条件と例外の一覧表示)、「[Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection)」 (ルールのエクスポート)、「[Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection)」 (ルールのインポート)。 
   
 

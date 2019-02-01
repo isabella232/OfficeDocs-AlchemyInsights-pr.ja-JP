@@ -10,20 +10,20 @@ localization_priority: Priority
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: f8f763b78134d1288f2fdad93b234f54df5e8d4b
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476778"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online でのファイルのアップロードの制限
+# <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online のファイルのアップロード制限
 
-- ライブラリには、最大 30 個のファイルとフォルダーを持つことができます。
+- ライブラリには、最大 3,000 万のファイルおよびフォルダーを含めることができます。
     
-- ファイル名を含む URL の長さの合計は、400 文字を超えることはできません。
+- ファイル名を含む URL の長さは、合計で 400 文字以下にする必要があります。
     
-- 各ファイル mush 15 GB 未満であります。リスト アイテムに添付されたファイルは、最大 250 mb までのサイズにできます。
+- 各ファイル サイズは 15 GB 未満にする必要があります。リスト アイテムに添付できるファイルのサイズは最大 250 MB です。
     
-- 最適なパフォーマンスは、新しい OneDrive の同期クライアントを使用して同期のライブラリでは 100,000 個のファイルを格納するをお勧めします。 
+- 新しい OneDrive 同期クライアントとの同期で最適なパフォーマンスを提供するには、ライブラリに保存するファイル数を 100,000 以下にすることをお勧めします。 
     
 [ファイル名に使用できない文字](https://go.microsoft.com/fwlink/?linkid=866430)
   

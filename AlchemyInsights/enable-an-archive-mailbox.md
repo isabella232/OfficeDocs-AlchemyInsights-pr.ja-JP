@@ -10,33 +10,33 @@ localization_priority: Priority
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476799"
 ---
 # <a name="enable-an-archive-mailbox"></a>アーカイブ メールボックスの有効化
 
-(*オンライン ・ アーカイブ*とも呼ばれます)、Office 365 のアーカイブ メールボックスは、その他の電子メールの記憶域を持つユーザーを提供します。ユーザーは移動したり、自分のアーカイブ メールボックスにアイテムをコピーし、管理者がメールボックスをアーカイブする項目を自動的に移動するアーカイブ ポリシーを作成することができます。 
+Office 365 のアーカイブ メールボックス (*オンライン アーカイブ*とも呼ばれます) は、追加のメール ストレージとして利用できます。ユーザーは、アイテムを自分のアーカイブ メールボックスに移動またはコピーできます。また、管理者は、アイテムをアーカイブ メールボックスに自動的に移動するアーカイブ ポリシーを作成できます。 
   
-アーカイブ メールボックスを作成する方法を以下に示します。
+アーカイブ メールボックスを作成する方法は次のとおりです。
   
 1. [https://protection.office.com](https://protection.office.com) に移動します。
     
-2. 管理者アカウントを使用して Office 365 にサインインします。
+2. 管理者アカウントを使って Office 365 にサインインします。
     
-3. セキュリティの左側のウィンドウで&amp;コンプライアンス センターでは、**データの管理**をクリックして\>**アーカイブ**します。
+3. セキュリティ/コンプライアンス センターの左のウィンドウで、[**データ ガバナンス**]、[**アーカイブ**] の順にクリックします。
     
-4. ユーザーのアーカイブ メールボックスを有効にするを選択します。
+4. アーカイブ メールボックスを有効にするユーザーを選択します。
     
-5. 右側の詳細ペインで**を有効にする**] をクリックし、アーカイブ メールボックスを有効にする警告メッセージで **[はい**] をクリックします。 
+5. 右の詳細ウィンドウで [**有効**] をクリックし、警告メッセージで [**はい**] をクリックしてアーカイブ メールボックスを有効にします。 
     
-一括で有効にできます ( **shift キー**または**Ctrl**キーを使用して) 複数のユーザーを選択することによってメールボックスをアーカイブし、詳細ペインで**を有効にする**] をクリックします。 
+アーカイブ メールボックスを一括で有効にするには、(**Shift** キーまたは **Ctrl** キーを使用して) 複数のユーザーを選択し、詳細ウィンドウで [**有効**] をクリックします。 
   
-詳細については、次のトピックを参照してください。
+詳細については、以下を参照してください。
   
-- [Office 365 のアーカイブ メールボックスを有効にします。](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Office 365 でアーカイブ メールボックスを有効にする](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
     
-- [Office 365 のアーカイブと削除ポリシーを設定します。](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Office 365 のアーカイブと削除ポリシーを設定する](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
     
 

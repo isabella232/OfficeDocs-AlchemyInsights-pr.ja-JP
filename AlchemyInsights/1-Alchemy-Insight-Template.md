@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454219"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662935"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>必須の顧客に接続する H1、H2 は機能しません。
 テキスト ブロックの例 - 次の手順に従います。
 
-1. **AlchemyInsights** フォルダー内のファイルには、[Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)のルール ID とルール名が含まれている必要があります。
+1. **AlchemyInsights** フォルダー内のファイルには、ファイル名に [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)のルール ID とルール名が含まれている必要があります。
     1. 例: ***976-How-to-enable-litigation-hold***
 1. このファイルの冒頭にあるメタデータをテンプレートとして使用します。それ以外のものは必要ありません。
 1. [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)で、セクション [**Customer Insight Title:**] まで下方向に移動し、それをインサイトの H1 タイトルの出発点として使用します。 
@@ -34,3 +34,8 @@ ms.locfileid: "29454219"
     1. リンクは常に、内部リンクではなく、**"Web へのリンク"/外部**または **UI 要素へのディープ リンク**のいずれかである必要があります。
 
 また、これは実際には既に多少長すぎます。ベスト プラクティスは約 400 文字です ---------------------------------
+
+コンテンツの準備ができたら、ライブ ブランチに抽出します。次に、[Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)に移動して、ファイル名を URL フィールドに入力します。確認および発行された分析情報に "はい" と示されていることを確認し、[ルールの更新] をクリックします (これは、間もなくリリースされる、新しいバージョンのポータルではよりきれいになっています)。
+
+![URL フィールド](media/for-content-team.PNG)
+
