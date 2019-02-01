@@ -1,5 +1,5 @@
 ---
-title: Office を有効にする
+title: Office をライセンス認証する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: a7a1405c73661142e78fb46b9aa66eaafbd1b4b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 1a73b962d599fe6c2741afeb41528c8aacae633f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476797"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659488"
 ---
-# <a name="activate-office"></a><span data-ttu-id="5a96a-102">Office を有効にする</span><span class="sxs-lookup"><span data-stu-id="5a96a-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="951c1-102">Office をライセンス認証する</span><span class="sxs-lookup"><span data-stu-id="951c1-102">Activate Office</span></span>
 
-<span data-ttu-id="5a96a-p101">職場、学校のアカウントを使用して署名することにより、Office をアクティブにできます。この資料の手順を使用して、Office をアクティブにする: [Office のライセンス認証](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)します。</span><span class="sxs-lookup"><span data-stu-id="5a96a-p101">You can activate Office by signing in using your work or school account. Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="951c1-p101">自分の職場または学校アカウントを使用してサインインすることで、Office をライセンス認証することができます。「[Office をライセンス認証する](https://support.office.com/article/https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)」の記事の手順を使って、Office をライセンス認証します。</span><span class="sxs-lookup"><span data-stu-id="951c1-p101">You can activate Office by signing in using your work or school account. Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   
 
