@@ -2,23 +2,25 @@
 title: コミュニケーション サイトでの発行インフラストラクチャ
 ms.author: kirks
 author: Techwriter40
-ms.date: 11/30/2018
+ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 9cdb6226d61ec8258c96d422e14762523064bb53
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 20c207c7447ea96672a03529707e855e63c7d83f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476607"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660964"
 ---
 # <a name="publishing-infrastructure-with-a-communication-site"></a>コミュニケーション サイトでの発行インフラストラクチャ
 
-コミュニケーション サイトでの SharePoint Server 発行インフラストラクチャ機能の有効化は**サポートされていません**。[UserVoice ](https://go.microsoft.com/fwlink/?linkid=2047322&amp;clcid=0x409) にフィードバックを入力してください。 
+
+コミュニケーション サイトでの SharePoint Server 発行インフラストラクチャ機能の有効化は**サポートされていません**。 
   
-詳細については、「[発行機能を有効にする](https://support.office.com/ja-JP/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)」を参照してください。 
+詳細については、「[発行サイトからコミュニケーション サイトへの移動](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)」を参照してください。 
   
 

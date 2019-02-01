@@ -1,5 +1,5 @@
 ---
-title: 追加またはユーザーの電子メール エイリアスを削除します。
+title: ユーザーのメール エイリアスを追加または削除する
 ms.author: dianef
 author: dianef77
 ms.date: 4/16/2018
@@ -10,15 +10,15 @@ localization_priority: Priority
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.openlocfilehash: 7060d993bb216352140d00c9d6de4a8c6dbc3804
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476750"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>追加またはユーザーの電子メール アドレスを削除します。
+# <a name="add-or-remove-an-email-address-for-a-user"></a>ユーザーのメール アドレスを追加または削除する
 
-- [開始ここをクリック](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)します。
+- 始めるには、[こちら](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)を参照してください。
     
- **注**: ユーザーは、1 つ以上の電子メール アドレスを持つことができますが、追加の*電子メール エイリアス*は、電子メールを受信するためのみ使用できます。エイリアスに電子メールを送信する場合は、[共有メールボックス](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)を作成します。このようにメールを送受信するためのエイリアスが表示されます。 
+ **注**: ユーザー用のメール アドレスは複数持つことができますが、追加の*メール エイリアス*は、メールを受信する場合にのみ使用できます。エイリアスを使用してメールを送信する必要がある場合は、[共有メールボックス](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)を作成します。このようにメールを送受信するエイリアスが表示されます。 
   
 

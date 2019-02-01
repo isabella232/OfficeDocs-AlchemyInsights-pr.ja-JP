@@ -1,5 +1,5 @@
 ---
-title: 既に支払われたでしょうか。
+title: お支払い済みですか?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
 ms.openlocfilehash: 27fc37b4775b3f10f8188f316213553541f34c91
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476703"
 ---
-# <a name="already-paid"></a>既に支払われたでしょうか。
+# <a name="already-paid"></a>お支払い済みですか?
 
-支払を送信した場合は、お知らせがわかります。
+お支払い済みの場合は、次の方法でお知らせください。
   
-1. [サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動または**請求先**を選択して\>**のサブスクリプション**。
+1. [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、[**課金**]、[**サブスクリプション**] の順に選択します。
     
-2. サブスクリプションを選択し、[**請求書**] セクションで、**ビューの部品**を選択します。
+2. サブスクリプションを選択し、[**課金内容**] セクションで [**課金内容の表示**] を選択します。
     
-3. **支払についての詳細**ページで、選択**既に支払われた?** 送信された支払に関連する情報を入力する求められます。 
+3. [**課金情報の詳細**] ページで、[**お支払い済みですか?**] を選択します。送信した支払に関連する情報を入力するように求められます。 
     
-4. すべての必要な情報が入力されると、**送信**を選択します。
+4. 必要な情報をすべて入力したら、[**送信**] を選択します。
     
 

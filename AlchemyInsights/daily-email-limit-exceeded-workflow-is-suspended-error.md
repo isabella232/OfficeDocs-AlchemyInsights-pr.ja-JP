@@ -1,5 +1,5 @@
 ---
-title: 毎日メールが制限を超えました。ワークフロー中断エラーとは
+title: "\"1 日のメールの制限を超えました。ワークフローは中断されています\" エラー"
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/16/2018
@@ -10,20 +10,20 @@ localization_priority: Priority
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
 ms.openlocfilehash: 4f27e353f5208734ca9bda8fd1516f6818aa3129
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476697"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>毎日メールが制限を超えました。ワークフロー中断エラーとは
+# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>"1 日のメールの制限を超えました。ワークフローは中断されています" エラー
 
- **毎日の電子メールの制限を超えました。ワークフローが中断されている**エラー メッセージは、次の項目のいずれかの操作をした場合に発生する可能性があります。 
+ 次の項目のいずれかに該当する場合、**1 日のメールの制限を超えました。ワークフローは中断されています** エラー メッセージが発生する可能性があります。 
   
-- SharePoint Online で SharePoint 2010 または SharePoint 2013 ワークフロー プラットフォームの種類を使用しているワークフローがあります。
+- SharePoint Online に、SharePoint 2010 または SharePoint 2013 ワークフロー プラットフォームの種類を使用しているワークフローがあります。
     
-- 時刻、1 日に 1万人以上の受信者または 1 分あたり 30 個以上のメッセージに、200 社以上のユーザーにカスタム電子メール メッセージを送信するワークフローを構成します。
+- ワークフローは、ユーザー設定のメール メッセージを一度に 200 を超えるユーザー、または 1 日に 1 万を超える受信者に送信するか、1 分あたり 30 件を超えるメッセージを送信するように、構成されています。
     
-- ワークフローを実行して、電子メール メッセージは送信されず、エラー メッセージが表示する、**内部の状態が保留または受信者に送信できませんに設定**が表示されます。 
+- ワークフローを実行すると、電子メールメッセージは送信されず、**[内部の状態] が "中断" または "受信者に送信できません" に設定されました**という内容のエラー メッセージが表示されます。 
     
-詳細については、[毎日の電子メールの制限を超えていてワークフローが中断されている](https://go.microsoft.com/fwlink/?Linkid=2031137)を参照してください。
+詳細については、[1 日のメールの制限を超えました。ワークフローは中断されています](https://go.microsoft.com/fwlink/?Linkid=2031137)に関するページを参照してください。
   

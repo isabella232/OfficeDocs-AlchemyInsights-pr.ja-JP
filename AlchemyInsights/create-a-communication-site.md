@@ -1,5 +1,5 @@
 ---
-title: コミュニケーション サイトを作成します。
+title: コミュニケーション サイトを作成する
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/13/2018
@@ -10,21 +10,21 @@ localization_priority: Priority
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
 ms.openlocfilehash: e4a217578e9db5b315516c09ab245950266994f9
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476701"
 ---
-# <a name="create-a-communication-site"></a>コミュニケーション サイトを作成します。
+# <a name="create-a-communication-site"></a>コミュニケーション サイトを作成する
 
 コミュニケーション サイトを作成するには、次の手順を実行します。 
   
-1. ページの左上隅には、アプリケーション起動ツールをクリックし、SharePoint タイルを選択します。SharePoint のタイルが表示されない場合は、**サイト**または**すべてのアプリケーション**を SharePoint に表示されていない場合クリックします。 
+1. ページの左上隅で、アプリ起動ツールをクリックし、[SharePoint] タイルを選択します。[SharePoint] タイルが表示されない場合は、[**サイト**] タイルをクリックし、[SharePoint] が表示されない場合は、[**すべてのアプリ**] をクリックします。 
     
-2. SharePoint ページの上部には、**サイトを作成**] をクリックし、**コミュニケーション サイト**を選択します。サイトの作成ウィザードの手順に従います。 
+2. SharePoint ページの上部で、[**サイトの作成**] をクリックし、[**コミュニケーション サイト**] を選択します。サイトの作成ウィザードの手順に従います。 
     
- **注**:**サイトを作成**するためのオプションが表示されない、Office 365 でセルフ サービス サイト作成を無効に可能性があります。チーム サイトを作成するのには、組織で Office 365 の管理人に問い合わせてください。テナント管理者にする場合を参照してください[組織のセルフ サービス サイト作成を有効にする SharePoint online サイトの作成を管理します](https://go.microsoft.com/fwlink/?linkid=2018780)。
+ **注**: [**サイトの作成**] のオプションが表示されない場合、Office 365 でセルフサービス サイトの作成が無効になっている可能性があります。組織で Office 365 を管理している担当者に連絡し、チーム サイトを作成してください。テナントの管理者は、「[SharePoint Online のサイト作成を管理する](https://go.microsoft.com/fwlink/?linkid=2018780)」を参照し、組織のセルフサービス サイト作成を有効にしてください。
   
- **注:** コミュニケーション サイトを作成しようとしているし、URL を取得するのに追加されますのランダムな番号で、同じ URL を持つサイトは、SharePoint 環境内に既に存在するまたは削除され、削除されたサイト (ごみ箱) に存在する可能性があります。使用[https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite)ごみ箱を評価するために、 [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) 、ごみ箱からサイトを削除するのには。 
+ **注:** コミュニケーション サイトを作成しようとすると、乱数と一緒に URL が付加される場合は、同じ URL を持つサイトが SharePoint 環境に既に存在するか、削除されていてもまだ [削除されたサイト] (ごみ箱) に存在している可能性があります。ごみ箱を評価するには [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) を使用し、ごみ箱からサイトを削除するには [ https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) を使用します。 
   
 
