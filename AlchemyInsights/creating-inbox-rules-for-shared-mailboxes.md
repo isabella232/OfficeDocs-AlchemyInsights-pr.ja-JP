@@ -1,5 +1,5 @@
 ---
-title: 共有メールボックスの受信トレイ ルールを作成します。
+title: 共有メールボックスの受信トレイ ルールの作成
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -10,15 +10,15 @@ localization_priority: Priority
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: 5c436f9f7d76434bb9c9e5e3dc539379b5eaa0b6
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477344"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>共有メールボックスの受信トレイ ルールを作成します。
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>共有メールボックスの受信トレイ ルールの作成
 
-ルールを追加することができますが自分のアカウントにルールを追加する方法と同じ方法でへのアクセスがある場合、共有されているメールボックスにします。 
+ルールを自分のアカウントに追加する場合と同様の方法で、自分にアクセスが与えられている共有メールボックスに関するルールを追加できます。 
   
-問題の共有メールボックスのメンバーであるし、この資料の手順を確認します[共有されているメールボックスにルールを追加](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )。
+該当する共有メールボックスに自分が所属していることを確認し、「[Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )」 (共有メールボックスにルールを追加する) という記事の手順に従ってください。
   
 

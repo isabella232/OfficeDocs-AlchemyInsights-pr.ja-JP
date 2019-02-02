@@ -2,44 +2,28 @@
 title: ライセンス認証のトラブルシューティング
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: 記事は短い前書き (1 文) から始めます。読者の立場に立ち、読者がこの記事を読む目的や、何を必要としているかを考慮します。
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498271"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646964"
 ---
-記事は短い前書き (1 文) から始めます。読者の立場に立ち、読者がこの記事を読む目的や、何を必要としているかを考慮します。 
-  
-1. 前置きなしで、タスクを完了するための簡単な手順のリストを記載します。
-    
-    概念を説明する必要がある場合や、前提条件の手順を実行する必要がある場合は、簡単な概要を手順の下の必要な場所に追加し、概念や手順への[リンク](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx)を張ります。 
-    
-2. 手順は簡潔にします。可能であれば 5 つ以下にまとめ、8 つ以上にはしません。
-    
-3. ユーザー インターフェイス要素や、ユーザーが入力する必要のあるテキストには、**UI スタイル**を使用します。 
-    
-4. 操作を示す動詞には「選択する」や「入力する」を使用し、メニューについては **[メニュー]** \> **[コマンド]** の形式を使用します。
-    
-5. 必要に応じて、コンテキストのスクリーンショットを追加します (UI が見つけにくい場合や、タスクの完了に必要な場合)。
-    
-    最大幅は 520 ピクセルです。標準のテーマを使用し、個人情報を表示してはいけません。関連する情報のみが表示されるようにトリミングします。 
-    
-    ![プレース ホルダー - SOC 記事のアートの最大幅は 520 ピクセル](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-ビデオやスクリーンショットを追加する場合は 2 段組みグリッドを使用して、左に手順、右にビデオやスクリーンショットを表示します。「[手順およびビデオのグリッドの例](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)」を参照してください。 
-  
-1 つの記事は 500 語以下でまとめることを目標にします。
-  
-# <a name="example-article"></a>記事の例
+# <a name="activation-troubleshooting"></a>ライセンス認証のトラブルシューティング
 
-[自分の写真を変更する](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**コントロール パネル**の [**プログラムと機能**] で、Office を検索します。Microsoft Office 365 ProPlus または Microsoft Office 365 Business が表示されます。複数のバージョンの Office の一覧が表示されている場合は、使用していないバージョンをアンインストールします。 
   
-
+コントロール パネルを使用して正常にアンインストールできない場合は、[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)を使用して、使用していないバージョンをアンインストールします。 
+  
+Office がまだライセンス認証されていない場合は、**コントロール パネル**の [**プログラムと機能**] に戻ります。残りの Office インストールを右クリックし、[**変更**] を選択して、[**オンライン修復**] を選択します。オンライン修復には時間がかかる場合があります。次に、確認メッセージが表示されたら、Office を再起動し、職場または学校のアカウントを使用してサインインします。
+  
+Office がまだライセンス認証されていない場合は、影響を受けたコンピューター上で[ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)をダウンロードして実行し、ライセンス認証の問題を解決します。 
+  
+詳細については、「[Office のライセンスのない製品というエラーとアクティブ化のエラー](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)」を参照してください。

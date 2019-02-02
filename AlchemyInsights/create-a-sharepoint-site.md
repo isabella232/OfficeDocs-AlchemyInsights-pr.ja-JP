@@ -2,29 +2,25 @@
 title: SharePoint サイトを作成する
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477040"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657508"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint サイトを作成する
 
-新しい SharePoint 管理センターのサイトを管理するには、現在の SharePoint 管理センターを参照してやってこれで、右上のアクティブなサイトを選択します。新しい SharePoint 管理センターについてを参照してください[SharePoint 管理センターで開始します](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)。
+サイト作成のオプションについては、[新しい SharePoint 管理センターでのサイトの管理](https://docs.microsoft.com/sharepoint/manage-site-creation )に関するページを参照してください。[チーム サイト](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (これにより、Office 365 グループが作成されます)、または[コミュニケーション サイト](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)を作成するよう選択します。[従来のサイト](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)、または Office 365 グループが含まれない新しいチーム サイトを作成するには、[**その他のオプション**] をクリックします。 
   
-1. [ **作成**] をクリックします。 
-    
-2. (これは、Office 365 のグループが作成されます)、チーム サイトやコミュニケーション サイトを作成するを選択します。クラシックのサイト、またはを Office 365 のグループが含まれていない新しいチーム サイトを作成するには、**他のオプション**をクリックします。新しいサイト テンプレートに関する情報は、 [SharePoint Online のチーム サイトを作成して](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) [、SharePoint Online 通信サイトの作成](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)を参照してください。
-  
- **注:** 既存のサイトの同じ URL で新しいサイトを作成できません。サイトを削除して、URL を再利用しようとしている可能性を使用している URL を持つサイトは**サイトを削除します**。**削除されたサイト**] をクリックして、完全に削除するサイトを強調表示し、 **[削除**] ボタンを選択します。 
-  
- **注:** サイトを作成できるユーザーを管理するには、 [SharePoint Online の管理サイトの作成](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation)を参照してください。
-    
-
+ヒント:
+- *既存のサイトと同じ URL を持つサイトを作成することはできません。サイトを削除し、その URL を再利用する場合は、削除したサイトが [**削除されたサイト**] 下にまだ存在する可能性があります。削除したサイトを管理するには、[サイトの削除](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)に関するページを参照してください。Powershell を使用してサイトを完全に削除するには、[Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) コマンドレットの例を参照してください。*
+- *ユーザーによっては、サイトを作成できない場合があります。「[SharePoint Online のサイト作成を管理する](https://docs.microsoft.com/sharepoint/manage-site-creation)」を参照してください。*
+- *サイトが**作成中に**予想より長く停止しているように見えることがあります。この問題が初めて発生してから 24 時間以上経過している場合は、サポート チケットを記録してください。多くの場合は、Microsoft が既に解決策に取り組んでいます。解決策の完成までには 24 時間以上の時間がかかります。*

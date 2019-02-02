@@ -1,5 +1,5 @@
 ---
-title: For Mac Outlook でパスワードのプロンプトを繰り返し発生しているでしょうか。
+title: Outlook for Mac でパスワード プロンプトが繰り返し表示される場合
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: db6bf22d5077805fefc44880478bf9cbae4d9538
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 400d7c269d4dc0dd43cf98ce4662c4c126e4570a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477106"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29654137"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>For Mac Outlook でパスワードのプロンプトを繰り返し発生しているでしょうか。
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Outlook for Mac でパスワード プロンプトが繰り返し表示される場合
 
-Mac ヘルプをアプリケーションから直接より専門的な Outlook の提供を支援します。
+より専門的な Outlook for Mac のヘルプを、アプリケーションから直接提供できます。
   
-影響を受けるユーザーの Mac では、Outlook を開き、[**ヘルプ**] をクリックしてください\>**サポートに問い合わせてください**。
+影響を受けたユーザーの Mac に移動し、Outlook を開いて、[**ヘルプ**]、[**サポートに問い合わせる**] の順にクリックします。
   
-Mac アプリケーションで顧客をサポートするための Outlook を使用する方法の詳細については、この資料を参照してください: [Mac 用の Outlook 2016 の新しい取引先担当者のサポートの機能](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+アプリ内カスタマー サポートでの Outlook for Mac の使用方法の詳細については、「[Outlook 2016 for Mac のサポートに問い合わせの新機能](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)」の記事を参照してください。
   
 

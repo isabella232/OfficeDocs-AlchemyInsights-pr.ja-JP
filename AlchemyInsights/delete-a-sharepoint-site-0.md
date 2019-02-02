@@ -1,5 +1,5 @@
 ---
-title: SharePoint サイトを削除します。
+title: SharePoint サイトを削除する
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -11,43 +11,43 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477304"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646388"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 のグループに属しているサイトを削除します。
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 グループに属しているサイトを削除する: 
 
-ユーザーは、SharePoint のホームから新しいチーム サイトを作成 (または新しい SharePoint 管理センターのプレビューから新しいチーム サイトを作成する)、対応する Office 365 グループが自動的に作成されます。Office 365 のグループに接続されたチーム サイトは、マイクロソフトのチームで、Office 365 のグループまたはチームを作成するときにも作成されます。Office 365 のグループに所属する SharePoint サイトを削除するには、Office 365 のグループ自体を削除する必要があります。 
+ユーザーが SharePoint ホームから新しいチーム サイトを作成する (または、新しい SharePoint 管理センターのプレビューから新しいチーム サイトを作成する) と、対応する Office 365 グループが自動的に作成されます。Microsoft Teams で Office 365 グループまたはチームを作成すると、Office 365 グループ接続チーム サイトも作成されます。Office 365 グループに属している SharePoint サイトを削除するには、Office 365 グループ自体を削除する必要があります。 
   
-1. [Office 365 管理センターのグループのページ](https://portal.office.com/adminportal/home#/groups)に移動します。
+1. [Office 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。
     
-2. グループの横のチェック ボックスを選択します。
+2. グループの横にあるチェック ボックスをオンにします。
     
-3. **削除**を選択します。
+3. **[削除]** を選択します。
     
-注: グループを削除する場合があります遅延サイトは、sharepoint サイトから削除される前に。
+メモ: グループを削除しても、SharePoint からサイトが削除されるまで時間がかかる場合があります。
   
-## <a name="delete-communication-sites-or-classic-sites"></a>コミュニケーション サイトやクラシックのサイトを削除します。
+**コミュニケーション サイトまたはクラシック サイトを削除する:** 
 
-1. サイトに移動します。
+1. サイトにアクセスします。
   
-2. をクリックします * * 設定 * * 右上のアイコン。 
+2. 右上の [設定] アイコンをクリックします。 
   
-3. [**サイトの設定**] をクリックします。**サイトの情報**または**サイトの操作**は、[**このサイトを削除**] をクリックし、[**削除**] をクリックします。
+3. [**サイトの設定**] をクリックします。[**サイト情報**] または [**サイトの操作**] で [**このサイトを削除**] をクリックして、[**削除**] をクリックします。
   
-## <a name="delete-a-sharepoint-site-collection"></a>SharePoint サイト コレクションを削除します。
+**SharePoint のサイト コレクションを削除する:** 
 
-クラシックのサイト コレクションを削除するには。
+従来のサイト コレクションを作成するには: 
   
-1. クラシック SharePoint 管理センターで、[サイト コレクション] ページで、サイト コレクションの横の**チェック ボックス**を選択します。 
+1. 従来の SharePoint 管理センターの [サイト コレクション] ページで、サイト コレクションの隣の**チェック ボックス**を選択します。 
     
-2. [サイト コレクション] タブを選択して**を削除します**。
+2. [サイト コレクション] タブで、[**削除**] を選択します。
     
-## <a name="deleted-a-site-by-accident"></a>事故によって、サイトを削除しますか。
+**誤ってサイトを削除した場合**
 
-[削除されたサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660)を参照してください。
+「[削除されたサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660)」を参照してください。
   
 

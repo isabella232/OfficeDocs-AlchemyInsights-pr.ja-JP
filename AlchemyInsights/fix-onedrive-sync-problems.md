@@ -1,5 +1,5 @@
 ---
-title: OneDrive の同期に関する問題を解決する
+title: OneDrive の同期の問題を修正する
 ms.author: matteva
 author: matteva
 manager: scotv
@@ -13,19 +13,19 @@ ms.custom: Adm_O365
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
 ms.openlocfilehash: bb3f57454b09c5667204ce8c7b812e5889c46d9a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476891"
 ---
-# <a name="fix-onedrive-sync-problems"></a>OneDrive の同期に関する問題を解決する
+# <a name="fix-onedrive-sync-problems"></a>OneDrive の同期の問題を修正する
 
-- オンライン アカウントのチェックは、OneDrive をアクセスすることができます。 左上のアプリケーション起動ツールのアイコンをクリックし、[OneDrive] をクリックします。
+- 自分の OneDrive アカウントにオンラインでアクセスできることを確認する: 左上にあるアプリ起動ツールをクリックし、[OneDrive] をクリックします。
     
-- お使いのコンピューターが最新の状態になっていることを確認します[最新の Windows 更新プログラムをダウンロード](http://go.microsoft.com/fwlink/p/?LinkId=825773)、 [OneDrive の最新バージョンをダウンロード](https://go.microsoft.com/fwlink/p/?linkid=844652)。
+- コンピューターが最新の状態になっていることを確認する: [最新の Windows 更新プログラムをダウンロードする](http://go.microsoft.com/fwlink/p/?LinkId=825773)、[最新版の OneDrive をダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- OneDrive のリンクを解除し、OneDrive のセットアップを再度実行: タスク バーの右端にある通知領域、青の OneDrive クラウド アイコンを右クリックします。**の設定**] をクリックし、[**この PC のリンクを解除**] をクリックします。手順を開始] を OneDrive、OneDrive を再設定します。
+- OneDrive のリンクを解除し、OneDrive セットアップをもう一度実行する: タスク バーの右端の通知領域にある青い OneDrive クラウド アイコンを右クリックし、[**設定**] をクリックし、[**この PC のリンク解除**] をクリックします。[OneDrive へようこそ] ウィザードの手順に従い、OneDrive をもう一度セットアップします。
     
-[同期に関する問題のトラブルシューティングの手順](https://go.microsoft.com/fwlink/?linkid=866431)
+[同期問題のその他の解決手順](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 サブスクリプションをキャンセルしますか。
+title: Office 365 サブスクリプションをキャンセルする場合
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 3f9c25022af3c634379705312103ecdb8f5042f1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 034ef73502816d491a8bd77b633a3b8eb3da0ea9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477275"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655708"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルしますか。
+# <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
-申し訳ありませんに移動するを参照してください。 
+ご利用いただきありがとうございました。 
   
-組織のデータに基づいて、現在のすべてのサブスクリプションに接続クライアント数が 25 未満の場合があると考えています。オンライン サブスクリプションをキャンセルするのには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか**請求** \> **サブスクリプション**では、**他のアクション**を選択し、 \> **のサブスクリプションをキャンセル**します。
+組織のデータに基づくと、現在のすべてのサブスクリプションのシートは 25 未満であると思われます。サブスクリプションをオンラインでキャンセルするには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、または [**課金**]、[**サブスクリプション**] の順に移動して、[**その他のアクション**]、[**サブスクリプションのキャンセル**] の順に選択します。
   
-購読の取り消しの詳細や手順についての詳細については、この資料を参照してください:[ビジネスのための Office 365 のキャンセル](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+サブスクリプションのキャンセルに関する詳細または詳しい手順については、「[一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)」の記事を参照してください。
   
 

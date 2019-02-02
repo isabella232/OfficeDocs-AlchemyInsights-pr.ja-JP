@@ -1,5 +1,5 @@
 ---
-title: ユーザを削除します。
+title: ユーザーの削除
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
 ms.openlocfilehash: bd115a7c8949228ad9b1934edc98449c92b8f632
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477571"
 ---
-# <a name="deleting-users"></a>ユーザを削除します。
+# <a name="deleting-users"></a>ユーザーの削除
 
-すぐにユーザーのアクセスとブロックの情報を保持する必要が場合を参照してください[のまま従業員があると、データへのアクセスに電子メールをブロックする必要がありますか?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b) 。
+ユーザーのアクセスをすぐにブロックし、その情報を保持する必要がある場合は、[離職する従業員がいて、データとメールへのアクセスをブロックする必要がある場合](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)に関するページを参照してください。
   
-ユーザーを削除するし、データのいずれかを単に、[組織からユーザーを削除する](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e)を参照してください。ライセンスをこのすぐに解放します。
+単にユーザーを削除し、そのデータには関心がない場合は、[組織からのユーザーの削除](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e)に関するページを参照してください。これにより、ライセンスがすぐに削除されます。
   
 
