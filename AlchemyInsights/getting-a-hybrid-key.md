@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
 ms.openlocfilehash: dd650c881d16b5901363190d292e7349ff17482c
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477424"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="7677f-102">ハイブリッド交換キーを取得します。</span><span class="sxs-lookup"><span data-stu-id="7677f-102">Getting an Exchange hybrid key</span></span>
+# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="cb3f6-102">Exchange ハイブリッド キーの取得</span><span class="sxs-lookup"><span data-stu-id="cb3f6-102">Getting an Exchange hybrid key</span></span>
 
-<span data-ttu-id="7677f-p101">設置組織を Exchange Online では、Office 365 に接続するには設置型の組織内の少なくとも 1 つの Exchange サーバーを設定する必要があります。オンプレミスの Exchange 組織を Exchange Online に接続するハイブリッド展開を作成するには、このサーバーが使用されます。このサーバーのハイブリッドのキーを取得するには、 [Exchange ハイブリッド製品キーの配布ウィザード](http://aka.ms/hybridkey)で、手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="7677f-p101">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization. This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online. To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
+<span data-ttu-id="cb3f6-p101">Office 365 の Exchange Online にオンプレミス組織を接続するには、少なくとも 1 つの Exchange サーバーをオンプレミス組織に設定する必要があります。このサーバーは、オンプレミス組織を Exchange Online に接続するハイブリッド展開を作成するために使用されます。このサーバーのハイブリッド キーを取得するには、[Exchange ハイブリッド プロダクト キー配布ウィザード](http://aka.ms/hybridkey)の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="cb3f6-p101">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization. This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online. To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
   
 

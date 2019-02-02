@@ -1,5 +1,5 @@
 ---
-title: 動作していないクレジット カード番号の DLP ルール
+title: クレジット カード番号の DLP ルールが機能しない
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,43 +9,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477545"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657472"
 ---
-<span data-ttu-id="61a98-p101">**データ損失防止 (DLP)** O365 で DLP の機密性の高い情報の種類を使用する場合は、**クレジット カード番号**を含むコンテンツの動作していない問題が発生しているでしょうか。その場合は、コンテンツには、トリガーに必要な情報が含まれていることを確認して、DLP ポリシーが評価されるときです。などの 85% の信頼レベルで構成されている**クレジット カードのポリシー** 、次は評価され、ルールをトリガーするを検出する必要があります。</span><span class="sxs-lookup"><span data-stu-id="61a98-p101">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Credit Card Number** when using a DLP sensitive information type in O365? If so, make sure your content contains the needed information to trigger the the DLP policy when it is evaluated. For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span> 
+<span data-ttu-id="8026e-p101">O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている**クレジット カード ポリシー**の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。</span><span class="sxs-lookup"><span data-stu-id="8026e-p101">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Credit Card Number** when using a DLP sensitive information type in O365? If so, make sure your content contains the needed information to trigger the the DLP policy when it is evaluated. For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span> 
   
-- <span data-ttu-id="61a98-105">**[形式:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 桁の数字書式を設定することができますが、または書式設定されていない (dddddddddddddddd) と、Luhn のテストに合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="61a98-105">**[Format:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 digits which can be formatted or unformatted (dddddddddddddddd) and must pass the Luhn test.</span></span> 
+- <span data-ttu-id="8026e-105">**[書式:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 書式設定あり、または書式設定なし (dddddddddddddddd) の 16 桁の数字 (Luhn テストに合格する必要あり)。</span><span class="sxs-lookup"><span data-stu-id="8026e-105">16 digits which can be formatted (dddd-dddd-dddd-dddd) or unformatted (dddddddddddddddd) and must pass the Luhn test.</span></span> 
     
-- <span data-ttu-id="61a98-106">**[パターン:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Visa、Mastercard、カードの検出、安全、アメリカン エキスプレス、ギフト カード、および給仕のカードを含め、全世界のすべての主要ブランドからカードを検出する非常に複雑で堅牢なパターンです。</span><span class="sxs-lookup"><span data-stu-id="61a98-106">**[Pattern:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Very complex and robust pattern that detects cards from all major brands worldwide, including Visa, MasterCard, Discover Card, JCB, American Express, gift cards, and diner cards.</span></span> 
+- <span data-ttu-id="8026e-106">**[パターン:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** 世界規模の主要ブランドのカード (Visa、MasterCard、Discover Card、JCB、American Express、ギフト カード、Dinars Club Card など) を検出する非常に複雑で信頼性の高いパターンです。</span><span class="sxs-lookup"><span data-stu-id="8026e-106">Very complex and robust pattern that detects cards from all major brands worldwide, including Visa, MasterCard, Discover Card, JCB, American Express, gift cards, and diner cards.</span></span> 
     
-- <span data-ttu-id="61a98-107">**[チェックサム:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** はい、Luhn のチェックサム</span><span class="sxs-lookup"><span data-stu-id="61a98-107">**[Checksum:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Yes, the Luhn checksum</span></span> 
+- <span data-ttu-id="8026e-107">**[チェックサム:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** あり (Luhn のチェックサム)。</span><span class="sxs-lookup"><span data-stu-id="8026e-107">Yes, the Luhn checksum</span></span> 
     
-- <span data-ttu-id="61a98-108">**[定義:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP ポリシーとは、85% をこの種類の機密情報を検出したことを確信、近くにある 300 文字以内の場合。</span><span class="sxs-lookup"><span data-stu-id="61a98-108">**[Definition:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** A DLP policy is 85% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
+- <span data-ttu-id="8026e-108">**[定義:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP ポリシーは、抽出した約 300 文字が次の条件に該当することを検出した場合に、85% の確証を持ってそれがこの種類の機密情報であると特定します。</span><span class="sxs-lookup"><span data-stu-id="8026e-108">**[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** A DLP policy is 85% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
     
-  - <span data-ttu-id="61a98-109">関数 Func_credit_card がパターンに一致するコンテンツを検出した。</span><span class="sxs-lookup"><span data-stu-id="61a98-109">The function Func_credit_card finds content that matches the pattern.</span></span>
+  - <span data-ttu-id="8026e-109">関数 Func_credit_card がパターンに一致するコンテンツを検出した。</span><span class="sxs-lookup"><span data-stu-id="8026e-109">The function Func_credit_card finds content that matches the pattern.</span></span>
     
-  - <span data-ttu-id="61a98-110">次のいずれかの条件に該当する:</span><span class="sxs-lookup"><span data-stu-id="61a98-110">One of the following is true:</span></span> 
+  - <span data-ttu-id="8026e-110">次のいずれかの条件に該当する:</span><span class="sxs-lookup"><span data-stu-id="8026e-110">One of the following is true:</span></span> 
     
-  - <span data-ttu-id="61a98-111">Keyword_cc_verification のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="61a98-111">A keyword from Keyword_cc_verification is found.</span></span>
+  - <span data-ttu-id="8026e-111">Keyword_cc_verification のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="8026e-111">A keyword from Keyword_cc_verification is found.</span></span>
     
-  - <span data-ttu-id="61a98-112">Keyword_cc_name のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="61a98-112">A keyword from Keyword_cc_name is found</span></span>
+  - <span data-ttu-id="8026e-112">Keyword_cc_name のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="8026e-112">A keyword from Keyword_cc_name is found.</span></span>
     
-  - <span data-ttu-id="61a98-113">関数 Func_expiration_date が適切な日付形式の日付を検出した。</span><span class="sxs-lookup"><span data-stu-id="61a98-113">The function Func_expiration_date finds a date in the right date format.</span></span>
+  - <span data-ttu-id="8026e-113">関数 Func_expiration_date が適切な日付形式の日付を検出した。</span><span class="sxs-lookup"><span data-stu-id="8026e-113">The function Func_expiration_date finds a date in the right date format.</span></span>
     
-  - <span data-ttu-id="61a98-114">チェックサムが渡される。</span><span class="sxs-lookup"><span data-stu-id="61a98-114">The checksum passes</span></span>
+  - <span data-ttu-id="8026e-114">チェックサムが渡される。</span><span class="sxs-lookup"><span data-stu-id="8026e-114">The checksum passes.</span></span>
     
-    <span data-ttu-id="61a98-115">たとえば、次の例を DLP のクレジット カード番号のポリシーのトリガー。</span><span class="sxs-lookup"><span data-stu-id="61a98-115">For example, the following sample would trigger for a DLP Credit Card Number Policy:</span></span>
+    <span data-ttu-id="8026e-115">たとえば、次の例は DLP クレジット カード番号ポリシーに対してトリガーされます。</span><span class="sxs-lookup"><span data-stu-id="8026e-115">For example, the following sample would trigger for a DLP Credit Card Number Policy:</span></span>
     
-  - <span data-ttu-id="61a98-116">Visa: 4485 3647 3952 の 7352</span><span class="sxs-lookup"><span data-stu-id="61a98-116">Visa: 4485 3647 3952 7352</span></span> 
+  - <span data-ttu-id="8026e-116">Visa: 4485 3647 3952 7352</span><span class="sxs-lookup"><span data-stu-id="8026e-116">Visa: 4485 3647 3952 7352</span></span> 
     
-  - <span data-ttu-id="61a98-117">有効期限: 2009 年 2 月</span><span class="sxs-lookup"><span data-stu-id="61a98-117">Expires: 2/2009</span></span>
+  - <span data-ttu-id="8026e-117">有効期限: 2/2009</span><span class="sxs-lookup"><span data-stu-id="8026e-117">Expires: 2/2009</span></span>
     
-<span data-ttu-id="61a98-118">**クレジット カード番号**をコンテンツの検出に必要なものの詳細については、この資料の次のセクションを参照してください:[どのような機密性の高い情報の種類のクレジット カード番号の確認](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span><span class="sxs-lookup"><span data-stu-id="61a98-118">For more information on what is required for a **Credit Card Number** to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span></span>
+<span data-ttu-id="8026e-118">コンテンツに対して**クレジット カード番号**を検出するために必要なものに関する詳細については、この記事の「[What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)」(クレジット カード番号に関する機密情報の種類の検索基準) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8026e-118">For more information on what is required for SSNs to be detected for your content, see the following section in this article: What the Sensitive Information Types look for SSNs</span></span>
   
-<span data-ttu-id="61a98-119">組み込まれている機密情報を別の型を使用して [その他の種類に必要なものについては、次の資料を参照してください:[どのような機密性の高い情報の種類を探します](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="61a98-119">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
+<span data-ttu-id="8026e-119">さまざまな組み込みの機密情報の種類を使用している場合は、「[機密情報の種類の検索基準](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)」の記事でその他の種類に必要なものを参照してください。</span><span class="sxs-lookup"><span data-stu-id="8026e-119">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
   
 

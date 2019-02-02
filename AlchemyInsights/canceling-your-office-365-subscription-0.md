@@ -1,5 +1,5 @@
 ---
-title: Office 365 サブスクリプションをキャンセルしますか。
+title: Office 365 サブスクリプションをキャンセルする場合
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 3f9c25022af3c634379705312103ecdb8f5042f1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 034ef73502816d491a8bd77b633a3b8eb3da0ea9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477275"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655708"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="b0ca7-102">Office 365 サブスクリプションをキャンセルしますか。</span><span class="sxs-lookup"><span data-stu-id="b0ca7-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="9100f-102">Office 365 サブスクリプションをキャンセルする場合</span><span class="sxs-lookup"><span data-stu-id="9100f-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="b0ca7-103">申し訳ありませんに移動するを参照してください。</span><span class="sxs-lookup"><span data-stu-id="b0ca7-103">We're sorry to see you go!</span></span> 
+<span data-ttu-id="9100f-103">ご利用いただきありがとうございました。</span><span class="sxs-lookup"><span data-stu-id="9100f-103">We're sorry to see you go!</span></span> 
   
-<span data-ttu-id="b0ca7-p101">組織のデータに基づいて、現在のすべてのサブスクリプションに接続クライアント数が 25 未満の場合があると考えています。オンライン サブスクリプションをキャンセルするのには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか**請求** \> **サブスクリプション**では、**他のアクション**を選択し、 \> **のサブスクリプションをキャンセル**します。</span><span class="sxs-lookup"><span data-stu-id="b0ca7-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="9100f-p101">組織のデータに基づくと、現在のすべてのサブスクリプションのシートは 25 未満であると思われます。サブスクリプションをオンラインでキャンセルするには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、または [**課金**]、[**サブスクリプション**] の順に移動して、[**その他のアクション**]、[**サブスクリプションのキャンセル**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="9100f-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
   
-<span data-ttu-id="b0ca7-106">購読の取り消しの詳細や手順についての詳細については、この資料を参照してください:[ビジネスのための Office 365 のキャンセル](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="b0ca7-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
+<span data-ttu-id="9100f-106">サブスクリプションのキャンセルに関する詳細または詳しい手順については、「[一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)」の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9100f-106">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a).</span></span>
   
 
