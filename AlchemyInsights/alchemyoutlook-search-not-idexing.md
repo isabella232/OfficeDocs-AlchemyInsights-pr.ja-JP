@@ -1,5 +1,5 @@
 ---
-title: Alchemy の Outlook の検索 idexing ではありません。
+title: Alchemy - Outlook 検索のインデックスが作成されない
 ms.author: pdigia
 author: pdigia
 manager: jackiesm
@@ -11,25 +11,25 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 8fcb447042d2e4f1aa35fa1b7548d43615541028
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: bd535218ec01f4b234e46bba9fe405f072dbf6ed
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476839"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661828"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlook の検索インデックスを作成できません。
+# <a name="outlook-search-not-indexing"></a>Outlook 検索のインデックスが作成されません
 
-Outlook 検索の問題に関連するセキュリティ更新プログラム Windows の認識しています。
+Windows の最近のセキュリティ更新プログラムに関連する、Outlook 検索の問題が報告されています。
   
-Outlook で検索する場合は、このエラー メッセージが表示ことがあります: * * 問題が発生し、検索を完了できませんでした * *、または**検索結果が不完全なは、アイテムのインデックス処理が実行されているために可能性があります**。修正プログラムの発行オプションの Windows 更新プログラムです。この問題が表示される Windows のバージョンに対応する 1 つをインストールしてください。 
+Outlook で検索を行うと、**エラーが発生したため、検索を完了できませんでした**、または**アイテムのインデックス処理が実行中であるため、検索結果が不完全になる可能性があります**というエラーが発生する可能性があります。オプションの Windows 更新プログラムとして、修正プログラムが発行されています。この問題が発生している Windows のバージョンに対応するものをインストールしてください。 
   
-> [Windows 7 で、2017 年 6 月 27 日更新](https://support.office.com/article/https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 - 2017 年 6 月 27 日の更新プログラム](https://support.office.com/article/https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1 に、2017 年 6 月 27 日更新します。](https://support.office.com/article/https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1 - 2017 年 6 月 27 日の更新プログラム](https://support.office.com/article/https://support.microsoft.com/kb/4022720.aspx)
     
-> [10 のバージョンの Windows 1703 -、2017 年 6 月 27 日更新](https://support.office.com/article/https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 バージョン 1703 - 2017 年 6 月 27 日の更新プログラム](https://support.office.com/article/https://support.microsoft.com/kb/4022716.aspx)
     
-最新情報についてを参照してください: [Outlook の既知の問題を 2017年 6 月のセキュリティ更新プログラムの](https://support.office.com/article/https://support.office.com/en-us/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx)問題 5。 
+最新情報については、次の記事を参照してください: [2017 年 6 月セキュリティ更新プログラムの Outlook の既知の問題](https://support.office.com/article/https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx)の「問題 5」。 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 932 のアップグレード AADConnect
+title: 932 AADConnect のアップグレード
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,23 +11,23 @@ localization_priority: Priority
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
 ms.openlocfilehash: 9add88a0e4a2590639cbfc546afdcdf5e6aa4886
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477278"
 ---
-# <a name="upgrade-azure-ad-connect"></a>アップグレード Azure AD 接続します。
+# <a name="upgrade-azure-ad-connect"></a>Azure AD Connect をアップグレードする
 
-既定では、最新のバージョンを実行していることを確認するのに役立ちます、Azure の AD 接続の自動アップグレードが有効になります。自動アップグレードの設定を確認するには、Azure AD PowerShell で**Get ADSyncAutoUpgrade**コマンドレットを使用します。コマンドレットには、次の値のいずれかが返されます。 
+既定では、Azure AD Connect の自動アップグレードが有効になっています。これはユーザーが確実に最新バージョンを実行するために役立ちます。自動アップグレードの設定を確認するには、Azure AD PowerShell で **Get-ADSyncAutoUpgrade** コマンドレットを使用します。コマンドレットは次のいずれかの値を返します。 
   
-- **有効**: 自動アップグレードが有効になっています。 
+- **Enabled**: 自動アップグレードが有効になっています。 
     
-- **無効になります**: 自動アップグレードが無効になります。 
+- **Disabled**: 自動アップグレードが無効になっています。 
     
-- **保留**: システムは、自動アップグレードを受ける資格が不要になった。この値を構成することはできません。システムで設定されています。 
+- **Suspended**: システムが自動アップグレードの受信に対して不適格になっています。この値はシステムによって設定されます。ユーザーが設定することはできません。 
     
-詳細については、[自動アップグレード](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)を参照してください。
+詳細については、「[自動アップグレード](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)」を参照してください。
   
-Azure AD 接続の最新バージョンをダウンロードするには[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)です。
+最新バージョンの Azure AD Connect をダウンロードするには、[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) に移動します。
   
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office 365 のボリューム ライセンス サブスクリプションをアクティブにします。
+title: Microsoft Office 365 ボリューム ライセンス サブスクリプションをアクティブ化する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom: Adm_O365
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 11941c07ea7185b8fe3f23b0d64d8634890fc60b
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477329"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 のボリューム ライセンス サブスクリプションをアクティブにします。
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 ボリューム ライセンス サブスクリプションをアクティブ化する
 
 1. [ボリューム ライセンス サービス センター (VLSC) ポータル](http://go.microsoft.com/fwlink/p/?LinkId=329762)にサインインします。
     
-2. Office 365 サブスクリプションに移動し、**アクティブにする**を選択します。
+2. Office 365 サブスクリプションに移動して、**[アクティブ化]** を選択します。
     
-3. オンライン サービス (OLS) を相手に送信されます。
+3. 電子メールがオンライン サービス (OLS) の連絡先に送信されます。
     
-4. アクティベーション電子メールで 2 つのオプションを提供:**サインアップ**する、または**にサインイン**します。以前試用版を作成した場合は、**サインイン**を選択します。まだ、Office 365 テナントをお持ちでない場合は、**サインアップ**を選択します。
+4. 電子メールでのアクティブ化には、**サインアップ**と**サインイン**の 2 つのオプションがあります。以前試用版を作成した場合は**サインイン**を選択します。まだ Office 365 テナントを持っていない場合は**サインアップ**を選択します。
     
-5. Office 365 にサインイン ([https://portal.office.com](https://portal.office.com))、既存の Office 365 管理者の資格情報を使用します。正常にサインイン後、別のメールをご購入の確認が表示されます。
+5. 既存の Office 365 管理者の資格情報を使用して、Office 365 ([https://portal.office.com](https://portal.office.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
     
-6. サインインした後、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動したり、**請求先**を選択 -\> 、テナント内で、購入した Office 365 サブスクリプションがアクティブ化されることを確認するのには**購読**できます。(こともできます、[**サブスクリプション**] タブでお申し込みが到着したことの確認の詳細を表示するのには、VLSC。) 
+6. サインイン後、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動できます。また、**[課金情報] ** -\> **[サブスクリプション]** を選択すると、購入した Office 365 サブスクリプションがテナント内でアクティブ化されていることを確認できます (VLSC の **[サブスクリプション]** タブを選択して、サブスクリプションが入金されていることを確認する詳細を表示することもできます)。 
     
 

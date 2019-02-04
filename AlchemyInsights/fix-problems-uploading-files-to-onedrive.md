@@ -1,5 +1,5 @@
 ---
-title: OneDrive にファイルをアップロードする問題を修正します。
+title: OneDrive にファイルをアップロードする際の問題を修正する
 ms.author: matteva
 author: matteva
 ms.date: 5/18/2018
@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: 232e1f61326e22d20480057a937fd0ee5ff85dd6
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477027"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive にファイルをアップロードする問題を修正します。
+# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive にファイルをアップロードする際の問題を修正する
 
-ファイルをアップロードしない場合は、このオプションを試してください。
+ファイルがアップロードされない場合は、次の操作を試してください。
   
-- ファイルの名前を変更してからやり直してください。いくつかのファイル名とファイル名の文字が許可されていません。 
+- ファイル名を変更して再度実行します。ファイル名とファイル名に含まれる文字の中には、使用できないものがあります。 
     
-- ファイル、同期している場合、OneDrive フォルダーから移動 (たとえば、移動ユーザーのデスクトップに)、時、OneDrive 同期の状態が「最新」と表示されます戻します。 
+- ファイルを同期している場合は、ファイルを OneDrive フォルダーの外に移動 (たとえば、デスクトップに移動) します。OneDrive の同期状態が「最新」になったら、ファイルを元に戻します。 
     
-[トラブルシューティングのヒント](https://go.microsoft.com/fwlink/?linkid=873155)
+[トラブルシューティングのその他のヒント](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

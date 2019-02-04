@@ -1,5 +1,5 @@
 ---
-title: SharePoint の検索結果にコンテンツが表示されません。
+title: SharePoint の検索結果にコンテンツが表示されない
 ms.author: tlarsen
 author: tklarsen
 ms.date: 1/8/2019
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: d1834674b7f36c94dda5629c0a3263c0eec721cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 3871e2eed2e321e0df72fe3578a14ddd45ed8565
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476722"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660532"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>SharePoint の検索結果にコンテンツが表示されません。
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>SharePoint の検索結果にコンテンツが表示されない
 
-これらの想定される内容が検索結果に表示されない場合のトラブルシューティング手順に従います。
+想定されるコンテンツが検索結果に表示されない場合は、次のトラブルシューティング手順を実行します。
   
-1. 想定される内容が含まれる**サイト**がコンテンツを検索結果に表示できるように設定されていることを確認します。[検索結果にサイトのコンテンツを表示する](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)手順を実行します。
+1. 想定されるコンテンツを含む**サイト**が、検索結果にコンテンツを表示するように設定されていることを確認します。「[検索結果でサイトにコンテンツを表示する](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)」の手順を実行します。
     
-2. **リスト**または**ライブラリ**の想定される内容を含むコンテンツを検索結果に表示できるように設定されていることを確認します。[検索結果のリストまたはライブラリからコンテンツを表示する](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)手順を実行します。 
+2. 想定されるコンテンツを含む**リスト**または**ライブラリ**が、検索結果にコンテンツを表示するように設定されていることを確認します。「[検索結果にリストまたはライブラリのコンテンツを表示する](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)」の手順を実行します。 
     
-3. ページ、ドキュメント、またはカスタム ページ レイアウトとして公開されていることを確認して、**のメジャー バージョン**。次の手順 3 で、[検索では、SharePoint Online のすべての結果を返しません](https://go.microsoft.com/fwlink/?linkid=874525)。
+3. ページ、ドキュメント、またはカスタム ページ レイアウトが**メジャー バージョン**として公開されていることを確認します。「[SharePoint Online で検索がすべての結果を返さない](https://go.microsoft.com/fwlink/?linkid=874525)」の手順 3 を実行します。
     
-4. ユーザーがコンテンツを表示する**アクセス許可**を持っていることを確認します。[Sharepoint アクセス許可レベルを理解すること](https://go.microsoft.com/fwlink/?linkid=867071)で手順を実行します。
+4. ユーザーがコンテンツを表示するための**アクセス許可**を持っていることを確認します。「[SharePoint でのアクセス許可レベルについて](https://go.microsoft.com/fwlink/?linkid=867071)」の手順を実行します。
     
-5. の**インデックスを再**[クロールして、サイト、ライブラリまたはリストのインデックスの再作成を手動で要求](https://docs.microsoft.com/en-us/sharepoint/crawl-site-content)の手順に従って、コンテンツを。これはしばらく時間がかかる場合があります、結果をもう一度確認する前に 24 時間待機します。
+5. 「[サイト、ライブラリ、またはリストのクロールとインデックス再作成を手動で要求する](https://docs.microsoft.com/sharepoint/crawl-site-content)」の手順を実行して、コンテンツの**インデックスを再作成**します。これには時間がかかる場合があります。結果の再確認は 24 時間後に行ってください。
     
-詳細については、[検索できるようにサイトのコンテンツを有効にする](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable)を参照してください。 
+詳細については、「[サイトのコンテンツを検索可能にする](https://docs.microsoft.com/sharepoint/make-site-content-searchable)」を参照してください。 
   
 

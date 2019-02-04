@@ -1,5 +1,5 @@
 ---
-title: クラシック SharePoint チーム サイトをグループに接続します。
+title: 従来の SharePoint チーム サイトをグループに接続する
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -10,15 +10,15 @@ localization_priority: Priority
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 40b42d81c2595fb05b5853b2cab979ef6d8606e8
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477003"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>クラシックの SharePoint チーム サイトを Office 365 の新しいグループに接続します。
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>従来の SharePoint チーム サイトを新しい Office 365 グループに接続します
 
-SharePoint サイト コレクションは、Office 365 のグループに接続する準備ができているかどうかを評価するためには、 [SharePoint の近代化スキャナー ツール](https://go.microsoft.com/fwlink/?linkid=873066)を使用します。このツールを利用する、サイトの近代化戦略を計画し、注意が必要な領域を含む、詳細なレポートが作成されます。
+SharePoint サイト コレクションが Office 365 グループに接続する準備ができているかどうかを評価するには、[SharePoint モダン化スキャナー ツール](https://go.microsoft.com/fwlink/?linkid=873066)を使用します。このツールはサイトのモダン化戦略を計画するために役立ちます。また、注意が必要な分野を含む詳細なレポートを作成します。
   
-クラシック チーム サイトを新しいグループに追加、新しいメニュー コマンドから接続するサイト コレクションの管理者を許可する場合は、何もする必要はありません。場合は、ただし、このオプションを無効にするのには、既定の設定を変更する必要があります。[についてはどのように](https://go.microsoft.com/fwlink/?linkid=2004316)。グローバルことに注意してくださいし、Office 365 で SharePoint の管理者は PowerShell コマンドレットまたは API を使用して、新しいグループにサイトを接続することになります。
+サイト コレクション管理者が追加された新しいメニュー コマンドを使用して従来のチーム サイトを新しいグループに接続できるようにする場合は、何もする必要はありません。ただし、このオプションを無効にする場合は、既定の設定を変更する必要があります。[詳細については、こちらを参照してください](https://go.microsoft.com/fwlink/?linkid=2004316)。Office 365 のグローバル管理者と SharePoint 管理者は、PowerShell コマンドレットまたは API を使用して、常にサイトを新しいグループに接続することができます。
   
 
