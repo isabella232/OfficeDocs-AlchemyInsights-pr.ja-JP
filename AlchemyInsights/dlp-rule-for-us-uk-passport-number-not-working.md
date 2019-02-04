@@ -1,5 +1,5 @@
 ---
-title: 米国の DLP ルールと動作していない、英国パスポート番号
+title: US/UK パスポート番号の DLP ルールが機能しない
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477112"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656428"
 ---
-<span data-ttu-id="dca39-p101">**データ損失防止 (DLP)** のコンテンツが含まれているために動作していない問題が発生している、**米国と英国のパスポート番号**O365 で DLP の機密性の高い情報の種類を使用する場合でしょうか。場合は、確認してください、コンテンツが含まれています DLP ポリシーは、探しているものが評価されるときに必要な情報にはです。</span><span class="sxs-lookup"><span data-stu-id="dca39-p101">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **US/UK Passport Number** when using a DLP sensitive information type in O365? If so, make sure your content contains the needed information for what the DLP policy is looking for when it is evaluated.</span></span> 
+<span data-ttu-id="d10ad-p101">Office 365 で DLP 機密情報の種類を使用しているときに、**US/UK パスポート番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生した場合は、DLP ポリシーに必要な情報がコンテンツに含まれていることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="d10ad-p101">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Social Security Number (SSN)** when using a sensitive information type in Office 365? If so, make sure your content contains the needed information for what the DLP policy is looking.</span></span> 
   
-<span data-ttu-id="dca39-104">などの**米国と英国のパスポート番号**の 75% の信頼レベルで構成されているポリシーは、次は評価され、ルールをトリガーするを検出する必要があります</span><span class="sxs-lookup"><span data-stu-id="dca39-104">For example, for a **US/UK Passport Number** policy configured with a confidence level of 75%, the following are evaluated and must be detected for the rule to trigger</span></span> 
+<span data-ttu-id="d10ad-104">たとえば、75% の信頼レベルで構成された **US/UK パスポート番号**では、以下の内容が評価されるため、ルールをトリガーするためにはこれらの内容が検出される必要があります</span><span class="sxs-lookup"><span data-stu-id="d10ad-104">For example, for an SSN policy configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span> 
   
-- <span data-ttu-id="dca39-105">**[形式:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** 9 桁</span><span class="sxs-lookup"><span data-stu-id="dca39-105">**[Format:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Nine digits</span></span> 
+- <span data-ttu-id="d10ad-105">**[書式:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** 9 桁の数字</span><span class="sxs-lookup"><span data-stu-id="d10ad-105">**[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Nine digits</span></span> 
     
-- <span data-ttu-id="dca39-106">**[パターン:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** 9 つの連続した数字</span><span class="sxs-lookup"><span data-stu-id="dca39-106">**[Pattern:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Nine consecutive digits</span></span> 
+- <span data-ttu-id="d10ad-106">**[パターン:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** 9 桁の連続する数字</span><span class="sxs-lookup"><span data-stu-id="d10ad-106">Nine consecutive digits</span></span> 
     
-- <span data-ttu-id="dca39-107">**[チェックサム:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** いいえ、チェックサムがないです。</span><span class="sxs-lookup"><span data-stu-id="dca39-107">**[Checksum:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** No, there is no Checksum</span></span> 
+- <span data-ttu-id="d10ad-107">**[チェックサム:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** いいえ、チェックサムはありません</span><span class="sxs-lookup"><span data-stu-id="d10ad-107">**[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** No, there is no Checksum</span></span> 
     
-- <span data-ttu-id="dca39-108">**[定義:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** DLP ポリシーとは、75% が確実にこのような機密性の高い情報が検出されたが、近くにある 300 文字以内の場合。</span><span class="sxs-lookup"><span data-stu-id="dca39-108">**[Definition:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** A DLP policy is 75% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
+- <span data-ttu-id="d10ad-108">**[定義:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** DLP ポリシーは、抽出した約 300 文字が次の条件に該当することを検出した場合に、75% の確証を持ってそれがこの種類の機密情報であると特定します。</span><span class="sxs-lookup"><span data-stu-id="d10ad-108">A DLP policy is 75% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
     
-  - <span data-ttu-id="dca39-109">関数 Func_usa_uk_passport がパターンに一致するコンテンツを検出した。</span><span class="sxs-lookup"><span data-stu-id="dca39-109">The function Func_usa_uk_passport finds content that matches the pattern.</span></span>
+  - <span data-ttu-id="d10ad-109">関数 Func_usa_uk_passport がパターンに一致するコンテンツを検出した。</span><span class="sxs-lookup"><span data-stu-id="d10ad-109">The function Func_usa_uk_passport finds content that matches the pattern.</span></span>
     
-  - <span data-ttu-id="dca39-110">Keyword_passport のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="dca39-110">A keyword from Keyword_passport is found.</span></span>
+  - <span data-ttu-id="d10ad-110">Keyword_passport のキーワードを検出した。</span><span class="sxs-lookup"><span data-stu-id="d10ad-110">A keyword from Keyword_passport is found.</span></span>
     
-    <span data-ttu-id="dca39-111">次の例では、たとえば、**米国と英国のパスポート番号**ポリシー: u. s. パスポート番号 123456789</span><span class="sxs-lookup"><span data-stu-id="dca39-111">For example, the following sample would trigger for the **US/UK Passport Number** policy: U.S. Passport number 123456789</span></span> 
+    <span data-ttu-id="d10ad-111">たとえば、次のサンプルでは **US/UK パスポート番号**ポリシー (U.S. Passport number 123456789) をトリガーします。</span><span class="sxs-lookup"><span data-stu-id="d10ad-111">For example, the following sample would trigger for the **US/UK Passport Number** policy: U.S. Passport number 123456789</span></span> 
     
-<span data-ttu-id="dca39-112">米国に必要なものの詳細については、コンテンツのために認識されるようにイギリスのパスポート番号は、この資料の次のセクションを参照してください/:[ではどのような機密性の高い情報の種類の外観と英国のパスポート番号](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)</span><span class="sxs-lookup"><span data-stu-id="dca39-112">For more information on what is required for a US/UK Passport Number to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for US/UK Passport Number](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)</span></span>
+<span data-ttu-id="d10ad-112">コンテンツに対して US/UK パスポート番号が検出されるために必要な情報の詳細については、この記事の「[US/UK パスポート番号に関する機密情報の種類の検索基準](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)」セクションを参照してください。</span><span class="sxs-lookup"><span data-stu-id="d10ad-112">For more information on what is required for SSNs to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)</span></span>
   
-<span data-ttu-id="dca39-113">組み込まれている機密情報を別の型を使用して [その他の種類に必要なものについては、次の資料を参照してください:[どのような機密性の高い情報の種類を探します](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="dca39-113">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
+<span data-ttu-id="d10ad-113">さまざまな組み込みの機密情報の種類を使用している場合は、「[機密情報の種類の検索基準](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)」の記事でその他の種類に必要なものを参照してください。</span><span class="sxs-lookup"><span data-stu-id="d10ad-113">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
   
 
