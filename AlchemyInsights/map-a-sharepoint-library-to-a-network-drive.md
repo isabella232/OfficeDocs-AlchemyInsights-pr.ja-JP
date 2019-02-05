@@ -1,5 +1,5 @@
 ---
-title: SharePoint ライブラリをネットワーク ドライブにマップします。
+title: SharePoint ライブラリをネットワーク ドライブにマップする
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
 ms.openlocfilehash: 77bfb5b4e2fc323c56c9d759b7b97eac7b2670eb
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477549"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップします。
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 
-ネットワーク ドライブとライブラリのマッピングは、一時的な Internet Explorer でのみサポートされています。代わりに、[新しい OneDrive の同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)する[オン ・ デマンドのファイル](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)が用意されています。ローカル記憶域を使用しなくても OneDrive 内のすべてのファイルにアクセスします。
+ライブラリをネットワーク ドライブとしてマップすることは一時的であり、Internet Explorer でのみサポートされています。その代わりに、[ファイル オンデマンド](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)を提供する[新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)します。OneDrive 内のすべてのファイルに、ローカル記憶域を使用することなくアクセスします。
   
-[構成および割り当てられたネットワーク ドライブのトラブルシューティングのヘルプを表示します。](https://go.microsoft.com/fwlink/?linkid=872946)
+[マップされたネットワーク ドライブの構成とトラブルシューティングのヘルプ](https://go.microsoft.com/fwlink/?linkid=872946)
   
 
