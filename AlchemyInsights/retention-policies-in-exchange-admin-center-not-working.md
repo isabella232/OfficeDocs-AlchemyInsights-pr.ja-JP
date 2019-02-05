@@ -1,5 +1,5 @@
 ---
-title: 動作していない Exchange 管理センターでの保存ポリシー
+title: Exchange 管理センターでアイテム保持ポリシーが動作しない
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,45 +11,45 @@ localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29660712"
 ---
- <span data-ttu-id="d7b89-102">**問題:** 新しく作成されたメールボックスに、Exchange 管理センターで最新のリテンション ・ ポリシーを適用しないまたはアイテムのアーカイブ メールボックスに移動または削除はできません。</span><span class="sxs-lookup"><span data-stu-id="d7b89-102">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
+ <span data-ttu-id="98837-102">**問題:** Exchange 管理センターで新規作成または更新したアイテム保持ポリシーがメールボックスに適用されないか、アイテムがアーカイブ メールボックスに移動または削除されません。</span><span class="sxs-lookup"><span data-stu-id="98837-102">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
   
- <span data-ttu-id="d7b89-103">**根本的な原因。**</span><span class="sxs-lookup"><span data-stu-id="d7b89-103">**Root Causes:**</span></span>
+ <span data-ttu-id="98837-103">**原因:**</span><span class="sxs-lookup"><span data-stu-id="98837-103">**Root Causes:**</span></span>
   
-- <span data-ttu-id="d7b89-p101">**管理フォルダー アシスタント**は処理されないため、ユーザーのメールボックスがあります。管理フォルダー アシスタントを 7 日間に 1 回に、クラウド ベース組織内のすべてのメールボックスの処理を試みます。保持タグを変更するメールボックスに異なるアイテム保持ポリシーを適用するか、待つことができます。、メールボックスを処理する、管理フォルダーを支援または管理フォルダー アシスタントに特定の処理を開始する開始 ManagedFolderAssistant コマンドレットを実行することができます。メールボックスです。このコマンドレットを実行することがテストまたは保持ポリシーまたは保持タグ設定のトラブルシューティングに便利です。詳細については、[管理フォルダー アシスタントの実行](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d7b89-p101">This may be because the **Managed Folder Assistant** has not processed the user's mailbox. The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days. If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox. Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings. For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
+- <span data-ttu-id="98837-p101">これは、**管理フォルダー用アシスタント**が、ユーザーのメールボックスを処理していないことが原因である可能性があります。管理フォルダー用アシスタントは、クラウド ベースの組織のすべてのメールボックスの処理を 7 日間に 1 回試行します。ユーザーが保持タグを変更した場合やメールボックスに別のアイテム保持ポリシーを適用した場合は、管理フォルダー アシスタントによってメールボックスが処理されるまで待つか、Start-ManagedFolderAssistant コマンドレットを実行して、管理フォルダー用アシスタントによって特定のメールボックスの処理が開始されるようにします。このコマンドレットの実行は、アイテム保持ポリシーまたは保持タグの設定をテストまたはトラブルシューティングするのに便利です。詳細については、[管理フォルダー用アシスタントの実行](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="98837-p101">This may be because the **Managed Folder Assistant** has not processed the user's mailbox. The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days. If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox. Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings. For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
     
-  - <span data-ttu-id="d7b89-109">**ソリューション:** 管理フォルダー アシスタントに特定のメールボックスを開始する次のコマンドを実行します。</span><span class="sxs-lookup"><span data-stu-id="d7b89-109">**Solution:** Run the following command to start the Managed Folder Assistant for a specific mailbox:</span></span> 
+  - <span data-ttu-id="98837-109">**解決方法:** 特定のメールボックスに対して管理フォルダー用アシスタントを開始するには、次のコマンドを実行します。</span><span class="sxs-lookup"><span data-stu-id="98837-109">Run the following command to start the Managed Folder Assistant for Pilar Pinilla's mailbox.</span></span> 
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- <span data-ttu-id="d7b89-p102">**RetentionHold**は、メールボックスで**有効になっている**がされている場合これも発生します。場合は、RetentionHold には、メールボックスが置かれた、その時に、メールボックスに保持ポリシーは処理されません。詳細については、RetentionHold の設定を参照してください:[メールボックスの保存を保持](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)します。</span><span class="sxs-lookup"><span data-stu-id="d7b89-p102">This may also be occur if **RetentionHold** has been **enabled** on the mailbox. If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time. For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
+- <span data-ttu-id="98837-p102">これは、メールボックスで**保持ホールド**が**有効**になっている場合にも発生する可能性があります。メールボックスが保持ホールドになっている場合、その期間、そのメールボックスに対してアイテム保持ポリシーは処理されません。保持ホールドの設定の詳細については、[メールボックスの保持ホールド](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="98837-p102">This may also be occur if **RetentionHold** has been **enabled** on the mailbox. If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time. For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
     
-    <span data-ttu-id="d7b89-113">**ソリューション:**</span><span class="sxs-lookup"><span data-stu-id="d7b89-113">**Solution:**</span></span>
+    <span data-ttu-id="98837-113">**解決方法:**</span><span class="sxs-lookup"><span data-stu-id="98837-113">**Solution**</span></span>
     
-  - <span data-ttu-id="d7b89-114">[EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)では、特定のメールボックスに RetentionHold の設定の状態を確認します。</span><span class="sxs-lookup"><span data-stu-id="d7b89-114">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
+  - <span data-ttu-id="98837-114">[EXO Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) を使用して、特定のメールボックスの保持ホールドの設定を確認します。</span><span class="sxs-lookup"><span data-stu-id="98837-114">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - <span data-ttu-id="d7b89-115">特定のメールボックスでは、RetentionHold**を無効にするの**には、次のコマンドを実行します。</span><span class="sxs-lookup"><span data-stu-id="d7b89-115">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span> 
+  - <span data-ttu-id="98837-115">特定のメールボックスの保持ホールドを**無効**にするには、次のコマンドを実行します。</span><span class="sxs-lookup"><span data-stu-id="98837-115">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span> 
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - <span data-ttu-id="d7b89-116">ここで、管理フォルダー アシスタントを再実行します。</span><span class="sxs-lookup"><span data-stu-id="d7b89-116">Now, re-run the Managed folder Assistant:</span></span>
+  - <span data-ttu-id="98837-116">次に、管理フォルダー用アシスタントを再実行します。</span><span class="sxs-lookup"><span data-stu-id="98837-116">Now, re-run the Managed folder Assistant:</span></span>
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- <span data-ttu-id="d7b89-117">**注:** メールボックスが 10 MB より小さい場合は、管理フォルダー アシスタントはいない自動的にメールボックスの処理です。</span><span class="sxs-lookup"><span data-stu-id="d7b89-117">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span> 
+ <span data-ttu-id="98837-117">**注:** メールボックス サイズが 10 MB 未満の場合、管理フォルダー用アシスタントによってメールボックスは自動処理されません。</span><span class="sxs-lookup"><span data-stu-id="98837-117">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span> 
   
 
