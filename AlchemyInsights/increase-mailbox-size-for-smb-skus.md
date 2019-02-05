@@ -1,5 +1,5 @@
 ---
-title: SMB の Sku のメールボックスのサイズを増やす
+title: SMB SKU 用のメールボックス サイズの拡大
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29660892"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 
-メールボックスのサイズが 50 GB の場合は、 [Office 365 エンタープライズ E3](https://products.office.com/business/office-365-enterprise-e3-business-software)または[Office 365 エンタープライズ E5](https://products.office.com/business/office-365-enterprise-e5-business-software)に切り替えることで 100 GB のメールボックスのサイズを変更できます。別の Office 365 のプランに切り替える手順を以下に示します。
+メールボックス サイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の Office 365 プランに切り替える手順を次に示します。
   
-1. Office 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** を選択します。
+1. Office 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]**、**[サブスクリプション]** の順に選択します。
     
 2. [ **プランの切り替え**] を選択して、利用可能な新しいプランを一覧表示します。 
     

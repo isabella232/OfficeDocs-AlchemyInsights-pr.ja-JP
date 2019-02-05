@@ -1,5 +1,5 @@
 ---
-title: 外部のオンとオフを SharePoint の共有を有効にします。
+title: SharePoint の外部共有をオンまたはオフにする
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -13,20 +13,20 @@ ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477066"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>外部のオンとオフを SharePoint の共有を有効にします。
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>SharePoint の外部共有をオンまたはオフにする
 
-1. Office 365 管理センターには、[サービス&amp;アドイン ページ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)、**サイト**] をクリックします。
+1. Office 365 管理センターで、[[サービスとアドイン] ページ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)に移動して、**[サイト]** をクリックします。
     
-2. オンまたはオフに設定を有効にするまたは有効になっている場合、共有オプションを選択します。
+2. 設定をオンまたはオフに切り替えるか、共有オプションを選択します (オンになっている場合)。
     
 > [!NOTE]
-> SharePoint の共有を無効にすることをオフに OneDrive のです。外部の任意のサイト上の共有を許可するのには、組織全体の設定は有効になりません。_gt 外部 OneDrive または任意の個々 の SharePoint サイトの共有を許可する、SharePoint の組織全体で有効する必要があります。できますし、オフにする特定のサイト コレクションにします。コミュニケーション サイトと Office 365 のグループに属しているサイトの外部の共有設定を管理するには、新しい SharePoint 管理者センター (プレビュー) または PowerShell を使用する必要があります。外部の共有の設定を管理する方法の詳細については、[外部の共有のオンとオフを有効にする](https://go.microsoft.com/fwlink/?linkid=866426)を参照してください。 
+> SharePoint の共有をオフにすると、OneDrive の共有もオフになります。任意のサイトの外部共有を許可するには、組織全体の設定をオンにする必要があります。 > OneDrive または個別の SharePoint サイトの外部共有をオンにするには、組織全体で SharePoint の外部共有をオンにする必要があります。特定のサイト コレクションの外部共有は、その後でオフにできます。コミュニケーション サイトおよび Office 365 グループに属するサイトの外部共有設定を管理するには、新しい SharePoint 管理センター (プレビュー版) または PowerShell を使用する必要があります。外部共有設定の管理の詳細については、「[外部共有をオンまたはオフにする](https://go.microsoft.com/fwlink/?linkid=866426)」を参照してください。 
   
-[SharePoint で外部の共有の詳細については](https://go.microsoft.com/fwlink/?linkid=734908)
+[SharePoint の外部共有の詳細を参照してください](https://go.microsoft.com/fwlink/?linkid=734908)
   
 

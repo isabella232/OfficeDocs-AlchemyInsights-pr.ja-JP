@@ -10,23 +10,23 @@ localization_priority: Priority
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: 8518372f85420b7ffd2a6be109bad08a23069a33
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29660820"
 ---
 # <a name="how-to-disable-external-groups"></a>外部グループを無効にする方法
 
-ネットワークにアクセスする外部のユーザーのための 4 つのオプションがあります。
+使用しているネットワークに外部ユーザーがアクセスするオプションは 4 つあります。
   
-1. **ゲスト ユーザー**の Yammer の管理者は、ホーム ネットワーク上のユーザーと外部のドメインからの連絡先を招待することができます。これらのユーザーはすべての会社を参照してくださいフィードし、同様に、ネットワークで他のコミュニティに参加することができます。 
+1. **ゲスト ユーザー**: Yammer 管理者は、外部ドメインの連絡先をホーム ネットワーク上のユーザーとして招待できます。これらのユーザーは、All Company フィードを参照でき、ネットワーク上の他のグループにも参加できます。 
     
-2. **外部グループ内の外部のユーザー**が外部のグループは、外部ユーザーを許可します。外部ユーザーのアクセスのスコープは、外部のグループに限定されます。外部グループは、外部の会話に参加するユーザーを許可する Yammer ネットワークから連絡先だけを招待できます。 
+2. **外部グループの外部ユーザー**: 外部グループでは外部ユーザーが許可されています。外部ユーザーがアクセスできる範囲は、外部グループに制限されます。外部グループには、外部との会話への参加が許可されている Yammer ネットワークの連絡先のみを招待できます。 
     
-3. **Yammer 会話グループ内部での外部ユーザー**がこのオプションでは、特定の会話に追加する外部の参加者を使用できます。外部の参加者は、会話に招待されている明示的にして、その会話のすべての添付ファイルにのみ参加できます。(ネットワーク) に、Yammer の受信ボックスで、これらの会話をアクセスするとします。ネットワークの残りの部分へのアクセスがあるないです。 
+3. **内部グループ内の Yammer の会話内の外部ユーザー**: このオプションにより、外部の参加者を特定の会話に追加できます。外部の参加者は、明示的に招待されている会話、およびその会話の任意の添付ファイルにのみ参加できます。これらのユーザーは、(ユーザーのネットワーク上の) Yammer の受信ボックスから会話にアクセスします。ご使用のネットワークの他の部分にはアクセスできません。 
     
-4. **外部ネットワーク**からこのオプションを使用すると、外部のネットワーク管理者がネットワーク内に作成できますを確認する外部ユーザーを招待できます。このオプションは、外部のコミュニティをホストするために最も適しています。 
+4. **外部ネットワーク**: このオプションでは、認定管理者がネットワークに作成できる外部ネットワークに外部ユーザーを招待できます。これは、外部のコミュニティをホストするのに最適なオプションです。 
     
-詳細についてを参照してください[、Yammer 会話する外部メッセージング参加者を追加](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)し、[外部メッセージングに関する FAQ (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+詳細については、「[Yammer の会話に外部メッセージング参加者を追加する](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)」および「[外部メッセージングよく寄せられる質問 - Yammer](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)」を参照してください。
   
 

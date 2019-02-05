@@ -1,5 +1,5 @@
 ---
-title: パブリック フォルダーのデータを Office 365 に移行します。
+title: パブリック フォルダー データの Office 365 への移動
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -11,23 +11,23 @@ localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
 ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29660784"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>パブリック フォルダーのデータを Office 365 に移行します。
+# <a name="migrate-public-folder-data-to-office-365"></a>パブリック フォルダー データの Office 365 への移動
 
-Office 365 に移動するパブリック フォルダーの多くをお持ちでない場合にデータをコピーするのにはさせるために最も簡単な方法になります。Pst ファイルは、ファイルし、Office 365 にインポートします。少量のデータの単純なのドラッグ アンド ドロップにパブリック フォルダーにします。PST ファイルがあることができます。その (最大 30 GB) より多くのデータがあれば、ある[プロセスを文書化](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)するフォルダーを PST ファイルにエクスポートするのにを使用することができます。 
+Office 365 に移動するパブリック フォルダーがあまりない場合は、データを .PST ファイルにコピーし、それを Office 365 にインポートすると最も簡単に移動することができます。データが少量の場合は、単純に .PST ファイルをパブリック フォルダーにドラッグ アンド ドロップするだけで十分なことがあります。データがそれ以上ある場合 (最大 30 GB まで) には、フォルダーを PST ファイルにエクスポートする[手順が記載されたドキュメント](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)があります。 
   
-Office 365 にパブリック フォルダーを移動する大規模な組織の利用可能ないくつかのガイドがあります。
+より大規模な組織がパブリック フォルダーを Office 365 に移動する場合には、次のいくつかのガイドがあります。
   
-- [従来のパブリック フォルダーの移行](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)(Exchange 2010 およびそれ以前) 
+- [従来のパブリック フォルダーの移行](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 以前) 
     
-- [Exchange 2013 のパブリック フォルダーを移行します。](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Exchange 2013 のパブリック フォルダーの移行](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
-- [Mirate 2016 を Exchange のパブリック フォルダー](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [Exchange 2016 のパブリック フォルダーの移行](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
     
-[Office 365 のグループにパブリック フォルダーを移行](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)するオプションもあります。
+[パブリック フォルダーを Office 365 グループに移行する](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)オプションもあります。
   
 

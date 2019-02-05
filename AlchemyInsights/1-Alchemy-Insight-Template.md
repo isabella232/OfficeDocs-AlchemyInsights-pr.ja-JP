@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662935"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697135"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>必須の顧客に接続する H1、H2 は機能しません。
-テキスト ブロックの例 - 次の手順に従います。
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>必要な Alchemy ヘッダー H1、H2 が機能していません。
+Alchemy 作成のベスト プラクティスとガイドライン:
 
+1. **フォルダーで Alchemy 分析情報を入れ子にしないでください**- 入れ子にすると URL の構造が壊れてしまいます。この問題の修正については現在検討中です。
 1. **AlchemyInsights** フォルダー内のファイルには、ファイル名に [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)のルール ID とルール名が含まれている必要があります。
     1. 例: ***976-How-to-enable-litigation-hold***
 1. このファイルの冒頭にあるメタデータをテンプレートとして使用します。それ以外のものは必要ありません。
@@ -33,9 +34,8 @@ ms.locfileid: "29662935"
     1. **太字**と*斜体*も使用できます。
     1. リンクは常に、内部リンクではなく、**"Web へのリンク"/外部**または **UI 要素へのディープ リンク**のいずれかである必要があります。
 
-また、これは実際には既に多少長すぎます。ベスト プラクティスは約 400 文字です ---------------------------------
+また、これは実際には既に少し長すぎます。ベスト プラクティスは約 400 文字です ---------------------------------
 
-コンテンツの準備ができたら、ライブ ブランチに抽出します。次に、[Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)に移動して、ファイル名を URL フィールドに入力します。確認および発行された分析情報に "はい" と示されていることを確認し、[ルールの更新] をクリックします (これは、間もなくリリースされる、新しいバージョンのポータルではよりきれいになっています)。
-
+コンテンツの準備ができたら、ライブ ブランチに抽出します。次に、[Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)に移動して、ファイル名を URL フィールドに入力します。確認および発行された分析情報に "はい" と示されていることを確認し、[ルールの更新] をクリックします **(間もなくリリースされる新しいバージョンのポータルではより見栄えが良くなっています)。**
 ![URL フィールド](media/for-content-team.PNG)
 

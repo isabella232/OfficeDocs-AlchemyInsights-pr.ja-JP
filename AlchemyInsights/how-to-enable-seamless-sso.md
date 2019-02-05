@@ -13,25 +13,25 @@ ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29661144"
 ---
 # <a name="how-to-enable-seamless-sso"></a>シームレスな SSO を有効にする方法
 
-[Azure AD 接続](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)を介してシームレスに SSO を有効にします。
+シームレスな SSO は、[Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) を使用して有効にします。
   
-Azure AD 接続の新規インストールを実行している場合は、[カスタム インストール パス](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)を選択します。**ユーザーのサインイン**ページで、[**シングル サインオンを有効にする**] オプションを選択します。 
+Azure AD Connect を新規でインストールする場合、[カスタム インストール パス](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)を選択します。**[ユーザー サインイン]** ページで、**[シングル サインオンを有効にする]** オプションを選択します。 
   
-シームレスな SSO が正しく有効にしていることを確認します。
+シームレスな SSO が正しく有効化されたかを確認するには:
   
-1. グローバル管理者として[Azure Active Directory 管理センター](https://aad.portal.azure.com)にサインインします。 
+1. [Azure Active Directory 管理センター](https://aad.portal.azure.com)に全体管理者としてサインインします。 
     
-2. **Azure Active Directory**は、左側のペインで選択します。 
+2. 左のウィンドウの **[Azure Active Directory]** を選択します。 
     
-3. そのシームレスなシングル サインオンを**有効に**は、ことを確認します。
+3. シームレスなシングル サインオンが **[有効]** になっていることを確認します。
     
-詳細についてを参照してください[Azure Active Directory シームレスなシングル サインオン: クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
+詳細については、[Azure Active Directory シームレス シングル サインオン: クイック スタート](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)に関するページを参照してください。
   
 
