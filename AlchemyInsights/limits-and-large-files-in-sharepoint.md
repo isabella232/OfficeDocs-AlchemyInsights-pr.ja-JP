@@ -1,5 +1,5 @@
 ---
-title: 制限および SharePoint でサイズの大きいファイル
+title: SharePoint での制限と大きなサイズのファイル
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,21 +13,21 @@ ms.custom: Adm_O365
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 29ad4d52d8879014cc9a06bc933d5dda136e6421
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476919"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>ファイルを SharePoint Online にアップロードすることはできません。
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>SharePoint Online にアップロードできないファイル
 
-ファイルは、SharePoint Online にアップロードされない場合を確認します。
+ファイルが SharePoint Online にアップロードされない場合は、次のことを確認してください。
   
-- 15 GB より小さいサイズにすることをお勧めします。
+- ファイルのサイズが 15 GB 未満である。
     
-- ファイル名を含む完全なパスは、400 個を超える文字です。
+- パス全体 (ファイル名を含む) の文字数が 400 文字未満である。
     
-- ファイル名には、文字が含まれていない" \* : \< \> ?/ \ |[無効な名前](https://go.microsoft.com/fwlink/?linkid=866430)の一覧に表示されていないとします。
+- ファイル名に " \* : \< \> ? / \ | の文字が含まれておらず、ファイル名が[無効な名前](https://go.microsoft.com/fwlink/?linkid=866430)のリストに表示されていない。
     
-OneDrive のデスクトップ アプリケーションを使用してファイルをアップロードしようとしている場合は、[制限しファイルとフォルダーを同期するときの制限事項](http://go.microsoft.com/fwlink/p/?LinkID=717734)」または「[同期の問題を修正する OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)を参照してください。
+OneDrive デスクトップ アプリを使用してファイルのアップロードを試みる場合は、[ファイルとフォルダーを同期する際の制約および制限事項](http://go.microsoft.com/fwlink/p/?LinkID=717734)に関するページまたは「[OneDrive の同期に関する問題を解決する](https://go.microsoft.com/fwlink/?linkid=866431)」を参照してください。
   
 

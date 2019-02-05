@@ -1,5 +1,5 @@
 ---
-title: Office 2013 をインストールする必要があります。
+title: Office 2013 をインストールする必要がある
 ms.author: janellem
 author: janellem
 ms.date: 12/17/2018
@@ -10,15 +10,15 @@ localization_priority: Priority
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
 ms.openlocfilehash: 73bb943f9128e38de437cd0f4b38b6d5082fa3d3
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477433"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 365 サブスクリプションでは、Office 2013 はサポートされていません
+# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 2013 は Office 365 サブスクリプションではサポートされていません
 
-2017 年 2 月 28日は、Office 2013 は Office 365 サブスクリプションではサポートされていません。
+2017 年 2 月 28 日以降、Office 2013 は Office 365 サブスクリプションではサポートされなくなりました。
   
-Office スイートのセキュリティを確保するのには、最新の機能のすべてを取得するのには、無料の Office 365 サブスクリプションの一部として Office の最新バージョンをインストールします。[ユーザーが最新の Office クライアントのアップグレード](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)を参照してください。
+使用する Office スイート製品のセキュリティを確保して、最新の機能をすべて取得するには、Office 365 サブスクリプションの一部として無料で使用できる最新バージョンの Office をインストールできます。「[ユーザーを最新の Office クライアントにアップグレードする](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)」を参照してください。
   
 

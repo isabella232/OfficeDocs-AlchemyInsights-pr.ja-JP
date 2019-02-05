@@ -1,5 +1,5 @@
 ---
-title: ハイブリッド環境をセットアップします。
+title: ハイブリッド環境を設定する
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
 ms.openlocfilehash: 95807efbf035c360b6029e4d05475f96cb7d3db5
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476917"
 ---
-# <a name="setting-up-a-hybrid-environment"></a>ハイブリッド環境をセットアップします。
+# <a name="setting-up-a-hybrid-environment"></a>ハイブリッド環境を設定する
 
-シームレスに共同作業関係なく、オンプレミスのサーバー上または Office 365 のデータが格納されている場合、ユーザーのために、ハイブリッド環境を設定する必要があります。オプションの概要を取得するには、[オンプレミス環境と Office 365 の統合](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx)を確認してください。
+ユーザーのデータの格納場所がオンプレミスのサーバーまたは Office 365 のいずれであっても、ユーザーがシームレスに共同作業を行えるようにするために、ハイブリッド環境の設定が必要な場合があります。オプションの概要については、「[オンプレミス環境と office 365 の統合](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx)」を参照してください。
   
 
