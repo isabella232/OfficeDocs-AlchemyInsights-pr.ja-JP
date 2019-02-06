@@ -1,5 +1,5 @@
 ---
-title: オンライン支払機関に請求する複数の試行
+title: オンラインでのお支払い方法に対する複数回の請求
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_O365
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
 ms.openlocfilehash: 8a155b25aafdc5ff476932b23ecc2f4115754a16
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477421"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>オンライン支払機関に請求する複数の試行
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>オンラインでのお支払い方法に対する複数回の請求
 
-サービスの任意のアクションを実行する前にオンライン支払機関に請求する複数の試行を行うこと。支払方法を選択する、すべて期日選択したお支払方法と金額を支払う必要があります。更新するには、現在のお支払情報の購読[を追加、更新、または、クレジット カードまたはビジネスのための Office 365 の銀行口座を削除するの](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)に、手順を実行します。
+サービスに対してアクションを実行する前に、オンラインでのお支払い方法に対する請求を複数回試行します。お支払い方法の選択後は、期限超過の未払い額はすべて、選択したお支払い方法で支払う必要があります。サブスクリプションの現在のお支払い情報を変更するには、「[一般法人向け Office 365 でクレジットカードまたは銀行口座を追加、更新、または削除する](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)」の手順に従ってください。
   
 

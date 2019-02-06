@@ -1,5 +1,5 @@
 ---
-title: "'OneDrive のアカウントは削除されます' メッセージ"
+title: 「OneDrive アカウントが削除されます」というメッセージ
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/30/2018
@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
 ms.openlocfilehash: 0b380e7ebba1fbb1f96595d9d1b4c82484cee104
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477246"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>「OneDrive のアカウントは削除されます」のメッセージ
+# <a name="onedrive-account-will-be-deleted-message"></a>「OneDrive アカウントが削除されます」というメッセージ
 
-# <a name="onedrive-account-will-be-deleted-message"></a>「OneDrive のアカウントは削除されます」のメッセージ
+# <a name="onedrive-account-will-be-deleted-message"></a>「OneDrive アカウントが削除されます」というメッセージ
 
-Email@mail.onedrive.com から電子メールを受信した場合にお客様の個人 OneDrive.com アカウント、ビジネス アカウントに、OneDrive ないを注意」、OneDrive のアカウントが削除されること」を警告してください。 
+「お客様の OneDrive アカウントが削除されます」という警告のメールを email@mail.onedrive.com から受信した場合、これは OneDrive for Business アカウントではなく OneDrive.com の個人アカウントであることに注意してください。 
   
-個人の OneDrive を使用するかどうかがわからない場合、再アクティブ化して、自分のアカウントを確認するのには onedrive.com にサインインします。
+個人用の OneDrive を使用しているかどうかがわからない場合は、onedrive.com にサインインし、アカウントを再アクティブ化して確認してください。
   
-詳細についてを参照してください[、アカウントが削除されることを示す電子メールを受信した理由ですか?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+詳細については、「[アカウントが削除されるというメールを受け取ったのはなぜですか?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)」を参照してください。
   
 

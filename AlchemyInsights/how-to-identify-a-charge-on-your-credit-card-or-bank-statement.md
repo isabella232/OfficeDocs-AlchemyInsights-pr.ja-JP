@@ -1,5 +1,5 @@
 ---
-title: クレジット カードまたは口座取引明細書の請求金額を確認する方法
+title: クレジットカードまたは銀行口座取引明細書で料金請求を確認する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom: Adm_O365
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
 ms.openlocfilehash: 5bb5632fb0578613cc9d96663c776de93c752016
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477432"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>クレジット カードまたは口座取引明細書の請求金額を確認する方法
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>クレジットカードまたは銀行口座取引明細書で料金請求を確認する方法
 
-Office 365 サブスクリプションの料金の説明は、これのようになります。
+Office 365 サブスクリプションの料金請求の説明は次のようになります。
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO、ワシントン州
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-MSFT に続く 10 文字の英数字文字列\*は、費用に関連する請求書番号です。請求書を検索するには、[入出金予定](https://go.microsoft.com/fwlink/p/?linkid=848039)のページに移動するか、**課金**を選択\>、最近の請求書を表示する**部品**。請求書番号、請求書ドキュメントの右下隅の近くです。 
+MSFT \* の後に続く 10 文字の英数字文字列は、この請求に関連する請求書番号です。請求書を検索するには、[[課金内容]](https://go.microsoft.com/fwlink/p/?linkid=848039) ページに移動するか、**[課金]** \> **[課金内容]** を選択して最近の請求書を表示します。請求書番号は請求書の右隅にあります。 
   
 

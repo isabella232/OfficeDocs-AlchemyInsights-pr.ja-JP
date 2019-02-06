@@ -13,15 +13,15 @@ ms.custom: Adm_O365
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: e3e3ff0343b2e24e56d3e9b0355f291a3779e855
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477346"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint のアクセス許可の継承のしくみ
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint でのアクセス許可の継承のしくみ
 
-既定では、SharePoint のアクセス許可は、階層の上位にあるほどから継承されます。ファイルは、フォルダーから、サイト コレクションのアクセス許可を継承すると、サイトのアクセス許可を継承すると、ライブラリのアクセス許可を継承するアクセス許可を継承します。
+既定では、SharePoint でのアクセス許可は階層内の上位から継承されます。そのため、ファイルのアクセス許可はフォルダーから継承され、フォルダーのアクセス許可はライブラリから継承され、ライブラリのアクセス許可はサイトから継承され、サイトのアクセス許可はサイト コレクションから継承されます。
   
-固有のアクセス許可を削除して、継承を復元に関する情報を[編集しリストまたはライブラリの権限の管理](https://go.microsoft.com/fwlink/?linkid=869946)を参照してください。
+固有のアクセス許可の削除と継承の復元の詳細については、「[リストまたはライブラリのアクセス許可を編集および管理する](https://go.microsoft.com/fwlink/?linkid=869946)」を参照してください。
   
 

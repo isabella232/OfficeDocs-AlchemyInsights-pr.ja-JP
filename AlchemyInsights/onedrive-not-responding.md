@@ -1,5 +1,5 @@
 ---
-title: OneDrive が応答していません
+title: OneDrive が応答しない
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/4/2018
@@ -10,15 +10,15 @@ localization_priority: Priority
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
 ms.openlocfilehash: 69284bc9c8006f97671ffea1e78bcbf528ca3555
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477059"
 ---
-# <a name="onedrive-not-responding"></a>OneDrive が応答していません
+# <a name="onedrive-not-responding"></a>OneDrive が応答しない
 
-新しく作成されたアカウントは、ユーザーが自分のアカウントを使用して、Office 365 ポータルにサインインし、OneDrive、OneDrive サイトのプロビジョニングを手動で開始する] をクリックする必要があります。
+新しく作成したアカウントの場合、ユーザーは自分のアカウントで Office 365 ポータルにサインインし、[OneDrive] をクリックして手動で OneDrive サイトのプロビジョニングを開始する必要があります。
   
-ただし、ユーザーが既に OneDrive をクリックし、自分の個人用サイトが 24 時間以内に準備されていない場合は、詳細については、サポート チケットをログインしてください。
+ただし、ユーザーが既に OneDrive をクリックしていて、その個人用サイトが 24 時間以内にプロビジョニングされない場合は、サポート チケットを記録してサポートを受けてください。
   
 
