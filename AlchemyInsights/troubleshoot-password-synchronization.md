@@ -1,5 +1,5 @@
 ---
-title: パスワード同期のトラブルシューティングを行う
+title: パスワード同期のトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,50 +13,50 @@ ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
 ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29655816"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="1f683-102">パスワード同期のトラブルシューティングを行う</span><span class="sxs-lookup"><span data-stu-id="1f683-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="6f49f-102">パスワード同期のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="6f49f-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="1f683-103">パスワードがないと Azure AD 接続バージョン 1.1.614.0 の同期またはそれ以降の問題をトラブルシューティングするには。</span><span class="sxs-lookup"><span data-stu-id="1f683-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
+<span data-ttu-id="6f49f-103">Azure AD Connect バージョン 1.1.614.0 以降とパスワードが同期されないという問題をトラブルシューティングするには:</span><span class="sxs-lookup"><span data-stu-id="6f49f-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
   
-1. <span data-ttu-id="1f683-104">**管理者として実行**オプションを使用して、Azure AD 接続サーバー上の新しい Windows PowerShell セッションを開きます。</span><span class="sxs-lookup"><span data-stu-id="1f683-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
+1. <span data-ttu-id="6f49f-104">[**管理者として実行**] オプションを使用して、Azure AD Connect サーバーで新しい Windows PowerShell セッションを開きます。</span><span class="sxs-lookup"><span data-stu-id="6f49f-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
     
-2. <span data-ttu-id="1f683-105">**セット ExecutionPolicy RemoteSigned**または**無制限に設定 ExecutionPolicy**を実行します。</span><span class="sxs-lookup"><span data-stu-id="1f683-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
+2. <span data-ttu-id="6f49f-105">**Set-ExecutionPolicy RemoteSigned** または **Set-ExecutionPolicy Unrestricted** を実行します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
     
-3. <span data-ttu-id="1f683-106">Azure AD 接続ウィザードを起動します。</span><span class="sxs-lookup"><span data-stu-id="1f683-106">Start the Azure AD Connect wizard.</span></span>
+3. <span data-ttu-id="6f49f-106">Azure AD Connect ウィザードを開始します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-106">Start the Azure AD Connect wizard.</span></span>
     
-4. <span data-ttu-id="1f683-107">移動、\* \* 追加のタスク \* \* ページで、[\* \* トラブルシューティング \* \*、[**次へ**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1f683-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
+4. <span data-ttu-id="6f49f-107">**[追加のタスク]** ページに移動し、**[トラブルシューティング]** を選択し、[**次へ**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6f49f-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
     
-5. <span data-ttu-id="1f683-108">[トラブルシューティング] ページで、PowerShell での**トラブルシューティングを開始するのには起動**メニューをクリックします。</span><span class="sxs-lookup"><span data-stu-id="1f683-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
+5. <span data-ttu-id="6f49f-108">[トラブルシューティング] ページで、PowerShell の [**起動してトラブルシューティングを開始する**] メニューをクリックします。</span><span class="sxs-lookup"><span data-stu-id="6f49f-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
     
-6. <span data-ttu-id="1f683-109">メイン メニューでは、**パスワード同期のトラブルシューティングを行う**を選択します。</span><span class="sxs-lookup"><span data-stu-id="1f683-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
+6. <span data-ttu-id="6f49f-109">メイン メニューで、[**パスワード同期のトラブルシューティング**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
     
-7. <span data-ttu-id="1f683-110">サブ ・ メニューには、**パスワード同期がまったく動作しない**を選択します。</span><span class="sxs-lookup"><span data-stu-id="1f683-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
+7. <span data-ttu-id="6f49f-110">サブメニューで、[**パスワード同期がまったく動作しない**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
     
- <span data-ttu-id="1f683-111">**トラブルシューティングのタスクの結果を理解します。**</span><span class="sxs-lookup"><span data-stu-id="1f683-111">**Understand the results of the troubleshooting task**</span></span>
+ <span data-ttu-id="6f49f-111">**トラブルシューティング タスクの結果を理解する**</span><span class="sxs-lookup"><span data-stu-id="6f49f-111">**Understand the results of the troubleshooting task**</span></span>
   
-<span data-ttu-id="1f683-112">トラブルシューティングのタスクには、次のチェックが実行されます。</span><span class="sxs-lookup"><span data-stu-id="1f683-112">The troubleshooting task performs the following checks:</span></span>
+<span data-ttu-id="6f49f-112">トラブルシューティング タスクでは、次のチェックが実行されます。</span><span class="sxs-lookup"><span data-stu-id="6f49f-112">The troubleshooting task performs the following checks:</span></span>
   
-- <span data-ttu-id="1f683-113">Azure AD テナントのパスワード同期機能が有効になっていることを検証します。</span><span class="sxs-lookup"><span data-stu-id="1f683-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+- <span data-ttu-id="6f49f-113">Azure AD テナントのパスワード同期機能が有効になっていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
     
-- <span data-ttu-id="1f683-114">Azure AD 接続サーバーはステージング モードでないことを検証します。</span><span class="sxs-lookup"><span data-stu-id="1f683-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+- <span data-ttu-id="6f49f-114">Azure AD Connect サーバーがステージング モードではないことを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
     
-- <span data-ttu-id="1f683-115">各既存のオンプレミス Active Directory コネクタ (これは、既存の Active Directory フォレストに相当します)。</span><span class="sxs-lookup"><span data-stu-id="1f683-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
+- <span data-ttu-id="6f49f-115">(既存の Active Directory フォレストに対応する) 既存のオンプレミス Active Directory コネクタごとに、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
     
 - 
-  - <span data-ttu-id="1f683-116">パスワード同期機能が有効になっていることを検証します。</span><span class="sxs-lookup"><span data-stu-id="1f683-116">Validates that the password synchronization feature is enabled.</span></span>
+  - <span data-ttu-id="6f49f-116">パスワード同期機能が有効になっていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-116">Validates that the password synchronization feature is enabled.</span></span>
     
-  - <span data-ttu-id="1f683-117">Windows アプリケーション イベント ログ内のパスワード同期パルス イベントを検索します。</span><span class="sxs-lookup"><span data-stu-id="1f683-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
+  - <span data-ttu-id="6f49f-117">Windows アプリケーション イベント ログでパスワード同期ハートビート イベントを検索します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
     
-  - <span data-ttu-id="1f683-118">: オンプレミスの Active Directory コネクタの下にある Active Directory ドメインごとに</span><span class="sxs-lookup"><span data-stu-id="1f683-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
+  - <span data-ttu-id="6f49f-118">オンプレミスの Active Directory コネクタの下にある Active Directory ドメインごとに、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
     
-  - <span data-ttu-id="1f683-119">ドメインは、Azure AD 接続サーバーから到達できることを検証します。</span><span class="sxs-lookup"><span data-stu-id="1f683-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
+  - <span data-ttu-id="6f49f-119">Azure AD Connect サーバーからドメインにアクセスできることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
     
-  - <span data-ttu-id="1f683-120">オンプレミスの Active Directory コネクタが使用する Active Directory ドメイン サービス (AD DS) アカウントが正しいユーザー名、パスワード、およびパスワード同期に必要なアクセス許可を持つことを検証します。</span><span class="sxs-lookup"><span data-stu-id="1f683-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
+  - <span data-ttu-id="6f49f-120">オンプレミスの Active Directory コネクタで使用される Active Directory ドメイン サービス (AD DS) アカウントに、正しいユーザー名、パスワード、およびパスワードの同期に必要なアクセス許可があることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f49f-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
     
-<span data-ttu-id="1f683-121">パスワード同期のトラブルシューティングの詳細については、 [Azure AD 接続の同期がパスワード同期のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1f683-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
+<span data-ttu-id="6f49f-121">パスワード同期のトラブルシューティングの詳細については、「[Azure AD Connect 同期によるパスワード同期のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6f49f-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
   
 
