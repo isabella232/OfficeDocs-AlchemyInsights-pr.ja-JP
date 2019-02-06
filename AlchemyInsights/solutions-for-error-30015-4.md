@@ -1,5 +1,5 @@
 ---
-title: 30015-4 エラーが発生するソリューション
+title: エラー 30015-4 の解決方法
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,12 +14,12 @@ ms.custom: Adm_O365
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
 ms.openlocfilehash: 08de0c0dee7dda3df2e9cb43fe8e36e2ebf4e1e0
 ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29646064"
 ---
-# <a name="solutions-for-error-30015-4"></a>30015-4 エラーが発生するソリューション
+# <a name="solutions-for-error-30015-4"></a>エラー 30015-4 の解決方法
 
 
 - コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
@@ -34,6 +34,6 @@ ms.locfileid: "29646064"
     
 3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
     
-[Office インストール時のエラーを修正します。](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Office のインストール エラーを修正する](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
 

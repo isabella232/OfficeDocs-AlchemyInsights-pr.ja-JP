@@ -1,5 +1,5 @@
 ---
-title: OneDrive または SharePoint ファイルを外部ユーザーと共有します。
+title: OneDrive または SharePoint のファイルを外部ユーザーと共有する
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,23 +13,23 @@ ms.custom: Adm_O365
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 46778fb6146251d1e5f5bfc476ebaf882ad19904
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477188"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive または SharePoint のファイルまたはフォルダーを外部ユーザーと共有します。
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive または SharePoint のファイルまたはフォルダーを外部ユーザーと共有する
 
-1. ブラウザー、ファイルまたは共有、選択し、[**共有**するフォルダーに移動します。
+1. ブラウザーで、共有するファイルまたはフォルダーに移動し、それを選択してから、[**共有**] をクリックします。
     
-2. 送信のリンク] ダイアログ ボックスで、リンクの種類を変更するのには下向きの矢印をクリックします。
+2. [リンクの共有] ダイアログ ボックスで、下矢印をクリックしてリンクの種類を変更します。
     
-3. **ユーザーを選択して動作するには、このリンク**を、[**すべてのユーザー**か、受信者がリンクを共有することをする人にだけアクセスを提供する**特定のユーザー**を指定します。 
+3. [**このリンクの設定先**] で、受信者がリンクを共有できるようにする場合は [**すべてのユーザー**] を選択し、指定するユーザーのみにアクセス権を与える場合は [**特定のユーザー**] を選択します。 
     
-    これらのオプションが使用できない場合は、組織およびサイト コレクションの実行可能かどうかを確認する必要があります。これを行うには、[外部の SharePoint Online のオンとオフの共有を有効にする](https://go.microsoft.com/fwlink/?linkid=866426)を参照してください。
+    これらのオプションを利用できない場合は、オプションが自分の組織およびサイト コレクションに対して許可されていることを確認する必要があります。これを行うには、「[SharePoint Online の外部共有をオンまたはオフにする](https://go.microsoft.com/fwlink/?linkid=866426)」を参照してください。
     
-4. **[適用]** をクリックします。
+4. [**適用**] をクリックします。
     
-5. 共有する相手の名前を入力し、し、[**送信**] をクリックします。
+5. 共有する相手の名前を入力して、[**送信**] をクリックします。
     
 

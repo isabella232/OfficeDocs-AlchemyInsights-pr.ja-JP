@@ -1,5 +1,5 @@
 ---
-title: Office のインストール中に問題の解決
+title: Office のインストール時の問題の解決方法
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
 ms.openlocfilehash: bd698704cca91a64e8044514b57ab397cb2d3377
 ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29646028"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Office のインストール中に問題の解決
+# <a name="solutions-for-issues-while-installing-office"></a>Office のインストール時の問題の解決方法
 
 
-Office のエラーを修正するこれらのソリューションのいずれかの操作を行います。
+Office のエラーを修正するために、次のいずれかの解決方法を試してみてください。
   
 - コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
     
@@ -33,8 +33,8 @@ Office のエラーを修正するこれらのソリューションのいずれ�
     
 3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
     
-- [Office オフライン インストーラーを使用](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)して Office をインストールする 
+- [Office オフライン インストーラーを使用](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)して Office をインストールします 
     
-インストール時のエラーの詳細については、 [Office をインストールするときにエラー メッセージ](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)を参照してください。
+インストールのエラーの詳細については、[Office のインストール時のエラー メッセージ](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)に関するページを参照してください。
   
 
