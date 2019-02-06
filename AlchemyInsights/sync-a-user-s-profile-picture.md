@@ -1,5 +1,5 @@
 ---
-title: ユーザーのプロファイル画像を同期させる
+title: ユーザーのプロファイル画像を同期する
 ms.author: ponincev
 author: ponincev
 ms.date: 11/13/2018
@@ -10,23 +10,23 @@ localization_priority: Priority
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
 ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477163"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="501f4-102">ユーザーのプロファイル画像を同期させる</span><span class="sxs-lookup"><span data-stu-id="501f4-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="d118f-102">ユーザーのプロファイル画像を同期する</span><span class="sxs-lookup"><span data-stu-id="d118f-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="501f4-p101">SharePoint Online でのプロファイル画像の同期では、写真の同期を開始するユーザーの操作が必要です。SharePoint Online に写真を自動的に同期することはありません。SharePoint Online の場合、だけ、Azure Active ディレクトリではなく Exchange オンラインから写真を同期します。</span><span class="sxs-lookup"><span data-stu-id="501f4-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
+<span data-ttu-id="d118f-p101">SharePoint Online でのプロファイル画像の同期には、ユーザーによる写真の同期を開始するアクションが必要です。SharePoint Online への写真の自動同期はありません。SharePoint Online では、Azure Active Directory ではなく、Exchange Online からのみ写真を同期します。</span><span class="sxs-lookup"><span data-stu-id="d118f-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
   
-<span data-ttu-id="501f4-106">ユーザーが初めて同期入力するよう要求するアクションを実行、または自分のプロフィールの画像と新しい SharePoint Online のいずれかが表示されない、更新、ユーザーが同期することを確認する必要があります。これを操作する方法を以下に示します。</span><span class="sxs-lookup"><span data-stu-id="501f4-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
+<span data-ttu-id="d118f-106">ユーザーが同期のメッセージを確認するアクションを実行していない場合、またはユーザーがプロファイル画像を更新して、新しい画像が SharePoint Online に表示されない場合、ユーザーは同期するためのメッセージを確認することが必要な場合があります。以下で、この操作方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="d118f-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
   
-1. <span data-ttu-id="501f4-107">プライベートまたは Incognito のセッションと[Office.com には、](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)web ブラウザーを開きます。</span><span class="sxs-lookup"><span data-stu-id="501f4-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
+1. <span data-ttu-id="d118f-107">プライベート セッションまたはシークレット セッションで Web ブラウザーを開いて、[Office.com に移動します](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)。</span><span class="sxs-lookup"><span data-stu-id="d118f-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
   
-2. <span data-ttu-id="501f4-108">職場、学校のアカウントでサインインし、OneDrive または SharePoint のタイルをクリックします。</span><span class="sxs-lookup"><span data-stu-id="501f4-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
+2. <span data-ttu-id="d118f-108">職場または学校のアカウントでサインインして、OneDrive または SharePoint のタイルをクリックします。</span><span class="sxs-lookup"><span data-stu-id="d118f-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
   
-[<span data-ttu-id="501f4-109">プロフィールの写真を Office 365 に追加します。</span><span class="sxs-lookup"><span data-stu-id="501f4-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
+[<span data-ttu-id="d118f-109">Office 365 にプロフィール写真を追加する</span><span class="sxs-lookup"><span data-stu-id="d118f-109">Add your user photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
   
-[<span data-ttu-id="501f4-110">Office 365 のプロファイル画像の同期についての情報</span><span class="sxs-lookup"><span data-stu-id="501f4-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
+[<span data-ttu-id="d118f-110">Office 365 のプロファイル画像の同期に関する情報</span><span class="sxs-lookup"><span data-stu-id="d118f-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
   
 
