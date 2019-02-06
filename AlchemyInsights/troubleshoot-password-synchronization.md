@@ -1,5 +1,5 @@
 ---
-title: パスワード同期のトラブルシューティングを行う
+title: パスワード同期のトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,50 +13,50 @@ ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
 ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29655816"
 ---
-# <a name="troubleshoot-password-synchronization"></a>パスワード同期のトラブルシューティングを行う
+# <a name="troubleshoot-password-synchronization"></a>パスワード同期のトラブルシューティング
 
-パスワードがないと Azure AD 接続バージョン 1.1.614.0 の同期またはそれ以降の問題をトラブルシューティングするには。
+Azure AD Connect バージョン 1.1.614.0 以降とパスワードが同期されないという問題をトラブルシューティングするには:
   
-1. **管理者として実行**オプションを使用して、Azure AD 接続サーバー上の新しい Windows PowerShell セッションを開きます。 
+1. [**管理者として実行**] オプションを使用して、Azure AD Connect サーバーで新しい Windows PowerShell セッションを開きます。 
     
-2. **セット ExecutionPolicy RemoteSigned**または**無制限に設定 ExecutionPolicy**を実行します。 
+2. **Set-ExecutionPolicy RemoteSigned** または **Set-ExecutionPolicy Unrestricted** を実行します。 
     
-3. Azure AD 接続ウィザードを起動します。
+3. Azure AD Connect ウィザードを開始します。
     
-4. 移動、* * 追加のタスク * * ページで、[* * トラブルシューティング * *、[**次へ**] をクリックします。 
+4. **[追加のタスク]** ページに移動し、**[トラブルシューティング]** を選択し、[**次へ**] をクリックします。 
     
-5. [トラブルシューティング] ページで、PowerShell での**トラブルシューティングを開始するのには起動**メニューをクリックします。 
+5. [トラブルシューティング] ページで、PowerShell の [**起動してトラブルシューティングを開始する**] メニューをクリックします。 
     
-6. メイン メニューでは、**パスワード同期のトラブルシューティングを行う**を選択します。 
+6. メイン メニューで、[**パスワード同期のトラブルシューティング**] を選択します。 
     
-7. サブ ・ メニューには、**パスワード同期がまったく動作しない**を選択します。 
+7. サブメニューで、[**パスワード同期がまったく動作しない**] を選択します。 
     
- **トラブルシューティングのタスクの結果を理解します。**
+ **トラブルシューティング タスクの結果を理解する**
   
-トラブルシューティングのタスクには、次のチェックが実行されます。
+トラブルシューティング タスクでは、次のチェックが実行されます。
   
-- Azure AD テナントのパスワード同期機能が有効になっていることを検証します。
+- Azure AD テナントのパスワード同期機能が有効になっていることを確認します。
     
-- Azure AD 接続サーバーはステージング モードでないことを検証します。
+- Azure AD Connect サーバーがステージング モードではないことを確認します。
     
-- 各既存のオンプレミス Active Directory コネクタ (これは、既存の Active Directory フォレストに相当します)。
+- (既存の Active Directory フォレストに対応する) 既存のオンプレミス Active Directory コネクタごとに、次の手順を実行します。
     
 - 
-  - パスワード同期機能が有効になっていることを検証します。
+  - パスワード同期機能が有効になっていることを確認します。
     
-  - Windows アプリケーション イベント ログ内のパスワード同期パルス イベントを検索します。
+  - Windows アプリケーション イベント ログでパスワード同期ハートビート イベントを検索します。
     
-  - : オンプレミスの Active Directory コネクタの下にある Active Directory ドメインごとに
+  - オンプレミスの Active Directory コネクタの下にある Active Directory ドメインごとに、次の手順を実行します。
     
-  - ドメインは、Azure AD 接続サーバーから到達できることを検証します。
+  - Azure AD Connect サーバーからドメインにアクセスできることを確認します。
     
-  - オンプレミスの Active Directory コネクタが使用する Active Directory ドメイン サービス (AD DS) アカウントが正しいユーザー名、パスワード、およびパスワード同期に必要なアクセス許可を持つことを検証します。
+  - オンプレミスの Active Directory コネクタで使用される Active Directory ドメイン サービス (AD DS) アカウントに、正しいユーザー名、パスワード、およびパスワードの同期に必要なアクセス許可があることを確認します。
     
-パスワード同期のトラブルシューティングの詳細については、 [Azure AD 接続の同期がパスワード同期のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)を参照してください。
+パスワード同期のトラブルシューティングの詳細については、「[Azure AD Connect 同期によるパスワード同期のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)」を参照してください。
   
 
