@@ -1,5 +1,5 @@
 ---
-title: 8000050 Outlook.com にサインインするのにことはできません。
+title: 8000050 Outlook.com にサインインできません
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
 ms.openlocfilehash: 02f450a2df93b7b87f2f5c06ecc40a9d19e023bd
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477592"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="15fac-102">サインインできないか、または自分のパスワードを忘れた場合</span><span class="sxs-lookup"><span data-stu-id="15fac-102">I can't sign in or forgot my password</span></span>
+# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="6b3d8-102">サインインできない場合またはパスワードを忘れた場合</span><span class="sxs-lookup"><span data-stu-id="6b3d8-102">I can't sign in or forgot my password</span></span>
 
-<span data-ttu-id="15fac-p101">、別のアカウントへのサインインの問題が発生した場合、アカウントがブロックされて一時的にいる異常なサインインの利用状況が分かりましたので。自分のアカウントがブロックされている場合は、 [Outlook.com アカウントのブロックを解除する](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="15fac-p101">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity. If your account is blocked, see [Unblock my Outlook.com account](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409).</span></span>
+<span data-ttu-id="6b3d8-p101">別のアカウントへのサインインに問題がある場合は、通常とは異なるサインイン アクティビティが検知されたため、そのアカウントが一時的にブロックされている可能性があります。アカウントがブロックされている場合は、「[Outlook.com アカウントのブロックを解除する](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b3d8-p101">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity. If your account is blocked, see [Unblock my Outlook.com account](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="15fac-105">パスワードを忘れてしまった、[パスワードをリセット](https://go.microsoft.com/fwlink/p/?linkid=841909)できます。</span><span class="sxs-lookup"><span data-stu-id="15fac-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
+<span data-ttu-id="6b3d8-105">パスワードを忘れた場合は、[パスワードをリセット](https://go.microsoft.com/fwlink/p/?linkid=841909)できます。</span><span class="sxs-lookup"><span data-stu-id="6b3d8-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
   
-<span data-ttu-id="15fac-106">Outlook.com アカウントがハッキングされたと思われる場合は、[マイ Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="15fac-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366).</span></span>
+<span data-ttu-id="6b3d8-106">Outlook.com アカウントがハッキングされた疑いがある場合は、「[Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b3d8-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366).</span></span>
   
-<span data-ttu-id="15fac-107">[Microsoft アカウントにサインインできない場合](https://go.microsoft.com/fwlink/p/?linkid=842227)の詳細を参照します。</span><span class="sxs-lookup"><span data-stu-id="15fac-107">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=842227).</span></span>
+<span data-ttu-id="6b3d8-107">詳細については、「[Microsoft アカウントにサインインできない場合](https://go.microsoft.com/fwlink/p/?linkid=842227)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b3d8-107">Learn more: When you can't sign in to your Microsoft account</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Alchemy の作成、電子メールの署名
+title: Alchemy - メール署名を作成する
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
 ms.openlocfilehash: 1356f1df81a639f55736e1b2558e3bda8a9fb801
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29497803"
 ---
-# <a name="create-email-signatures"></a><span data-ttu-id="62046-102">E メールの署名を作成します。</span><span class="sxs-lookup"><span data-stu-id="62046-102">Create email signatures</span></span>
+# <a name="create-email-signatures"></a><span data-ttu-id="e1952-102">メール署名を作成する</span><span class="sxs-lookup"><span data-stu-id="e1952-102">Alchemy - Create email signatures</span></span>
 
-<span data-ttu-id="62046-103">これらのトピックを使用すると、電子メールの署名を作成できます。</span><span class="sxs-lookup"><span data-stu-id="62046-103">These topics will help you create email signatures:</span></span>
+<span data-ttu-id="e1952-103">これらのトピックは、メール署名を作成するときに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="e1952-103">These topics will help you create email signatures:</span></span>
   
-- <span data-ttu-id="62046-104">独自のメッセージに電子メール署名を作成:[を作成するメッセージに署名を追加して](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)または[を作成する Outlook Web App の電子メール署名を追加して](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx)。</span><span class="sxs-lookup"><span data-stu-id="62046-104">Create an email signature for your own messages: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span></span>
+- <span data-ttu-id="e1952-104">自分のメッセージ用のメール署名を作成する: 「[署名を作成してメッセージに追加する](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)」または「[Outlook Web App でメール署名を作成、追加する](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx)」。</span><span class="sxs-lookup"><span data-stu-id="e1952-104">Create an email signature for your own messages: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span></span>
     
-- <span data-ttu-id="62046-105">会社 (免責条項とも呼ばれます) から送信されたすべてのメッセージのグローバル電子メール署名を作成する:[組織全体のメッセージの免責事項、署名、フッター、または Office 365 のヘッダー](https://go.microsoft.com/fwlink/p/?linkid=391096)です。</span><span class="sxs-lookup"><span data-stu-id="62046-105">Create a global email signature for all messages sent from your company (also known as a disclaimer): [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span></span>
+- <span data-ttu-id="e1952-105">自社から送信されるすべてのメッセージに対してグローバルなメール署名を作成する (免責事項とも呼ばれます): 「[Office 365 における組織全体のメッセージの免責事項、署名、フッター、ヘッダー](https://go.microsoft.com/fwlink/p/?linkid=391096)」。</span><span class="sxs-lookup"><span data-stu-id="e1952-105">Create a global email signature for all messages sent from your company (also known as a disclaimer): [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span></span>
     
 
