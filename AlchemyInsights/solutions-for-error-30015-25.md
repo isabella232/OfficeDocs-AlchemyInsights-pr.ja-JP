@@ -1,5 +1,5 @@
 ---
-title: 30015-25 のエラーのためのソリューション
+title: エラー 30015-25 の解決方法
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -13,25 +13,25 @@ ms.custom: Adm_O365
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
 ms.openlocfilehash: 5a88d316c04e1b8c5c2bee6ceb5ffac6fcff9604
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29476933"
 ---
-# <a name="solutions-for-error-30015-25"></a>30015-25 のエラーのためのソリューション
+# <a name="solutions-for-error-30015-25"></a>エラー 30015-25 の解決方法
 
-[30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)のエラーを修正するのにはこれらのソリューションを試してください。
+エラー [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA) の修正には、次の解決方法を試してみてください。
   
-- コンピューターを再起動し、 [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)してください。
+- コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)してみます。
     
-- ダウンロードし、インストール、[サポート、および回復時のアシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)。
+- [サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。
     
-1. 開いたとき、**アンインストールの Office 製品**のバージョンをアンインストールし、**次へ**を選択するを選択します。 
+1. 起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。 
     
-2. 画面を通じて継続しが表示されたらコンピューターを再起動します。
+2. 各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。
     
-    再起動後は、サポートと回復時のアシスタントが自動的に再開きますアンインストール プロセスを完了します。
+    再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。
     
-3. 以下の残りのプロンプト、および[Office を再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
+3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
     
 

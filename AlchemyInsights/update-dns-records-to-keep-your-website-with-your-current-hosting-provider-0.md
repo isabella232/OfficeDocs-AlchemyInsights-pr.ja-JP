@@ -13,7 +13,7 @@ ms.custom: Adm_O365
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: a79302259e294ea5bf3b1d29393a412edb27a388
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477030"
@@ -22,7 +22,7 @@ ms.locfileid: "29477030"
 
 1. [ [ドメイン](https://portal.office.com/adminportal/home#/Domains) ] ページで、ドメインの一覧から、Web サイトで使用しているドメインを選択し、管理ウィンドウで [ **DNS 設定** ] を選択します。 
     
-2. [ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。 
+2. [**+ 新しいカスタム レコード**] を選択し、次を入力します。 
     
   - [ **DNS の種類** ] には、「 **A (アドレス)** 」と入力します。
     
@@ -32,7 +32,7 @@ ms.locfileid: "29477030"
     
     これは、Web サイトの *動的*  IP アドレスではなく、  *静的*  IP アドレスでなければなりません。 Web サイトがホストされているサイトで、一般向け Web サイトの静的 IP アドレスを取得できることを確認します。 
     
-3. [ **保存** ] を選択します。 
+3. [**保存**] を選択します。 
     
 さらに、CNAME レコードを作成して、Web サイトを顧客が簡単に見つけることができるようにすることもできます。
   
@@ -44,6 +44,6 @@ ms.locfileid: "29477030"
     
   - [ **ポイント先のアドレス** ] には、Web サイトの完全修飾ドメイン名 (FQDN) を入力します (例: contoso.com)。 
     
-2. [ **保存** ] を選択します。 
+2. [**保存**] を選択します。 
     
 

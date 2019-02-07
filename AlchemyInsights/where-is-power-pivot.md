@@ -1,5 +1,5 @@
 ---
-title: 電源ピボットとは?
+title: Power Pivot が表示されません
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -13,31 +13,31 @@ ms.custom: Adm_O365
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
 ms.openlocfilehash: 11f4f4526ba34db0c3001f3414f7b9d24c91b327
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477016"
 ---
-# <a name="where-is-power-pivot"></a>電源ピボットとは?
+# <a name="where-is-power-pivot"></a>Power Pivot が表示されません
 
-電源ピボットが表示されていない理由は 3 つあります。
+Power Pivot が表示されないのは、次の 3 つの原因があります。
   
- **Excel のバージョンが含まれていないこと**
+ **お使いのバージョンの Excel に含まれていない**
   
-すべてのバージョン Excel にはでは、電源のピボットが含まれます。電源ピボットを含む Office のバージョンにアップグレードする必要があります。[サポートされているバージョンの一覧を確認します](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)。
+一部のバージョンの Excel には Power Pivot が含まれていません。Power Pivot が含まれているバージョンに Office をアップグレードする必要があります。サポートされているバージョンの一覧は[こちら](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)でご覧ください。
   
- **電源ピボットを有効にしていません。**
+ **Power Pivot を有効にしていない**
   
-電源ピボットをサポートしている Excel のバージョンで作業している場合は、アドインが有効になっているを確認します。
+Power Pivot をサポートしているバージョンの Excel で作業している場合、このアドインが有効になっていることを確認します。
   
-1. **ファイル**を選択して\>**オプション** \> **アドインを使用**します。
+1. [**ファイル**]、[**オプション**]、[**アドイン**] の順に選択します。
     
-2. **管理**] ボックスの一覧で **[COM アドイン]** を選択して**Go**] をクリックします。
+2. [**管理**] ドロップ ダウン ボックスで、[**COM アドイン**] を選択し、[**設定**] をクリックします。
     
-3. [ **Com アドイン**] ダイアログ ボックスで**Excel のマイクロソフトの電源ピボット**、横のチェック ボックスをオンし、し、[ **OK**] をクリックします。 
+3. [**COM アドイン**] ダイアログ ボックスで [**Microsoft Power Pivot for Excel**] の隣にあるチェックボックスを選択し、[**OK**] をクリックします。 
     
- **複数のアカウントまたはサブスクリプションがある場合**
+ **サブスクリプションかアカウントが複数ある**
   
-別のユーザー アカウントに割り当てられている別の Office 365 サブスクリプションを使用するがあります。電源ピボットをサポートしている Excel のバージョンを持つアカウントにサインインしていることを確認します。[サポートされているバージョン](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)はの一覧を確認し、指示に従って、Office の異なるアカウントを[切り替えます](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)。
+異なる Office 365 サブスクリプションが異なるユーザー アカウントに割り当てられている可能性があります。Power Pivot をサポートしているバージョンの Excel を使用しているアカウントでサインインしていることを確認してください。[サポートされているバージョン](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)の一覧を確認し、[Office アカウントを切り替える](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)方法に従ってください。
   
 
