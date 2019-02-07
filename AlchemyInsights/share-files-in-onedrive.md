@@ -1,5 +1,5 @@
 ---
-title: OneDrive でファイルを共有します。
+title: OneDrive でファイルを共有する
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,32 +13,32 @@ ms.custom: Adm_O365
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
 ms.openlocfilehash: 90b295e5cff3b98b18e6f34d42de3c55b376c6c0
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477076"
 ---
-# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="04a9f-102">OneDrive で共有する方法</span><span class="sxs-lookup"><span data-stu-id="04a9f-102">How to share in OneDrive</span></span>
+# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="67bca-102">OneDrive で共有する方法</span><span class="sxs-lookup"><span data-stu-id="67bca-102">How to share in OneDrive</span></span>
 
-1. <span data-ttu-id="04a9f-103">アプリケーション起動ツールを使用して、web ブラウザーで OneDrive に移動します。</span><span class="sxs-lookup"><span data-stu-id="04a9f-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="67bca-103">アプリ起動ツールを使用してご利用の Web ブラウザーで OneDrive に移動します。</span><span class="sxs-lookup"><span data-stu-id="67bca-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="04a9f-104">ファイルや、共有するフォルダーを選択し、し、[**共有**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="04a9f-104">Select the file or folder you want to share, and then select **Share**.</span></span>
+2. <span data-ttu-id="67bca-104">共有するファイルまたはフォルダーを選択して、[**共有**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="67bca-104">Select the file or folder you want to share, and then click **Share**.</span></span>
     
-3. <span data-ttu-id="04a9f-105">(省略可能)リンクの種類には、いずれかにする必要がない場合は場合、は、別の種類を選択するのには下向きの矢印をクリックします。</span><span class="sxs-lookup"><span data-stu-id="04a9f-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+3. <span data-ttu-id="67bca-105">(省略可能) リンクの種類が目的のものではない場合は、下向き矢印をクリックして次の中から別の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="67bca-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="04a9f-p101">**すべてのユーザー**にアクセスするから直接受信または他のユーザーから転送されるかどうか、このリンクを受信するすべてのユーザー。これには、組織の外部ユーザーが含まれます。</span><span class="sxs-lookup"><span data-stu-id="04a9f-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="67bca-p101">**すべてのユーザー**: あなたから直接送信されるか、他のユーザーから転送されるかとは関係なく、このリンクを受信するすべてのユーザーにアクセス権が付与されます。これには組織の外部のユーザーが含まれる場合もあります。</span><span class="sxs-lookup"><span data-stu-id="67bca-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="04a9f-108">**人で\<の組織\>** は、すべてのユーザー、組織のアクセスでリンクにから直接受信するかどうかまたは他のユーザーから転送されました。</span><span class="sxs-lookup"><span data-stu-id="04a9f-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="67bca-108">**\<組織\>内のユーザー**: あなたから直接送信されるか、他のユーザーから転送されるかとは関係なく、組織内のすべてのユーザーにリンクへのアクセス権が付与されます。</span><span class="sxs-lookup"><span data-stu-id="67bca-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="04a9f-p102">**特定のユーザー**アクセスを提供する人にだけ指定すると、他のユーザーがアクセスを既にことがありますが。ユーザーは、共有への招待を転送する場合、アイテムへのアクセスを既に持っている人だけはリンクを使用することになります。</span><span class="sxs-lookup"><span data-stu-id="04a9f-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="67bca-p102">**特定のユーザー**: 指定したユーザーにのみアクセス権が付与されます。ただし、他のユーザーが既にアクセス権を持っている場合があります。ユーザーが共有の招待を転送した場合、アイテムへのアクセス権を既に持っているユーザーのみがリンクを使用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="67bca-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="04a9f-p103">これらのオプションのいずれかが使用できない、または、別のリンクの種類を既定で表示する場合は、OneDrive 管理ページに移動し、左側のペインで、**共有**をクリックすると、組織全体の設定を変更できます。[詳細を表示](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="04a9f-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
+    > <span data-ttu-id="67bca-p103">これらのオプションのいずれかが使用できない場合、または別のリンクの種類が既定で表示されるようにする場合は、自分の組織全体の設定を変更することができます。そのためには、OneDrive 管理センターに移動し、左側のウィンドウにある [**共有**] をクリックします。[詳細情報](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="67bca-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
   
-4. <span data-ttu-id="04a9f-p104">既定で**許可する編集**になっています。ユーザーのみのファイルを表示する場合は、チェック ボックスをオフにします。</span><span class="sxs-lookup"><span data-stu-id="04a9f-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="67bca-p104">既定では、[**編集の許可**] が有効になっています。ファイルの表示のみをユーザーに許可する場合は、このチェック ボックスをオフにします。</span><span class="sxs-lookup"><span data-stu-id="67bca-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="04a9f-115">共有する相手の名前を入力し、し、[**送信**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="04a9f-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="67bca-115">共有する相手の名前を入力して、[**送信**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="67bca-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
-[<span data-ttu-id="04a9f-116">詳細情報</span><span class="sxs-lookup"><span data-stu-id="04a9f-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
+[<span data-ttu-id="67bca-116">詳細情報</span><span class="sxs-lookup"><span data-stu-id="67bca-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
