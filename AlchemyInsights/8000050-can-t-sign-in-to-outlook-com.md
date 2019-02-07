@@ -1,5 +1,5 @@
 ---
-title: 8000050 Outlook.com にサインインするのにことはできません。
+title: 8000050 Outlook.com にサインインできません
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,19 +11,19 @@ localization_priority: Priority
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
 ms.openlocfilehash: 02f450a2df93b7b87f2f5c06ecc40a9d19e023bd
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477592"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>サインインできないか、または自分のパスワードを忘れた場合
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>サインインできない場合またはパスワードを忘れた場合
 
-、別のアカウントへのサインインの問題が発生した場合、アカウントがブロックされて一時的にいる異常なサインインの利用状況が分かりましたので。自分のアカウントがブロックされている場合は、 [Outlook.com アカウントのブロックを解除する](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409)を参照してください。
+別のアカウントへのサインインに問題がある場合は、通常とは異なるサインイン アクティビティが検知されたため、そのアカウントが一時的にブロックされている可能性があります。アカウントがブロックされている場合は、「[Outlook.com アカウントのブロックを解除する](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409)」を参照してください。
   
-パスワードを忘れてしまった、[パスワードをリセット](https://go.microsoft.com/fwlink/p/?linkid=841909)できます。
+パスワードを忘れた場合は、[パスワードをリセット](https://go.microsoft.com/fwlink/p/?linkid=841909)できます。
   
-Outlook.com アカウントがハッキングされたと思われる場合は、[マイ Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)を参照してください。
+Outlook.com アカウントがハッキングされた疑いがある場合は、「[Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)」を参照してください。
   
-[Microsoft アカウントにサインインできない場合](https://go.microsoft.com/fwlink/p/?linkid=842227)の詳細を参照します。
+詳細については、「[Microsoft アカウントにサインインできない場合](https://go.microsoft.com/fwlink/p/?linkid=842227)」を参照してください。
   
 

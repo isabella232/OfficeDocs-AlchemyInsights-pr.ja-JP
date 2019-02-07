@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune で macOS のデバイスの登録に関する問題をトラブルシューティングします。
+title: Microsoft Intune での macOS デバイスの登録に関する問題のトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.openlocfilehash: c278f9f41b904a96812411842b925aa9ba6afd96
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29661864"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune で macOS のデバイスの登録に関する問題をトラブルシューティングします。
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Microsoft Intune での macOS デバイスの登録に関する問題のトラブルシューティング
 
-これで問題を解決するのには下記のリソースを確認します。 
+今すぐ問題を解決するには、以下のリソースを確認します。 
   
 1. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。 
     
 2. 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)を参照してください。 
     
-3. [Microsoft Intune で macOS のデバイスを登録する方法について説明](https://docs.microsoft.com/intune/macos-enroll)します。
+3. [Microsoft Intune で macOS デバイスを登録する方法の詳細をご確認ください](https://docs.microsoft.com/intune/macos-enroll)。
     
-[Microsoft Intune で macOS のデバイスを登録するためのエンド ・ ユーザー ガイドをチェックします。](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[macOS デバイスを Microsoft Intune に登録するためのエンドユーザー ガイドをご覧ください](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
 

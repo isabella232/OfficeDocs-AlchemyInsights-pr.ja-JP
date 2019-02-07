@@ -1,5 +1,5 @@
 ---
-title: チーム ガイダンスをアップグレードします。
+title: Teams のアップグレード ガイダンス
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -11,13 +11,13 @@ localization_priority: Priority
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
 ms.openlocfilehash: fae5eb142882d03859c4054fbad669ca4edeb857
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29661558"
 ---
-# <a name="upgrade-to-teams"></a>チームへのアップグレード
+# <a name="upgrade-to-teams"></a>Teams へのアップグレード
 
-ビジネス用の Skype からマイクロソフトのチームに移動するステップ バイ ステップ ガイドを見つけることができます[ここ](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)。
+Skype for Business から Microsoft Teams への以降のステップ バイ ステップ ガイドは[こちら](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)をご覧ください。
   
 

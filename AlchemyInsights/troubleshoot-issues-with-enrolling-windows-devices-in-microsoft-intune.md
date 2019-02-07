@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune の Windows デバイスの登録に関する問題をトラブルシューティングします。
+title: Microsoft Intune での Windows デバイスの登録に関する問題のトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,35 +11,35 @@ localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
 ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/30/2019
 ms.locfileid: "29661549"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsoft Intune の Windows デバイスの登録に関する問題をトラブルシューティングします。
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsoft Intune での Windows デバイスの登録に関する問題のトラブルシューティング
 
-これで問題を解決するのには下記のリソースを確認します。 
+今すぐ問題を解決するには、以下のリソースを確認します。 
   
-いくつかの一般的なエラー メッセージと解決方法の手順を使用して:
+一般的なエラー メッセージと解決手順をいくつか示します。
   
- **ソフトウェアをインストールすることはできません、0x80cf4017:** アカウント証明書の有効期限が切れています。Intune 管理コンソールで PC クライアント ソフトウェア パッケージを再度ダウンロードします。詳細についてはこのドキュメントを確認します。 
+ **このソフトウェアをインストールできません (0x80cf4017):** ご使用のアカウント証明書が期限切れです。Intune 管理コンソールで PC クライアント ソフトウェア パッケージを再ダウンロードします。詳しくは、このドキュメントを確認してください。 
   
- **エラー コード 0x801c0003:** エラーは、次のシナリオで発生します。 
+ **エラー コード 0x801c0003:** このエラーは次のシナリオで生じる可能性があります。 
   
-1. ユーザーは、デバイスの制限値よりも登録されているより多くのデバイスを持っています。[デバイスを削除](https://docs.microsoft.com/intune/devices-wipe)するか、[デバイスの制限値を変更](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)するのにはこれらのドキュメントを確認します。
+1. ユーザーがデバイスの制限を超える数のデバイスを登録しています。こちらのドキュメントを参照して、[デバイスを削除](https://docs.microsoft.com/intune/devices-wipe)するか、[デバイスの制限を変更](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)してください。
     
-2. 「ユーザー参加デバイス Azure AD に」は、「なし」に設定されています。すべて] に設定するか、選択のユーザーです。詳細については[このドキュメント](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)を確認します。 
+2. [ユーザーはデバイスを Azure AD に参加させることができます] が [なし] に設定されています。[すべて] に設定するか、ユーザーを選択します。詳しくは、[こちらのドキュメント](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)をご覧ください。 
     
-3. デバイスは既に別のユーザーによって登録されています。Azure Intune コンソールからデバイスを削除する場合は、または、再試行する前に、デバイスを手動で unenroll。
+3. デバイスが他のユーザーによって既に登録済みです。その場合には、Azure Intune コンソールから対象デバイスを削除するか、デバイスを手動で登録解除してから、もう一度試します。
     
-4. デバイスは、Windows 10 ホームです。のみ Windows 10 Pro、教育およびエンタープライズ版 Sku は、Azure Active Directory に参加できます。
+4. Windows 10 Home デバイスです。Azure Active Directory に参加できるのは、Windows 10 Pro、Education SKU、Enterprise SKU のみです。
     
-お客様の問題を解決するための他のリソース:
+問題の解決に役立つその他のリソース:
   
 1. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。 
     
-2. 各登録と解決策を防ぐための一般的なエラーの一覧については、これらのドキュメントを確認する:[トラブルシューティング ガイド](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)です。
+2. 登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)をご覧ください。
     
-[Microsoft Intune の Windows デバイスを登録する方法について説明](https://docs.microsoft.com/intune/windows-enroll)します。
+[Microsoft Intune で Windows デバイスを登録する方法の詳細をご確認ください](https://docs.microsoft.com/intune/windows-enroll)。
   
 

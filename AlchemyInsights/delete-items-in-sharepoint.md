@@ -1,5 +1,5 @@
 ---
-title: SharePoint 内の項目を削除します。
+title: SharePoint でアイテムを削除する
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -13,23 +13,23 @@ ms.custom: Adm_O365
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 04ad160795b8752e0289a74adb40725614a94378
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/24/2019
 ms.locfileid: "29477562"
 ---
-# <a name="delete-items-in-sharepoint"></a>SharePoint 内の項目を削除します。
+# <a name="delete-items-in-sharepoint"></a>SharePoint でアイテムを削除する
 
-[リストを削除します。](https://go.microsoft.com/fwlink/?linkid=869393)
+[リストを削除する](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[ドキュメント ライブラリを削除します。](https://go.microsoft.com/fwlink/?linkid=869392)
+[ドキュメント ライブラリを削除する](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[一覧から項目を削除します。](https://go.microsoft.com/fwlink/?linkid=869397)
+[リストからアイテムを削除する](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[ドキュメント ライブラリからアイテムを削除します。](https://go.microsoft.com/fwlink/?linkid=869399)
+[ドキュメント ライブラリからアイテムを削除する](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[ページ上の列を削除します。](https://go.microsoft.com/fwlink/?linkid=869394)
+[ページの列を削除する](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[リストまたはライブラリ内の列を削除します。](https://go.microsoft.com/fwlink/?linkid=869396)
+[リストまたはライブラリで列を削除する](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

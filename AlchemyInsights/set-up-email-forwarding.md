@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657832"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759465"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>メールボックスのメールの転送設定を確認する
 
@@ -30,6 +30,6 @@ ms.locfileid: "29657832"
   
 ユーザーが自分のメールボックスでメールの転送をセットアップできるようにその手順をユーザーに送信するには、「[Office 365 から別のメール アカウントにメールを転送する](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)」ように指示します。1 つのメール アドレスしか転送できないことに注意してください。ユーザーのグループへの転送をセットアップする必要がある場合は、配布リスト ([グループ] の下) を作成して、それにユーザーを追加してから、そのグループへの転送を構成します。
   
-退職した従業員がいる場合に、実施すべき推奨手順については、「[Office 365 から元従業員を削除する](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)」を参照してください。 
+退職した従業員がいる場合に、実施すべき推奨手順については、「[Office 365 から元従業員を削除する](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)」を参照してください。 
   
 
