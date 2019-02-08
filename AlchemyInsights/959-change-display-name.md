@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-description: 1 つの記事は 500 語以下でまとめることを目標にします。
-ms.openlocfilehash: 39063a124aa2d4297f9be404253496eafaf1529d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+description: ''
+ms.openlocfilehash: cd67d82d9b4a7c59ac167a7cf1b80f805d0afffc
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476936"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758458"
 ---
-1 つの記事は 500 語以下でまとめることを目標にします。
+# <a name="change-your-display-name"></a>表示名を変更する
   
 Outlook での表示名を変更するには、次の手順を使用します。
   
