@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
-ms.openlocfilehash: f1e83d9a3f4927bc711dadd0bd32d6d847140f30
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: aeeb3f4394e4377074b0dd7f330d737ca9c75a6d
+ms.sourcegitcommit: f027e6f083dc07776ceaf1c5240f5a48fac6fc66
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661421"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29768188"
 ---
-Excel で頻繁にクラッシュする場合、問題のあるアドインが原因である可能性があります。次の手順に従って Excel アドインを無効にすることができます。
+# <a name="frequent-excel-crashes"></a>Excel が頻繁にクラッシュする場合
+
+Excel で頻繁にクラッシュする場合、問題のあるアドインが原因になっている可能性があります。次の手順に従って Excel アドインを無効にすることができます。
   
 1. [**ファイル**]、[**オプション**]、[**アドイン**] の順に選択します。
     

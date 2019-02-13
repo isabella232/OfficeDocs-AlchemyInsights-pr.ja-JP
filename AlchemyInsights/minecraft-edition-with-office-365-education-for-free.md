@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4fa4b424ee698f5cdb56ed4e41da22b037ae2362
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657544"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770622"
 ---
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>無料の Minecraft Edition と Office 365 Education
+
 [無料の Minecraft Edition と Office 365 Education](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: Education Edition** には Windows 10 が必要です 
