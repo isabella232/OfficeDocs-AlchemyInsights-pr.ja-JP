@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477443"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770658"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="232b2-102">Outlook と Outlook on the web の委任について</span><span class="sxs-lookup"><span data-stu-id="232b2-102">Personal tags in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="86187-102">Outlook と Outlook on the web の委任についてのトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="86187-102">About delegates in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="232b2-103">詳細については、以下のトピックを参照してください。</span><span class="sxs-lookup"><span data-stu-id="232b2-103">For more information, see these topics:</span></span>
-  
-- <span data-ttu-id="232b2-104">**Outlook**: [自分のメールと予定表の管理を他のユーザーに許可する](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="232b2-104">To give other users access to your mailbox, see Allow someone else to manage your mail and calendar.</span></span>
-    
-- <span data-ttu-id="232b2-105">**Outlook on the web**: [一般ビジネス向け Outlook on the web の予定表委任](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="232b2-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
-    
+<span data-ttu-id="86187-103">**SaRA ツールを使用したトラブルシューティング:**</span><span class="sxs-lookup"><span data-stu-id="86187-103">**Troubleshooting with the SaRA tool:**</span></span>
 
+1. <span data-ttu-id="86187-104">ここから SaRA ツールをダウンロードしてインストールします</span><span class="sxs-lookup"><span data-stu-id="86187-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="86187-105">Outlook を選択し、[予定表に問題がある] を選択します</span><span class="sxs-lookup"><span data-stu-id="86187-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="86187-106">影響を受けているコンピューターを、[はい] にします</span><span class="sxs-lookup"><span data-stu-id="86187-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="86187-107">影響を受けているユーザーの電子メール アドレスを追加します</span><span class="sxs-lookup"><span data-stu-id="86187-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="86187-108">[代理アクセス権に問題がある] を選択します</span><span class="sxs-lookup"><span data-stu-id="86187-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="86187-p101">アクセス許可を付与する側の場合は、次のダイアログ ボックスで、代理人の電子メール アドレスを入力します。アクセス許可を受信した代理人の場合は、アクセス許可を付与したユーザーの電子メール アドレスを入力します。</span><span class="sxs-lookup"><span data-stu-id="86187-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="86187-111">次のメニューで、シナリオに適したオプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="86187-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="86187-112">次のメニューで、アクセス許可レベルを選択します。</span><span class="sxs-lookup"><span data-stu-id="86187-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="86187-113">この段階で、SaRA ツールが自動チェックを実行し、考えられる解決策、またはさらに詳細なトラブルシューティングのために使用できる診断ログが提供されます。</span><span class="sxs-lookup"><span data-stu-id="86187-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="86187-114">ログは、C:\Users\Username\AppData\Local\SaraResults の SaRA 結果フォルダーにあります。</span><span class="sxs-lookup"><span data-stu-id="86187-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
