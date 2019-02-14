@@ -7,16 +7,16 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0f9d5f4fc868e0e73edf41d489aeaa425b9a203d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d23e8ecc0a6e378c89fb4530d7e375ca63efb1e2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476873"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930071"
 ---
 # <a name="restore-a-deleted-item"></a>削除されたアイテムを復元する
 
