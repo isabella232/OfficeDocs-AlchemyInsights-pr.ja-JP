@@ -7,14 +7,14 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2334f60b-c26a-47e3-b084-351648959343
-ms.openlocfilehash: eb9ca1ca9340f80a36b87ea99f2f988f8707bd28
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 83c3c29d9e7269919f312cb5a95dfccbde3e47dd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500251"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941405"
 ---
 # <a name="disabling-advanced-outlookcom-security"></a>Outlook.com の高度なセキュリティを無効にする
 

@@ -1,5 +1,5 @@
 ---
-title: パブリック フォルダー データの Office 365 への移行
+title: パブリック フォルダー データの Office 365 への移動
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,16 +7,16 @@ ms.date: 3/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2a9be935-d798-4b5f-a1b8-15b1f25d1451
-ms.openlocfilehash: 82fc7a73084c6755f758d6a0ba48c6ef80d2b4e9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ac949148ff0af6eeae61914420bf782a4110f562
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658732"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915095"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>パブリック フォルダー データの Office 365 への移行
 
