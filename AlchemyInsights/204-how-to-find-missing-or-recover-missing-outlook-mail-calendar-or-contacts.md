@@ -7,25 +7,25 @@ ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a03d07cd43664c2b01ee231033c46178269746e3
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 545c3d17b1cc2f415685e59d49a1fd743746bf08
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661324"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915665"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="665f4-102">Outlook で表示されないメッセージ、連絡先、予定表のアイテムを検索して復元する方法</span><span class="sxs-lookup"><span data-stu-id="665f4-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="7261f-102">Outlook で表示されないメッセージ、連絡先、予定表のアイテムを検索して復元する方法</span><span class="sxs-lookup"><span data-stu-id="7261f-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
 
-- <span data-ttu-id="665f4-p101">影響を受けたコンピューターで[メール メッセージの送信、受信、検索で問題が発生しているツール](https://aka.ms/SaRA-OutlookSendReceive)を使用できます。このツールは、さまざまな問題を確認し、考えられる解決策を提案します。</span><span class="sxs-lookup"><span data-stu-id="665f4-p101">You can use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected machine. This tool will check for a number of issues and will suggest possible solutions.</span></span> 
+- <span data-ttu-id="7261f-p101">影響を受けたコンピューターで[メール メッセージの送信、受信、検索で問題が発生しているツール](https://aka.ms/SaRA-OutlookSendReceive)を使用できます。このツールは、さまざまな問題を確認し、考えられる解決策を提案します。</span><span class="sxs-lookup"><span data-stu-id="7261f-p101">You can use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected machine. This tool will check for a number of issues and will suggest possible solutions.</span></span> 
     
-- <span data-ttu-id="665f4-p102">[アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)」の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="665f4-p102">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account).</span></span>
+- <span data-ttu-id="7261f-p102">[アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)」の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="7261f-p102">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). If compromised, follow the steps in [Responding to a compromised email account in Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)</span></span>
     
-- [<span data-ttu-id="665f4-107">クイック検索を使ってメッセージまたはアイテムを検索する</span><span class="sxs-lookup"><span data-stu-id="665f4-107">Find the message or item using Instant Search</span></span>](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [<span data-ttu-id="7261f-107">クイック検索を使ってメッセージまたはアイテムを検索する</span><span class="sxs-lookup"><span data-stu-id="7261f-107">Find the message or item using Instant Search</span></span>](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
     
-- [<span data-ttu-id="665f4-108">Windows 版 Outlook で削除済みのアイテムを復元する</span><span class="sxs-lookup"><span data-stu-id="665f4-108">Recover deleted items in Outlook for Windows</span></span>](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [<span data-ttu-id="7261f-108">Windows 版 Outlook で削除済みのアイテムを復元する</span><span class="sxs-lookup"><span data-stu-id="7261f-108">Recover deleted items in Outlook for Windows</span></span>](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
     
 

@@ -6,29 +6,29 @@ ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 2e778bf4fbdb766700fb24b3405b4ddce89253f7
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662332"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935945"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="5e023-102">Intune での条件付きアクセス</span><span class="sxs-lookup"><span data-stu-id="5e023-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="003cd-102">Intune での条件付きアクセス</span><span class="sxs-lookup"><span data-stu-id="003cd-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="5e023-103">Intune で**条件付きアクセス**を使用するには、次の 3 つの手順が必要です。</span><span class="sxs-lookup"><span data-stu-id="5e023-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
+<span data-ttu-id="003cd-103">Intune で**条件付きアクセス**を使用するには、次の 3 つの手順が必要です。</span><span class="sxs-lookup"><span data-stu-id="003cd-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
   
-- <span data-ttu-id="5e023-p101">保護されているリソース、およびそれらのリソースにアクセスするために満たす必要がある条件を定義する、**条件付きアクセス ポリシー**を作成します。たとえば、企業メールにアクセスする前に、デバイスを準拠させる必要があります。</span><span class="sxs-lookup"><span data-stu-id="5e023-p101">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources. For example, a device must be compliant before accessing corporate email.</span></span> 
+- <span data-ttu-id="003cd-p101">保護されているリソース、およびそれらのリソースにアクセスするために満たす必要がある条件を定義する、**条件付きアクセス ポリシー**を作成します。たとえば、企業メールにアクセスする前に、デバイスを準拠させる必要があります。</span><span class="sxs-lookup"><span data-stu-id="003cd-p101">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources. For example, a device must be compliant before accessing corporate email.</span></span> 
     
-- <span data-ttu-id="5e023-p102">**コンプライアンス ポリシー**を作成して、デバイスが準拠していると見なされるよう満たす必要がある設定を定義します。たとえば、準拠と見なされるには、デバイスには少なくとも 6 桁の暗証番号が必要です。</span><span class="sxs-lookup"><span data-stu-id="5e023-p102">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant. For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
+- <span data-ttu-id="003cd-p102">**コンプライアンス ポリシー**を作成して、デバイスが準拠していると見なされるよう満たす必要がある設定を定義します。たとえば、準拠と見なされるには、デバイスには少なくとも 6 桁の暗証番号が必要です。</span><span class="sxs-lookup"><span data-stu-id="003cd-p102">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant. For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
     
-- <span data-ttu-id="5e023-p103">**コンプライアンス ポリシー**と**条件付きアクセス ポリシー**の両方を確認することは、目的のユーザーのグループを対象としています。これには、Azure Active Directory のユーザーで特定のグループを作成することが必要な場合があります。</span><span class="sxs-lookup"><span data-stu-id="5e023-p103">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users. This may require creating specific groups of users in Azure Active Directory.</span></span> 
+- <span data-ttu-id="003cd-p103">**コンプライアンス ポリシー**と**条件付きアクセス ポリシー**の両方を確認することは、目的のユーザーのグループを対象としています。これには、Azure Active Directory のユーザーで特定のグループを作成することが必要な場合があります。</span><span class="sxs-lookup"><span data-stu-id="003cd-p103">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users. This may require creating specific groups of users in Azure Active Directory.</span></span> 
     
-<span data-ttu-id="5e023-110">続きを読む:</span><span class="sxs-lookup"><span data-stu-id="5e023-110">Read more...</span></span>
+<span data-ttu-id="003cd-110">続きを読む:</span><span class="sxs-lookup"><span data-stu-id="003cd-110">Read more:</span></span>
   
-- [<span data-ttu-id="5e023-111">条件付きアクセスのベスト プラクティス</span><span class="sxs-lookup"><span data-stu-id="5e023-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [<span data-ttu-id="003cd-111">条件付きアクセスのベスト プラクティス</span><span class="sxs-lookup"><span data-stu-id="003cd-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [<span data-ttu-id="5e023-112">条件付きアクセスの概要</span><span class="sxs-lookup"><span data-stu-id="5e023-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [<span data-ttu-id="003cd-112">条件付きアクセスの概要</span><span class="sxs-lookup"><span data-stu-id="003cd-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 
