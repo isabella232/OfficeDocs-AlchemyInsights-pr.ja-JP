@@ -1,19 +1,19 @@
 ---
 title: OneDrive をインストールして構成する
 ms.author: matteva
-author: matteva
+author: pebaum
 ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: ec6b1a1678096ca132e70693fda6f80ce7d5e6cd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939209"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968566"
 ---
 # <a name="install-and-configure-onedrive"></a>OneDrive をインストールして構成する
 
