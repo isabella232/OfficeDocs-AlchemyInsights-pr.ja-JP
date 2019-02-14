@@ -7,33 +7,33 @@ ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 0c1410ac74e3a749493bdb65d198de5a09b069f9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477221"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900221"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="550f0-102">サブスクリプションを再アクティブ化する方法</span><span class="sxs-lookup"><span data-stu-id="550f0-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="8b05f-102">サブスクリプションを再アクティブ化する方法</span><span class="sxs-lookup"><span data-stu-id="8b05f-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="550f0-103">サブスクリプションが有効期限切れになった場合、または Microsoft によってサブスクリプションがキャンセルまたは無効にされた場合には、Office 365 管理センターでサブスクリプションを再アクティブ化できます。</span><span class="sxs-lookup"><span data-stu-id="550f0-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Office 365 admin center.</span></span>
+<span data-ttu-id="8b05f-103">サブスクリプションが有効期限切れになった場合、または Microsoft によってサブスクリプションがキャンセルまたは無効にされた場合には、Office 365 管理センターでサブスクリプションを再アクティブ化できます。</span><span class="sxs-lookup"><span data-stu-id="8b05f-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Office 365 admin center.</span></span>
   
-1. <span data-ttu-id="550f0-104">管理センターで [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="550f0-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="8b05f-104">管理センターで [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="8b05f-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="550f0-105">再アクティブ化するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="550f0-105">Choose the prepaid subscription you would like to add users.</span></span>
+2. <span data-ttu-id="8b05f-105">再アクティブ化するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="8b05f-105">Choose the subscription that you would like to reactivate.</span></span>
     
-3. <span data-ttu-id="550f0-106">右側にある **[再アクティブ化]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="550f0-106">Choose the **Reactivate** button on the right.</span></span> 
+3. <span data-ttu-id="8b05f-106">右側にある **[再アクティブ化]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="8b05f-106">Choose the **Reactivate** button on the right.</span></span> 
     
-4. <span data-ttu-id="550f0-p101">お支払いの詳細を更新するよう促されます。すべての情報が正しいことを確認したら、**[送信]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="550f0-p101">You will be asked to update the payment details. When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="8b05f-p101">お支払いの詳細を更新するよう促されます。すべての情報が正しいことを確認したら、**[送信]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="8b05f-p101">You will be asked to update the payment details. When all information is correct, choose **Submit**.</span></span>
     
-5. <span data-ttu-id="550f0-p102">画面下部に確認が表示されます。**[閉じる]** を選択して **[サブスクリプション]** ページに戻ります。</span><span class="sxs-lookup"><span data-stu-id="550f0-p102">A confirmation will show on the bottom of the screen. Choose **Close** to return to the **Subscriptions** page.</span></span> 
+5. <span data-ttu-id="8b05f-p102">画面下部に確認が表示されます。**[閉じる]** を選択して **[サブスクリプション]** ページに戻ります。</span><span class="sxs-lookup"><span data-stu-id="8b05f-p102">A confirmation will show on the bottom of the screen. Choose **Close** to return to the **Subscriptions** page.</span></span> 
     
-6. <span data-ttu-id="550f0-111">数分経過してもサブスクリプションがアクティブにならない場合は、ページを更新します。</span><span class="sxs-lookup"><span data-stu-id="550f0-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+6. <span data-ttu-id="8b05f-111">数分経過してもサブスクリプションがアクティブにならない場合は、ページを更新します。</span><span class="sxs-lookup"><span data-stu-id="8b05f-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
     
-<span data-ttu-id="550f0-112">詳細については、「[一般法人向け Office 365 を更新する](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="550f0-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+<span data-ttu-id="8b05f-112">詳細については、「[一般法人向け Office 365 を更新する](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8b05f-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
   
 

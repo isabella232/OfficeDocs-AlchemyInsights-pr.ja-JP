@@ -6,29 +6,29 @@ ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: ''
-ms.openlocfilehash: cd67d82d9b4a7c59ac167a7cf1b80f805d0afffc
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: c45c9498e5f1cb888696646e1a96c62184c655b5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758458"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925133"
 ---
-# <a name="change-your-display-name"></a><span data-ttu-id="da568-102">表示名を変更する</span><span class="sxs-lookup"><span data-stu-id="da568-102">959 Change display name</span></span>
+# <a name="change-your-display-name"></a><span data-ttu-id="7b2d9-102">表示名を変更する</span><span class="sxs-lookup"><span data-stu-id="7b2d9-102">Change your display name</span></span>
   
-<span data-ttu-id="da568-103">Outlook での表示名を変更するには、次の手順を使用します。</span><span class="sxs-lookup"><span data-stu-id="da568-103">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="7b2d9-103">Outlook での表示名を変更するには、次の手順を使用します。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-103">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="da568-104">Outlook で、[**ファイル**]、[**アカウント設定**]、[**アカウント設定**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="da568-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="7b2d9-104">Outlook で、[**ファイル**]、[**アカウント設定**]、[**アカウント設定**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
     
-2. <span data-ttu-id="da568-105">メール アカウントを選択し、[**変更**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="da568-105">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="7b2d9-105">メール アカウントを選択し、[**変更**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-105">Select the email account and then select **Change**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="da568-p101">表示名を変更するオプションが表示されない場合、Microsoft Exchange のメール アカウントを使用している可能性があります。その場合、管理者に連絡して表示名を変更する必要があります。「[Office 365 でユーザー名とメール アドレスを変更する](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="da568-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
+    > <span data-ttu-id="7b2d9-p101">表示名を変更するオプションが表示されない場合、Microsoft Exchange のメール アカウントを使用している可能性があります。その場合、管理者に連絡して表示名を変更する必要があります。「[Office 365 でユーザー名とメール アドレスを変更する](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
   
-3. <span data-ttu-id="da568-p102">表示名を変更したら、[**OK**] をクリックして変更内容を保存します。変更が組織全体に反映されるまで数時間かかることがあります。</span><span class="sxs-lookup"><span data-stu-id="da568-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
+3. <span data-ttu-id="7b2d9-p102">表示名を変更したら、[**OK**] をクリックして変更内容を保存します。変更が組織全体に反映されるまで数時間かかることがあります。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
     
-<span data-ttu-id="da568-111">詳細については、「[Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)」 (メールの受信者に表示される表示名を変更する) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="da568-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="7b2d9-111">詳細については、「[Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)」 (メールの受信者に表示される表示名を変更する) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7b2d9-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   
 
