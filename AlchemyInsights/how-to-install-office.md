@@ -10,12 +10,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 3b145e56d8c29623d307ef9254157d4134598c2e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6703f2a3780960a8a1c2fb65ffad2bd1ef7d4561
+ms.sourcegitcommit: a74a9fb82e5f238024e9fcaf36b0d552ab5db5fb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906032"
+ms.locfileid: "29953342"
 ---
 # <a name="how-to-install-office"></a>Office のインストール方法
 
@@ -24,19 +24,14 @@ Office クライアント アプリをインストールする場合は、一般
   
 > [!NOTE]
 > [Office Home and Business 2016](https://products.office.com/home-and-business) は、[家庭向け Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 製品であり、一般法人向けのサブスクリプションには含まれません。 
-  
 - ユーザー アカウントを作成して、自分のドメインを追加します。このユーザーには[ライセンスが割り当てられている](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA)ことを確認してください。
     
 - 各ユーザー:
-    
 1. ポータル ページに移動します: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)。
-    
 2. まだサインインしていない場合は、職場または学校アカウントでサインインします。
-    
 3. [Office] セクションで、言語を選択します。**[詳細]** を選択して、32 ビット版または 64 ビット版を選択します。 
-    
 4. **[インストール]** を選択します。
     
     Office のインストール時の詳細な手順およびトラブルシューティング方法については、[Office を PC または Mac にダウンロードしてインストールまたは再インストールする](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)方法に関するページを参照してください。
     
-
+Visio または Project の特定の手順については、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)」または「[Project をインストールする](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)」を参照してください。
