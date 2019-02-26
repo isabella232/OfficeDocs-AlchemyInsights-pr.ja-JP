@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898241"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209382"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint サイトにグループを追加する
 
@@ -24,7 +24,7 @@ ms.locfileid: "29898241"
   
 Office 365 グループのメンバーを次のように管理します:
   
-1. [Office 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。
+1. [Microsoft 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。
     
 2. 所有者とメンバーを確認するグループを選択します。メンバーを追加または削除する場合、**[所有者]** 行または **[メンバー]** 行の **[編集]** リンクをクリックします。 
     

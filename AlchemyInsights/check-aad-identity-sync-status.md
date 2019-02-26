@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913410"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209706"
 ---
 # <a name="check-aad-identity-sync-status"></a>AAD ID 同期状態を確認する
 
 同期状態を確認するのは簡単です。 
   
-- Office 365 管理センターにサインインして、ホーム ページで **[DirSync の状態]** を選択します。 
+- Microsoft 365 管理センターにサインインして、ホーム ページで **[DirSync の状態]** を選択します。 
     
 - または、[ユーザー] \>、[アクティブなユーザー] の順に移動し、[アクティブなユーザー] ページで [その他] \>、[ディレクトリ同期] の順に選択することができます。
     

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: ba7da00f2a82b016af812dedc13f3e5131c99f05
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925853"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207942"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 
 メールボックス サイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の Office 365 プランに切り替える手順を次に示します。
   
-1. Office 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]**、**[サブスクリプション]** の順に選択します。
+1. Microsoft 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** の順に選択します。
     
-2. [ **プランの切り替え**] を選択して、利用可能な新しいプランを一覧表示します。 
+2. [**プランの切り替え**] を選択して、利用可能な新しいプランの一覧を表示します。 
     
 3. プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ **次へ**] を選択して購入手続きへ進みます。 
     

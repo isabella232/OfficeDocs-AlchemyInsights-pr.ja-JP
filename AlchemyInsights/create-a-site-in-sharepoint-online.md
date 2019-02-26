@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: e1c4cd224e75fadfc1b5d3afb643f5ed854258d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920489"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207906"
 ---
 # <a name="create-a-site"></a>サイトを作成する
 
@@ -30,7 +30,7 @@ SharePoint Online では、さまざまな種類のサイトを作成できま�
   
 従来のサイトを作成するには、次のいずれかの手順を実行します。
   
-- [Office 365 管理センターのサイト ページ](https://portal.office.com/adminportal/home#/SitesList)に移動して、[**サイトの追加**] を選択します。
+- [Microsoft 365 管理センターのサイト ページ](https://portal.office.com/adminportal/home#/SitesList)に移動して、**[サイトの追加]** を選択します。
     
 - 従来の SharePoint 管理センターの [サイト コレクション] ページで、[**新規**]、[**プライベート サイト コレクション**] の順に選択します。
     

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906413"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207762"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>OneDrive for Business の記憶域を増やす方法
 
@@ -27,7 +27,7 @@ ms.locfileid: "29906413"
   
 OneDrive for Business の記憶域を増やすには、**OneDrive for Business プラン 2** と **Office 365 Enterprise E3** のどちらかを含む Office 365 プランを選択します。 
   
-プランを変更するには、Office 365 管理センターで、**[課金]** \> **[サブスクリプション]** に移動してから、**[プランの切り替え]** を選択します。
+プランを変更するには、Microsoft 365 管理センターで、**[課金]** \> **[サブスクリプション]** に移動してから、**[プランの切り替え]** を選択します。
   
 プランの切り替えと OneDrive for Business 記憶域の詳細については、「[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/?LinkId=2031117)」と「[OneDrive for Business サービスの説明](https://go.microsoft.com/fwlink/?LinkId-2031122)」を参照してください。
   
