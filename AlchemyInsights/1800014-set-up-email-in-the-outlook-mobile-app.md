@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925529"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244370"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="541a4-102">Outlook モバイル アプリでメールをセットアップする</span><span class="sxs-lookup"><span data-stu-id="541a4-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="b1005-102">Outlook モバイル アプリでメールをセットアップする</span><span class="sxs-lookup"><span data-stu-id="b1005-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="541a4-p101">モバイル アプリでのメールのセットアップが初めての場合は、**[作業の開始]** を選択します。そうでない場合は、**[メニュー]**![[メニュー] ボタン](media/265b9089-9630-42dd-a244-d9a412d8fe47.png)をタップしてから、**[設定]** \> **[アカウントの追加]** \> **[メール アカウントの追加 (Add Email Account)]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="541a4-p101">Select **Get Started** if it's your first time setting up email in the mobile app. Otherwise, tap **Menu**![The Menu button](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span> 
+1. <span data-ttu-id="b1005-p101">モバイル アプリでのメールのセットアップが初めての場合は、**[作業の開始]** を選択します。そうでない場合は、**[メニュー]** をタップしてから、**[設定]** \> **[アカウントの追加]** \> **[メール アカウントの追加]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="b1005-p101">Select **Get Started** if it's your first time setting up email in the mobile app. Otherwise, tap \*\*Menu\*\*\*\*\*\*The Menu button\> and then tap **Settings** \> **Add Account**  Add Email Account.</span></span> 
     
-2. <span data-ttu-id="541a4-105">完全なメール アドレスを入力して、**[続行]** または **[アカウントの追加]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="541a4-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="b1005-105">完全なメール アドレスを入力して、**[続行]** または **[アカウントの追加]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="b1005-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
     
-3. <span data-ttu-id="541a4-106">メール アカウントのパスワードを入力して、**[サインイン]** または **[次へ]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="541a4-106">Enter your email account password and tap **Sign In** or **Next**.</span></span> 
+3. <span data-ttu-id="b1005-106">メール アカウントのパスワードを入力して、**[サインイン]** または **[次へ]** をタップします。</span><span class="sxs-lookup"><span data-stu-id="b1005-106">Enter your email account password and tap **Sign In** or **Next**.</span></span> 
     
-4. <span data-ttu-id="541a4-107">[[多要素認証]](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) が有効になっている場合は、セットアップした方法 (6 桁のコード、通話、または Microsoft Authenticator アプリ) が使用されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="541a4-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span> 
+4. <span data-ttu-id="b1005-107">[[多要素認証]](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) が有効になっている場合は、セットアップした方法 (6 桁のコード、通話、または Microsoft Authenticator アプリ) が使用されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="b1005-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span> 
     
-5. <span data-ttu-id="541a4-108">その他の IT 管理ポリシーが適用されている場合は、**[ライセンス認証を行う]** をタップしてそれらを有効にします。</span><span class="sxs-lookup"><span data-stu-id="541a4-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span> 
+5. <span data-ttu-id="b1005-108">その他の IT 管理ポリシーが適用されている場合は、**[ライセンス認証を行う]** をタップしてそれらを有効にします。</span><span class="sxs-lookup"><span data-stu-id="b1005-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span> 
     
-6. <span data-ttu-id="541a4-p102">Outlook では、自分の予定表、連絡先、およびその他の情報にアクセスするためにアクセス許可が必要な場合があります。**[はい]** または **[許可]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="541a4-p102">Outlook may request permission to access your calendar, contacts, and other information. Select **Yes** or **Allow**.</span></span> 
+6. <span data-ttu-id="b1005-p102">Outlook では、自分の予定表、連絡先、およびその他の情報にアクセスするためにアクセス許可が必要な場合があります。**[はい]** または **[許可]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b1005-p102">Outlook may request permission to access your calendar, contacts, and other information. Select **Yes** or **Allow**.</span></span> 
     
-<span data-ttu-id="541a4-111">[Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) または [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) の詳細なセットアップ手順については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="541a4-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span> 
+<span data-ttu-id="b1005-111">[Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) または [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) の詳細なセットアップ手順については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b1005-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span> 
   
- <span data-ttu-id="541a4-112">**サポートが必要ですか?**</span><span class="sxs-lookup"><span data-stu-id="541a4-112">**Need help?**</span></span>
+ <span data-ttu-id="b1005-112">**サポートが必要ですか?**</span><span class="sxs-lookup"><span data-stu-id="b1005-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="541a4-113">モバイルでのメール セットアップのトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="541a4-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="b1005-113">モバイルでのメール セットアップのトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="b1005-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
     
-- [<span data-ttu-id="541a4-114">iOS 版および Android 版 Outlook のアプリ内ヘルプを利用する</span><span class="sxs-lookup"><span data-stu-id="541a4-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="b1005-114">iOS 版および Android 版 Outlook のアプリ内ヘルプを利用する</span><span class="sxs-lookup"><span data-stu-id="b1005-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
     
 
