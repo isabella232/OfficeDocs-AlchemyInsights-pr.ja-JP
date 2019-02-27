@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 03b4600945196449a4bdcd28898c1869bf7bdac8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5a2c370fba7e00dc5c6367d070176c08f31fbd7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918617"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244118"
 ---
 # <a name="create-a-folder"></a>フォルダーを作成する
 
-1. 左のウィンドウで、**[フォルダー]** の隣にある **[新しいフォルダーの作成]**![[新しいフォルダーの作成] ボタン](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) を選択します。 
+1. 左側のウィンドウで **[フォルダー]** の横にある **[フォルダーの新規作成]** を選びます。 
     
 2. 新しいフォルダーのボックスにフォルダーの名前を入力して、Enter キーを押します。
     

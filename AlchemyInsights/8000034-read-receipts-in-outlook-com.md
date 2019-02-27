@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898529"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243974"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Outlook.com で開封確認する
 
 Outlook.com で開封確認を要求することはできませんが、Outlook for Windows を使用して送信された Outlook.com メッセージの開封確認を要求することはできます。詳細については、「[開封確認メッセージおよび配信通知の追加と要求](https://go.microsoft.com/fwlink/p/?linkid=874355)」をご覧ください。
   
-開封確認要求に対する Outlook.com の応答方法を選択するには、**[設定]**![設定](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)、**[オプション]**、**[メール]**、**[自動処理]**、**[開封確認]** に移動します。 
+開封確認要求に対する Outlook.com の応答方法を選択するには、**[設定]**\> **[オプション]** \> **[メール]** \> **[自動処理]** \> **[開封確認]** の順に移動します。 
   
-Outlook.com ベータ版では、**[設定]**![設定](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) を選択して、「**開封確認**」を検索します。 
+Outlook.com ベータ版では、**[設定]** を選択して、「**開封確認**」を検索します。 
   
 

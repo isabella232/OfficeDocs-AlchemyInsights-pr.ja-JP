@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928661"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244262"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Outlook.com でメール名を変更する
 
@@ -32,7 +32,7 @@ Outlook.com アカウントに接続されているメール エイリアスま�
   
 1. Outlook.com で、新しいメッセージを作成するか、メッセージに返信します。
     
-2. 作成ウィンドウで、![[その他のグループ操作] アイコン](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **[差出人の表示]** を選択して、差出人行を表示します。 
+2. [作成] ウィンドウで、[...] \> **[差出人を表示する]** の順に選択し、[差出人] 行を表示します。 
     
 3. **[差出人]** を選択して、使用するメール アドレスを選択します。 
     

@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938416"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244154"
 ---
 # <a name="how-to-create-an-email-signature"></a>メールの署名を作成する方法
 
 Outlook.com ベータ版を使用している場合: 
   
-- ページの上部で、**[設定]**![[設定]](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)、**[すべての設定を表示]**、**[作成と返信]** の順に選択します。 
+- ページの上部で、**[設定]** \> **[すべての設定を表示]** \> **[作成と返信]** の順に選択します。 
     
 従来の Outlook.com を使用している場合: 
   
-- ページの上部で、**[設定]**![[設定]](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)、**[オプション]**、**[メール]**、**[レイアウト]**、**[電子メール署名]** の順に選択します。 
+- ページの上部で、**[設定]** \> **[オプション]** \> **[メール]** \> **[レイアウト]** \> **[電子メール署名]** の順に選択します。 
     
  **注:** 署名はアカウントごとに 1 つだけ含めることができます。 
   

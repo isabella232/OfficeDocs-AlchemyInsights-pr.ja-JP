@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925529"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244370"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook モバイル アプリでメールをセットアップする
 
-1. モバイル アプリでのメールのセットアップが初めての場合は、**[作業の開始]** を選択します。そうでない場合は、**[メニュー]**![[メニュー] ボタン](media/265b9089-9630-42dd-a244-d9a412d8fe47.png)をタップしてから、**[設定]** \> **[アカウントの追加]** \> **[メール アカウントの追加 (Add Email Account)]** をタップします。 
+1. モバイル アプリでのメールのセットアップが初めての場合は、**[作業の開始]** を選択します。そうでない場合は、**[メニュー]** をタップしてから、**[設定]** \> **[アカウントの追加]** \> **[メール アカウントの追加]** をタップします。 
     
 2. 完全なメール アドレスを入力して、**[続行]** または **[アカウントの追加]** をタップします。
     

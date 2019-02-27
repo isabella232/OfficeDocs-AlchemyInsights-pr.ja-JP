@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930520"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244514"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>受信トレイでフィッシング メールを処理する
 
@@ -32,6 +32,6 @@ ms.locfileid: "29930520"
   
 迷惑メールが増えている場合は、[受信トレイでスパムや迷惑メールを受信しないようにする](https://go.microsoft.com/fwlink/p/?linkid=873140)方法をご覧ください。
   
-メール アドレスをブロックするには、**[設定]**![設定、**[オプション]**、**[受信拒否リスト]** の順に移動します。差出人セーフ リストにアドレスまたはドメインを追加するには、**[差出人セーフ リスト]** を選択します。 
+メール アドレスをブロックするには、**[設定]** \> **[オプション]** \> **[受信拒否リスト]** の順に移動します。差出人セーフ リストにアドレスまたはドメインを追加するには、**[差出人セーフ リスト]** を選択します。 
   
 
