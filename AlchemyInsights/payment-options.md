@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: e895d6fd097df994bae8fff41f71225eb27ee853
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905441"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404752"
 ---
 # <a name="payment-options"></a>支払いオプション
 

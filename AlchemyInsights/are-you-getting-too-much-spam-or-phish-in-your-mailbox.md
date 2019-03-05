@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: e5e611fd9f59ca33f05a31201fa5fa38b131056f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924845"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404932"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>メールボックスに大量の迷惑メールまたはフィッシング メールが受信される場合
 

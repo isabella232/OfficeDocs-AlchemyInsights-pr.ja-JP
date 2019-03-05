@@ -7,16 +7,16 @@ ms.date: 10/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: f4379ff03046a3c0b3042f1ed23ff1ef04be8663
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922976"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405292"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>大量のスパムの送信によりアカウントがブロックされています
 

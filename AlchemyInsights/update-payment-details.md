@@ -7,16 +7,16 @@ ms.date: 9/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 858a87451db464c237fd36d2b28bc21b62b15bc2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926861"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404680"
 ---
 # <a name="update-payment-details"></a>お支払いの詳細の更新
 

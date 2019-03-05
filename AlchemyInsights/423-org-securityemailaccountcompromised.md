@@ -6,16 +6,16 @@ ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 250e87afabe08ab69fe373bcf923d6193a4573ee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8a0e99ab260266e5c66ded4c05541c592efd4ed4
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901861"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405023"
 ---
 # <a name="compromised-email-accounts"></a>侵害されたメール アカウント
 

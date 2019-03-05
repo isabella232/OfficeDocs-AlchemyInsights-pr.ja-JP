@@ -6,14 +6,14 @@ ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 18b1c7b76bd0c86ca48d7eb526990944c1ece80e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940433"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405400"
 ---
 # <a name="the-domain-is-already-in-use"></a>ドメインが既に使用されている
 

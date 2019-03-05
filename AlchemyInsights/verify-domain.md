@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 8ad6ce4cbca05f827a5eb20b26163630917d1f7d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930209"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404860"
 ---
 # <a name="trying-to-verify-your-domain"></a>ドメインを確認する場合
 
