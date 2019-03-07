@@ -7,16 +7,16 @@ ms.date: 9/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 413cdbdc5fd9a3ad8c331f9cbefe07bea36d7d21
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901301"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468596"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Office 365 を使用してメールを送信するように多機能デバイスまたはアプリケーションをセットアップする
 

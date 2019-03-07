@@ -7,16 +7,16 @@ ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: d50898bcc9ef401bc01c8bba65b4f4ceb7c45595
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 610c4b370ddd06e3cf286600fd6c38d922521435
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29982177"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468956"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開いて使用する
 

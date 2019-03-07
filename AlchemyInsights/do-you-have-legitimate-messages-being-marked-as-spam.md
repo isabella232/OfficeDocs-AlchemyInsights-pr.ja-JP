@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: cbc193a15ecb0f916764512f484a679f6f7015b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933629"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30469064"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>正当なメッセージが迷惑メールとしてマークされていますか?
 
