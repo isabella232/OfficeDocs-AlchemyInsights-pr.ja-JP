@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941585"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468488"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="83ce4-102">Microsoft Teams - ゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="83ce4-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="c5362-102">Microsoft Teams - ゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="c5362-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="c5362-103">Microsoft Teams のゲスト アクセス機能を有効にし、設定するためにサポートが必要ですか。</span><span class="sxs-lookup"><span data-stu-id="c5362-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="83ce4-103">Microsoft Teams でゲスト アクセス ロールを有効化または構成する必要がある場合は、詳細なガイド (「[ゲスト アクセスのチェックリスト](https://docs.microsoft.com/microsoftteams/guest-access-checklist)」) を用意しています。</span><span class="sxs-lookup"><span data-stu-id="83ce4-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="83ce4-104">Teams の構成の変更が反映されるまで、場合によっては最大 24 時間待つ必要があります。</span><span class="sxs-lookup"><span data-stu-id="83ce4-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="c5362-104">必要な操作は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="c5362-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="c5362-105">ゲスト アクセスを承認します。</span><span class="sxs-lookup"><span data-stu-id="c5362-105">Authorize guest access in Microsoft Teams</span></span>
+1. <span data-ttu-id="c5362-106">チームにゲスト ユーザーを追加します。</span><span class="sxs-lookup"><span data-stu-id="c5362-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="c5362-107">ゲスト ユーザーのアクセス許可を設定します。</span><span class="sxs-lookup"><span data-stu-id="c5362-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="c5362-108">詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/ja-JP/microsoftteams/guest-access)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="c5362-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/ja-JP/microsoftteams/guest-access).</span></span>
 

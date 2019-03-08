@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904865"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468992"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="ef89d-102">製品版の Microsoft Teams にアップグレードする</span><span class="sxs-lookup"><span data-stu-id="ef89d-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="57559-102">製品版の Microsoft Teams にアップグレードする</span><span class="sxs-lookup"><span data-stu-id="57559-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="ef89d-103">準備ができたら、いつでも Microsoft Teams (無料) から製品版の Microsoft Teams にアップグレードすることができます。</span><span class="sxs-lookup"><span data-stu-id="ef89d-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="ef89d-104">アップグレード プロセスを開始するには、下の [**電話でのサポートを希望**] をクリックするのが最適な方法です。</span><span class="sxs-lookup"><span data-stu-id="ef89d-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="ef89d-105">サポート担当者がお客様に連絡して、Office 365 プランの選択、連絡先および支払い情報の入力、組織のドメイン名の選択、メンバー名簿のアップグレードなどをサポートします。</span><span class="sxs-lookup"><span data-stu-id="ef89d-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="57559-103">Microsoft Teams を無料版から通常版にアップグレードする必要がありますか。</span><span class="sxs-lookup"><span data-stu-id="57559-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="57559-104">「[Microsoft Teams を無料で Office 365 月額プラン バージョンにアップグレードする](https://docs.microsoft.com/ja-JP/microsoftteams/upgrade-freemium)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="57559-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/ja-JP/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="57559-105">次の要件を満たしている必要があります。</span><span class="sxs-lookup"><span data-stu-id="57559-105">Devices need to meet these requirements:</span></span>
+- <span data-ttu-id="57559-106">Teams の現在の無料版にサインアップしたユーザー自身である。</span><span class="sxs-lookup"><span data-stu-id="57559-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="57559-107">独自のドメインがある場合、そのドメインは Azure Active Directory にまだ関連付けられていない。</span><span class="sxs-lookup"><span data-stu-id="57559-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="57559-108">アップグレード時にデータを転送するには、アップグレード プロセス中に登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="57559-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="57559-109">アップグレード プロセス以外で Office 365 を購入した場合は、データを転送することはできません。</span><span class="sxs-lookup"><span data-stu-id="57559-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
