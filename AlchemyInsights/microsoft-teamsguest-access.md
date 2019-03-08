@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941585"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468488"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams - ゲスト アクセス
 
+Microsoft Teams のゲスト アクセス機能を有効にし、設定するためにサポートが必要ですか。
 
-Microsoft Teams でゲスト アクセス ロールを有効化または構成する必要がある場合は、詳細なガイド (「[ゲスト アクセスのチェックリスト](https://docs.microsoft.com/microsoftteams/guest-access-checklist)」) を用意しています。
-  
-Teams の構成の変更が反映されるまで、場合によっては最大 24 時間待つ必要があります。
-  
+必要な操作は次のとおりです。
+
+1. ゲスト アクセスを承認します。
+1. チームにゲスト ユーザーを追加します。
+1. ゲスト ユーザーのアクセス許可を設定します。
+
+詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/ja-JP/microsoftteams/guest-access)」をご覧ください。
 

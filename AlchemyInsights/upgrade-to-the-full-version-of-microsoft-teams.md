@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904865"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468992"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>製品版の Microsoft Teams にアップグレードする
 
-準備ができたら、いつでも Microsoft Teams (無料) から製品版の Microsoft Teams にアップグレードすることができます。
-  
-アップグレード プロセスを開始するには、下の [**電話でのサポートを希望**] をクリックするのが最適な方法です。 
-  
-サポート担当者がお客様に連絡して、Office 365 プランの選択、連絡先および支払い情報の入力、組織のドメイン名の選択、メンバー名簿のアップグレードなどをサポートします。
-  
+Microsoft Teams を無料版から通常版にアップグレードする必要がありますか。 「[Microsoft Teams を無料で Office 365 月額プラン バージョンにアップグレードする](https://docs.microsoft.com/ja-JP/microsoftteams/upgrade-freemium)」を参照してください。
+
+次の要件を満たしている必要があります。
+- Teams の現在の無料版にサインアップしたユーザー自身である。
+- 独自のドメインがある場合、そのドメインは Azure Active Directory にまだ関連付けられていない。
+- アップグレード時にデータを転送するには、アップグレード プロセス中に登録する必要があります。 アップグレード プロセス以外で Office 365 を購入した場合は、データを転送することはできません。
+
 
