@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: cecbf70b171a9de32ffa067372be1c017e8dd5ac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939300"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30634509"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>必要な Alchemy ヘッダー H1、H2 が機能していません。
 Alchemy 作成のベスト プラクティスとガイドライン:
