@@ -1,0 +1,28 @@
+---
+title: 8000093 Outlook.com 接続先アカウントのアクセス許可
+ms.author: daeite
+author: daeite
+manager: joallard
+ms.date: 3/1/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.openlocfilehash: 56f6266d043dee91364c5ae4d9cd8a4775499e8a
+ms.sourcegitcommit: 497aceed1484af71200ea1f7e0aa0f14e4e0e00a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30363626"
+---
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"アクセス許可がないようです" を解決する方法
+
+".... のメールを取得するアクセス許可がないようです" というエラー メッセージが表示された場合は、次の操作を実行してください。
+
+1. [接続されているアカウントの設定](https://outlook.live.com/mail/options/mail/accounts)を開き、エラーに示された接続されているアカウントを削除します。 
+2. 接続されているアカウントをもう一度追加します。
+3. [メールボックスに](https://outlook.live.com/mail/inbox)戻ります。
+
+接続されているアカウントからすべてのメールが再同期するには、時間がかかる場合があります。
+
+接続されているアカウントの[削除](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8)と[追加](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)について説明します。
