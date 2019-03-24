@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: e4e98ba3e7dff2bd86be4667d7262c9544f9c9cb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d1554e8a63455f3549044e526183c0e8709f2631
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899213"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767289"
 ---
 # <a name="permissions-and-public-folders"></a>アクセス許可とパブリック フォルダー
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208014"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767325"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 

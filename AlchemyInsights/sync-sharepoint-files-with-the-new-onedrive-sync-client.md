@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469028"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755051"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期する
 

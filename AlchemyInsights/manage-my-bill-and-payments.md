@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fee67567-01bd-4375-b97c-4b9e0dab2eb1
-ms.openlocfilehash: 48d401e0eff1eaba262143cb242a03000e28c7f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a3bf7f77685aad8abfccfa7c62d53d90c84b31cb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922361"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766821"
 ---
 # <a name="manage-my-bill-and-payments"></a>請求と支払いを管理する
 

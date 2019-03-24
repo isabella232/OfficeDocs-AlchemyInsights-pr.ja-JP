@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 0cf6f678f7310d2b82aeee025298229b8d7e67e4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942341"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766713"
 ---
 # <a name="when-is-my-credit-card-charged"></a>クレジット カードに請求されるタイミング
 

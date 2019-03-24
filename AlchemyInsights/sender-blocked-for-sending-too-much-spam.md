@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405292"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767505"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>大量のスパムの送信によりアカウントがブロックされています
 

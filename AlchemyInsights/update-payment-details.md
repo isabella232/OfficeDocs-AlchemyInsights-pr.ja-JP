@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404680"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755627"
 ---
 # <a name="update-payment-details"></a>お支払いの詳細の更新
 

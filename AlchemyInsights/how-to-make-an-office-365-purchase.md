@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905765"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766281"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Office 365 の購入方法
 

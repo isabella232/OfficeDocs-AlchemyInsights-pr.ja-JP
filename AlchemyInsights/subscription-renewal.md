@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 661d0d0497683fee61d39d98d8f30fdd1be9b5c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927401"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767577"
 ---
 # <a name="subscription-recurring-billing"></a>サブスクリプションの継続請求
 

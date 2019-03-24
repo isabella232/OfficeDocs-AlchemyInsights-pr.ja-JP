@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c1789c2eb11241b204f069f9b8231cd51b655c4b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935681"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766749"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>ユーザーにライセンスを割り当てる方法
 

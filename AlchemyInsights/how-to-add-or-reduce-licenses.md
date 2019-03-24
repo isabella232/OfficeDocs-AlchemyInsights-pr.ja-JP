@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922901"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767433"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>ライセンスを追加または削除する方法
 

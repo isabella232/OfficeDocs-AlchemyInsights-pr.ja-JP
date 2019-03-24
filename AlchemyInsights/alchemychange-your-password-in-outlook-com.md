@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 8dd929ef3975102a747c34c98979847c186ee8fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf6d6736eaf281bcd03f2fe8a204c8e42c81822f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899501"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766641"
 ---
 # <a name="change-your-password"></a>パスワードを変更する
 

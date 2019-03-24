@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208446"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767037"
 ---
 # <a name="change-a-users-email-address"></a>ユーザーの電子メール アドレスを変更します。
 

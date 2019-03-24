@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404860"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760415"
 ---
 # <a name="trying-to-verify-your-domain"></a>ドメインを確認する場合
 

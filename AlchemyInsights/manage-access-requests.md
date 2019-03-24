@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: ba64b23e5f179b3b0cfd2226e565d8f72d097b45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 401600c1e6eb635e8b973d1d16a6ad05f0c795b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921065"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766065"
 ---
 # <a name="manage-access-requests"></a>アクセス依頼を管理する
 

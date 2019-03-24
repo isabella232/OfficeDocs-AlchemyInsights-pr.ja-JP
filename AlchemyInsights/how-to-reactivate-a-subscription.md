@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468884"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766857"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>サブスクリプションを再アクティブ化する方法
 

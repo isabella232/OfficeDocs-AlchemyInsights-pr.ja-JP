@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 30d3b9d2399565f3e0cc82ed79c9f205bf68d1a0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b35fecdcb232ea731659d7d585c56d01d2fb9f45
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941801"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766317"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>メールボックスのメールの転送設定を確認する
 

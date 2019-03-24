@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207942"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766893"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 

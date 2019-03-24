@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11492c6c9430dc4c67a1492fc22a4a98e5d38767
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938750"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766785"
 ---
 # <a name="billing-cycle-credit-card"></a>請求サイクル クレジット カード
 
