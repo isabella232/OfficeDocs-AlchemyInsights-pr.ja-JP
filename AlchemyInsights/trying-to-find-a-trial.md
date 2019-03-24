@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: bf7ba2f9f90d6c7220973b13ade4f154a0ca3655
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 17c8cb304a8f2009279cf9646d8e0026f1f967e8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208194"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766461"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="84e27-102">試用版をお探しですか?</span><span class="sxs-lookup"><span data-stu-id="84e27-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="a1625-102">試用版をお探しですか?</span><span class="sxs-lookup"><span data-stu-id="a1625-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="84e27-103">新しいサービスをお試しいただく場合、利用できるサブスクリプションの一覧が Microsoft 365 管理センターにあります。</span><span class="sxs-lookup"><span data-stu-id="84e27-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Office 365 admin center.</span></span>
+<span data-ttu-id="a1625-103">新しいサービスをお試しいただく場合、利用できるサブスクリプションの一覧が Microsoft 365 管理センターにあります。</span><span class="sxs-lookup"><span data-stu-id="a1625-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="84e27-104">[[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動するか、[**課金**]、[**サービスを購入する**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="84e27-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
+1. <span data-ttu-id="a1625-104">[[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動するか、[**課金**]、[**サービスを購入する**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="a1625-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
     
-2. <span data-ttu-id="84e27-105">自分の目的に合ったサブスクリプションが見つかったら、それにカーソルを合わせ、[**無料試用の開始**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="84e27-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
+2. <span data-ttu-id="a1625-105">自分の目的に合ったサブスクリプションが見つかったら、それにカーソルを合わせ、[**無料試用の開始**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="a1625-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="84e27-p101">一部のサブスクリプションには試用版が用意されていません。サブスクリプションにカーソルを合わせても [**無料試用の開始**] が表示されない場合、試用版はご利用いただけません。</span><span class="sxs-lookup"><span data-stu-id="84e27-p101">Not all subscriptions are available as a trial. If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
+    > <span data-ttu-id="a1625-p101">一部のサブスクリプションには試用版が用意されていません。サブスクリプションにカーソルを合わせても [**無料試用の開始**] が表示されない場合、試用版はご利用いただけません。</span><span class="sxs-lookup"><span data-stu-id="a1625-p101">Not all subscriptions are available as a trial. If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
   
-3. <span data-ttu-id="84e27-p102">セキュリティ対策として検証を追加するために、クレジット カードまたはその他の支払い方法を入力するように求められることがあります。この無料試用版に対して料金を請求されることはありません。支払い情報はファイルに保存されますが、お客様の承認がなければいかなる購入にも利用されません。</span><span class="sxs-lookup"><span data-stu-id="84e27-p102">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure. You won't be charged for this free trial. We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
+3. <span data-ttu-id="a1625-p102">セキュリティ対策として検証を追加するために、クレジット カードまたはその他の支払い方法を入力するように求められることがあります。この無料試用版に対して料金を請求されることはありません。支払い情報はファイルに保存されますが、お客様の承認がなければいかなる購入にも利用されません。</span><span class="sxs-lookup"><span data-stu-id="a1625-p102">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure. You won't be charged for this free trial. We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
     
-4. <span data-ttu-id="84e27-111">[**注文**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="84e27-111">Choose **Place order**.</span></span>
+4. <span data-ttu-id="a1625-111">[**注文**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="a1625-111">Choose **Place order**.</span></span>
     
 

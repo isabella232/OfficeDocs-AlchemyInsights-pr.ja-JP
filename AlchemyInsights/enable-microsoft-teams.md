@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.openlocfilehash: 8a8b91e8ddf93ea30a4d1818944e6215c5580fd2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468920"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766965"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="d6f63-102">Microsoft Teams を有効にして使用します</span><span class="sxs-lookup"><span data-stu-id="d6f63-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="2c170-102">Microsoft Teams を有効にして使用します</span><span class="sxs-lookup"><span data-stu-id="2c170-102">Enable and Use Microsoft Teams</span></span>
 
 
-<span data-ttu-id="d6f63-103">Microsoft Teams に全くアクセスできない場合は、「[Microsoft Teams へのアクセス方法](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)」をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="d6f63-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="2c170-103">Microsoft Teams に全くアクセスできない場合は、「[Microsoft Teams へのアクセス方法](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)」をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="2c170-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
 
-<span data-ttu-id="d6f63-104">既に Microsoft Teams を持っており、構成や管理の方法を確認する必要がある場合は、「[Microsoft Teams の管理者設定](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d6f63-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="2c170-104">既に Microsoft Teams を持っており、構成や管理の方法を確認する必要がある場合は、「[Microsoft Teams の管理者設定](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2c170-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
 
