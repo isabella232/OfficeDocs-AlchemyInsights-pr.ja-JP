@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 02930690acf5abea6673123f2f95631280faaeae
-ms.sourcegitcommit: ed5d2fdfd9e2622e3cce192a80402f32d3a8ca78
+ms.openlocfilehash: c6277ee3705c30399b230852e849e47ec3f15187
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30475459"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759875"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="a68c5-102">Office 365 でユーザーを復元する</span><span class="sxs-lookup"><span data-stu-id="a68c5-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="8ef66-102">Office 365 でユーザーを復元する</span><span class="sxs-lookup"><span data-stu-id="8ef66-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="a68c5-103">次の手順を使用して、Office 365 でユーザーを復元します。</span><span class="sxs-lookup"><span data-stu-id="a68c5-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="8ef66-103">次の手順を使用して、Office 365 でユーザーを復元します。</span><span class="sxs-lookup"><span data-stu-id="8ef66-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="a68c5-104">[[ユーザー]、[削除済みのユーザー]](https://admin.microsoft.com/adminportal/home#/deletedusers) の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="a68c5-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="8ef66-104">[[ユーザー]、[削除済みのユーザー]](https://admin.microsoft.com/adminportal/home#/deletedusers) の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="8ef66-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
     
-2. <span data-ttu-id="a68c5-105">ユーザーを選んで、**[復元]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="a68c5-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="8ef66-105">ユーザーを選んで、**[復元]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="8ef66-105">Choose the user, then select **Restore**.</span></span>
     
-3. <span data-ttu-id="a68c5-106">画面の指示に従って、パスワードを設定します。</span><span class="sxs-lookup"><span data-stu-id="a68c5-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="8ef66-106">画面の指示に従って、パスワードを設定します。</span><span class="sxs-lookup"><span data-stu-id="8ef66-106">Follow the prompts to set the password.</span></span>
     
-4. <span data-ttu-id="a68c5-107">**[メールを送信して閉じる]** をクリックしたら、これで完了です。</span><span class="sxs-lookup"><span data-stu-id="a68c5-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="8ef66-107">**[メールを送信して閉じる]** をクリックしたら、これで完了です。</span><span class="sxs-lookup"><span data-stu-id="8ef66-107">Click **Send email and close**, and you're done!</span></span>
     
 
-<span data-ttu-id="a68c5-108">簡単に変更できましたね。</span><span class="sxs-lookup"><span data-stu-id="a68c5-108">Wasn't that easy?</span></span> <span data-ttu-id="a68c5-109">詳細情報およびスクリーンショット付きの手順については、「[Office 365 でユーザーを復元する](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)」の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a68c5-109">Wasn't that easy? For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span></span> <span data-ttu-id="a68c5-110">メールボックスを元に戻す別の方法が必要な場合は、「[Exchange Online でユーザー メールボックスを削除または復元する](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a68c5-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="8ef66-108">簡単に変更できましたね。</span><span class="sxs-lookup"><span data-stu-id="8ef66-108">Wasn't that easy?</span></span> <span data-ttu-id="8ef66-109">詳細情報およびスクリーンショット付きの手順については、「[Office 365 でユーザーを復元する](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)」の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8ef66-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="8ef66-110">メールボックスを元に戻す別の方法が必要な場合は、「[Exchange Online でユーザー メールボックスを削除または復元する](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8ef66-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>

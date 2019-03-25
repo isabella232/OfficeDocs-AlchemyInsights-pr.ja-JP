@@ -1,39 +1,37 @@
 ---
-title: アプリ パスワード
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 アプリ パスワード
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938237"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762537"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="18ae5-102">アプリ パスワード</span><span class="sxs-lookup"><span data-stu-id="18ae5-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="e139e-102">アプリ パスワード</span><span class="sxs-lookup"><span data-stu-id="e139e-102">App passwords</span></span>
 
-<span data-ttu-id="18ae5-p101">アプリ パスワードは、アプリまたはデバイスに Office 365 アカウントへのアクセス許可を付与するコードです。管理者が組織に対する多要素認証を有効にしており、かつお客様が Office 365 アカウントに接続するアプリを使用している場合は、そのアプリから Office 365 に接続できるようにアプリ パスワードを生成する必要があります。たとえば、Office 365 と共に Outlook 2016 以前のバージョンを使用している場合は、アプリ パスワードを作成する必要があります。</span><span class="sxs-lookup"><span data-stu-id="18ae5-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="e139e-p101">アプリ パスワードは、Office 365 の職場または学校アカウントにアクセスするためのアクセス許可をアプリまたはデバイスに付与するコードです。アカウントに多要素認証 (MFA) が必要で、アプリからアカウントに接続する場合は、アプリが Office 365 に接続できるように、アプリ パスワードを生成する必要があります。たとえば、Outlook 2016 以前のバージョンの Outlook にはアプリ パスワードが必要です。</span><span class="sxs-lookup"><span data-stu-id="e139e-p101">An app password is a code that gives an app or device permission to access your Office 365 work or school account. If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365. For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="18ae5-p102">Office 365 管理者がアカウントの多要素認証を有効にしているかどうかを確認してください。有効にしていない場合は、これらの手順を実行しようとしても、Office 365 にオプションが表示されません。</span><span class="sxs-lookup"><span data-stu-id="18ae5-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="e139e-p102">**メモ**: 次の手順を試す前に、アカウントに MFA が必要な Office 365 管理を使用して確認します。MFA が必要ない場合は、手順に記載されているオプションが使用できません。</span><span class="sxs-lookup"><span data-stu-id="e139e-p102">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account. If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="e139e-108">職場または学校アカウントとパスワードを使用して、Office 365 にサインインします。</span><span class="sxs-lookup"><span data-stu-id="e139e-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="18ae5-p103">通常どおり、職場または学校のアカウントとパスワードを使用して Office 365 にサインインします。[**サインイン**] を選択すると、ユーザー名といくつかのオプションがあるページが表示されます。</span><span class="sxs-lookup"><span data-stu-id="18ae5-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="e139e-109">**[今すぐセットアップ]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e139e-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="18ae5-110">[**今すぐセットアップ**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="18ae5-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="e139e-110">認証方法を選択して、画面の指示に従います。</span><span class="sxs-lookup"><span data-stu-id="e139e-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="18ae5-111">認証方法を選択して、ページ上の指示に従います。</span><span class="sxs-lookup"><span data-stu-id="18ae5-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="e139e-111">代替連絡方法を確認したら、**[次へ]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e139e-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="18ae5-112">代替連絡方法を確認したら、[**次へ**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="18ae5-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="18ae5-p104">Outlook、Apple Mail などで使用できるアプリ パスワードが取得されます。コピー アイコンを選択してパスワードをクリップボードにコピーします。このパスワードは記憶する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="18ae5-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="18ae5-115">Office 365 のメール アカウントを Outlook (または別のアプリ) に追加し、パスワードの入力を求められたら、アカウントのパスワードを入力する代わりに、このアプリのパスワードを [パスワード] ボックスに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="18ae5-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="e139e-p103">Outlook、Apple Mail、およびその他のアプリで使用可能なアプリ パスワードが表示されます。**[コピー]** を選択してそのパスワードをコピーし、他のどの場所にも貼り付けられるようにします (そうすれば、それを記憶する必要がありません)。</span><span class="sxs-lookup"><span data-stu-id="e139e-p103">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it. Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 
