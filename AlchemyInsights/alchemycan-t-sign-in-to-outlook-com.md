@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 04d46a718179e238645ba69f4e0ab18b8339f0ce
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 713efa1d175f3b68eb324c16193e418ec2054499
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942233"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765993"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Outlook.com にサインインできません
 

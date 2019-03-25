@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 2bea9fea9ddaca686a5c4fb1cf629cb1a0ebea63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d162d60ad55711d7165f32630faa1c6cd1b4b756
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917923"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760811"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>SharePoint ドキュメント ライブラリでアイテムをコピーする
 

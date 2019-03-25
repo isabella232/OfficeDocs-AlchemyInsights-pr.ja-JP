@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: cba730ce8c3234c08b4789a9d08230c4323dd7c6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 008318a50875b3d585b95dd8d9566db09af1d3ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900041"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759479"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>2 つの異なるテナント間でメールボックスを移行する
 

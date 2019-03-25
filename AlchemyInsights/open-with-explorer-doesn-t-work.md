@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: f788c3c626cdeb19970edb59563c59eea60e2992
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73d33e50449345c312abdd39afcc36e0c95fd1c4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906809"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764913"
 ---
 # <a name="open-with-explorer-isnt-working"></a>[エクスプローラーで開く] が機能していない
 

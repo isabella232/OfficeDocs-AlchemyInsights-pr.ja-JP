@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: d05db74c8f7631865a813af2765fe48f718eb972
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927185"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759767"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online ストレージを管理する
 

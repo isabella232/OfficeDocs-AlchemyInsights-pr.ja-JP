@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 7dda3aae2e692d9ecf1c83cfe598139a7aba3df4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906449"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760199"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>黒い背景が表示される、またはセルの書式が正しく表示されない
 

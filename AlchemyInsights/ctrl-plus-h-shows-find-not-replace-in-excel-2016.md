@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916853"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756635"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>Excel では、Ctrl+H キーを押すと [置換] ではなく [検索] が表示されます
 

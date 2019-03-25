@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913420"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761314"
 ---
 # <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online パブリック Web サイトの接続が切れている
 

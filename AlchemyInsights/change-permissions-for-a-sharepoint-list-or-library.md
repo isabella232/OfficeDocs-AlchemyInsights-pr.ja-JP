@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 03e3802c325bdf07b79329e1247ee9fd4a6b75e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 46bdb15733fa3673c6487c7a0316752b9ae757f4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905477"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753143"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint のリストまたはライブラリのアクセス許可を変更する
 

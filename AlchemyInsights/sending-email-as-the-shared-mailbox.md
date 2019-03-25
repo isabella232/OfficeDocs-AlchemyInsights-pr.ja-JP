@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919697"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752315"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>共有メールボックス所有者としてメールを送信する
 

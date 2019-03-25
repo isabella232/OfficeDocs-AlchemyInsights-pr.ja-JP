@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: ca4b234cfd7268d43ce7b21a3e06f27ce40c1e51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5677b4b5d3d02295a2213d771f685461c3502a4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905693"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753539"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress が正しくない
 

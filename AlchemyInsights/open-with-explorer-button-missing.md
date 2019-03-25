@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: 321bc01462306f85d21b028a321875eb6e64fbe4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912134"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759155"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>[エクスプローラー​​で開く] ボタンが表示されない
 

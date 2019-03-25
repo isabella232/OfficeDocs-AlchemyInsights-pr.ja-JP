@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 880d8df1713f1d9cfdf409f5e38af932c3594d46
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: acf11fd45402f587830253346c4f52983628300b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927725"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763437"
 ---
 # <a name="solutions-for-error-30034-4"></a>エラー 30034-4 の解決方法
 

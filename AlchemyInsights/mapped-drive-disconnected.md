@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 1fad381b10e6b78d1ae9028fd55e0b9ab00d2d74
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 36754d836cfe6525873ecdeb962efa5c2cb97a34
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907709"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760343"
 ---
 # <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>ネットワーク ドライブにマップされた SharePoint ライブラリが切断された
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: e49ab58be7084f4703bf1617d8954c9b3c01c97b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2b4a84495ae874e6c41f4ab3b0a0fcf036fb03d4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922988"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758867"
 ---
 # <a name="solutions-for-error-30015-25"></a>エラー 30015-25 の解決方法
 

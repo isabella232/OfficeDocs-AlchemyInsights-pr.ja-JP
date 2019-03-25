@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: dd4152d2942e93b1fa4d291fcead2266b9e31e91
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 911d4a61ebdfc8b7c1ff084cba268b0509b59955
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208338"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755807"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>請求明細書が生成されるタイミング
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 22fb513771abc1a604a347204bac268771cb9e37
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1f9a66daf7bee43291b785b6260aec8725ee782f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940001"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753791"
 ---
 # <a name="restore-a-deleted-site-collection"></a>削除されたサイト コレクションを復元する
 

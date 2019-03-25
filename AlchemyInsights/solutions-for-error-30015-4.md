@@ -10,14 +10,14 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: ad2102b3fcd661b2229ea32914f85a4ad26da206
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bc9f0c6f14ccacf739749545626ebd4e783ef9c1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929234"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759191"
 ---
 # <a name="solutions-for-error-30015-4"></a>エラー 30015-4 の解決方法
 

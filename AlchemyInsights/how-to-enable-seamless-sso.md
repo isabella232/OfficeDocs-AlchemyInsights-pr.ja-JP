@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: a8cdcfbb753243669ce07b758731056aa55c739b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5a6d34c5dc5cca307cd085011a88cf7171d207ad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911741"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761458"
 ---
 # <a name="how-to-enable-seamless-sso"></a>シームレスな SSO を有効にする方法
 

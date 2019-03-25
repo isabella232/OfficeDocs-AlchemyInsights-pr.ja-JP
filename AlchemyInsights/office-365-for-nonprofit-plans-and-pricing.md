@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920561"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757463"
 ---
 # <a name="office-365-for-nonprofit-plans-and-pricing"></a>非営利団体向け Office 365 のプランと価格
 

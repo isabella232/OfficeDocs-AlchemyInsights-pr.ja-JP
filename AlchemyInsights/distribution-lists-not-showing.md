@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: d570be06ae9966d595a5437aa9fd0d9d96550fa0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b4137d1a88fd555f340c61298af5b34ec1fe0803
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936221"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764085"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>配布グループが [グループ] リストに表示されない
 

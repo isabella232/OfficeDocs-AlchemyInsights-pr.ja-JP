@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926969"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757859"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo に必要なライセンス
 

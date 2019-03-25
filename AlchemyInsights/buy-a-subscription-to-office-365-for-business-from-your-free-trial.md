@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e596a8216b3674290ee577abc59a81b964f33c0a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919625"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761602"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>無料試用版から Office 365 のサブスクリプションを購入する
 

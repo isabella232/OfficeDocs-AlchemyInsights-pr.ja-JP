@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09a0553b-4fcd-410d-ba50-fe55cb79eea1
-ms.openlocfilehash: a910454d8b2dc36b370f4c79a98c7477474bf9cc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ae04b4f9f6167ac2cd40109d293f4ba619fc03a7
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913181"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754367"
 ---
 # <a name="restore-a-deleted-sharepoint-list-or-library"></a>削除した SharePoint リストまたはライブラリを復元する
 

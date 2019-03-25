@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: c59ee99923722efcb8524381a6486f92ba4bf0ed
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939245"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755755"
 ---
 # <a name="restore-a-previous-file-version"></a>以前のファイル バージョンを復元する
 

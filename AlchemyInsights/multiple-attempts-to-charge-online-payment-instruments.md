@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: e81f13c958d6a49eb038cc1595f346326288f722
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918797"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755663"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>オンラインでのお支払い方法に対する複数回の請求
 

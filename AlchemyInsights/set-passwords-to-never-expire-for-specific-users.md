@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: f98ed43ca05b4ca78d6dcc970868cd8aa05a31f9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923153"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752351"
 ---
 # <a name="set-passwords-to-never-expire"></a>パスワードを無期限に設定する
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 2eb29cda625bcae50e843e1dce87f13e4dae8ef3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937877"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756383"
 ---
 # <a name="solutions-for-error-30068-39"></a>エラー 30068-39 の解決方法
 

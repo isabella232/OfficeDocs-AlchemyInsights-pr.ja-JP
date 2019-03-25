@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a5196941866287c5050b0b272279ae47a2a737f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926897"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758507"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Excel でのフォントの書式設定に関する問題
 

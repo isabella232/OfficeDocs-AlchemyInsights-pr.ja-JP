@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: c5163e1a4fa13a4aeccc9506c798d6df1654ad53
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 25a501f6c07bfee15c18b0cce4f27dd2e6ec3e47
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940649"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757895"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 ボリューム ライセンス サブスクリプションをアクティブ化する
 

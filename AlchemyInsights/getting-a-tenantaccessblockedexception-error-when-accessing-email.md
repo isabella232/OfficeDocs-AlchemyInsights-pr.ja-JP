@@ -1,28 +1,33 @@
 ---
-title: メールにアクセスしようとしたときに TenantAccessBlockedException エラーが表示される場合
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 メールにアクセスしようとしたときに TenantAccessBlockedException エラーが表示される場合
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912029"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754259"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>メールにアクセスしようとしたときに TenantAccessBlockedException エラーが表示される場合
 
-テナントへのアクセスがブロックされているというエラーが表示される理由はいくつかあります。問題を修正するには、次の手順を試してください。
+このエラーが表示される理由はいくつかあります。次に例を示します。
   
-- [[サブスクリプション]](https://admin.microsoft.com/adminportal/home#/subscriptions) ページで、サブスクリプションが有効であることを確認します。 
+- Microsoft 365 管理センター ([https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions) の **[課金]** \> **[サブスクリプション]** ページで、サブスクリプションが有効であることを確認します。
     
-- [[課金情報]](https://admin.microsoft.com/adminportal/home#/billoverview) ページで、使用するアカウントの過去の会費を確認します。 
+- Microsoft 365 管理センター ([https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview) の **[課金]** \> **[課金内容]** ページで、期限が過ぎた通知があるかどうかを確認します。
     
-- 現在はアカウントの準備が整っていても、最近アカウントを変更した場合は、変更がすべてのサーバーに反映されるまでに時間がかかることがあります。数分後に再試行し、問題が解決しない場合は問い合わせます。
+- アカウントの課金内容とサブスクリプションが最近更新された場合、その変更が反映されるまで時間がかかる可能性があります。数分後にもう一度試してみてください。それでも引き続き問題が発生する場合は、お問い合わせください。
     
 
