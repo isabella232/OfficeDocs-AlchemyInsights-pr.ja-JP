@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907745"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397011"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 アクセスが拒否されました、テナントはしきい値を超えています
 
-このメッセージは、お客様の Office 365 組織から大量のスパムまたは大量のメールが送信されたときに表示されます。このブロックを削除するには、原因を把握してサポート エージェントに説明し、根本的な問題を修正する必要があります。
-  
+このメッセージは、組織から大量のスパムまたは一括送信メールが送信され、送信メールに我々がブロックをかけると発生します。
+一般的な原因は、侵害されたオンプレミス サーバーまたはコネクタを作成するために使用されている侵害された管理者アカウントです。 いずれかの条件が該当すると、迷惑メールが組織を大量に通過するを事態が起こりえます。
+
+このブロックを解除するには、原因を理解してサポートに説明すると同時に、基になっている問題を修正する必要があります。
+準備ができたら、以下の **Contact us** をクリックしてください。
 
