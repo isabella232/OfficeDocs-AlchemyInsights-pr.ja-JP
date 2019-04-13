@@ -22,7 +22,7 @@ ms.locfileid: "31738305"
 ニュースレターやプロモーションの受信を停止する場合は、Outlook.com で購読を解除する 2 つの方法があります。
 
 1. 受信トレイで、ニュースレターまたはプロモーションのメールを選択します。 閲覧ウィンドウの上部に表示される **購読を解除する**を選択します。
-2. [Outlook.com 購読の設定](https://outlook.live.com/mail/options/mail/brandsSubscriptions)を開き、 (**設定** > **全ての Outlook 設定を表示する** > **メール** > **購読**) **購読を解除する**を選択します。
+2. [Outlook.com の購読の設定](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**設定** > **全ての Outlook 設定を表示する** > **メール** > **購読**) を開き、**購読を解除する**を選択します。
 
 注:
 

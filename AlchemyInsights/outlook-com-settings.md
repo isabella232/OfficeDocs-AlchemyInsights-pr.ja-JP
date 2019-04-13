@@ -18,6 +18,6 @@ ms.locfileid: "31738307"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com での設定
 
-Outlook.com の設定が開けない場合は、[ここをクリック](https://outlook.live.com/mail/options/general/timeAndLanguage)。
+Outlook.com の設定が開けない場合は、[ここをクリック](https://outlook.live.com/mail/options/general/timeAndLanguage)して下さい。
 
 現在、一部のダイレクト リンクが開きません - 問題に取り組んでいます。
