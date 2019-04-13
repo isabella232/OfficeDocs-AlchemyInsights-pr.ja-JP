@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1049
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 363214d75c255d2f493e6a771749d2c2817042f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 5bb496363b9612427e5b704cdba12b8913676885
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31045162"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859577"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="ceca9-102">4.5.3 受信者が多すぎます (AS780090)</span><span class="sxs-lookup"><span data-stu-id="ceca9-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="4875f-102">4.5.3 受信者が多すぎます (AS780090)</span><span class="sxs-lookup"><span data-stu-id="4875f-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="ceca9-103">このエラーは、ソース IP アドレスからのメール トラフィック量が、ソース IP アドレスの評価に基づいて制限を超える場合 (または評価が不十分な場合) に発生します。</span><span class="sxs-lookup"><span data-stu-id="ceca9-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
-  
-<span data-ttu-id="ceca9-p101">ソース IP アドレスからのメールのブロックは、1 時間以内に期限が切れます。ソース IP アドレスがお客様のオンプレミスのメール サーバーの場合、メール フロー コネクタの構成を確認してください。この動作が 1 時間以上継続する場合は、サポートに連絡してソース IP アドレスの例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="ceca9-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
-  
+<span data-ttu-id="4875f-103">このエラーは、ソース IP アドレスからのメール トラフィック量が、ソース IP アドレスの評価に基づいて制限を超える場合 (または評価が不十分な場合) に発生します。</span><span class="sxs-lookup"><span data-stu-id="4875f-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
+<span data-ttu-id="4875f-p101">ソース IP アドレスからのメールのブロックは、1 時間以内に期限が切れます。ソース IP アドレスがお客様のオンプレミスのメール サーバーの場合、メール フロー コネクタの構成を確認してください。この動作が 1 時間以上継続する場合は、サポートに連絡してソース IP アドレスの例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="4875f-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>

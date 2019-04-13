@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1081
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c8defa2a49682011a58854f49e8d065555b5c5d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f2fcaac1d841a673e16c7105d98541d22506f1be
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31014878"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858065"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="b79ed-102">会議室メールボックスの作成と管理</span><span class="sxs-lookup"><span data-stu-id="b79ed-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="c2a71-102">会議室メールボックスの作成と管理</span><span class="sxs-lookup"><span data-stu-id="c2a71-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="b79ed-103">会議室メールボックスを作成および管理するには、「[会議室メールボックスの作成と管理](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b79ed-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
-  
-<span data-ttu-id="b79ed-104">会議室メールボックスと備品用メールボックス (別名リソース メールボックス) の詳細については、「[会議室メールボックスと備品用メールボックス](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b79ed-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
-  
+<span data-ttu-id="c2a71-103">会議室メールボックスを作成および管理するには、「[会議室メールボックスの作成と管理](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c2a71-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
+<span data-ttu-id="c2a71-104">会議室メールボックスと備品用メールボックス (別名リソース メールボックス) の詳細については、「[会議室メールボックスと備品用メールボックス](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c2a71-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>

@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 610
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 3e054959355739686a348f36158c29f88e339b98
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e643745ec178217714fb111d2f822880879baec
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030713"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859649"
 ---
-# <a name="learn-about-office-365-groups"></a><span data-ttu-id="84913-102">Office 365 グループの詳細</span><span class="sxs-lookup"><span data-stu-id="84913-102">Learn about Office 365 Groups</span></span>
+# <a name="learn-about-office-365-groups"></a><span data-ttu-id="eb69c-102">Office 365 グループの詳細</span><span class="sxs-lookup"><span data-stu-id="eb69c-102">Learn about Office 365 Groups</span></span>
 
-<span data-ttu-id="84913-103">詳細については、「[Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)」 (Office 365 グループの詳細) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="84913-103">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
-  
-
+<span data-ttu-id="eb69c-103">詳細については、「[Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)」 (Office 365 グループの詳細) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="eb69c-103">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
