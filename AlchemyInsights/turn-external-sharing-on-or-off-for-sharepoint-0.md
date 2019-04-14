@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ff481944428f2a67dd4f72b91212db7c33f53632
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758651"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747639"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>SharePoint の外部共有をオンまたはオフにする
 
@@ -25,7 +25,7 @@ ms.locfileid: "30758651"
 2. 設定をオンまたはオフに切り替えるか、共有オプションを選択します (オンになっている場合)。
     
 > [!NOTE]
-> SharePoint の共有をオフにすると、OneDrive の共有もオフになります。任意のサイトの外部共有を許可するには、組織全体の設定をオンにする必要があります。 > OneDrive または個別の SharePoint サイトの外部共有をオンにするには、組織全体で SharePoint の外部共有をオンにする必要があります。特定のサイト コレクションの外部共有は、その後でオフにできます。コミュニケーション サイトおよび Office 365 グループに属するサイトの外部共有設定を管理するには、新しい SharePoint 管理センター (プレビュー版) または PowerShell を使用する必要があります。外部共有設定の管理の詳細については、「[外部共有をオンまたはオフにする](https://go.microsoft.com/fwlink/?linkid=866426)」を参照してください。 
+> SharePointの共有を無効にすると、OneDriveの共有が無効になります。どのサイトでも外部共有を許可するには、組織全体の設定をオンにする必要があります。 > OneDriveまたは個々のSharePointサイトの外部共有を許可するには、SharePointに対して組織全体でそれを有効にする必要があります。 その後、特定のサイトコレクションに対して個々に無効にすることができます。 コミュニケーションサイトおよびOffice 365グループに属するサイトの外部共有設定を管理するには、新しいSharePoint管理センターまたはPowerShellを使用する必要があります。 外部共有設定の管理の詳細については、[外部共有の有効化または無効化](https://go.microsoft.com/fwlink/?linkid=866426)を参照してください。 
   
 [SharePoint の外部共有の詳細を参照してください](https://go.microsoft.com/fwlink/?linkid=734908)
   
