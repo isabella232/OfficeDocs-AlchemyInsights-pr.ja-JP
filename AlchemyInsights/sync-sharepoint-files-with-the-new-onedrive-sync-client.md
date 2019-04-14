@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755051"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747351"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期する
 
-1. 従来の SharePoint 管理センターで、**[設定]** を選択します。
+1. 新しい SharePoint 管理センターで、**[設定]** を選択します。
     
 2. [OneDrive 同期ボタン] が [同期ボタンを表示する] に設定されていることを確認します。
     

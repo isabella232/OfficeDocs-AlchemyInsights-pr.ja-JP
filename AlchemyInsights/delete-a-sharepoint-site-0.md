@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754655"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747999"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 グループに属しているサイトを削除する: 
 
@@ -30,7 +30,7 @@ ms.locfileid: "30754655"
     
 メモ: グループを削除しても、SharePoint からサイトが削除されるまで時間がかかる場合があります。
   
-**コミュニケーション サイトまたはクラシック サイトを削除する:** 
+**コミュニケーション サイトまたはクラシック サイトを削除する:**
 
 1. サイトにアクセスします。
   
@@ -38,15 +38,15 @@ ms.locfileid: "30754655"
   
 3. [**サイトの設定**] をクリックします。[**サイト情報**] または [**サイトの操作**] で [**このサイトを削除**] をクリックして、[**削除**] をクリックします。
   
-**SharePoint のサイト コレクションを削除する:** 
+**SharePoint のサイト コレクションを削除する**
 
-従来のサイト コレクションを作成するには: 
+サイトを削除する:
   
-1. 従来の SharePoint 管理センターの [サイト コレクション] ページで、サイト コレクションの隣の**チェック ボックス**を選択します。 
+1. 新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にある**チェック ボックス**をクリックします。 
     
-2. [サイト コレクション] タブで、[**削除**] を選択します。
+2. [リボン] ツールバーで、**[削除]** をクリックします。
     
-**誤ってサイトを削除した場合**
+**サイトを誤って削除した場合**
 
 「[削除されたサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660)」を参照してください。
   
