@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 714
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 6da684ab0aefa74f47f15dbb95f8ec96f92feca8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 58dddb870c14cdd690059bb43bd63beaae2127b6
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738365"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858821"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>外部の送信者が配布グループにメッセージを送信できるようにする
 
 組織外のユーザーが配布グループにメッセージを送信したときにエラーが表示される場合、または配布グループが外部の送信者からのメールを受信するように構成されていることを確認する場合は、以下の手順に従います。
-  
-1. [Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の **[グループ]** ノードに移動します。
-    
-2. 配布グループを選択し、表示されたグループ プロパティのフライ アウトで、**[外部の送信者を許可する]** を含むセクションの **[編集]** をクリックします。
-    
-3. 表示された **[詳細の編集]** フライ アウトで、**[この配布グループにメールを送信するには、自分の所属組織外のユーザーを許可します。]** が **[オン]** になっていることを確認してから、**[保存]** をクリックします。
-    
 
+1. [Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の **[グループ]** ノードに移動します。
+
+2. 配布グループを選択し、表示されたグループ プロパティのフライ アウトで、**[外部の送信者を許可する]** を含むセクションの **[編集]** をクリックします。
+
+3. 表示された **[詳細の編集]** フライ アウトで、**[この配布グループにメールを送信するには、自分の所属組織外のユーザーを許可します。]** が **[オン]** になっていることを確認してから、**[保存]** をクリックします。
