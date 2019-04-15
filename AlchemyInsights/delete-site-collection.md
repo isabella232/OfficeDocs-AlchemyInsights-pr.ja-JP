@@ -1,5 +1,5 @@
 ---
-title: サイト コレクションを削除する
+title: サイトを削除する
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757535"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747567"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a><span data-ttu-id="988e0-102">SharePoint のサイト コレクションを削除する</span><span class="sxs-lookup"><span data-stu-id="988e0-102">Delete a SharePoint site collection</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="f087a-102">SharePoint サイトを削除する</span><span class="sxs-lookup"><span data-stu-id="f087a-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="988e0-103">従来の SharePoint 管理センターの [サイト コレクション] ページで、サイト コレクションの隣のチェック ボックスを選択します。</span><span class="sxs-lookup"><span data-stu-id="988e0-103">In the classic SharePoint admin center, on the site collections page, select the check box next to the site collection.</span></span>
+1. <span data-ttu-id="f087a-103">新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にあるチェック ボックスをクリックします。</span><span class="sxs-lookup"><span data-stu-id="f087a-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="988e0-104">[サイト コレクション] タブで **[削除]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="988e0-104">On the Site Collections tab, select **Delete**.</span></span>
+2. <span data-ttu-id="f087a-104">[リボン] ツールバーで、**[削除]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="f087a-104">On the ribbon, click **Delete**.</span></span>
     
 
