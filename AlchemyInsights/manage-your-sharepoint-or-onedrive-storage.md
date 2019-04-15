@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761206"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747315"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint または OneDrive の記憶域を管理する
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761206"
   
 ほとんどの組織では、SharePoint ストレージは自動的に管理されるので、サイト コレクションごとに制限を設定する必要はありません。現在の SharePoint ストレージの容量を確認するには、次の操作を実行します。
   
-- クラシック SharePoint 管理センターでは、サイト コレクション ページの右上に表示されている使用可能なストレージと合計ストレージを探します。
+- 新しい SharePoint 管理センターのサイト ページの右上で、利用可能な記憶域および合計容量を探します。
     
 制限の計算方法については、「[SharePoint Online の制限](https://go.microsoft.com/fwlink/p/?LinkID=856113)」を参照してください。追加の記憶域を購入するには、「[サブスクリプションの記憶域容量の変更](https://go.microsoft.com/fwlink/?linkid=866428)」を参照してください。
   
