@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online のサイトを作成する
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764589"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747747"
 ---
 # <a name="create-a-site"></a>サイトを作成する
 
-SharePoint Online では、さまざまな種類のサイトを作成できます。新しい種類のサイトを作成する方法については、以下のトピックをご覧ください。
-  
-- [Office 365 グループを含むチーム サイトを作成する](https://go.microsoft.com/fwlink/?linkid=866292)
+SharePoint Online では、さまざまな種類のサイトを作成できます。 新しい SharePoint Online 管理センター でサイトを作成するには、「[サイトを作成する](https://go.microsoft.com/fwlink/?linkid=866295)」を参照してください。 ユーザーの独自のサイト作成の許可についての情報は、「[SharePoint Onlineでのサイト作成を管理する ](https://go.microsoft.com/fwlink/?linkid=866296)」を参照してください。
+ 
+新しいサイトの種類についての情報は、「[チームサイトに接続されているグループ](https://go.microsoft.com/fwlink/?linkid=866292)」または「[コミュニケーション サイト](https://go.microsoft.com/fwlink/?linkid=866294)」を参照してください。
     
-- [SharePoint Online でコミュニケーション サイトを作成する](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-新しい SharePoint 管理センター プレビューからもこれらのサイトを作成できます。
-  
-従来のサイトを作成するには、次のいずれかの手順を実行します。
-  
-- [Microsoft 365 管理センターのサイト ページ](https://portal.office.com/adminportal/home#/SitesList)に移動して、**[サイトの追加]** を選択します。
-    
-- 従来の SharePoint 管理センターの [サイト コレクション] ページで、[**新規**]、[**プライベート サイト コレクション**] の順に選択します。
-    
-詳細については、「[サイト コレクションを作成する](https://go.microsoft.com/fwlink/?linkid=866295)」を参照してください。ユーザーが独自のサイトを作成することを許可する方法については、「[SharePoint Online のサイト作成を管理する](https://go.microsoft.com/fwlink/?linkid=866296)」を参照してください。
-  
+
 
