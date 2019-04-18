@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31045129"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903741"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Outlook.com でメッセージを保存する
 
@@ -29,4 +29,4 @@ Windows 10 に含まれている Microsoft Print To PDF ユーティリティを
 4. **[印刷]** を選択します。
 5. ファイル名を入力し、**[保存]** を選択します。
 
-**注:** 共有またはパブリックのコンピューターの場合、PC に保存し、削除していない PDF に他のユーザーがアクセスできるため、推奨されていません。
+**注:** これは、他のユーザーが PC に保存した pdf にアクセスして削除することができない場合に、共有または公共のコンピューターでは推奨されません。
