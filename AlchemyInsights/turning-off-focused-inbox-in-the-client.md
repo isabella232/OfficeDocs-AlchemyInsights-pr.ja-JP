@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 911
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 4d102d3b05de0ed2dc3fd035278d479c83c2653d
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
-ms.translationtype: HT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858893"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366876"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>メール クライアントで優先受信トレイを無効にする
 

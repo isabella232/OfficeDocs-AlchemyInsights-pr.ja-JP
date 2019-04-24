@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1081
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: f2fcaac1d841a673e16c7105d98541d22506f1be
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
-ms.translationtype: HT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858065"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395984"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>会議室メールボックスの作成と管理
 

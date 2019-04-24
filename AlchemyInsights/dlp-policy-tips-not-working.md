@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900797"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399182"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP ポリシーのヒントに関する問題
 
-**DLP ポリシー**を使用していると、**ポリシー ヒント**に対するポリシー違反をユーザーに通知できます。管理者は、DLP ポリシーのテスト中や、ポリシーが完全強制モードの場合にポリシー ヒントを表示するよう構成できます。 
+**DLPポリシー**を使用している場合は、**ポリシーのヒント**を使用してポリシー違反をユーザーに通知できます。 管理者は、DLPポリシーをテストしている間、ポリシーが完全実施モードになっているときいずれの場合でも表示されるポリシーのヒントを設定できます。 
   
-完全強制モードで DLP ポリシーに関するポリシー ヒントをセキュリティ/コンプライアンス センターで構成するには、次のようにします。
+セキュリティ/コンプライアンス センターの完全実施モードでDLPポリシーに関するポリシーのヒントを構成するには、次の手順を実行します：
   
 - DLP ルールでポリシー ヒントを**有効**にします。そのためには、[こちら](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)の手順を実行します。
     

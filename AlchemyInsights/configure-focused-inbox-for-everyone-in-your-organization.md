@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 912
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: e6a87641d937d3e827ee94507af6e534371237cf
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857273"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392495"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>すべてのユーザーを対象に優先受信トレイのオン/オフを切り替える
 

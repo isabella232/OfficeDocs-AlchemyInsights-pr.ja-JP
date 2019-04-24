@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000086
 ms.openlocfilehash: 7d53d8768abbb5db26bd353c4cc9696a66dd507c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31045123"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392664"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>メール メッセージまたは予定表イベントに画像を挿入する
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
 ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
-ms.translationtype: HT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903561"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396801"
 ---
 # <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
 
