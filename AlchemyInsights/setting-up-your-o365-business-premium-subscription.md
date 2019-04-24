@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.openlocfilehash: f8c625015f8c920442458571cb5ca6f133ba3627
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421353"
 ---
 # <a name="setting-up-your-o365-business-premium-subscription"></a>O365 Business Premium サブスクリプションのセットアップ
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
 ms.openlocfilehash: f9130294145e6ac09c6503f04d24d327c0761de9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900761"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423045"
 ---
 # <a name="view-version-history-of-a-file-or-list-item"></a>ファイルまたはリスト アイテムのバージョン履歴を表示する
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
 ms.openlocfilehash: c11b6d67e9b8d113cd399819ea131c421eb9d398
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940757"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418707"
 ---
 # <a name="migrate-on-premises-to-sharepoint-online"></a>オンプレミスから SharePoint Online に移行する
 

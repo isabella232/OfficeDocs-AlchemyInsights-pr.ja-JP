@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
 ms.openlocfilehash: c45341e8d006531b089e0fc0473704fbce740a8b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905621"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418381"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune に関する問題のトラブルシューティング
 

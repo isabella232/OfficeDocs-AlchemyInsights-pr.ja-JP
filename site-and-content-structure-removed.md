@@ -8,11 +8,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
 ms.openlocfilehash: 07e2da6ae72084980ac6e53483f7976bb3d8f936
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31754866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422551"
 ---
 # <a name="site-and-content-structure-removed"></a>サイトとコンテンツの構造を削除
 

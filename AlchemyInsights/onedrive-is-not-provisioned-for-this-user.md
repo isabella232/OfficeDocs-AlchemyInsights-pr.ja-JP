@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
 ms.openlocfilehash: 056e80f1f24bd32f3d2fdad996fc3169d755b435
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901697"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419661"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive がこのユーザーにプロビジョニングされない
 

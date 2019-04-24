@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
 ms.openlocfilehash: 65b9a727171a7551068717f6327f15e1aa8e6bed
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917501"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420489"
 ---
 # <a name="working-with-ios-vpp-applications"></a>iOS VPP アプリケーションとの連携
 

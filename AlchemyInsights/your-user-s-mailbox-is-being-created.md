@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.openlocfilehash: 45684b414ee634c1e879a61c260dcdeff27a03be
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918509"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420669"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>ユーザーのメールボックスを作成しています
 

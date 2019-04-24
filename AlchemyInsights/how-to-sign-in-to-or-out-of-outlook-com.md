@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
 ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
-ms.translationtype: HT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903418"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416869"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Outlook.com にサインインまたは Outlook.com からサインアウトする方法
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
 ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207762"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417801"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>OneDrive for Business の記憶域を増やす方法
 

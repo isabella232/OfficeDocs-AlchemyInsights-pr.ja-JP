@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
 ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405022"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388980"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>アカウントが侵害された場合に推奨される対処方法
 
