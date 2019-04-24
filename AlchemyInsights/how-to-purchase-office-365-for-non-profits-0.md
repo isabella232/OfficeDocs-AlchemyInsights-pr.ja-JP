@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
 ms.openlocfilehash: d09630ae4960cba3eda457a670696ddd7f7fa2bc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757067"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417323"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="d91c1-102">非営利団体向け Office 365 の購入方法</span><span class="sxs-lookup"><span data-stu-id="d91c1-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="bf717-102">非営利団体向け Office 365 の購入方法</span><span class="sxs-lookup"><span data-stu-id="bf717-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="d91c1-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="d91c1-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="bf717-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="bf717-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="d91c1-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d91c1-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="bf717-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bf717-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
   
 

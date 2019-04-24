@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
 ms.openlocfilehash: 9390d428061b8450126c1573f608e69862c7d1b5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755195"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421281"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="85707-102">SharePoint で大きなリストおよびライブラリを使用する</span><span class="sxs-lookup"><span data-stu-id="85707-102">Work with large lists and libraries in SharePoint</span></span>
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="3c564-102">SharePoint で大きなリストおよびライブラリを使用する</span><span class="sxs-lookup"><span data-stu-id="3c564-102">Work with large lists and libraries in SharePoint</span></span>
 
-<span data-ttu-id="85707-p101">SharePoint のリストおよびライブラリには、最大 3,000 万個のアイテムを含めることができます。ただし、5,000 個を超えるアイテムが含まれる場合、それらを使用しようとすると、リスト ビューのしきい値エラーが表示されることがあります。このしきい値は、サービスのパフォーマンスを維持するために設定されており、変更することはできません。このしきい値に達しないようにするには、[インデックスを追加する](https://go.microsoft.com/fwlink/?linkid=867784)、[フィルターを使用してビューを変更する](https://go.microsoft.com/fwlink/?linkid=867786)、アイテムをフォルダーに分けて整理する、またはご使用のコンピューターでローカルに同期されているドキュメント ライブラリを使用することができます。</span><span class="sxs-lookup"><span data-stu-id="85707-p101">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them. This threshold is in place to maintain performance of the service. It can't be changed. To avoid hitting this threshold, you can [add an index](https://go.microsoft.com/fwlink/?linkid=867784), [user filters to change the view](https://go.microsoft.com/fwlink/?linkid=867786), organize items into folders, or work with synced document libraries locally on your computer.</span></span> 
+<span data-ttu-id="3c564-p101">SharePoint のリストおよびライブラリには、最大 3,000 万個のアイテムを含めることができます。ただし、5,000 個を超えるアイテムが含まれる場合、それらを使用しようとすると、リスト ビューのしきい値エラーが表示されることがあります。このしきい値は、サービスのパフォーマンスを維持するために設定されており、変更することはできません。このしきい値に達しないようにするには、[インデックスを追加する](https://go.microsoft.com/fwlink/?linkid=867784)、[フィルターを使用してビューを変更する](https://go.microsoft.com/fwlink/?linkid=867786)、アイテムをフォルダーに分けて整理する、またはご使用のコンピューターでローカルに同期されているドキュメント ライブラリを使用することができます。</span><span class="sxs-lookup"><span data-stu-id="3c564-p101">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them. This threshold is in place to maintain performance of the service. It can't be changed. To avoid hitting this threshold, you can [add an index](https://go.microsoft.com/fwlink/?linkid=867784), [user filters to change the view](https://go.microsoft.com/fwlink/?linkid=867786), organize items into folders, or work with synced document libraries locally on your computer.</span></span> 
   
-[<span data-ttu-id="85707-107">リスト ビューのしきい値内で作業するためのその他のヒント</span><span class="sxs-lookup"><span data-stu-id="85707-107">More tips for working within the List View Threshold</span></span>](https://go.microsoft.com/fwlink/?linkid=867787)
+[<span data-ttu-id="3c564-107">リスト ビューのしきい値内で作業するためのその他のヒント</span><span class="sxs-lookup"><span data-stu-id="3c564-107">More tips for working within the List View Threshold</span></span>](https://go.microsoft.com/fwlink/?linkid=867787)
   
 
