@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
 ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761278"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422792"
 ---
 # <a name="where-is-power-pivot"></a>Power Pivot が表示されません
 

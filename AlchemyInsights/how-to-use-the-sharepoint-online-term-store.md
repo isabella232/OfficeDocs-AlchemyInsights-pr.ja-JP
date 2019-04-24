@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747675"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416961"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online 用語ストアの使用法
 

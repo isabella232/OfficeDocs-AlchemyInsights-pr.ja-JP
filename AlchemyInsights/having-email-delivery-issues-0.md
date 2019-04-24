@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
 ms.openlocfilehash: aee07143064fbc29055a2f7999fc1dc7265d8cce
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404644"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400578"
 ---
 # <a name="having-email-delivery-issues"></a>メール配信の問題がある場合
 

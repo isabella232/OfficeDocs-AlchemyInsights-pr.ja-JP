@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0ae81203-7cbf-48a1-bd1a-2711e1c92e7b
 ms.openlocfilehash: afd27d7f844d3dcde9037242de55794dff23615f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404824"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389532"
 ---
 # <a name="trying-to-remove-your-domain"></a>ドメインを削除する場合
 

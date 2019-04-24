@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
 ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208050"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418389"
 ---
 # <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>OneDrive および SharePoint のアクティビティと使用状況に関するレポートを表示する
 

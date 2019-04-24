@@ -12,11 +12,11 @@ localization_priority: Normal
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom: 647
 ms.openlocfilehash: 08d11a8ccb016c28d3ce0e444b0d33ad73bc6354
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030717"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417575"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>ポータルからの Mac Office のインストール方法
 

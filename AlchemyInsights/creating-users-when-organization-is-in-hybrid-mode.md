@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 744
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 18f417f2f8ad08d3c539dca176224f140d5815f5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: e4f4f5740491ea122f3fd10870c8a3d4c051df1f
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738309"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407177"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>ハイブリッド展開でのユーザーの作成
 
 組織が、オンプレミス環境と Office 365 の間のハイブリッド展開である場合は、オンプレミスの Active Directory ですべてのユーザー オブジェクトを作成する必要があります。これらのユーザー オブジェクトは、Office 365 組織に同期されるように適切な組織単位 (OU) で作成します。
-  
-

@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.openlocfilehash: 768f616bb69f0c5689f968bb06a5dc161d30fec4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917717"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417287"
 ---
 # <a name="how-to-install-office-on-an-iphone"></a>iPhone に Office をインストールする方法
 

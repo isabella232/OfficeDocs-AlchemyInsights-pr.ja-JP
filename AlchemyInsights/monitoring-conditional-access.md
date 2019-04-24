@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
 ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902356"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418474"
 ---
 # <a name="monitoring-conditional-access"></a>条件付きアクセスを監視する
 

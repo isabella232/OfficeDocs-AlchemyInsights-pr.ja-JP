@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000205
 ms.openlocfilehash: 84ae4d110c41c1d457c11128e12298b23d6bb5a4
-ms.sourcegitcommit: d6a368cf0112eeb8bca204658d71e780c431fb46
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31754888"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371537"
 ---
 # <a name="project-online-is-in-a-read-only-state"></a>Project Online が読み取り専用状態
 

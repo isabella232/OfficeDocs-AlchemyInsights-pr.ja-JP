@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1e5ff53d903a14064147621df0a883152c32eff5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919661"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404698"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP が期待どおりに機能していない
 
 
-Office 365 で**データ損失防止 (DLP)** が期待どおりに機能していないという問題が発生している場合は、**DLP ポリシー**が正しくセットアップされていて、評価されるときに **DLP ポリシー**で検索される内容が自分のデータに含まれていることを確認します。 
+Office 365の**データ損失防止 (DLP)** で問題が発生していませんか？ その場合は、**DLPポリシー**が正しく設定されていること、およびデータに**DLPポリシー**が評価のさいに探しているものが含まれていることを確認してください。 
   
  **DLP のセットアップ:**
   

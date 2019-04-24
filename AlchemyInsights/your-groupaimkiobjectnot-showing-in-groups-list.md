@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
 ms.openlocfilehash: ab51b12a1005bfe304114065d05af2bbf5390567
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914477"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420741"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>グループの一覧に自分のグループ {AimKIObject} が表示されない
 

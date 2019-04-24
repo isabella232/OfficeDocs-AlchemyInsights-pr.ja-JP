@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
 ms.openlocfilehash: 889c50a5f350a51cd042bbcd231ad8d201288dae
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902129"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419337"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>無料の Minecraft Edition と Office 365 Education
 

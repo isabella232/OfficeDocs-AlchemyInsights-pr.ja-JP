@@ -8,11 +8,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.openlocfilehash: 89edbfcff929a51c639aa66ecf994cf1d6157810
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31754871"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422504"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint ハブ サイトの概要
 

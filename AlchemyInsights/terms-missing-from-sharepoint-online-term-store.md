@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
 ms.openlocfilehash: 3378eaac63103bf2499fd989d3878b00bab900cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935067"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420633"
 ---
 # <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online 用語ストアで用語が見つからない
 

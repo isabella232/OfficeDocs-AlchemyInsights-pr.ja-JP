@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469064"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399146"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>正当なメッセージが迷惑メールとしてマークされていますか?
 

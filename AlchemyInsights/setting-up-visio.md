@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906557"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421461"
 ---
 # <a name="setting-up-visio"></a>Visio の設定
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
 ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755663"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417755"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>オンラインでのお支払い方法に対する複数回の請求
 

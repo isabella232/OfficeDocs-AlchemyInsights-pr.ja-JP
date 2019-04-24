@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915440"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422065"
 ---
 アーカイブ メールボックスを有効にすると、**[電子情報開示の検索とエクスポート]** を使用して、プライマリ メールボックスとアーカイブ メールボックスの両方でコンテンツを検出できます。コンテンツを見つけるために **[電子情報開示検索のエクスポート]** を使用する方法については、[ここ](https://docs.microsoft.com/office365/securitycompliance/export-search-results)で説明されている手順に従ってください。
   

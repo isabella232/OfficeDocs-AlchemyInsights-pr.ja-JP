@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.openlocfilehash: d4474f850cbb80f67b2733a2f105e048d4de8bee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905009"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421893"
 ---
 # <a name="service-incident-in-progress"></a>サービス インシデントの処理中
 

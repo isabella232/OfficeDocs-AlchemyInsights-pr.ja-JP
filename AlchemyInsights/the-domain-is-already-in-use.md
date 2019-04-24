@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405400"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370259"
 ---
 # <a name="the-domain-is-already-in-use"></a>ドメインが既に使用されている
 

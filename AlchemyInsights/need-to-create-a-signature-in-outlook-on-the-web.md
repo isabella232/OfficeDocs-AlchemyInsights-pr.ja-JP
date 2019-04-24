@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 122
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
 ms.openlocfilehash: b09b8d99a98865423b0c77104bde82ac4df6867c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754794"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418618"
 ---
 # <a name="need-to-create-an-email-signature"></a>メールの署名を作成する必要がある場合
 

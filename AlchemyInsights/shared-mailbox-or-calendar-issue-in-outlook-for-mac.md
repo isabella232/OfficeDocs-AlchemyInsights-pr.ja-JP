@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
 ms.openlocfilehash: c1089784cbdcfa6ea56e509c97bcc3d6d4e98b3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901157"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421245"
 ---
 # <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Outlook for Mac での共有メールボックスや予定表の問題
 

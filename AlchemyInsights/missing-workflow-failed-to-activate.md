@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: ce088227a3206fa05b99331fdb022fbe4886203f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917573"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418438"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>ライセンス認証が失敗したワークフローが表示されない
 

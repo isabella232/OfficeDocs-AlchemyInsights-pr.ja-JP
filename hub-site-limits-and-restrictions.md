@@ -8,11 +8,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
 ms.openlocfilehash: b5f8df9e1f34c38d8dc1c42575a09badaad7b74a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31754872"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422648"
 ---
 # <a name="hub-site-limits-and-restrictions"></a>サブ サイトの制限と制約
 

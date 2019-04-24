@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404752"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372637"
 ---
 # <a name="payment-options"></a>支払いオプション
 

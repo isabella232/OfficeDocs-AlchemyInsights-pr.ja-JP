@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.openlocfilehash: 62ceeefefeac5e7cc01eb732350b0786050ad903
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933701"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417400"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>iPad に Office をインストールする方法
 

@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405112"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417359"
 ---
 # <a name="how-to-install-office"></a>Office のインストール方法
 
