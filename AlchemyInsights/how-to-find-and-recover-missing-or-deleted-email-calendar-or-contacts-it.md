@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000003
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
 ms.openlocfilehash: 5f1f84a293f76cc5ca6e1d981230179c25562f0f
-ms.sourcegitcommit: d2ded24fb2b05edc86d5c0d055c9490b8d40f4ab
+ms.sourcegitcommit: a7be616a4ebca62f8e70fe576df58e9a7597c4f8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2019
-ms.locfileid: "33351397"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33403185"
 ---
 # <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-items"></a>表示されないメール、予定表、または連絡先のアイテムを検索および復元する方法
 

@@ -351,7 +351,7 @@
 | 2019/3/22 | [Outlook.com フィッシング詐欺](/AlchemyInsights/outlook-com-phishing) | 追加 |
 | 2019/3/22 | [9000233 Outlook.com 暗証番号 (PIN)](/AlchemyInsights/outlook-com-pin) | 名称変更 |
 | 2019/3/22 | [8000043 Outlook.com の POP、IMAP、SMTP 設定](/AlchemyInsights/outlook-com-pop-imap-and-smtp-settings) | 名称変更 |
-| 2019/3/22 | [Outlook.com Premium](/AlchemyInsights/outlook-com-premium) | 追加 |
+| 2019/3/22 | [Outlook.com Premium](/AlchemyInsights/outlook-com-premium) | 追加済み |
 | 2019/3/22 | [8000091 Outlook.com リアクション ポップ アップ](/AlchemyInsights/outlook-com-react-pop-up) | 名称変更 |
 | 2019/3/22 | [9000199 Outlook.com の PST ファイル](/AlchemyInsights/outlook-com-read-pst-files) | 名称変更 |
 | 2019/3/22 | [9000240 Outlook.com 返信](/AlchemyInsights/outlook-com-replies) | 名称変更 |
@@ -360,16 +360,16 @@
 | 2019/3/22 | [8000088 Outlook.com でメールを保存する](/AlchemyInsights/outlook-com-save-emails) | 名称変更 |
 | 2019/3/22 | [8000090 Outlook.com すべて選択](/AlchemyInsights/outlook-com-select-all) | 名称変更 |
 | 2019/3/22 | [8000048 Outlook.com がメール アドレスの '代理' としてメールを送信する](/AlchemyInsights/outlook-com-sends-email-on-behalf-of-my-email-address) | 名称変更 |
-| 2019/3/22 | [Outlook.com の設定](/AlchemyInsights/outlook-com-settings) | 追加 |
+| 2019/3/22 | [Outlook.com の設定](/AlchemyInsights/outlook-com-settings) | 追加済み |
 | 2019/3/22 | [8000049 Outlook.com で Skype アイコンが見つからない](/AlchemyInsights/outlook-com-skype-button) | 名称変更 |
-| 2019/3/22 | [Outlook.com のスパムと迷惑メール](/AlchemyInsights/outlook-com-spam) | 追加 |
+| 2019/3/22 | [Outlook.com のスパムと迷惑メール](/AlchemyInsights/outlook-com-spam) | 追加済み |
 | 2019/3/22 | [8000049 Outlook.com の状態が常に "連絡可能" と表示される](/AlchemyInsights/outlook-com-status-always-shows-as-available) | 名称変更 |
-| 2019/3/22 | [Outlook.com メッセージが迷惑メール フォルダーに移動されないようにする](/AlchemyInsights/outlook-com-stop-email-from-going-to-junk-folder) | 追加 |
+| 2019/3/22 | [Outlook.com メッセージが迷惑メール フォルダーに移動されないようにする](/AlchemyInsights/outlook-com-stop-email-from-going-to-junk-folder) | 追加済み |
 | 2019/3/22 | [8000054 Outlook.com の容量の上限を超えました](/AlchemyInsights/outlook-com-storage-limit-exceeded) | 名称変更 |
 | 2019/3/22 | [9000215 Outlook.com サブスクリプション](/AlchemyInsights/outlook-com-subscriptions) | 名称変更 |
 | 2019/3/22 | [9000193 Outlook.com で移動または削除を元に戻す](/AlchemyInsights/outlook-com-undo-move-delete) | 名称変更 |
 | 2019/3/22 | [8000036 Outlook.com でプロファイル画像/プロファイル名を変更する](/AlchemyInsights/outlook-com-update-profile) | 名称変更 |
-| 2019/3/22 | [Outlook.com 更新](/AlchemyInsights/outlook-com-update) | 追加 |
+| 2019/3/22 | [Outlook.com 更新](/AlchemyInsights/outlook-com-update) | 追加済み |
 | 2019/3/22 | [8000054 Outlook.com の容量の上限を超えました](/AlchemyInsights/outlook-com-usage-limit-exceeded) | 名称変更 |
 | 2019/3/22 | [8000092 Outlook.com メッセージ送信元の表示](/AlchemyInsights/outlook-com-view-message-source) | 名称変更 |
 | 2019/3/22 | [1800009 Outlook for Mac のアプリ内サポート](/AlchemyInsights/outlook-for-mac-in-app-support) | 名称変更 |
@@ -395,19 +395,19 @@
 
 | 公開日 |トピックのタイトル | 変更 |
 |------|------------|--------|
-| 2019/4/1 | [SharePoint、OneDrive、Microsoft Teams の Office 365 ATP を有効にする](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | 追加 |
-| 2019/4/1 | [Office 365 Advanced Threat Protection (ATP) の設定](/AlchemyInsights/office-365-atp-setup) | 追加 |
+| 2019/4/1 | [SharePoint、OneDrive、Microsoft Teams の Office 365 ATP を有効にする](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | 追加済み |
+| 2019/4/1 | [Office 365 Advanced Threat Protection (ATP) の設定](/AlchemyInsights/office-365-atp-setup) | 追加済み |
 | 2019/4/1 | [9000071 Mac で @ 記号を入力できない](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | 名前の変更 |
 | 2019/4/1 | [Exchange 管理センターを使用して Office 365 グループを復元する](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | 更新日時 |
-| 2019/4/1 | [Office 365 Advanced Threat Protection (ATP) に関する問題のトラブルシューティング](/AlchemyInsights/troubleshoot-issues-office-365-atp) | 追加 |
-| 2019/4/2 | Office 365 の分類ラベル | 追加 |
-| 2019/4/2 | データ損失防止 (DLP) の概要 | 追加 |
-| 2019/4/2 | SharePoint のデスクトップ アプリ | 追加 |
-| 2019/4/2 | ハブ サイトの制限と制約 | 追加 |
-| 2019/4/2 | OneDrive: 見つからないファイルまたはフォルダー | 追加 |
-| 2019/4/2 | サイトまたはリストをテンプレートとして保存する | 追加 |
-| 2019/4/2 | SharePoint ハブ サイトの概要 | 追加 |
-| 2019/4/2 | サイトとコンテンツの構造を削除 | 追加 |
+| 2019/4/1 | [Office 365 Advanced Threat Protection (ATP) に関する問題のトラブルシューティング](/AlchemyInsights/troubleshoot-issues-office-365-atp) | 追加済み |
+| 2019/4/2 | Office 365 の分類ラベル | 追加済み |
+| 2019/4/2 | データ損失防止 (DLP) の概要 | 追加済み |
+| 2019/4/2 | SharePoint のデスクトップ アプリ | 追加済み |
+| 2019/4/2 | ハブ サイトの制限と制約 | 追加済み |
+| 2019/4/2 | OneDrive: 見つからないファイルまたはフォルダー | 追加済み |
+| 2019/4/2 | サイトまたはリストをテンプレートとして保存する | 追加済み |
+| 2019/4/2 | SharePoint ハブ サイトの概要 | 追加済み |
+| 2019/4/2 | サイトとコンテンツの構造を削除 | 追加済み |
 | 2019/4/2 | エラー 404 「ファイルが見つかりません」のトラブルシューティング | 追加 |
 | 2019/4/3 | [エラー コード 550 5.7.705 アクセスが拒否されました、テナントはしきい値を超えています](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | 更新日時 |
 
@@ -440,9 +440,9 @@
 | 4/9/2019 | [SharePoint の外部共有をオンまたはオフにする](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | 更新 |
 | 4/9/2019 | [SharePoint の外部共有をオンまたはオフにする](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | 更新 |
 | 4/9/2019 | エラー 404、ファイルが見つかりませんのトラブルシューティング、 | 更新日時 |
-| 4/9/2019 | [Project Web App サイトへのアクセスが拒否される](/AlchemyInsights/access-denied-to-a-project-online-site) | 追加 |
-| 4/9/2019 | [Project Online が読み取り専用状態](/AlchemyInsights/project-online-is-in-a-read-only-state) | 追加 |
-| 4/9/2019 | [Project Web App が SharePoint サイト コレクションで見つからない](/AlchemyInsights/project-web-app-missing-from-site-collection) | 追加 |
+| 4/9/2019 | [Project Web App サイトへのアクセスが拒否される](/AlchemyInsights/access-denied-to-a-project-online-site) | 追加済み |
+| 4/9/2019 | [Project Online が読み取り専用状態](/AlchemyInsights/project-online-is-in-a-read-only-state) | 追加済み |
+| 4/9/2019 | [Project Web App が SharePoint サイト コレクションで見つからない](/AlchemyInsights/project-web-app-missing-from-site-collection) | 追加済み |
 | 4/12/2019 | [1048 5.7.750 サービスは利用できません。クライアントが未登録のドメインからの送信をブロックしました](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 更新日時 |
 | 4/12/2019 | [713 追加のメール アドレスを配布リストに追加する](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | 更新日時 |
 | 4/12/2019 | [718 外部の連絡先/組織外のユーザーを配布リストに追加する](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | 更新日時 |
@@ -483,7 +483,7 @@
 | 4/12/2019 | [401 ハイブリッド - 空き時間](/AlchemyInsights/hybridfreebusy) | 更新日時 |
 | 4/12/2019 | [929 トランスポート ルールを回避する受信トレイ ルール](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | 更新日時 |
 | 4/12/2019 | [922 受信トレイ ルール](/AlchemyInsights/inbox-rules) | 更新日時 |
-| 4/12/2019 | [メールの移行のために EWS の調整制限を増やす](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | 追加 |
+| 4/12/2019 | [メールの移行のために EWS の調整制限を増やす](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | 追加済み |
 | 4/12/2019 | [1264 大量の迷惑メールが送信されたため IP がブロックされました (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | 更新日時 |
 | 4/12/2019 | [322 ユーザーに送信の問題がある場合の問題](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | 更新日時 |
 | 4/12/2019 | [321 ユーザーがメールを受信していない場合の問題](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | 更新日時 |
@@ -518,21 +518,21 @@
 | 4/12/2019 | [1554 Winsock エラー 10061](/AlchemyInsights/winsock-error-10061) | 更新日時 |
 
 
-## <a name="week-of-april-15-2019"></a>2019年4月15日の週
+## <a name="week-of-april-15-2019"></a>2019 年 4 月 15 日の週
 
 
 | 公開日 |トピックのタイトル | 変更 |
 |------|------------|--------|
-| 4/15/2019 | [Alchemy - Outlook の接続に関する問題を診断して解決する](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | 更新 |
-| 4/15/2019 | [Alchemy - Outlook プロファイルを再作成する](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | 更新日時 |
-| 4/15/2019 | [DLP にカスタムの種類が必要な場合があります](/AlchemyInsights/dlp-might-need-custom-type) | 追加 |
-| 4/15/2019 | [DLP が期待どおりに機能していない](/AlchemyInsights/dlp-not-working-as-expected) | 修正 |
-| 4/15/2019 | [DLP ポリシーのヒントが機能しない](/AlchemyInsights/dlp-policy-tips-not-working) | 変更 |
-| 4/15/2019 | [Outlook.com エラー550](/AlchemyInsights/outlook-com-error-550) | 追加 |
-| 4/15/2019 | [Outlook.com オーバークォータ](/AlchemyInsights/outlook-com-over-quota) | 追加 |
-| 4/15/2019 | [Outlook.com の削除 Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | 追加 |
-| 4/15/2019 | [Outlook.com の削除 Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | 追加 |
-| 4/15/2019 | [182 Outlook の認証の問題を診断および解決するには、SaRA を実行してください](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | 更新日時 |
+| 2019/4/15 | [Alchemy - Outlook の接続に関する問題を診断して解決する](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | 更新 |
+| 2019/4/15 | [Alchemy - Outlook プロファイルを再作成する](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | 更新日時 |
+| 2019/4/15 | [DLP にカスタムの種類が必要な場合があります](/AlchemyInsights/dlp-might-need-custom-type) | 追加済み |
+| 2019/4/15 | [DLP が期待どおりに機能していない](/AlchemyInsights/dlp-not-working-as-expected) | 修正 |
+| 2019/4/15 | [DLP ポリシーのヒントが機能しない](/AlchemyInsights/dlp-policy-tips-not-working) | 変更 |
+| 2019/4/15 | [Outlook.com エラー550](/AlchemyInsights/outlook-com-error-550) | 追加済み |
+| 2019/4/15 | [Outlook.com オーバークォータ](/AlchemyInsights/outlook-com-over-quota) | 追加済み |
+| 2019/4/15 | [Outlook.com の削除 Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | 追加済み |
+| 2019/4/15 | [Outlook.com の削除 Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | 追加済み |
+| 2019/4/15 | [182 Outlook の認証の問題を診断および解決するには、SaRA を実行してください](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | 更新日時 |
 | 4/16/2019 | [9000233 Outlook.com 暗証番号 (PIN)](/AlchemyInsights/outlook-com-pin) | 更新日時 |
 | 4/16/2019 | [Outlook.com の削除 Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | 更新日時 |
 | 4/16/2019 | [8000088 Outlook.com でメールを保存する](/AlchemyInsights/outlook-com-save-emails) | 更新日時 |
@@ -543,20 +543,20 @@
 | 4/16/2019 | [8000033 Outlook.com のベータ版でメッセージに返信するまたはメッセージを転送する方法](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | 更新 |
 | 4/16/2019 | [8000055 Outlook.com にサインインまたは Outlook.com からサインアウトする方法](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | 更新日時 |
 | 4/16/2019 | [8000062 Outlook.com でのフォルダーの移動](/AlchemyInsights/moving-a-folder-in-outlook-com) | 修正 |
-| 4/16/2019 | [自動適用の機密ラベル](/AlchemyInsights/auto-apply-sensitivity-labels) | 追加 |
-| 4/16/2019 | [機密ラベルが表示されない](/AlchemyInsights/sensitivity-labels-not-appearing) | 追加 |
-| 4/16/2019 | [自動的に作成される新しい保持ラベル](/AlchemyInsights/new-retention-labels-created-automatically) | 追加 |
-| 4/16/2019 | [SharePoint および OneDrive 監査ログ](/AlchemyInsights/classic-sharepoint-audit-log-reports) | 追加 |
-| 4/16/2019 | [監査ログの削除メッセージイベントを識別する](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | 追加 |
-| 4/16/2019 | [監査ログのメールボックスでの外部メール転送を識別する](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | 追加 |
-| 4/16/2019 | [監査ログで受信トレイルールのアクティビティを識別する](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | 追加 |
-| 4/16/2019 | [監査ログで IP アドレスとクライアントを識別する](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | 追加 |
-| 4/16/2019 | [インポート前に .pst ファイルを修復する](/AlchemyInsights/repair-pst-before-importing) | 追加 |
-| 4/16/2019 | [従来の SharePoint 監査ログレポート](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 追加 |
+| 4/16/2019 | [自動適用の機密ラベル](/AlchemyInsights/auto-apply-sensitivity-labels) | 追加済み |
+| 4/16/2019 | [機密ラベルが表示されない](/AlchemyInsights/sensitivity-labels-not-appearing) | 追加済み |
+| 4/16/2019 | [自動的に作成される新しい保持ラベル](/AlchemyInsights/new-retention-labels-created-automatically) | 追加済み |
+| 4/16/2019 | [SharePoint および OneDrive 監査ログ](/AlchemyInsights/classic-sharepoint-audit-log-reports) | 追加済み |
+| 4/16/2019 | [監査ログの削除メッセージイベントを識別する](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | 追加済み |
+| 4/16/2019 | [監査ログのメールボックスでの外部メール転送を識別する](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | 追加済み |
+| 4/16/2019 | [監査ログで受信トレイルールのアクティビティを識別する](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | 追加済み |
+| 4/16/2019 | [監査ログで IP アドレスとクライアントを識別する](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | 追加済み |
+| 4/16/2019 | [インポート前に .pst ファイルを修復する](/AlchemyInsights/repair-pst-before-importing) | 追加済み |
+| 4/16/2019 | [従来の SharePoint 監査ログレポート](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 追加済み |
 | 4/16/2019 | [従来の SharePoint 監査ログレポート](/AlchemyInsights/classic-sharepoint-audit-log-reports) | 更新日時 |
 | 4/16/2019 | [監査ログのメールボックスでの外部メール転送を識別する](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | 更新日時 |
 | 4/16/2019 | [監査ログで受信トレイルールのアクティビティを識別する](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | 更新日時 |
 | 4/16/2019 | [従来の SharePoint 監査ログレポート](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 更新日時 |
-| 4/17/2019 | [メールが有効なパブリックフォルダーへのメール配信の問題を修正する](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | 追加 |
-| 4/17/2019 | [Teams シフト](/AlchemyInsights/teams-shifts) | 更新日時 |
+| 2019/4/17 | [メールが有効なパブリックフォルダーへのメール配信の問題を修正する](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | 追加済み |
+| 2019/4/17 | [Teams シフト](/AlchemyInsights/teams-shifts) | 更新日時 |
 | 4/18/2019 | [8000011 Outlook.com で削除されたメールを復元する](/AlchemyInsights/recover-deleted-email-in-outlook-com) | 更新日時 |
