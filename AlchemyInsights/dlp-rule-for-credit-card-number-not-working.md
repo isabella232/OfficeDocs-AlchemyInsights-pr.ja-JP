@@ -1,20 +1,20 @@
 ---
 title: クレジット カード番号の DLP ルールが機能しない
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 29d8e3be2119ea67bc5839d08ff9d670a203036f
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919085"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33469913"
 ---
 O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている**クレジット カード ポリシー**の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。 
   

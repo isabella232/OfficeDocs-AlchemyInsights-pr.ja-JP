@@ -1,20 +1,20 @@
 ---
 title: メールボックスへの保留の特定
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: serdars
 ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0aed34b3b3842688dd4fa5f72a8355ad2bf3cc23
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929309"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470237"
 ---
 自分では特定できない**保留**によって**保持されている**コンテンツがある場合、または**メールボックス**のどこに保留があるのかを**確認**する必要がある場合、Office 365 の保留 (  *保持機能*  ) は、次のいずれかの方法で適用できます。 
   

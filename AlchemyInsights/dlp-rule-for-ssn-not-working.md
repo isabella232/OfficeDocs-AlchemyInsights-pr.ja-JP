@@ -1,20 +1,20 @@
 ---
 title: SSN に関する DLP ルールが機能しない
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 605f5e1a2f702998996246700f9f1d04a0bd0e9c
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933485"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470093"
 ---
 Office 365 で機密情報の類を使用しているときに、**社会保障番号 (SSN)** を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題は発生していませんか。発生している場合は、コンテンツに DLP ポリシーに必要な情報が含まれていることを確認してください。 
   

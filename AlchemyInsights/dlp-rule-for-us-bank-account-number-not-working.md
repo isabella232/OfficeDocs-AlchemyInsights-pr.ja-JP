@@ -1,20 +1,20 @@
 ---
 title: 米国の銀行口座番号の DLP ルールが機能しない場合
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 9ebfa6bc09cef9ab7c30bddb4fcb8b6be3ab55a5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ffc3762c25d3e92d976515530f4e8df68ee85f4b
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916421"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33469985"
 ---
 Office 365 で DLP 機密情報の種類を使用しているときに、**米国の銀行口座番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生した場合は、DLP ポリシーに必要な情報がコンテンツに含まれていることを確認してください。 
   

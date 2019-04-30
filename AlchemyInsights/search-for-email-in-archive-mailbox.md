@@ -1,20 +1,20 @@
 ---
 title: アーカイブ メールボックスでメールを検索する
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: serdars
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 11d5243b1eb6047687cf140a0f62b7c96219a69d
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422065"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33469949"
 ---
 アーカイブ メールボックスを有効にすると、**[電子情報開示の検索とエクスポート]** を使用して、プライマリ メールボックスとアーカイブ メールボックスの両方でコンテンツを検出できます。コンテンツを見つけるために **[電子情報開示検索のエクスポート]** を使用する方法については、[ここ](https://docs.microsoft.com/office365/securitycompliance/export-search-results)で説明されている手順に従ってください。
   

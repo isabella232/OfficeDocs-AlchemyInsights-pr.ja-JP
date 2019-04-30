@@ -1,20 +1,20 @@
 ---
 title: US/UK パスポート番号の DLP ルールが機能しない
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: bb80ef07364a575f6032bb105cff83cd8f95bd63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76a14831f3a8f88f4bb2d23c472ca3cb7d859703
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912106"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33469877"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP の問題 - US/UK パスポート番号
 
