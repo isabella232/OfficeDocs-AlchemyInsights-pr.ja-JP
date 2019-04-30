@@ -1,8 +1,8 @@
 ---
 title: DLP が期待どおりに機能していない
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: db8c6bf7cfb74a85bbbf2992b91a6cb0f233f194
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404698"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470023"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP が期待どおりに機能していない
 

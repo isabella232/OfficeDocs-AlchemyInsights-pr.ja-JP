@@ -1,20 +1,20 @@
 ---
 title: DLP ポリシーのヒントが機能しない
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawims
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: aaae0d7ac55f9f3adc60143850e7b6e4d1da08fb
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399182"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470056"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP ポリシーのヒントに関する問題
 

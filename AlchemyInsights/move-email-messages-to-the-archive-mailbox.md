@@ -1,20 +1,20 @@
 ---
 title: アーカイブ メールボックスへのメール メッセージの移動
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: serdars
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6c84efe12107f59e81e062e9f2ec3be663edf52f
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418324"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470165"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>メールをアーカイブメールボックスに移動する
  

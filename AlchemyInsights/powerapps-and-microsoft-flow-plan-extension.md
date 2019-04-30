@@ -1,8 +1,8 @@
 ---
 title: 1575-PowerApps と Microsoft Flow のプランの延長
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: toresing
+author: tomresing
+manager: scotv
 ms.date: 03/04/2019
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1575
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1a47d0fc1d33d85f61fb80a1f451d1f5af08f060
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 713e361bcde8d4521f30b5955955931aa93b0af2
+ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738349"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "33470129"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps と Microsoft Flow のプランの延長
 
