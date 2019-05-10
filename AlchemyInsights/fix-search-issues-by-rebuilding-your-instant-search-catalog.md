@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754788"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867943"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>クイック検索カタログを再作成して検索の問題を修正する
+# <a name="troubleshoot-search-issues"></a>検索に関する問題のトラブルシューティング
 
-1. Outlook を終了して、**コントロール パネル**を開きます。
-    
-    > [!NOTE]
-    > 使用している Office のバージョンによっては、**[スタート]** ボタンをクリックし、**[スタート]** メニューで **[コントロール パネル]** を右クリックすることが必要な場合があります。 
-  
-2. 次のいずれかを実行します。
-    
-  - **[インデックスのオプション]** を選択します。
-    
-  - **[検索]** ボックスに「*インデックス*」と入力し、**[インデックスのオプション]** を選択します。
-    
-3. **[インデックスが作成された場所]** ダイアログ ボックスの **[選択された場所の変更]** で、変更する場所のチェック ボックスをオンにして、**[OK]** をクリックします。
-    
-4. **[高度なオプション]** ダイアログ ボックスの **[インデックスの設定]** タブで、**[トラブルシューティング]** の **[再構築]** をクリックします。
-    
-    > [!NOTE]
-    > **[インデックスの再作成]** ダイアログ ボックスに、"インデックスの再作成には時間がかかる場合がある" という警告が表示されます。**[OK]** を選択して、インデックスの再作成を始めます。 
-  
-詳細については、既知の問題「[POP、IMAP または Exchange アカウントの検索結果が返されない](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx)」をご覧ください。
-  
+検索に問題がある場合は、次のリンクを参照してください。ヘルプのトラブルシューティングを参照してください。
 
+これらは最も一般的な問題であり、次のことを始めるのに適した場所です。
+- [Outlook の検索結果が返されない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook の検索で不完全な結果が返される](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook の検索で古いメールが見つからない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+あまり一般的でない問題を解決するには、次の方法があります。
+- [Outlook 2016 のみ: [検索] タブは淡色表示されます。](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [共有メールボックス: 検索結果に関する問題](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [エラー: Outlook の構成方法に問題があるため、検索のパフォーマンスに影響があります](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [検索フォルダーに、件名のない予期しない個人メタデータ項目が表示される](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)

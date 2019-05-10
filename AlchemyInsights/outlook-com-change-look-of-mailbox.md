@@ -9,18 +9,18 @@ ms.topic: article
 ms.custom: 9000257
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 38fccb6dded65da55c381783e69dfa0aa4df0b98
+ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418134"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33858576"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com メールボックスの外観を変更する
 
 Outlook.comのメッセージリストと閲覧ウィンドウの外観を変更することができます。
 
-- メッセージウィンドウのレイアウトを変更するには、ページ上部の歯車アイコンを選択して **[設定]** を開き、**[閲覧ウィンドウ]** の下のオプションを選択します。
-- メッセージを会話でグループ化するには、ページ上部の歯車アイコンを選択して **[設定]** を開き、**[会話ビュー]** の下のオプションを選択します。
-- 優先受信トレイをオンまたはオフにするには、ページ上部の歯車アイコンを選択して **[設定]** を開きトグルを **[優先受信トレイ]** の横に移動させ、オンオフできる状態にします。
+- メッセージウィンドウのレイアウトを変更するには、[閲覧ウィンドウ](https://outlook.live.com/mail/options/mail/layout/readingPane)のオプションを開きます。
 - 電子メールの並べ替え方法を変更するには、メッセージリストの上部で**フィルタ** > **並べ替え方法** を選択して、電子メールの並べ替え方法を選択します。
+- 会話でメッセージをグループ化するには、[メッセージ組織](https://outlook.live.com/mail/options/mail/layout/conversations)のオプションを開きます。
+- 優先受信トレイを有効または無効にするには、[レイアウト](https://outlook.live.com/mail/options/mail/layout/focused)オプションを開きます。
