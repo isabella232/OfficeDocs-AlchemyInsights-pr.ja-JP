@@ -10,13 +10,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
+ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
+ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758363"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33883132"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook のクラッシュをトラブルシューティングする手順
 
