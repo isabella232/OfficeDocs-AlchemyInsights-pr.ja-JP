@@ -8,18 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
-ms.openlocfilehash: c21f9693b20fb435f6e46014e09e1c6c97e2744a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 396b1b8ee399388560fcb19fe338adf944037742
+ms.sourcegitcommit: d10a148f518dc1c65b5aa3646c1045807c5b79de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923045"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432371"
 ---
 # <a name="access-the-domains-page"></a>[Domains] ページにアクセスする
 
 [Domains] ページにアクセスするには、このアイコンをクリックします。
   
-![[Domains] アイコン](media/e8377292-1d1f-4b45-a91d-05eb2914519c.png)
+![[Domains] アイコン](media/e8377292-1d1f-4b45-a91d-05eb2914519c.png) 相対リンク、標準 <br>
+
+![ドメイン アイコン](https://raw.githubusercontent.com/MicrosoftDocs/OfficeDocs-AlchemyInsights-pr/master/AlchemyInsights/media/e8377292-1d1f-4b45-a91d-05eb2914519c.png?token=AHYLATAHVU55ARRXLIVCPBS46GHQ6) 絶対にこの操作はおすすめしません。
   
 ドメインの追加、変更、または削除を行うことができます。
   
