@@ -1,28 +1,31 @@
 ---
-title: 8000061 Outlook.com の表示されないフォルダー
+title: Outlook.com の見つからないフォルダー
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 5/31/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000061
+ms.custom:
+- "8000061"
+- "1066"
+- "1067"
+- "1068"
+- "1134"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: c2795a2d998df4487fce6eabb8d0a3d654e59b6e
+ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31014868"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34668142"
 ---
-# <a name="find-missing-folders-in-outlookcom"></a><span data-ttu-id="47fd9-102">Outlook.com の表示されないフォルダー</span><span class="sxs-lookup"><span data-stu-id="47fd9-102">Find missing folders in Outlook.com</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="3c451-102">見つからないフォルダーを探す</span><span class="sxs-lookup"><span data-stu-id="3c451-102">Find missing folders in Outlook.com</span></span>
 
-<span data-ttu-id="47fd9-p101">Outlook.com ベータ版でフォルダーが表示されない場合、フォルダーが折りたたまれていないことを確認してください。ナビゲーション ウィンドウで **[フォルダー]** の隣にある矢印を選択します。</span><span class="sxs-lookup"><span data-stu-id="47fd9-p101">If you can't see your folders in the Outlook.com beta, check that your folders aren't collapsed. Select the arrow next to **Folders** in the navigation pane.</span></span> 
-  
-<span data-ttu-id="47fd9-p102">Outlook.com で誤って何かを削除した場合、それが [削除済みアイテム] または [迷惑メール] フォルダーにまだあれば、復元できます。[メールの回復アドイン](https://appsource.microsoft.com/product/office/WA104380447)を使用すれば、[削除済みアイテム] フォルダーを空にした後でもアイテムを復元できることがあります (クラシック Outlook.com のみ)。詳細については、[削除したメール メッセージを回復する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)方法に関するページと [Outlook.com でアドインを使用する](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf)方法に関するページをお読みください。</span><span class="sxs-lookup"><span data-stu-id="47fd9-p102">If you accidentally delete something in Outlook.com, you can recover it if it's still in your Deleted Items or Junk Email folders. In some cases you can recover items after the Deleted Items folder is emptied using the [Email Recovery add-in](https://appsource.microsoft.com/product/office/WA104380447) (for classic Outlook.com only). Read more about [Restoring deleted email messages](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) and [using add-ins in Outlook.com](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf).</span></span>
-  
-<span data-ttu-id="47fd9-p103">フォルダーが表示されないことがありますが、Microsoft ではその修正に取り組んでいます。**検索**を利用することで、表示されないフォルダー内に保存されているアイテムを見つけることができます。サインアウトし、再びサインインすると表示されることもあります。[サインアウトするにはここをクリックしてください](https://login.live.com/logout.srf)。</span><span class="sxs-lookup"><span data-stu-id="47fd9-p103">In some cases, folders are missing. We are working to fix this. You can still find items saved within the missing folders using **Search**, and it may help if you sign out and then sign in again. [Click here to sign out.](https://login.live.com/logout.srf)</span></span>
-  
+<span data-ttu-id="3c451-p101">フォルダーを確認できない場合は、フォルダーが折りたたまれていないことを確認します。左側のウィンドウの [**フォルダー**] の隣にある矢印を選択します。</span><span class="sxs-lookup"><span data-stu-id="3c451-p101">If you can't see your folders in the Outlook.com beta, check that your folders aren't collapsed. Select the arrow next to **Folders** in the navigation pane.</span></span>
 
+<span data-ttu-id="3c451-105">Outlook.com のフォルダーを誤って削除した場合、削除済みアイテム フォルダー内に残っていれば、そのフォルダーを復元できます。</span><span class="sxs-lookup"><span data-stu-id="3c451-105">If you accidentally delete a folder in Outlook.com, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="3c451-106">詳細については、「[Outlook.com で削除されたメール メッセージを復元する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3c451-106">To learn more, see [Restore deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
+
+<span data-ttu-id="3c451-107">フォルダーの一覧に一部のフォルダーが表示されない場合があるという問題が発生しています。</span><span class="sxs-lookup"><span data-stu-id="3c451-107">There is an issue where some folders might not be visible in the folder list.</span></span> <span data-ttu-id="3c451-108">現在、この問題の修正に取り組んでいます。</span><span class="sxs-lookup"><span data-stu-id="3c451-108">We are working to fix this.</span></span> <span data-ttu-id="3c451-109">さらに**検索**を使用して見つからないフォルダー内のアイテムを探せます。また、サインアウトしてからサインインし直すと上手くいく場合があります。</span><span class="sxs-lookup"><span data-stu-id="3c451-109">In some cases, folders are missing. We are working to fix this. You can still find items saved within the missing folders using **Search**, and it may help if you sign out and then sign in again. Click here to sign out.</span></span> [<span data-ttu-id="3c451-110">こちらをクリックしてサインアウトします</span><span class="sxs-lookup"><span data-stu-id="3c451-110">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
