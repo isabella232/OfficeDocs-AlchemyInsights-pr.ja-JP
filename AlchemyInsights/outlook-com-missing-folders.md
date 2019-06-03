@@ -1,28 +1,31 @@
 ---
-title: 8000061 Outlook.com の表示されないフォルダー
+title: Outlook.com の見つからないフォルダー
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 5/31/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000061
+ms.custom:
+- "8000061"
+- "1066"
+- "1067"
+- "1068"
+- "1134"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: c2795a2d998df4487fce6eabb8d0a3d654e59b6e
+ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31014868"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34668142"
 ---
-# <a name="find-missing-folders-in-outlookcom"></a>Outlook.com の表示されないフォルダー
+# <a name="find-missing-folders"></a>見つからないフォルダーを探す
 
-Outlook.com ベータ版でフォルダーが表示されない場合、フォルダーが折りたたまれていないことを確認してください。ナビゲーション ウィンドウで **[フォルダー]** の隣にある矢印を選択します。 
-  
-Outlook.com で誤って何かを削除した場合、それが [削除済みアイテム] または [迷惑メール] フォルダーにまだあれば、復元できます。[メールの回復アドイン](https://appsource.microsoft.com/product/office/WA104380447)を使用すれば、[削除済みアイテム] フォルダーを空にした後でもアイテムを復元できることがあります (クラシック Outlook.com のみ)。詳細については、[削除したメール メッセージを回復する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)方法に関するページと [Outlook.com でアドインを使用する](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf)方法に関するページをお読みください。
-  
-フォルダーが表示されないことがありますが、Microsoft ではその修正に取り組んでいます。**検索**を利用することで、表示されないフォルダー内に保存されているアイテムを見つけることができます。サインアウトし、再びサインインすると表示されることもあります。[サインアウトするにはここをクリックしてください](https://login.live.com/logout.srf)。
-  
+フォルダーを確認できない場合は、フォルダーが折りたたまれていないことを確認します。左側のウィンドウの [**フォルダー**] の隣にある矢印を選択します。
 
+Outlook.com のフォルダーを誤って削除した場合、削除済みアイテム フォルダー内に残っていれば、そのフォルダーを復元できます。 詳細については、「[Outlook.com で削除されたメール メッセージを復元する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)」をご覧ください。
+
+フォルダーの一覧に一部のフォルダーが表示されない場合があるという問題が発生しています。 現在、この問題の修正に取り組んでいます。 さらに**検索**を使用して見つからないフォルダー内のアイテムを探せます。また、サインアウトしてからサインインし直すと上手くいく場合があります。 [こちらをクリックしてサインアウトします](https://login.live.com/logout.srf)
