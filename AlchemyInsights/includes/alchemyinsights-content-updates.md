@@ -3,26 +3,17 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 4/22/2019 | [Alchemy - Outlook プロファイルを再作成する](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | 更新 |
-| 4/26/2019 | [8000003 表示されないメール、予定表、または連絡先のアイテムを検索および復元する方法](/AlchemyInsights/how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-it) | 更新日時 |
-
-
 ## <a name="week-of-april-29-2019"></a>2019年4月29日の週
 
 
 | 公開日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 4/29/2019 | [DLP が期待どおりに機能していない](/AlchemyInsights/dlp-not-working-as-expected) | 更新日時 |
-| 4/29/2019 | [DLP ポリシーのヒントが機能しない](/AlchemyInsights/dlp-policy-tips-not-working) | 変更 |
+| 4/29/2019 | [DLP ポリシーのヒントが機能しない](/AlchemyInsights/dlp-policy-tips-not-working) | 更新日時 |
 | 4/29/2019 | [クレジット カード番号の DLP ルールが機能しない](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | 更新日時 |
-| 4/29/2019 | [SSN に関する DLP ルールが機能しない](/AlchemyInsights/dlp-rule-for-ssn-not-working) | 更新日時 |
+| 4/29/2019 | [SSN に関する DLP ルールが機能しない](/AlchemyInsights/dlp-rule-for-ssn-not-working) | 修正 |
 | 4/29/2019 | [米国の銀行口座番号の DLP ルールが機能しない場合](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | 修正 |
-| 4/29/2019 | [US/UK パスポート番号の DLP ルールが機能しない](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | 変更 |
+| 4/29/2019 | [US/UK パスポート番号の DLP ルールが機能しない](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | 更新日時 |
 | 4/29/2019 | [メールボックスへの保留の特定](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | 更新日時 |
 | 4/29/2019 | [訴訟ホールドまたはインプレース保持の情報](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | 更新日時 |
 | 4/29/2019 | [アーカイブ メールボックスへのメール メッセージの移動](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | 更新日時 |
@@ -51,12 +42,12 @@
 | 5/6/2019 | [Outlook.com での移動または削除の取り消し](/AlchemyInsights/outlook-com-undo-move-delete) | 更新日時 |
 | 5/6/2019 | [Outlook.com プレミアム](/AlchemyInsights/outlook-com-premium) | 更新日時 |
 | 5/7/2019 | [G Suite から Office 365 に電子メールを移行する](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | 更新日時 |
-| 5/7/2019 | [1800005 クイック検索カタログを再作成して検索の問題を修正する](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | 更新日時 |
+| 5/7/2019 | [1800005 クイック検索カタログを再作成して検索の問題を修正する](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | 更新 |
 | 5/7/2019 | Outlook.com 更新 | 削除 |
 | 5/7/2019 | 8000009 Outlook.com でフォルダーを作成する | 削除 |
 | 2019/5/8 | [Microsoft Skype for Business でのサインインに関する問題](/AlchemyInsights/problems-signing-in-to-microsoft-skype-for-business) | 更新日時 |
 | 5/9/2019 | [Outlook.com メールボックスの外観の変更](/AlchemyInsights/outlook-com-change-look-of-mailbox) | 更新日時 |
-| 5/9/2019 | [1800005 クイック検索カタログを再作成して検索の問題を修正する](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | 更新日時 |
+| 5/9/2019 | [1800005 クイック検索カタログを再作成して検索の問題を修正する](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | 更新 |
 | 5/10/2019 | [Alchemy - Outlook のクラッシュをトラブルシューティングする手順](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | 更新日時 |
 
 
@@ -98,3 +89,23 @@
 | 5/24/2019 | [Outlook on the web で言語、日付と時刻の形式、またはタイムゾーンを変更する](/AlchemyInsights/owa-how-to-change-language) | 更新日時 |
 | 5/24/2019 | [Alchemy インライン画像のテスト](/AlchemyInsights/testing-alchemy-inline-images) | 更新日時 |
 | 5/24/2019 | 8000019 Outlook.com で連絡先をインポートする | 削除 |
+
+
+## <a name="week-of-may-27-2019"></a>2019年5月27日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 5/29/2019 | [Outlook.com の連絡先を同期する](/AlchemyInsights/outlook-com-sync-contacts) | 更新日時 |
+| 5/29/2019 | [Outlook.com でフォルダーを削除する](/AlchemyInsights/outlook-com-delete-folder) | 更新日時 |
+| 5/30/2019 | [Outlook.com で連絡先をエクスポートする](/AlchemyInsights/outlook-com-export-contacts) | 更新日時 |
+| 5/31/2019 | [2006-電子情報開示の設定](/AlchemyInsights/ediscovery-settings) | 更新日時 |
+| 5/31/2019 | [Project Web App サイトへのアクセスが拒否される](/AlchemyInsights/access-denied-to-a-project-online-site) | 更新日時 |
+| 5/31/2019 | 8000062 Outlook.com でのフォルダーの移動 | 削除 |
+| 5/31/2019 | [Outlook.com でフォルダーを作成する](/AlchemyInsights/outlook-com-create-folder) | 更新日時 |
+| 5/31/2019 | [Outlook.com でフォルダーを削除する](/AlchemyInsights/outlook-com-delete-folder) | 更新日時 |
+| 5/31/2019 | [Alchemy インライン画像のテスト](/AlchemyInsights/testing-alchemy-inline-images) | 更新日時 |
+| 5/31/2019 | [Outlook.com にフォルダーがありません](/AlchemyInsights/outlook-com-missing-folders) | 更新日時 |
+| 5/31/2019 | 8000031 ファイルから写真を削除できない | 削除 |
+| 5/31/2019 | 8000036 Outlook.com で画像を変更する | 削除 |
+| 5/31/2019 | 8000036 Outlook.com でメール名を変更する | 削除 |

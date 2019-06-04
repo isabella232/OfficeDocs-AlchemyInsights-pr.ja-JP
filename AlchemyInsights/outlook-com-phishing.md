@@ -1,27 +1,29 @@
 ---
-title: Outlook.com のフィッシング
+title: Outlook.com でのフィッシングの処理
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000289
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "9000289"
+- "1895"
+ms.openlocfilehash: d9ee27eb9dbc97de21801d3b13ebfccfdbe6f1bc
+ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31045222"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34680970"
 ---
-# <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Outlook.com のフィッシング詐欺メールに対処する方法
+# <a name="how-to-deal-with-a-phishing-email"></a>フィッシング電子メールを処理する方法
 
-フィッシング詐欺とは、合法に見せかけ、あなたの個人情報を入手しようとしたり、あなたのお金を盗もうとしたりするメールのことです。 詐欺師はスプーフィングと呼ばれる技法を使用し、自分から受信したようにメールを見せかけることもできます。
+フィッシング詐欺とは、合法的に表示される電子メールのことですが、実際には個人情報や金銭を盗もうとしています。 詐欺師はスプーフィングと呼ばれる技法を使用し、自分から受信したようにメールを見せかけることもできます。
 
-フィッシング詐欺のようなメールを受け取った場合、メッセージを選択してから[**迷惑メール**] > [**フィッシング**] > [**レポート**]の順に選択して報告できます。 
+フィッシング詐欺に似たような電子メールを受信した場合は、メッセージを選択してから [**迷惑** > **フィッシング**] を選択することによって、それを報告できます。
 
-メッセージをフィッシングとしてマークすると、送信者のみが報告されます。その送信者が将来メッセージを送信することを妨げることではありません。 その送信者をブロックするには、その送信者を受信拒否リストに追加する必要があります。 詳細については、「[Outlook.com で差出人のブロックまたはブロック解除を行う](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)」を参照してください。
+*注:* メッセージをフィッシングとしてマークした場合、メッセージは送信者に対してのみ報告されます。その送信者が将来メッセージを送信することを妨げることではありません。 その送信者をブロックするには、その送信者を受信拒否リストに追加する必要があります。 詳細については、「[Outlook.com で差出人のブロックまたはブロック解除を行う](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)」を参照してください。
 
-[Outlook.comでの迷惑行為、フィッシング詐欺、またはスプーフィングの処理](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3)と[Office 365 サブスクライバー用の Outlook.com の高度なセキュリティ](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2)に関する詳細を参照してください。
+Outlook.com および[Office 365 サブスクライバーの高度な Outlook.com セキュリティ](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2)[で、乱用、フィッシング、またはスプーフィングを処理](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3)する方法について説明します。
