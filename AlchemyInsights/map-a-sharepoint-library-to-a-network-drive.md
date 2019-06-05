@@ -1,22 +1,22 @@
 ---
 title: SharePoint ライブラリをネットワーク ドライブにマップする
-ms.author: toresing
-author: tomresing
-manager: scotv
-ms.date: 12/17/2018
+ms.author: kirks
+author: Techwriter40
+manager: pamgreen
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: ''
 ms.custom: ''
-ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 7a3bc4bfefed70df50edc9c01b343b597b24d951
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.assetid: ''
+ms.openlocfilehash: c22b44b078e889de88382d2368253427cb9b3535
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763329"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34703373"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 
