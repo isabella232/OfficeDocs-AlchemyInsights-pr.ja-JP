@@ -1,24 +1,26 @@
 ---
-title: 8000048 Outlook.com でメールを作成する場合に連絡先を選択できない
+title: Outlook.com で電子メールを作成する場合、連絡先を選択できません
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000048
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 1ff45a8f7e3f774864050f091604e896ecacc596
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "8000048"
+- "818"
+- "879"
+- "880"
+ms.openlocfilehash: 4353fc8c043524f15b24e1949bed47d1ad1c5023
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030732"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34703123"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="6a001-102">メールを作成する場合に連絡先を選択できない</span><span class="sxs-lookup"><span data-stu-id="6a001-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="be10f-102">メールを作成する場合に連絡先を選択できない</span><span class="sxs-lookup"><span data-stu-id="be10f-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="6a001-p101">新しいメールを作成するときに、[**宛先**] または [**CC**] ボタンをクリックする場合、一部のお客様は自分の連絡先のリストを表示できない可能性があります。名前を選択するには、[**宛先**] または [**CC**] フィールドで入力を始めると、関連する連絡先が表示されます。</span><span class="sxs-lookup"><span data-stu-id="6a001-p101">When composing a new email and clicking the **To** or **Cc** buttons, some customers might not see their list of contacts. To select names, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span> 
-  
-
+<span data-ttu-id="be10f-103">新しいメールを作成するときに、[**宛先**] または [ **Cc** ] ボタンをクリックしたときに、連絡先の一覧が表示されないお客様もいます。</span><span class="sxs-lookup"><span data-stu-id="be10f-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="be10f-104">連絡先を選択するには、[宛先] または [ **Cc** ] フィールド**へ**の入力を開始し、関連する連絡先を表示します。</span><span class="sxs-lookup"><span data-stu-id="be10f-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
