@@ -2,19 +2,19 @@
 title: ハイブリッド キーの取得
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: c9b28dd1a8a7e4ac2b38a95868461e2f1d137f1d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: ab49e4017350a22bd77fa132b2ee7a09a0d38258
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934961"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752780"
 ---
 # <a name="getting-an-exchange-hybrid-key"></a>Exchange ハイブリッド キーの取得
 

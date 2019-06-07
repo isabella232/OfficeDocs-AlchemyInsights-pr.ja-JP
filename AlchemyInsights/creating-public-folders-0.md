@@ -2,19 +2,19 @@
 title: パブリック フォルダーの作成
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 31208b68063041bf52ee11a7214e6709b18a03b3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901626"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753568"
 ---
 # <a name="creating-public-folders"></a>パブリック フォルダーの作成
 

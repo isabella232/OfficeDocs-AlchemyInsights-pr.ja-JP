@@ -2,19 +2,19 @@
 title: メールボックスの準備の遅延
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 2/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 1dd202626bbf7c7fd9169867f38f3cf7a96a660d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 99b6f7d92729f953c67ef742026876663d37a290
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937049"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751922"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>ユーザーのメールボックスを作成しています
 
