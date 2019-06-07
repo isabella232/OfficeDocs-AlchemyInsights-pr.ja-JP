@@ -2,7 +2,7 @@
 title: 1581 Outlook on the web で共有メールボックスを開いて使用する
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 1581
 ms.assetid: ''
-ms.openlocfilehash: 8ff96d1a7beee24c682d300c97fd34f699c8c226
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 80c693867494194c4428d323b42813588aa11819
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419571"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755818"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開いて使用する
 

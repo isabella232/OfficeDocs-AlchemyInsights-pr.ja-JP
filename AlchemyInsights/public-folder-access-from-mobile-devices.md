@@ -2,19 +2,19 @@
 title: モバイル デバイスからのパブリック フォルダーへのアクセス
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 6e450c220b3baba5d8a3fb696348f7d58b6ab721
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cbb8eece0f8b04ab6b34ae81bfc95895c8e9208b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942017"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762121"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>モバイル デバイスからのパブリック フォルダーへのアクセス
 
