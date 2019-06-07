@@ -2,19 +2,19 @@
 title: 訴訟ホールドまたはインプレース保持の情報
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: a76c583d6c74be1474e42ae3d73218184faf0487
-ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
-ms.translationtype: HT
+ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470201"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754935"
 ---
 - 訴訟ホールドまたはインプレース保持をメールボックスに適用するには、[Exchange Online プラン 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ライセンスが必要です。他のプランをご利用の場合は、別の [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) ライセンスをそのアカウントに割り当てます。 
     

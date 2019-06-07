@@ -2,19 +2,19 @@
 title: Exchange 管理センターでアイテム保持ポリシーが動作しない
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6c1f51c530568cecaeea120275128bd1703cc974
-ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
-ms.translationtype: HT
+ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470273"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761587"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理センターでのアイテム保持ポリシー
 
