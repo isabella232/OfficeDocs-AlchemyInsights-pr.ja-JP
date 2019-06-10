@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420853"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771419"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Teams 無料版にサインアップしたいのですが、サインアップできません。
 
-- Office 365 の職場または学校アカウントを使用している場合、この無料版は使用できません。 ただし、お客様の組織で Teams を既に使用している場合があります。 使用していない場合、[Microsoft Teams](https://products.office.com/ja-JP/microsoft-teams/group-chat-software) にアクセスして、組織が無料試用版の対象かどうかをご確認ください。
+- Office 365 の職場または学校アカウントを使用している場合、この無料版は使用できません。 ただし、お客様の組織で Teams を既に使用している場合があります。 使用していない場合、[Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) にアクセスして、組織が無料試用版の対象かどうかをご確認ください。
 
 - 教育機関は、この無料プランの対象外です。 ただし、教員や学生は Office 365 の無料版を取得でき、その中に通常版の Microsoft Teams が含まれています。 「[Microsoft Teams 用の Office 365 ライセンス](https://docs.microsoft.com/microsoftteams/office-365-licensing)」を参照してください。
 

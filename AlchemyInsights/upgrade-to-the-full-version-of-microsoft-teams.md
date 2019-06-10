@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.openlocfilehash: cec2d8ee096f67748bbb38f36c56fb20b586f840
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468992"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771383"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>製品版の Microsoft Teams にアップグレードする
 
-Microsoft Teams を無料版から通常版にアップグレードする必要がありますか。 「[Microsoft Teams を無料で Office 365 月額プラン バージョンにアップグレードする](https://docs.microsoft.com/ja-JP/microsoftteams/upgrade-freemium)」を参照してください。
+Microsoft Teams を無料版から通常版にアップグレードする必要がありますか。 「[Microsoft Teams を無料で Office 365 月額プラン バージョンにアップグレードする](https://docs.microsoft.com/microsoftteams/upgrade-freemium)」を参照してください。
 
 次の要件を満たしている必要があります。
 - Teams の現在の無料版にサインアップしたユーザー自身である。
