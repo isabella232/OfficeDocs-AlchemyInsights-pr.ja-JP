@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000078
-ms.openlocfilehash: b6dae21cf06a4aa6bc35f8f42b0d54423f378506
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 655be67dcc0bbbbaf7f4dc0077d4ac95934aa657
+ms.sourcegitcommit: 0121f0a2ae35574588194374cda5e1e94021eada
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33527748"
+ms.lasthandoff: 06/10/2019
+ms.locfileid: "34815129"
 ---
 # <a name="empty-inbox"></a>空の受信トレイ
 
@@ -26,7 +26,9 @@ ms.locfileid: "33527748"
 
 受信トレイを空にして、すべてのメールを削除するには、次のようにします。
 
-1. メッセージ一覧の上部にある [**受信トレイ**] の横にある円を選択して、すべてのメッセージを選択します。
+1. メッセージ一覧の上部にある [[受信トレイ](https://outlook.live.com/mail/inbox)] の横にある円を選択して、すべてのメッセージを選択します。
 1. ページの上部で、[空の**フォルダー** ] を選択します (または、[優先受信トレイ] がオンになっている場合は、**他**に空の**フォーカス** / がある場合)。
 1. [**すべて削除**] を選択します。
 1. 削除されたすべてのメッセージを削除するには、削除[済みアイテムフォルダー](https://outlook.live.com/mail/deleteditems)を開き、[**空のフォルダー** > を**削除**する] を選択して、ページの上部にある [**このフォルダーから削除されたアイテムを復元**する] を選択し、[空の**フォルダー** ] を再度選択します。.
+
+詳細については、「 [Outlook.com でメールを削除](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)する」を参照してください。
