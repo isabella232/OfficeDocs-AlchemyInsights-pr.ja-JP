@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com パスワードの変更 - フランス語
+title: Outlook.com change password-フランス語
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738310"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820189"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de passe dans Outlook.com
 
 Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.
 
-1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Modifier le mot de passe**.
+1. Accédez アンド[https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) Et sélectionnez **Sécurité du mot (de**)
 2. Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.
 3. Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.
 
