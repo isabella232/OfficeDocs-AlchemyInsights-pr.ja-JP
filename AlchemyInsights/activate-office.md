@@ -11,15 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 56f857d9dfa5e30b56788b2eeb3756ec06ea6e5a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 03f8a7559b2020d69899caddcddd69edc5a05ff5
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767001"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883309"
 ---
 # <a name="activate-office"></a>Office をライセンス認証する
 
 自分の職場または学校アカウントを使用してサインインすることで、Office をライセンス認証することができます。「[Office をライセンス認証する](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)」の記事の手順を使って、Office をライセンス認証します。
   
-
