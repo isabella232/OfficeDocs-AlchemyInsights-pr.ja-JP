@@ -1,25 +1,26 @@
 ---
-title: 8000035 Outlook.com ベータ版から従来の Outlook.com にロールバックする要求
+title: Outlook.com beta から classic Outlook.com へのロールバック要求
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 4f131df08d5a9cdb8c72f19381c6a7906665d2f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "8000035"
+ms.openlocfilehash: 82189ce9fedc7a85e0295ae06bb8c4190d8962f1
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754821"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117582"
 ---
 # <a name="the-new-outlookcom"></a>新しい Outlook.com
 
-Outlook.com ベータ版の利用をやめて、以前のバージョンの Outlook.com に戻すことはできなくなりました。
+新しい Outlook.com 環境を残して、Outlook.com のクラシックバージョンに戻ることはできなくなりました。
 
 新しい Outlook.com に関するご意見やご感想を送信する場合は、[UserVoice フォーラム](https://go.microsoft.com/fwlink/p/?linkid=851599)にアクセスしてください。ここに掲載されているアイデアや問題点のうち、対処してほしいとお考えのものに投票することができます。上位のコメントや提案には、担当者が直接返信します。
 
-[新しい Outlook.com に関する詳細](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Outlook.com に関するヘルプを表示します。](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
