@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 30e2dce5f327836f728fcd9aa4acc7ebaf52f054
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35085914"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199314"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>SharePoint から削除したアイテムを回復する
 
@@ -31,9 +31,9 @@ SharePoint からアイテムまたはサイトを削除しても、そのアイ
 
 [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-ファイルの復元機能。
+**ファイルの復元機能**
 
-OneDrive または SharePoint の多数のファイルを削除、上書き、破損した場合や多数のファイルがマルウェアに感染した場合には、ファイルの復元機能を使用して、OneDrive または SharePoint のライブラリ全体を以前の状態に復元できます。
+OneDrive または SharePoint の多数のファイルを削除、上書き、破損した場合や、マルウェアに感染した場合は、ファイルの復元機能を使用して OneDrive または SharePoint のライブラリ全体を以前の状態に復元できます。
 
 [OneDrive ライブラリを復元する](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
