@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
 ms.openlocfilehash: 0ee818002cf89ab0b2e5c94f8718b3df602d529d
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969502"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370223"
 ---
 # <a name="sync-a-users-profile-picture"></a>ユーザーのプロファイル画像を同期する
 

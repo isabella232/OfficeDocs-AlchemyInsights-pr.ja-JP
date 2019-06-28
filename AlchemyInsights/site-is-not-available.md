@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
 ms.openlocfilehash: 95911bd58f39ff45e68313a18f167e8ba91b0070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911597"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370115"
 ---
 # <a name="site-is-not-available"></a>サイトを使用できない
 

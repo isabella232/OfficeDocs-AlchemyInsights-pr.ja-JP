@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.openlocfilehash: 2b7f27e38412fc2a1dea46027e926c660231ed8b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903065"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401364"
 ---
 # <a name="file-open-read-only"></a>読み取り専用で開いているファイル
 

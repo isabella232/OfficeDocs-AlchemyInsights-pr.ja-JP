@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926825"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401904"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online のファイルのアップロード制限
 

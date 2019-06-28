@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
 ms.openlocfilehash: 1984a6859510254b4bcdb2a861df3456c253e161
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388462"
 ---
 # <a name="questions-about-check-in-and-out-files"></a>ファイルのチェックインとチェックアウトに関する質問
 

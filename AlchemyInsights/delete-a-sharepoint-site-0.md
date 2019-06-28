@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747999"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406317"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 グループに属しているサイトを削除する: 
 
@@ -30,7 +30,7 @@ ms.locfileid: "31747999"
     
 メモ: グループを削除しても、SharePoint からサイトが削除されるまで時間がかかる場合があります。
   
-**コミュニケーション サイトまたはクラシック サイトを削除する:**
+**コミュニケーション サイトまたはクラシック サイトを削除する:** 
 
 1. サイトにアクセスします。
   
@@ -38,7 +38,7 @@ ms.locfileid: "31747999"
   
 3. [**サイトの設定**] をクリックします。[**サイト情報**] または [**サイトの操作**] で [**このサイトを削除**] をクリックして、[**削除**] をクリックします。
   
-**SharePoint のサイト コレクションを削除する**
+**SharePoint のサイト コレクションを削除する:** 
 
 サイトを削除する:
   
@@ -46,7 +46,7 @@ ms.locfileid: "31747999"
     
 2. [リボン] ツールバーで、**[削除]** をクリックします。
     
-**サイトを誤って削除した場合**
+**誤ってサイトを削除した場合**
 
 「[削除されたサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660)」を参照してください。
   

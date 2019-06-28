@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030716"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406389"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>受信トレイでフィッシング メールを処理する
 

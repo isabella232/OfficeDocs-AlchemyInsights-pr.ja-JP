@@ -10,11 +10,11 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: aad9f863bc9fd7d5522c480bd1a7d15f3a80ff4f
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "31014858"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389720"
 ---
 # <a name="recall-or-replace-an-email-message"></a>送信したメール メッセージを取り消す、または置き換えます
 

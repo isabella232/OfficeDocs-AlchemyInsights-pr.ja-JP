@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939677"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400938"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Microsoft Flow の概要
 

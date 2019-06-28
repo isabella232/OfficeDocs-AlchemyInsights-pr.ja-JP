@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: a4e1445e74137b38af4bb1d753082facd30c4cae
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408508"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>ユーザーの既定の OneDrive 記憶域を変更する
 

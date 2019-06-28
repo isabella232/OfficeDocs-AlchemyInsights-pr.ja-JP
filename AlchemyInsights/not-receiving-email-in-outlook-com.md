@@ -11,11 +11,11 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: ba0fdd7f59d566a8f214cc57d63aa637665cb770
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030767"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391371"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>Outlook.com でメールを受信できない
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
 ms.openlocfilehash: db019b36019fc4e31516b8871a9b683a53ad192d
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31754882"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407069"
 ---
 # <a name="create-a-site"></a>サイトを作成する
 
