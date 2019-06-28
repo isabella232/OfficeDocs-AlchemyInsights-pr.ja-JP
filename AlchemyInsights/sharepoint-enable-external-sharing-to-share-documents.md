@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35085912"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223861"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online の外部共有を有効にする
 
@@ -21,22 +21,22 @@ ms.locfileid: "35085912"
 
 外部共有の詳細については、次のリンクを参照してください。
 
-[外部ユーザーとは](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [外部ユーザーとは](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[サイトやドキュメントの共有時に行われる処理](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [サイトやドキュメントの共有時に行われる処理](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[SharePoint Online の外部共有をオンまたはオフにする](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [SharePoint Online の外部共有を有効または無効にする](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[サイトの外部共有を有効または無効にする](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [サイトの外部共有を有効または無効にする](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[SharePoint Online を企業間 (B2B) エクストラネット ソリューションとして使用する](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [SharePoint Online を企業間 (B2B) エクストラネット ソリューションとして使用する](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[SharePoint のファイルまたはフォルダーを共有する](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint のファイルまたはフォルダーを共有する](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[OneDrive または SharePoint のファイルまたはフォルダーの共有を停止またはアクセス許可を変更する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [OneDrive または SharePoint のファイルまたはフォルダーの共有を停止またはアクセス許可を変更する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[外部ユーザーを削除する](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [外部ユーザーを削除する](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 外部ユーザーに関するエラーが発生する場合:&nbsp;次のリンクを参照してください。
 

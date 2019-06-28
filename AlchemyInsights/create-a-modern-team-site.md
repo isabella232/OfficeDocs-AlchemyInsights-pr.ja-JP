@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917537"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407141"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Office 365 グループに接続されているチーム サイトを作成する
 
