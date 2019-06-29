@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "640"
+- "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 940a42679f482a77e2f4ac93b1cd127fdd0c443f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418078"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379430"
 ---
-# <a name="move-email-to-office-365"></a><span data-ttu-id="93107-102">メールを Office 365 へ移動する</span><span class="sxs-lookup"><span data-stu-id="93107-102">Move email to Office 365</span></span>
+# <a name="move-email-to-office-365"></a><span data-ttu-id="136a0-102">メールを Office 365 へ移動する</span><span class="sxs-lookup"><span data-stu-id="136a0-102">Move email to Office 365</span></span>
 
-<span data-ttu-id="93107-p101">Office 365 へのメールの移行のために、いくつかのオプションが用意されています。[Office 365 のメール移行アドバイザー](https://aka.ms/alchemyinsight-mailmigrationadvisor)を使用すると、自分の環境に合わせて最適なオプションを選択することができるほか、メールの移行に必要な操作を確認できます。</span><span class="sxs-lookup"><span data-stu-id="93107-p101">You have several options for migrating email to Office 365. The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span> 
+<span data-ttu-id="136a0-p101">Office 365 へのメールの移行のために、いくつかのオプションが用意されています。[Office 365 のメール移行アドバイザー](https://aka.ms/alchemyinsight-mailmigrationadvisor)を使用すると、自分の環境に合わせて最適なオプションを選択することができるほか、メールの移行に必要な操作を確認できます。</span><span class="sxs-lookup"><span data-stu-id="136a0-p101">You have several options for migrating email to Office 365. The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
   
-<span data-ttu-id="93107-105">移行を開始せずにオプションの説明を参照するには、「[複数のメール アカウントを Office 365 に移行する方法に](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="93107-105">To read about your options without starting the migration, please see [Ways to migrate multiple email accounts to Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842).</span></span>
+<span data-ttu-id="136a0-105">移行を開始せずにオプションについて確認するには、「[移行パスの決定](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="136a0-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
 
-<span data-ttu-id="93107-106">対象となる場合、移行のヘルプについては、[FastTrack で Office 365 を導入する](https://www.microsoft.com/fasttrack/microsoft-365/office-365)方法に関するページもご確認ください。</span><span class="sxs-lookup"><span data-stu-id="93107-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assited help with migration, if eligible.</span></span>
+<span data-ttu-id="136a0-106">また、対象が該当する場合は、「 [FastTrack を使用して Office 365 を導入](https://www.microsoft.com/fasttrack/microsoft-365/office-365)する」ページで、移行に関するヘルプを参照してください。</span><span class="sxs-lookup"><span data-stu-id="136a0-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
-

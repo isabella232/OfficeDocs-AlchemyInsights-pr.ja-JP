@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "304"
+- "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: d35834aa72d0a052c819fc2f07019e602e7c7850
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761674"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362362"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="254a3-102">AAD ID 同期状態を確認する</span><span class="sxs-lookup"><span data-stu-id="254a3-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="baf12-102">AAD ID 同期状態を確認する</span><span class="sxs-lookup"><span data-stu-id="baf12-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="254a3-103">同期状態を確認するのは簡単です。</span><span class="sxs-lookup"><span data-stu-id="254a3-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="baf12-103">同期状態を確認するのは簡単です。</span><span class="sxs-lookup"><span data-stu-id="baf12-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="254a3-104">Microsoft 365 管理センターにサインインして、ホーム ページで **[DirSync の状態]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="254a3-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
-    
-- <span data-ttu-id="254a3-105">または、[ユーザー] \>、[アクティブなユーザー] の順に移動し、[アクティブなユーザー] ページで [その他] \>、[ディレクトリ同期] の順に選択することができます。</span><span class="sxs-lookup"><span data-stu-id="254a3-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
-    
-- <span data-ttu-id="254a3-106">[ディレクトリ同期] ウィンドウで、[DirSync の管理に移動] を選択します。</span><span class="sxs-lookup"><span data-stu-id="254a3-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
-    
-<span data-ttu-id="254a3-p101">ディレクトリの同期で問題がある場合は、このページにエラーが一覧表示されます。発生する可能性があるさまざまなエラーの詳細については、[Office 365 のディレクトリ同期エラーの識別](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="254a3-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
-  
+- <span data-ttu-id="baf12-104">Microsoft 365 管理センターにサインインし、ホームページの [ **DirSync Status** ] を選択します。</span><span class="sxs-lookup"><span data-stu-id="baf12-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
+- <span data-ttu-id="baf12-105">または、[ユーザー] \>、[アクティブなユーザー] の順に移動し、[アクティブなユーザー] ページで [その他] \>、[ディレクトリ同期] の順に選択することができます。</span><span class="sxs-lookup"><span data-stu-id="baf12-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+
+- <span data-ttu-id="baf12-106">[ディレクトリ同期] ウィンドウで、[DirSync の管理に移動] を選択します。</span><span class="sxs-lookup"><span data-stu-id="baf12-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+
+<span data-ttu-id="baf12-p101">ディレクトリの同期で問題がある場合は、このページにエラーが一覧表示されます。発生する可能性があるさまざまなエラーの詳細については、[Office 365 のディレクトリ同期エラーの識別](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="baf12-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+  
