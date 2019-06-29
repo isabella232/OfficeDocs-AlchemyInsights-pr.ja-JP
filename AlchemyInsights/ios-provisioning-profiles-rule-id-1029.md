@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "322"
+- "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: a13f24e9f9a984eb6c45a84e6f46176413f08f5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914657"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381554"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS プロビジョニング プロファイル
 
@@ -21,4 +24,3 @@ Apple iOS 基幹業務では、プロビジョニング プロファイルの概
   
 新しいプロビジョニング プロファイルを作成し、Intune によって展開された iOS LOB アプリに関連付ける方法については、「[iOS アプリ プロビジョニング プロファイルを使用して、アプリが期限切れにならないようにする](https://docs.microsoft.com/intune/app-provisioning-profile-ios)」を参照してください。
   
-

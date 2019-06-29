@@ -8,12 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom:
+- "1835"
+- "1889"
+- "9000225"
+ms.openlocfilehash: 52c63d8909796f8d0d114a46c5255e4073e8c47d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761764"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369778"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online のクラシック モードへの制限
 

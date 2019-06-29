@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
 ms.custom:
-- "8000060"
-- "1010"
 - "1006"
 - "1008"
 - "1009"
-ms.openlocfilehash: 057354a5ba05a08b80d3bfa817f1110dc1c457e6
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+- "1010"
+- "8000060"
+ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34730856"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373886"
 ---
 # <a name="security-info-and-security-codes"></a>セキュリティ情報とセキュリティ コード
 

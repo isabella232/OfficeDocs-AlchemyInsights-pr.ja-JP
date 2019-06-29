@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000243
-ms.openlocfilehash: 7572a0fe9c6113a365225550e3471e15ea9082cf
-ms.sourcegitcommit: eb715fe9cb01f50bde3cae0f7739edcb24c95aad
+ms.custom:
+- "1831"
+- "9000243"
+ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641335"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373310"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com プレミアム
 
@@ -24,5 +26,5 @@ ms.locfileid: "33641335"
 
 **新しいサブスクライバー**
 
-- 申し訳ございません、Outlook.com プレミアムは受付を終了しました。 
+- 申し訳ございません、Outlook.com プレミアムは受付を終了しました。
 - 多くの [機能とメリット](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) は [Office 365 Home と Office 365 Personal のサブスクリプション契約](https://go.microsoft.com/fwlink/?linkid=2017122)に含まれています。

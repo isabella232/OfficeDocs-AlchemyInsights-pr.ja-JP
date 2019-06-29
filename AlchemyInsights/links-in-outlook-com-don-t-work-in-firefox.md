@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
 ms.custom:
-- "8000048"
 - "813"
-ms.openlocfilehash: 85b3017fe15ae5133082511605edd4e895397ee5
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+- "8000048"
+ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
+ms.openlocfilehash: d729927235b12560efeb88294cbae2604ea497e8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34703409"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380870"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Outlook.com のリンクが Firefox で機能しない
 

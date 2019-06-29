@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "977"
+- "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ca0d8b3181ea06a4e1ce9877843ed0eb5196b334
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941045"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370103"
 ---
 # <a name="rename-a-site"></a>サイトの名前を変更する
 
@@ -21,4 +24,3 @@ ms.locfileid: "29941045"
   
 注: SharePoint Online の URL 内のドメイン名 (上記 URL の contoso 部分) を変更しようとしても、それを行うことはできません。[ドメイン名の変更](https://go.microsoft.com/fwlink/?Linkid=2018696)に関するページを参照してください。
   
-

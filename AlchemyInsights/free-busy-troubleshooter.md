@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 607
+ms.custom:
+- "607"
+- "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 59ebad4c8b5f26c6e75103f1a611f360af62f091
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: de4833568bf9d3ae5e96d740dea2d998cfb9c0ce
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754789"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387134"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>予定表の空き時間情報の表示に関する問題
 
 他の予定表の空き時間情報を表示することができない場合、または自分の予定表の空き時間情報を他のユーザーが表示することができない場合、[Microsoft Office 365 サポート/回復アシスタント](https://diagnostics.office.com/)を使用してください。
   
-

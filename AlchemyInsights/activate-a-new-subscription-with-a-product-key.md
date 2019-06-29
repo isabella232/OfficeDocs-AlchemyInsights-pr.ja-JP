@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "480"
+- "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 7907f873e6873239c0a981432036899c5b917728
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758975"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359482"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>プロダクト キーで新しいサブスクリプションをアクティブにする
 

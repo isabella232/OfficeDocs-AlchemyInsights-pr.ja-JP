@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
-ms.openlocfilehash: b11feec336371a19c09217d1ee88dc1cef01f9d8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.custom:
+- "782"
+- "6200002"
+ms.openlocfilehash: 211069337b8fb671d2da6d1bf364bd4b8a02cf36
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420345"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353794"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Microsoft Intune での Apple MDM プッシュ通知証明書の問題のトラブルシューティング
 
-今すぐ問題を解決するには、以下に一覧表示されているリソースを確認します。 
+今すぐ問題を解決するには、以下に一覧表示されているリソースを確認します。
   
-1. Apple MDM プッシュ通知証明書を構成または更新するには、[このドキュメント](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)を確認してください。 
-    
-2. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。 
-    
-3. 登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)をご覧ください。
-    
+1. Apple MDM プッシュ通知証明書を構成または更新するには、[このドキュメント](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)を確認してください。
 
+2. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。
+
+3. 登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)をご覧ください。

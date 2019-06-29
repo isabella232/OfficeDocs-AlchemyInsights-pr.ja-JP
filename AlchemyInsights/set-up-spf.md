@@ -7,20 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "37"
+- "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 5d7502e88ad17fd0e526d7f7cca56fe173275d84
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 36744da1109a73502161e9f723cd228f4c21fd6b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421785"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368698"
 ---
 # <a name="set-up-spf-in-office-365"></a>Office 365 で SPF をセットアップする
 
 DNS レコードを更新し、カスタム ドメインに Sender Policy Framework (SPF) を使用して、カスタム ドメインから送信されたメールを検証できます。これにより、ご使用のドメインから「スプーフィング」メールが送信されるのを防ぐことができます。
   
 - [スプーフィングを防止するために Office 365 で SPF を設定する](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
-    
-- [すべての DNS レコードをセットアップする](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
-    
 
+- [すべての DNS レコードをセットアップする](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

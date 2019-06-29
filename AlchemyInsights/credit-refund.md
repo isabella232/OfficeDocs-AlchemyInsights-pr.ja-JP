@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "897"
+- "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 5d29f3a92a6ffa8d52d1b607745e673f89ec10b1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911849"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363946"
 ---
 # <a name="creditrefund"></a>クレジット/払い戻し
 
@@ -26,4 +29,3 @@ ms.locfileid: "29911849"
   
 サブスクリプションからライセンスが削除されると、このようなライセンスの使用されていない時間が次回の請求でクレジットとして適用されます。これは、ライセンスが削除されてから受け取りまでに最大 30 日かかることがあります。
   
-

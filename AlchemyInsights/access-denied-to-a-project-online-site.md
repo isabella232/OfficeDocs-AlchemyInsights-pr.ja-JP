@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2700001
-ms.openlocfilehash: 14c8de57d65eb30408c1240b5f968146b44be6b6
-ms.sourcegitcommit: 17d9e813c0c5dd86eb26c706d6111a500ce63344
-ms.translationtype: HT
+ms.custom:
+- "2700001"
+- "1381"
+ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31754886"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359446"
 ---
 # <a name="help-with-permissions-in-project-online"></a>Project Online のアクセス許可に関するヘルプ
 
@@ -28,7 +30,3 @@ SharePoint アクセス許可モードを使用して、ユーザーに Project 
 5. **[共有]** を選択します。
 
 プロジェクトのアクセス許可モードを使用する場合、または詳細については、「[Project Online にユーザーを追加する](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)」を参照してください。
-
-
-  
-

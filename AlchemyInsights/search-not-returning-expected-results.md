@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1491
+ms.custom:
+- "1491"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030744"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355882"
 ---
 # <a name="content-search-not-returning-expected-results"></a>期待した結果を返さないコンテンツ検索
 

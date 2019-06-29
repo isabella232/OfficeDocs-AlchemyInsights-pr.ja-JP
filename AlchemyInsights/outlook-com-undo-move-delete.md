@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: f165c6d6d2c55833f994c87dbe7d9555f13b2ffc
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632156"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361066"
 ---
 # <a name="action-confirmations"></a>操作の確認
 

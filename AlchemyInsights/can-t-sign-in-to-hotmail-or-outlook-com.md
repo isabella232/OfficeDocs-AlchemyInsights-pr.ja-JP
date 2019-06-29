@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000077
+ms.custom:
+- "1198"
+- "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 313eef09bd321a06212a9f03ed988a91c34cc169
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: bea7ed27748e67d15b4e1a3c666be0cc7bddab8e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738359"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361210"
 ---
 # <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Hotmail または Outlook.com にサインインできない場合
 
@@ -23,4 +25,3 @@ Outlook.com アカウントをアクティブな状態に保つには、365 日�
   
 365 日以内にサインインしているのに、それでも Hotmail または Outlook.com アカウントにアクセスできない場合は、「[Outlook.com に対してサインインまたはサインアウトする方法](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409)」をご覧ください。
   
-

@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1575
+ms.custom:
+- "1575"
+- "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 713e361bcde8d4521f30b5955955931aa93b0af2
-ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
+ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470129"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371203"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps と Microsoft Flow のプランの延長
 

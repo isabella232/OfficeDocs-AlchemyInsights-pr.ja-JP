@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "624"
+- "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 6130d1c73804f4fabf4c6bf449f5b4b0473deb63
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756959"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360346"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>ユーザー メールボックスを共有メールボックスに変換する
 
@@ -24,4 +26,3 @@ ms.locfileid: "30756959"
   
 [続きを読む](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
   
-

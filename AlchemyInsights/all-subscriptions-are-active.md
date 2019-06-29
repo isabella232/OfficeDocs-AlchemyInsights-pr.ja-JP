@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "458"
+- "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 05441af38fff4f6920a801aceb0dc5456d276b2f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764373"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357286"
 ---
 # <a name="all-subscriptions-are-active"></a>すべてのサブスクリプションがアクティブです
 
@@ -24,4 +26,3 @@ ms.locfileid: "30764373"
   
 ご利用のサービスで問題が発生している場合は、[電話でのサポートを希望] オプションを使用して、サポート エンジニアにお問い合わせください。
   
-

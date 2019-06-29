@@ -6,15 +6,17 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 38fccb6dded65da55c381783e69dfa0aa4df0b98
-ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33858576"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376362"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com メールボックスの外観を変更する
 

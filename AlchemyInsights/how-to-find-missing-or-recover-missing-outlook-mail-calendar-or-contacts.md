@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 204
+ms.custom:
+- "204"
+- "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 9bf97ec7c5eee2218419cac73f23126086dd5c6e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417706"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384542"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook で表示されないメッセージ、連絡先、予定表のアイテムを検索して復元する方法
 
-- 影響を受けたコンピューターで[メール メッセージの送信、受信、検索で問題が発生しているツール](https://aka.ms/SaRA-OutlookSendReceive)を使用できます。このツールは、さまざまな問題を確認し、考えられる解決策を提案します。 
-    
-- [アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)」の手順を実行します。
-    
-- [クイック検索を使ってメッセージまたはアイテムを検索する](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
-    
-- [Windows 版 Outlook で削除済みのアイテムを復元する](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
-    
+- 影響を受けたコンピューターで[メール メッセージの送信、受信、検索で問題が発生しているツール](https://aka.ms/SaRA-OutlookSendReceive)を使用できます。このツールは、さまざまな問題を確認し、考えられる解決策を提案します。
 
+- [アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)」の手順を実行します。
+
+- [クイック検索を使ってメッセージまたはアイテムを検索する](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+
+- [Windows 版 Outlook で削除済みのアイテムを復元する](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

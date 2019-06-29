@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1244"
+- "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
-ms.translationtype: HT
+ms.openlocfilehash: f8c019c3d2567afc2eb7dce6a49986881d921f37
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747891"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380582"
 ---
 # <a name="manage-search-dictionaries"></a>検索辞書を管理する
 
@@ -21,4 +24,3 @@ SharePoint online の検索辞書は、新しい SharePoint Online 管理セン�
   
 検索辞書の用語セットが用語ストアに表示されていない場合は、24 時間お待ちください。24 時間経過しても辞書がまだ表示されない場合は、サポート チケットを記録してください。
   
-

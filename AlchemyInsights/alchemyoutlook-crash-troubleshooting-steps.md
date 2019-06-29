@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
-ms.translationtype: HT
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883132"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357574"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook のクラッシュをトラブルシューティングする手順
 
@@ -25,10 +27,9 @@ Outlook デスクトップがクラッシュする問題が発生する場合は
   
 手順 1: アドインに関する潜在的な問題を調査します。
   
-手順 2: Outlook を修復し、影響を受けているマシンで[サポート/回復アシスタント ツールを実行して Outlook スタート アップのエラーをトラブルシューティング](https://aka.ms/SaRA-OutlookWontStart)します。 
+手順 2: Outlook を修復し、影響を受けているマシンで[サポート/回復アシスタント ツールを実行して Outlook スタート アップのエラーをトラブルシューティング](https://aka.ms/SaRA-OutlookWontStart)します。
   
-手順 3: 新しい Outlook プロファイルを作成するか、影響を受けているマシンで [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile)を実行します。 
+手順 3: 新しい Outlook プロファイルを作成するか、影響を受けているマシンで [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile)を実行します。
   
 この問題がアップデート後に発生して、上記の手順がうまくいかない場合は、以前のビルドに戻すことが必要になる可能性があります。「[クイック実行 (C2R) 版の Office 2016 を以前のバージョンに戻す方法](https://support.microsoft.com/help/2770432)」を参照してください。
   
-

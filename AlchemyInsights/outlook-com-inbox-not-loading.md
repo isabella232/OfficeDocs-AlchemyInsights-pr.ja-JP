@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000078
-ms.openlocfilehash: 655be67dcc0bbbbaf7f4dc0077d4ac95934aa657
-ms.sourcegitcommit: 0121f0a2ae35574588194374cda5e1e94021eada
+ms.custom:
+- "1271"
+- "1963"
+- "8000078"
+ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34815129"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374534"
 ---
 # <a name="empty-inbox"></a>空の受信トレイ
 

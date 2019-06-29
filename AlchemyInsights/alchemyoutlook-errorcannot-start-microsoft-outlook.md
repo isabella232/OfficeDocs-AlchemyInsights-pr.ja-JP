@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "457"
+- "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: e2ac82eda2de9e493ba3efb1bd3477d4a9eec10e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756347"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357443"
 ---
-"Microsoft Outlook を起動できません"
-
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook エラー: "Microsoft Outlook を起動できません"
 
 Outlook 2016、Outlook 2013、または Outlook 2010 の起動に関する問題が発生しているか、"Microsoft Outlook を起動できません。Outlook ウィドウを開くことができません" というエラー メッセージが表示されている場合

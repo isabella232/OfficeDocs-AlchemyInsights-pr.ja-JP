@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "482"
+- "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759047"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370572"
 ---
 # <a name="reactivate-a-subscription"></a>サブスクリプションを再アクティブ化する
 
 サブスクリプションの有効期限が切れた場合、Microsoft が無効にした場合、または、サブスクリプションをサブスクリプション期間の途中にキャンセルした場合は、Microsoft 365 管理センターでサブスクリプションを再アクティブ化できます。
   
 1. 管理センターで、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、[**課金**]、[**サブスクリプション**] の順に選択します。
-    
-2. 再アクティブ化するサブスクリプションを選択して、[**再アクティブ化**] を選択します。
-    
-    [**再アクティブ化**] が選択可能な操作として表示されない場合は、[電話する] オプションを使用して、サポート エンジニアにサブスクリプションの再アクティブ化について問い合わせてください。 
-    
-3. 支払いの詳細を入力します。ここで既存の支払い情報を更新することができます。
-    
 
+2. 再アクティブ化するサブスクリプションを選択して、[**再アクティブ化**] を選択します。
+
+    [**再アクティブ化**] が選択可能な操作として表示されない場合は、[電話する] オプションを使用して、サポート エンジニアにサブスクリプションの再アクティブ化について問い合わせてください。
+
+3. 支払いの詳細を入力します。ここで既存の支払い情報を更新することができます。

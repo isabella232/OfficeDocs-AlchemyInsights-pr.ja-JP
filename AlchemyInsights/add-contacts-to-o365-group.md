@@ -9,13 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.custom:
+- "78"
+- "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 1c4f492a7c9a9d2100252a3667f130de954b288e
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
-ms.translationtype: HT
+ms.openlocfilehash: e22a2ba728c5eaca60cef77cd69ab9ad4c507ce1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34728349"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358690"
 ---
 # <a name="add-contacts-to-an-office-365-group"></a>連絡先を Office 365 グループに追加する
 

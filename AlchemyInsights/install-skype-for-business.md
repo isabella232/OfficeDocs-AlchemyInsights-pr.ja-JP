@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "110"
+- "4000002"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 6c452e629723b3c24a006dfd9fad72bbc248287d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 606b83e07d4238baf1502f4ece61ab49e89def8d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758111"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381950"
 ---
 # <a name="install-skype-for-business"></a>Skype for Business のインストール
 
 Skype for Business をインストールするには、「[Skype for Business をインストールする](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)」の記事の手順を実行します。
   
-

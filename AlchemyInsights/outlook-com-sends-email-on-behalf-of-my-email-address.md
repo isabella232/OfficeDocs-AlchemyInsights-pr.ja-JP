@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
 ms.custom:
-- "8000048"
 - "812"
-ms.openlocfilehash: 2a4f65692d962762354252540ba351eb8b39e78b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+- "8000048"
+ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
+ms.openlocfilehash: 451390bed371aa1de2bad7c2766f8ffabb04bd76
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34703302"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372158"
 ---
 # <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com がメール アドレスの "代理" としてメールを送信する
 

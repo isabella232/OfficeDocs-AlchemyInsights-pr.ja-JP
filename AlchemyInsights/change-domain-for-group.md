@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "749"
+- "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: f993938c4c5b58409bbc48261051a7d5af74574b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90d557c8d0b09fe22ead65953255a68383f68ec0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394693"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362002"
 ---
 # <a name="change-the-domain-for-office-365-group"></a>Office 365 グループのドメインを変更する
 

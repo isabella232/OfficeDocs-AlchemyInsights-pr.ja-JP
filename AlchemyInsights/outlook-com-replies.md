@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030777"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372554"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com での返信
 
 1 件ずつメッセージに返信するには
 
-1. メッセージ一覧で、転送するメッセージを選択します。
+1. メッセージ一覧で、返信するメッセージを選択します。
 2. メッセージ ウィンドウの右上で [**返信**] 矢印または [**全員に返信**] 矢印を選択します。
 3. メッセージを入力して、[**送信**] を選択します。
 
 すべてのメッセージに自動的に返信するには
 
-1. [自動応答設定](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption)を開きます。
+1. [**設定** > ] に移動して、**すべての Outlook 設定** > **メール** > の**自動応答**を表示し、[自動応答の設定](https://outlook.live.com/mail/options/mail/automaticReplies)を開きます。
 2. [**自動応答の有効化**] を選択します。
 3. [**この期間に限り応答を送信する**] のチェック ボックスを選択すると、次の操作を実行できます。
     - 選択した場合にのみ、返信を送信します。期間を設定しない場合は、オフにするまで、自動応答がオンのままになります。

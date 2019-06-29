@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762034"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362218"
 ---
 # <a name="compare-office-365-plans"></a>Office 365 プランを比較する
 
@@ -26,8 +28,7 @@ Office 365 プランは、[ビジネス](https://products.office.com/compare-all
   
 組織がすべてのプランと価格設定の比較に関心を寄せている場合は、「[すべての Office 365 のプランを比較する](https://products.office.com/business/compare-more-office-365-for-business-plans)」を確認してください。
   
-既に組織で Office 365 プランを購入しており、別のプランに切り替えることに興味がある場合は、Microsoft 365 管理センターから切り替えができます。[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) に移動するか、**[課金情報]** \> **[サブスクリプション]** を選択してください。利用可能な新しいプランのリストを表示するには、**[プランの切り替え]** を選択します。 
+既に組織で Office 365 プランを購入しており、別のプランに切り替えることに興味がある場合は、Microsoft 365 管理センターから切り替えができます。[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) に移動するか、**[課金情報]** \> **[サブスクリプション]** を選択してください。利用可能な新しいプランのリストを表示するには、**[プランの切り替え]** を選択します。
   
 ユーザーのニーズと機能の要件を満たすために、組織では Office 365 のプランを組み合わせることもできます。[Office 365 Admin] から、[[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433) ページに移動するか、**[課金情報]** \> **[サービスを購入する]** を選択します。
   
-

@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "871"
+- "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 570fa6c5efa1bd0d35a71e45d6ff61ae44951bdc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 3e428facb197db4987e822d1e0902b19ce4c32af
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937013"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357754"
 ---
 # <a name="deploy-office-apps"></a>Office アプリを展開する
 
@@ -21,4 +24,3 @@ Office 展開ツールや System Center Configuration Manager を介して、オ
   
 作業を開始するには、必ずテナント管理者かグローバル管理者としてサインインしていることを確認してから、次をクリックしてください: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)。
   
-

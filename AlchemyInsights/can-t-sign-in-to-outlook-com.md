@@ -8,14 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000050
+ms.custom:
+- "840"
+- "841"
+- "842"
+- "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 8db4dc6ab2d881f066f1266b9f4c677763baf803
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 014ef3a8c62694ef707f12dfeec0f6b8c87c9603
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030731"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360565"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>サインインできない場合またはパスワードを忘れた場合
 
@@ -27,4 +31,3 @@ Outlook.com アカウントがハッキングされた疑いがある場合は�
   
 詳細については、「[Microsoft アカウントにサインインできない場合](https://go.microsoft.com/fwlink/p/?linkid=842227)」を参照してください。
   
-

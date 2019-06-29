@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "443"
+- "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: acd84c9d7de2887170b40431954b3cf791b479de
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756203"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360058"
 ---
 # <a name="declined-credit-card"></a>クレジット カードが拒否されました
 
@@ -26,4 +28,3 @@ ms.locfileid: "30756203"
   
 追加情報については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)」を参照してください。
   
-

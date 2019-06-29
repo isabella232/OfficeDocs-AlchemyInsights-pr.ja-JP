@@ -9,13 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000199
-ms.openlocfilehash: b3131ab450d75126e7251f032e895a36521a96c8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "1761"
+- "1771"
+- "9000199"
+ms.openlocfilehash: 8902ae75c667e8a95da2950facfd70a3773a2ff6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31045178"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373094"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>Outlook.com の PST データ ファイル
 

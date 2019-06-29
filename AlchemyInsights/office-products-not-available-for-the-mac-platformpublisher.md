@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a6c57ee4-c6bc-4a40-87f0-ceecf6c29238
-ms.openlocfilehash: 61ac258e2251b9ec54c925fc6ad6968723e5128c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.custom:
+- "755"
+- "2000016"
+ms.openlocfilehash: fbcd22d11894441188732b9d4c2895df10f5e9e0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930137"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378278"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Mac プラットフォームで使用できない Office 製品
 
-Visio、Project、Publisher、Access は、Mac プラットフォームで使用することはできません。ただし、[Visio Online](https://products.office.com/visio/visio-online) と [Project Online](https://products.office.com/project/project-online-premium) は、すべてのプラットフォームで使用できます。 
+Visio、Project、Publisher、Access は、Mac プラットフォームで使用することはできません。ただし、[Visio Online](https://products.office.com/visio/visio-online) と [Project Online](https://products.office.com/project/project-online-premium) は、すべてのプラットフォームで使用できます。
   
-

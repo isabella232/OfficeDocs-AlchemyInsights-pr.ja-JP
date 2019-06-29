@@ -9,14 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800014
+ms.custom:
+- "599"
+- "621"
+- "1800014"
+- "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 721061e0c1611c24df138ba3feb7180fd484c7a8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: ce826a5ed3fd5782a99b0a84c227c3ecf4a441c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423296"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365832"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>モバイル デバイスでの共有メールボックスの使用
 
@@ -28,4 +32,3 @@ ms.locfileid: "32423296"
   
 詳細: [iOS 版および Android 版 Outlook のアプリ内ヘルプを利用する](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
-

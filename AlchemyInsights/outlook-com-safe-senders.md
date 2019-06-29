@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000089
-ms.openlocfilehash: d5df59cec3953e6f36af025c734708424bd2af58
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.custom:
+- "1400"
+- "8000089"
+ms.openlocfilehash: db98a0cdeb2654f1c29929b6bcb109567aac8ae2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738332"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372374"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>メッセージを [迷惑メール] フォルダーに移動することを停止する
 

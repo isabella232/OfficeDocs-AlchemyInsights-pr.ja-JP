@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
-ms.openlocfilehash: be85c3636d128ae80c6a2dfedd0c1c8670bfb1ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.custom:
+- "19"
+- "6"
+ms.openlocfilehash: 159125f8ce899cacac665fb8a7025a791c4cd9bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901661"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370968"
 ---
 # <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>共有メールボックスの作成時に発生するプロキシ アドレス エラー
 
@@ -23,4 +26,3 @@ ms.locfileid: "29901661"
   
 既存のメール アドレスを削除しない場合は、共有メールボックスに使用する新しいメール アドレスを選択します。
   
-

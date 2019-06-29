@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1251"
+- "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 289dd4abd5b529f43f01ba03ba2314ecd368dee1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929166"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356674"
 ---
 # <a name="about-office-2019"></a>Office 2019 について
 
@@ -32,4 +35,3 @@ Office 365 ProPlus はクラウド接続バージョンの Office であり、�
   
 [Office 2016 および Office 365 クライアント アプリの年の指定がスタート メニューのエントリから削除される](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
-

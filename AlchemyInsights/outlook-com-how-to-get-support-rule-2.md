@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000080
-ms.openlocfilehash: 4c44ce5698522f04ae39b3f89709dbec15c83869
-ms.sourcegitcommit: 0121f0a2ae35574588194374cda5e1e94021eada
+ms.custom:
+- "1326"
+- "8000080"
+ms.openlocfilehash: d0bacf2b5ca9dffcaa15e46520251f3adf3aaaf0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34815093"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374570"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Outlook.com でサポートを受ける方法
 
@@ -22,5 +24,3 @@ ms.locfileid: "34815093"
 上記の[**ヘルプ**] ボックスにご質問や問題を入力し、[**ヘルプを依頼する**] を選択します。
 
 [Outlook.com のヘルプを取得する](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
-
-

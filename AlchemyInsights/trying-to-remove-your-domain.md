@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.custom:
+- "28"
+- "9"
+ms.openlocfilehash: 97a7aa7861e716879db8df65ea9bfb6c4e49064b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905905"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353146"
 ---
 # <a name="trying-to-remove-your-domain"></a>ドメインを削除する場合
 
@@ -21,6 +24,5 @@ Office 365 からドメインを削除するには、「[Office 365 からドメ
   
 ドメインを削除する前に、そのドメイン名に割り当てられているすべてのユーザーまたはグループを更新する必要があります。
   
-その他の一般的な解決方法については、[ドメインに関する FAQ を確認](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)してください。 
+その他の一般的な問題については、[ドメインに関する FAQ を確認してください](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)。
   
-

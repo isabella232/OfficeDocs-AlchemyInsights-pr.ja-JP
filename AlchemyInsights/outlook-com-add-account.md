@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000236
-ms.openlocfilehash: f0f4064d8ff6bed2412084e1041d7d3ab4fa653d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1819"
+- "9000236"
+ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418285"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377774"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>他のメール アカウントを Outlook.com に追加する
 

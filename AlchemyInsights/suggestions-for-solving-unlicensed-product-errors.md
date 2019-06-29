@@ -9,19 +9,20 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "849"
+- "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 78db89b87f1ad50ca8a32383c4682a3f92701a3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 8536c4e3cd9bfaa80477397f77e160053e0a364e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420954"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367690"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"ライセンスのない製品" エラーの解決方法の提案
 
-
-
-Office 365 Business または Business Premium などのクライアント ライセンスを許可するサブスクリプションがあることを確認し、[ユーザーにライセンスが割り当てられていることを確認します](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)。サブスクリプションでサポートされているインストール数を超えているかどうかを確認するために、[非アクティブ化してインストール](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)します。 
+Office 365 Business または Business Premium などのクライアント ライセンスを許可するサブスクリプションがあることを確認し、[ユーザーにライセンスが割り当てられていることを確認します](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)。サブスクリプションでサポートされているインストール数を超えているかどうかを確認するために、[非アクティブ化してインストール](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)します。
   
 ユーザーが、割り当てられているライセンスと同じアカウントでサインインしていることを確認します。
   
@@ -29,10 +30,9 @@ Office 365 Business または Business Premium などのクライアント ラ�
   
 サブスクリプションが期限切れの状態であるかどうかを確認する
   
-[Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。 
+[Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
   
 [Office のオンライン修復を実行します](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。
   
 その他のトラブルシューティング ソリューションについては、[Office でのライセンスのない製品エラーとアクティブ化エラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)に関するページを参照してください。
   
-

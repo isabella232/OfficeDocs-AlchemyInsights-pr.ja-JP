@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "492"
+- "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 6d6ab46e54379fbd4c62dab4953299167438c26f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753395"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360850"
 ---
 # <a name="pay-by-invoice"></a>請求書での支払い
 
@@ -28,4 +30,3 @@ Office 365 のサブスクリプション コストが一定金額を超える�
   
 支払い方法を変更する場合は、「[一般法人向け Office 365 の支払い方法を変更する](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)」を参照してください。
   
-

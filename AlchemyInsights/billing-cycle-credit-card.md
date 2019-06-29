@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "485"
+- "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 7627299a85e07148bddbbf8183a306d612de67c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766785"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359626"
 ---
 # <a name="billing-cycle-credit-card"></a>請求サイクル クレジット カード
 
@@ -26,4 +28,3 @@ ms.locfileid: "30766785"
   
 ここには、クレジット カードが拒否されたときに問題を解決し、カードが承諾されるようにクレジット カードを変更する方法が含まれています。
   
-

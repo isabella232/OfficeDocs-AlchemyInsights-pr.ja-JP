@@ -6,15 +6,18 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000251
+ms.custom:
+- "1841"
+- "1845"
+- "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1f883b62da3012a9b9eaff8bee76889f735a4e09
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31014880"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376766"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Outlook.com でメールを送信できません。
 

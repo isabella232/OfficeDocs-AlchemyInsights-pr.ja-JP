@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "9000290"
 - "1897"
-ms.openlocfilehash: be950c1b0f2c4c5908f15977766c8669c8453f51
-ms.sourcegitcommit: 9f2869118b70ac3918d699474452bef2ff615e11
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34107698"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371798"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>[迷惑メール] フォルダーにメッセージが送られるのを停止する
 
@@ -30,3 +30,5 @@ ms.locfileid: "34107698"
 
 1. [迷惑メール設定](https://go.microsoft.com/fwlink/?linkid=2035804)を開きます。
 1. [**差出人セーフリストとドメイン**] で [**追加**] を選択し、追加する電子メールアドレスまたはドメインを入力して、[**保存**] を選択します。
+
+詳細につい[ては、「メールを迷惑メールとしてマークする」または「送信者をブロックする Outlook.com」](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)を参照してください。

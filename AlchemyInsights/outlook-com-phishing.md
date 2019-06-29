@@ -6,17 +6,17 @@ manager: joallard
 ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
+ms.custom:
+- "1895"
+- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom:
-- "9000289"
-- "1895"
-ms.openlocfilehash: d9ee27eb9dbc97de21801d3b13ebfccfdbe6f1bc
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34680970"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373562"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>フィッシング電子メールを処理する方法
 

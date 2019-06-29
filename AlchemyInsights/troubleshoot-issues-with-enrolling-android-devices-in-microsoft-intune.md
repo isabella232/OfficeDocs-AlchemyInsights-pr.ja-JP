@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
-ms.openlocfilehash: 0e727bd47a7d549a439e4666fa9dbb8a02e39778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.custom:
+- "787"
+- "6200002"
+ms.openlocfilehash: 9cdfda0d7dd45af260f46738cbc85aac46f53960
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420597"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367294"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Microsoft Intune での Android デバイスの登録に関する問題のトラブルシューティング
 
@@ -22,24 +25,22 @@ ms.locfileid: "32420597"
   
 一般的な問題と解決手順をいくつか示します。
   
- **ポータル サイトでデバイスが暗号化されないエラー:** Android の新しいバージョン (詳しくは v7.0 以降) では、デバイスが完全に暗号化されているかどうかを確認するためにスタートアップ パスコードが必要です。一般的な解決策は、スタートアップ PIN を有効にするか、デバイスを完全に暗号化することです。詳細については、[このドキュメント](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android)をご確認ください。 
+ **ポータル サイトでデバイスが暗号化されないエラー:** Android の新しいバージョン (詳しくは v7.0 以降) では、デバイスが完全に暗号化されているかどうかを確認するためにスタートアップ パスコードが必要です。一般的な解決策は、スタートアップ PIN を有効にするか、デバイスを完全に暗号化することです。詳細については、[このドキュメント](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android)をご確認ください。
   
- **デバイスが Intune サービスでのチェックインに失敗する、または Intune 管理コンソールに "異常" として表示される:** Samsung 4.4 と 5.5 の一部のデバイスで、サービスにチェックインできない場合があります。この問題に対しては、考えられる解決策が 3 つあります。 
+ **デバイスが Intune サービスでのチェックインに失敗する、または Intune 管理コンソールに "異常" として表示される:** Samsung 4.4 と 5.5 の一部のデバイスで、サービスにチェックインできない場合があります。この問題に対しては、考えられる解決策が 3 つあります。
   
 1. Intune ポータル サイト アプリを手動で開きます。これによりデバイスの同期が自動的に開始されます。
-    
+
 2. デバイスを Android 6.0 以降に更新します。
-    
-3. Intune ポータル サイトの管理から Samsung Smart Manage を無効にします。これらの問題と解決方法の詳細については、[こちらのドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)を確認してください。 
-    
- **ユーザー ライセンスの種類が無効**または**ユーザー名が認識されないエラー:** ユーザーには、Intune または EMS ライセンスが割り当てられている必要があります。Office 管理センターまたは Azure portal からライセンスを割り当てるには、こちらのドキュメントを確認してください。 
+
+3. Intune ポータル サイトの管理から Samsung Smart Manage を無効にします。これらの問題と解決方法の詳細については、[こちらのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)を確認してください。
+
+ **ユーザー ライセンスの種類が無効**または**ユーザー名が認識されないエラー:** ユーザーには、Intune または EMS ライセンスが割り当てられている必要があります。Office 管理センターまたは Azure portal からライセンスを割り当てるには、こちらのドキュメントを確認してください。
   
 問題の解決に役立つその他のリソース:
   
-1. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。 
-    
-2. 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)を参照してください。 
-    
-3. [Microsoft Intune で Android デバイスを登録する方法を学習します](https://docs.microsoft.com/intune/android-enroll)。
-    
+1. [Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。
 
+2. 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)を参照してください。
+
+3. [Microsoft Intune で Android デバイスを登録する方法を学習します](https://docs.microsoft.com/intune/android-enroll)。

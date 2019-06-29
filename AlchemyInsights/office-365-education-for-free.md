@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1426"
+- "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 276ae2ea1f610a996a6a2fba3bdaba630823cc08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: HT
+ms.openlocfilehash: 1727ef623622466c5714d258f08aaa23735c123f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928157"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378998"
 ---
 # <a name="office-365-education-for-free"></a>Office 365 Education が無料
 
@@ -22,4 +25,3 @@ ms.locfileid: "29928157"
   
 試用版ではありません。学生と教職員は、Word、Excel、PowerPoint、OneNote、そして現在では Microsoft Teams やその他の教室用のツールが含まれている Office 365 Education を使用できます。
   
-

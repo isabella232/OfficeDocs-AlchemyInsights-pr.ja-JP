@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422756"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365170"
 ---
 # <a name="install-office"></a>Office をインストールする
 
@@ -23,12 +26,11 @@ ms.locfileid: "32422756"
 その後、次の手順で Office をインストールできます。
   
 1. [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) にアクセスします。
-    
+
 2. Office のホーム ページで、希望の言語を選択し、[詳細設定] を選択して、64 ビットまたは 32 ビット バージョンを選択します。
-    
+
 3. [**Office のインストール**] を選択します。
-    
+
 詳細については、[Office の PC または Mac へのダウンロードおよびインストールまたは再インストール](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)に関するページを参照してください。
   
 Visio または Project の特定の手順については、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)」または「[Project をインストールする](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)」を参照してください。
-

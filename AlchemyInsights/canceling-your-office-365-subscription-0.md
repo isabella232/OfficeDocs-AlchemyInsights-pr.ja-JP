@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "86"
+- "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: acb02010098931a2d1ee2a9e781c86dc67fb98ef
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
-ms.translationtype: HT
+ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755591"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359770"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
-ご利用いただきありがとうございました。 
+ご利用いただきありがとうございました。
   
 組織のデータに基づくと、現在のすべてのサブスクリプションのシートは 25 未満であると思われます。サブスクリプションをオンラインでキャンセルするには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、または [**課金**]、[**サブスクリプション**] の順に移動して、[**その他のアクション**]、[**サブスクリプションのキャンセル**] の順に選択します。
   
 サブスクリプションのキャンセルに関する詳細または詳しい手順については、「[一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)」の記事を参照してください。
   
-
