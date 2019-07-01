@@ -9,16 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "39"
+- "100001"
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 34f0c86163de35c0550f1768567cf5112d24dcb8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423512"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366178"
 ---
 # <a name="update-dns-records"></a>DNS レコードを更新する
+
 DNS レコードの設定は、Office 365 サブスクリプションでカスタム ドメイン名を使用する場合に重要です。以下のリンクを使用して DNS レコードを追加または更新します。
   
 - [任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  

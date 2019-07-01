@@ -13,7 +13,7 @@ ms.custom:
 - "8000075"
 ms.openlocfilehash: 08c7faaf670823d5f29331686f52346941e913b8
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35376048"

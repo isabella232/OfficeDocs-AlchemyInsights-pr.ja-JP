@@ -9,19 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "154"
+- "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b34e1b3d5e45fcebb8c2e3b8b8e37cf4a5a0ec8b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388872"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370428"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Office 365 を使用してメールを送信するように多機能デバイスまたはアプリケーションをセットアップする
 
 オプションと手順については、「[Office 365 を使用してメールを送信するように多機能デバイスまたはアプリケーションをセットアップする方法](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4)」を参照してください。
   
-**注:** 最近動作しなくなったデバイスやアプリケーションがある場合、Microsoft は最近計画に従って [3DES 暗号の無効化](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption)を開始したことに注意してください。  **Windows Server 2003 IIS SMTP は動作しなくなります。新しいバージョンの Windows が必要です。** 
+**注:** 最近動作しなくなったデバイスやアプリケーションがある場合、Microsoft は最近計画に従って [3DES 暗号の無効化](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption)を開始したことに注意してください。  **Windows Server 2003 IIS SMTP は動作しなくなります。新しいバージョンの Windows が必要です。**
 
 一般的なエラーとしては、認証失敗/エラー、TLS 失敗/エラー、暗号アルゴリズム エラー、アルゴリズム不一致、接続の解除などがあります。  お使いのアプリケーションまたはデバイスの製造元に問い合わせて、最新の暗号がサポートされているかどうか、または更新プログラムがあるかどうかを確認してください。

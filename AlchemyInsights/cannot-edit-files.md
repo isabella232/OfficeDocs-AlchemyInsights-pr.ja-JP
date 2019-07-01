@@ -1,5 +1,5 @@
 ---
-title: 読み取り専用で開いているファイル
+title: ファイルが編集中にロックされる
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35085881"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222961"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>ファイルの編集ができない原因
+# <a name="why-you-might-not-be-able-to-edit-files"></a>ファイルの編集ができない理由
 
 ドキュメント、ワークシート、またはプレゼンテーションが編集のためにロックされていて開けない場合、そのファイルは別のユーザーが既に編集しているか、ファイルをチェックアウトしている可能性があります。ここでは、[ファイルの編集ができない理由](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)のいくつかについて簡単に説明します。
 
