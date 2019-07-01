@@ -12,11 +12,11 @@ ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
 ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
 ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32371123"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="1d86d-102">会議室メールボックスに関する問題</span><span class="sxs-lookup"><span data-stu-id="1d86d-102">Issues with room mailboxes</span></span>
+# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="aad2b-102">会議室メールボックスに関する問題</span><span class="sxs-lookup"><span data-stu-id="aad2b-102">Issues with room mailboxes</span></span>
 
-<span data-ttu-id="1d86d-103">会議室メールボックスの詳細については、「[会議室メールボックスの作成と管理](https://go.microsoft.com/fwlink/p/?linkid=717533)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1d86d-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="aad2b-103">会議室メールボックスの詳細については、「[会議室メールボックスの作成と管理](https://go.microsoft.com/fwlink/p/?linkid=717533)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="aad2b-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>

@@ -14,14 +14,14 @@ ms.custom:
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
 ms.openlocfilehash: f5759e8baa9b94f3d6a0a5ed5a0e4ada65d63607
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35377882"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="8136d-102">Outlook.com のアカウントがハッキングされた</span><span class="sxs-lookup"><span data-stu-id="8136d-102">Outlook.com account hacked</span></span>
+# <a name="outlookcom-account-hacked"></a><span data-ttu-id="dd9dd-102">Outlook.com のアカウントがハッキングされた</span><span class="sxs-lookup"><span data-stu-id="dd9dd-102">Outlook.com account hacked</span></span>
 
-<span data-ttu-id="8136d-103">アカウントがハッキングされた場合、「[Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)」の指示に従ってアカウントを回復します。</span><span class="sxs-lookup"><span data-stu-id="8136d-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span>
+<span data-ttu-id="dd9dd-103">アカウントがハッキングされた場合、「[Outlook.com アカウントがハッキングされた](https://go.microsoft.com/fwlink/p/?linkid=874366)」の指示に従ってアカウントを回復します。</span><span class="sxs-lookup"><span data-stu-id="dd9dd-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span>
   
-<span data-ttu-id="8136d-104">詳細については、「[Office 365 サブスクライバー用の Outlook.com の高度なセキュリティ](https://go.microsoft.com/fwlink/p/?linkid=874368)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8136d-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
+<span data-ttu-id="dd9dd-104">詳細については、「[Office 365 サブスクライバー用の Outlook.com の高度なセキュリティ](https://go.microsoft.com/fwlink/p/?linkid=874368)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dd9dd-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
   

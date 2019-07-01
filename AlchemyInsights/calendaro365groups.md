@@ -12,11 +12,11 @@ ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
 ms.openlocfilehash: 72a8f0dd4b6e93170da967160549f197b0ec73cd
 ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32396059"
 ---
-# <a name="calenders-in-office-365-groups"></a><span data-ttu-id="c3d8c-102">Office 365 グループの予定表</span><span class="sxs-lookup"><span data-stu-id="c3d8c-102">Calenders in Office 365 groups</span></span>
+# <a name="calenders-in-office-365-groups"></a><span data-ttu-id="5bf60-102">Office 365 グループの予定表</span><span class="sxs-lookup"><span data-stu-id="5bf60-102">Calenders in Office 365 groups</span></span>
 
-<span data-ttu-id="c3d8c-103">Office 365 グループの予定表の詳細については、「[Office 365 グループの概要](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c3d8c-103">For more information about calendars in Office 365 groups, see [Learn about Office 365 groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>
+<span data-ttu-id="5bf60-103">Office 365 グループの予定表の詳細については、「[Office 365 グループの概要](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5bf60-103">For more information about calendars in Office 365 groups, see [Learn about Office 365 groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>

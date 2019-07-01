@@ -14,17 +14,17 @@ ms.custom:
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
 ms.openlocfilehash: 3bea0aff82cef78fc5aab892d6401d39e718ca94
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35362506"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="b37f8-102">パブリック フォルダーのアクセス許可の変更</span><span class="sxs-lookup"><span data-stu-id="b37f8-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="7a35b-102">パブリック フォルダーのアクセス許可の変更</span><span class="sxs-lookup"><span data-stu-id="7a35b-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="b37f8-p101">パブリック フォルダーのアクセス許可は、Outlook のユーザーと管理者が変更できます。管理者は、次の手順を実行して Exchange 管理センター (EAC) からアクセス許可を制御することもできます。</span><span class="sxs-lookup"><span data-stu-id="b37f8-p101">Public folder permissions can be changed by users and administrators in Outlook. Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="7a35b-p101">パブリック フォルダーのアクセス許可は、Outlook のユーザーと管理者が変更できます。管理者は、次の手順を実行して Exchange 管理センター (EAC) からアクセス許可を制御することもできます。</span><span class="sxs-lookup"><span data-stu-id="7a35b-p101">Public folder permissions can be changed by users and administrators in Outlook. Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="b37f8-105">O365 ポータルで左側のナビゲーション メニューを使用して、[**管理センター**]、[**Exchange**] の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="b37f8-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="7a35b-105">O365 ポータルで左側のナビゲーション メニューを使用して、[**管理センター**]、[**Exchange**] の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="7a35b-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="b37f8-106">[**パブリック フォルダー**] に移動します。</span><span class="sxs-lookup"><span data-stu-id="b37f8-106">Navigate to **Public folders**.</span></span>
+2. <span data-ttu-id="7a35b-106">[**パブリック フォルダー**] に移動します。</span><span class="sxs-lookup"><span data-stu-id="7a35b-106">Navigate to **Public folders**.</span></span>
 
-3. <span data-ttu-id="b37f8-p102">そこから、セキュリティ グループをアクセス許可に割り当てることで、個々のパブリック フォルダーに対するアクセス許可を変更できます。エンド ユーザーがパブリック フォルダーのアクセス許可を変更するには、そのユーザーがそのフォルダーの所有者権限を持っている必要があります。</span><span class="sxs-lookup"><span data-stu-id="b37f8-p102">From there, you can change permissions for individual public folders by assigning security groups to permissions. For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="7a35b-p102">そこから、セキュリティ グループをアクセス許可に割り当てることで、個々のパブリック フォルダーに対するアクセス許可を変更できます。エンド ユーザーがパブリック フォルダーのアクセス許可を変更するには、そのユーザーがそのフォルダーの所有者権限を持っている必要があります。</span><span class="sxs-lookup"><span data-stu-id="7a35b-p102">From there, you can change permissions for individual public folders by assigning security groups to permissions. For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>

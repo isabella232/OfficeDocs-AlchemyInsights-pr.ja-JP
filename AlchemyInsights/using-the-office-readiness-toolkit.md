@@ -12,7 +12,7 @@ ms.collection: Adm_O365
 ms.custom: 9000176
 ms.openlocfilehash: 3b77cd3e7da833b6a5c9ecd61cab000857dce56d
 ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32423152"

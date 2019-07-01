@@ -12,11 +12,11 @@ ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
 ms.openlocfilehash: 5562ace93ed1e85cf18c876788683e68a82b4f33
 ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32396151"
 ---
-# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="0d196-102">メールと予定表の代理人を構成する</span><span class="sxs-lookup"><span data-stu-id="0d196-102">Configure mail and calendar delegates</span></span>
+# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="a7900-102">メールと予定表の代理人を構成する</span><span class="sxs-lookup"><span data-stu-id="a7900-102">Configure mail and calendar delegates</span></span>
 
-<span data-ttu-id="0d196-103">自分のメールボックスに他のユーザーがアクセスできるようにするには、「[自分のメールと予定表の管理を他のユーザーに許可する](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0d196-103">To give other users access to your mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>
+<span data-ttu-id="a7900-103">自分のメールボックスに他のユーザーがアクセスできるようにするには、「[自分のメールと予定表の管理を他のユーザーに許可する](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a7900-103">To give other users access to your mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>

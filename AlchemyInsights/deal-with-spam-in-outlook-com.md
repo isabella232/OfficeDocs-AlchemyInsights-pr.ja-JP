@@ -13,19 +13,19 @@ ms.custom: 8000029
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
 ms.openlocfilehash: fc6e01c94d885a9cec56080864756047a76e5ac3
 ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32406353"
 ---
-# <a name="reduce-junk-email-in-your-inbox"></a><span data-ttu-id="f08aa-102">受信トレイの迷惑メールを減らす</span><span class="sxs-lookup"><span data-stu-id="f08aa-102">Reduce junk email in your inbox</span></span>
+# <a name="reduce-junk-email-in-your-inbox"></a><span data-ttu-id="1cc21-102">受信トレイの迷惑メールを減らす</span><span class="sxs-lookup"><span data-stu-id="1cc21-102">Reduce junk email in your inbox</span></span>
 
-<span data-ttu-id="f08aa-103">迷惑メールが増えている場合は、[受信トレイでスパムや迷惑メールを受信しないようにする](https://go.microsoft.com/fwlink/p/?linkid=873140)方法をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f08aa-103">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="1cc21-103">迷惑メールが増えている場合は、[受信トレイでスパムや迷惑メールを受信しないようにする](https://go.microsoft.com/fwlink/p/?linkid=873140)方法をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="1cc21-103">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
-<span data-ttu-id="f08aa-104">スパムと思われるメールを受け取ったら、メッセージを右クリックして **[迷惑メールにする]** を選択することで報告できます。</span><span class="sxs-lookup"><span data-stu-id="f08aa-104">If you get an email that looks like spam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
+<span data-ttu-id="1cc21-104">スパムと思われるメールを受け取ったら、メッセージを右クリックして **[迷惑メールにする]** を選択することで報告できます。</span><span class="sxs-lookup"><span data-stu-id="1cc21-104">If you get an email that looks like spam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
   
-<span data-ttu-id="f08aa-p101">メッセージを迷惑メールとしてマークすると、Outlook.com の迷惑メール フィルターの機能が向上します。メッセージを受信したくないメール アドレスやドメインをブロックすることもできます。</span><span class="sxs-lookup"><span data-stu-id="f08aa-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also block the email addresses and domains you don't want to receive messages from.</span></span>
+<span data-ttu-id="1cc21-p101">メッセージを迷惑メールとしてマークすると、Outlook.com の迷惑メール フィルターの機能が向上します。メッセージを受信したくないメール アドレスやドメインをブロックすることもできます。</span><span class="sxs-lookup"><span data-stu-id="1cc21-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also block the email addresses and domains you don't want to receive messages from.</span></span>
   
-<span data-ttu-id="f08aa-p102">メール アドレスをブロックするには、**[設定]** \> **[オプション]** \> **[受信拒否リスト]** の順に移動します。差出人セーフ リストにアドレスまたはドメインを追加するには、**[差出人セーフ リスト]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="f08aa-p102">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="1cc21-p102">メール アドレスをブロックするには、**[設定]** \> **[オプション]** \> **[受信拒否リスト]** の順に移動します。差出人セーフ リストにアドレスまたはドメインを追加するには、**[差出人セーフ リスト]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="1cc21-p102">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
 
