@@ -10,32 +10,32 @@ localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
 ms.openlocfilehash: a8eb435e9e19d1c5bcdb694b899e09a4126b8697
 ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/07/2019
 ms.locfileid: "35174506"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>"アクセスが拒否されました" メッセージのトラブルシューティング
 
-Sharepoint Online サイトを参照しようとしたときにアクセス拒否メッセージを受け取った場合は、以下の記事を参照してください。
+SharePoint Online のサイトを閲覧しようとしたときにアクセス拒否のメッセージが表示された場合は、次の記事を参照してください。
 
-**ユーザーを追加してライセンスを付与する**
+**ユーザーの追加とライセンス認証**
 
-[Office 365 for business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ようにしてください。
+[一般法人向け Office 365 のユーザーにライセンスが割り当てられている](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ことを確認してください。
 
 **アクセス許可の割り当て**
 
-ユーザーに Sharepoint ライセンスが割り当てられていて、アクセス拒否メッセージが依然として受信されている場合は、それらのユーザーに[適切なアクセス許可レベルが割り当てら](https://docs.microsoft.com/sharepoint/understanding-permission-levels)れていることを確認してください。
+ユーザーに SharePoint ライセンスが割り当てられていてもアクセス拒否メッセージが表示される場合は、そのユーザーに[適切なアクセス許可レベルが割り当てられている](https://docs.microsoft.com/sharepoint/understanding-permission-levels)ことを確認してください。
 
 **アクセス要求機能の使用を検討する**
 
-[アクセス要求](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)機能を使用すると、ユーザーが現在表示する権限を持っていないコンテンツへのアクセス権を要求できます。 
+[アクセス要求](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)機能は、ユーザーが表示する権限がないコンテンツへのアクセスを要求できるようにする機能です。 
 
-**カスタムスクリプトを許可すると、アクセス拒否の問題が発生することがある**
+**カスタム スクリプトの許可がアクセス拒否の問題の原因になることがある**
 
-「カスタムスクリプトを許可する」機能がアクセス拒否を提示している可能性があるシナリオがあります。 影響を受ける機能の一覧については、セキュリティに関する考慮事項と、この機能を無効にする機能を示します。 カスタムスクリプトを参照、[許可、または禁止](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)してください
+特定のシナリオでは、「カスタム スクリプトの許可」機能がアクセス拒否の発生原因になります。 影響を受ける機能のリストについては、セキュリティに関する考慮事項と、この機能を無効にする方法に記載されてています。 「[カスタム スクリプトを許可または禁止する](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)」を参照してください。
 
-注: 以前にアクセスしたことがある複数のユーザーが OneDrive または SharePoint サイトを使用できない場合は、一時的なサービスの問題が発生する可能性があります。 [サービス正常性ダッシュボードをチェックし](https://portal.office.com/adminportal/home#/servicehealth)ます。
+注: それまでアクセスできていた複数のユーザーが OneDrive または SharePoint のサイトを利用できない場合は、サービスに一時的な問題が発生している可能性があります。 [サービス正常性ダッシュボードを確認](https://portal.office.com/adminportal/home#/servicehealth)してください。
 
 
   

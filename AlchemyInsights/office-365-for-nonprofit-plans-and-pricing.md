@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
 ms.openlocfilehash: e10c92bc87f5aa8c48682a0586b8f20a65d46f8e
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35378638"

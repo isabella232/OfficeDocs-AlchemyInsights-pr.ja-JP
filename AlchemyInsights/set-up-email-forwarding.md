@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
 ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35355378"
@@ -30,7 +30,7 @@ ms.locfileid: "35355378"
 
 詳細については、「[Office 365 でメールの転送を構成する](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74)」を参照してください。
   
-ユーザーが自分のメールボックスで電子メール転送をセットアップできるように、ユーザーに指示を送信するには、 [Office 365 から別のメールアカウントにメールを転送](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)するように指示します。 ご注意ください。転送できるメールアドレスは1つだけです。 ユーザーのグループへの転送を設定する必要がある場合は、配布リストを作成し ([グループ] で)、そのグループにユーザーを追加して、そのグループへの転送を構成します。
+ユーザーが自分のメールボックスでメールの転送をセットアップできるように、セットアップ手順をユーザーに送信するには、「[Office 365 から別のメール アカウントにメールを転送する](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)」ように指示します。転送は、1 つのメール アドレスに対してのみ可能な点に注意してください。ユーザーのグループへの転送をセットアップする必要がある場合は、配布リスト ([グループ] の下) を作成し、ユーザーを追加して、そのグループへの転送を構成します。
   
 退職した従業員がいる場合に、実施すべき推奨手順については、「[Office 365 から元従業員を削除する](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)」を参照してください。
   

@@ -13,11 +13,11 @@ ms.custom:
 - "2431"
 ms.openlocfilehash: 052d009a0e1a0ad5b45bf2911501d44582afd00c
 ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/11/2019
 ms.locfileid: "35174526"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a>すべての添付ファイルをプレビューできません
+# <a name="cant-preview-all-of-an-attachment"></a>すべての添付ファイルをプレビューできない
 
-一部のお客様がすべての添付ファイルをプレビューできない問題を認識しています。 回避策として、添付ファイルを新しいウィンドウで開くようにしてください。
+一部のお客様で、すべての添付ファイルをプレビューできない問題が確認されています。 回避策として、新しいウィンドウで添付ファイルを開いてください。
