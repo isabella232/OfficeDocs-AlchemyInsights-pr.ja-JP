@@ -15,19 +15,19 @@ ms.custom:
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
 ms.openlocfilehash: 4f9fa98fe1ae02c1804b0bcb967fef13c72bb940
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35386990"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="67752-102">Outlook モバイル アプリのアプリ内サポートを利用する</span><span class="sxs-lookup"><span data-stu-id="67752-102">Get in-app support for the Outlook mobile app</span></span>
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="4933d-102">Outlook モバイル アプリのアプリ内サポートを利用する</span><span class="sxs-lookup"><span data-stu-id="4933d-102">Get in-app support for the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="67752-103">Outlook モバイル アプリで、**メニュー**を開きます。</span><span class="sxs-lookup"><span data-stu-id="67752-103">In the Outlook mobile app, open the **Menu**.</span></span>
+1. <span data-ttu-id="4933d-103">Outlook モバイル アプリで、**メニュー**を開きます。</span><span class="sxs-lookup"><span data-stu-id="4933d-103">In the Outlook mobile app, open the **Menu**.</span></span>
 
-2. <span data-ttu-id="67752-104">疑問符を選択して、**[ヘルプ &amp; フィードバック]** 画面を開きます。</span><span class="sxs-lookup"><span data-stu-id="67752-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
+2. <span data-ttu-id="4933d-104">疑問符を選択して、**[ヘルプ &amp; フィードバック]** 画面を開きます。</span><span class="sxs-lookup"><span data-stu-id="4933d-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
 
-3. <span data-ttu-id="67752-105">[**サポートへの問い合わせ**] をタップして、問題の説明を入力します。</span><span class="sxs-lookup"><span data-stu-id="67752-105">Tap **Contact Support** and explain your issue.</span></span>
+3. <span data-ttu-id="4933d-105">[**サポートへの問い合わせ**] をタップして、問題の説明を入力します。</span><span class="sxs-lookup"><span data-stu-id="4933d-105">Tap **Contact Support** and explain your issue.</span></span>
 
-4. <span data-ttu-id="67752-106">[**送信**] をタップします。サポート担当者から連絡があると、アプリ内通知が表示されます。</span><span class="sxs-lookup"><span data-stu-id="67752-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
+4. <span data-ttu-id="4933d-106">[**送信**] をタップします。サポート担当者から連絡があると、アプリ内通知が表示されます。</span><span class="sxs-lookup"><span data-stu-id="4933d-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
 
-<span data-ttu-id="67752-107">詳細については、「[iOS 版および Android 版 Outlook のアプリ内ヘルプを表示する](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="67752-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>
+<span data-ttu-id="4933d-107">詳細については、「[iOS 版および Android 版 Outlook のアプリ内ヘルプを表示する](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4933d-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>

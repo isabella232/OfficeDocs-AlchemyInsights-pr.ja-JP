@@ -13,14 +13,14 @@ ms.custom:
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
 ms.openlocfilehash: 9e284c6f7b90dc1997f6b1f6b0ec20015adfa1c1
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35362930"
 ---
-# <a name="data-location"></a><span data-ttu-id="2705f-102">データの場所</span><span class="sxs-lookup"><span data-stu-id="2705f-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="b5fe9-102">データの場所</span><span class="sxs-lookup"><span data-stu-id="b5fe9-102">Data location</span></span>
 
-<span data-ttu-id="2705f-p101">Microsoft は、冗長性を持たせるために、お客様のデータの複数のコピーを複数のデータセンターで保管しています。[データの保管場所はここで確認できます](https://office.com/datamaps)。データの保管場所を新しい国や地域に増設する場合、1 か月前に通知いたします。</span><span class="sxs-lookup"><span data-stu-id="2705f-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
+<span data-ttu-id="b5fe9-p101">Microsoft は、冗長性を持たせるために、お客様のデータの複数のコピーを複数のデータセンターで保管しています。[データの保管場所はここで確認できます](https://office.com/datamaps)。データの保管場所を新しい国や地域に増設する場合、1 か月前に通知いたします。</span><span class="sxs-lookup"><span data-stu-id="b5fe9-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
   
-<span data-ttu-id="2705f-106">Office 365 のセキュリティ、プライバシー、コンプライアンスに関する詳細については、「[Office 365 セキュリティ センター](https://products.office.com/business/office-365-trust-center-welcome)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2705f-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span>
+<span data-ttu-id="b5fe9-106">Office 365 のセキュリティ、プライバシー、コンプライアンスに関する詳細については、「[Office 365 セキュリティ センター](https://products.office.com/business/office-365-trust-center-welcome)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b5fe9-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span>
   

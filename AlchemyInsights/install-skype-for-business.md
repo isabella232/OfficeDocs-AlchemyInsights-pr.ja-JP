@@ -15,12 +15,12 @@ ms.custom:
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
 ms.openlocfilehash: 606b83e07d4238baf1502f4ece61ab49e89def8d
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35381950"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="5a20e-102">Skype for Business のインストール</span><span class="sxs-lookup"><span data-stu-id="5a20e-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="13730-102">Skype for Business のインストール</span><span class="sxs-lookup"><span data-stu-id="13730-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="5a20e-103">Skype for Business をインストールするには、「[Skype for Business をインストールする](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)」の記事の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="5a20e-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
+<span data-ttu-id="13730-103">Skype for Business をインストールするには、「[Skype for Business をインストールする](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)」の記事の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="13730-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
   
