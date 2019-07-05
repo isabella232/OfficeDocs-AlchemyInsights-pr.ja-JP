@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: fc50b895f2c239ab05b58063058243fdc007f7be
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35382418"
@@ -36,4 +36,4 @@ ms.locfileid: "35382418"
 
 詳細については、「[別の Office 365 プランに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」を参照してください。
   
-[インプレースアーカイブをサポートする O365 計画](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)がある場合は、アーカイブメールボックスを有効にすることによって、追加の電子メールストレージを取得することもできます。  アーカイブメールボックスにより、追加のストレージが提供され、プライマリメールボックスとアーカイブメールボックスの両方でメッセージを移動、コピー、および検索できるようになります。 アーカイブメールボックスを有効にする手順については、「[アーカイブメールボックスを有効](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)にする」を参照してください。
+「[インプレース アーカイブをサポートする O365 プラン](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)」をお持ちの場合は、アーカイブ メールボックスを有効化して追加のメール ストレージを入手することもできます。  アーカイブ メールボックスによって追加のストレージが与えられることにより、プライマリー メールボックスとアーカイブ メールボックスの両方を移動するメッセージのコピーと検索が行えるようになります。 アーカイブ メールボックスを有効化する手順については、「[アーカイブ メールボックスの有効化](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。
