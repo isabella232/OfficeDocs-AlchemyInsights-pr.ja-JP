@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: d35834aa72d0a052c819fc2f07019e602e7c7850
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35362362"
@@ -24,7 +24,7 @@ ms.locfileid: "35362362"
 
 同期状態を確認するのは簡単です。
   
-- Microsoft 365 管理センターにサインインし、ホームページの [ **DirSync Status** ] を選択します。
+- Microsoft 365 管理センターにサインインして、ホーム ページで [**DirSync の状態**] を選択します。
 
 - または、[ユーザー] \>、[アクティブなユーザー] の順に移動し、[アクティブなユーザー] ページで [その他] \>、[ディレクトリ同期] の順に選択することができます。
 
