@@ -14,12 +14,12 @@ ms.custom:
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: 5d3bdb3b074c485a2b19e934724ba6e74c84deae
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35389582"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>クレジットカード番号に関する DLP の問題
+# <a name="dlp-issues-with-credit-card-numbers"></a>クレジット カード番号に関する DLP 問題
 
 O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている**クレジット カード ポリシー**の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。
   
