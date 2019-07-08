@@ -1,25 +1,24 @@
 ---
-title: 自動的に作成される新しい保持ラベル
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: アイテム保持ポリシーの詳細情報
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
-ms.translationtype: MT
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222997"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448840"
 ---
-# <a name="new-retention-labels-created-automatically"></a>自動的に作成される新しい保持ラベル
+# <a name="more-info-about-retention-policies"></a>アイテム保持ポリシーの詳細情報
 
-ほとんどの組織では、データの量と複雑さが日々向上しています-電子メール、ドキュメント、インスタントメッセージなど。
-
-この情報を効果的に管理または管理することは重要です。アイテム保持ポリシーを使用すると、これらの目標を達成するのに役立ちます。 アイテム保持ポリシーの詳細については、以下のリンク先を参照してください。
+ほとんどの組織では、メール、ドキュメント、インスタント メッセージなどのデータの量と複雑さが日々増加しています。
+こうした情報を効果的に管理することが重要です。アイテム保持ポリシーを使用すると、この目的を達成するのに役立ちます。 アイテム保持ポリシーの詳細については、次のリンク先を参照してください。
 
 - [アイテム保持ポリシーの概要](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
@@ -27,5 +26,5 @@ ms.locfileid: "35222997"
 
 - [アイテム保持ポリシーを組織全体または特定の場所に適用する](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
 
-- [Exchange 管理センターで新しく作成または更新されたアイテム保持ポリシーがメールボックスに適用されない](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- [Exchange 管理センターで新しく作成または更新されたアイテム保持ポリシーがメール ボックスに適用されない](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
 
