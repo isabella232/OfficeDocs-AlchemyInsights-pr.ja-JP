@@ -13,7 +13,7 @@ ms.custom:
 - "9000240"
 ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35372554"
@@ -28,7 +28,7 @@ ms.locfileid: "35372554"
 
 すべてのメッセージに自動的に返信するには
 
-1. [**設定** > ] に移動して、**すべての Outlook 設定** > **メール** > の**自動応答**を表示し、[自動応答の設定](https://outlook.live.com/mail/options/mail/automaticReplies)を開きます。
+1. [**設定**] > [**Outlook のすべての設定を表示**] > [**メール**] > [**自動返信**] の順に移動して、[[自動返信の設定](https://outlook.live.com/mail/options/mail/automaticReplies)] を開きます。
 2. [**自動応答の有効化**] を選択します。
 3. [**この期間に限り応答を送信する**] のチェック ボックスを選択すると、次の操作を実行できます。
     - 選択した場合にのみ、返信を送信します。期間を設定しない場合は、オフにするまで、自動応答がオンのままになります。
