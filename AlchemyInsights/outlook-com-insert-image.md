@@ -17,19 +17,19 @@ ms.custom:
 - "8000086"
 ms.openlocfilehash: 2b140bb1adaf7b2817d1e41ca10eb6d2f80f4d6d
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35374354"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="0608f-102">メール メッセージまたは予定表イベントに画像を挿入する</span><span class="sxs-lookup"><span data-stu-id="0608f-102">Insert pictures in an email message or calendar event</span></span>
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="f35c9-102">メール メッセージまたは予定表イベントに画像を挿入する</span><span class="sxs-lookup"><span data-stu-id="f35c9-102">Insert pictures in an email message or calendar event</span></span>
 
-<span data-ttu-id="0608f-103">コンピューターまたは OneDrive からの写真、GIF、またはクリップアートを、インライン画像としてメール メッセージ、予定表イベント、または電子メールの署名に挿入することができます。</span><span class="sxs-lookup"><span data-stu-id="0608f-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
+<span data-ttu-id="f35c9-103">コンピューターまたは OneDrive からの写真、GIF、またはクリップアートを、インライン画像としてメール メッセージ、予定表イベント、または電子メールの署名に挿入することができます。</span><span class="sxs-lookup"><span data-stu-id="f35c9-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
 
-1. <span data-ttu-id="0608f-104">メッセージの作成または予定表イベントの作成を開始します。</span><span class="sxs-lookup"><span data-stu-id="0608f-104">Begin composing a message or creating a calendar event.</span></span>
-2. <span data-ttu-id="0608f-105">作成ウィンドウの下部にある [**画像を本文に挿入**] アイコン ([**添付**] アイコンの横) を選択します。</span><span class="sxs-lookup"><span data-stu-id="0608f-105">Select the **Insert pictures inline** icon at the bottom of the compose window (next to the **Attach** icon).</span></span>
-3. <span data-ttu-id="0608f-106">挿入する画像を選択し、[**開く**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="0608f-106">Choose the picture you want to insert and select **Open**.</span></span>
-4. <span data-ttu-id="0608f-107">画像のサイズを変更するには、角をドラッグします。</span><span class="sxs-lookup"><span data-stu-id="0608f-107">Drag the corners to resize the image.</span></span>
-5. <span data-ttu-id="0608f-108">書式設定オプションを表示するには、画像を右クリックします。</span><span class="sxs-lookup"><span data-stu-id="0608f-108">Right-click the image to see formatting options.</span></span>
+1. <span data-ttu-id="f35c9-104">メッセージの作成または予定表イベントの作成を開始します。</span><span class="sxs-lookup"><span data-stu-id="f35c9-104">Begin composing a message or creating a calendar event.</span></span>
+2. <span data-ttu-id="f35c9-105">作成ウィンドウの下部にある [**画像を本文に挿入**] アイコン ([**添付**] アイコンの横) を選択します。</span><span class="sxs-lookup"><span data-stu-id="f35c9-105">Select the **Insert pictures inline** icon at the bottom of the compose window (next to the **Attach** icon).</span></span>
+3. <span data-ttu-id="f35c9-106">挿入する画像を選択し、[**開く**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="f35c9-106">Choose the picture you want to insert and select **Open**.</span></span>
+4. <span data-ttu-id="f35c9-107">画像のサイズを変更するには、角をドラッグします。</span><span class="sxs-lookup"><span data-stu-id="f35c9-107">Drag the corners to resize the image.</span></span>
+5. <span data-ttu-id="f35c9-108">書式設定オプションを表示するには、画像を右クリックします。</span><span class="sxs-lookup"><span data-stu-id="f35c9-108">Right-click the image to see formatting options.</span></span>
 
-<span data-ttu-id="0608f-109">[Outlook.com でファイルを添付する](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab)方法の詳細を確認してください。</span><span class="sxs-lookup"><span data-stu-id="0608f-109">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).</span></span>
+<span data-ttu-id="f35c9-109">[Outlook.com でファイルを添付する](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab)方法の詳細を確認してください。</span><span class="sxs-lookup"><span data-stu-id="f35c9-109">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).</span></span>

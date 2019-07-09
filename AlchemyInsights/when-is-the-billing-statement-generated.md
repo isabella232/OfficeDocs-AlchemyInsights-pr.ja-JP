@@ -15,13 +15,13 @@ ms.custom:
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
 ms.openlocfilehash: fa0864f5c7dbcecd2f2a18dc0d1a366fdcd190ed
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35365071"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="4638e-102">請求明細書が生成されるタイミング</span><span class="sxs-lookup"><span data-stu-id="4638e-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="31bdd-102">請求明細書が生成されるタイミング</span><span class="sxs-lookup"><span data-stu-id="31bdd-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="4638e-p101">毎月、新しい請求明細書を Microsoft 365 管理センターで入手できることを知らせるメールが届きます。請求書は 2 ページあります。1 ページ目は請求書の概要であり、請求書に関する一般的な情報、注文、請求額、支払い方法、サポートへの連絡方法が記載されています。2 ページ目には、各サブスクリプションの請求アクティビティに関する詳細が記載されています。</span><span class="sxs-lookup"><span data-stu-id="4638e-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="31bdd-p101">毎月、新しい請求明細書を Microsoft 365 管理センターで入手できることを知らせるメールが届きます。請求書は 2 ページあります。1 ページ目は請求書の概要であり、請求書に関する一般的な情報、注文、請求額、支払い方法、サポートへの連絡方法が記載されています。2 ページ目には、各サブスクリプションの請求アクティビティに関する詳細が記載されています。</span><span class="sxs-lookup"><span data-stu-id="31bdd-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="4638e-107">課金の概念の詳細については、「[請求書を把握する](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4638e-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
+<span data-ttu-id="31bdd-107">課金の概念の詳細については、「[請求書を把握する](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="31bdd-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
