@@ -1,5 +1,5 @@
 ---
-title: Outlook on the web で電子メールアドレスを変更する
+title: Outlook on the web のメール アドレスを変更する
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "1995"
 ms.openlocfilehash: fb99e8a744ce014f23ea43e697d33c1a83d73a09
 ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/07/2019
 ms.locfileid: "35174418"
 ---
 # <a name="change-your-email-address"></a>メール アドレスを変更する
 
-電子メールアドレスを変更するには、管理者特権が必要です。
+メール アドレスを変更するには、管理者権限が必要です。
   
-「 [Office のユーザー名と電子メールアドレスを変更する365」](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)の手順に従います。
+「[Office 365 のユーザー名とメール アドレスを変更する](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)」の手順を実行します。

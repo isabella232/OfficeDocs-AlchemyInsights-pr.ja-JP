@@ -1,5 +1,5 @@
 ---
-title: Outlook.com MSA の校正
+title: Outlook.com MSA 証明
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -17,22 +17,22 @@ ms.custom:
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
 ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35373886"
 ---
 # <a name="security-info-and-security-codes"></a>セキュリティ情報とセキュリティ コード
 
-アカウントにセキュリティ情報を追加するには、次のようにします。
+アカウントにセキュリティ情報を追加するには:
 
-1. Microsoft アカウントを使用して、[セキュリティの基本](https://account.microsoft.com/security)にサインインします。
-1. [**セキュリティ連絡先情報**] を選択します。
-1. [**セキュリティ情報の追加**] を選択し、指示に従って電話番号またはメールアドレスを入力します。
-1. その電話番号または電子メールアドレスにセキュリティコードが表示されます。 [**セキュリティ情報の追加**] ウィンドウで受信したセキュリティコードを入力し、[**次へ**] を選択します。
+1. 自分の Microsoft アカウントで [[セキュリティの基本]](https://account.microsoft.com/security) サインインします。
+1. **[セキュリティ連絡先情報]** を選択します。
+1. **[セキュリティ情報の追加]]** を選択し、指示に従って電話番号またはメールアドレスを入力します。
+1. その電話番号またはメールアドレスにセキュリティ コードが送信されます。 **[セキュリティ情報の追加]** ウィンドウで受信したセキュリティ コードを入力し、**[次へ]** を選択します。
 
-電話番号またはメールアドレスを削除する場合は、その横にある [**削除**] を選択します。
+電話番号またはメールアドレスを削除するには、その横にある **[削除]** を選択します。
 
-セキュリティの警告を受信する電話番号または電子メールアドレスを変更する場合は、[**通知オプションの変更**] を選択します。
+セキュリティ警告を受信する電話番号またはメールアドレスを変更するには、**[警告オプションの変更]** を選択します。
 
-詳細については、「 [Microsoft アカウントのセキュリティ情報と確認コード](https://support.microsoft.com/help/12428/)」を参照してください。
+詳細については、[「Microsoft アカウントのセキュリティ情報と確認コード」](https://support.microsoft.com/help/12428/)を参照してください。

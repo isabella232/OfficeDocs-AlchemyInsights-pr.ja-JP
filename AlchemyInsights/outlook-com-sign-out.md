@@ -1,5 +1,5 @@
 ---
-title: Outlook.com からサインアウトします。
+title: Outlook.com からサインアウトする
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
 ms.openlocfilehash: 7e4f600fffc3f16b2569fadbbad436948ea47f0a
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35371978"

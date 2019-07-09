@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 受信トレイが読み込まれていません
+title: Outlook.com の受信トレイが読み込まれない
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "8000078"
 ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35374534"
 ---
-# <a name="empty-inbox"></a>空の受信トレイ
+# <a name="empty-inbox"></a>受信トレイを空にする
 
-**受信トレイが空である**
+**受信トレイが空です**
 
-- Firefox ブラウザーの特定のアドオンは、受信トレイが読み込まれないようにすることができます。 [アドオンを無効化または削除](https://support.mozilla.org/kb/disable-or-remove-add-ons)する方法については、Firefox のサポートを参照してください。
+- Firefox ブラウザのアドオンによっては、受信トレイが読み込まれないことがあります。 [アドオンを無効化または削除](https://support.mozilla.org/kb/disable-or-remove-add-ons)する方法については、Firefox のサポートを参照してください。
 
-**受信トレイを空にする**
+**受信トレイを空にしたい**
 
-受信トレイを空にして、すべてのメールを削除するには、次のようにします。
+受信トレイを空にして、すべてのメールを削除するには、次の操作を行います。
 
-1. メッセージ一覧の上部にある [[受信トレイ](https://outlook.live.com/mail/inbox)] の横にある円を選択して、すべてのメッセージを選択します。
-1. ページの上部で、[空の**フォルダー** ] を選択します (または、[優先受信トレイ] がオンになっている場合は、**他**に空の**フォーカス** / がある場合)。
-1. [**すべて削除**] を選択します。
-1. 削除されたすべてのメッセージを削除するには、削除[済みアイテムフォルダー](https://outlook.live.com/mail/deleteditems)を開き、[**空のフォルダー** > を**削除**する] を選択して、ページの上部にある [**このフォルダーから削除されたアイテムを復元**する] を選択し、[空の**フォルダー** ] を再度選択します。.
+1. メッセージ リストの上部にある [[受信トレイ]](https://outlook.live.com/mail/inbox) の横にある円を選択して、すべてのメッセージを選びます。
+1. ページの上部で、**[フォルダーを空にする]** (または [優先受信トレイ] がオンになっている場合は **[優先を空にする]** / **[その他を空にする]**) を選択します。
+1. **[すべて削除]** を選択します。
+1. 削除したメッセージをすべて消去するには、[[削除済みアイテム] フォルダー](https://outlook.live.com/mail/deleteditems)を開いて、**[フォルダーを空にする]** > **[すべて削除]** を選択します。その後で、ページ上部の **[このフォルダーから削除したアイテムを復元する]** を選択し、もう一度 **[フォルダーを空にする]** を選択します。
 
-詳細については、「 [Outlook.com でメールを削除](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)する」を参照してください。
+詳細については、[「Outlook.com でのメールの削除」](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)を参照してください。
