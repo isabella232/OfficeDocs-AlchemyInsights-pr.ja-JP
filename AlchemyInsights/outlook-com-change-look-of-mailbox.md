@@ -13,16 +13,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35376362"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="0da18-102">Outlook.com メールボックスの外観を変更する</span><span class="sxs-lookup"><span data-stu-id="0da18-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="413f0-102">Outlook.com メールボックスの外観を変更する</span><span class="sxs-lookup"><span data-stu-id="413f0-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="0da18-103">Outlook.comのメッセージリストと閲覧ウィンドウの外観を変更することができます。</span><span class="sxs-lookup"><span data-stu-id="0da18-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
+<span data-ttu-id="413f0-103">Outlook.comのメッセージリストと閲覧ウィンドウの外観を変更することができます。</span><span class="sxs-lookup"><span data-stu-id="413f0-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
 
-- <span data-ttu-id="0da18-104">メッセージウィンドウのレイアウトを変更するには、[閲覧ウィンドウ](https://outlook.live.com/mail/options/mail/layout/readingPane)のオプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="0da18-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
-- <span data-ttu-id="0da18-105">電子メールの並べ替え方法を変更するには、メッセージリストの上部で**フィルタ** > **並べ替え方法** を選択して、電子メールの並べ替え方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="0da18-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
-- <span data-ttu-id="0da18-106">会話でメッセージをグループ化するには、[メッセージ組織](https://outlook.live.com/mail/options/mail/layout/conversations)のオプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="0da18-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
-- <span data-ttu-id="0da18-107">優先受信トレイを有効または無効にするには、[レイアウト](https://outlook.live.com/mail/options/mail/layout/focused)オプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="0da18-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>
+- <span data-ttu-id="413f0-104">メッセージ ウィンドウのレイアウトを変更するには、「[閲覧ウィンドウ](https://outlook.live.com/mail/options/mail/layout/readingPane)」オプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="413f0-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
+- <span data-ttu-id="413f0-105">電子メールの並べ替え方法を変更するには、メッセージリストの上部で**フィルタ** > **並べ替え方法** を選択して、電子メールの並べ替え方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="413f0-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
+- <span data-ttu-id="413f0-106">スレッド別にメッセージをグループ化するには、「[メッセージの整理](https://outlook.live.com/mail/options/mail/layout/conversations)」オプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="413f0-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
+- <span data-ttu-id="413f0-107">優先受信トレイの有効/無効を切り替えるには、「 [レイアウト](https://outlook.live.com/mail/options/mail/layout/focused)」オプションを開きます。</span><span class="sxs-lookup"><span data-stu-id="413f0-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>
