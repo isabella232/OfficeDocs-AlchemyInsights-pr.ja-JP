@@ -13,7 +13,7 @@ ms.custom:
 - "9000233"
 ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35373454"
@@ -22,7 +22,7 @@ ms.locfileid: "35373454"
 
 Outlook.com では PIN が使われませんが、PIN または Windows Hello を使用して、PC にサインインできます。Windows 10 で PIN を変更するには、次の手順に従います。
 
-1. [スタート] ボタンをクリックするか、キーボードの Windows キーを押してから、[**設定** > **** > ] [**サインインオプション**] を選択します。
+1. [スタート] ボタンを選択するか、キーボードの Windows キーを押して、[**設定**] > [**アカウント**] > [**サインイン オプション**] の順に選択します。
 2. [**PIN**] の下の [**変更**] ボタンを選択します。
 3. 現在の PIN を入力し、下に新しい PIN の入力と確認入力を行います。
 

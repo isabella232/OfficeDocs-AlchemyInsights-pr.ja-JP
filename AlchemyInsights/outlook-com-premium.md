@@ -13,16 +13,16 @@ ms.custom:
 - "9000243"
 ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35373310"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com プレミアム
 
-**既存の Premium サブスクライバー**
+**既存のプレミアム サブスクライバー**
 
-- Outlook.com Premium サブスクリプションを既にお持ちの場合は、 [Outlook.com premium の faq](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b)を参照してください。
+- Outlook.com プレミアム サブスクリプションをすでに持っている場合は、「[Outlook.com プレミアムのよく寄せられる質問](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b)」を参照ください。
 
 **新しいサブスクライバー**
 

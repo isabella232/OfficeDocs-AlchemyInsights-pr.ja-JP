@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
 ms.openlocfilehash: 116ba085b87c75eab3235a66e33aefdd93896f60
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35372878"
@@ -29,7 +29,7 @@ ms.locfileid: "35372878"
  **削除されたアイテムに関する重要な情報:**
   
 - 削除済みアイテム フォルダーから削除したアイテムは 30 日間、復元が可能です。
-- アカウントに365日間サインインしていない場合、メールは削除され、回復することはできません。
+- 365 日間アカウントにサインインしていなかった場合、メールは削除され、復元できません。
 - お子様のアカウントから削除されたメールを復元することはできません。
 
 詳細については、[Outlook.com で削除されたメール メッセージを復元する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)をご覧ください。

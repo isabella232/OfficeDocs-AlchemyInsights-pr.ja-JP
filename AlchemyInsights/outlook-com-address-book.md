@@ -13,7 +13,7 @@ ms.custom:
 - "9000232"
 ms.openlocfilehash: 28e5d90f6c6ae6dde2754a05c8651d50672499c8
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35377306"
@@ -22,6 +22,6 @@ ms.locfileid: "35377306"
 
 Outlook.com アドレス帳は、連絡先と呼ばれます。
 
-[[ユーザー](https://outlook.live.com/people/) ] ページに移動するには、ページの下部にある [**ユーザー** ] を選択するか、ページの上部にあるアプリセレクターを選択します。
+[[連絡先](https://outlook.live.com/people/)] ページに移動するには、ページ下部の [**連絡先**] を選択するか、ページ上隅のアプリ セレクターから選択します。
 
 [Outlook.com で連絡先を表示し、編集する](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)方法について説明します。
