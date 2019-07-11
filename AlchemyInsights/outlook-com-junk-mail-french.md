@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 迷惑メール-フランス語
+title: Outlook.com 迷惑メール - フランス語
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,7 +14,7 @@ ms.custom:
 - "8000072"
 ms.openlocfilehash: 00de03810416adb3670c01ff3bd4b78478e39cf7
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35374246"
@@ -23,4 +23,4 @@ ms.locfileid: "35374246"
 
 Si vous voyez une augmentation de courrier indésirable et le courrier indésirable, il existe plusieurs façons de réduire la quantité de courrier indésirable qui arrive dans votre boîte de réception.
 
-打設 en savoir plus lire [Empêcher le courrier indésirable d'être 不在 de votre boîte de réception Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)。
+Pour en savoir plus lire [Empêcher le courrier indésirable d’être absent de votre boîte de réception Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

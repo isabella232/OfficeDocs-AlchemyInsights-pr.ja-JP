@@ -16,7 +16,7 @@ ms.custom:
 - "8000088"
 ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35372302"
@@ -33,6 +33,6 @@ Windows 10 に含まれている Microsoft Print To PDF ユーティリティを
 4. **[印刷]** を選択します。
 5. ファイル名を入力し、**[保存]** を選択します。
 
-**注:** これは、他のユーザーが PC に保存した Pdf にアクセスして削除することができない場合に、共有または公共のコンピューターでは推奨されません。
+**注:** 共有またはパブリックのコンピューターの場合、PC に保存し、削除していない PDF に他のユーザーがアクセスできるため、推奨されていません。
 
-印刷の詳細については、「[印刷電子メールメッセージ、添付ファイル、およびカレンダーの Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855)」を参照してください。
+印刷の詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855)」をご覧ください。

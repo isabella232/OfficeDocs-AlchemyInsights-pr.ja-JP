@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
 ms.openlocfilehash: 7e9e303bd0508f71c68de3354807922faeea1a26
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35375326"
 ---
 # <a name="delete-a-contact"></a>連絡先を削除する
 
-1. ページの左下隅にある [**人**] アイコンを選択します。
+1. ページの左下隅で、**[ユーザー]** アイコンを選択します。
 2. 削除する連絡先を選び、**[削除]** を選択します。
 
 [**削除**] を選択できない場合は、連絡先は Skype または接続しているソーシャル ネットワークのアカウントのものである可能性があります。連絡先を削除するには、Skype または連絡先が配置されているアカウントに移動します。

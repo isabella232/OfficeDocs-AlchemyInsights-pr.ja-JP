@@ -1,5 +1,5 @@
 ---
-title: ストリーム API の可用性のセットアップのトラブルシューティング
+title: Stream のセットアップに関するトラブルシューティング - API の可用性
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,11 +13,11 @@ ms.custom:
 - "1338"
 ms.openlocfilehash: 3c3096859e4196ac4a504c72bae5cf18daada110
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35366790"
 ---
 # <a name="api-availability"></a>API の可用性
-Stream の Api は現在使用できません。
-詳細情報:https://stream.microsoft.com/support/
+Stream の API は現在使用できません。
+詳細情報: https://stream.microsoft.com/support/

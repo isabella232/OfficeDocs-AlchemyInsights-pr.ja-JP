@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
 ms.openlocfilehash: 165e0ff4b2136b727450946d2c47756ebee7d393
 ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/28/2019
 ms.locfileid: "35353110"
@@ -30,7 +30,7 @@ Azure AD Connect バージョン 1.1.614.0 以降とパスワードが同期さ�
 
 3. Azure AD Connect ウィザードを開始します。
 
-4. [追加の**タスク**] ページに移動し、[**トラブルシューティング**] を選択して、[**次へ**] をクリックします。
+4. **[追加のタスク]** ページに移動し、**[トラブルシューティング]** を選択して **[次へ]** をクリックします。
 
 5. [トラブルシューティング] ページで、PowerShell の [**起動してトラブルシューティングを開始する**] メニューをクリックします。
 
