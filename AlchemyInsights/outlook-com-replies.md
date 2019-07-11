@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 77ae61c4c92497fe35cea8f0be18f90385d38df5
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372554"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35613995"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com での返信
 
@@ -39,4 +39,4 @@ ms.locfileid: "35372554"
 5. 連絡先にのみ返信を送信するには、[**連絡先に限り応答を送信する**] チェック ボックスをオンにします。
 6. [**保存**] を選択します。
 
-[Outlook.com の自動転送](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0)について説明します。
+[Outlook.com の自動転送](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy)について説明します。
