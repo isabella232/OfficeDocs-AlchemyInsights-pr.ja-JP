@@ -20,7 +20,7 @@ ms.locfileid: "35174448"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 
-ライブラリをネットワーク ドライブとしてマップすることは一時的であり、Internet Explorer でのみサポートされています。 そのため、セッションが期限切れになることを防ぐには、Internet Explorer で SharePoint サイトを開き、[サインインした状態を維持] を選択する操作をときどき行う必要があります。 ライブラリをマップする代わりに、 [ファイル オンデマンド](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)機能が備わった[新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>します。 OneDrive 内のすべてのファイルに、ローカル記憶域を使用することなくアクセスできます。
+ライブラリをネットワーク ドライブとしてマップすることは一時的なもので、Internet Explorer でのみサポートされています。 そのため、セッションが期限切れになることを防ぐには、Internet Explorer で SharePoint サイトを開き、[サインインした状態を維持] を選択する操作をときどき行う必要があります。 ライブラリをマップする代わりに、[ファイル オンデマンド](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)機能が備わった[新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>します。 OneDrive 内のすべてのファイルに、ローカル記憶域を使用することなくアクセスできます。
 
 [新しい OneDrive 同期クライアントを使用](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)する代わりに、ドライブをマップする方法を選択する場合は、次の記事の手順に従ってください。 
 
