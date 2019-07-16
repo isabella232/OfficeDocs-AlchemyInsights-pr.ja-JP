@@ -14,12 +14,12 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 0dfc14e382705c4960b565313112c14d45e5a29c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 88b6dd65a01326cb11dacb9ecf01d8c93f0edd6d
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366646"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704673"
 ---
 # <a name="turn-off-focused-inbox"></a>優先受信トレイを無効にする
 
@@ -29,4 +29,4 @@ ms.locfileid: "35366646"
 
 3. **[OK]** を選択します。
 
-詳細については、[Outlook の優先受信トレイ](https://go.microsoft.com/fwlink/p/?linkid=873108)に関するページを参照してください。
+詳細については、[Outlook の優先受信トレイ](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)に関するページを参照してください。
