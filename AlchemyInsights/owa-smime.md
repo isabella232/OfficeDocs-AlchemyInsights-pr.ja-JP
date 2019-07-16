@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "35086005"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701400"
 ---
 # <a name="encrypt-messages-using-smime"></a>S/MIME を使用したメッセージの暗号化
 
@@ -28,4 +28,4 @@ Outlook on the web の S/MIME を変更するには:
 1. **[設定]** > **[Outlook のすべての設定を表示]** の順に移動します。
 2. **[メール]** > **[S/MIME]** の順に選択します。
 
-詳細については、「[Outlook on the web で S/MIME を使用してメッセージを暗号化する](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480)」を参照してください。
+詳細については、「Outlook on the web で S/MIME を使用してメッセージを暗号化する」(https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ?wt.mc_id=Office_Outlook_com_Alchemy) を参照してください。
