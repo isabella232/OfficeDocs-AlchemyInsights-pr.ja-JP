@@ -12,14 +12,14 @@ ms.custom:
 - "774"
 - "8000040"
 ms.assetid: 9b130870-ce56-4505-b93b-d1f0d4e52b3c
-ms.openlocfilehash: f3d60fd8c5c865bf2a744ec9128a14293b48dc62
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: e72ec49eec7e4d28ecdab6cd7e4ac0cc2826f9ed
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358258"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35703989"
 ---
 # <a name="add-your-outlookcom-account-to-another-mail-app"></a>Outlook.com アカウントを別のメール アプリに追加する
 
-PC、Mac、またはモバイル デバイス上の Outlook に Outlook.com アカウントを追加する方法については、「[Outlook.com アカウントを別のメール アプリに追加する](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409)」を参照してください。
+PC、Mac、またはモバイル デバイス上の Outlook に Outlook.com アカウントを追加する方法については、「[Outlook.com アカウントを別のメール アプリに追加する](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
   
