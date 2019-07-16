@@ -14,25 +14,25 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 309088d6c071308e063178eb209e8d2f6fff05c6
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372302"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601935"
 ---
-# <a name="saving-messages-in-outlookcom"></a><span data-ttu-id="b6dfa-102">Outlook.com でメッセージを保存する</span><span class="sxs-lookup"><span data-stu-id="b6dfa-102">Saving messages in Outlook.com</span></span>
+# <a name="saving-messages-in-outlookcom"></a><span data-ttu-id="2b42e-102">Outlook.com でメッセージを保存する</span><span class="sxs-lookup"><span data-stu-id="2b42e-102">Saving messages in Outlook.com</span></span>
 
-<span data-ttu-id="b6dfa-103">Outlook.com では、メール メッセージを保存することはできませんが、PC に保存可能な PDF として印刷できます。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-103">You cannot save email messages in Outlook.com, but you can print them to a PDF which you can save on your PC.</span></span>
+<span data-ttu-id="2b42e-103">Outlook.com では、メール メッセージを保存することはできませんが、PC に保存可能な PDF として印刷できます。</span><span class="sxs-lookup"><span data-stu-id="2b42e-103">You cannot save email messages in Outlook.com, but you can print them to a PDF which you can save on your PC.</span></span>
 
-<span data-ttu-id="b6dfa-104">Windows 10 に含まれている Microsoft Print To PDF ユーティリティを使用して、メールメッセージを直接 PDF に印刷することができます。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-104">The Microsoft Print To PDF utility included in Windows 10 allows you to print any email message directly to a PDF.</span></span>
+<span data-ttu-id="2b42e-104">Windows 10 に含まれている Microsoft Print To PDF ユーティリティを使用して、メールメッセージを直接 PDF に印刷することができます。</span><span class="sxs-lookup"><span data-stu-id="2b42e-104">The Microsoft Print To PDF utility included in Windows 10 allows you to print any email message directly to a PDF.</span></span>
 
-1. <span data-ttu-id="b6dfa-105">保存するメッセージを選択します。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-105">Select the message you want to save.</span></span>
-2. <span data-ttu-id="b6dfa-106">メッセージの上部にある省略記号のアイコンを選択し、**[印刷]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-106">Select the three dots at the top of the message and then select **Print**.</span></span>
-3. <span data-ttu-id="b6dfa-107">再び **[印刷]** を選択し、プリンターのドロップ ダウン メニューから **[Microsoft Print to PDF]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-107">Select **Print** again, and from the printer drop-down menu, select **Microsoft Print to PDF**.</span></span>
-4. <span data-ttu-id="b6dfa-108">**[印刷]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-108">Select **Print**.</span></span>
-5. <span data-ttu-id="b6dfa-109">ファイル名を入力し、**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-109">Enter a file name then select **Save**.</span></span>
+1. <span data-ttu-id="2b42e-105">保存するメッセージを選択します。</span><span class="sxs-lookup"><span data-stu-id="2b42e-105">Select the message you want to save.</span></span>
+2. <span data-ttu-id="2b42e-106">メッセージの上部にある省略記号のアイコンを選択し、**[印刷]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2b42e-106">Select the three dots at the top of the message and then select **Print**.</span></span>
+3. <span data-ttu-id="2b42e-107">再び **[印刷]** を選択し、プリンターのドロップ ダウン メニューから **[Microsoft Print to PDF]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2b42e-107">Select **Print** again, and from the printer drop-down menu, select **Microsoft Print to PDF**.</span></span>
+4. <span data-ttu-id="2b42e-108">**[印刷]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2b42e-108">Select **Print**.</span></span>
+5. <span data-ttu-id="2b42e-109">ファイル名を入力し、**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2b42e-109">Enter a file name then select **Save**.</span></span>
 
-<span data-ttu-id="b6dfa-110">**注:** 共有またはパブリックのコンピューターの場合、PC に保存し、削除していない PDF に他のユーザーがアクセスできるため、推奨されていません。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-110">**Note:** This is not recommended on shared or public computers as other users could have access to any PDFs you save to the PC and do not delete.</span></span>
+<span data-ttu-id="2b42e-110">**注:** 共有またはパブリックのコンピューターの場合、PC に保存し、削除していない PDF に他のユーザーがアクセスできるため、推奨されていません。</span><span class="sxs-lookup"><span data-stu-id="2b42e-110">**Note:** This is not recommended on shared or public computers as other users could have access to any PDFs you save to the PC and do not delete.</span></span>
 
-<span data-ttu-id="b6dfa-111">印刷の詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="b6dfa-111">For more information about printing, see [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855).</span></span>
+<span data-ttu-id="2b42e-111">印刷の詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="2b42e-111">For more information about printing, see [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
