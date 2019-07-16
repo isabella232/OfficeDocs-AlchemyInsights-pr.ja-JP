@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: db98a0cdeb2654f1c29929b6bcb109567aac8ae2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372374"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35602004"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>メッセージを [迷惑メール] フォルダーに移動することを停止する
 
@@ -27,4 +27,4 @@ ms.locfileid: "35372374"
 3. 信頼できる差出人にメーリング リストを追加するには、[**受信許可メーリング リスト**] でメーリング リストを選択し、[**追加**] を選択します。
 4. [**保存**] を選択します。
 
-詳細については、「[Outlook.com で差出人のブロックまたはブロック解除を行う](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)」を参照してください。
+詳細については、「[Outlook.com で差出人のブロックまたはブロック解除を行う](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。

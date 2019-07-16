@@ -14,12 +14,12 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 309088d6c071308e063178eb209e8d2f6fff05c6
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372302"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601935"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Outlook.com でメッセージを保存する
 
@@ -35,4 +35,4 @@ Windows 10 に含まれている Microsoft Print To PDF ユーティリティを
 
 **注:** 共有またはパブリックのコンピューターの場合、PC に保存し、削除していない PDF に他のユーザーがアクセスできるため、推奨されていません。
 
-印刷の詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855)」をご覧ください。
+印刷の詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)」をご覧ください。

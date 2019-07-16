@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377414"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697052"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Outlook.com のフラグとアラームを追加します。
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377414"
 1. メッセージの一覧で、メッセージの上にマウス ポインターを置いて、表示されたフラグのオプションを選択します。
 1. メッセージにフラグを設定するフラグのアイコンを選択します。 フラグが設定されたすべてのメッセージを表示するには、ページの左下隅のチェック マークを選択して [タスク] に移動します。
  
-詳細については、「[Outlook.com のメッセージにフラグ設定またはピン留めを行う](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a)」を参照してください。
+詳細については、「[Outlook.com のメッセージにフラグ設定またはピン留めを行う](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。

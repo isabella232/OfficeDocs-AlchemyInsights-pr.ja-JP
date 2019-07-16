@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35085991"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701436"
 ---
 # <a name="change-your-email-name"></a>電子メール名を変更する
 
@@ -35,4 +35,4 @@ Outlook.com アカウントに接続されているメール エイリアスま�
 1. 差出人の行を表示するには、**[差出人を表示]** を選択します。
 1. 宛先の行の上で **[差出人]** を選択し、使用するメール アドレスを選択します。
 
-詳細については、「[Outlook.com で別のアドレスからメールを送信する](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409)」を参照してください。
+詳細については、「[Outlook.com で別のアドレスからメールを送信する](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。

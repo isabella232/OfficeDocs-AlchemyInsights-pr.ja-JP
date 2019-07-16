@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375794"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35602148"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"アクセス許可がないようです" を解決する方法
 
@@ -28,4 +28,4 @@ ms.locfileid: "35375794"
 
 接続されているアカウントからすべてのメールが再同期するには、時間がかかる場合があります。
 
-接続されているアカウントの[削除](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8)と[追加](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)について説明します。
+接続されているアカウントの[削除](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy)と[追加](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)について説明します。
