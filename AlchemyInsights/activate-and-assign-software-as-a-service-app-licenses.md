@@ -1,5 +1,5 @@
 ---
-title: サービスとしてのソフトウェアアプリケーションライセンスをアクティブ化して割り当てる
+title: サービスとしてのソフトウェア アプリのライセンスをアクティブにして割り当てる
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "2422"
 ms.openlocfilehash: db0eedc41dfd1505c92b806ea077f7a7b297aa05
 ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "35607734"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>サービスとしてのソフトウェアアプリケーションライセンスをアクティブ化して割り当てる 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>サービスとしてのソフトウェア アプリのライセンスをアクティブにして割り当てる 
 
-## <a name="to-activate-apps"></a>アプリをアクティブ化するには
+## <a name="to-activate-apps"></a>アプリをアクティブにするには
 
-1. [ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、[**アプリ**] タブを選択します。
+1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
 
-2. 管理するアプリを見つけて選択します。
+2. 管理するアプリを検索して選択します。
 
-3. [**ライセンス**] で、**エラーメッセージの [アカウントの設定**] を選択します。  
+3. [**ライセンス**] の下で、[**エラー メッセージでアカウントを設定する**] を選択します。  
 
-## <a name="to-assign-app-licenses"></a>アプリのライセンスを割り当てるには
+## <a name="to-assign-app-licenses"></a>アプリ ライセンスを割り当てるには
 
-1. [ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、[**アプリ**] タブを選択します。
+1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
 
-2. 管理するアプリを見つけて選択します。  
+2. 管理するアプリを検索して選択します。  
 
-3. [**設定 & アクション**] の下で、 **publisher のポータルで管理**するリンクを選択します。
+3. [**設定とアクション**] の下で、[**発行元のポータルで管理する**] へのリンクを選択します。

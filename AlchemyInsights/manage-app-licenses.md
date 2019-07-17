@@ -14,27 +14,27 @@ ms.custom:
 - "2443"
 ms.openlocfilehash: 01a7c0983a7feb862df4d165f78d95631103647e
 ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "35607729"
 ---
 # <a name="manage-app-licenses"></a>アプリ ライセンスを管理する
 
-## <a name="to-change-license-quantity"></a>ライセンスの数量を変更するには
+## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
 
-1. [ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、[**アプリ**] タブを選択します。
+1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
 
-2. 管理するアプリを見つけて選択します。  
+2. 管理するアプリを検索して選択します。  
 
 3. [**ライセンスの追加/削除**] を選択します。
 
-4. 必要なライセンスの新しい数を入力します。 たとえば、現在5つのライセンスがあり、4つだけが必要な場合は、[**ライセンスの合計**] ボックスに「4」と入力します。 現在5つのライセンスを所有しており、ライセンス総数が10個必要な場合は、[**ライセンスの合計**] ボックスに「10」と入力します。
+4. 必要な新しいライセンス数を入力します。 たとえば、現在 5 個のライセンスがあり、4 個だけが必要な場合は、[**ライセンスの総数**] ボックスに 4 と入力します。 現在 5 個のライセンスを持っていて、合計 10 個のライセンスが必要な場合は、[**ライセンスの総数**] ボックスに 10 と入力します。
 
-## <a name="to-assign-app-licenses"></a>アプリのライセンスを割り当てるには
+## <a name="to-assign-app-licenses"></a>アプリ ライセンスを割り当てるには
 
-1. [ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、[**アプリ**] タブを選択します。
+1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
 
-2. 管理するアプリを見つけて選択します。  
+2. 管理するアプリを検索して選択します。  
 
-3. [**設定 & アクション**] の下で、 **publisher のポータルで管理**するリンクを選択します。
+3. [**設定とアクション**] の下で、[**発行元のポータルで管理する**] へのリンクを選択します。
