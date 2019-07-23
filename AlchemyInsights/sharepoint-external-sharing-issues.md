@@ -1,5 +1,5 @@
 ---
-title: 外部共有を有効にする
+title: 外部ユーザーが SharePoint Online のコンテンツにアクセスできない
 ms.author: kirks
 author: Techwriter40
 ms.date: ''
@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 4c45230c3d7bd5927f7fa08f89f57d4e7c7a88ea
-ms.sourcegitcommit: 748f651247bde10a24e4ba06539b35b53b75c38e
+ms.openlocfilehash: 413a6b5c65eee4e9fc2df61ca9db752bce8b173a
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605860"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803115"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online の外部共有を有効にする
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>外部ユーザーが SharePoint Online のコンテンツにアクセスできない
 
 外部ユーザーが招待されたもののコンテンツにアクセスできない場合、下記のリンクにアクセスしてみてください。
 

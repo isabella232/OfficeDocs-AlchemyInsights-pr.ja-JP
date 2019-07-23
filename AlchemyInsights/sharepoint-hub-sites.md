@@ -7,26 +7,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: b10426e316d4691f7d26b8909e31e55edd537a28
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 81e5e2da24e4d56e13d3d411b25f26c6ef04c7e9
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35174493"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803007"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint ハブ サイトの概要
 
 SharePoint ハブ サイトを使用すると、プロジェクト、部門、部署、地域などに基づいてサイトを接続して整理し、組織のニーズを満たすことができます。
 
-ニュースや他のサイト活動などの関連コンテンツを発見します。
+- ニュースや他のサイト活動などの関連コンテンツを発見します。
 
-関連サイト間で共通のナビゲーションとブランド設定を適用します。 
+- 関連サイト間で共通のナビゲーションとブランド設定を適用します。 
 
-すべての関連サイトを検索します。
+- すべての関連サイトを検索します。
 
-新しい管理センターまたは PowerShell からハブ サイトを作成する方法の詳細については、「[SharePoint Online でハブ サイトを作成する](https://docs.microsoft.com/sharepoint/create-hub-site)」を参照してください。
+ハブ サイトの詳細については、以下を参照してください。
+- [SharePoint Online でハブ サイトを作成する](https://docs.microsoft.com/sharepoint/create-hub-site): 新しい管理センターまたは PowerShell からハブ サイトを作成する方法の詳細については、こちらを参照してください。
 
-新しい管理センターまたは PowerShell から既存のサイトをハブ サイトに関連付ける方法の詳細については、「[SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)」を参照してください。
+- [SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): 新しい管理センターまたは PowerShell から既存のサイトをハブ サイトに関連付ける方法の詳細については、こちらを参照してください。
 
-新しい管理センターまたは PowerShell からの既存のハブ サイト削除に関する詳細については、「[ハブ サイトを削除する](https://docs.microsoft.com/sharepoint/remove-hub-site)」を参照してください。
+- [ハブ サイトを削除する](https://docs.microsoft.com/sharepoint/remove-hub-site): 新しい管理センターまたは PowerShell から既存のハブ サイトを削除する方法の詳細については、こちらを参照してください。
 
