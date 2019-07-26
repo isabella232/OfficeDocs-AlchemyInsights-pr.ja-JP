@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 7fdf618d85f4bda79a34b80a417a58494dd50c3a
-ms.sourcegitcommit: 718ea0b37f3d1c43dbdf01c31440b4af9d8e9a27
+ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35830941"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903888"
 ---
 # <a name="enable-or-disable-forms-pro"></a>Forms Pro を有効または無効にする
 
