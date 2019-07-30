@@ -14,18 +14,18 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353182"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925290"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS レコードを更新して現在のホスティング プロバイダーに Web サイトを維持する
 
-1. [ [ドメイン](https://portal.office.com/adminportal/home#/Domains) ] ページで、ドメインの一覧から、Web サイトで使用しているドメインを選択し、管理ウィンドウで [ **DNS 設定** ] を選択します。
+1. [ドメイン](https://portal.office.com/adminportal/home#/Domains) ページでは、ドメイン リスト内で Web サイトに使用するドメインを選択します。
 
-2. [**+ 新しいカスタム レコード**] を選択し、次を入力します。
+2. [ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。
 
   - [ **DNS の種類** ] には、「 **A (アドレス)** 」と入力します。
 
