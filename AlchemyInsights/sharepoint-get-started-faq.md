@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online の使用を開始する
+title: SharePoint Online の一般的な問題と解決策
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bdbd9a683342ae3b20033c8f4db170ad1f4c83a4
-ms.sourcegitcommit: 5a56fcd9fb0a6d8fbcdcad4960ff340959d1d2a0
+ms.openlocfilehash: e8e9f4328178d2a619f0f7b945171ea9f3900139
+ms.sourcegitcommit: 407f6c1e82f1a0be5cf53301fbf03cd25dcbf0ee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "35814640"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36059221"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online の一般的な問題と解決策
 
