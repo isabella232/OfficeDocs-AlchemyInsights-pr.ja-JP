@@ -8,14 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000038
+ms.custom:
+- "772"
+- "788"
+- "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: c664adf9fdb0306b3407a5c23628aa4c7bbd5b83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 035004602a439335380ec72ea65fd1bd70ebbf0d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31030737"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387062"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Microsoft アカウントに表示される生年月日が正しくない
 
@@ -23,4 +26,3 @@ Microsoft では、アカウントのセキュリティを非常に重視して�
   
 保護者の同意とお子様の Microsoft アカウントに関する詳細については、[こちら](https://go.microsoft.com/fwlink/p/?linkid=874365)をご覧ください。
   
-

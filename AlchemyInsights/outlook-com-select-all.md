@@ -8,13 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000090
-ms.openlocfilehash: 54064e804c1e6ab0c1303c16f4f9718ba3c22182
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.custom:
+- "1410"
+- "1411"
+- "8000090"
+ms.openlocfilehash: 87ca85adc61136460806dc37639484101dee4e00
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754823"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372230"
 ---
 # <a name="how-to-select-all-in-outlookcom"></a>Outlook.com で "すべて選択" する方法
 

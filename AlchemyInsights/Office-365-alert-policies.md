@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1385
+ms.custom:
+- "1385"
+- "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 428d5b943737f78c683aa50578b0c0a1fb0034c8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31754815"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359410"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 アラート ポリシー
 
@@ -26,7 +28,7 @@ Office 365 セキュリティ/コンプライアンス センターには、Offi
 - アクセス許可をメールボックスに割り当てる。
 - SharePoint ファイル共有で、多数のファイルを共有または削除する。
 - 電子情報開示検索を実行し、検索結果をエクスポートする。
- 
+
 アラートを確認して対応するには、次の操作を実行します。
 
 1. [セキュリティ/コンプライアンス センター](https://protection.office.com)に移動して、サインインします。

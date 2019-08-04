@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "267"
+- "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 301aedd5ba64561eda33a6bd2f2e89253d63a854
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 84ff84ab5f4c43f45e64c542f1df3f3232ac986e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766569"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386270"
 ---
 # <a name="help-understanding-your-bill"></a>課金内容についての説明
 
@@ -25,11 +27,10 @@ ms.locfileid: "30766569"
 請求金額が予想と異なる場合は、次に示すいくつかの理由が考えられます。
   
 - ご使用のサブスクリプションに対してライセンスの追加または削除が行われています。ライセンスが途中で変更されると、その内容が以降の請求書に反映されます。この変更を考慮して前のサービス期間に対するクレジットおよび再請求が表示される場合があります。
-    
+
 - サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。
-    
+
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
-    
+
 請求書の詳細については、[請求書](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)に関するページを参照してください。
   
-

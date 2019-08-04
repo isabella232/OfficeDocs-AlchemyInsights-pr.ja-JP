@@ -9,25 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: aaae0d7ac55f9f3adc60143850e7b6e4d1da08fb
-ms.sourcegitcommit: 6c104d686acbce8fa9adeaaedaa44b132b74321a
-ms.translationtype: MT
+ms.custom:
+- "1428"
+- "3200001"
+ms.openlocfilehash: 9b3981964b66eb1c8083a3acf5ca31be3c8157fe
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470056"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389510"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP ポリシーのヒントに関する問題
 
-**DLPポリシー**を使用している場合は、**ポリシーのヒント**を使用してポリシー違反をユーザーに通知できます。 管理者は、DLPポリシーをテストしている間、ポリシーが完全実施モードになっているときいずれの場合でも表示されるポリシーのヒントを設定できます。 
+**DLPポリシー**を使用している場合は、**ポリシーのヒント**を使用してポリシー違反をユーザーに通知できます。 管理者は、DLPポリシーをテストしている間、ポリシーが完全実施モードになっているときいずれの場合でも表示されるポリシーのヒントを設定できます。
   
 セキュリティ/コンプライアンス センターの完全実施モードでDLPポリシーに関するポリシーのヒントを構成するには、次の手順を実行します：
   
 - DLP ルールでポリシー ヒントを**有効**にします。そのためには、[こちら](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)の手順を実行します。
-    
+
 - **コンテンツが、[こちら](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)の記事に略述されているルールをトリガーする**ために**必要な**点を満たしていることを確認します。
-    
+
 - ポリシー ヒントは OWA と Outlook の両方に表示されますが、**Outlook 2013 以降**を使用する場合、ポリシー ヒントが表示されるのは特定の条件下に限定されます。該当する条件については、次の資料に記されています: [ポリシー ヒントを表示するために Outlook 2013 以降でサポートされている条件](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
-    
+
 DLP ポリシー ヒントについての追加情報については、以下をご覧ください: [DLP ポリシーのポリシー ヒントを表示する](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
-

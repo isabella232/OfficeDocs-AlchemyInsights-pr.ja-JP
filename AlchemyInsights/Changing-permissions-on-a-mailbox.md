@@ -8,13 +8,15 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
-ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
-ms.openlocfilehash: 1e681409ce0bf6e97b8749574c2b5710b079c6a1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom:
+- "642"
+- "3500009"
+ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936941"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359986"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>メールボックスのアクセス許可を変更する
 

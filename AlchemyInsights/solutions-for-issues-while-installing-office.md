@@ -8,33 +8,34 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "852"
+- "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 7a7148a1c2d0e812ab92a5132b8b4034031f8fc8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4324abd3588b68fcd291cd29da7cf236b10f71a6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942377"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354874"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Office のインストール時の問題の解決方法
-
 
 Office のエラーを修正するために、次のいずれかの解決方法を試してみてください。
   
 - コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
-    
+
 - [サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。
-    
-1. 起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。 
-    
+
+1. 起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。
+
 2. 各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。
-    
+
     再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。
-    
-3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。 
-    
-- [Office オフライン インストーラーを使用](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)して Office をインストールします 
-    
+
+3. その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。
+
+- [Office オフライン インストーラーを使用](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)して Office をインストールします
+
 インストールのエラーの詳細については、[Office のインストール時のエラー メッセージ](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)に関するページを参照してください。
   
-

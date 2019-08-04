@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000054
+ms.custom:
+- "1351"
+- "8000054"
 ms.assetid: 3241ac3e-57be-4888-9e95-c48c0cca8b13
-ms.openlocfilehash: ab46dc5147b3452ada7c0a76b6eed753108b0ad5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 57f06beb6d786dcd26beb9384a10bc87736bb0ba
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "31738288"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371654"
 ---
 # <a name="storage-limits-in-outlookcom"></a>Outlook.com の容量の上限
 
@@ -23,4 +25,3 @@ Microsoft では、無料の Outlook.com アカウントごとに 15 GB のメ�
   
 受信トレイがいっぱいになっている場合、メッセージを送受信することはできません。また、メールの送信者には、送信先の受信トレイがいっぱいであることを示すエラー メッセージが表示されます。受信トレイの空き記憶領域を増やす場合は、「[Outlook.com のストレージ制限](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409)」を参照してください。
   
-
