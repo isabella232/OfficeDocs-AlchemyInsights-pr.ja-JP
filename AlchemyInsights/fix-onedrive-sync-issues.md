@@ -7,16 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 0c2d1b71e9a6b9376d0315965af80651cc99e9fb
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 507987f147a1b6a09df4da02d307fbf330d7fd8d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969322"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387494"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="94347-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="94347-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="7e698-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="7e698-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="94347-103">OneDrive が期待どおりにファイルを同期しない場合は、[OneDrive の同期の問題をトラブルシューティング](https://go.microsoft.com/fwlink/?linkid=866431)できます。</span><span class="sxs-lookup"><span data-stu-id="94347-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="7e698-103">OneDrive が期待どおりにファイルを同期しない場合は、[OneDrive の同期の問題をトラブルシューティング](https://go.microsoft.com/fwlink/?linkid=866431)できます。</span><span class="sxs-lookup"><span data-stu-id="7e698-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
-
