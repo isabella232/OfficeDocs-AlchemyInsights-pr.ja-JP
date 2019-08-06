@@ -13,19 +13,20 @@ ms.custom:
 - "278"
 - "8000019"
 ms.assetid: 921c5c7c-9a02-4682-9bd1-03ef9bb0fd6e
-ms.openlocfilehash: b032a8d20dcca07b01bc7aca2ed66372469576b4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d517e010d9c501788f47eeabc4c1248483f296b8
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374498"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044677"
 ---
-# <a name="import-contacts"></a><span data-ttu-id="caa5c-102">連絡先をインポートする</span><span class="sxs-lookup"><span data-stu-id="caa5c-102">Import contacts</span></span>
+# <a name="import-contacts"></a><span data-ttu-id="edc83-102">連絡先をインポートする</span><span class="sxs-lookup"><span data-stu-id="edc83-102">Import contacts</span></span>
 
-<span data-ttu-id="caa5c-p101">Outlook.com に連絡先をインポートする前に、他のメール プロバイダーから .csv ファイル形式でエクスポートする必要があります。その後、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="caa5c-p101">Before importing contacts to Outlook.com, you'll need to export them from your other email provider as a .csv file. Then, follow the instructions below.</span></span>
+<span data-ttu-id="edc83-p101">Outlook.com に連絡先をインポートする前に、他のメール プロバイダーから .csv ファイル形式でエクスポートする必要があります。その後、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="edc83-p101">Before importing contacts to Outlook.com, you'll need to export them from your other email provider as a .csv file. Then, follow the instructions below.</span></span>
   
-1. <span data-ttu-id="caa5c-105">[[ユーザー]](https://outlook.live.com/people/) に移動します。</span><span class="sxs-lookup"><span data-stu-id="caa5c-105">Go to [People](https://outlook.live.com/people/).</span></span>
-2. <span data-ttu-id="caa5c-106">ページの上部で、**[管理]** \> **[連絡先のインポート]** の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="caa5c-106">At the top of the page, select \*\* Manage \*\*  Export.</span></span>
-3. <span data-ttu-id="caa5c-107">[**参照**] を選択し、エクスポートした連絡先を保存したフォルダーに移動し、[**開く**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="caa5c-107">Select **Browse**, navigate to the folder where you saved your exported contacts, and select **Open**.</span></span>
+1. <span data-ttu-id="edc83-105">[[ユーザー](https://outlook.live.com/people/)] に移動します</span><span class="sxs-lookup"><span data-stu-id="edc83-105">Go to [People](https://outlook.live.com/people/).</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+<span data-ttu-id="edc83-106">。</span><span class="sxs-lookup"><span data-stu-id="edc83-106"></span></span>
+2. <span data-ttu-id="edc83-107">ページの上部で、[**管理**] \> [**連絡先のインポート**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="edc83-107">At the top of the page, select \*\* Manage \*\*  Export.</span></span>
+3. <span data-ttu-id="edc83-108">[**参照**] を選択し、エクスポートした連絡先を保存したフォルダーに移動し、[**開く**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="edc83-108">Select **Browse**, navigate to the folder where you saved your exported contacts, and select **Open**.</span></span>
 
-<span data-ttu-id="caa5c-108">詳細については、「[Outlook.com に連絡先をインポートする](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="caa5c-108">To learn more, see [Import contacts to an Outlook.com account](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="edc83-109">詳細については、「[Outlook.com に連絡先をインポートする](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="edc83-109">To learn more, see [Import contacts to an Outlook.com account](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
