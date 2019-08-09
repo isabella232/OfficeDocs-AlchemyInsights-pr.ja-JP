@@ -1,7 +1,7 @@
 ---
 title: SharePoint ライブラリをネットワーク ドライブにマップする
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.date: 12/17/2018
 ms.audience: Admin
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: a545c2d9a395893bb089e1647944e9250e6d8df6
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
-ms.translationtype: HT
+ms.openlocfilehash: ca5adee1c7f6d87a4d1cd0d7fac34e51948ce6b4
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35802935"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269561"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 
-ライブラリをネットワーク ドライブとしてマップすることは一時的なもので、Internet Explorer でのみサポートされています。 そのため、セッションが期限切れになることを防ぐには、Internet Explorer で SharePoint サイトを開き、**[サインインした状態を維持]** を選択する操作を定期的に行う必要があります。 ライブラリをマップする代わりに、[ファイル オンデマンド](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)機能が備わった[新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>します。 OneDrive 内のすべてのファイルに、ローカル記憶域を使用することなくアクセスできます。
+ライブラリをネットワークドライブとしてマッピングすることは一時的で、Internet Explorer を使用する場合にのみサポートされます。 Internet Explorer で SharePoint サイトを開き、[サインイン状態を**維持**する] を選択して、セッションが期限切れにならないようにする必要があります。 代わりに、[新しい OneDrive 同期クライアント](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>を使用して SharePoint ファイルを同期します。これにより、[オンデマンドでファイル](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)が提供されます。 ローカル記憶域を使用せずに OneDrive のすべてのファイルにアクセスできます。
 
-[新しい OneDrive 同期クライアントを使用](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)する代わりに、ドライブをマップする方法を選択する場合は、次の記事の手順に従ってください。 
-
-
-**マップされたネットワーク ドライブを構成しトラブルシューティングする方法**
+[新しい OneDrive 同期クライアントを使用](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)する代わりにドライブをマップすることを選択した場合は、以下の記事の手順に従ってください。 
 
 
-「[マップされたネットワーク ドライブの構成とトラブルシューティング](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
+**マップされたネットワークドライブを構成およびトラブルシューティングする方法**
 
-注: Windows 8 または Windows 7 で実行する Internet Explorer 10 でドライブをマップする際に「**アクセスが拒否されました**」または「**パスにアクセスできません**」というメッセージが表示される場合は、[この修正プログラム](https://support.microsoft.com/help/2846960)をインストールして問題を解決してください。 
+
+「 [Configure and トラブルシューティング, マップ](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US)されたネットワークドライブ」を参照してください。
+
+注: Windows 8 または Windows 7 で Internet Explorer 10 を使用していて、ドライブのマッピング時に受信**アクセスが拒否**された場合、または**パス**にアクセスできない場合は、[この修正プログラム](https://support.microsoft.com/help/2846960)をインストールしてこの問題を解決してください。 

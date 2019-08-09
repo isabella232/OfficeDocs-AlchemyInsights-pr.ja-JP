@@ -1,5 +1,5 @@
 ---
-title: OneDrive の保持と削除に関する情報
+title: OneDrive の保持と削除
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -10,28 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
-- "2440"
 - "9000596"
-ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
-ms.translationtype: HT
+- "2440"
+ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232611"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269417"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive の保持と削除
 
-- 自分で「[削除されたユーザーの OneDrive を復元](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)」できます。 これらは、93 日間ごみ箱の中にあります。 
+- [削除されたユーザーを自分の OneDrive に復元](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)することができます。 これらのユーザーは、93日間ごみ箱にあります。 
 
-- 詳細については、[こちらの記事](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)をご覧ください。
-    - 削除されたユーザーの OneDrive へのアクセス権を別のユーザーに付与する方法。
-    - 組織のユーザーの Office 365 アカウントを削除すると、ユーザーの OneDrive では何が起こるのでしょうか。
+- 次の[トピック](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)を参照してください。
+    - 削除されたユーザーの OneDrive へのアクセス権を別のユーザーに与える方法。
+    - 組織のユーザーの Office 365 アカウントを削除するときに、ユーザーの OneDrive に対して行われる処理。
     - 自動アクセス委任を構成する方法。
-    - OneDrive の削除のプロセスが機能する仕組み。
+    - OneDrive の削除プロセスのしくみ。
 
-- セキュリティ/コンプライアンス センターの保持と保留に関心をお持ちですか。
+- セキュリティ/コンプライアンスセンターの保持と保持に興味はありますか?
     - [OneDrive および SharePoint サイトのアイテム保持ポリシー](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [ OneDrive および SharePoint サイトの電子情報開示の保留](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+    - [OneDrive および SharePoint サイトの電子情報開示ホールド](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

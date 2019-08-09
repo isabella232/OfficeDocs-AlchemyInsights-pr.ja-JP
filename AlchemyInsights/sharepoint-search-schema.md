@@ -1,36 +1,36 @@
 ---
-title: SharePoint Online の検索辞書を管理する
-ms.author: kirks
-author: Techwriter40
+title: SharePoint Online で検索スキーマを管理する
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 8aba36b20098ca7b2ad2564946b4696f3c5ad34a
-ms.sourcegitcommit: 407f6c1e82f1a0be5cf53301fbf03cd25dcbf0ee
-ms.translationtype: HT
+ms.openlocfilehash: f49195bec64f115063ccfb5256e27fbecd4a54f6
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36059150"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270116"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>SharePoint Online で検索スキーマを管理する
 
-検索スキーマでは、検索対象、検索方法、検索 Web サイトに検索結果を表示する方法を制御します。 
+検索スキーマは、ユーザーが検索できる対象、ユーザーが検索できる方法、検索結果を検索 web サイトに提示する方法を制御します。 
 
-次の方法の詳細については、「[SharePoint Online で検索スキーマを管理する](https://docs.microsoft.com/sharepoint/manage-search-schema)」を参照してください。 
-- 検索スキーマを変更する。
-- 管理プロパティを作成する。
-- クロールされたマップのクロールされたプロパティを管理プロパティにマップする。
+方法については[、「SharePoint Online で検索スキーマを管理](https://docs.microsoft.com/sharepoint/manage-search-schema)する」を参照してください。 
+- 検索スキーマを変更します。
+- 管理プロパティを作成します。
+- クロールされたマップのクロールされたプロパティを管理プロパティにマップします。
 
-検索スキーマの管理については、次の点にご注意ください。
+検索スキーマの管理に関しては、次の点に注意してください。
 
-- スキーマの変更を行うときに **アプリケーションが一時停止しています** という警告を受け取った場合、これはサービスの保守を行っている最中の一時的な状態に過ぎません。 
+- スキーマの変更時に**アプリケーションが一時停止**したことを示す警告が表示された場合は、サービスの保守が行われている限り、これは一時的なものになります。 
 
-    24 時間以上経過しても警告が表示される場合は、サポート ケースを記録してください。
-- 管理プロパティを変更するか、新しい管理プロパティを追加すると、その変更はコンテンツが再クロールされた後でのみ有効になります。 SharePoint Online では、定義されたクロール スケジュールに従って、クロールが自動的に行われます。
-- 変更が確実にクロールされるよう、[リストやライブラリのインデックスの再作成を具体的に要求](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list)することができます。 
+    24時間以上経過しても警告が表示される場合は、サポートケースをログに記録してください。
+- 管理プロパティを変更するか、新しい管理プロパティを追加すると、変更はコンテンツが再クロールされた後にのみ有効になります。 SharePoint Online では、クロールは、定義されたクロールスケジュールに基づいて自動的に行われます。
+- 変更がクロールされるようにするには、[リストまたはライブラリのインデックスの再作成を](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list)具体的に要求できます。 
 
-検索スキーマの完全な概要については、「[Introducing Search Schema for SharePoint (SharePoint の検索スキーマの概要)](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)」を参照してください。 
+検索スキーマの完全な概要については、「[検索スキーマ](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)の概要」を参照してください。 
 
 

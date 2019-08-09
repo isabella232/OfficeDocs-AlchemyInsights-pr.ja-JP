@@ -1,19 +1,19 @@
 ---
 title: SharePoint Online での外部共有
-ms.author: kirks
-author: Techwriter40
-ms.date: ''
+ms.author: efrene
+author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 9ba59536db8956db9505a224ff9837af0d2f27e2
-ms.sourcegitcommit: 748f651247bde10a24e4ba06539b35b53b75c38e
+ms.openlocfilehash: 22ed3ac5dec2077d05bce43921fe2e014009f6fb
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605932"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270461"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online での外部共有
 

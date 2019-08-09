@@ -1,31 +1,32 @@
 ---
-title: ルートサイトとしてのモダン サイト
+title: ルートサイトとしてのモダンサイト
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
 ms.topic: article
+ms.date: 8/7/2019
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1874"
 - "9000265"
-ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
-ms.translationtype: HT
+- "1874"
+ms.openlocfilehash: 260048db6c439183da8e0bb0c2dfa3c7475fca79
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232720"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269381"
 ---
-# <a name="modern-site-as-root-site"></a>ルート サイトとしてのモダン サイト
+# <a name="modern-site-as-root-site"></a>ルートサイトとしてのモダンサイト
 
-モダンサイトと従来のサイトのルートサイトを交換できるようにするために、新機能のロールアウトを開始しました。 [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) を使用して、元のサイトをアーカイブしながら、別のサイトとサイトの場所を交換します。 チーム サイト (グループに接続されていない) とコミュニケーション サイトの両方で使用できます。 
+従来のサイトのルートサイトをモダンサイトと入れ替えることができる新機能のロールアウトを開始しました。 元のサイトをアーカイブしている間は、 [Invoke-spsite wap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)を使用してサイトの場所を別のサイトと交換します。 両方のチームサイト (グループに接続されていない) とコミュニケーションサイトで使用できます。 
 
 >[!Important]
-> モダン コミュニケーション サイトを作成するために、従来のルート サイトを削除しないでください。 このようなことは、Microsoft ではサポートしていません。 ルートサイトを削除すると、サイトを復元するか、同じ URL の新しいサイトが作成されるまで、組織内のすべての SharePoint サイトですべてのユーザーにアクセスできなくなります。 私たちは、メッセージ センター経由でこの機能を伝えていきます。 すぐに、ユーザーのテナントの機能が有効になります。
+> モダンコミュニケーションサイトを作成するために、従来のルートサイトを削除しないでください。 これは Microsoft ではサポートされていません。 ルートサイトを削除すると、サイトを復元するか、同じ URL で新しいサイトを作成するまで、組織内のすべての SharePoint サイトがすべてのユーザーに対してアクセスできなくなります。 この機能は、メッセージセンター経由で通信します。 この機能は、すぐにテナントでオンになるはずです。
 
-## <a name="known-issues-with-swapping-sites"></a>サイトの入れ替えに関する既知の問題
-- ターゲット サイトでは、短時間の間、"見つかりません" (HTTP 404) というエラーを返す場合があります。
-- 検索インデックスを更新するには、コンテンツが再クロールされる必要があります。 ここでは、要求される手動ステップはありません。これは自動的に行われます。
-- "静的" リンクに依存するもの (ファイルの同期や OneNote ファイルなど) は、手動で修正される必要があります。
-- Project Server サイトを検証し、それらが正しく関連付けられていることを確認することが必要な場合があります。 
+## <a name="known-issues-with-swapping-sites"></a>サイトのスワップに関する既知の問題
+- ターゲットサイトは、短時間に "not found" (HTTP 404) エラーを返す場合があります。
+- 検索インデックスを更新するには、コンテンツを再クロールする必要があります。 ここでは手動での手順は必要ありませんが、これは自動的に実行されます。
+- "静的" リンク (ファイル同期や OneNote ファイルなど) に依存するものは、手動で修正する必要があります。
+- Project Server サイトが正しく関連付けられていることを確認するには、そのサイトを検証する必要があります。 

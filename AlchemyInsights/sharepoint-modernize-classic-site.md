@@ -1,27 +1,28 @@
 ---
-title: ルート サイトとしてのモダン サイト
-ms.author: kirks
-author: Techwriter40
+title: ルートサイトとしてのモダンサイト
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: cb2afc4cacf4c45b7643ebce7b6e8ca6f92c9e03
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
-ms.translationtype: HT
+ms.openlocfilehash: a3e22ec802826c1e9b205314f3e9b461a00c46dd
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803079"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270209"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>従来の SharePoint サイトをモダン化する
 
-新しいモダン エクスペリエンスの活用に関する詳細については、以下を参照してください。
+新しいモダンバージョンの使用の詳細については、以下を参照してください。
 
-- 従来の SharePoint サイトをモダン エクスペリエンスにモダン化する手順の概要については、「[従来の SharePoint サイトをモダン化する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)」を参照してください。
+- 従来の SharePoint サイトをモダンなものにモダン化するためのステップバイステップの概要については、「[従来の Sharepoint サイトを近代化](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)する」を参照してください。
 
 - サイト ページと、リストやライブラリのページで、モダン ユーザー インターフェイスを最大限に利用するには、「[ユーザー インターフェイスをモダン化する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)」を参照してください。 
 
-- モダン ユーザー インターフェイスの使用時に、リストとライブラリのブロックを解除する方法については、「[モダン リストとライブラリを最大限に活用する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)」を参照してください。
+- モダンユーザーインターフェイスを使用しているときに、リストとライブラリのブロックを解除する方法については、「[モダンリストとライブラリを最大限](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)に活用する」を参照してください。
 
 - Office 365 のグループに接続し、グループ接続を実行するには「[Office 365 グループに接続する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)」を参照してください。
