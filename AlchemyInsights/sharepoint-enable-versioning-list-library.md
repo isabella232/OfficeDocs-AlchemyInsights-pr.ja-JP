@@ -1,20 +1,25 @@
 ---
-title: リストまたはライブラリでバージョン管理を有効にする
-ms.author: kirks
-author: Techwriter40
+title: SharePoint と OneDrive でのバージョン管理
+ms.author: efrene
+author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
-ms.translationtype: HT
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223609"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270425"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>SharePoint リストまたはライブラリのバージョン管理を有効にする
+# <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint と OneDrive でのバージョン管理 
 
 
 SharePoint リストまたはライブラリでバージョン管理が有効になっていると、リスト内のアイテムやライブラリ内のファイルのすべての変更を保存、追跡、および復元できるようになります。 バージョン管理とその他の設定 (チェックアウトなど) を組み合わせると、サイトに投稿されているコンテンツを詳細に管理できます。古いバージョンのアイテムまたはファイルの参照や復元が必要になったときに、その重要性がわかります。
@@ -33,6 +38,7 @@ SharePoint リストまたはライブラリでバージョン管理が有効に
 
 - [バージョン管理の制限](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**注:** Office 365 ユーザーの場合は、新しい OneDrive for Business のライブラリを作成したときにバージョン管理が既定でオンにされるようになりました。これにより、ドキュメントの最新 500 バージョンが自動的に保存されるようになります。 重要なドキュメントやデータの損失防止に役立ちます。 OneDrive for Business サイトやチーム サイトに、バージョン管理が有効になっていない既存のライブラリがある場合は、それらのバージョン管理をいつでもオンにできます。
+>[!Note] 
+>Office 365 ユーザーの場合は、新しい OneDrive for Business のライブラリを作成すると、規定でバージョン管理がオンになるようになりました。しかも、ドキュメントの最新 500 バージョンが自動的に保存されます。 これは、重要なドキュメントやデータの損失防止に役立ちます。 OneDrive for Business サイトやチーム サイトに、バージョン管理が有効になっていない既存のライブラリがある場合は、それらのバージョン管理をいつでもオンにできます。
 
 
