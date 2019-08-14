@@ -13,16 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 934312fdf790a9f51bb3882c460b8b984f98a310
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383966"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390157"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="07e6e-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="07e6e-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="c6359-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="c6359-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="07e6e-p101">お客様のリクエストを確認したところ、当該組織は Microsoft 認定教育機関の対象ではないと判断されました。現在の教育機関向け試用版サービスは、試用期間経過後に期限切れとなります。</span><span class="sxs-lookup"><span data-stu-id="07e6e-p101">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution. Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="c6359-p101">お客様のリクエストを確認したところ、当該組織は Microsoft 認定教育機関の対象ではないと判断されました。現在の教育機関向け試用版サービスは、試用期間経過後に期限切れとなります。</span><span class="sxs-lookup"><span data-stu-id="c6359-p101">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution. Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="07e6e-105">Office 365 製品版を購入するには、[利用可能なプラン](https://go.microsoft.com/fwlink/p/?linkid=868433)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="07e6e-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
-  
+<span data-ttu-id="c6359-105">Office 365 製品版を購入するには、[利用可能なプラン](https://go.microsoft.com/fwlink/p/?linkid=868433)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c6359-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
