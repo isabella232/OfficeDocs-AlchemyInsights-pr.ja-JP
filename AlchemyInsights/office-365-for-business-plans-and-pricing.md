@@ -13,14 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 97a87c56f3f6e9ecea7613b0ecdbdd707d387818
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378926"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390697"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="855e7-102">Office 365 Business の比較</span><span class="sxs-lookup"><span data-stu-id="855e7-102">Compare Office 365 for Business</span></span>
+# <a name="compare-office-365-for-business"></a><span data-ttu-id="db3a8-102">Office 365 Business の比較</span><span class="sxs-lookup"><span data-stu-id="db3a8-102">Compare Office 365 for Business</span></span>
 
-<span data-ttu-id="855e7-p101">Office 365 Business には 3 種類のプランがあります。[Office 365 Business のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。</span><span class="sxs-lookup"><span data-stu-id="855e7-p101">There are three different plans available with Office 365 for Business. [Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>
-  
+<span data-ttu-id="db3a8-p101">Office 365 Business には 3 種類のプランがあります。[Office 365 Business のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。</span><span class="sxs-lookup"><span data-stu-id="db3a8-p101">There are three different plans available with Office 365 for Business. [Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
