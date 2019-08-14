@@ -13,18 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370680"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388461"
 ---
 # <a name="question-about-licenses"></a>ライセンスについて質問する
 
 購入したライセンスの数またはサブスクリプションから割り当てられているライセンスの数を確認するには、次の手順を行います。
   
-1. 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]**、**[サブスクリプション]** の順に選択します。
+1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
 2. 詳細を把握する必要のあるサブスクリプションを選択します。
 

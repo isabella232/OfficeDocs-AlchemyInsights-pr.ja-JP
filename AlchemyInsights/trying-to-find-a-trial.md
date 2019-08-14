@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366754"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387849"
 ---
 # <a name="trying-to-find-a-trial"></a>試用版をお探しですか?
 
-新しいサービスをお試しいただく場合、利用できるサブスクリプションの一覧が Microsoft 365 管理センターにあります。
+新しいサービスを試す場合は、管理センターで試用可能なサブスクリプションの一覧を確認できます。
   
-1. [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動するか、[**課金**]、[**サービスを購入する**] の順に選択します。
+1. 管理センターで、[**請求** \> [書購入サービス](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。
 
 2. 自分の目的に合ったサブスクリプションが見つかったら、それにカーソルを合わせ、[**無料試用の開始**] を選択します。
 

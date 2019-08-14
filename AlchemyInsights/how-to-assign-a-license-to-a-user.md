@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385694"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386301"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>ユーザーにライセンスを割り当てる方法
 
 ユーザーがサービスにアクセスするにはライセンスが必要です。ユーザーのライセンスの追加、変更、または削除は、次の手順で行います。
   
-1. 管理センターで、[[アクティブなユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) ページにアクセスするか、**[ユーザー]**、**[アクティブなユーザー]** の順に選択します。
+1. 管理センターで、[**ユーザー** \>の[アクティブなユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822) ] ページに移動します。
 
 2. ライセンスの割り当て、変更、または削除を行うユーザーの名前の横にあるボックスを選択します。
 
@@ -38,5 +38,4 @@ ms.locfileid: "35385694"
 
 5. **[製品ライセンス]** ウィンドウの下部にある **[保存]**、**[閉じる]**、**[閉じる]** の順に選択します。
 
-詳細については、「[一般法人向け Office 365 ライセンスをユーザーに割り当てる](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)」と「[一般法人向け Office 365 のユーザーからライセンスを削除する](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)」を参照してください。
-  
+詳細については、「[一般法人向け Office 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)」と「[一般法人向け Office 365 のユーザーからライセンスを削除する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)」を参照してください。

@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383534"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389941"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>継続請求を再アクティブ化および管理する方法
 
 期限切れのサブスクリプションがあるようです。サブスクリプションを再アクティブ化する手順を次に示します。
   
-1. 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** に移動します。
+1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
 2. **期限切れ**または**無効**なサブスクリプションを選択します。
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383534"
 
 月次請求または年次請求を管理する場合は、**[継続請求]** のオン/オフを切り替えることができます。
   
-1. 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** に移動します。
+1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
 2. 継続請求を管理するサブスクリプションを選択します。
 
 3. **[継続請求]** のトグルを **[オン]** または **[オフ]** に切り替えます。
 
-詳細については、「[サブスクリプションの継続請求を管理する](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)」を参照してください。
-  
+詳細については、「[定期的な請求をオフまたはオンにする](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)」を参照してください。

@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371206"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388605"
 ---
 # <a name="prepaid-renewal"></a>プリペイドの更新
 
-1. 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** の順に選択します。
+1. 管理センターで、[**課金** \> [サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
 2. 延長するプリペイド サブスクリプションを選択して、**[延長]** を選択します。
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371206"
 5. 情報に間違いがないことを確認して、**[次へ]** を選択します。
 
 6. 既存のライセンスの終了日を延長するラジオ ボタンを選択して、**[次へ]** を選択します。
+
+新しい管理センターを使用していますか? 新しい手順について[は、「プロダクトキーを使用してライセンスを追加または拡張する](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)」を参照してください。

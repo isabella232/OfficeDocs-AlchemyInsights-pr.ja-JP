@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359770"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386949"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
 ご利用いただきありがとうございました。
   
-組織のデータに基づくと、現在のすべてのサブスクリプションのシートは 25 未満であると思われます。サブスクリプションをオンラインでキャンセルするには、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、または [**課金**]、[**サブスクリプション**] の順に移動して、[**その他のアクション**]、[**サブスクリプションのキャンセル**] の順に選択します。
+お客様の組織のデータに基づいて、現在のサブスクリプションのすべてが25座席未満であると考えています。 サブスクリプションをオンラインで解約するには、[**課金** \> [サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに**** \>移動して、[**サブスクリプションのキャンセル]** を選択します。
   
-サブスクリプションのキャンセルに関する詳細または詳しい手順については、「[一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)」の記事を参照してください。
-  
+サブスクリプションのキャンセルまたはステップごとの手順の詳細については、次の記事を参照してください。[サブスクリプションの取り消し](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

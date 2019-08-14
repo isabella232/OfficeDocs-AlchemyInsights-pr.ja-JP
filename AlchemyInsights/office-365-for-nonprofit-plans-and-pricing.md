@@ -13,12 +13,12 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: e10c92bc87f5aa8c48682a0586b8f20a65d46f8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378638"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390589"
 ---
 # <a name="office-365-for-nonprofit-plans-and-pricing"></a>非営利団体向け Office 365 のプランと価格
 

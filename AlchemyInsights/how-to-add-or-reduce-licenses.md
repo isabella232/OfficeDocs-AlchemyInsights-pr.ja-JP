@@ -13,20 +13,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385658"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388821"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>ライセンスを追加または削除する方法
 
 ライセンスを削除または追加購入する方法について説明します。
   
-1. 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]**、**[サブスクリプション]** の順に選択します。
+1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
-2. 左で、ライセンスを追加または削除するサブスクリプションを選択します。
+2. 左側で、ライセンスを追加/削除するサブスクリプションを選択します。
 
 3. **[ライセンスの追加/削除]** を選択します。
 
@@ -38,13 +38,15 @@ ms.locfileid: "35385658"
 
 > [!NOTE]
 > 新しい請求 (ライセンスの増加) またはクレジット (ライセンスの減少) は、次回の請求書に表示されます。
-  
+
+新しい管理センターを使用していますか? 新しい手順については、「一般[法人向け Office 365 のサブスクリプションのライセンスを購入](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
+
  **リソース**
   
-- [一般法人向け Office 365 サブスクリプションからライセンスを削除する](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [一般法人向け Office 365 サブスクリプションからライセンスを削除する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [一般法人向け Office 365 サブスクリプションのライセンスを購入する](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [一般法人向け Office 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [一般法人向け Office 365 をキャンセルする](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [一般法人向け Office 365 をキャンセルする](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [別の一般法人向け Office 365 サブスクリプションを購入する](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [別の一般法人向け Office 365 サブスクリプションを購入する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)

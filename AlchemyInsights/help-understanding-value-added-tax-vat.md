@@ -13,12 +13,12 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386342"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390517"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>付加価値税 (VAT) についての説明
 
@@ -27,4 +27,3 @@ ms.locfileid: "35386342"
 税制上の理由から、Invoicing の設定には VAT 登録番号を指定する必要もあります。
   
 VAT の税率の追加や削除はできませんが、VAT の既定の税率は [設定] で変更できます。既定では、Invoicing は VAT 登録番号を検証するサービスを使用しますが、欧州委員会が公開している [VIES 免責条項](https://go.microsoft.com/fwlink/?LinkID=841741)を確認することをお勧めします。このサービスを無効化すると、すべての VAT 登録番号の検証が必要になります。
-  
