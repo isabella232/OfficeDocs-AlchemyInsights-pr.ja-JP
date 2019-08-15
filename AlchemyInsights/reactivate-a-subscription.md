@@ -13,21 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370572"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391057"
 ---
 # <a name="reactivate-a-subscription"></a>サブスクリプションを再アクティブ化する
 
-サブスクリプションの有効期限が切れた場合、Microsoft が無効にした場合、または、サブスクリプションをサブスクリプション期間の途中にキャンセルした場合は、Microsoft 365 管理センターでサブスクリプションを再アクティブ化できます。
+サブスクリプションの有効期限が切れた場合、Microsoft が無効にした場合、または、サブスクリプションをサブスクリプション期間の途中にキャンセルした場合は、管理センターでサブスクリプションを再アクティブ化できます。
   
-1. 管理センターで、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動するか、[**課金**]、[**サブスクリプション**] の順に選択します。
+1. 管理センターの [**課金**] \> [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
 2. 再アクティブ化するサブスクリプションを選択して、[**再アクティブ化**] を選択します。
 
     [**再アクティブ化**] が選択可能な操作として表示されない場合は、[電話する] オプションを使用して、サポート エンジニアにサブスクリプションの再アクティブ化について問い合わせてください。
 
 3. 支払いの詳細を入力します。ここで既存の支払い情報を更新することができます。
+
+新しい管理センターを使用していますか。 新しい手順については「[サブスクリプションを再度有効にする](https://docs.microsoft.com/ja-JP/office365/admin/subscriptions-and-billing/reactivate-your-subscription)」を参照してください。
