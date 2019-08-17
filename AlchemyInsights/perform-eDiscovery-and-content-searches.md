@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371438"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444777"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>コンテンツ検索と電子情報開示検索の実行方法
 
-**コンテンツ検索**
+セキュリティ & コンプライアンスセンターのコンテンツ検索ツールを使用して、Exchange メールボックス内の電子メール、SharePoint サイトと OneDrive アカウントのドキュメント、および Skype for Business でのインスタントメッセージング会話をすばやく見つけることができます。 また、コンテンツ検索ツールを使用して、Microsoft Teams や Office 365 グループなどの Office 365 コラボレーションツールで、電子メール、ドキュメント、インスタントメッセージの会話を検索することもできます。
+
+**コンテンツ検索を実行するには**
 
 1. [セキュリティ/コンプライアンス センター](https://protection.office.com)に移動して、サインインします。
-2. **[検索と調査] > [コンテンツの検索]** をクリックします。
+2. [ **Search > Content search**] をクリックします。
 3. **[新規検索]** をクリックして、新しい検索を作成します。
 4. キーワードやコンテンツの場所など、必須の検索条件を入力します。  
 5. **[保存および実行]** をクリックして、検索に名前を付けて、検索を開始し、その結果を確認します。
 
-検索の作成と結果のエクスポートの詳細な手順については、[この記事](https://docs.microsoft.com/office365/securitycompliance/content-search)を参照してください。
+コンテンツ検索、結果のエクスポート、データを保持する電子情報開示ケースの作成に関する詳細な手順については、「[コンテンツ検索](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)と[電子情報開示ケース](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)」を参照してください。
 
-**電子情報開示検索**
-
-1. [セキュリティ/コンプライアンス センター](https://protection.office.com)に移動して、サインインします。
-2. **[検索と調査] > [電子情報開示]** をクリックします。
-3. 既存のケースを開くか、新しいケースを作成します。
-4. ケースのホーム ページで、**[検索]** タブをクリックします。  
-5. **[新規検索]** をクリックして、新しい検索を作成します。
-6. キーワードやコンテンツの場所など、必須の検索条件を入力します。  
-7. **[保存および実行]** をクリックして、検索に名前を付けて、検索を開始し、その結果を確認します。
-
-電子情報開示に関連する検索の作成と結果のエクスポートの詳細な手順については、[この記事](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)を参照してください。
+コンテンツ検索の詳細については、「[要件」と「制限](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search)」を参照して、部分的にインデックスが作成されたアイテムおよび認識するその他の結果を[調査](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)してください。
