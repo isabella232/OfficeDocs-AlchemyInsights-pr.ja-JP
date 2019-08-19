@@ -21,6 +21,6 @@ ms.locfileid: "35904137"
 ---
 # <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Web 用 OneNote または OneNote 2016 でノートブックを共有する
 
-Web 用 OneNote では、ノートブックを表示および編集するために別のユーザーを招待したり、電子メール、ブログ、または Web ページに貼り付けられるノートのページへのリンクを作成したりして、ノートを共有します。  詳細については、「[Web 用 OneNote を使って他のユーザーとノートを共有する](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)」を参照してください。
+Web 用 OneNote では、自分のノートブックの表示および編集を許可する他のユーザーを招待するか、メール、ブログ、または Web ページに貼り付けられるノートのページへのリンクを作成するかのいずれかの方法でノートを共有できます。  詳細については、「[Web 用 OneNote を使用して他のユーザーとノートを共有共有する](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)」を参照してください。
 
-OneNote 2016 では、他のユーザーがノートブックを取得できるよう OneDrive に OneNote 2016 ノートブックが存在していることを確認します。 共有するには、メールで招待するか、共有リンクを用意します。 詳細については、「[OneNote 2016 for Windows のノートブックを他のユーザーと共有する](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)」を参照してください。
+OneNote 2016 では、他のユーザーが OneNote 2016 のノートブックを取得できるよう、ノートブックは OneDrive に保存する必要があります。 共有するには、メールで招待するか、共有リンクを用意します。 詳細については、「[OneNote 2016 for Windows のノートブックを他のユーザーと共有する](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)」を参照してください。
