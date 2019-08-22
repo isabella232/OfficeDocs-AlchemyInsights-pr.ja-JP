@@ -1,5 +1,5 @@
 ---
-title: モダン サイトとクラシック ルート サイトを入れ替える
+title: 従来のルートサイトをモダンサイトと入れ替える
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
-ms.translationtype: HT
+ms.openlocfilehash: be2c706fcc5205ffa0c81bf4572d53a0073666af
+ms.sourcegitcommit: dbc272785f230be1a4a68aa246f8f7b8646b1ad0
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270749"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36491414"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>モダン サイトとクラシック ルート サイトを入れ替える
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>従来のルートサイトをモダンサイトと入れ替える
 
-2019 年 4 月より前に環境を設定した場合は、Microsoft PowerShell を使用して、ルート サイトをモダン サイトに変更できます。
+4月2019日より前に環境を設定した場合は、Microsoft PowerShell を使用してルートサイトをモダンサイトに変更することができます。
 
-- ルート サイトとして使用したい別のサイトをお持ちの場合は、そのサイトとルート サイトを置き換える (入れ替える) ことができます。 
-    - [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) を使用して、元のサイトをアーカイブしながら、別のサイトとサイトの場所を交換します。 チーム サイト (グループに接続されていない) とコミュニケーション サイトの両方で使用できます。 
+- ルートサイトとして使用する別のサイトがある場合は、ルートサイトを置き換える (スワップする) ことができます。 
+    - 元のサイトをアーカイブしているときに、 [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)を使用してサイトの場所を別のサイトと交換します。 両方のチームサイト (グループに接続されていない) とコミュニケーションサイトで使用できます。 
 
-- 間もなく、追加機能が導入されて、引き続きサイトのコンテンツを使用できるようになりますが、既存のサイトをコミュニケーション サイトに変換します。 
+- サイトのコンテンツを引き続き使用し、既存のサイトをコミュニケーションサイトに変換できる追加機能が導入されます。 
 >[!Important]
->これらの機能は、段階的にロールアウトされます。 更新プログラムに関しては、引き続き Office 365 メッセージ センターでご確認ください。 
+>これらの機能は段階的にロールアウトされます。 引き続き Office 365 メッセージセンターで更新プログラムをチェックします。 
 
-## <a name="known-issues-with-swapping-sites"></a>サイトの入れ替えに関する既知の問題
+## <a name="known-issues-with-swapping-sites"></a>サイトのスワップに関する既知の問題
 
-- ターゲット サイトでは、短時間の間、"見つかりません" (HTTP 404) というエラーを返す場合があります。
-- 検索インデックスを更新するには、コンテンツが再クロールされる必要があります。 要求される手動ステップはありません。つまり、これは自動的に行われます。
-- "静的" リンクに依存するもの (ファイルの同期や OneNote ファイルなど) は、手動で修正される必要があります。
-- ソース サイトが組織のニュース サイトだった場合は、URL を更新します。 すべての組織のニュース サイトの一覧を取得します。
-- Project Server サイトを検証し、それらが正しく関連付けられていることを確認することが必要な場合があります。
+- ターゲットサイトは、短時間に "not found" (HTTP 404) エラーを返す場合があります。
+- 検索インデックスを更新するには、コンテンツを再クロールする必要があります。 手動による手順は必要ありません。これは自動的に実行されます。
+- "静的" リンク (ファイル同期や OneNote ファイルなど) に依存するものは、手動で修正する必要があります。
+- ソースサイトが組織のニュースサイトの場合は、URL を更新します。すべての組織のニュースサイトのリストを取得します。
+- Project Server サイトが正しく関連付けられていることを確認するには、そのサイトを検証する必要があります。
 
 
 
