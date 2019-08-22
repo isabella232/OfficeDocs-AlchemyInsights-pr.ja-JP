@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387756"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506124"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="bb48a-102">明細の表示</span><span class="sxs-lookup"><span data-stu-id="bb48a-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="dad1a-102">明細の表示</span><span class="sxs-lookup"><span data-stu-id="dad1a-102">View my bill</span></span>
 
-1. <span data-ttu-id="bb48a-103">管理センターで、[**課金請求書** \> [](https://go.microsoft.com/fwlink/p/?linkid=848039) ] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="bb48a-103">In the admin center, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="dad1a-103">Microsoft 365 管理センターで、**請求書** \> [& の支払い](https://go.microsoft.com/fwlink/p/?linkid=848039)ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="dad1a-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="bb48a-104">目的の請求書の月と日を選択してから、[**表示**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="bb48a-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="dad1a-104">ドロップダウンリストから日付範囲を選択し、表示する順序を選択します。</span><span class="sxs-lookup"><span data-stu-id="dad1a-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="bb48a-105">注文を選択してから、[**詳細の表示**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="bb48a-105">Choose an order, and then choose **View Details**.</span></span>
-
-<span data-ttu-id="bb48a-106">詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="bb48a-106">For more information see [View your bill or invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="dad1a-105">詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dad1a-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>

@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 501e9266a58c9bd39fe42771becee804c62ede46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357250"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506556"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="beed1-102">外部の送信者が配布グループにメッセージを送信できるようにする</span><span class="sxs-lookup"><span data-stu-id="beed1-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="b8399-102">外部の送信者が配布グループにメッセージを送信できるようにする</span><span class="sxs-lookup"><span data-stu-id="b8399-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="beed1-103">組織外のユーザーが配布グループにメッセージを送信したときにエラーが表示される場合、または配布グループが外部の送信者からのメールを受信するように構成されていることを確認する場合は、以下の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="beed1-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="b8399-103">組織外のユーザーが配布グループにメッセージを送信したときにエラーが表示される場合、または配布グループが外部の送信者からのメールを受信するように構成されていることを確認する場合は、以下の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="b8399-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="beed1-104">[Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の **[グループ]** ノードに移動します。</span><span class="sxs-lookup"><span data-stu-id="beed1-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="b8399-104">[Office 365 管理ポータル](https://portal.office.com/adminportal/home#/groups)の **[グループ]** ノードに移動します。</span><span class="sxs-lookup"><span data-stu-id="b8399-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
 
-2. <span data-ttu-id="beed1-105">配布グループを選択し、表示されたグループ プロパティのフライ アウトで、**[外部の送信者を許可する]** を含むセクションの **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="beed1-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="b8399-105">配布グループを選択し、表示されたグループ プロパティのフライ アウトで、**[外部の送信者を許可する]** を含むセクションの **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b8399-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
 
-3. <span data-ttu-id="beed1-p101">表示された **[詳細の編集]** フライ アウトで、**[この配布グループにメールを送信するには、自分の所属組織外のユーザーを許可します。]** が **[オン]** になっていることを確認してから、**[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="beed1-p101">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.** is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="b8399-p101">表示された **[詳細の編集]** フライ アウトで、**[この配布グループにメールを送信するには、自分の所属組織外のユーザーを許可します。]** が **[オン]** になっていることを確認してから、**[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b8399-p101">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.** is **On**, and then click **Save**.</span></span>
