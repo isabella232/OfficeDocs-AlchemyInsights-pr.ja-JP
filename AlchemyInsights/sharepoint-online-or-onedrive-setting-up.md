@@ -8,15 +8,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 3f4f6cf96f8197b0840f26e922e1158c18d07c63
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: df0f6903a504d2fe6e988277e254b7e03910eeb4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369539"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559811"
 ---
-"セットアップ中"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online または OneDrive の "セットアップ中"
 
 ユーザーが既存の Office 365 テナントに追加されると、プロビジョニング プロセスが完了するまで、SharePoint Online または OneDrive for Business のアイコンが "セットアップ中"と表示されることがあります。
