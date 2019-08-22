@@ -11,12 +11,12 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 96b2438d01163398438e5124a24228630756b7bc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353902"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500423"
 ---
 # <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Office 365 試用版のユーザーがメールを送信すると発生するエラー: クライアント ホストが Spamhaus の使用をブロックしました
 

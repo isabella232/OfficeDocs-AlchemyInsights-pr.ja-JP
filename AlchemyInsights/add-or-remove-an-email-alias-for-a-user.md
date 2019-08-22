@@ -11,12 +11,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: eabc6652ba8e7d7b10f9e96378223ee79f0aa737
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 30cae3d639c337b967d1fce24c0256fe551c1099
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358618"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495000"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>ユーザーのメール アドレスを追加または削除する
 

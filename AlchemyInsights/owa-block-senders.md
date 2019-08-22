@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: 6a56bf52428adce20bc2f4ec46523cf99eb207f5
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
-ms.translationtype: HT
+ms.openlocfilehash: fcd41108cb96fffac8b20ff7160199588f0886a8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171611"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510952"
 ---
-# <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Outlook on the web で送信者をブロックまたはブロック解除する
 
-**[受信トレイ] から:**
+**受信トレイから:**
 
-- メッセージ リストでメッセージを選択してから、**[迷惑メール]** > **[受信拒否]** の順に選択します。
+- メッセージ一覧で、メッセージを選択し、[**迷惑メール** > **ブロック**] を選択します。
 
-**[設定] から:**
+**[設定元]:**
 
-1. ページの上部で、歯車のアイコンを選択し、 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- [設定] を開き、 **[Outlook のすべての設定を表示]** を選択します。
-2. **[メール]** > **[迷惑メール]** の順に選択します。
-3. **[受信拒否送信者とドメイン]** で、**[追加]** を選択します。
-4. ブロックするドメインの電子メール アドレスを入力して、Enter キーを押します。
+1. ページの上部で、歯車アイコンを選択します。 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ [設定] を開いてから、[**すべての Outlook の設定を表示**] を選択します。
+2. [**メール** > **迷惑メール**] を選択します。
+3. [禁止された**送信者とドメイン**] で、[**追加**] を選択します。
+4. ブロックするドメインの電子メールアドレスを入力し、Enter キーを押します。
 5. **[保存]** を選択します。
 
-送信者のブロックを解除するには、ブロック解除する電子メール アドレスまたはドメインの横にあるごみ箱アイコンを選択します。
+送信者のブロックを解除するには、ブロックを解除する電子メールアドレスまたはドメインの横にあるごみ箱アイコンを選択します。
 
-詳細については、「[Outlook on the web で送信者をブロックする、または送信者のブロックを解除する](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)」を参照してください。
+詳細については、「 [web 上の Outlook で送信者をブロックする」または「送信者をブロック解除](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)する」を参照してください。

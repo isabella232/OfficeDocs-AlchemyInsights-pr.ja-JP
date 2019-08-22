@@ -11,12 +11,12 @@ ms.custom:
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 572354fb37e8e298194ee4399d23117c2e0dfc93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 1a18674e68eab779984f273f0d90e28f9cdb9921
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372086"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512284"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com での設定
 

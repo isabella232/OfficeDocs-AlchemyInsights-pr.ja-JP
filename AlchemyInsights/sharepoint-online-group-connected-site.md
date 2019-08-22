@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f0126f7f753275e9bbf8c3a09a6af5faf9a27862
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
-ms.translationtype: HT
+ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35174469"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507852"
 ---
-# <a name="create-group-connected-site-in-sharepoint-online"></a>SharePoint Online でグループ接続されたサイトを作成する
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>SharePoint Online で接続されたサイトを作成またはグループ化する際の問題
 
-グループ接続されたサイトを作成または再作成する際に発生する一般的な問題がいくつかあります。
+グループに接続されたサイトを作成または再作成するときに、いくつかの一般的な問題が発生しました。
 
- グループおよびグループと接続されたサイトを削除し、同じ URL で新たにサイトを作成する場合は、以前のサイトを完全に削除する必要があります。
+ グループとその接続されたサイトを削除し、同じ URL を持つ別のサイトを作成したい場合は、以前のサイトを完全に削除する必要があります。
 
-[SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) をダウンロードする
+[Spo 管理シェル](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)をダウンロードする
 
- PowerShell の使用を開始する方法の詳細については、「[SharePoint Online 管理シェルの使用を開始する](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)」を参照してください。
+ Powershell の概要については、「 [SharePoint Online 管理シェルの](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)概要」を参照してください。
 
-[Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell コマンドレットを使用して、削除されたサイトからサイトを削除します。
+[Remove-spodeletedsite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) powershell コマンドレットを使用して、削除されたサイトからサイトを削除します。
 
-グループ接続されたサイトを作成する際に、同じエイリアスのグループが既に存在していますという警告が表示される場合、[Office 365 管理センター](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)で既存のグループを確認します。 この問題を解決するには、不要になった既存のグループを削除するか、異なるエイリアスを割り当ててサイトを作成します。
+グループに接続されたサイトを作成している場合に、同じエイリアスを持つ他のグループが既に存在する場合は、[管理センターから Office 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)の既存のグループを確認します。 この問題を解決するには、既存のグループが不要になった場合は削除し、別のエイリアスを割り当てたサイトを作成します。
 
-SharePoint でモダン グループを作成および使用するには、さまざまな方法があります。
+SharePoint でモダングループを作成して使用するには、さまざまな方法があります。
 
-既存のサイトを Office 365 グループに接続することができます。 詳細については、「[SharePoint ユーザー インターフェイスを使用して Office 365 グループを接続する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)」を参照してください。
+既存のサイトを Office 365 グループに接続することができます。 詳細については、「 [Connect An Office 365 group using The SharePoint user ineterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)」を参照してください。
 
-Office 365 のグループ接続されたサイトを作成するには、チーム サイトを作成する必要があります。 詳細については、「[SharePoint Online でチーム サイトを作成する](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)」を参照してください。
+Office 365 グループに接続されたサイトを作成するには、チームサイトを作成する必要があります。 詳細については、「 [SharePoint でチームサイトを作成する](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)」を参照してください。
 

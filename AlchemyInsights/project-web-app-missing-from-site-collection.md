@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: a751382271fa9b52b0d56649f9c5488571407337
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 07b85c52cfacb2d8563df99d6557a0bf909a57fa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371091"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509962"
 ---
 # <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App が SharePoint サイト コレクションで見つからない
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: 866bab69dd2d43c3196059563d3a6b7ea8d16940
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e57b5cab56510de3c14036141baa26b04a8418e1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370986"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554247"
 ---
 # <a name="project-online-is-in-a-read-only-state"></a>Project Online が読み取り専用状態
 

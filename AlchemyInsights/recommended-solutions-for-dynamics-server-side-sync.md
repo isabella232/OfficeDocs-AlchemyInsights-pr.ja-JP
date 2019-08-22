@@ -1,5 +1,5 @@
 ---
-title: Dynamics Server 側同期の推奨ソリューション
+title: Dynamics のサーバー側同期の推奨ソリューション
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,29 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1fad32a445f1de4bfca566f13323274c87ebd4c1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
-ms.translationtype: HT
+ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904231"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509921"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server 側同期の推奨ソリューション
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics のサーバー側同期の推奨ソリューション
 
-* [ポータルに表示されるサーバー エラーの詳細情報を確認する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [ポータルに表示されているサーバーの詳細なエラーを表示する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [ポータルのリセット方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [ポータルをリセットする方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [ポータルのサーバー側キャッシュをクリアする方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* 
-  [Dynamics 365 ポータルの種類と対象ユーザーを変更する方法](https://support.microsoft.com/ja-JP/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 ポータルの対象ユーザーと種類を変更する方法](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* 
-  [ポータルの基本 URL を変更する方法](https://docs.microsoft.com/ja-JP/dynamics365/customer-engagement/portals/change-base-url)
+* [ポータルのベース URL を変更する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [ポータルを使用して外部 ID プロバイダーを構成する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [ポータルを使用して外部 Id プロバイダーを構成する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [よく寄せられる質問](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [マイ Dynamics 365 ポータルの概要](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [My Dynamics 365 ポータルの概要](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

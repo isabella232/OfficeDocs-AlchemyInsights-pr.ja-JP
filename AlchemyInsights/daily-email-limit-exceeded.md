@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 802aba696da61be5f0a6c12072842cbc3cd96499
-ms.sourcegitcommit: 407f6c1e82f1a0be5cf53301fbf03cd25dcbf0ee
+ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36180405"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514462"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>毎日のメールの制限を超えました。 ワークフローは中断されます。
 

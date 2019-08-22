@@ -12,12 +12,12 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: 211069337b8fb671d2da6d1bf364bd4b8a02cf36
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 3fec83f4dd0533bdcfa778c52b9951f3e06f4dda
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353794"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500112"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Microsoft Intune での Apple MDM プッシュ通知証明書の問題のトラブルシューティング
 

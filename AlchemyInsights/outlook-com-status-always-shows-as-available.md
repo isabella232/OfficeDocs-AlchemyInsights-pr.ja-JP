@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 状態が常に "連絡可能" と表示される
+title: Outlook.com の状態は常に利用可能として表示される
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371870"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511960"
 ---
-# <a name="my-status-always-shows-as-available"></a>状態が常に "連絡可能" と表示される
+# <a name="my-status-always-shows-as-available"></a>自分の状態は常に利用可能として表示される
 
-Outlook.com にサインインするたびに、アカウントの状態は "連絡可能" にリセットされます。 Outlook.com からサインアウトしないことで、状態が変更されないようにすることができます。 ブラウザーを閉じるときにサインインの状態を維持するには、Outlook.com サインイン ページで **[サインインしたままにする]** ボックスを選択します。
+Outlook.com にサインインするたびに、アカウントの状態が [利用可能] にリセットされます。 Outlook.com からサインアウトしないことで、状態が変更されないようにすることができます。 ブラウザーを閉じたときにサインイン状態を維持するには、Outlook.com サインインページの [サインインした**まま**にする] ボックスをオンにします。

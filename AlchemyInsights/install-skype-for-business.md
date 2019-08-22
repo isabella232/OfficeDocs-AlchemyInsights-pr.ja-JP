@@ -13,12 +13,12 @@ ms.custom:
 - "110"
 - "4000002"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 606b83e07d4238baf1502f4ece61ab49e89def8d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 6928674afa580bd0381eb82ca18786a246ac16e1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381950"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498583"
 ---
 # <a name="install-skype-for-business"></a>Skype for Business のインストール
 

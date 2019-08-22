@@ -13,12 +13,12 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 501e9266a58c9bd39fe42771becee804c62ede46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357250"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506556"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>外部の送信者が配布グループにメッセージを送信できるようにする
 

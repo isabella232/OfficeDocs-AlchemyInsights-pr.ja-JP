@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 295097b12716d666b70dce94186c61bc77d6710b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
-ms.translationtype: HT
+ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270497"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36493884"
 ---
 # <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>SharePoint および OneDrive の Advanced Threat Protection (ATP)
 
-次のトピックを参照してください。
-- [SharePoint、OneDrive、および Teams 用の ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [脅威エクスプローラーおよびリアルタイムの検出](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+次を参照してください。
+- [SharePoint、OneDrive、Teams の ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [脅威エクスプローラーとリアルタイム検出](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-その他の情報
+追加情報:
 
 - [SPO でのウイルス検出](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [ODB および SPO でのデータの暗号化](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [ODB と SPO でのデータ暗号化](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [SharePoint でのデータの保護](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [ランサムウェアの検出とファイルの回復](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [ランサムウェア検出とファイルの回復](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

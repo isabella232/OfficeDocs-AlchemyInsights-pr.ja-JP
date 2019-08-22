@@ -12,12 +12,12 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: b94fcc697bb7ac065cef57f3e3eb0b515c3094a0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352858"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494460"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 クライアントが未登録のドメインからの送信をブロックしました
 

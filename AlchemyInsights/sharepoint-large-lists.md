@@ -13,12 +13,12 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: defb8213c48cec39fca124b8e9751945d7ce5a82
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: f900287067e7f570de770f7e2098ba62b8086ef8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368806"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508572"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>SharePoint で大きなリストおよびライブラリを使用する
 

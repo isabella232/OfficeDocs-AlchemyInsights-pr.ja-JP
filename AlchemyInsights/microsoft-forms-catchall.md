@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: 7f9b22afdcb3a08e0a896b7b411f7c0abb735e71
-ms.sourcegitcommit: 718ea0b37f3d1c43dbdf01c31440b4af9d8e9a27
+ms.openlocfilehash: 7d3ab10dd41986a9741212350e138899d6263f91
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35830943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544536"
 ---
 # <a name="get-information-about-microsoft-forms"></a>Microsoft Forms に関する情報を入手する
 

@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
-ms.translationtype: HT
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513688"
 ---
-# <a name="delete-a-sharepoint-site"></a>SharePoint サイトを削除する
-**新しい SharePoint 管理センターからサイトを削除する**SharePoint 管理センターを使って、クラシック サイトとモダン サイトの両方を削除することができます。 **[アクティブなサイト]** を選択し、サイトを選択してから、**[削除]** を選択します。 [新しい SharePoint 管理センターで削除されたサイトを表示または復元する](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)には、**[削除されたサイト]** を選択します。 詳細については、「[新しい SharePoint 管理センターでサイトを削除する](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)」を参照してください。
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>新しい SharePoint 管理センターからサイトを削除する
+
+SharePoint 管理センターを使って、クラシック サイトとモダン サイトの両方を削除することができます。 **[アクティブなサイト]** を選択し、サイトを選択してから、**[削除]** を選択します。 [新しい SharePoint 管理センターで削除されたサイトを表示または復元する](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)には、**[削除されたサイト]** を選択します。 詳細については、「[新しい SharePoint 管理センターでサイトを削除する](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)」を参照してください。
 
 **重要:** サイトがアイテム保持ポリシーの一部である場合は、[セキュリティ &amp; コンプライアンス管理センター](https://protection.office.com/?rfr=AdminCenter#/homepage)からそのサイトが削除されるまで、サイトを削除できない場合があります。 詳細については、「[アイテム保持ポリシーの概要](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)」を参照してください。 
 

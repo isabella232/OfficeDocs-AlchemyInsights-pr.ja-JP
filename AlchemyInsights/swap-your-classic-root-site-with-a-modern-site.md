@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: be2c706fcc5205ffa0c81bf4572d53a0073666af
-ms.sourcegitcommit: dbc272785f230be1a4a68aa246f8f7b8646b1ad0
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36491414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501084"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>従来のルートサイトをモダンサイトと入れ替える
 

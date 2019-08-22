@@ -13,12 +13,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: dad0ecbacf20d5fc2fd0fa46bcf5a30cff44c58d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513220"
 ---
 # <a name="delete-a-profile"></a>プロファイルを削除する
 
@@ -33,7 +33,7 @@ ms.locfileid: "35389942"
     > [!NOTE]
     > Outlook で、プロファイルを削除するとオフラインのデータが削除されるという警告が示される場合があります。Outlook データ ファイル (.pst) に格納されている情報や、オンライン アカウント (Outlook.com、Exchange、Office 365 のアカウントなど) に格納されている情報が失われることはありません。
   
-**Outlook for Mac** プロファイルの管理については、「[Outlook for Mac でプロファイルまたは ID を管理する](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)」を参照するか、以下の手順を使用してください。
+**Outlook For mac**プロファイル管理の場合は、「 [outlook for mac でプロファイルまたは id を管理](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)する」を参照するか、次の手順を使用します。
   
 1. Finder で、**[アプリケーション]** フォルダーを開きます。
 

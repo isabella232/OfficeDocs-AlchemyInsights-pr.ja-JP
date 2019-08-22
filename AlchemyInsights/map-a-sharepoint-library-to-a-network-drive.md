@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: ''
 ms.custom: ''
 ms.assetid: ''
-ms.openlocfilehash: c22b44b078e889de88382d2368253427cb9b3535
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
-ms.translationtype: HT
+ms.openlocfilehash: e0ae8bffe12df1066f27625e2b57e7e2fb11fb2d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34703373"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496944"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 

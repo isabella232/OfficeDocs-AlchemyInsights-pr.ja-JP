@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381230"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497700"
 ---
 # <a name="learn-about-office-365-groups"></a>Office 365 グループの詳細
 
-詳細については、「[Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)」 (Office 365 グループの詳細) を参照してください。
+Office 365 グループは、既に使用している Office 365 ツールと共に動作するサービスで、ドキュメントを作成したり、スプレッドシートを作成したり、プロジェクトプランを作成したり、会議をスケジュールしたり、電子メールを送信したりするときに、チームメートと共同作業を行うことができます。 詳細については、「[Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)」 (Office 365 グループの詳細) を参照してください。

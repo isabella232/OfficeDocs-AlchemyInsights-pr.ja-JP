@@ -13,12 +13,12 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 29633d96201d557ea70f4c3974c5730fe5b9f30e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357898"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499932"
 ---
 # <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Outlook on the web でタイム ゾーンと言語の設定を調整する
 
