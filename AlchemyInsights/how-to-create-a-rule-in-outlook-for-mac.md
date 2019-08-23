@@ -11,24 +11,24 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: d73034b3e2e609c9047f64b04f72cd0afd7970c1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385190"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541122"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="2e44f-102">Outlook for Mac でルールを作成する方法</span><span class="sxs-lookup"><span data-stu-id="2e44f-102">How to create a rule in Outlook for Mac</span></span>
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="1b1bb-102">Outlook for Mac でルールを作成する方法</span><span class="sxs-lookup"><span data-stu-id="1b1bb-102">How to create a rule in Outlook for Mac</span></span>
 
-1. <span data-ttu-id="2e44f-103">ルールによって送信されたメール メッセージを格納するフォルダーを作成するには、ルート メールボックスを選択し、[**整理**] タブで [**新しいフォルダー**] をクリックして、フォルダーの名前を入力して Enter キーを押します。</span><span class="sxs-lookup"><span data-stu-id="2e44f-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
+1. <span data-ttu-id="1b1bb-103">ルールによって送信されたメール メッセージを格納するフォルダーを作成するには、ルート メールボックスを選択し、[**整理**] タブで [**新しいフォルダー**] をクリックして、フォルダーの名前を入力して Enter キーを押します。</span><span class="sxs-lookup"><span data-stu-id="1b1bb-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
 
-    <span data-ttu-id="2e44f-104">ケース</span><span class="sxs-lookup"><span data-stu-id="2e44f-104">If you</span></span> 
+    <span data-ttu-id="1b1bb-104">ケース</span><span class="sxs-lookup"><span data-stu-id="1b1bb-104">If you</span></span> 
 
-2. <span data-ttu-id="2e44f-105">メッセージ一覧で、ルールを作成するメール メッセージをクリックします。</span><span class="sxs-lookup"><span data-stu-id="2e44f-105">In the message list, click an email message for which you want o create a rule.</span></span>
+2. <span data-ttu-id="1b1bb-105">メッセージ一覧で、ルールを作成するメール メッセージをクリックします。</span><span class="sxs-lookup"><span data-stu-id="1b1bb-105">In the message list, click an email message for which you want o create a rule.</span></span>
 
-3. <span data-ttu-id="2e44f-106">[**ホーム**] タブで [**ルール**] をクリックし、[**ルールの作成**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="2e44f-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
+3. <span data-ttu-id="1b1bb-106">[**ホーム**] タブで [**ルール**] をクリックし、[**ルールの作成**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1b1bb-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
 
-4. <span data-ttu-id="2e44f-107">[**新しいメッセージの受信時**] で、必要に応じて条件を編集します。</span><span class="sxs-lookup"><span data-stu-id="2e44f-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
+4. <span data-ttu-id="1b1bb-107">[**新しいメッセージの受信時**] で、必要に応じて条件を編集します。</span><span class="sxs-lookup"><span data-stu-id="1b1bb-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
 
-<span data-ttu-id="2e44f-108">カスタム ルールの作成方法については、「[Outlook for Mac でルールを作成する](https://aka.ms/AA1uy0v)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2e44f-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
+<span data-ttu-id="1b1bb-108">カスタム ルールの作成方法については、「[Outlook for Mac でルールを作成する](https://aka.ms/AA1uy0v)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1b1bb-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
   

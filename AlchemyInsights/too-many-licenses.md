@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388029"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549080"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="c64b3-102">ライセンスが多すぎますか?</span><span class="sxs-lookup"><span data-stu-id="c64b3-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="73e7a-102">ライセンスが多すぎますか?</span><span class="sxs-lookup"><span data-stu-id="73e7a-102">Too many licenses?</span></span>
 
-<span data-ttu-id="c64b3-103">請求を受けるライセンスの数が多すぎるとお考えの場合、それは通常、必要以上のライセンスを購入していることに原因があります。</span><span class="sxs-lookup"><span data-stu-id="c64b3-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="73e7a-103">多数の Office 365 ライセンスに対して課金されていると思われる場合は、通常、追加のライセンスを購入したことが原因です。</span><span class="sxs-lookup"><span data-stu-id="73e7a-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="c64b3-104">**購入したライセンスの数を減らす**</span><span class="sxs-lookup"><span data-stu-id="c64b3-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="73e7a-104">**購入したライセンスの数を減らす**</span><span class="sxs-lookup"><span data-stu-id="73e7a-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="c64b3-105">管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="c64b3-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="73e7a-105">管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="73e7a-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="c64b3-106">左側で、ライセンスを削除するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="c64b3-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="73e7a-106">ライセンスを削除するサブスクリプションを検索し、[**ライセンスの追加/削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="73e7a-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="c64b3-107">[**ライセンスの追加/削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c64b3-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="73e7a-107">[**ライセンスの総数**] ボックスに、このサブスクリプションに必要なライセンスの合計数を入力し、[**変更の送信**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="73e7a-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="73e7a-108">たとえば、110 個のライセンスを持っていて、5 個のライセンスを削除する場合は、「105」と入力します。</span><span class="sxs-lookup"><span data-stu-id="73e7a-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="c64b3-p101">必要なユーザーの合計数を入力します。たとえば、現在 25 個のライセンスがあり、5 個を削除する場合は、このフィールドに「20」と入力します。</span><span class="sxs-lookup"><span data-stu-id="c64b3-p101">Enter the total number of users needed. For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="c64b3-110">[**送信**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c64b3-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="c64b3-111">新しい管理センターを使用していますか?</span><span class="sxs-lookup"><span data-stu-id="c64b3-111">Are you using the new admin center?</span></span> <span data-ttu-id="c64b3-112">新しい手順については、「一般[法人向け Office 365 のサブスクリプションのライセンスを削除](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c64b3-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="73e7a-109">詳細については、「[一般法人向け Office 365 サブスクリプションからライセンスを削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="73e7a-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>

@@ -13,24 +13,24 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: PC から Outlook をインストール方法は次のとおりです。
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366394"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558442"
 ---
-# <a name="uninstall-office"></a><span data-ttu-id="26e4c-103">Office をアンインストールする</span><span class="sxs-lookup"><span data-stu-id="26e4c-103">Uninstall Office</span></span>
+# <a name="uninstall-office"></a><span data-ttu-id="0db14-103">Office をアンインストールする</span><span class="sxs-lookup"><span data-stu-id="0db14-103">Uninstall Office</span></span>
 
-<span data-ttu-id="26e4c-104">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="26e4c-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="0db14-104">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="0db14-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="26e4c-105">起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="26e4c-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="0db14-105">起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="0db14-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="26e4c-106">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="26e4c-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="0db14-106">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="0db14-106">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="26e4c-107">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="26e4c-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="0db14-107">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="0db14-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="26e4c-108">その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。</span><span class="sxs-lookup"><span data-stu-id="26e4c-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="0db14-108">その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。</span><span class="sxs-lookup"><span data-stu-id="0db14-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-<span data-ttu-id="26e4c-109">その他のアンインストール オプションのリストについては、「[PC から Office をアンインストールする](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)」を選択します。</span><span class="sxs-lookup"><span data-stu-id="26e4c-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="0db14-109">その他のアンインストール オプションのリストについては、「[PC から Office をアンインストールする](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)」を選択します。</span><span class="sxs-lookup"><span data-stu-id="0db14-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

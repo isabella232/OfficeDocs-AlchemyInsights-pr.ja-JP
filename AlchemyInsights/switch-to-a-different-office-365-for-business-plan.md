@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388188"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534172"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="59fc1-102">別の一般法人向け Office 365 プランに切り替える</span><span class="sxs-lookup"><span data-stu-id="59fc1-102">Switch to a different Office 365 for Business Plan</span></span>
+# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="0ae43-102">別の一般法人向け Office 365 プランに切り替える</span><span class="sxs-lookup"><span data-stu-id="0ae43-102">Switch to a different Office 365 for Business Plan</span></span>
 
-<span data-ttu-id="59fc1-103">業務の内容が変化したり、Office 365 の機能がさらに必要な場合は、プランを切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="59fc1-103">When your business changes, or you need more Office 365 features, you can switch plans.</span></span>
+<span data-ttu-id="0ae43-103">ビジネスが変更された場合や、Office 365 の機能がさらに必要になった場合は、新しいプランにアップグレードすることができます。</span><span class="sxs-lookup"><span data-stu-id="0ae43-103">When your business changes, or you need more Office 365 features, you can upgrade to a new plan.</span></span>
   
-1. <span data-ttu-id="59fc1-104">管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="59fc1-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="0ae43-104">管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="0ae43-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="59fc1-105">[**プランの切り替え**] を選択して、利用可能な新しいプランの一覧を表示します。</span><span class="sxs-lookup"><span data-stu-id="59fc1-105">Choose **Switch plans** to view the list of new plans that are available.</span></span>
+2. <span data-ttu-id="0ae43-105">アップグレードするサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="0ae43-105">Select the subscription that you want to upgrade.</span></span>
 
-3. <span data-ttu-id="59fc1-p101">プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ 次へ] を選択して購入手続きへ進みます。</span><span class="sxs-lookup"><span data-stu-id="59fc1-p101">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span>
+3. <span data-ttu-id="0ae43-106">[サブスクリプションの詳細] ページで、[**アップグレード**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="0ae43-106">On the subscription details page, select **Upgrade**.</span></span>
 
-<span data-ttu-id="59fc1-p102">[プランの切り替え] ボタンは常に使用できるとは限りません。プランを手動で切り替えられない場合もあります。</span><span class="sxs-lookup"><span data-stu-id="59fc1-p102">The Switch plans button isn't supported in all situations. In some cases, you might be able to switch plans manually.</span></span>
-  
-<span data-ttu-id="59fc1-110">[**プランの切り替え**] ボタンを使用できない場合、[プランを手動で切り替える](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually)か、[電話でのサポートを希望] オプションを使用してサポート エンジニアに連絡することができます。</span><span class="sxs-lookup"><span data-stu-id="59fc1-110">If the **Switch plans** button isn't available, you can try to [switch plans manually](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) or use the "Let us call you" option to talk to a support engineer.</span></span>
-  
-<span data-ttu-id="59fc1-111">新しい管理センターを使用していますか?</span><span class="sxs-lookup"><span data-stu-id="59fc1-111">Are you using the new admin center?</span></span> <span data-ttu-id="59fc1-112">新しい手順については、「[別のプランへのアップグレード](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="59fc1-112">For new steps, see [Upgrade to a different plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>  
+4. <span data-ttu-id="0ae43-107">アップグレードする計画を見つけ、[**アップグレード**] ボタンを選択します。</span><span class="sxs-lookup"><span data-stu-id="0ae43-107">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
+
+5. <span data-ttu-id="0ae43-108">必要なライセンスの数を入力し、毎月支払いするか、または年全体に支払うかを選択して、[**チェックアウト**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="0ae43-108">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
+   
+<span data-ttu-id="0ae43-109">詳細については、「[別のプランへのアップグレード](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0ae43-109">For more information, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>  

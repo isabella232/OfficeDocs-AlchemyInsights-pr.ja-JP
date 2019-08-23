@@ -13,33 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
-ms.translationtype: HT
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390985"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540294"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="1e2ac-102">Office 365 を購入する方法</span><span class="sxs-lookup"><span data-stu-id="1e2ac-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="034ea-102">Office 365 の購入方法</span><span class="sxs-lookup"><span data-stu-id="034ea-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="1e2ac-103">Office 365 の購入は、管理センターで行うことができます。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-103">Purchases in Office 365 can be made in the admin center.</span></span>
+<span data-ttu-id="034ea-103">Office 365 での購入は、管理センターで行うことができます。</span><span class="sxs-lookup"><span data-stu-id="034ea-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="1e2ac-104">Office 365 サブスクリプションを購入するには、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-104">To purchase an Office 365 subscription go to the **Purchase Services page, or choose Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
+- <span data-ttu-id="034ea-104">Office 365 subscriptio を購入するには、[**請求** \> [書サービス](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="034ea-104">To purchase an Office 365 subscriptio, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="1e2ac-105">追加のライセンスを購入するには、[**課金**] \> [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-105">To purchase additional licenses, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="1e2ac-106">[**サブスクリプション**] ページで、ライセンスを追加するサブスクリプションを選択して、[**ライセンスの追加/削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
-
-- <span data-ttu-id="1e2ac-107">別のプランに切り替えるには:</span><span class="sxs-lookup"><span data-stu-id="1e2ac-107">To switch to a different plan:</span></span>
-
-  - <span data-ttu-id="1e2ac-108">[**プランの切り替え**] を選択して、利用可能な新しいプランの一覧を表示します。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-108">Choose **Switch plans** to view the list of new plans that are available.</span></span>
-
-  - <span data-ttu-id="1e2ac-p102">プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ 次へ] を選択して購入手続きへ進みます。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-p102">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span>
-
-<span data-ttu-id="1e2ac-111">新しい管理センターを使用していますか。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-111">Are you using the new admin center?</span></span> <span data-ttu-id="1e2ac-112">新しい手順については、「[別のプランにアップグレードする](https://docs.microsoft.com/ja-JP/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1e2ac-112">For new steps, see [Upgrade to a different plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
+- <span data-ttu-id="034ea-105">追加のライセンスを購入するには、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="034ea-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="034ea-106">ライセンスを追加するサブスクリプションを選択し、[**ライセンスの追加/削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="034ea-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
- <span data-ttu-id="1e2ac-113">**追加リソース**</span><span class="sxs-lookup"><span data-stu-id="1e2ac-113">**Additional Resources**</span></span>
+ <span data-ttu-id="034ea-107">**その他のリソース**</span><span class="sxs-lookup"><span data-stu-id="034ea-107">**Additional Resources**</span></span>
   
-- <span data-ttu-id="1e2ac-114">
-  [一般法人向け Office 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/ja-JP/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="1e2ac-114">[Assign licenses to users in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+- [<span data-ttu-id="034ea-108">一般法人向け Office 365 ライセンスをユーザーに割り当てる</span><span class="sxs-lookup"><span data-stu-id="034ea-108">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- <span data-ttu-id="1e2ac-115">
-  [一般法人向け Office 365 サブスクリプションをキャンセルする](https://docs.microsoft.com/ja-JP/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="1e2ac-115">[Cancel Office 365 for Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+- [<span data-ttu-id="034ea-109">一般法人向け Office 365 サブスクリプションをキャンセルする</span><span class="sxs-lookup"><span data-stu-id="034ea-109">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

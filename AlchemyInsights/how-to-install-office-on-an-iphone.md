@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 44e254521a47aa1ca1fe0dc73aaad95d620542f8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: ad3b921941c6cfa09a49952707af50f027e7e75b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384290"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540222"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="60c80-102">iPhone に Office をインストールする方法</span><span class="sxs-lookup"><span data-stu-id="60c80-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="b1ee6-102">iPhone に Office をインストールする方法</span><span class="sxs-lookup"><span data-stu-id="b1ee6-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="60c80-103">Word、Excel、PowerPoint、OneNote の場合は、モバイル デバイスから[ダウンロード リンクをタップ](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)するようにユーザーに指示します。</span><span class="sxs-lookup"><span data-stu-id="60c80-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="b1ee6-103">Word、Excel、PowerPoint、OneNote の場合は、モバイル デバイスから[ダウンロード リンクをタップ](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)するようにユーザーに指示します。</span><span class="sxs-lookup"><span data-stu-id="b1ee6-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="60c80-104">アプリを起動し、**[サインイン]** をタップし、職場または学校の資格情報を入力するようにユーザーに指示します。</span><span class="sxs-lookup"><span data-stu-id="60c80-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="b1ee6-104">アプリを起動し、**[サインイン]** をタップし、職場または学校の資格情報を入力するようにユーザーに指示します。</span><span class="sxs-lookup"><span data-stu-id="b1ee6-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>

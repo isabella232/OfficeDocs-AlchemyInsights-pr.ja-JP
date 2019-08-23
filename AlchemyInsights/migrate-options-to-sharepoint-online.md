@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fadc34a277e8cf8dc085e647c14b8bd381782941
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 379505b6495cdfc8e85caf559031eaff82c58e9d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419161"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544760"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="76200-102">SharePoint Online への移行オプション</span><span class="sxs-lookup"><span data-stu-id="76200-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="cf17b-102">SharePoint Online への移行オプション</span><span class="sxs-lookup"><span data-stu-id="cf17b-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="76200-103">コンテンツを SharePoint Online に移動する際には、移動する必要があるファイルのサイズと品質に応じてさまざまなオプションを使用できます。</span><span class="sxs-lookup"><span data-stu-id="76200-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
+<span data-ttu-id="cf17b-103">コンテンツを SharePoint Online に移動する際には、移動する必要があるファイルのサイズと品質に応じてさまざまなオプションを使用できます。</span><span class="sxs-lookup"><span data-stu-id="cf17b-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
   
-<span data-ttu-id="76200-104">詳細については、「[SharePoint Online に移行する](https://go.microsoft.com/fwlink/?linkid-2022029)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="76200-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
+<span data-ttu-id="cf17b-104">詳細については、「[SharePoint Online に移行する](https://go.microsoft.com/fwlink/?linkid-2022029)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="cf17b-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
   
 

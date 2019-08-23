@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403680"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527476"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="ce6a2-102">多要素認証を有効にする</span><span class="sxs-lookup"><span data-stu-id="ce6a2-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="dc2bc-102">多要素認証を有効にする</span><span class="sxs-lookup"><span data-stu-id="dc2bc-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="ce6a2-103">[**ユーザー**]、[**アクティブなユーザー**] の順に移動します</span><span class="sxs-lookup"><span data-stu-id="ce6a2-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="dc2bc-103">Microsoft 365 管理センターで多要素認証を有効にするには、次のようにします。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="dc2bc-104">[**ユーザー** \>の**アクティブなユーザー** ] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="ce6a2-104">[**その他**]、[**Azure Multi-Factor Authentication の設定**] の順にクリックします。</span><span class="sxs-lookup"><span data-stu-id="ce6a2-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="dc2bc-105">ページの上部で、[**多要素認証**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="ce6a2-p101">MFA を有効にするユーザーを検索します。すべてのユーザーを表示するには、上部のビューの変更が必要な場合があります。</span><span class="sxs-lookup"><span data-stu-id="ce6a2-p101">Find the user or users who you want to enable for MFA. In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="dc2bc-106">多要素認証を有効にするユーザーを検索します。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="dc2bc-107">すべてのユーザーを表示するには、上部で**多要素認証の状態**フィルターを変更する必要がある場合があります。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="ce6a2-107">有効にするユーザー名の隣にあるチェック ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="ce6a2-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="dc2bc-108">有効にするユーザーの横にあるチェックボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="ce6a2-p102">右側のユーザー情報ウィンドウの [**ショートカット**] に、[有効にする] と [ユーザー設定の管理] が表示されます。[**有効にする**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="ce6a2-p102">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings. Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="dc2bc-109">右側の [ユーザー情報] ウィンドウで、[**クイック操作**] の [**有効にする**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="ce6a2-110">表示されるダイアログ ボックスで、[**Multi-Factor Auth を有効にする**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="ce6a2-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="dc2bc-110">表示されるダイアログボックスで、[**多要素認証を有効にする**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dc2bc-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 

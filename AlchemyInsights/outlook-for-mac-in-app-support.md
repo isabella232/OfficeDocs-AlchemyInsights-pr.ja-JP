@@ -13,13 +13,13 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 100767ebc1ca2e9869dcd971e7ae0ce5872a040a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 0784b7abfeee3f6be8e6f74084ef34934fc2f711
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390122"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557420"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="1fbf9-102">Outlook for Mac でのアプリ内サポート</span><span class="sxs-lookup"><span data-stu-id="1fbf9-102">In-app support in Outlook for Mac</span></span>
+# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="8f1e8-102">Outlook for Mac でのアプリ内サポート</span><span class="sxs-lookup"><span data-stu-id="8f1e8-102">In-app support in Outlook for Mac</span></span>
 
-<span data-ttu-id="1fbf9-p101">Outlook for Mac の問題に対するサポートをアプリ内で受ける場合は、Outlook を開き、[ヘルプ]、[サポートへの問い合わせ] の順にクリックします。質問を入力すると、Outlook for Mac のサポート チームのメンバーが連絡を差し上げます。[Outlook for Mac のサポートに問い合わせる](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)</span><span class="sxs-lookup"><span data-stu-id="1fbf9-p101">To receive support in-app for Outlook for Mac issues, open Outlook and click Help \> Contact Support. Type your question, and a member of the Outlook for Mac support team will get in touch with you. [Contact support in Outlook for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)</span></span>
+<span data-ttu-id="8f1e8-p101">Outlook for Mac の問題に対するサポートをアプリ内で受ける場合は、Outlook を開き、[ヘルプ]、[サポートへの問い合わせ] の順にクリックします。質問を入力すると、Outlook for Mac のサポート チームのメンバーが連絡を差し上げます。[Outlook for Mac のサポートに問い合わせる](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)</span><span class="sxs-lookup"><span data-stu-id="8f1e8-p101">To receive support in-app for Outlook for Mac issues, open Outlook and click Help \> Contact Support. Type your question, and a member of the Outlook for Mac support team will get in touch with you. [Contact support in Outlook for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)</span></span>

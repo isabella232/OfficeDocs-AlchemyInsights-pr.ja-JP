@@ -11,17 +11,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ba51aa82b1eb98ecedcbf779301daa8beafb2f25
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375614"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546916"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="580bd-102">Outlook.com でコピーして貼り付け</span><span class="sxs-lookup"><span data-stu-id="580bd-102">Copy and paste in Outlook.com</span></span>
+# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="239e6-102">Outlook.com でコピーして貼り付け</span><span class="sxs-lookup"><span data-stu-id="239e6-102">Copy and paste in Outlook.com</span></span>
 
-<span data-ttu-id="580bd-103">Outlook.com にはコピーまたは貼り付けボタンはありませんが、キーボード ショートカットを使用できます。</span><span class="sxs-lookup"><span data-stu-id="580bd-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
+<span data-ttu-id="239e6-103">Outlook.com にはコピーまたは貼り付けボタンはありませんが、キーボード ショートカットを使用できます。</span><span class="sxs-lookup"><span data-stu-id="239e6-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
 
-<span data-ttu-id="580bd-104">**Windows の場合**: コピーは CTRL+C、切り取りは CTRL+X、貼り付けは CTRL+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="580bd-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
+<span data-ttu-id="239e6-104">**Windows の場合**: コピーは CTRL+C、切り取りは CTRL+X、貼り付けは CTRL+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="239e6-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
 
-<span data-ttu-id="580bd-105">**Mac の場合**: コピーは CMD+C、切り取りは CMD+X、貼り付けは CMD+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="580bd-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
+<span data-ttu-id="239e6-105">**Mac の場合**: コピーは CMD+C、切り取りは CMD+X、貼り付けは CMD+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="239e6-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
