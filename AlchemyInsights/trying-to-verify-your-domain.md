@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420129"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533251"
 ---
 # <a name="trying-to-verify-your-domain"></a>ドメインを確認する場合
 
-ドメインを所有しているかどうかを確認するには、ドメイン レジストラーに TXT レコードを追加する必要があります。[**設定**]、[**ドメイン**]、[**ドメインの追加**] の順にクリックして、ドメインの追加ウィザードに従います。 
+ドメインを所有していることを確認するには、ドメインレジストラーに TXT レコードを追加する必要があります。 Microsoft 365 管理センターの新しいドメインウィザードに従い、[**ドメイン**の**セットアップ** \> ] に移動して、[**ドメインの追加**] を選択します。 
   
 ドメインを確認するには、以下の記事の指示に従って、TXT レコードを追加します。ドメイン レジストラーを選択して、お使いのドメインに固有の手順に従います。
   

@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389037"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526144"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>一般法人向け Office 365 の試用期間を延長する
 
@@ -32,4 +32,4 @@ ms.locfileid: "36389037"
 
 4. 試用版を延長するには、クレジット カードの情報を入力する必要があります。試用版の延長では、クレジット カードでの料金支払いはありません。
 
-試用版の延長または手順の詳細については、「[一般法人向け Office 365 の試用期間を延長する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial)」を参照してください。
+試用版の延長または手順の詳細については、「[一般法人向け Office 365 の試用期間を延長する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)」を参照してください。

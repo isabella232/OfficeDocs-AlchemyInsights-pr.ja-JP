@@ -12,12 +12,12 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385354"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541590"
 ---
 # <a name="configure-sync-features"></a>同期機能を構成する
 
@@ -25,7 +25,7 @@ Azure AD Connect には、既定で有効になる、または、後で有効に
 
 - [フィルター処理](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)は、オブジェクトが Azure AD に同期されるように制限します。既定で、すべてのユーザー、連絡先、グループ、および Windows 10 コンピューター アカウントが同期されます。ドメイン、OU、またはその他の属性に基づいてオブジェクトを包含または除外できます。
 
-- [パスワード ハッシュ同期](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)は、パスワード ハッシュをオンプレミス Active Directory から Azure AD に同期します。これにより、1 か所でパスワードを管理し、オンプレミス環境とクラウド環境の両方で同じパスワードを使用できるようになります。Active Directory は権限を持っているソースのため、独自のパスワード ポリシーを使用できます。
+- パスワード[ハッシュ同期](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)は、オンプレミスの Active Directory から Azure AD にパスワードハッシュを同期します。 これにより、1つの場所でパスワードを管理できるようになりますが、オンプレミス環境とクラウド環境の両方で同じパスワードを使用できます。 Active Directory は権限のあるソースであるため、独自のパスワードポリシーを使用することができます。
 
 - [セルフ サービスによるパスワードのリセット (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) を使用すれば、ユーザーは、オンプレミス パスワード ポリシーを適用しながら、クラウドで独自のパスワードをリセットすることができます。
 

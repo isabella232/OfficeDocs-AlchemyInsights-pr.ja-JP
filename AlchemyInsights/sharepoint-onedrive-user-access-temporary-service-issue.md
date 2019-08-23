@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 9bb18196f38de473e4ee79d77bd43561ad9742e0
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
-ms.translationtype: HT
+ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223285"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535180"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint または OneDrive において、処理が遅い、アクセスできない、または複数のユーザーで使用できない
 
-それまでアクセスできていた複数のユーザーが OneDrive または SharePoint のサイトを利用できない場合は、サービスに一時的な問題が発生している可能性があります。 [サービス正常性ダッシュボードを確認](https://portal.office.com/adminportal/home#/servicehealth)してください。
+以前にアクセスしたことがある複数のユーザーが OneDrive または SharePoint サイトを使用できない場合は、一時的なサービスの問題が発生する可能性があります。 [サービス正常性ダッシュボードをチェックし](https://portal.office.com/adminportal/home#/servicehealth)ます。
 
-**ユーザーの追加とライセンス認証**
+**ユーザーを追加してライセンスを付与する**
 
-[一般法人向け Office 365 のユーザーにライセンスが割り当てられている](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ことを確認してください。
+[Office 365 for business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ようにしてください。
 
 
 **アクセス許可の割り当て**
 
-ユーザーに SharePoint ライセンスが割り当てられていてもアクセス拒否メッセージが表示される場合は、そのユーザーに[適切なアクセス許可レベルが割り当てられている](https://docs.microsoft.com/sharepoint/understanding-permission-levels)ことを確認してください。
+ユーザーに Sharepoint ライセンスが割り当てられていて、アクセス拒否メッセージが依然として受信されている場合は、それらのユーザーに[適切なアクセス許可レベル](https://docs.microsoft.com/sharepoint/understanding-permission-levels)が割り当てられていることを確認してください。
 
 **アクセス要求機能の使用を検討する**
 
-[アクセス要求機能](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)は、ユーザーが表示する権限がないコンテンツへのアクセスを要求できるようにする機能です。
+[アクセス要求機能](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)を使用すると、ユーザーが現在表示する権限を持っていないコンテンツへのアクセス権を要求できます。
 
-**カスタム スクリプトを許可するとアクセス拒否の問題が発生する可能性がある**
+**カスタムスクリプトを許可すると、アクセス拒否の問題が発生することがある**
 
-特定のシナリオでは、*カスタム スクリプトを許可*する機能を使用するとアクセス拒否が発生することがあります。 影響を受ける機能のリスト、セキュリティに関する考慮事項、この機能を無効にする方法については、 「[カスタム スクリプトを許可または禁止する](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)」を参照してください。
+特定のシナリオでは、[*カスタムスクリプトを許可*する] 機能がアクセス拒否を提示している可能性があります。 影響を受ける機能の一覧については、セキュリティに関する考慮事項と、この機能を無効にする機能を示します。 [[ユーザー設定スクリプトの許可または禁止](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)] を参照してください。
 

@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363816"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517036"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>SharePoint の検索結果にコンテンツが表示されない
 
@@ -28,9 +28,9 @@ ms.locfileid: "35363816"
 
 3. ページ、ドキュメント、またはカスタム ページ レイアウトが**メジャー バージョン**として公開されていることを確認します。「[SharePoint Online で検索がすべての結果を返さない](https://go.microsoft.com/fwlink/?linkid=874525)」の手順 3 を実行します。
 
-4. ユーザーがコンテンツを表示するための**アクセス許可**を持っていることを確認します。「[SharePoint でのアクセス許可レベルについて](https://docs.microsoft.com/ja-JP/sharepoint/understanding-permission-levels)」の手順を実行します。
+4. ユーザーがコンテンツを表示するための**アクセス許可**を持っていることを確認します。「[SharePoint でのアクセス許可レベルについて](https://docs.microsoft.com/sharepoint/understanding-permission-levels)」の手順を実行します。
     
-5. 新しい管理プロパティの追加、管理プロパティの編集、または管理プロパティの削除により検索スキーマが変更されている場合は、その結果としてクロールおよびインデックスの再作成の要求が必須となります。 「[サイト、ライブラリ、またはリストのクロールおよびインデックスの再作成を手動で要求する](https://docs.microsoft.com/sharepoint/crawl-site-content)」の手順に従って、コンテンツの**インデックスの再作成**を行います。 これには時間を要します。結果を再度確認する前に24時間待ちます。
+5. 新しい管理プロパティを追加して検索スキーマを変更した場合、管理プロパティを編集した場合、または管理プロパティを削除した場合は、クロールを要求し、インデックスの再作成が必要になります。 [サイト、ライブラリ、またはリストのクロールとインデックス再作成を手動で要求](https://docs.microsoft.com/sharepoint/crawl-site-content)する手順に従って、コンテンツの**インデックスを再**作成します。 この処理には時間がかかることがあります。24時間待ってから結果を再度確認してください。
 
-詳細については、[サイトのコンテンツを検索可能にする](https://docs.microsoft.com/sharepoint/make-site-content-searchable)を参照してください。 
+詳細については、「[サイトのコンテンツを検索](https://docs.microsoft.com/sharepoint/make-site-content-searchable)可能にする」を参照してください。 
   

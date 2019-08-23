@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: e1afad0bab317af0f60a6ebda8c3ec8be398e38d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 00cbc77cb178d59a3115e44874a16f506e4408c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419697"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543570"
 ---
 # <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>オンプレミスのフェデレーション サービス証明書のいずれかがまもなく期限切れになります
 

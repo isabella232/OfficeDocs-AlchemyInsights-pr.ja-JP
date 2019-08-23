@@ -11,12 +11,12 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 3e36c8ac293422d1b1eb052c959bfe7c06dd607b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383390"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539646"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online 用語ストアの使用法
 

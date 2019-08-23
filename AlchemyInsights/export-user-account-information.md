@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35741815"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526216"
 ---
 # <a name="export-user-account-information"></a>ユーザーアカウント情報をエクスポートする
 
-ライセンス、パスワードポリシー、ブロックされているアカウント、AAD 同期状態などの情報を含むユーザーアカウント情報をエクスポートするには、[**ユーザー** > の[アクティブなユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822) ] ページに移動し、[**ユーザーのエクスポート**] を選択します。
+Microsoft 365 管理センターでユーザーアカウント情報をエクスポートするには、ライセンス、パスワードポリシー、ブロックされているアカウント、AAD 同期状態などの情報を含め、[**ユーザー** > の[アクティブなユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822) ] ページに移動して、[エクスポート] を選択します。 **ユーザー**。

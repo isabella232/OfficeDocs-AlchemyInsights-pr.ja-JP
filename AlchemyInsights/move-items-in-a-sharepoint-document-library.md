@@ -13,12 +13,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379358"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549044"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>SharePoint ドキュメント ライブラリでアイテムを移動する
 

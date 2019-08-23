@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: ab51b12a1005bfe304114065d05af2bbf5390567
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420741"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530812"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>グループの一覧に自分のグループ {AimKIObject} が表示されない
 

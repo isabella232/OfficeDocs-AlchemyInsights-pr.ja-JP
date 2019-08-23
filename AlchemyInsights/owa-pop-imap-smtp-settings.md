@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 04ff09b33024c6373570acbd2ee95f368e8ca0bc
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
-ms.translationtype: HT
+ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35174602"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556498"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Outlook on the web の POP、IMAP、および SMTP の設定
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Web 上の Outlook の POP、IMAP & SMTP 設定
 
-Office 365 アカウントを、POP、IMAP、または SMTP をサポートしている別のメール アプリに追加する場合は、次に示すサーバー設定を手動で行う必要があります。
+POP、IMAP、または SMTP をサポートする別のメールアプリに Office 365 アカウントを追加する場合は、次のように手動でサーバーを設定する必要があります。
   
 - **IMAP サーバー名:** outlook.office365.com
 - **IMAP ポート:** 993

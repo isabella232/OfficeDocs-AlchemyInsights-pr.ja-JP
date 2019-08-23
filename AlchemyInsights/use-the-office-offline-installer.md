@@ -12,12 +12,12 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 0aabd504ddc5d3bbea5e7d23a0315660721ebc8a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532279"
 ---
 # <a name="use-the-office-offline-installer"></a>Office オフライン インストーラーを使用する
 

@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390301"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523156"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>クレジット カードの情報を削除する方法
 
-1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. Microsoft 365 管理センターで、[[支払い方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)の**請求書** \> ] ページに移動します。
 
-2. サブスクリプションを選択したら、**[お支払いの詳細の更新]** を選択します。
+2. [**支払い方法**] ページで、削除するクレジットカードまたは銀行口座を選びます。
 
-3. [ **支払い方法の追加または選択**] の下のドロップ ダウン矢印を選択し、削除するクレジット カードを選んで、[ **削除**] を選択します。
-
-4. クレジット カードまたは銀行口座を削除するには、もう一度 **[削除]** を選択します。
+3. クレジットカードまたは銀行口座を削除するには、[**支払い方法の削除**] を選択します。
 
 > [!NOTE]
-> クレジット カードの未払い残高がなく、アクティブなサブスクリプションの支払いに使用していない場合は、クレジット カードを削除できます。
+> 現在、サブスクリプションの支払いに使用している場合、そのクレジット カードは削除できません。
 
-新しい管理センターを使用していますか? 新しい手順については、「 [Office 365 for business でクレジットカードを追加、更新、または削除する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
+4. [**支払方法の削除**] ウィンドウで、[**削除**] を選択します。
+
+詳細については、「 [Office 365 for business でクレジットカードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。

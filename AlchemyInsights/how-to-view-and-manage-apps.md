@@ -1,5 +1,5 @@
 ---
-title: アプリを表示および管理する方法
+title: '[方法] アプリを表示および管理する'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 58b6c9baef1d0f30045a7a02433b3b9e422bd07d
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: HT
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607726"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539502"
 ---
-# <a name="how-to-view-and-manage-apps"></a>アプリを表示および管理する方法
+# <a name="how-to-view-and-manage-apps"></a>[方法] アプリを表示および管理する
 
-アプリを表示するには、管理センターではプレビュー モードである必要があります。  ホームページでこの切り替えを行うことができます。  
+アプリは、Microsoft 365 管理センターで表示できます。 
 
-1. プレビューが有効である場合、**[課金]** > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)ページの順に移動します。
+1. 管理センターで、[ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。
 
-2. **[製品とサービス]** ページで、**[アプリ]** タブを選択します。
+2. [ **Products & Services** ] ページで、[**アプリ**] タブを選択します。

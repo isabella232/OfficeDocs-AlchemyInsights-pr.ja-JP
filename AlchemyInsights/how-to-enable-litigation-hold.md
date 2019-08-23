@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
-ms.translationtype: HT
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937863"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540762"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>メールボックスを訴訟ホールドの状態にする
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937863"
 
 - 1 人のユーザーに対して訴訟ホールドを有効にする場合は、[この手順を実行してください](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。訴訟ホールドが有効になると、メールボックス内のすべてのコンテンツが保持されます。
 
-- 組織内のすべてのユーザーにホールドを実施する場合は、[この手順を実行する](https://docs.microsoft.com/ja-JP/office365/securitycompliance/create-a-litigation-hold)ことで Office 365 保持ポリシーを使用できます。組織全体の保持ポリシーについては、そのポリシーが新しいユーザーに自動的に割り当てられる点に注意してください。
+- 組織内のすべてのユーザーにホールドを実施する場合は、[この手順を実行する](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)ことで Office 365 保持ポリシーを使用できます。組織全体の保持ポリシーについては、そのポリシーが新しいユーザーに自動的に割り当てられる点に注意してください。

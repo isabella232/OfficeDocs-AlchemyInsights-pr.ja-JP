@@ -13,12 +13,12 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: PC から Outlook をインストール方法は次のとおりです。
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366394"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558442"
 ---
 # <a name="uninstall-office"></a>Office をアンインストールする
 

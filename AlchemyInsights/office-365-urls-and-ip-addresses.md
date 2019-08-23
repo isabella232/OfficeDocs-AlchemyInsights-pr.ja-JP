@@ -14,12 +14,12 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 64db615ffe29b9ea72bcba6d0490f0c8bd4f7fe5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378566"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522040"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 の URL と IP アドレスの範囲
 

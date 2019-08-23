@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388188"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534172"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>別の一般法人向け Office 365 プランに切り替える
 
-業務の内容が変化したり、Office 365 の機能がさらに必要な場合は、プランを切り替えることができます。
+ビジネスが変更された場合や、Office 365 の機能がさらに必要になった場合は、新しいプランにアップグレードすることができます。
   
-1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
-2. [**プランの切り替え**] を選択して、利用可能な新しいプランの一覧を表示します。
+2. アップグレードするサブスクリプションを選択します。
 
-3. プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ 次へ] を選択して購入手続きへ進みます。
+3. [サブスクリプションの詳細] ページで、[**アップグレード**] を選択します。
 
-[プランの切り替え] ボタンは常に使用できるとは限りません。プランを手動で切り替えられない場合もあります。
-  
-[**プランの切り替え**] ボタンを使用できない場合、[プランを手動で切り替える](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually)か、[電話でのサポートを希望] オプションを使用してサポート エンジニアに連絡することができます。
-  
-新しい管理センターを使用していますか? 新しい手順については、「[別のプランへのアップグレード](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。  
+4. アップグレードする計画を見つけ、[**アップグレード**] ボタンを選択します。
+
+5. 必要なライセンスの数を入力し、毎月支払いするか、または年全体に支払うかを選択して、[**チェックアウト**] を選択します。
+   
+詳細については、「[別のプランへのアップグレード](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。  

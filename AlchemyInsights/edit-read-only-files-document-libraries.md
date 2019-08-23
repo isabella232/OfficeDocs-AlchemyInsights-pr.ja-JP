@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
-ms.translationtype: HT
+ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528124"
 ---
 # <a name="edit-a-read-only-file"></a>読み取り専用ファイルを編集する
 
-ファイルを開くと、ファイルが読み取り専用モードになっている場合があります。 インターネットからファイルを開く場合などにセキュリティを強化するためにそのようになることもあれば、変更可能な設定が原因でそのようになる場合もあります。 記事「[ファイルが読み取り専用で開かれる理由](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)」では、ファイルが読み取り専用モードで開かれるシナリオの一部と、このモードを変更するためのいくつかの手順について説明しています。
+ファイルを開くときに、読み取り専用として開かれることがあります。 場合によっては、インターネットからファイルを開くときなど、セキュリティを強化するために、変更可能な設定が原因である可能性があります。 記事「[ファイルを読み取り専用で開いた](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)のはなぜですか」では、ファイルが読み取り専用で開かれ、その変更に必要ないくつかの手順を示します。
 
-ここでは、Office ファイルを編集用に開く方法を示します。
+編集用に office ファイルを開く方法は次のとおりです。
 
-ドキュメントのタイトルをクリックするのではなく、**[メニューを開く]** (3 つのドット) をクリックして **[編集]** をクリックします。
+ドキュメントタイトルをクリックする代わりに、[**開く] メニュー** (3 つのドット) をクリックし、[**編集**] をクリックします。
 
 注:
 
-- タイトルをクリックしたときに Office のドキュメントを編集用に開くようにするには、そうするようにライブラリをセットアップしてください (ライブラリの設定を変更するアクセス許可がある場合)。
+- タイトルをクリックしたときに Office でドキュメントを開いて編集できるようにするには、ライブラリの設定を変更する権限を持っていれば、そのためのライブラリをセットアップすることができます。
 
-- ライブラリに [チェックアウト] 列、[必須] 列がある場合や、SharePoint ドキュメント ライブラリの [バージョンの設定] で [編集できるユーザー] が設定されているときには、それらのアイテムが読み取り専用として同期されます。
+- チェックアウトされたライブラリ、必要な列、または SharePoint ドキュメントライブラリのバージョン設定で編集できるユーザーだけが編集できる場合、これらのアイテムは読み取り専用として同期されます。
 
-- "閲覧中は Office ドキュメントを読み取り/書き込み可能な状態で開く" ポリシー設定を有効にしていても、Office ドキュメントが保護ビューで開かれます。 詳細については、[この記事](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)を参照してください。
+- [参照中に Office ドキュメントを読み取り/書き込みとして開く] ポリシー設定を有効にしている場合でも、Office ドキュメントは保護ビューで開きます。 詳細については、この記事を参照してください[。](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: b4dd2e85084186ea86a433755f69e975734ca54b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36274586"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521356"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive の PUID の不一致
 OneDrive for Business で PUID の[不一致](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)が発生しています。 次の手順に従って、できる限り早くお客様を支援する必要があります。

@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382958"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539034"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>監査ログで IP アドレスとクライアントを識別する
 
-監査ログには、ユーザーまたは管理者によるアクティビティに対応する IP アドレスが表示されます。 クライアント情報も記録されます。 ここでは、そのような情報を識別するための手順をご紹介します。
+Office 365 ユーザーまたは管理者によってアクティビティに対応する IP アドレスが監査ログに表示されます。 クライアント情報も記録されます。 このような情報を識別する手順は次のとおりです。
 
-1. [Office 365  セキュリティ/コンプライアンス センター](https://protection.office.com/)にログインする
+1. [Office 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインします。
 
-2. [**検索と調査**] と [**監査ログ検索**]をクリックする。
+2. [ **** > **監査ログ**の検索] ページに移動します。
 
-   特定のアクティビティに関心があるなら、[**アクティビティ**] リストから選択します。 そうでない場合は、選択したユーザーのすべての活動が返されます(既定の設定) 。
+   特定のアクティビティに関心がある場合は、[**アクティビティ**] リストから選択します。 指定しない場合は、選択したユーザーに対してすべてのアクティビティが返されます (既定の設定)。
 
-   **注意**: 特定のアクティビティは、[**アクティビティ**] のメニューに表示されない場合があります。ただし、[**すべてのアクティビティの結果を表示**] が選択されていれば、これらの監査項目が返されます（デフォルト設定）。
+   **注**: 特定のアクティビティが [**操作**] メニューに表示されない場合があります。ただし、[**すべてのアクティビティの結果を表示する]** が選択されている場合は、これらの監査アイテムが返されます (既定の設定)。
 
-3. [**ユーザー**] フィールド内のユーザー名を指定し、アクティビティの適切な日付の範囲を選択し、[**検索**] をクリックします。
+3. [**ユーザー** ] フィールドでユーザー名を指定し、アクティビティに該当する日付の範囲を選択して、[**検索**] をクリックします。
 
-結果では、結果ウィンドウでそのアクティビティの IP アドレスを見ることができます。 [**詳細情報**] ポップアップにある [監査記録] を選択し、 詳細な情報 (たとえば、クライアント、アクションを実行したユーザーなど)を表示します。
+結果には、そのアクティビティの IP アドレスが結果ウィンドウに表示されます。 監査レコードを選択して、**詳細**ポップアップ (たとえば、[クライアント]、[アクションを実行したユーザー] など) で詳細情報を表示します。
 
-詳細については [安全性が脅かされたアカウントへのアクセスに使用されたコンピューターの IP アドレスを見つける](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)を参照してください。
+詳細については、「[危害を受けたアカウントへのアクセスに使用されたコンピューターの IP アドレスを検索する](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)」を参照してください。

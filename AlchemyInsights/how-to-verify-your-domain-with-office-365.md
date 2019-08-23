@@ -14,12 +14,12 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 01bf56bf3ef6f788762ac3d87947572908d6ffe2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383318"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539538"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Office 365 でドメインを確認する方法
 

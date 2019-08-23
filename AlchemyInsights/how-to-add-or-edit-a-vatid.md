@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386409"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522616"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID を追加または編集する方法
 
-- 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1.  Microsoft 365 管理センターで、[ **Billing** \> [Products & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。
 
-- **[サブスクリプション]** ページで、編集するサブスクリプションを選択し、**[その他の操作]**、**[VAT 番号の編集]** を選択します。
+2. 更新するサブスクリプションのサブスクリプション カードを検索します。
 
-- **[サービスの利用先住所の編集]** ウィンドウの下部にある **[VAT 番号]** ボックスに VAT ID を入力または編集し、**[送信]** を選択します。
+3. [**設定 & アクション**] セクションで、[**サービス使用法アドレスの編集**] を選択します。
+
+4. [**サービス利用状況の住所の編集**] ページで、[ **vat 番号**] ボックスに vat ID を入力し、[**保存**] を選択します。
 
     完了すると、VAT は次の請求書では請求されなくなります。
 
-詳細については、「[Office 365 ではどのような税が課せられますか?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)」を参照してください。
-
-新しい管理センターを使用していますか? 新しい手順については、「 [VAT ID を追加する](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)」を参照してください。
+詳細については、「 [Office 365 に対して課金される税に](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)ついて」または「 [VAT ID を追加](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)する」を参照してください。

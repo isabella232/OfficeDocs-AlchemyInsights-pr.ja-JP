@@ -1,5 +1,5 @@
 ---
-title: Outlook.com でサインアウトできない
+title: Outlook.com はサインアウトできません
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c28cae4cfa3dd64ea2b69f60b610ef1cb18b30ea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376406"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547820"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com からサインアウトできない
+# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com からサインアウトできません
 
-Outlook.com からサインアウトするには、画面の右上隅にある自分の名前または画像を選択して、**[サインアウト]** を選択します。
+Outlook.com からサインアウトするには、画面の右上にある名前または画像を選択し、[**サインアウト**] を選択します。
 
 画面の上部に画像が表示されない場合は、広告ブロックが有効になっていないかどうかを確認します。これによって画像が表示されないことがあります。
 
-それでも Outlook.com からサインアウトできない場合は、 [https://login.live.com/logout.srf](https://login.live.com/logout.srf) をクリックし、ブラウザーのウィンドウをすべて閉じます。
+それでも Outlook.com をサインアウトできない場合は [https://login.live.com/logout.srf](https://login.live.com/logout.srf) 、[すべてのブラウザーウィンドウを閉じる] をクリックします。

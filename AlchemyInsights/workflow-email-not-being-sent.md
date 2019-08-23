@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270677"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530884"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>ワークフロー電子メールが送信されていません
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>ワークフロー電子メールが SharePoint リストまたはライブラリに送信されていません
 
 1. ワークフローからの電子メールは、すべてのユーザーまたは特定のユーザーのみに送信されることはありません。また、電子メールメッセージを送信できないというエラーが表示され**ます。電子メールの受信者が有効であることを確認**します。
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270677"
     - ユーザーがアクセス許可グループに存在する場合は、電子メールアドレスが正しいことを確認してください。
     - ユーザーの電子メールアドレスがここで設定されていない場合は、そのユーザーのためのサンプル通知を作成します。これにより、そのユーザーアカウントを SharePoint のユーザープロファイルからこのサイトコレクションに強制的に同期させることができます。
  
-2. ワークフローからの電子メールは、サイトコレクション管理者に送信されますが、他のユーザーに送信されることはありません。また、 **HTTP 禁止<spam> <spam>** のエラーを<spam> <spam>参照してください。
+2. ワークフローからの電子メールは、サイトコレクションの管理者に送信されますが、他のユーザーに送信されることはありません。エラーは、 ** <span>https が Https</span>で禁止**されています://URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail。
  
 
-    [グループに電子メールを送信する場合は、アクセス拒否](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups)を参照してください。
+    [SharePoint グループに電子メールを送信する場合](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)は、「アクセス拒否」を参照してください。
 
     また、 **"制限付きアクセス" ユーザーアクセス許可のロックダウンモード**サイトコレクション機能がアクティブではないことを確認します。
 

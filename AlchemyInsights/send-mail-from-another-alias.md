@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388389"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551528"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>エイリアスまたはセカンダリ アドレスからメールを送信する
 
@@ -26,4 +26,4 @@ Office 365 では現在、エイリアスまたはセカンダリ メール ア�
   
 - [ここから共有メールボックスを作成できます](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-「[共有メールボックスを作成する](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox)」の記事では、共有メールボックスに関して必要な情報を、使用方法も含め、すべて確認することができます。
+「[共有メールボックスを作成する](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)」の記事では、共有メールボックスに関して必要な情報を、使用方法も含め、すべて確認することができます。

@@ -13,12 +13,12 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 76be981ad21534a2824a34eaa511e65dbc67e852
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359842"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518404"
 ---
 # <a name="calendar-sharing"></a>予定表の共有
 

@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388461"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553581"
 ---
-# <a name="question-about-licenses"></a>ライセンスについて質問する
+# <a name="questions-about-your-office-365-license"></a>Office 365 ライセンスに関する質問
 
 購入したライセンスの数またはサブスクリプションから割り当てられているライセンスの数を確認するには、次の手順を行います。
   
-1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
-2. 詳細を把握する必要のあるサブスクリプションを選択します。
+2. 詳細を知りたいサブスクリプションの名前の下に、支払い対象のライセンスの数と、割り当て可能なライセンスの数が表示されます。
 
-3. サブスクリプション カードの左側に、ライセンスに関する次の情報が表示されます。
-
-  - **購入**数は、支払いをするライセンスの数です。
-
-  - **割り当て**数は、ユーザーに割り当てられているライセンスの数です。
-
-4. ライセンスをさらに追加する場合、またはライセンスが多すぎる場合は、**[ライセンスの追加/削除]** を選択して購入数量を調整します。
+ライセンスをさらに追加する場合、またはライセンスが多すぎる場合は、**[ライセンスの追加/削除]** を選択して購入数量を調整します。

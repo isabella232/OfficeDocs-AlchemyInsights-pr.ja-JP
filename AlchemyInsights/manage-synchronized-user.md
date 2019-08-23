@@ -11,19 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 5a383bdd17c5fa055c35a923ca36e0e0f6d429e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380510"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542001"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>プライマリ メール アドレスを設定できない、またはユーザーの属性を変更できない
+# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>プライマリ電子メールアドレスを設定できない、またはユーザーの属性を変更できない
 
-ご使用の環境でディレクトリ同期が有効になっている場合、一部のユーザーまたはオブジェクトの属性は管理センターを使用して変更できません。
-同期されたユーザーとすべての属性を完全に管理するには、ローカルの Active Directory ユーザーとグループの管理コンソール (adsiedit.msc) を使用します。  
+環境に対してディレクトリ同期が有効になっている場合、Microsoft 365 管理センターを使用して、一部のユーザー属性またはオブジェクト属性を変更することはできません。
 
-または、次の一般的な例のように、PowerShell を使用して同期されたユーザーの個別ユーザーや属性を変更することができます。 
-- Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "テスト ユーザー" -LastName "ユーザー" -Title "マネージャーManager" -Department "HR"
-- Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com
+同期されたユーザーとそのすべての属性を完全に管理するには、ローカルの active directory ユーザーとグループ管理コンソール (adsiedit) を使用します。  
+
+または、次の一般的な例に示すように、個別のユーザーまたは属性を powershell を使用して変更することもできます。 
+- Get-msoluser-UserPrincipalName user@yourdomain.onmicrosoft.com-AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
+- Get-msoluser-UserPrincipalName "user@yourdomain.onmicrosoft.com"-DisplayName "Test User"-LastName "User"-Title "Manager"-Department "HR"
+- Get-msoluser-UserPrincipalName "user@yourdomain.onmicrosoft.com

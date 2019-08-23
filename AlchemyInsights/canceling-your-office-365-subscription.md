@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387252"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519683"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
@@ -30,4 +30,4 @@ ms.locfileid: "36387252"
 
 - 割り当てられているライセンス数が 25 以上の場合は、25 未満になるまでユーザーを削除するか、[電話でのサポートを希望] オプションを使用して、サポート エンジニアに連絡することができます。
 
-- サブスクリプションのキャンセル、または詳細な手順については、「[サブスクリプションをキャンセル](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)する」を参照してください。
+- サブスクリプションのキャンセル、または詳細な手順については、「[サブスクリプションをキャンセル](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)する」を参照してください。

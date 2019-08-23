@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387586"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531256"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>一般法人向け Office 365 のサブスクリプションが終了したとき、データとアクセスはどうなりますか?
 
@@ -26,6 +26,6 @@ ms.locfileid: "36387586"
   
 サブスクリプションが実際に有効期限に達する前に、ユーザーには**サブスクリプションの継続請求を管理する**ための選択肢がいくつかあります。
   
-- **継続請求**が既に有効になっている場合は、いかなる手続きも必要ありません。サブスクリプションは**継続請求**日に課金され、現在の支払回数に応じて、追加された年分または月分の料金が課せられます。何らかの理由で**継続請求**を無効にした場合は、いつでも[継続請求](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)を有効にすることができます。
+- **継続請求**が既に有効になっている場合は、いかなる手続きも必要ありません。サブスクリプションは**継続請求**日に課金され、現在の支払回数に応じて、追加された年分または月分の料金が課せられます。何らかの理由で**継続請求**を無効にした場合は、いつでも[継続請求](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)を有効にすることができます。
 
-- 1 年間のプリペイド サブスクリプションを利用するオープン ボリューム ライセンス ユーザーの場合は、パートナーに連絡して、新しいプロダクト キーを購入してください。[ボリューム ライセンス サービス センター](https://go.microsoft.com/fwlink/p/?LinkID=282016)でキーをアクティブ化する手順をメールで受け取ります。新しいパートナーまたは以前のパートナーを見つける方法の詳細については、「[Office 365 パートナーまたはリセラーを見つける](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller)」を参照してください。
+- 1 年間のプリペイド サブスクリプションを利用するオープン ボリューム ライセンス ユーザーの場合は、パートナーに連絡して、新しいプロダクト キーを購入してください。[ボリューム ライセンス サービス センター](https://go.microsoft.com/fwlink/p/?LinkID=282016)でキーをアクティブ化する手順をメールで受け取ります。新しいパートナーまたは以前のパートナーを見つける方法の詳細については、「[Office 365 パートナーまたはリセラーを見つける](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller)」を参照してください。

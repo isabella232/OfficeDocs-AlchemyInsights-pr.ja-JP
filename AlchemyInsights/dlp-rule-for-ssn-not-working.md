@@ -12,14 +12,14 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: fffd355279b064b31c0a8bf60518b15ee1ed1848
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 757136c39700f12f40f839b29277a59b0e436f03
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389438"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529864"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>社会保障番号に伴う DLP の問題
+# <a name="dlp-issues-with-social-security-numbers"></a>ソーシャルセキュリティ番号に関する DLP の問題
 
 Office 365 で機密情報の類を使用しているときに、**社会保障番号 (SSN)** を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題は発生していませんか。発生している場合は、コンテンツに DLP ポリシーに必要な情報が含まれていることを確認してください。 
   

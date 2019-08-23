@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1787
-ms.openlocfilehash: 206acdff8763d75e46473db6531adba7d5122aa1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
-ms.translationtype: HT
+ms.openlocfilehash: f2a773218236a57c4165f4f857eeb474339c7422
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771347"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534316"
 ---
 # <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Microsoft Teams PowerShell モジュールの機能
 

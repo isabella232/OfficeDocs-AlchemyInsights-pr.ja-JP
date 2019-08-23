@@ -13,16 +13,14 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386625"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520420"
 ---
-# <a name="compare-office-365-plans"></a>Office 365 プランを比較する
-
-Office 365 プランを比較、切り替え、または購入する
+# <a name="compare-switch-or-purchase-office-365-plans"></a>Office 365 プランを比較、切り替え、または購入する
   
 Office 365 プランは、[ビジネス](https://products.office.com/compare-all-microsoft-office-products?tab=2)、および[エンタープライズ レベルのビジネス](https://products.office.com/business/compare-more-office-365-for-business-plans)で利用できます。さらに、Office 365 は[教育機関](https://products.office.com/academic/compare-office-365-education-plans)、[政府機関](https://products.office.com/government/compare-office-365-government-plans)、および[非営利団体](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)で利用できます。
   

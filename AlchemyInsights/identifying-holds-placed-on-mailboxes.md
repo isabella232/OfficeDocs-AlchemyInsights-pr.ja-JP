@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382886"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538791"
 ---
-自分では特定できない**保留**によって**保持されている**コンテンツがある場合、または**メールボックス**のどこに保留があるのかを**確認**する必要がある場合、Office 365 の保留 (  *保持機能*  ) は、次のいずれかの方法で適用できます。
+# <a name="identify-holds-placed-on-mailboxes"></a>メールボックスに配置された保留リストを識別する
+
+特定できない**ホールド**によって**保持**されている Office 365 コンテンツがあるかどうか。 **メールボックス**に保持が配置されている場所を**確認**する必要がありますか。 保持 (*保持機能*) は、Office 365 の次のいずれかの方法で適用できます。
   
 - 訴訟ホールド
 

@@ -13,14 +13,14 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 8c965cb1c2b6a4cb46b5c1b0145932c4c54ba97d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
-ms.translationtype: HT
+ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270533"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527728"
 ---
-# <a name="enable-and-search-audit-log"></a>監査ログを有効にして検索する
+# <a name="enable-and-search-the-audit-log"></a>監査ログを有効にして検索する
 
 Office 365 の監査ログを検索する場合は、[ここに示す手順](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)を実行してください。
 

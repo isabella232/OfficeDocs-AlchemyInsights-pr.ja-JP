@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Outlook.com にサインインできません
+title: Outlook.com が Outlook.com にサインインできない
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: b148130c363e5a816b6824fb49a4b056cf041df4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376550"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537373"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Outlook.com にサインインできません
 

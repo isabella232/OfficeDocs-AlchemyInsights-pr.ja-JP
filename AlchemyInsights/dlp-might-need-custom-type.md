@@ -1,5 +1,5 @@
 ---
-title: DLP のカスタム タイプの必要性
+title: DLP にカスタムの種類が必要な場合があります
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389690"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530356"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP のカスタム タイプの必要性
+# <a name="dlp-might-need-a-custom-type"></a>DLP にカスタムの種類が必要な場合があります
 
-データ損失防止（DLP）ポリシーを使用すると、組織内の機密データを識別し保護することができます。 場合によっては、組織のデータを保護するために独自の**カスタム**機密情報の種類を作成する必要があります。
+データ損失防止 (DLP) ポリシーを使用すると、組織内の機密データを識別して保護することができます。 シナリオによっては、組織のデータを保護するために、独自の**カスタム**の機密情報の種類を作成する必要があります。
 
-たとえば、組織では、固有の形式で従業員 ID やその他のデータを識別して保護する必要があることがあります。もしそうであれば、詳細について以下の記事を参照してください。
+たとえば、組織では、組織に固有の形式で従業員 Id またはその他のデータを識別して保護する必要がある場合があります。その場合、詳細については、次の記事を参照してください。
   
  **組み込みの機密情報の種類をカスタマイズする**
   
-組み込みの機密情報の種類がほんの数回の調整でニーズを満たすとすれば、[組み込みの機密情報の種類はカスタマイズできます](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type)。 たとえば、キーワードを追加または削除したり、日付や住所などの裏付けとなる証拠を追加または削除したりできます。
+組み込みの機密情報の種類がいくつかの微調整でニーズを満たす場合は、[組み込みの機密情報の種類をカスタマイズ](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type)できます。 たとえば、キーワードを追加または削除したり、日付やアドレスなどのサポートの証拠を追加または削除したりできます。
   
  **カスタムの機密情報の種類を作成する**
   
-ですが、異なる種類の機密情報をすべて識別して保護する必要がある場合は、セキュリティ ＆ コンプライアンス センターの UI で[カスタムの機密情報の種類](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)を作成できます。
+ただし、さまざまな種類の機密情報を識別して保護する必要がある場合は、セキュリティ & コンプライアンスセンターの UI で[カスタムの機密情報の種類を作成](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)することができます。
   
-**セキュリティ ＆ コンプライアンス センター PowerShell でカスタムの機密情報の種類を作成する**
+**セキュリティ & コンプライアンスセンターの PowerShell でカスタムの機密情報の種類を作成する**
 
-最後に、UI が必要なオプションをすべて提供していない場合は、[ セキュリティ ＆ コンプライアンス センター PowerShell でカスタムの機密情報の種類を作成](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell)できます。 XML ファイルを使って始めると、利用可能なすべてのオプションを使用できます。
+最後に、UI が必要なすべてのオプションを提供していない場合は、[セキュリティ & コンプライアンスセンターの PowerShell でカスタムの機密情報の種類を作成](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell)できます。 XML ファイルでは、使用可能なすべてのオプションを使用できます。

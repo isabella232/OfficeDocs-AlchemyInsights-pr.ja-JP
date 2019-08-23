@@ -12,12 +12,12 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: eb90bf0c5c12a32366563a124efe73d4623eb5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 2864e583d8214434530efb663ee71d75dcd9100a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385298"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541158"
 ---
 # <a name="configure-multi-factor-authentication-in-office-365"></a>Office 365 で多要素認証を構成する
 

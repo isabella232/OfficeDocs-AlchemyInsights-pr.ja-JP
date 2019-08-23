@@ -13,12 +13,12 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 035004602a439335380ec72ea65fd1bd70ebbf0d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 13e69ac917a08a338759269df5724c0528dd2eb0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387062"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524416"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Microsoft アカウントに表示される生年月日が正しくない
 

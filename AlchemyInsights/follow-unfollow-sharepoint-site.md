@@ -1,5 +1,5 @@
 ---
-title: SharePoint サイトをフォローまたはフォロー解除する
+title: SharePoint サイトのフォローまたはフォローを解除する
 ms.author: kirks
 author: Techwriter40
 ms.date: 6/20/2019
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
-ms.translationtype: HT
+ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222745"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524596"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint サイトをフォローまたはフォロー解除する
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint サイトのフォローまたはフォローを解除する
 
-SharePoint の面白そうなサイトをフォローするには複数の方法があります。 この方法を用いると、リストでサイトを簡単に検索したり、サイトのアクティビティを確認したりすることができます。 
+SharePoint で興味を持つサイトをフォローする方法は複数あります。 これにより、リスト内でサイトを簡単に検索できるようになり、サイトからのアクティビティを表示できるようになります。 
 
-「[SharePoint サイトをフォローする](https://support.office.com/ja-JP/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)」で動画をご覧ください。 
+ビデオを見て、 [SharePoint サイトをフォロー](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)します。 
 
-サイトのフォローまたはフォロー解除ができなくて、期待していた結果と異なる場合は、問題が組織内の単一ユーザーまたはすべてのユーザーに関連したものであるかを確認します。 すべてのユーザーに発生した問題であれば、一時的なサービスの問題である可能性があります。 
+サイトをフォローまたはフォローすることができず、結果が予期されたものではない場合は、その問題が組織内の1人のユーザーまたはすべてのユーザーに関連しているかどうかを確認します。 問題がすべてのユーザーによって発生した場合は、一時的なサービスの問題が発生している可能性があります。 
 
-[サービスの正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。
+[サービス正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)をチェックして、組織が影響を受けているかどうかを確認します。

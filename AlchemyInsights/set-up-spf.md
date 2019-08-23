@@ -11,12 +11,12 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 36744da1109a73502161e9f723cd228f4c21fd6b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: ed03d39d8bc8724067fe2d98ca718ed9e5308d54
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368698"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549980"
 ---
 # <a name="set-up-spf-in-office-365"></a>Office 365 で SPF をセットアップする
 

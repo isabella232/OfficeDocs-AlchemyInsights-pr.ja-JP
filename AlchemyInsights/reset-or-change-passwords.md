@@ -14,18 +14,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 4cfcd74a30a02f2f5a92abb3b63314b63774bc36
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356242"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552276"
 ---
-# <a name="reset-or-change-passwords"></a>パスワードを再設定または変更する
+# <a name="reset-or-change-office-365-business-passwords"></a>Office 365 business のパスワードをリセットまたは変更する
 
 ユーザーは自分のパスワードを [[マイ アカウント]、[セキュリティとプライバシー]](https://portal.office.com/account/#security) から変更できます。
   
-ユーザーが自分のパスワードを忘れた場合は、管理者が [[ユーザー] \> [アクティブ ユーザー]](https://portal.office.com/adminportal/home#/users) に移動して、ユーザーを選択してから **[パスワードの再設定]** をクリックすることでパスワードを再設定できます。
+ユーザーが自分のパスワードを忘れた場合、管理者は [ **** > [アクティブな](https://portal.office.com/adminportal/home#/users)ユーザー] にアクセスしてパスワードをリセットすることができます。ユーザーを選択し、[**パスワードのリセット**] を選択します。
   
 [詳細については、ここをクリック](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)してください。また、ユーザーが忘れたパスワードを自分で再設定することもできます。
   

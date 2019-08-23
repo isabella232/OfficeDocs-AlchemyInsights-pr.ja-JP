@@ -13,12 +13,12 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: fd0a3ddc5e3589b05838ba7542cba0b8140f0adc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: abf276d17a5cf3a2a05fc7051eeee9149e371dba
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378134"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548648"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開いて使用する
 

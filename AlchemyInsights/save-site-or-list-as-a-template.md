@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 73a32536995a604c734393c2300b4c9bb507e2b2
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
-ms.translationtype: HT
+ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35174516"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551636"
 ---
 # <a name="save-site-or-list-as-a-template"></a>サイトまたはリストをテンプレートとして保存する
 
@@ -28,7 +28,7 @@ SharePoint サイト テンプレートは、特定のビジネス ニーズに�
 - [テンプレートとしてサイトを保存] コマンドはサポートされていないため、SharePoint Server 発行インフラストラクチャを使用するサイトで問題が発生する可能性があります。
 
 
-**サイト テンプレートを作成できない、またはサイト テンプレートが正常に機能しない**
+**サイト テンプレートを作成できないか、正しく機能しない**
 
 - テンプレートに[機能](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx)が設定されていないため、有効になりません。 現在のサイト コレクションで機能を有効にできない場合は、サイト テンプレートを使用してサイトを作成することはできません。
 

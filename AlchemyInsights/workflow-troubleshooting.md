@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36274606"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558082"
 ---
 # <a name="workflow-troubleshooting"></a>ワークフローのトラブルシューティング
 
-ワークフローのトラブルシューティングとデバッグ:
+SharePoint ワークフローのデバッグについては、以下の点を確認してください。
 - デバッグワークフローは、以前のバージョンのワークフローと似ています。  詳細については、「 [SharePoint ワークフローのデバッグ](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)」を参照してください。
 - トラブルシューティングの詳細については、「 [SharePoint Server ワークフロー検証エラーのトラブルシューティング](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)」を参照してください。
  

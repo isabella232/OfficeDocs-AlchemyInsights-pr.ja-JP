@@ -1,5 +1,5 @@
 ---
-title: Outlook.com からサインアウトする
+title: Outlook.com からサインアウトします。
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 7e4f600fffc3f16b2569fadbbad436948ea47f0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371978"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557790"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Outlook.com からサインアウトする方法
 
