@@ -3,44 +3,6 @@
 
 
 
-## <a name="week-of-july-08-2019"></a>2019 年 7 月 8 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019/7/9 | [8000077 Hotmail または Outlook.com にサインインできない場合](/AlchemyInsights/can-t-sign-in-to-hotmail-or-outlook-com) | 更新日時 |
-| 2019/7/9 | [Outlook.com サポートを受ける方法](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | 更新日時 |
-| 2019/7/9 | [Outlook.com 受信トレイが読み込まれない](/AlchemyInsights/outlook-com-inbox-not-loading) | 更新日時 |
-| 2019/7/9 | [LinkedIn からと主張する迷惑メールの問題](/AlchemyInsights/outlook-com-linkedin) | 更新日時 |
-| 2019/7/9 | [Outlook.com の容量超過](/AlchemyInsights/outlook-com-over-quota) | 更新日時 |
-| 2019/7/9 | [Outlook.com のパーソナライズされたメール アドレスで送受信されない](/AlchemyInsights/outlook-com-personalized-email-not-sending) | 更新日時 |
-| 2019/7/9 | [Outlook.com から Skype が削除されている](/AlchemyInsights/outlook-com-remove-skype-rule-2) | 更新日時 |
-| 2019/7/9 | [8000093 Outlook.com 接続先アカウントのアクセス許可](/AlchemyInsights/outlook-com-connected-account-permissions) | 更新日時 |
-| 2019/7/9 | [8000086 Outlook.com 画像を挿入する](/AlchemyInsights/outlook-com-insert-image) | 更新日時 |
-| 2019/7/9 | [8000087 Outlook.com キーボード ショートカット](/AlchemyInsights/outlook-com-keyboard-shortcuts) | 更新日時 |
-| 2019/7/9 | [8000091 Outlook.com リアクション ポップ アップ](/AlchemyInsights/outlook-com-react-pop-up) | 更新日時 |
-| 2019/7/9 | [8000089 Outlook.com 信頼できる差出人](/AlchemyInsights/outlook-com-safe-senders) | 更新日時 |
-| 2019/7/9 | [8000088 Outlook.com でメールを保存する](/AlchemyInsights/outlook-com-save-emails) | 更新日時 |
-| 2019/7/9 | [8000085: Outlook.com: Chrome でファイルをダウンロードできない](/AlchemyInsights/outlook-com-unable-to-donwload-using-chrome) | 更新日時 |
-| 2019/7/9 | [SharePoint Online での外部共有](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | 更新日時 |
-| 2019/7/9 | [外部連絡先が、共有の招待を承諾することができない](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | 更新日時 |
-| 2019/7/9 | [外部共有を有効にする](/AlchemyInsights/sharepoint-external-sharing-issues) | 更新日時 |
-| 2019/7/9 | [OneDrive をインストールする](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | 更新日時 |
-| 2019/7/10 | [Outlook.com の休日の予定表](/AlchemyInsights/outlook-com-add-holiday-calendar) | 更新日時 |
-| 2019/7/10 | [9000232 Outlook.com アドレス帳](/AlchemyInsights/outlook-com-address-book) | 更新日時 |
-| 2019/7/10 | [Outlook.com の誕生日の予定表](/AlchemyInsights/outlook-com-birthday-calendars) | 更新日時 |
-| 2019/7/10 | [9000203 Outlook.com のフィルター](/AlchemyInsights/outlook-com-filters) | 更新日時 |
-| 2019/7/10 | [9000199 Outlook.com の PST ファイル](/AlchemyInsights/outlook-com-read-pst-files) | 更新日時 |
-| 2019/7/10 | [Outlook.com で移動または削除を元に戻す](/AlchemyInsights/outlook-com-undo-move-delete) | 更新日時 |
-| 2019/7/10 | [9000236 Outlook.com アカウントを追加する](/AlchemyInsights/outlook-com-add-account) | 更新日時 |
-| 2019/7/10 | [9000238 Outlook.com エイリアスを追加する](/AlchemyInsights/outlook-com-add-alias) | 更新日時 |
-| 2019/7/10 | [Outlook.com に Gmail アカウントを追加する](/AlchemyInsights/outlook-com-add-gmail-account) | 更新日時 |
-| 2019/7/10 | [9000239 Outlook.com 転送](/AlchemyInsights/outlook-com-forwarding) | 更新日時 |
-| 2019/7/10 | [Outlook.com Premium](/AlchemyInsights/outlook-com-premium) | 更新日時 |
-| 2019/7/10 | [9000240 Outlook.com 返信](/AlchemyInsights/outlook-com-replies) | 更新日時 |
-| 2019/7/11 | [Office 365 経由でメールを中継する](/AlchemyInsights/relay-email-through-office-365) | 更新日時 |
-
-
 ## <a name="week-of-july-15-2019"></a>2019 年 7 月 15 日の週
 
 
@@ -277,3 +239,92 @@
 | 2019/8/8 | [ワークフローのトラブルシューティング](/AlchemyInsights/workflow-troubleshooting) | 更新日時 |
 | 2019/8/8 | [監査ログを有効にして検索する](/AlchemyInsights/enable-auditing) | 更新日時 |
 | 2019/8/8 | [監査ログを有効にして検索する](/AlchemyInsights/enable-auditing) | 更新日時 |
+
+
+## <a name="week-of-august-12-2019"></a>2019 年 8 月 12 日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 2019/8/13 | [プロダクト キーでサブスクリプションをアクティブにする](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 更新日時 |
+| 2019/8/13 | [サービスとしてのソフトウェア アプリのライセンスをアクティブにして割り当てる](/AlchemyInsights/activate-and-assign-software-as-a-service-app-licenses) | 更新日時 |
+| 2019/8/13 | [Microsoft Office 365 ボリューム ライセンス サブスクリプションのアクティブ化](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 更新日時 |
+| 2019/8/13 | [連絡先を Office 365 グループに追加する](/AlchemyInsights/add-contacts-to-o365-group) | 更新日時 |
+| 2019/8/13 | [プリペイド サブスクリプションにシートを追加する](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 更新日時 |
+| 2019/8/13 | [すべてのサブスクリプションがアクティブです](/AlchemyInsights/all-subscriptions-are-active) | 更新日時 |
+| 2019/8/13 | [お支払い済みですか? ](/AlchemyInsights/already-paid) | 更新日時 |
+| 2019/8/13 | [請求サイクル クレジット カード](/AlchemyInsights/billing-cycle-credit-card) | 更新日時 |
+| 2019/8/13 | [無料試用版から一般法人向け Office 365 を購入する](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | 更新日時 |
+| 2019/8/13 | [追加のライセンスを購入する](/AlchemyInsights/buy-additional-licenses) | 更新日時 |
+| 2019/8/13 | [Office 365 サブスクリプションをキャンセルする](/AlchemyInsights/cancel-office-365-subscription) | 更新日時 |
+| 2019/8/13 | [Office 365 サブスクリプションをキャンセルする場合](/AlchemyInsights/canceling-your-office-365-subscription-0) | 更新日時 |
+| 2019/8/13 | [Office 365 サブスクリプションをキャンセルする場合](/AlchemyInsights/canceling-your-office-365-subscription-1) | 更新日時 |
+| 2019/8/13 | [Office 365 サブスクリプションをキャンセルする場合](/AlchemyInsights/canceling-your-office-365-subscription-2) | 更新日時 |
+| 2019/8/13 | [Office 365 サブスクリプションをキャンセルする場合](/AlchemyInsights/canceling-your-office-365-subscription) | 更新日時 |
+| 2019/8/13 | [ユーザー名とメール アドレスを変更する](/AlchemyInsights/change-a-user-s-name-and-email-address) | 更新日時 |
+| 2019/8/13 | [支払回数を変更する](/AlchemyInsights/change-how-often-you-pay) | 更新日時 |
+| 2019/8/13 | [組織プロファイルを変更する](/AlchemyInsights/change-organization-profile) | 更新日時 |
+| 2019/8/13 | [支払方法を変更する](/AlchemyInsights/change-payment-method) | 更新日時 |
+| 2019/8/13 | [Office 365 プランを比較する](/AlchemyInsights/compare-office-365-plans) | 更新日時 |
+| 2019/8/13 | [与信審査状態の要求](/AlchemyInsights/credit-check-status-request) | 更新日時 |
+| 2019/8/13 | [クレジット/払い戻し](/AlchemyInsights/credit-refund) | 更新日時 |
+| 2019/8/13 | [クレジット カードが拒否されました](/AlchemyInsights/declined-credit-card) | 更新日時 |
+| 2019/8/13 | [従業員の離職](/AlchemyInsights/employee-leaving) | 更新日時 |
+| 2019/8/13 | [期限切れのサブスクリプション](/AlchemyInsights/expired-subscription) | 更新日時 |
+| 2019/8/13 | [Office 365 for Business の試用期間を延長する](/AlchemyInsights/extend-your-trial-for-office-365-for-business) | 更新日時 |
+| 2019/8/13 | [付加価値税 (VAT) についての説明](/AlchemyInsights/help-understanding-value-added-tax-vat) | 更新日時 |
+| 2019/8/13 | [課金内容についての説明](/AlchemyInsights/help-understanding-your-bill) | 更新日時 |
+| 2019/8/13 | [クレジット カードを追加する方法](/AlchemyInsights/how-do-i-add-a-credit-card) | 更新日時 |
+| 2019/8/13 | [支払いをクレジット カードから請求書に変更する方法](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | 更新日時 |
+| 2019/8/13 | [クレジット カードの情報を削除する方法](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | 更新日時 |
+| 2019/8/13 | [クレジット カードの情報を更新する方法](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 更新日時 |
+| 2019/8/13 | [VatID を追加または編集する方法](/AlchemyInsights/how-to-add-or-edit-a-vatid) | 更新日時 |
+| 2019/8/13 | [ライセンスを追加または削除する方法](/AlchemyInsights/how-to-add-or-reduce-licenses) | 更新日時 |
+| 2019/8/13 | [ライセンスをユーザーに割り当てる方法](/AlchemyInsights/how-to-assign-a-license-to-a-user) | 更新日時 |
+| 2019/8/13 | [クレジットカードまたは銀行口座取引明細書で料金請求を確認する方法](/AlchemyInsights/how-to-identify-a-charge-on-your-credit-card-or-bank-statement) | 更新日時 |
+| 2019/8/13 | [Office 365 の購入方法](/AlchemyInsights/how-to-make-an-office-365-purchase) | 更新日時 |
+| 2019/8/13 | [教育機関向けプランの購入方法](/AlchemyInsights/how-to-purchase-education-offer) | 更新日時 |
+| 2019/8/13 | [Office 365 Education のプランの購入方法](/AlchemyInsights/how-to-purchase-office-365-education-plans-0) | 更新日時 |
+| 2019/8/13 | [Office 365 Education のプランの購入方法](/AlchemyInsights/how-to-purchase-office-365-education-plans-1) | 更新日時 |
+| 2019/8/13 | [Office 365 Education のプランの購入方法](/AlchemyInsights/how-to-purchase-office-365-education-plans) | 更新日時 |
+| 2019/8/13 | [非営利団体向け Office 365 の購入方法](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | 更新日時 |
+| 2019/8/13 | [非営利団体向け Office 365 の購入方法](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | 更新日時 |
+| 2019/8/13 | [非営利団体向け Office 365 の購入方法](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | 更新日時 |
+| 2019/8/13 | [サブスクリプションを再アクティブ化する方法](/AlchemyInsights/how-to-reactivate-a-subscription) | 更新日時 |
+| 2019/8/13 | [更新を再アクティブ化および管理する方法](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | 更新日時 |
+| 2019/8/13 | [アプリを表示および管理する方法](/AlchemyInsights/how-to-view-and-manage-apps) | 更新日時 |
+| 2019/8/13 | [新しいサブスクリプションを購入する場合](/AlchemyInsights/looking-to-buy-a-new-subscription) | 更新日時 |
+| 2019/8/13 | [自動更新を管理する](/AlchemyInsights/manage-auto-renewal) | 更新日時 |
+| 2019/8/13 | [請求と支払いを管理する](/AlchemyInsights/manage-my-bill-and-payments) | 更新日時 |
+| 2019/8/13 | [無料の Minecraft Edition と Office 365 Education](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | 更新日時 |
+| 2019/8/13 | [オンラインでのお支払い方法に対する複数回の請求](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | 更新日時 |
+| 2019/8/13 | [Office 365 Education が無料](/AlchemyInsights/office-365-education-for-free) | 更新日時 |
+| 2019/8/13 | [Office 365 Business のプランと価格](/AlchemyInsights/office-365-for-business-plans-and-pricing) | 更新日時 |
+| 2019/8/13 | [Office 365 for Education のプランと価格](/AlchemyInsights/office-365-for-education-plans-and-pricing) | 更新日時 |
+| 2019/8/13 | [Office 365 for Enterprise プラン](/AlchemyInsights/office-365-for-enterprise-plan) | 更新日時 |
+| 2019/8/13 | [Office 365 for Government のプランと価格](/AlchemyInsights/office-365-for-government-plans-and-pricing) | 更新日時 |
+| 2019/8/13 | [非営利団体向け Office 365 のプランと価格](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | 更新日時 |
+| 2019/8/13 | [請求書による支払い](/AlchemyInsights/pay-by-invoice) | 更新日時 |
+| 2019/8/13 | [支払いオプション](/AlchemyInsights/payment-options) | 更新日時 |
+| 2019/8/13 | [プリペイドの更新](/AlchemyInsights/prepaid-renewal) | 更新日時 |
+| 2019/8/13 | [料金が正しくないと思われる場合](/AlchemyInsights/price-doesn-t-look-correct) | 更新日時 |
+| 2019/8/13 | [ライセンスについて質問する](/AlchemyInsights/question-about-licenses) | 更新日時 |
+| 2019/8/13 | [サブスクリプションを再アクティブ化する](/AlchemyInsights/reactivate-a-subscription) | 更新日時 |
+| 2019/8/13 | [請求明細書のコピーをメールで受け取る](/AlchemyInsights/receive-copy-of-your-billing-statement-in-email) | 更新日時 |
+| 2019/8/13 | [別のエイリアスからメールを送信する](/AlchemyInsights/send-mail-from-another-alias) | 更新日時 |
+| 2019/8/13 | [サブスクリプション情報](/AlchemyInsights/subscription-information) | 更新日時 |
+| 2019/8/13 | [サブスクリプションの更新](/AlchemyInsights/subscription-renewal) | 更新日時 |
+| 2019/8/13 | [別の一般法人向け Office 365 プランに切り替える](/AlchemyInsights/switch-to-a-different-office-365-for-business-plan) | 更新日時 |
+| 2019/8/13 | [ライセンスの数が多すぎる場合](/AlchemyInsights/too-many-licenses) | 更新日時 |
+| 2019/8/13 | [Office 365 ポータルで購入を完了できない](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | 更新日時 |
+| 2019/8/13 | [試用版をお探しですか?](/AlchemyInsights/trying-to-find-a-trial) | 更新日時 |
+| 2019/8/13 | [お支払いの詳細の更新](/AlchemyInsights/update-payment-details) | 更新日時 |
+| 2019/8/13 | [明細の表示](/AlchemyInsights/view-my-bill) | 更新日時 |
+| 2019/8/13 | [ボリューム ライセンス エンタープライズ契約が誤ったアカウントでライセンス認証されている](/AlchemyInsights/volume-licensing-enterprise-agreement-activated-on-wrong-account) | 更新日時 |
+| 2019/8/13 | 一[般法人向け Office 365 のサブスクリプションが終了すると、データとアクセスはどうなりますか?](/AlchemyInsights/what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription) | 更新日時 |
+| 2019/8/13 | [クレジット カードに課金されるタイミング](/AlchemyInsights/when-is-my-credit-card-charged) | 更新日時 |
+| 2019/8/13 | [請求明細書が生成されるタイミング](/AlchemyInsights/when-is-the-billing-statement-generated) | 更新日時 |
+| 2019/8/14 | [アイテム保持ポリシーの詳細情報](/AlchemyInsights/office-security-compliance-retention-policy) | 更新日時 |
+| 2019/8/14 | [SharePoint のアラート通知が配信されない](/AlchemyInsights/sharepoint-alert-notifications-not-delivered) | 更新日時 |
+| 2019/8/16 | [1488 電子情報開示とコンテンツの検索を実行する](/AlchemyInsights/perform-ediscovery-and-content-searches) | 更新日時 |
+| 2019/8/16 | [Exchange 管理センターでアイテム保持ポリシーが動作しない](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | 変更 |
