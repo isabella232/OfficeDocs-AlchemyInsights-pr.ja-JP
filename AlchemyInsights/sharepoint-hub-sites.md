@@ -9,7 +9,7 @@ localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36503567"
@@ -24,10 +24,10 @@ SharePoint ハブ サイトを使用すると、プロジェクト、部門、�
 
 - すべての関連サイトを検索します。
 
-ハブサイトの詳細については、次を参照してください。
-- [SharePoint Online でハブサイトを作成](https://docs.microsoft.com/sharepoint/create-hub-site)する: 新しい管理センターまたは PowerShell からハブサイトを作成する方法について説明します。
+ハブ サイトの詳細については、以下を参照してください。
+- [SharePoint Online でハブ サイトを作成する](https://docs.microsoft.com/sharepoint/create-hub-site): 新しい管理センターまたは PowerShell からハブ サイトを作成する方法の詳細については、こちらを参照してください。
 
-- [SharePoint サイトをハブサイトに関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): 新しい管理センターまたは PowerShell から既存のサイトをハブサイトに関連付ける方法について説明します。
+- [SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): 新しい管理センターまたは PowerShell から既存のサイトをハブ サイトに関連付ける方法の詳細については、こちらを参照してください。
 
-- [ハブサイトを削除](https://docs.microsoft.com/sharepoint/remove-hub-site)する: 新しい管理センターまたは PowerShell で既存のハブサイトを削除する方法について説明します。
+- [ハブ サイトを削除する](https://docs.microsoft.com/sharepoint/remove-hub-site): 新しい管理センターまたは PowerShell から既存のハブ サイトを削除する方法の詳細については、こちらを参照してください。
 

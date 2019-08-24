@@ -13,14 +13,14 @@ ms.custom:
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
 ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36498996"
 ---
 # <a name="install-and-configure-onedrive"></a>OneDrive をインストールして構成する
 
-OneDrive 同期クライアントは、Windows 10 にプレインストールされています。 OneDrive for Windows 7 または Mac をインストールする場合、または携帯電話またはタブレットのモバイルアプリを[http://onedrive.com/download](http://onedrive.com/download)入手する場合は、にアクセスしてください。
+OneDrive 同期クライアントには Windows 10 がプレインストールされています。 Windows 7 または Mac 用の OneDrive をインストールする場合、もしくは携帯電話またはタブレットのモバイル アプリを入手するには、「[http://onedrive.com/download](http://onedrive.com/download) 」に移動します。
   
 Windows で OneDrive 同期クライアントを設定するには、以下を参照してください。
   
