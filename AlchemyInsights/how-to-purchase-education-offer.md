@@ -14,21 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390193"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574803"
 ---
 # <a name="how-to-purchase-education-offer"></a>教育機関向けプランの購入方法
 
 Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。
   
-1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
 2. **学生または教職員**向けの試用版を選択します。
 
-3. 購入する試用版の **[今すぐ購入]** を選択します。 
+3. [**ライセンス**] セクションで、[**サブスクリプションの購入**] を選択します。
+
+4. 残りの手順に従って、チェックアウトします。
 
 試用版以外のサブスクリプションを購入する場合は、[ **Billing** \> [purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ] ページに移動して、[**教育プラン**] の下のリストから選択します。
+
+古い管理センターを使用していますか? 以前の手順や詳細については、「[試用版と同じプランを購入](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)する」を参照してください。

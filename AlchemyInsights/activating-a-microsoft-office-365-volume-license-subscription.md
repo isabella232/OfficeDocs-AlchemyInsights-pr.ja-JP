@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385870"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574475"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365 ボリューム ライセンス サブスクリプションをアクティブ化する
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385870"
 
 5. 既存の Office 365 管理者の資格情報を使用して、Office 365 ([https://portal.office.com](https://portal.office.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
 
-6. サインインした後、[**課金** \> [サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動して、購入した Office 365 サブスクリプションがテナント内でアクティブ化されていることを確認できます。 (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションがデポジットされたことを確認する詳細を表示することもできます)。
+6. サインインした後、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、購入した Office 365 サブスクリプションがテナント内でアクティブ化されていることを確認できます。 (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションがデポジットされたことを確認する詳細を表示することもできます)。

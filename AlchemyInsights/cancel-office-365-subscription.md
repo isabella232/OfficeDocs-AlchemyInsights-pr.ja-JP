@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494143"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576061"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
@@ -24,8 +24,8 @@ ms.locfileid: "36494143"
   
 - 試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。
 
-- 割り当てられているライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。[**課金**]、[[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] の順に移動してから、[**その他のアクション**]、[**サブスクリプションのキャンセル**] の順に選択します。
+- 割り当てられているライセンス数が25未満である場合は、サブスクリプションをオンラインで解約できます。 [ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)] に移動します。 [**設定 & アクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
 
 - 割り当てられているライセンス数が 25 以上の場合は、25 未満になるまでユーザーを削除するか、[電話でのサポートを希望] オプションを使用して、サポート エンジニアに連絡することができます。
 
-- サブスクリプションのキャンセル、または詳細な手順については、「[サブスクリプションをキャンセル](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)する」を参照してください。
+古い管理センターを使用していますか? 以前の手順や詳細については、「[サブスクリプションの取り消し](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。

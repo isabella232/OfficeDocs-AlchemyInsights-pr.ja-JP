@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522436"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574947"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>ライセンスを追加または削除する方法
 
@@ -39,7 +39,7 @@ Office 365 のライセンスをさらに削除または購入する方法は次
 > [!NOTE]
 > 新しい請求 (ライセンスの増加) またはクレジット (ライセンスの減少) は、次回の請求書に表示されます。
 
-詳細については、「一般[法人向け Office 365 のサブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
+古い管理センターを使用していますか? 以前の手順や詳細については、「一般[法人向け Office 365 サブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
 
  **その他の技術情報**
   

@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518044"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575953"
 ---
 # <a name="buy-additional-office-365-licenses"></a>追加の Office 365 ライセンスを購入する
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518044"
 
     > [!NOTE]
     > サブスクリプションの支払いにクレジット カードまたは銀行口座を使用している場合、購入した新しいライセンスは注文確認の受け取り直後に使用可能になります。請求書支払いの場合は、与信審査を待機する必要があり、その後で新しいライセンスが使用可能になります。
-  
+
+古い管理センターを使用していますか? 以前の手順や詳細については、「一般[法人向け Office 365 サブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。  
+
 **追加リソース**
 
 - [Office 365 for Business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-詳細については、「一般[法人向け Office 365 のサブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
