@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388677"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555274"
 ---
-# <a name="payment-options"></a>支払いオプション
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>一般法人向け Office 365 サブスクリプションの支払いオプション
 
 **支払いオプション**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388677"
   
 クレジット カードで支払う場合、請求日の翌日からサブスクリプション有効期限の最終日まで、サブスクリプションの費用が自動請求されます。必要に応じて、[クレジット カードの情報を更新](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)できます。また、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)ことを選択することもできます。
   
-ご利用のクレジット カードが拒否された場合、またはお支払い期限を過ぎている場合は、**[課金情報]**、[[サブスクリプション]](https://portal.office.com/adminportal/home#/subscriptions) ページで **[今すぐ支払う]** オプションを選択することができます。
+ご利用のクレジット カードが拒否された場合、またはお支払い期限を過ぎている場合は、[**課金情報**]\>[[製品とサービス](https://portal.office.com/adminportal/home#/subscriptions)] ページで [**残高の決済**] オプションを選択することができます。
   
 **請求書による支払い (小切手または電子決済)**
   
