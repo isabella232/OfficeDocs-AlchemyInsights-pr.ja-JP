@@ -1,7 +1,7 @@
 ---
 title: ユーザーのライセンスを割り当てるまたは削除する
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 2/24/2018
 ms.audience: Admin
@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 13c2d59b244a98f5d72ca889ea392f1b6b80e384
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397085"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574439"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="be422-102">ユーザーのライセンスを割り当てるまたは削除する</span><span class="sxs-lookup"><span data-stu-id="be422-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="95eee-102">ユーザーのライセンスを割り当てるまたは削除する</span><span class="sxs-lookup"><span data-stu-id="95eee-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="be422-p101">管理者は、必要に応じてユーザーのライセンスを調整できます。次の記事では、ユーザーのライセンスを管理する方法について説明しています。</span><span class="sxs-lookup"><span data-stu-id="be422-p101">As an admin, you can adjust your users' licenses as needed. The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="95eee-p101">管理者は、必要に応じてユーザーのライセンスを調整できます。次の記事では、ユーザーのライセンスを管理する方法について説明しています。</span><span class="sxs-lookup"><span data-stu-id="95eee-p101">As an admin, you can adjust your users' licenses as needed. The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="be422-105">一般法人向け Office 365 ライセンスをユーザーに割り当てる</span><span class="sxs-lookup"><span data-stu-id="be422-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [<span data-ttu-id="be422-106">一般法人向け Office 365 のユーザーからライセンスを削除する</span><span class="sxs-lookup"><span data-stu-id="be422-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
-    
-<span data-ttu-id="be422-p102">質問に対する回答が見つからなくても、問題はありません。[電話でのサポートを希望] オプションを使用して、サポート エンジニアにお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="be422-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- [<span data-ttu-id="95eee-105">一般法人向け Office 365 ライセンスをユーザーに割り当てる</span><span class="sxs-lookup"><span data-stu-id="95eee-105">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
+- [<span data-ttu-id="95eee-106">Office 365 for business のユーザーからライセンスの割り当てを解除する</span><span class="sxs-lookup"><span data-stu-id="95eee-106">Unassign licenses from users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+
+<span data-ttu-id="95eee-107">ご質問には答えませんか。</span><span class="sxs-lookup"><span data-stu-id="95eee-107">Didn't answer your question?</span></span> <span data-ttu-id="95eee-108">大丈夫！</span><span class="sxs-lookup"><span data-stu-id="95eee-108">No problem!</span></span> <span data-ttu-id="95eee-109">サポートエンジニアに連絡するには、[ヘルプが必要] ボタンを使用します。</span><span class="sxs-lookup"><span data-stu-id="95eee-109">Use the "Need help" button to talk to a support engineer.</span></span>
