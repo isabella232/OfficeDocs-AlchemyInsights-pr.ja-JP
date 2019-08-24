@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390445"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523048"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="f6a98-102">クレジット カードを追加する方法</span><span class="sxs-lookup"><span data-stu-id="f6a98-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="7c649-102">クレジット カードを追加する方法</span><span class="sxs-lookup"><span data-stu-id="7c649-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="f6a98-103">管理センターの [**課金**] \> [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="f6a98-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="7c649-103">Microsoft 365 管理センターで、[**課金情報**] \> [[支払い方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)] ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="7c649-103">In the admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="f6a98-104">新しいクレジット カードまたは銀行口座を使用して購入するサブスクリプションを選んで、**[お支払いの詳細の更新]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="f6a98-104">Pick the subscription that you want to pay for with the new credit card or bank account, then choose **Update payment details**.</span></span>
+2. <span data-ttu-id="7c649-104">[**お支払方法の追加**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="7c649-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="f6a98-105">**[支払い方法の追加または選択]** の下にあるドロップ ダウン矢印を選択してから、**[新しいクレジット カード]** または **[新しい銀行口座]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="f6a98-105">Choose the drop down arrow under **Add or select a payment method**, then choose **New credit card** or **New bank account**.</span></span>
+3. <span data-ttu-id="7c649-105">[**支払い方法**] ページで、ドロップダウン メニューから支払い方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="7c649-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="f6a98-106">新しいクレジット カードまたは銀行口座に関する情報を入力して、[送信] を選択します。</span><span class="sxs-lookup"><span data-stu-id="f6a98-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="7c649-106">新しいクレジット カードまたは銀行口座に関する情報を入力して、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="7c649-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="f6a98-107">新しい管理センターを使用していますか。</span><span class="sxs-lookup"><span data-stu-id="f6a98-107">Are you using the new admin center?</span></span> <span data-ttu-id="f6a98-108">新しい手順については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/ja-JP/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f6a98-108">[Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span></span>
+<span data-ttu-id="7c649-107">詳細情報については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7c649-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
