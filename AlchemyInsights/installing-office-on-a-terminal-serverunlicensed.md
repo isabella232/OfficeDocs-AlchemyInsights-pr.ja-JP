@@ -13,7 +13,7 @@ ms.custom:
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36498420"
@@ -26,7 +26,7 @@ ms.locfileid: "36498420"
 
 - [共有コンピューターのライセンス認証](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)を有効にする必要があります。
 
-Office 365 ポータルから、***既定のインストール設定を使用***する Office 365 PROPLUS を RDS にインストールする場合は、次の手順を実行します。
+Office 365 ポータルから RDS に Office 365 ProPlus をインストールする場合 (***既定のインストール設定を使用***) は、次の手順に従います。
   
 1. ご利用の Office 365 プランを確認します ([詳細](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have))。
 
@@ -36,7 +36,7 @@ Office 365 ポータルから、***既定のインストール設定を使用***
 
 4. RDS サーバーで、管理者アカウントを使用して Office 365 ポータルにサインインし、[Office 365 ProPlus をインストールします](https://portal.office.com/OLS/MySoftware.aspx)。
 
-5. Office をインストールした後で、Office アプリケーションを***開いたりサインインしたりしない***でください。
+5. Office のインストール後には、Office アプリケーションを***開いたり、サインインしたりしないでください***。
 
 6. RDS サーバーで、次の手順に従ってレジストリを編集し、共有コンピューターのライセンス認証を有効にします。
 
@@ -46,7 +46,7 @@ Office 365 ポータルから、***既定のインストール設定を使用***
 
 3. レジストリ エディターで、HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration に文字列値 **SharedComputerLicensing** を追加し、1 を設定します。
 
-7. RDS サーバーで、***エンドユーザーとしてサインイン***し、 [Office 365 ProPlus で共有コンピューターのライセンス認証が有効になって](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)いることを確認します。
+7. RDS サーバーで***エンド ユーザーとしてサインインし***、[共有コンピューターのライセンス認証が Office 365 ProPlus に対して有効になっていることを確認します](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
 
 Office 展開ツールを使用したカスタム インストールの前提条件、設定手順、およびガイダンスの詳細については、「[リモート デスクトップ サービスを使用して Office 365 ProPlus を展開する](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)」を参照してください。
   

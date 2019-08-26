@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
 ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36500414"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>"アクセスが拒否されました" メッセージのトラブルシューティング
 
-他のユーザーが SharePoint の共有フォルダーへの "アクセスが拒否されました" というメッセージを受け取った場合、サイトコレクションの管理者は "アクセス許可の制限付きユーザーのロックダウンモード" を有効にしている可能性があります。 この機能をオフにするには: 
+ユーザーが SharePoint の共有フォルダーにアクセスしようとしたときに「アクセスが拒否されました」メッセージを受け取った場合、サイト コレクション管理者が「制限付きアクセスのユーザーのアクセス許可ロックダウン モード」を有効にしている可能性があります。これを無効にするには、次の手順を実行します。 
   
 1. サイトを参照して、[設定] アイコンをクリックし、[**サイト設定**] をクリックします。
     
