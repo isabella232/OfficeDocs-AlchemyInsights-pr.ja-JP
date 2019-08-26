@@ -14,14 +14,14 @@ ms.custom:
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
 ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36532279"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="dee3e-102">Office オフライン インストーラーを使用する</span><span class="sxs-lookup"><span data-stu-id="dee3e-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="9e624-102">Office オフライン インストーラーを使用する</span><span class="sxs-lookup"><span data-stu-id="9e624-102">Use the Office offline installer</span></span>
 
-<span data-ttu-id="dee3e-103">インストーラー ファイルをダウンロードするには、インターネットに接続する必要がありますが、ダウンロードが完了したら、必要に応じて、Office 展開ツール (ODT) を使用して、Office を PC にオフラインでインストールできます</span><span class="sxs-lookup"><span data-stu-id="dee3e-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="9e624-103">インストーラー ファイルをダウンロードするには、インターネットに接続する必要がありますが、ダウンロードが完了したら、必要に応じて、Office 展開ツール (ODT) を使用して、Office を PC にオフラインでインストールできます</span><span class="sxs-lookup"><span data-stu-id="9e624-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="dee3e-p101">ODT はエンタープライズ環境用に設計されており、コマンドラインから実行されるため、手順はより複雑になりますが、単一のデバイスへのインストールにも使えます。「[Office オフライン インストーラーを使用する](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dee3e-p101">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device. See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="9e624-p101">ODT はエンタープライズ環境用に設計されており、コマンドラインから実行されるため、手順はより複雑になりますが、単一のデバイスへのインストールにも使えます。「[Office オフライン インストーラーを使用する](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="9e624-p101">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device. See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

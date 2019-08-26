@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
 ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36514912"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="f9c5f-102">ハイブリッド展開でのユーザーの作成</span><span class="sxs-lookup"><span data-stu-id="f9c5f-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="cb643-102">ハイブリッド展開でのユーザーの作成</span><span class="sxs-lookup"><span data-stu-id="cb643-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="f9c5f-p101">組織が、オンプレミス環境と Office 365 の間のハイブリッド展開である場合は、オンプレミスの Active Directory ですべてのユーザー オブジェクトを作成する必要があります。これらのユーザー オブジェクトは、Office 365 組織に同期されるように適切な組織単位 (OU) で作成します。</span><span class="sxs-lookup"><span data-stu-id="f9c5f-p101">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory. You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="cb643-p101">組織が、オンプレミス環境と Office 365 の間のハイブリッド展開である場合は、オンプレミスの Active Directory ですべてのユーザー オブジェクトを作成する必要があります。これらのユーザー オブジェクトは、Office 365 組織に同期されるように適切な組織単位 (OU) で作成します。</span><span class="sxs-lookup"><span data-stu-id="cb643-p101">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory. You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>

@@ -17,13 +17,13 @@ ms.custom:
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
 ms.openlocfilehash: 8717573bde50cf64ffc8174b116674dec217dc21
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36541197"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="c1877-102">会議室メールボックスを作成および管理する方法</span><span class="sxs-lookup"><span data-stu-id="c1877-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="a15c7-102">会議室メールボックスを作成および管理する方法</span><span class="sxs-lookup"><span data-stu-id="a15c7-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="c1877-103">会議室メールボックスを作成および管理するには、「[会議室メールボックスの作成と管理](https://technet.microsoft.com/library/jj215781.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c1877-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="a15c7-103">会議室メールボックスを作成および管理するには、「[会議室メールボックスの作成と管理](https://technet.microsoft.com/library/jj215781.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a15c7-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="c1877-104">会議室メールボックスと備品用メールボックス (別名リソース メールボックス) の詳細については、「[会議室メールボックスと備品用メールボックス](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c1877-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
+<span data-ttu-id="a15c7-104">会議室メールボックスと備品用メールボックス (別名リソース メールボックス) の詳細については、「[会議室メールボックスと備品用メールボックス](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a15c7-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>

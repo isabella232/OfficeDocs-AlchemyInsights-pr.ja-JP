@@ -15,19 +15,19 @@ ms.custom:
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
 ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36525252"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="224c3-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="224c3-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="e887e-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="e887e-102">Fix OneDrive sync problems</span></span>
 
-- <span data-ttu-id="224c3-103">自分の OneDrive アカウントにオンラインでアクセスできることを確認する: 左上にあるアプリ起動ツールをクリックし、[OneDrive] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="224c3-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
+- <span data-ttu-id="e887e-103">自分の OneDrive アカウントにオンラインでアクセスできることを確認する: 左上にあるアプリ起動ツールをクリックし、[OneDrive] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="e887e-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
     
-- <span data-ttu-id="224c3-104">コンピューターが最新の状態になっていることを確認する: [最新の Windows 更新プログラムをダウンロードする](http://go.microsoft.com/fwlink/p/?LinkId=825773)、[最新版の OneDrive をダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="224c3-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
+- <span data-ttu-id="e887e-104">コンピューターが最新の状態になっていることを確認する: [最新の Windows 更新プログラムをダウンロードする](http://go.microsoft.com/fwlink/p/?LinkId=825773)、[最新版の OneDrive をダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="e887e-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
     
-- <span data-ttu-id="224c3-p101">OneDrive のリンクを解除し、OneDrive セットアップをもう一度実行する: タスク バーの右端の通知領域にある青い OneDrive クラウド アイコンを右クリックし、[**設定**] をクリックし、[**この PC のリンク解除**] をクリックします。[OneDrive へようこそ] ウィザードの手順に従い、OneDrive をもう一度セットアップします。</span><span class="sxs-lookup"><span data-stu-id="224c3-p101">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar. Click **Settings**, and then click **Unlink this PC**. Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
+- <span data-ttu-id="e887e-p101">OneDrive のリンクを解除し、OneDrive セットアップをもう一度実行する: タスク バーの右端の通知領域にある青い OneDrive クラウド アイコンを右クリックし、[**設定**] をクリックし、[**この PC のリンク解除**] をクリックします。[OneDrive へようこそ] ウィザードの手順に従い、OneDrive をもう一度セットアップします。</span><span class="sxs-lookup"><span data-stu-id="e887e-p101">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar. Click **Settings**, and then click **Unlink this PC**. Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
     
-[<span data-ttu-id="224c3-108">同期問題のその他の解決手順</span><span class="sxs-lookup"><span data-stu-id="224c3-108">More steps for troubleshooting sync problems</span></span>](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[<span data-ttu-id="e887e-108">同期問題のその他の解決手順</span><span class="sxs-lookup"><span data-stu-id="e887e-108">More steps for troubleshooting sync problems</span></span>](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
   
 
