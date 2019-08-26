@@ -17,26 +17,26 @@ ms.custom:
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
 ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36537881"
 ---
 # <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
 
-受信拒否された送信者の電子メールアドレスまたはドメインからのメッセージは、直接迷惑メールフォルダーに移動します。 電子メールは、14日後に [迷惑メール] フォルダーから自動的に削除され、回復不可能になります。
+受信拒否リストのメールアドレスまたはドメインからのメッセージは、直接 [迷惑メール] フォルダーに移動します。 メールは、14 日後に迷惑メールフォルダーから自動的に削除され、回復できません。
 
-**受信トレイから:**
+**[受信トレイ] から:**
 
-- メッセージ一覧で、メッセージを選択し、[**迷惑メール** > **ブロック**] を選択します。
+- メッセージ リストでメッセージを選択してから、**[迷惑メール]** > **[受信拒否]** の順に選択します。
 
-**[設定元]:**
+**[設定] から:**
 
-1. [[迷惑メール](https://outlook.live.com/mail/options/mail/junkEmail)の設定] を開きます。
-2. [禁止された**送信者とドメイン**] で、[**追加**] を選択します。
-3. ブロックするドメインの電子メールアドレスを入力し、Enter キーを押します。
+1. [迷惑メール](https://outlook.live.com/mail/options/mail/junkEmail) 設定を開きます。
+2. **[受信拒否送信者とドメイン]** で **[追加]** を選択します。
+3. ブロックするドメインの電子メール アドレスを入力して、Enter キーを押します。
 4. **[保存]** を選択します。
 
-送信者のブロックを解除するには、ブロックを解除する電子メールアドレスまたはドメインの横にあるごみ箱アイコンを選択します。
+送信者のブロックを解除するには、ブロック解除するメール アドレスまたはドメインの横にあるごみ箱アイコンを選択します。
 
-詳細については、「[メールを迷惑メールとしてマークする」または「送信者をブロックする Outlook.com」](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)を参照してください。
+詳細については、[Outlook.com でメールを迷惑メールとしてマークする、または送信者をブロックする](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)を参照してください。

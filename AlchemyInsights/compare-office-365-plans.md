@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520420"
@@ -26,6 +26,6 @@ Office 365 プランは、[ビジネス](https://products.office.com/compare-all
   
 組織がすべてのプランと価格設定の比較に関心を寄せている場合は、「[すべての Office 365 のプランを比較する](https://products.office.com/business/compare-more-office-365-for-business-plans)」を確認してください。
   
-組織が既に Office 365 プランを購入しており、別のプランへの切り替えに関心がある場合は、Microsoft 365 管理センターから行うことができます。 [**請求書** \>の[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動し、[**プランの切り替え**] を選択して、使用可能な新しいプランのリストを表示します。
+組織が既に Office 365 プランを購入していて、別のプランへの切り替えに関心がある場合は、Microsoft 365 管理センターから切り替えを行うことができます。 [**課金**] \> [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動し、[**プランの切り替え**] を選択して利用可能な新しいプランの一覧を表示します。
   
-組織は、ユーザーのニーズと機能要件を満たすために、Office 365 プランを組み合わせることもできます。 管理センターで、[ **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ] ページに移動します。
+また、組織はユーザーのニーズと機能の要件に合うように、Office 365 を組み合わせることもできます。 管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。

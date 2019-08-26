@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840520"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620728"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint または OneDrive を使用しようとすると、メンテナンスのため読み取り専用というメッセージが表示される場合
 
-ユーザーが SharePoint または OneDrive を使用しようとすると、**メンテナンスのため読み取り専用**というメッセージが表示される場合があります。  これが表示された場合、[[メッセージ センター](https://portal.office.com/adminportal/home#/MessageCenter)] に移動して、テナントで進行中のメンテナンスがあるかどうかを確認してください。 また、[[サービス正常性](https://portal.office.com/adminportal/home#/servicehealth)] ダッシュボードを確認して、公開中のアドバイザリや発生中のインシデントがないかどうかを確認します。
+ユーザーが SharePoint または OneDrive を次のシナリオで使用しようとすると、**メンテナンスのため読み取り専用**というメッセージが表示される場合があります。 
 
-[メッセージセンター] と [サービス正常性] ダッシュボードのどちらにも進行中のテナントのメンテナンスに関する情報がない場合、ブラウザー キャッシュの問題である可能性があります。
+-   予定されていたまたは実行中のメンテナンス アクティビティ。  [メッセージ センター](https://portal.office.com/adminportal/home#/messagecenter)に移動して、これらについて確認してください。
+-   発生中の可能性がある、優先度の高いアクティブなサービス インシデント。 [サービス正常性](https://portal.office.com/adminportal/home#/servicehealth)に移動して、アドバイザリおよびインシデントを確認してください。
+-   サーバー上での予期しないイベントが原因で発生中の可能性がある、継続時間が 30 分程度以内の軽微な自動復旧回復シナリオ。 
+    
+    これらの軽微な回復についてはメッセージ センターまたはサービス正常性に投稿されませんが、短時間で通常状態に回復します。
+
+まれにですが、上記の 3 つのシナリオのいずれかが原因のケースで、サービスが回復したにも関わらずユーザーのブラウザーのキャッシュがクリアされないケースがあります。
 
 ブラウザーのキャッシュをクリアしてから、サイトに移動してみてください。
 

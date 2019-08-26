@@ -13,7 +13,7 @@ ms.custom:
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36540906"
@@ -24,7 +24,7 @@ Yammer の外部メッセージングでは Exchange トランスポート ル�
   
 Exchange Online 管理センターでルールを作成したら、次の手順に従って、Yammer で適用されるように ETR を設定します。
   
-- 確認済み管理者として Yammer にログオンし、 **yammer 管理センター**で [C の**コンテンツとセキュリティ\>の設定**] に移動します。
+- 認証管理者として Yammer にログインし、[**Yammer 管理センター**] から、**[コンテンツとセキュリティ] \> [セキュリティ設定**] の順に移動します。
 
 - **[外部メッセージング]** で、**[Exchange Online Exchange トランスポート ルール (ETR) を Yammer で適用する]** を選択します。
 

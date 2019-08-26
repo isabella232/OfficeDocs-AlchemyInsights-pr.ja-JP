@@ -12,7 +12,7 @@ ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.custom: ''
 ms.openlocfilehash: 6ded2ad450725d9d3592c7763b24b3a211fa973e
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36509582"
@@ -25,7 +25,7 @@ ms.locfileid: "36509582"
   
 - **[ユーザー]**、**[アクティブなユーザー]** の順に移動します。該当するユーザーを選択します。
 
-- [**編集**] を選択して製品ライセンスを変更します。
+- **[編集]** を選択して製品のライセンスを変更します。
 
 - Exchange Online のライセンスをユーザーに割り当ててから、[**保存**] を選択します。
 
