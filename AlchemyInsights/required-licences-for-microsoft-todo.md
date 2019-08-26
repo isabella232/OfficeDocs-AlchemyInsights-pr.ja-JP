@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
 ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36552176"
@@ -24,7 +24,7 @@ ms.locfileid: "36552176"
 
 [Microsoft ToDo に必要なライセンス](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Microsoft ToDo を使用するには、ユーザーは次のいずれかのライセンスを持っている必要があります。
+Microsoft ToDo を使用するには、次のいずれかのライセンスをユーザーが所持している必要があります。
   
 - Business Essentials
 

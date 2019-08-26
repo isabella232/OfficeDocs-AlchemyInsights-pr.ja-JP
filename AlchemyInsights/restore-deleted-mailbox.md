@@ -18,7 +18,7 @@ search.appverid:
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
 ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36551852"

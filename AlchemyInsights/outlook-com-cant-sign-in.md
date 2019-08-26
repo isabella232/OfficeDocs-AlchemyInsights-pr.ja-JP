@@ -1,5 +1,5 @@
 ---
-title: Outlook.com が Outlook.com にサインインできない
+title: Outlook.com Outlook.com にサインインできません
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
 ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36537373"

@@ -1,5 +1,5 @@
 ---
-title: Intune ポリシーとプロファイルを作成する
+title: Intune ポリシーおよびプロフィールを作成する
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -14,32 +14,32 @@ ms.custom:
 - "6700005"
 ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36514768"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune ポリシーとプロファイルを作成する
+# <a name="creating-intune-policy-and-profiles"></a>Intune ポリシーおよびプロフィールの作成
 
-Intune では、さまざまな事柄を実行するポリシーとプロファイルを作成できます。
+Intune では、異なる使用目的のためにポリシーおよびプロファイルを作成できます。
 
-- **登録プロファイル**: プラットフォームごとにデバイスを事前構成し、ユーザーアフィニティを有効にし、多要素認証を使用します。
+- **登録プロファイル**: プラットフォーム別のデバイスの事前構成、ユーザー アフィニティの有効化、多要素認証の使用など。
 
-  [デバイスの登録とは何ですか](https://docs.microsoft.com/intune/device-enrollment)。 [Android](https://docs.microsoft.com/intune/android-enroll)、 [IOS](https://docs.microsoft.com/intune/ios-enroll)、 [macOS](https://docs.microsoft.com/intune/macos-enroll)、および[Windows](https://docs.microsoft.com/intune/windows-enrollment-methods)の登録プロファイルを作成するのに適したリソースです。
+  「[デバイス登録とは](https://docs.microsoft.com/intune/device-enrollment)」ならびに [Android](https://docs.microsoft.com/intune/android-enroll)、[iOS](https://docs.microsoft.com/intune/ios-enroll)、[macOS](https://docs.microsoft.com/intune/macos-enroll)、および [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) での登録プロファイルに関する記事で、役立つリソースが提供されています。
 
-- **コンプライアンスポリシー**: 準拠するためにデバイスが従う必要があるルールと設定を定義します。 コンプライアンスポリシーを使用してデバイスを監視し、法令遵守ではないことをユーザーに通知することもできます。
+- **コンプライアン スポリシー**: 準拠するために必要なデバイスのルールと設定を定義します。 また、コンプライアンス ポリシーを使用してデバイスを監視し、コンプライアンス違反をユーザーに通知することもできます。
 
-  [デバイスコンプライアンスポリシー](https://docs.microsoft.com/intune/device-compliance-get-started)の概要を理解します。
-- **条件付きアクセスポリシー**: 入力した条件に応じて、組織のリソースをセキュリティで保護します。 たとえば、準拠していないデバイスでは、条件付きアクセスを使用して、電子メールと SharePoint へのアクセスを制限します。
+  [デバイス コンプライアンス ポリシー](https://docs.microsoft.com/intune/device-compliance-get-started)の概要に関する記事をご覧ください。
+- **条件付きアクセス ポリシー**: 入力した条件に応じて、組織のリソースを保護します。 たとえば、準拠していないデバイスでは、条件付きアクセスを使用してメールや SharePoint へのアクセスを制限できます。
 
-  条件付きアクセスと、[条件付きアクセスを使用する一般的な方法](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)[は](https://docs.microsoft.com/intune/conditional-access)、開始するのに適したリソースです。
+  使用を開始するのに役立つリソースが「[条件付きアクセスとは](https://docs.microsoft.com/intune/conditional-access)」および「[Intune での条件付きアクセスの一般的な使用方法](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use)」で提供されています。
 
-- **構成プロファイル**: 電子メール設定、WiFi ネットワークの追加、組み込みテンプレートの使用、IOS および macOS デバイス機能の制御など、デバイス上の機能と設定を管理します。
+- **構成プロファイル**: デバイスの機能と設定を管理します。これには、メールの設定、Wi-Fi ネットワークの追加、組み込みのテンプレートの使用、iOS や macOS デバイス機能の使用などが含まれます。
 
-  [デバイス構成プロファイル](https://docs.microsoft.com/intune/device-profiles)で作業を開始します。
+  使用を開始するには、[バイス構成プロファイル](https://docs.microsoft.com/intune/device-profiles)に関する記事をご覧ください。
 
-役に立つリンク:
+便利なリンク:
 
-- [Intune でのデバイスポリシーとプロファイルに関する一般的な質問、問題、および解決策](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Microsoft Intune でのデバイス ポリシーとプロファイルの一般的な質問、問題と解決策](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
 - [Intune でのポリシーとプロファイルのトラブルシューティング](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

@@ -14,7 +14,7 @@ ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: 1 つの記事は 500 語以下でまとめることを目標にします。
 ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36508860"

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com でスペルチェックを行う
+title: Outlook.com でスペル チェックを行う
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
 ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36547028"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>ブラウザーを使用してスペルをチェックする
+# <a name="use-your-browser-to-check-spelling"></a>ブラウザーを使用してスペル チェックを行う
 
-Outlook.com にはスペルチェック機能がありませんが、多くの web ブラウザーでは、Microsoft Edge、Internet Explorer 10 以降のバージョン、Firefox、Chrome、Safari の最新バージョンなどのスペルを自動的に確認します。 スペルチェックの方法の詳細については、web ブラウザーのオプションを確認してください。
+Outlook.com にはスペル チェック機能がありませんが、Microsoft Edge、Internet Explorer 10 以降のバージョン、現在のバージョンの Firefox、Chrome、Safari を含む多くの Web ブラウザーでは自動的にスペル チェックを行います。 スペル チェックを行う方法については、Web ブラウザーのオプションを確認してください。

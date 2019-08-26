@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
 ms.openlocfilehash: b001cf17c2dc77d6012768ff4ee5dd23dc525215
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36547424"
@@ -24,8 +24,8 @@ ms.locfileid: "36547424"
 
 Outlook.com のパスワードは、Microsoft アカウントのパスワードと同じものです。
   
-パスワードを変更するには、 [Microsoft アカウントのセキュリティ](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409)に移動し、[**パスワードのセキュリティ**] を選択します。
+パスワードを変更するには、「[Microsoft アカウントのセキュリティ](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409)」に移動して、[**パスワード セキュリティ**] を選択します。
   
-パスワードを忘れた場合は、[[アカウントの回復](https://go.microsoft.com/fwlink/p/?linkid=841909)] ページに移動します。
+パスワードを忘れた場合は、「[アカウントの回復](https://go.microsoft.com/fwlink/p/?linkid=841909)」ページに移動します。
   
 詳細については、「[Outlook.com のパスワードを変更する](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
