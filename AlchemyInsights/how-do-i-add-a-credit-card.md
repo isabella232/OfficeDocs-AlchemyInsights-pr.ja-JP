@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523048"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575662"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>クレジット カードを追加する方法
 
@@ -30,4 +30,4 @@ ms.locfileid: "36523048"
 
 4. 新しいクレジット カードまたは銀行口座に関する情報を入力して、[**保存**] を選択します。
 
-詳細情報については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
+古い管理センターを使用していますか。 以前の手順および詳細については「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。

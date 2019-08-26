@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522796"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575347"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>クレジット カードの情報を更新する方法
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522796"
 
 4. 必要に応じて、クレジット カードの情報 (クレジット カードの名前、請求先住所、電話番号、有効期限) を更新し、[**保存**] > [**完了**] の順に選択します。
 
-詳細情報については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
+古い管理センターを使用していますか。 以前の手順および詳細については「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。

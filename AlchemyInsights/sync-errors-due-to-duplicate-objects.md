@@ -12,14 +12,14 @@ ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
 ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36507420"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>重複するオブジェクトに起因する同期エラー
 
-Office 365 でディレクトリ同期が完了すると、次のいずれかのエラーメッセージが表示されることがあります。
+Office 365 でディレクトリ同期が終了したときに、次のいずれかのエラー メッセージが表示される場合があります。
 
 - Unable to update this object in Microsoft Online Services because the following attributes associated with this object have values that may already be associated with another object in your local directory. (このオブジェクトに関連付けられた次の属性値はローカル ディレクトリで既に他のオブジェクトに関連付けられているため、Microsoft Online Services でこのオブジェクトを更新できません。)
 

@@ -13,16 +13,16 @@ ms.custom:
 - "2505"
 ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36504828"
 ---
 # <a name="search-and-hybrid"></a>検索とハイブリッド
 
-- SharePoint Online でハイブリッド検索とフェデレーション検索に関する情報が必要ですか。 その場合は、[この記事](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)を参照してください。
+- SharePoint Online のハイブリッド フェデレーション検索に関する情報が必要ですか。 その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)を参照してください。
 
-- ハイブリッドフェデレーション検索の計画に関する情報が必要ですか。  その場合は、[この記事](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)を参照してください。
+- ハイブリッド フェデレーション検索の計画に関する情報が必要ですか。  その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)を参照してください。
 
 
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1381"
 ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36495900"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Project Online でユーザーにアクセス許可を付与する
+# <a name="give-users-permissions-in-project-online"></a>Project Online でユーザーにアクセスを許可する
 
 SharePoint アクセス許可モードを使用して、ユーザーに Project Web App サイトへのアクセスを許可します。
 

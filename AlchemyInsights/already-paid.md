@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
 ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
 ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36386184"
@@ -24,7 +24,7 @@ ms.locfileid: "36386184"
 
 お支払い済みの場合は、次の方法でお知らせください。
   
-1. 管理センターの **[課金]** \> [[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、[**課金情報**] \> [[サブスクリプション](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
 2. サブスクリプションを選択し、[**課金内容**] セクションで [**課金内容の表示**] を選択します。
 
