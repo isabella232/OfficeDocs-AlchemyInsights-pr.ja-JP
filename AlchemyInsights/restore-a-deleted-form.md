@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 36424775a652f5b83a27f8fe0ffd5159736bb6b7
-ms.sourcegitcommit: 718ea0b37f3d1c43dbdf01c31440b4af9d8e9a27
+ms.openlocfilehash: c378a490ccb6ffc79422183e0d35682d354d3cb5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35830942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509708"
 ---
-# <a name="restore-a-deleted-form"></a><span data-ttu-id="1f4f0-102">削除されたフォームを復元する</span><span class="sxs-lookup"><span data-stu-id="1f4f0-102">Restore a deleted item</span></span>
+# <a name="restore-a-deleted-form"></a><span data-ttu-id="d0359-102">削除されたフォームを復元する</span><span class="sxs-lookup"><span data-stu-id="d0359-102">Restore a deleted item</span></span>
 
-<span data-ttu-id="1f4f0-103">[フォームを削除するまたは削除されたフォームを元に戻す](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="1f4f0-103">Learn how to [delete a form or recover a deleted form](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0).</span></span>
+<span data-ttu-id="d0359-103">Microsoft Forms のフォームを誤って削除してしまった場合は、フォームを復元することができます。</span><span class="sxs-lookup"><span data-stu-id="d0359-103">If you deleted a form in Microsoft Forms by accident, you can recover it.</span></span> <span data-ttu-id="d0359-104">詳細については、「[フォームを削除する](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d0359-104">For details, see [Delete a form](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0).</span></span>
