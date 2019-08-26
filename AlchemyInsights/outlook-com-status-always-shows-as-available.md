@@ -1,5 +1,5 @@
 ---
-title: Outlook.com の状態は常に利用可能として表示される
+title: Outlook.com 状態が常に "連絡可能" と表示される
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
 ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36511960"
 ---
-# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="ff4c7-102">自分の状態は常に利用可能として表示される</span><span class="sxs-lookup"><span data-stu-id="ff4c7-102">My status always shows as Available</span></span>
+# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="8a401-102">状態が常に "連絡可能" と表示される</span><span class="sxs-lookup"><span data-stu-id="8a401-102">My Outlook.com status always shows as Available</span></span>
 
-<span data-ttu-id="ff4c7-103">Outlook.com にサインインするたびに、アカウントの状態が [利用可能] にリセットされます。</span><span class="sxs-lookup"><span data-stu-id="ff4c7-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="ff4c7-104">Outlook.com からサインアウトしないことで、状態が変更されないようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="ff4c7-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="ff4c7-105">ブラウザーを閉じたときにサインイン状態を維持するには、Outlook.com サインインページの [サインインした**まま**にする] ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="ff4c7-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>
+<span data-ttu-id="8a401-103">Outlook.com にサインインするたびに、アカウントの状態は "連絡可能" にリセットされます。</span><span class="sxs-lookup"><span data-stu-id="8a401-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="8a401-104">Outlook.com からサインアウトしないことで、状態が変更されないようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="8a401-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="8a401-105">ブラウザーを閉じるときにサインインの状態を維持するには、Outlook.com サインイン ページで **[サインインしたままにする]** ボックスを選択します。</span><span class="sxs-lookup"><span data-stu-id="8a401-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>
