@@ -15,7 +15,7 @@ ms.custom:
 - "1003"
 ms.openlocfilehash: d06d8a5b44c18046ac1cb6c6f470537f3a48a642
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36535792"
@@ -23,7 +23,7 @@ ms.locfileid: "36535792"
 # <a name="print-an-attachment-in-outlookcom"></a>Outlook.com で添付ファイルを印刷する
 
 1. 印刷する添付ファイルが含まれるメッセージを開きます。
-2. 添付ファイルの上にカーソルを移動して、[**その他のアクション**] アイコンを選択します。 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> > **ダウンロード**します。
+2. 添付ファイル上にカーソルを移動して、[**その他の操作**] アイコン、 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> [> **ダウンロード**] の順に選択します。
 3. ファイルがダウンロードされた後、適切なプログラムを使ってファイルを開き、印刷オプションを選択します。たとえば、Word で .doc ファイルを開いて印刷します。
 
-詳細については、「 [Print email messages, attachments, and calendar in Outlook.com」](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)を参照してください。
+詳細については、「[Outlook.com でメール メッセージ、添付ファイル、予定表を印刷する](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。

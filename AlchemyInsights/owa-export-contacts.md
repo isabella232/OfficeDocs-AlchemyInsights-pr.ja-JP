@@ -1,5 +1,5 @@
 ---
-title: '8000020: 連絡先をエクスポートする方法'
+title: '8000020: 連絡先をエクスポートするには'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,18 +15,18 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 5a85092f4ec2463e86d0a100cfb30a3f9defa4b2
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36510376"
 ---
 # <a name="export-contacts"></a>連絡先をエクスポートする
 
-1. Web 上の Outlook のページの下部で、[ <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
- **人**。
-2. ツールバーで、[ **** > **連絡先のエクスポート**の管理] を選択します。 
-3. 特定のフォルダーからすべての連絡先または連絡先のみをエクスポートすることを選択し、[**エクスポート**] を選択します。
-4. ページの下部にある [**保存**] を選択して、既定のダウンロードフォルダーに "contacts" を保存します。 または、[**保存**] の横にある矢印を選択し、[名前を付け**て保存**] を選択します。
+1. Outlook on the web のページの下部で、 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ [**ユーザー**] を選択します。
+2. ツールバーで、[**管理**]  >  [**連絡先のエクスポート**] を選択します。 
+3. すべての連絡先をエクスポートするか、それとも特定のフォルダーの連絡先のみをエクスポートするかを選び、[**エクスポート**] を選択します。
+4. ページの下部にある、[**保存**] を選択すると、"contacts.csv" が既定のダウンロード フォルダーに保存されます。 または、[**保存**] の横にある矢印を選択し、**[名前を付けて保存]** を選択します。
 
-詳細については、「 [Outlook から連絡先をエクスポート](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web)する」を参照してください。
+詳細については「[Outlook から連絡先をエクスポートする](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web)」を参照してください。
 

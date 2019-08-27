@@ -16,7 +16,7 @@ ms.custom:
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
 ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36540618"
@@ -27,4 +27,4 @@ Office 365 サブスクリプションの料金請求の説明は次のように
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-MSFT \*の10文字の英数字文字列は、請求金額が関連する請求書番号です。 請求書を検索するには、 **** \>請求書[& の支払い](https://go.microsoft.com/fwlink/p/?linkid=848039)ページに移動して、最近の請求書を表示します。 請求書番号は、請求書文書の右端付近にあります。
+MSFT \* の後に続く 10 文字の英数字文字列は、この請求の請求書番号です。請求書を検索するには、[**課金**] \> [[課金と支払い](https://go.microsoft.com/fwlink/p/?linkid=848039)] ページに移動して最近の請求書を表示します。請求書番号は請求書の右隅にあります。
