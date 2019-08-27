@@ -1,5 +1,5 @@
 ---
-title: ワークフローが開始されていません
+title: ワークフローが開始されない
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -14,37 +14,37 @@ ms.custom:
 - "1670"
 ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36557981"
 ---
-# <a name="workflow-is-not-starting"></a>ワークフローが開始されていません
+# <a name="workflow-is-not-starting"></a>ワークフローが開始されない
 
-- SharePoint 2010 と SharePoint 2013 ワークフローが開始していません。
+- SharePoint 2010 および SharePoint 2013 のワークフローが開始されない。
 
-    - ワークフローが開始されていない場合、ワークフローの進行状況で断続的に遅延が発生する可能性がある一時的なサービスの問題が発生する可能性があります。 [サービス正常性ダッシュボード](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)をチェックして、組織が影響を受けているかどうかを確認します。
+    - ワークフローが開始されない場合は、サービスに一時的な問題が発生している可能性があります。この問題が発生すると、ワークフローの進行で断続的な遅延が発生します。 [サービスの正常性ダッシュボード](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。
 
-    - この問題が最初に発生してから24時間以上経過している場合は、サポートチケットをログに記録してください。 多くの場合、すでに解決策に取り組んでいます。 解決策を完成させるために少なくとも 24 時間を与えてください。
+    - この問題が発生してから 24 時間以上経過した場合は、サポート チケットを記録してください。 多くの場合、すでに解決策に取り組んでいます。 解決策を完成させるために少なくとも 24 時間を与えてください。
 
-- SharePoint 2010 のワークフローが開始時に遅延します。
+- SharePoint 2010 のワークフローの開始時に遅延がありました。
 
     - これは、ワークフローが大きなバッチでトリガーされた場合に発生します。 (たとえば、一度に複数のアイテムが追加された場合)。
 
-    - ワークフローはリアルタイムで実行するように設計されていないため、遅延はデザインの動作になります。
+    - ワークフローはリアルタイムで実行するように設計されていないため、遅延は想定通りの動作です。
 
-   -  ワークフローが複雑な拡張可能なオブジェクトマークアップ言語 (XMOL) の場合、コンパイルが遅くなることがあります。 [この](https://support.microsoft.com/en-us/kb/3043697)記事を確認してください。
+   -  ワークフローが複雑な拡張可能オブジェクト マークアップ 言語 (XMOL) である場合、コンパイルに時間がかかる可能性があります。 [こちら](https://support.microsoft.com/en-us/kb/3043697)の記事を参照してください。
 
-    - ワークフローを簡素化するか、Microsoft SharePoint 2013 ワークフロープラットフォームの種類を使用して再設計する必要があります。
+    - ワークフローを簡素化するか、Microsoft SharePoint 2013 ワークフローのプラットフォームの種類を使って再設計してください。
 
-    - ワークフロー履歴が大きくなっている場合は、アイテムを削除するか、新しい履歴リストを作成することができます。
+    - ワークフローの履歴が大きくなった場合は、アイテムを削除するか、新しい履歴リストを作成できます。
 
-        詳細情報:[ワークフロー履歴の削除](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        詳細情報: [Purge Workflow History (ワークフロー履歴の消去)](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>関連項目
-SharePoint Online で Microsoft Flow を試す場合
+SharePoint Online で Microsoft Flow を試す方法。
 - [フローを作成する](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint およびフロー](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint and Flow (SharePoint と Flow)](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

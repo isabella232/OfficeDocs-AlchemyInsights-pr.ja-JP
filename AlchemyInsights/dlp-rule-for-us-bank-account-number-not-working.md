@@ -14,12 +14,12 @@ ms.custom:
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 0a32708b5ac8d95ec6777ada2d151a15f90d65bf
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36529877"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>US Bank の口座番号に関する DLP の問題
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>米国の銀行口座番号に関する DLP の問題
 
 Office 365 で DLP 機密情報の種類を使用しているときに、**米国の銀行口座番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生した場合は、DLP ポリシーに必要な情報がコンテンツに含まれていることを確認してください。
   

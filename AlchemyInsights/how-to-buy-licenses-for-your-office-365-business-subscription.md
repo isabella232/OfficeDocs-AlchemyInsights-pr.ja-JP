@@ -14,7 +14,7 @@ ms.custom:
 - "2000017"
 ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36542058"
@@ -25,9 +25,9 @@ Office 365 ライセンスをユーザーに割り当てるときに、追加の
   
 1.  管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
-2. ライセンスを追加するサブスクリプションを検索し、[**ライセンスの追加/削除**] を選択します。
+2. ライセンスを追加するサブスクリプションを見つけて、[**ライセンスの追加/削除**] を選択します。
 
-3. [**ライセンスの総数**] ボックスに、このサブスクリプションに必要なライセンスの合計数を入力し、[**変更の送信**] を選択します。 For example, if you have 100 licenses and you need to add 5 more, enter 105.
+3. [**ライセンスの総数**] ボックスにこのサブスクリプション用に必要なライセンスの総数を入力し、[**変更の送信**] を選択します。 たとえば、100 のライセンスがあり、さらに 5 つ追加する必要がある場合は、105 と入力します。
 
-詳細については、「一般[法人向け Office 365 のサブスクリプションのライセンスを購入](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)する」を参照してください。
+詳細については、「[一般法人向け Office 365 サブスクリプションのライセンスを購入する](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)」を参照してください。
   
