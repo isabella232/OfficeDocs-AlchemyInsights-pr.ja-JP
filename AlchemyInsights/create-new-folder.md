@@ -14,12 +14,12 @@ ms.custom:
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
 ms.openlocfilehash: be739d13decab3fcb1ee40f1c3e78eaf298801d1
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36515272"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a>Outlook.com に新しいフォルダーを作成します。
+# <a name="create-a-new-folder-in-outlookcom"></a>Outlook.com で新しいフォルダーを作成する
 
 1. ナビゲーション ウィンドウの **[フォルダー]** で、**[新しいフォルダー]** を選択します。
 

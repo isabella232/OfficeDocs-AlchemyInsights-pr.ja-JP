@@ -15,24 +15,24 @@ ms.custom:
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
 ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36524884"
 ---
 # <a name="troubleshoot-search-issues"></a>検索に関する問題のトラブルシューティング
 
-Outlook の検索に問題がある場合は、ヘルプのトラブルシューティングに関するリンクを参照してください。
+Outlook で検索に問題が発生した場合は、下記のリンクからトラブルシューティングのヘルプを参照してください。
 
-これらは最も一般的な問題であり、次のことを始めるのに適した場所です。
+これらは、最も一般的な問題であり、次のような場合に役立ちます。
 
-- [Outlook の検索結果が返されない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook の検索で不完全な結果が返される](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlook の検索で古いメールが見つからない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook 検索で結果が返されない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook 検索で不完全な結果が返される](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook 検索で古いメールが見つからない](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-あまり一般的でない問題を解決するには、次の方法があります。
+あまり一般的でない問題の解決策は、次のとおりです。
 
-- [Outlook 2016 のみ: [検索] タブは淡色表示されます。](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [共有メールボックス: 検索結果に関する問題](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [エラー: Outlook の構成方法に問題があるため、検索のパフォーマンスに影響があります](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [検索フォルダーに、件名のない予期しない個人メタデータ項目が表示される](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 のみ: [検索] タブが淡色表示される](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [共有メールボックス: 検索結果に問題がある](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [エラー: Outlook の構成方法に問題があるため、検索のパフォーマンスが影響を受けます](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [検索フォルダーに件名のない予期しない PersonMetadata 項目が表示される](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

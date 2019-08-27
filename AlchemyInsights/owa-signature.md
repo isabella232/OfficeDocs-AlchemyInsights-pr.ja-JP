@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 260589d26a2c3b543172bce8a319483f2d69bf08
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36555698"
 ---
-# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Outlook on the web で電子メール署名を作成する
+# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Outlook on the web でメール署名を作成する
 
 1. 移動先 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **[設定** > **Outlook のすべての設定** > **の作成と返信を**表示します。
-1. [**電子メール署名**] で、署名を入力し、使用可能な書式設定オプションを使用して外観を変更します。
+ [**設定**] > [**Outlook のすべての設定を表示**] > [**作成と返信**] の順に移動します。
+1. [**メールの署名**] 欄にお客様の署名を入力し、使用可能な書式設定オプションを使って署名の外観を変更します。
 
 *注:* 署名はアカウントごとに 1 つだけ含めることができます。
 
-詳細については、「 [Outlook on the web で電子メール署名を作成および追加](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3)する」を参照してください。
+詳しくは、「[Outlook on the web でメール署名を作成、追加する](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3)」をご覧ください。

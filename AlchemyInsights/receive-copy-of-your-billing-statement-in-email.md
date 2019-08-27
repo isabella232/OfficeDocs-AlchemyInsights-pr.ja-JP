@@ -15,12 +15,12 @@ ms.custom:
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36510088"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Office 365 billing ステートメントのコピーを電子メールで受け取る
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Office 365 請求明細書のコピーをメールで受け取る
 
 請求明細書のコピーをメールの添付ファイルとして受け取ることを選択できます。そうする場合は、次の点に注意してください。
   
@@ -32,4 +32,4 @@ ms.locfileid: "36510088"
   
 1. 管理センターで、**[課金]** \> [[課金に関する通知]](https://go.microsoft.com/fwlink/p/?linkid=853212) ページに移動します。
 
-2. [**請求明細書を電子メールの添付ファイルとして受け取る]** で、[**オン**] に切り替えます。 これを [ **オフ**] に切り替えることで、請求明細書のメールでの受け取りをいつでも停止できます。
+2. [**メールの添付ファイルとして請求明細書を受け取りますか?**] を [**オン**] に切り替えます。 これを [**オフ**] に切り替えることで、請求明細書のメールでの受け取りをいつでも停止できます。

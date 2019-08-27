@@ -15,16 +15,16 @@ ms.custom:
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
 ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36519232"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 
-Microsoft 365 管理センターで構成されている支払い方法を確認できます。 確認するサブスクリプションを選択します。 サブスクリプションに対して構成されている支払い方法は、**請求書**の下に表示されます。 
+Microsoft 365 管理センターで設定されている支払い方法を確認することができます。 確認するサブスクリプションを選択します。 サブスクリプションに設定されている支払い方法が、[**課金**] に表示されます。 
   
-1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 
 2. 支払い方法を変更するサブスクリプションの支払い方法の横にある [**編集**] を選択します。
 

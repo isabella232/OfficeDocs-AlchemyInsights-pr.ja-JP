@@ -13,14 +13,14 @@ ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36533380"
 ---
 # <a name="unable-to-send-group-emails"></a>グループ メールを送信できない
 
-Outlook.com の連絡先リストまたは連絡先グループに電子メールを送信できない場合は、次の操作を行ってください。
+Outlook.com で連絡先リストまたは連絡先グループにメールを送信できない場合は、以下を試してください。
   
 1. Outlook.com ベータ版を使用します。詳細については、「[新しい Outlook.com について](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)」をご覧ください。
     

@@ -14,16 +14,16 @@ ms.custom:
 - "9000338"
 ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36546776"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Outlook.com を使用して Facebook コードを受け取らない
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Outlook.com を使用して Facebook コードを受信できない
 
-Facebook から新しいパスワードを要求したが、パスワードを再設定したメールを受信しなかった場合:
+Facebook に新しいパスワードを要求したときに、パスワード リセットの電子メールが届かない場合:
 
-- [スパムまたは迷惑メールフォルダー](https://outlook.live.com/mail/junkemail)を確認します。
-- Facebook の [パスワードをもう一度リセット](https://www.facebook.com/help/213395615347144?helpref=faq_content)してください。
+- [迷惑メールのフォルダー](https://outlook.live.com/mail/junkemail) を確認します。
+-  [Facebook パスワードをもう一度リセット](https://www.facebook.com/help/213395615347144?helpref=faq_content)してみます。
 
-アカウントのメールまたは携帯電話番号にアクセスできないためにパスワードをリセットできない場合は、 [Facebook のパスワードのリセットのヒント](https://www.facebook.com/help/218815984812734)をお試しください。
+自分のアカウントの電子メールや携帯電話番号にアクセスできないためにパスワードがリセットできない場合は、[Facebook のパスワードのリセットに関するアドバイス](https://www.facebook.com/help/218815984812734)を試してみてください。

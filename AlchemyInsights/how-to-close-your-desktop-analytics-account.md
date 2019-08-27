@@ -1,5 +1,5 @@
 ---
-title: デスクトップ Analytics アカウントを閉じる方法
+title: Desktop Analytics アカウントの使用を停止する方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "2499"
 ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36541723"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>デスクトップ Analytics アカウントを閉じる方法
+# <a name="how-to-close-your-desktop-analytics-account"></a>Desktop Analytics アカウントの使用を停止する方法
 
-ご使用の環境でデスクトップ分析をセットアップし、削除する必要がある場合は、次のリンクの手順を実行します。
+ご使用の環境で Desktop Analytics をセットアップし、それを削除する必要があると判断した場合は、次のリンクのプロセスを使用します。
 
-[アカウントを削除する方法](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[アカウントの使用を停止する方法](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
 
-最初の手順は、Microsoft サポートに連絡することです。 サポートケースを開いて、デスクトップ Analytics アカウントを閉じます。 Microsoft がアカウントをクローズしたという確認が表示されるまで、追加の手順は続行しないでください。
+最初の手順は、Microsoft サポートに問い合わせることです。 サポート ケースを開いて、Desktop Analytics アカウントの使用を停止します。 Microsoft がアカウントの使用を停止したという確認を受け取るまで、他の手順を続行しないでください。
