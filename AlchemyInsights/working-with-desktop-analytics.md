@@ -1,5 +1,5 @@
 ---
-title: デスクトップ Analytics アカウントを閉じる方法
+title: Desktop Analytics アカウントを閉じる方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "2498"
 ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
 ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/19/2019
 ms.locfileid: "35810584"
 ---
 # <a name="working-with-desktop-analytics"></a>デスクトップ分析を使用する
 
-デスクトップ分析について質問しているようです。 質問を書き直した方が、より正確な答えを実現できる場合があります。
+Desktop Analytics についてのご質問でしょうか。 質問を言い換えることで、より正確な回答を得ることができる場合があります。
 
-- [デスクトップ分析とは](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [デスクトップ分析のセットアップ方法](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
+- [Desktop Analytics とは何ですか。](https://docs.microsoft.com/sccm/desktop-analytics/overview)
+- [Desktop Analytics をセットアップする方法](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
 - [よく寄せられる質問](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [デスクトップ分析のトラブルシューティング](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Desktop Analytics のトラブルシューティング](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
