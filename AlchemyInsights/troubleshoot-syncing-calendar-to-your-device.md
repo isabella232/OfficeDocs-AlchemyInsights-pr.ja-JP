@@ -15,12 +15,12 @@ ms.custom:
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: ac534f2308ed031e59fac7d8888f758481f77fad
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36533776"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="b3c17-102">予定表とデバイスの同期の問題をトラブルシューティングする</span><span class="sxs-lookup"><span data-stu-id="b3c17-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="c680a-102">予定表とデバイスの同期の問題をトラブルシューティングする</span><span class="sxs-lookup"><span data-stu-id="c680a-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="b3c17-103">初めてモバイル電子メールを設定しているときに同期の問題が発生した場合は、「[予定表と連絡先を携帯電話またはタブレットで同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b3c17-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="c680a-103">初回のモバイル メールの設定時に同期の問題が発生する場合は、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c680a-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
