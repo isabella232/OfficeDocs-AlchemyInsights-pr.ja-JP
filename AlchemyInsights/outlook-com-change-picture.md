@@ -14,7 +14,7 @@ ms.custom:
 - "793"
 ms.openlocfilehash: 940797041b4a6349852c92526fa29735a3220457
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36547496"
@@ -27,4 +27,4 @@ ms.locfileid: "36547496"
 4. 使用する画像を選んで **[開く]** を選択します。
 5. 画像ボックスをドラッグまたはサイズ変更して **[保存]** を選択します。
 
-プロフィール写真への変更が有効になるまで、最大24時間許可してください。
+プロフィールの写真の変更が反映されるまでに、最大 24 時間かかります。

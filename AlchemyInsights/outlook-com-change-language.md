@@ -1,5 +1,5 @@
 ---
-title: Outlook.com で言語、日付と時刻の形式、またはタイムゾーンを変更する
+title: Outlook.com で言語、日付と時刻の形式、またはタイム ゾーンを変更する
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,12 +15,12 @@ ms.custom:
 - "9000249"
 ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36537345"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Outlook.com で言語、日付と時刻の形式、またはタイムゾーンを変更する
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Outlook.com で言語、日付と時刻の形式、またはタイム ゾーンを変更する
 
 1. [[言語と時刻の設定]](https://go.microsoft.com/fwlink/?linkid=2085505)を開けます。
 1. 使用する言語、日付形式、時刻形式、タイムゾーンを選びます。
