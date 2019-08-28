@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
 ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36544904"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft Bookings アプリ
 
-Microsoft の予約は予約、スタッフ、お客様を追跡するのに役立つ予定の予約アプリです。 予約アプリの情報またはトラブルシューティングについては、「[予約記事](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)」を参照してください。
+Microsoft Bookings は予約、スタッフ、顧客を追跡するのに役立つ予定スケジューリング アプリです。 Bookings アプリに関する情報やトラブルシューティングについては、「[Bookings に関する記事](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)」を参照してください。

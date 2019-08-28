@@ -1,5 +1,5 @@
 ---
-title: '[方法] アプリを表示および管理する'
+title: アプリを表示および管理する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,15 +14,15 @@ ms.custom:
 - "2420"
 ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36539502"
 ---
-# <a name="how-to-view-and-manage-apps"></a>[方法] アプリを表示および管理する
+# <a name="how-to-view-and-manage-apps"></a>アプリを表示および管理する方法
 
-アプリは、Microsoft 365 管理センターで表示できます。 
+Microsoft 365 管理センターでアプリを表示できます。 
 
-1. 管理センターで、[ **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。
+1. 管理センターで、[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
-2. [ **Products & Services** ] ページで、[**アプリ**] タブを選択します。
+2. [**製品とサービス**] ページで、[**アプリ**] タブを選択します。
