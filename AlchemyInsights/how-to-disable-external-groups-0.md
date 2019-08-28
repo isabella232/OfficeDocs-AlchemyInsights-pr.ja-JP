@@ -13,14 +13,15 @@ ms.custom:
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
 ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36541229"
 ---
 # <a name="how-to-disable-external-groups"></a>外部グループを無効にする方法
 
-外部ユーザーは、次の4つの方法で Yammer のネットワークにアクセスできます。
+外部ユーザーが Yammer 内のネットワークにアクセスする方法は 4 つあります。
+
   
 1. **ゲスト ユーザー**: Yammer 管理者は、外部ドメインの連絡先をホーム ネットワーク上のユーザーとして招待できます。これらのユーザーは、All Company フィードを参照でき、ネットワーク上の他のグループにも参加できます。
 
