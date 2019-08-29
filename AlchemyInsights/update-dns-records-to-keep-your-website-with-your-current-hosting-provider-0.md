@@ -3,7 +3,6 @@ title: DNS レコードを更新して現在のホスティング プロバイ�
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,37 +13,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506412"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665765"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="c4454-102">DNS レコードを更新して現在のホスティング プロバイダーに Web サイトを維持する</span><span class="sxs-lookup"><span data-stu-id="c4454-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="53741-102">DNS レコードを更新して現在のホスティング プロバイダーに Web サイトを維持する</span><span class="sxs-lookup"><span data-stu-id="53741-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="c4454-103">[ドメイン](https://portal.office.com/adminportal/home#/Domains) ページでは、ドメイン リスト内で Web サイトに使用するドメインを選択します。</span><span class="sxs-lookup"><span data-stu-id="c4454-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select DNS settings in the management pane.</span></span>
+1. <span data-ttu-id="53741-103">Microsoft 365 管理センターで **[セットアップ]**] > [[ドメイン]](https://portal.office.com/adminportal/home#/Domains) ページの順に移動し、ドメインのリストで、Web サイトに使用するドメインを選択します。</span><span class="sxs-lookup"><span data-stu-id="53741-103">In the Microsoft 365 admin center, go to the **Setup** > [Domains](https://portal.office.com/adminportal/home#/Domains) page, and in the list of domains, select the domain you're using for your website.</span></span>
 
-2. <span data-ttu-id="c4454-104">[ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-104">Select **+ New custom record** and enter the following:</span></span>
+2. <span data-ttu-id="53741-104">[ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-104">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="c4454-105">[ **DNS の種類** ] には、「 **A (アドレス)** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="53741-105">[ **DNS の種類** ] には、「 **A (アドレス)** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-105">For **DNS type** enter: **A (Address)**</span></span>
 
-  - <span data-ttu-id="c4454-106">[ **ホスト名またはエイリアス** ] には、「 **@** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="53741-106">[ **ホスト名またはエイリアス** ] には、「 **@** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-106">For **Host name or Alias**, type the following: **@**</span></span>
 
-  - <span data-ttu-id="c4454-107">[ **IP アドレス** ] には、Web サイトが現在ホストされている場所の静的 IP アドレス (たとえば、172.16.140.1) を入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
+  - <span data-ttu-id="53741-107">[ **IP アドレス** ] には、Web サイトが現在ホストされている場所の静的 IP アドレス (たとえば、172.16.140.1) を入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
 
-    <span data-ttu-id="c4454-p101">これは、Web サイトの *動的*  IP アドレスではなく、  *静的*  IP アドレスでなければなりません。 Web サイトがホストされているサイトで、一般向け Web サイトの静的 IP アドレスを取得できることを確認します。</span><span class="sxs-lookup"><span data-stu-id="c4454-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
+    <span data-ttu-id="53741-p101">これは、Web サイトの *動的*  IP アドレスではなく、  *静的*  IP アドレスでなければなりません。 Web サイトがホストされているサイトで、一般向け Web サイトの静的 IP アドレスを取得できることを確認します。</span><span class="sxs-lookup"><span data-stu-id="53741-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
 
-3. <span data-ttu-id="c4454-110">[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c4454-110">Select **Save**.</span></span>
+3. <span data-ttu-id="53741-110">[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="53741-110">Select **Save**.</span></span>
 
-<span data-ttu-id="c4454-111">さらに、CNAME レコードを作成して、Web サイトを顧客が簡単に見つけることができるようにすることもできます。</span><span class="sxs-lookup"><span data-stu-id="c4454-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="53741-111">さらに、CNAME レコードを作成して、Web サイトを顧客が簡単に見つけることができるようにすることもできます。</span><span class="sxs-lookup"><span data-stu-id="53741-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="c4454-112">[ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-112">Select **+ New custom record** and enter the following:</span></span>
+1. <span data-ttu-id="53741-112">[ **+ 新しいカスタム レコード** ] を選択し、次の項目を入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-112">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="c4454-113">[ **DNS の種類** ] には、「 **CNAME (エイリアス)** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="53741-113">[ **DNS の種類** ] には、「 **CNAME (エイリアス)** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
 
-  - <span data-ttu-id="c4454-114">[ **ホスト名またはエイリアス** ] には、「 **www** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="c4454-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="53741-114">[ **ホスト名またはエイリアス** ] には、「 **www** 」と入力します。</span><span class="sxs-lookup"><span data-stu-id="53741-114">For **Host name or Alias**, type the following: **www**</span></span>
 
-  - <span data-ttu-id="c4454-115">[ **ポイント先のアドレス** ] には、Web サイトの完全修飾ドメイン名 (FQDN) を入力します (例: contoso.com)。</span><span class="sxs-lookup"><span data-stu-id="c4454-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
+  - <span data-ttu-id="53741-115">[ **ポイント先のアドレス** ] には、Web サイトの完全修飾ドメイン名 (FQDN) を入力します (例: contoso.com)。</span><span class="sxs-lookup"><span data-stu-id="53741-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
 
-2. <span data-ttu-id="c4454-116">[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c4454-116">Select **Save**.</span></span>
+2. <span data-ttu-id="53741-116">[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="53741-116">Select **Save**.</span></span>
