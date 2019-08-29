@@ -13,12 +13,12 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576025"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661445"
 ---
 # <a name="manage-recurring-billing"></a>継続請求を管理する
 
@@ -32,4 +32,4 @@ ms.locfileid: "36576025"
 
 4. [**変更の送信**] を選択します。
 
-古い管理センターを使用していますか? 以前の手順や詳細については、「[定期的な請求をオフまたはオンに](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)する」を参照してください。
+詳細については、「[定期的な請求をオフまたはオンに](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)する」を参照してください。

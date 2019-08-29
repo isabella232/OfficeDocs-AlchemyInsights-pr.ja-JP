@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554626"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666701"
 ---
 # <a name="prepaid-office-365-renewal"></a>プリペイド Office 365 の更新
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554626"
 
 5. ご注文の詳細を確認し、[**引き換え**] を選択します。
 
-詳細については、「[ライセンスを追加または拡張するサブスクリプションをプロダクトキーを使用して購入する](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)」を参照してください。
+詳細については、「[プロダクトキーを使用してライセンスを追加または拡張する](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)」を参照してください。

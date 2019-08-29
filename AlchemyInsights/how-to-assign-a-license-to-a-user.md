@@ -3,7 +3,6 @@ title: ユーザーにライセンスを割り当てる方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522472"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664253"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>ユーザーにライセンスを割り当てる方法
 
@@ -30,8 +29,8 @@ ms.locfileid: "36522472"
 
 3. [**ライセンスとアプリ**] タブで、このユーザーに割り当てるライセンスを選択します。
 
-    既定では、そのライセンスに関連付けられているすべてのサービスがユーザーに自動的に割り当てられます。 ユーザーが使用できるサービスを制限するには、そのユーザーに持たせたくないサービスのチェック ボックスをオフにします。
+    既定では、そのライセンスに関連付けられているすべてのサービスがユーザーに自動的に割り当てられます。 ユーザーが使用できるサービスを制限するには、そのユーザーに使用させたくないサービスのチェック ボックスをオフにします。
 
 4. ウィンドウの下で、[**変更の保存**] を選択します。 
 
-詳細については、「[一般法人向け Office 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)」と「[一般法人向け Office 365 のユーザーからライセンスを削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)」を参照してください。
+詳細については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)」および「[ユーザーからライセンスを削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)」を参照してください。

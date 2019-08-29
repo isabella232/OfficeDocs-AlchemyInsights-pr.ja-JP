@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575003"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664325"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID を追加または編集する方法
 
-1.  Microsoft 365 管理センターで、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。
+1. Microsoft 365 管理センターで、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。
 
 2. 更新するサブスクリプションのサブスクリプション カードを検索します。
 
@@ -31,7 +31,7 @@ ms.locfileid: "36575003"
 
     完了すると、VAT は次の請求書では請求されなくなります。
 
-古い管理センターを使用していますか? 以前の手順の場合、または詳細については、「 [Office 365 に対して請求される税に](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)ついて」を参照してください。
+詳細については、「 [Office 365 に対して請求される税に](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)ついて」を参照してください。
 
 **その他の技術情報**
 

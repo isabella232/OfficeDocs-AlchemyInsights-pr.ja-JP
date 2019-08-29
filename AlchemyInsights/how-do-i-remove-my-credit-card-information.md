@@ -13,12 +13,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575383"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664433"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>クレジット カードの情報を削除する方法
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575383"
 
 4. [**支払方法の削除**] ウィンドウで、[**削除**] を選択します。
 
-古い管理センターを使用していますか? 以前の手順や詳細については、「 [Office 365 for business でクレジットカードを追加、更新、または削除](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)する」を参照してください。
+詳細については、「 [Office 365 for business でクレジットカードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。

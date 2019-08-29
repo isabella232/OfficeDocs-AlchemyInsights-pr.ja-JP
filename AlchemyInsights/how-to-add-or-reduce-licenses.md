@@ -3,7 +3,6 @@ title: ライセンスを追加または削除する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574947"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664289"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>ライセンスを追加または削除する方法
 
-Office 365 のライセンスをさらに削除または購入する方法は次のとおりです。
+Office 365 ライセンスを削除したり、追加のライセンスを購入したりする方法は次のとおりです。
   
 1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 
@@ -39,7 +38,7 @@ Office 365 のライセンスをさらに削除または購入する方法は次
 > [!NOTE]
 > 新しい請求 (ライセンスの増加) またはクレジット (ライセンスの減少) は、次回の請求書に表示されます。
 
-古い管理センターを使用していますか? 以前の手順や詳細については、「一般[法人向け Office 365 サブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
+詳細については、「一般[法人向け Office 365 のサブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。
 
  **その他の技術情報**
   

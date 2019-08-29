@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575769"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665548"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
@@ -26,4 +26,4 @@ ms.locfileid: "36575769"
   
 お客様の組織のデータに基づいて、現在のサブスクリプションのすべてが25座席未満であると考えています。 サブスクリプションをオンラインで解約するには、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動します。 [**設定 & アクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
   
-古い管理センターを使用していますか? 以前の手順や詳細については、「[サブスクリプションの取り消し](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションの取り消し](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。
