@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537881"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643699"
 ---
 # <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
 
-受信拒否リストのメールアドレスまたはドメインからのメッセージは、直接 [迷惑メール] フォルダーに移動します。 メールは、14 日後に迷惑メールフォルダーから自動的に削除され、回復できません。
+受信拒否リストのメール アドレスまたはドメインからのメッセージは、直接 [迷惑メール] フォルダーに移動します。 [迷惑メール] フォルダーのメールは 30 日経過すると自動的に削除され、復元できなくなります。 アイテムを選択して、いつ削除されるかを確認します。
 
 **[受信トレイ] から:**
 
 - メッセージ リストでメッセージを選択してから、**[迷惑メール]** > **[受信拒否]** の順に選択します。
+- **注:** [迷惑メール] フォルダーにあるアイテムをブロックしても、アイテムは削除されません。
 
 **[設定] から:**
 

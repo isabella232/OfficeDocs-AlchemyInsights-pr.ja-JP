@@ -3,7 +3,6 @@ title: 請求サイクル クレジット カード
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517756"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664793"
 ---
-# <a name="billing-cycle-credit-card"></a>請求サイクル クレジット カード
+# <a name="payment-methods-for-office-365-for-business"></a>Office 365 for Business の支払方法
 
 一般法人向け Office 365 のサブスクリプションを Microsoft から直接購入する場合、クレジット カードまたはデビット カードで支払うことができます。一部の国や地域では、銀行口座を使って支払うこともできます。
   
 支払い方法としてクレジット カードを使用する場合、管理とトラブルシューティングを行う方法については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
   
-ここには、クレジット カードが拒否されたときに問題を解決し、カードが承諾されるようにクレジット カードを変更する方法が含まれています。
+この記事には、クレジット カードが拒否された場合のトラブルシューティング方法や、カードが承諾されるためのクレジット カード情報の変更に関する説明が含まれています。
