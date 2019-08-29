@@ -3,7 +3,6 @@ title: SharePoint Online の一般的な問題と解決策
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e6b21d4d457cacf1666a74751d285cf09a8833ea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508381"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666089"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online の一般的な問題と解決策
 
-SharePoint についてのご質問でしょうか。 エラー、使用している機能などを含む、お客様の問題を 2 文程度の説明で簡潔に要点をまとめると、より正確な回答が得られます。 
+SharePoint Online についてよく寄せられるトピックは次の通りです。
 
-さて、ここでよく寄せられるトピックは次の通りです。
-
-
-
-
-
-- **アクセス許可**: 「[アクセス許可方針の作成](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)」および「[アクセス許可レベルの理解](https://docs.microsoft.com/sharepoint/understanding-permission-levels)」。
+- **アクセス許可**: [アクセス許可方針の作成](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)および[アクセス許可レベルの理解](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
 - **共有**: 「[組織内の他のユーザーとの共有](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)」または「[組織外の他のユーザーとの共有](https://docs.microsoft.com/sharepoint/external-sharing-overview)」。
 

@@ -1,9 +1,8 @@
 ---
-title: 611 予定表の共有
+title: 611 カレンダーの共有
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518404"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665585"
 ---
-# <a name="calendar-sharing"></a>予定表の共有
+# <a name="calendar-sharing-in-outlook"></a>Outlook での予定表の共有
 
-詳細については、以下のトピックを参照してください。
+Outlook 予定表の共有に関する詳細は、次の記事を参照してください。
   
 - [他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
