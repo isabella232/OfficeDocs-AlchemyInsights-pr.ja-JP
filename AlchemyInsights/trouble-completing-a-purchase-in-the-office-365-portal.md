@@ -1,5 +1,5 @@
 ---
-title: Office 365 ポータルで購入を完了できない
+title: Microsoft 365 管理センターで購入を完了できない問題
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f343b5b8fc5361b845095667a46e609591f33a6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507240"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665873"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Office 365 ポータルで購入を完了できない
+# <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターで購入を完了できない問題
 
-購入しようとするときに Office 365 管理センターにサインインするための確認メッセージが複数回表示される場合、または、問題が検出されたというメッセージが表示される場合は、まず、ブラウザーのプライベート/シークレット モードを使用してみるのが最適な手順です。プライベート/シークレット ウィンドウを開いた後、[portal.office.com](https://portal.office.com) サイトに移動して、管理者の資格情報でログインします。その後、続行して購入を完了します。
+購入しようとするときに Microsoft 365 管理センターにサインインするための確認メッセージが複数回表示される場合、または、問題が検出されたというメッセージが表示される場合は、ブラウザーのInprivate/Incognito モードを使用します。Inprivate/Incognito ウィンドウを開いた後、[admin.microsoft.com](https://admin.microsoft.com) サイトに移動して、管理者の資格情報でログインします。その後、続行して購入を完了します。
