@@ -16,7 +16,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 07/16/2019
 ms.locfileid: "35760758"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="5dbb3-102">フォームに対して、ビジネス ルールが生成されない</span><span class="sxs-lookup"><span data-stu-id="5dbb3-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="cfa06-102">フォームに対して、ビジネス ルールが生成されない</span><span class="sxs-lookup"><span data-stu-id="cfa06-102">Business rule not firing for a form</span></span>
 
-* <span data-ttu-id="5dbb3-103">
-  [フォームに対して、ビジネス ルールが生成されていませんか?](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)</span><span class="sxs-lookup"><span data-stu-id="5dbb3-103">[Is your business rule not firing for a form?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)</span></span>
+* [<span data-ttu-id="cfa06-103">フォームに対して、ビジネス ルールが生成されていませんか?</span><span class="sxs-lookup"><span data-stu-id="cfa06-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
