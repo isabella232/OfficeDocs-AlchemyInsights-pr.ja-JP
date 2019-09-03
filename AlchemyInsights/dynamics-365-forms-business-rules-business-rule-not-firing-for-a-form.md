@@ -18,5 +18,4 @@ ms.locfileid: "35760758"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>フォームに対して、ビジネス ルールが生成されない
 
-* 
-  [フォームに対して、ビジネス ルールが生成されていませんか?](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+* [フォームに対して、ビジネス ルールが生成されていませんか?](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)

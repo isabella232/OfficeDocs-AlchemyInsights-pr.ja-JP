@@ -24,7 +24,6 @@ ms.locfileid: "35760786"
 
 * [Dynamics 365 の価格とライセンス ガイド](https://dynamics.microsoft.com/pricing/)
 
-* 
-  [ストレージを追加購入する方法](https://docs.microsoft.com/ja-JP/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [ストレージを追加購入する方法](https://docs.microsoft.com/ja-JP/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
 * [ストレージを開放する方法](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

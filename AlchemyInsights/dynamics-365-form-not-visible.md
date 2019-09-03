@@ -18,8 +18,6 @@ ms.locfileid: "35760752"
 ---
 # <a name="dynamics-365-form-not-visible"></a>Dynamics 365 フォームが表示されない
 
-* 
-  [フォーム セレクターに表示されないフォーム](https://docs.microsoft.com/ja-JP/dynamics365/customer-engagement/customize/control-access-forms)
+* [フォーム セレクターに表示されないフォーム](https://docs.microsoft.com/ja-JP/dynamics365/customer-engagement/customize/control-access-forms)
 
-* 
-  [どのアプリでもフォーム セレクター ドロップ ダウンに自分のフォームが表示されないのはなぜですか?](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [どのアプリでもフォーム セレクター ドロップ ダウンに自分のフォームが表示されないのはなぜですか?](https://docs.microsoft.com/ja-JP/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

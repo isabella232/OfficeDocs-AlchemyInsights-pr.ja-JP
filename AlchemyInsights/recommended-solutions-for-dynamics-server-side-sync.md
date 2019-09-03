@@ -26,8 +26,7 @@ ms.locfileid: "36509921"
 
 * [ポータルのサーバー側キャッシュをクリアする方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* 
-  [Dynamics 365 ポータルの種類と対象ユーザーを変更する方法](https://support.microsoft.com/ja-JP/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365 ポータルの種類と対象ユーザーを変更する方法](https://support.microsoft.com/ja-JP/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [ポータルの基本 URL を変更する方法](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
