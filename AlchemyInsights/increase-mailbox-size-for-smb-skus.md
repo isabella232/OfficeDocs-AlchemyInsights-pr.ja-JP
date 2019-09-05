@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412576"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739246"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 
@@ -30,6 +30,6 @@ ms.locfileid: "32412576"
     
 4. 購入手続の完了後、Office 365 による切り替えの最終処理に数分間かかります。新しいサブスクリプションは、すぐに使用開始できます。
     
-詳細については、「[別の Office 365 プランに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」を参照してください。
+詳細については、「[別の Office 365 プランに切り替える](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)」を参照してください。
   
 

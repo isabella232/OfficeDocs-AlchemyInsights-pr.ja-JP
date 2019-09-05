@@ -1,18 +1,18 @@
 ---
 title: サイトまたはリストをテンプレートとして保存する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551636"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752037"
 ---
 # <a name="save-site-or-list-as-a-template"></a>サイトまたはリストをテンプレートとして保存する
 
@@ -28,7 +28,7 @@ SharePoint サイト テンプレートは、特定のビジネス ニーズに�
 - [テンプレートとしてサイトを保存] コマンドはサポートされていないため、SharePoint Server 発行インフラストラクチャを使用するサイトで問題が発生する可能性があります。
 
 
-**サイト テンプレートを作成できない、またはサイト テンプレートが正常に機能しない**
+**サイト テンプレートを作成できないか、正しく機能しない**
 
 - テンプレートに[機能](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx)が設定されていないため、有効になりません。 現在のサイト コレクションで機能を有効にできない場合は、サイト テンプレートを使用してサイトを作成することはできません。
 
@@ -39,7 +39,7 @@ SharePoint サイト テンプレートは、特定のビジネス ニーズに�
 - サイトが多すぎるリソースを使用している可能性があり、サイト テンプレートが50メガバイト (MB) の制限を超えています。
 
 
-- ルックアップ列を使用するリストのデータを表示する際に問題が発生します。 詳細については、「[SharePoint Online で、テンプレートから作成したリストに正しいルックアップ リスト データが表示されない](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a)」を参照してください。
+- ルックアップ列を使用するリストのデータを表示する際に問題が発生します。 詳細については、「[SharePoint Online で、テンプレートから作成したリストに正しいルックアップ リスト データが表示されない](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)」を参照してください。
 
 
 共通の問題と解決策の詳細については、 「[サイト テンプレートを作成して使用する](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)」を参照してください。

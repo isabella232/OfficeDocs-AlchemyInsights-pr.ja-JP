@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403752"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736258"
 ---
 # <a name="enable-mailbox-auditing"></a>メールボックスの監査を有効にする
 
@@ -30,6 +30,6 @@ Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
   
 Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
   
-[詳細情報](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[詳細情報](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

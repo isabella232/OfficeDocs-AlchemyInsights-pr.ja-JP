@@ -1,6 +1,6 @@
 ---
 title: 2010 の承認ワークフローを追加できない
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366840"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748689"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>2010 の承認ワークフローを追加できない
 
-Microsoft SharePoint サイト コレクションにおいて、グローバルに再利用可能なワークフロー (“承認 - SharePoint 2010” など) をリストまたはライブラリに追加できません。
+Microsoft SharePoint サイト コレクションにおいて、グローバルに再利用可能なワークフロー (“承認 - SharePoint 2010” など) をリストまたはライブラリに追加することができません。
   
 この問題を解決するには、次の手順を実行します。 
   
@@ -31,11 +31,11 @@ Microsoft SharePoint サイト コレクションにおいて、グローバル�
   
 1. [**ワークフロー**] リボンの [**保存**] セクションで、[**発行**] を選択します。 
   
-2. [**ワークフロー**] リボンの [**管理**] セクションで、[**グローバルに発行**] を選択します。表示される確認ダイアログ ボックスで [**OK**] を選択します。 
+2. **[ワークフロー]** リボンの **[管理]** セクションで、**[グローバルに発行]** を選択します。表示される確認ダイアログ ボックスで **[OK]** を選択します。 
   
 3. Web ブラウザーで、サイト コレクションのルート Web サイトを見つけて、[**サイトの設定**]、[**サイト コレクションの機能**] の順にアクセスします。**ワークフロー**機能を次のように切り替えます。 
   
-本機能が*アクティブ化*されている場合は、[**非アクティブ化**] をクリックしてから、[**アクティブ化**] をクリックします。 
+本機能が*アクティブ化*されている場合は、**[非アクティブ化]** をクリックしてから、**[アクティブ化]** をクリックします。 
   
 本機能が*非アクティブ化*されている場合は、**[アクティブ化]** をクリックします。 
   

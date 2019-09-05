@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394117"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738598"
 ---
 # <a name="change-a-users-email-address"></a>ユーザーの電子メール アドレスを変更します。
 
@@ -38,6 +38,6 @@ ms.locfileid: "32394117"
     
 6. [**保存**] を選択してから、[**閉じる**] を選択すると、完了です。
     
-簡単に変更できましたね。詳細情報およびスクリーン ショット付きの手順については、「[Office 365 でユーザー名とメール アドレスを変更する](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)」の記事を参照してください。
+簡単に変更できましたね。詳細情報およびスクリーン ショット付きの手順については、「[Office 365 でユーザー名とメール アドレスを変更する](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)」の記事を参照してください。
   
 

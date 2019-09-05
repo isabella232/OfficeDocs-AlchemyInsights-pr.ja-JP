@@ -1,6 +1,6 @@
 ---
 title: 外部ユーザーとコミュニケーション サイトを共有する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 17a7c692ae98bca407b9313fa9c9f21014d159fa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370170"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751965"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>外部ユーザーとコミュニケーション サイトを共有する
 
@@ -27,6 +27,6 @@ ms.locfileid: "32370170"
   
 4. トップ メニューから [**共有**] ボタンを選択します。 
   
- **注:** 複数のサイトを選択していると、[**共有**] ボタンが無効表示になります。1 つのサイトのみを選択してください。 
+ **注:** 複数のサイトを選択していると、**[共有]** ボタンが無効表示になります。1 つのサイトのみを選択してください。 
   
 

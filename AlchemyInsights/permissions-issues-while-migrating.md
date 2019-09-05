@@ -1,6 +1,6 @@
 ---
 title: 移行中のアクセス許可の問題
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372169"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752613"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>ユーザー プロファイルと写真の同期
 
