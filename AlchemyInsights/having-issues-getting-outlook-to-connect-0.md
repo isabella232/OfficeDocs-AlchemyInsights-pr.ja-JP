@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400416"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739714"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Outlook の接続に問題がある場合
 
@@ -21,10 +21,9 @@ ms.locfileid: "32400416"
   
 {HealthCheckString}
   
-ドメイン (DNS) レコードの NS または CNAME の設定が適切に設定されていません。詳細については、「[Office 365 で DNS レコードを更新する](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)」を参照してください。 
+ドメイン (DNS) の設定の NS レコードまたは CNAME レコードが正しく設定されていません。 詳細な手順については、「 [Office 365 の任意の dns ホスティングプロバイダーで dns レコードを作成](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)する」を参照してください。 
   
 この問題を修正する場合は、Microsoft 365 管理センターの [[ドメイン]](https://admin.microsoft.com/adminportal/home#/Domains) ページに移動して支援を求めてください。 
-  
-その他の一般的な問題については、[ドメインに関する FAQ を確認してください](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)。 
+
   
 
