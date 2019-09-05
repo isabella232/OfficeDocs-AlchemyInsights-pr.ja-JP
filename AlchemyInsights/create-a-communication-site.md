@@ -1,6 +1,6 @@
 ---
 title: コミュニケーション サイトを作成する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407583"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755421"
 ---
 # <a name="create-a-communication-site"></a>コミュニケーション サイトを作成する
 
-コミュニケーション サイトを作成するには、次の手順を実行します。 
+SharePoint Online でコミュニケーションサイトを作成するには、次の手順を実行します。 
   
 1. ページの左上隅で、アプリ起動ツールをクリックし、[SharePoint] タイルを選択します。[SharePoint] タイルが表示されない場合は、[**サイト**] タイルをクリックし、[SharePoint] が表示されない場合は、[**すべてのアプリ**] をクリックします。 
     

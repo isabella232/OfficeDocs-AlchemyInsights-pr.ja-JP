@@ -1,6 +1,6 @@
 ---
 title: コミュニケーション サイトを削除する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 847a340d4d3a05c97fd86f48bf42f7c22859f1b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405813"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748005"
 ---
 # <a name="delete-a-communication-site"></a>コミュニケーション サイトを削除する
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405813"
   
 3. [**サイトの情報**] で [**このサイトを削除**]、[**削除**] の順にクリックします。 
   
-管理者は、次の手順を実行して、最新の管理センターからコミュニケーション サイトを削除することもできます。 
+管理者は、次の手順に従って、新しい管理センターからコミュニケーションサイトを削除することもできます。 
   
-1. 新しい管理センターを試用するには、右上隅の [**今すぐ試す**] ボタンをクリックします。 
+1. 左側の [**アクティブなサイト**] を選択します。 
   
-2. [**アクティブなサイト**] を選択します。 
+2. 削除するサイトの横をクリックすると、トップ メニューに [**削除**] オプションが表示されます。 
   
-3. 削除するサイトの横をクリックすると、トップ メニューに [**削除**] オプションが表示されます。 
-  
- **注:** サイトの URL を再使用できるように、コミュニケーション サイトを完全に削除 (ごみ箱から削除) する必要がある場合は、[https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) を使用してごみ箱を評価し、[https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) を使用してサイトをごみ箱から削除します。 
+ **注:** サイトの URL を再利用できるように、コミュニケーションサイトを完全に削除する (ごみ箱から削除する) 必要がある場合は、 [remove-spodeletedsite](https://aka.ms/Get-SPODeletedSite)を使用してごみ箱を評価し、ごみ箱からサイトを削除するには、 [remove-spodeletedsite](https://aka.ms/Remove-SPODeletedSite)を使用します。 
   
 

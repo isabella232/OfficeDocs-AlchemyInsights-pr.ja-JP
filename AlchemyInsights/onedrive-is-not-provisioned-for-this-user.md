@@ -1,6 +1,6 @@
 ---
 title: OneDrive がこのユーザーにプロビジョニングされない
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543637"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753369"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive がこのユーザーにプロビジョニングされない
 
-新しく作成したアカウントの場合、ユーザーは自分のアカウントで Office 365 ポータルにサインインし、[OneDrive] をクリックして手動で OneDrive サイトのプロビジョニングを開始する必要があります。
+新規に作成されたアカウントの場合、ユーザーは自分のアカウントを使用して Microsoft 365 管理センターにサインインし、[OneDrive] をクリックして OneDrive サイトのプロビジョニングを手動で開始する必要があります。
   
 ただし、ユーザーが既に OneDrive をクリックしていて、その個人用サイトが 24 時間以内にプロビジョニングされない場合は、サポート チケットを記録してサポートを受けてください。
   

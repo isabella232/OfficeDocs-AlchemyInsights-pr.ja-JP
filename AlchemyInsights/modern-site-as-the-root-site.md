@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620764"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753909"
 ---
 # <a name="modern-site-as-root-site"></a>ルートサイトとしてのモダンサイト
 
-従来のサイトのルートサイトをモダンサイトと入れ替えることができる新機能のロールアウトを開始しました。 元のサイトをアーカイブしているときに、 [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)を使用してサイトの場所を別のサイトと交換します。 両方のチームサイト (グループに接続されていない) とコミュニケーションサイトで使用できます。 
+[従来のサイトのルートサイトをモダンサイトと入れ替える](https://docs.microsoft.com/sharepoint/modern-root-site)ことができる新機能のロールアウトを開始しました。 元のサイトをアーカイブしているときに、 [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)を使用してサイトの場所を別のサイトと交換します。 両方のチームサイト (グループに接続されていない) とコミュニケーションサイトで使用できます。
 
 >[!Important]
 > モダンコミュニケーションサイトを作成するために、従来のルートサイトを削除しないでください。 これは Microsoft ではサポートされていません。 ルートサイトを削除すると、サイトを復元するか、同じ URL で新しいサイトを作成するまで、組織内のすべての SharePoint サイトがすべてのユーザーに対してアクセスできなくなります。 この機能は、メッセージセンター経由で通信します。 この機能は、すぐにテナントでオンになるはずです。

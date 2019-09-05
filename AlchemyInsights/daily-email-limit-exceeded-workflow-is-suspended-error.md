@@ -1,6 +1,6 @@
 ---
-title: 1 日のメールの制限を超えました。 ワークフローは中断されています
-ms.author: kirks
+title: 毎日のメールの制限を超えました。 ワークフローが中断されているエラー
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: c463a1f4f7936ff5fb14365a7723bed37003f448
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 6cce569133d97e9fefea3834a63be1f1b756b417
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406563"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755349"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>"1 日のメールの制限を超えました。ワークフローは中断されています" エラー
 
