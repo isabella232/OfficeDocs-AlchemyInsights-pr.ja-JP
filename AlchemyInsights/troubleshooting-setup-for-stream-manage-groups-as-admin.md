@@ -1,5 +1,5 @@
 ---
-title: Stream のセットアップのトラブルシューティング - Stream ライセンスの管理
+title: Stream のセットアップのトラブルシューティング-ストリームライセンスの管理
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 4cc07cf2bbbf72a6ef52ef94b87ea13cfd954791
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
-ms.translationtype: HT
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35760770"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742702"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Microsoft Stream ライセンスの管理
+# <a name="managing-microsoft-stream-licenses"></a>Microsoft Stream のライセンスを管理する
 
-**重要：** このトピックに記載の操作を実行するには、テナント管理者の役割に属している必要があります。
+**重要:** このトピックで説明されている操作を実行するには、テナント管理者の役割が必要です。
 
-グローバル管理者またはユーザー管理の管理者のどちらかである必要があります。詳細については、「[Office 365 管理者の役割について](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d)」を参照してください。
+グローバル管理者かユーザー管理者である必要があります。詳細については、「[管理者の役割につい](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)て」を参照してください。
 
-[Office 365 PowerShell を使用してライセンスをユーザー アカウントに割り当てる](https://go.microsoft.com/fwlink/p/?linkid=850410)ことができます。
+[Office 365 PowerShell を使用してライセンスをユーザーアカウントに](https://go.microsoft.com/fwlink/p/?linkid=850410)割り当てることができます。

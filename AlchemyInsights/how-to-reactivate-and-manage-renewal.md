@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663965"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739318"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>継続請求を再アクティブ化および管理する方法
 
@@ -32,7 +32,7 @@ ms.locfileid: "36663965"
 
 3. 支払いの詳細を確認します。 既存の支払い情報はここで更新できます。 支払い方法の入力が終了したら、[**再アクティブ化**] を選択します。
 
-詳細については、「[サブスクリプションを再アクティブ化](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)する」を参照してください。 
+詳細については、「[サブスクリプションを再アクティブ化](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription)する」を参照してください。 
 
 月次請求または年次請求を管理する場合は、**[継続請求]** のオン/オフを切り替えることができます。
   

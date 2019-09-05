@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399398"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737338"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 
@@ -34,6 +34,6 @@ ms.locfileid: "32399398"
     
     通常、新しいエイリアスが有効になるには、約 30 分かかります。
     
-    **詳細については、「**[Add additional email aliases to a user](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)」 (その他のメール アドレスをメールに追加する) の記事を参照してください。
+    **詳細については、次の記事を参照してください。**[ユーザーに別の電子メールエイリアスを追加する](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 
