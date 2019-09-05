@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: f4b5001f2a6291a422b5cd0c3c40de7be0f1ecf0
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902934"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736654"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>ドメイン ネーム サーバーを Office 365 に更新する
 
@@ -35,5 +35,5 @@ Office 365 でドメインを設定するには、レジストラーのネーム
 
 3. 変更を保存します。
 
-詳細な手順については、「[任意のドメイン レジストラーで Office 365 をセットアップするためにネームサーバーを変更する](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)」も参照してください。
+詳細な手順については、「[任意のドメイン レジストラーで Office 365 をセットアップするためにネームサーバーを変更する](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)」も参照してください。
   

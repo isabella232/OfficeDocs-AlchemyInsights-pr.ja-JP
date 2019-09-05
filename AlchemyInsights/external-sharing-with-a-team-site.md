@@ -1,6 +1,6 @@
 ---
 title: チーム サイトの外部共有
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401940"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755889"
 ---
 # <a name="external-sharing-with-a-team-site"></a>チーム サイトの外部共有
 
