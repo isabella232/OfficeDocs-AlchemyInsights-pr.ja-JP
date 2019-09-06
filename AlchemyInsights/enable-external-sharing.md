@@ -1,6 +1,6 @@
 ---
 title: 外部共有を有効にする
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404054"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756033"
 ---
 # <a name="enable-external-sharing"></a>外部共有を有効にする
 
- **共有が有効になっていることを確認する方法:**
+ SharePoint Online で共有が有効になっていることを確認するには:
   
 - **グローバル共有**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404054"
     
 - **管理共有 - SharePoint 管理センター**
     
-- 外部共有 - 2 つのオプションのいずれかが選択されていることを確認する:
+    外部共有 - 2 つのオプションのいずれかが選択されていることを確認する:
     
   - "共有への招待を承諾する外部ユーザーを許可し、認証済みユーザーとしてサインインする"
     
