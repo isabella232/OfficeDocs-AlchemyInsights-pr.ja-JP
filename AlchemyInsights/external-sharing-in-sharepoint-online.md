@@ -11,12 +11,13 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 6656fb58817d9be74a4558981b3837ed104d65d6
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735970"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818359"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online での外部共有
 

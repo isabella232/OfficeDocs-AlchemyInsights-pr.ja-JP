@@ -3,18 +3,21 @@ title: 一度に複数のファイルをチェックインする
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
-ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9e1a2f9068ff787ac835ad665c77bba70cd6b352
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "5300029"
+- "1688"
+- "986"
+ms.openlocfilehash: 68e71afcce68989e2bede2f5739e860a6becb5cf
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755205"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818431"
 ---
 # <a name="check-in-several-files-at-once"></a>一度に複数のファイルをチェックインする
 

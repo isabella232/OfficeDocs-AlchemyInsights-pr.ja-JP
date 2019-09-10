@@ -9,13 +9,14 @@ localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
+- "624"
 - "3500003"
-ms.openlocfilehash: 5d704041fdf9245036bd20e13bad187f9aea9401
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9279331e2ed186b52981550d1baac24d5e26f7b7
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736690"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818539"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>共有メールボックスを作成および使用する
 

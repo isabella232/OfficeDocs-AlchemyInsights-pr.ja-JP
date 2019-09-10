@@ -7,12 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1161"
+- "5200019"
+ms.openlocfilehash: f451b0ce99dece9e61285de0826e951793c7708f
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750453"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818863"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online または OneDrive の "セットアップ中"
 
