@@ -10,13 +10,14 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "39"
+- "41"
 - "100001"
-ms.openlocfilehash: 217485a2abf91dfa48ffe44e691bb0352fd4ddad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 63889b05c3755e80b381f38dc14827f4a96e5ef8
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742234"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818719"
 ---
 # <a name="update-dns-records"></a>DNS レコードを更新する
 

@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online の使用を開始する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -8,14 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "9000317"
+- "1940"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a13c5d7066e6a703e627adfbef1157e85138f447
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a553286887a662601d45b4ddea84d12747b9a3f0
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502380"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818755"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint のワークフロー
 

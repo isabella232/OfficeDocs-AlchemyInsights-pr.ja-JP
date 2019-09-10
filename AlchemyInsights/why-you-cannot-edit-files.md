@@ -1,6 +1,6 @@
 ---
 title: ファイルが編集中にロックされる
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,12 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 5445c3adeb5fa60a141b56bf4d272869a1c38593
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558334"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818683"
 ---
 # <a name="why-cant-i-edit-files"></a>ファイルを編集できないのはなぜですか。
 

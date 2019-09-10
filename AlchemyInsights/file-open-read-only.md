@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b7f27e38412fc2a1dea46027e926c660231ed8b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: 82fbe42116944dfc00b40449072af2dd9331680c
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401364"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818503"
 ---
 # <a name="file-open-read-only"></a>読み取り専用で開いているファイル
 

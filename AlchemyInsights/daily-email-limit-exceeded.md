@@ -3,7 +3,6 @@ title: 1 日のメールの制限を超えました。 ワークフローは中�
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ae06919fde3c30b27975700fe17ecfd1bc2f675
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514462"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818290"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>1 日のメールの制限を超えました。 ワークフローは中断されています。
 
