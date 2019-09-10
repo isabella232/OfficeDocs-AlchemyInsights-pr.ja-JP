@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 82fbe42116944dfc00b40449072af2dd9331680c
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
-ms.locfileid: "36818503"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822239"
 ---
 # <a name="file-open-read-only"></a>読み取り専用で開いているファイル
 
@@ -25,7 +25,7 @@ ms.locfileid: "36818503"
   
  **ウイルス対策がファイルが読み取り専用で開かれる原因になっている**
   
-一部のウイルス対策プログラムは、読み取り専用で開くことによって、潜在的に安全でないファイルからユーザーを保護します。これらの設定を調整する方法については、ウイルス対策ソフトウェアのプロバイダーに確認する必要があります。たとえば、BitDefender の「[Bitdefender Control Center でアプリケーションまたはプロセス除外を追加する方法](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl)」に、アプリケーション除外の追加に関する記載があります。
+一部のウイルス対策プログラムは、読み取り専用で開くことによって、潜在的に安全でないファイルからユーザーを保護します。これらの設定を調整する方法については、ウイルス対策ソフトウェアのプロバイダーに確認する必要があります。たとえば、BitDefender の「[Bitdefender Control Center でアプリケーションまたはプロセス除外を追加する方法](https://aka.ms/AA6098i)」に、アプリケーション除外の追加に関する記載があります。
   
  **ファイルのプロパティが読み取り専用に設定されていないか?**
   

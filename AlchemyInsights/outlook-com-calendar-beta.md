@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548144"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821987"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com に搭載予定の新しいカレンダーのエクスペリエンス
 
@@ -27,4 +27,4 @@ ms.locfileid: "36548144"
 
 イベント アイコンのコレクションを拡張し、既存の外観を更新しました。イベントに関連するアイコンが自動的に追加され、進行状況を一目で確認できるようになりました。
 
-[Outlook.com カレンダー UserVoice チャンネル](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)で、新機能に関するフィードバックを入力することができます。
+[Outlook.com カレンダー UserVoice チャンネル](https://go.microsoft.com/fwlink/?linkid=2103075)で、新機能に関するフィードバックを入力することができます。
