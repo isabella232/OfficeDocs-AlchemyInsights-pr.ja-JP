@@ -11,17 +11,16 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b057a6cf113416c4eb3addaa8fdb76dcb941c032
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541229"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818322"
 ---
-# <a name="how-to-disable-external-groups"></a>外部グループを無効にする方法
+# <a name="ow-to-give-access-to-external-users-in-yammerh"></a>Yammer で外部ユーザーにアクセスを許可する方法
 
 外部ユーザーが Yammer 内のネットワークにアクセスする方法は 4 つあります。
-
   
 1. **ゲスト ユーザー**: Yammer 管理者は、外部ドメインの連絡先をホーム ネットワーク上のユーザーとして招待できます。これらのユーザーは、All Company フィードを参照でき、ネットワーク上の他のグループにも参加できます。
 
@@ -31,5 +30,5 @@ ms.locfileid: "36541229"
 
 4. **外部ネットワーク**: このオプションでは、認定管理者がネットワークに作成できる外部ネットワークに外部ユーザーを招待できます。これは、外部のコミュニティをホストするのに最適なオプションです。
 
-詳細については、「[Yammer の会話に外部メッセージング参加者を追加する](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)」および「[外部メッセージングよく寄せられる質問 - Yammer](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)」を参照してください。
+詳細については、「[Yammer の会話に外部メッセージング参加者を追加する](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)」および「[外部メッセージングよく寄せられる質問 - Yammer](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)」を参照してください。
   

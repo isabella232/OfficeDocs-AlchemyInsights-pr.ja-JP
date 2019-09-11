@@ -3,7 +3,6 @@ title: SharePoint ライブラリをネットワーク ドライブにマップ�
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 949259174e47e6a7eedc64dd1d92468d76d0f895
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497023"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818647"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint ライブラリをネットワーク ドライブにマップする
 
@@ -28,6 +27,6 @@ ms.locfileid: "36497023"
 **マップされたネットワーク ドライブを構成しトラブルシューティングする方法**
 
 
-「[マップされたネットワーク ドライブの構成とトラブルシューティング](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
+詳細については、「[SharePoint Online に接続するマップされたネットワークドライブのトラブルシューティング](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)」を参照してください。
 
 注: Windows 8 または Windows 7 で実行する Internet Explorer 10 でドライブをマップする際に「**アクセスが拒否されました**」または「**パスにアクセスできません**」というメッセージが表示される場合は、[この修正プログラム](https://support.microsoft.com/help/2846960)をインストールして問題を解決してください。 

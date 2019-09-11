@@ -3,7 +3,6 @@ title: Outlook.com の受信トレイが読み込まれない
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,18 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536440"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822347"
 ---
 # <a name="empty-inbox"></a>受信トレイを空にする
 
 **Outlook.com 受信トレイが空になっている**
 
-- Firefox ブラウザのアドオンによっては、受信トレイが読み込まれないことがあります。 [アドオンを無効化または削除](https://support.mozilla.org/kb/disable-or-remove-add-ons)する方法については、Firefox のサポートを参照してください。
+- Firefox ブラウザのアドオンによっては、受信トレイが読み込まれないことがあります。 [アドオンを無効化または削除](https://aka.ms/mozilla-add-ons)する方法については、Firefox のサポートを参照してください。
 
 **受信トレイを空にしたい**
 
