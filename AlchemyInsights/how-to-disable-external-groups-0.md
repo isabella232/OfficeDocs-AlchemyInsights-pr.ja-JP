@@ -11,25 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b057a6cf113416c4eb3addaa8fdb76dcb941c032
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541229"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36818322"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="8543f-102">外部グループを無効にする方法</span><span class="sxs-lookup"><span data-stu-id="8543f-102">How to disable External Groups</span></span>
+# <a name="ow-to-give-access-to-external-users-in-yammerh"></a><span data-ttu-id="763d4-102">Yammer で外部ユーザーにアクセスを許可する方法</span><span class="sxs-lookup"><span data-stu-id="763d4-102">ow to give access to external users in YammerH</span></span>
 
-<span data-ttu-id="8543f-103">外部ユーザーが Yammer 内のネットワークにアクセスする方法は 4 つあります。
-</span><span class="sxs-lookup"><span data-stu-id="8543f-103">There are four ways external users can access your network in Yammer.</span></span>
+<span data-ttu-id="763d4-103">外部ユーザーが Yammer 内のネットワークにアクセスする方法は 4 つあります。</span><span class="sxs-lookup"><span data-stu-id="763d4-103">There are four ways external users can access your network in Yammer.</span></span>
   
-1. <span data-ttu-id="8543f-p101">**ゲスト ユーザー**: Yammer 管理者は、外部ドメインの連絡先をホーム ネットワーク上のユーザーとして招待できます。これらのユーザーは、All Company フィードを参照でき、ネットワーク上の他のグループにも参加できます。</span><span class="sxs-lookup"><span data-stu-id="8543f-p101">**Guest users** - Yammer Admins can invite contacts from external domains as users on the home network. These users will see the All Company feed and can join other groups in the networks as well.</span></span>
+1. <span data-ttu-id="763d4-p101">**ゲスト ユーザー**: Yammer 管理者は、外部ドメインの連絡先をホーム ネットワーク上のユーザーとして招待できます。これらのユーザーは、All Company フィードを参照でき、ネットワーク上の他のグループにも参加できます。</span><span class="sxs-lookup"><span data-stu-id="763d4-p101">**Guest users** - Yammer Admins can invite contacts from external domains as users on the home network. These users will see the All Company feed and can join other groups in the networks as well.</span></span>
 
-2. <span data-ttu-id="8543f-p102">**外部グループの外部ユーザー**: 外部グループでは外部ユーザーが許可されています。外部ユーザーがアクセスできる範囲は、外部グループに制限されます。外部グループには、外部との会話への参加が許可されている Yammer ネットワークの連絡先のみを招待できます。</span><span class="sxs-lookup"><span data-stu-id="8543f-p102">**External users in an external group** - External groups allow external users. The scope of an external user's access is limited to the external group. With external groups, you can only invite contacts from Yammer networks that allow users to participate in external conversations.</span></span>
+2. <span data-ttu-id="763d4-p102">**外部グループの外部ユーザー**: 外部グループでは外部ユーザーが許可されています。外部ユーザーがアクセスできる範囲は、外部グループに制限されます。外部グループには、外部との会話への参加が許可されている Yammer ネットワークの連絡先のみを招待できます。</span><span class="sxs-lookup"><span data-stu-id="763d4-p102">**External users in an external group** - External groups allow external users. The scope of an external user's access is limited to the external group. With external groups, you can only invite contacts from Yammer networks that allow users to participate in external conversations.</span></span>
 
-3. <span data-ttu-id="8543f-p103">**内部グループ内の Yammer の会話内の外部ユーザー**: このオプションにより、外部の参加者を特定の会話に追加できます。外部の参加者は、明示的に招待されている会話、およびその会話の任意の添付ファイルにのみ参加できます。これらのユーザーは、(ユーザーのネットワーク上の) Yammer の受信ボックスから会話にアクセスします。ご使用のネットワークの他の部分にはアクセスできません。</span><span class="sxs-lookup"><span data-stu-id="8543f-p103">**External users in a Yammer conversation in an internal group** - This option allows external participants to be added to a particular conversation. External participants can only participate in conversations they have been explicitly invited to and to any attachments in that conversation. They access these conversations via their Yammer inbox (on their network). They have no access to the rest of your network.</span></span>
+3. <span data-ttu-id="763d4-p103">**内部グループ内の Yammer の会話内の外部ユーザー**: このオプションにより、外部の参加者を特定の会話に追加できます。外部の参加者は、明示的に招待されている会話、およびその会話の任意の添付ファイルにのみ参加できます。これらのユーザーは、(ユーザーのネットワーク上の) Yammer の受信ボックスから会話にアクセスします。ご使用のネットワークの他の部分にはアクセスできません。</span><span class="sxs-lookup"><span data-stu-id="763d4-p103">**External users in a Yammer conversation in an internal group** - This option allows external participants to be added to a particular conversation. External participants can only participate in conversations they have been explicitly invited to and to any attachments in that conversation. They access these conversations via their Yammer inbox (on their network). They have no access to the rest of your network.</span></span>
 
-4. <span data-ttu-id="8543f-p104">**外部ネットワーク**: このオプションでは、認定管理者がネットワークに作成できる外部ネットワークに外部ユーザーを招待できます。これは、外部のコミュニティをホストするのに最適なオプションです。</span><span class="sxs-lookup"><span data-stu-id="8543f-p104">**External Networks** - This option allows you to invite external users to an external network that verified Admins can create in your network. This option is best suited for hosting external communities.</span></span>
+4. <span data-ttu-id="763d4-p104">**外部ネットワーク**: このオプションでは、認定管理者がネットワークに作成できる外部ネットワークに外部ユーザーを招待できます。これは、外部のコミュニティをホストするのに最適なオプションです。</span><span class="sxs-lookup"><span data-stu-id="763d4-p104">**External Networks** - This option allows you to invite external users to an external network that verified Admins can create in your network. This option is best suited for hosting external communities.</span></span>
 
-<span data-ttu-id="8543f-115">詳細については、「[Yammer の会話に外部メッセージング参加者を追加する](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)」および「[外部メッセージングよく寄せられる質問 - Yammer](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8543f-115">For more information, please see [Add external messaging participants to your Yammer conversations](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) and [External Messaging FAQ (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)</span></span>
+<span data-ttu-id="763d4-115">詳細については、「[Yammer の会話に外部メッセージング参加者を追加する](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)」および「[外部メッセージングよく寄せられる質問 - Yammer](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="763d4-115">For more information, please see [Add external messaging participants to your Yammer conversations](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) and [External Messaging FAQ (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)</span></span>
   
