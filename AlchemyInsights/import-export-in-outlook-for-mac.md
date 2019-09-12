@@ -36,5 +36,4 @@ ms.locfileid: "35086007"
 
 Outlook for Mac のインポートおよびエクスポートの詳細な手順については、「[Outlook のメール、連絡先、予定表をインポートおよびエクスポートする](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)」を参照してください。 
 
-Outlook for Mac の問題についてアプリ内でサポートを受けるには、Outlook を開いて **[ヘルプ]** > **[サポートに問い合わせる]** を選択します。 質問を入力すると、Outlook for Mac サポート チームのメンバーからの連絡があります。 
-  [Outlook for Mac のサポート問い合わせ](https://go.microsoft.com/fwlink/?linkid=2002400)
+Outlook for Mac の問題についてアプリ内でサポートを受けるには、Outlook を開いて **[ヘルプ]** > **[サポートに問い合わせる]** を選択します。 質問を入力すると、Outlook for Mac サポート チームのメンバーからの連絡があります。 [Outlook for Mac のサポート問い合わせ](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
