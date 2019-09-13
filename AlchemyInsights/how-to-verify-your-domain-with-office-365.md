@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664073"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851725"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Office 365 でドメインを確認する方法
 
-ドメインを所有していることを確認するには、ご利用のドメイン レジストラーに TXT レコードを追加する必要があります。まず **[設定]** \> **[ドメイン]**、**[ドメインの追加]** の順にクリックして、[[ドメイン ウィザードの追加]](https://portal.office.com/adminportal/home#/Domains) に従います。
+ドメインを所有していることを確認するには、ご利用のドメイン レジストラーに TXT レコードを追加する必要があります。まず、[[ドメイン ウィザードの追加](https://portal.office.com/adminportal/home#/Domains)] に従います。 [**設定**]\>、[**ドメイン**]、[**ドメインの追加**] の順にクリックしてください。
   
 ドメインを確認するため TXT レコードを追加するには、「[任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」の手順に従います 
   
