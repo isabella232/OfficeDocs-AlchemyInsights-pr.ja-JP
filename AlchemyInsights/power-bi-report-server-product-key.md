@@ -20,10 +20,10 @@ ms.locfileid: "35760789"
 ---
 # <a name="power-bi-report-server-product-key"></a>Power BI レポート サーバーのプロダクト キー
 
-Power BI Premium を購入した場合、Power BI 管理者ポータルの [**プレミアム設定**] タブで、Power BI レポート サーバーのプロダクト キーにアクセスできます。 この機能は、Power BI サービス管理者の役割を割り当てられたグローバル管理者またはユーザーのみが使用できます。
+Power BI Premium を購入した場合、Power BI 管理者ポータルの [**プレミアム設定**] タブで、Power BI レポート サーバーのプロダクト キーにアクセスできます。 この機能は、グローバル管理者または Power BI サービス管理者の役割を割り当てられたユーザーのみが使用できます。
 
-[**Power BI レポート サーバー キー**] を選択すると、プロダクト キーを含むダイアログ ボックスが表示されます。 このキーは、コピーしてインストールすることができます。
+[**Power BI レポート サーバー キー**] を選択すると、プロダクト キーを含むダイアログ ボックスが表示されます。 このキーは、コピーしてインストールで使用することができます。
 
 SQL Server Enterprise SA 契約がある場合は、 [ボリューム ライセンス サービス センター](https://www.microsoft.com/Licensing/servicecenter/)からプロダクト キーを入手できます。
 
-詳しくは、https://docs.microsoft.com/power-bi/report-server/install-report-serverをご覧ください
+詳しくは、https://docs.microsoft.com/power-bi/report-server/install-report-server をご覧ください
