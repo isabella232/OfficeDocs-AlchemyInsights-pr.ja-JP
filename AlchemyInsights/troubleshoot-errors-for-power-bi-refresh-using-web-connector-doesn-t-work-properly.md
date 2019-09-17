@@ -20,6 +20,6 @@ ms.locfileid: "35760769"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>Web コネクタを使用した更新が正常に機能しない
 
-[ Web.Page ](https://msdn.microsoft.com/library/mt260924.aspx)関数を使用している Web コネクタ スクリプトがあり、2016 年 11 月 18 日以降にデータセットまたはレポートを更新した場合は、更新を正しく機能させるためにゲートウェイを使用する必要があります。
+[Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) 関数を使用している Web コネクタ スクリプトがあり、2016 年 11 月 18 日以降にデータセットまたはレポートを更新した場合は、更新を正しく機能させるためにゲートウェイを使用する必要があります。
 
-詳しくは、[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios) をご覧ください
+詳しくは、[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios) をご覧ください。
