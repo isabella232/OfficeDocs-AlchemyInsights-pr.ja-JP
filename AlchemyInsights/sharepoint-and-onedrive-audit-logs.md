@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504396"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068028"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint および OneDrive 監査ログ
 
@@ -38,9 +38,12 @@ SharePoint または OneDrive で追加の構成は必要ありません。
 
 **SharePoint クラシック監査ログ**
 
-- [従来の SharePoint 監査ログを表示して有効にする](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+SPO レガシー監査を統合監査ログ (UAL) に移行しました。 これは基本的に、すべての SPO レガシー監査レポートが UAL を介して提供され、レガシー監査信号が UAL に移行されたことを意味します。
 
-監査は、各サイトコレクションで有効にする必要があります。 
+重要な変更:
 
-**注**: クラシック監査ログよりも高度なモダン統合監査ログを使用することをお勧めします。
+- 機能としてのトリミングは使用できません。
+- 監査する特定のイベントを選択するセクションは利用できません。 既定で利用可能な監査イベントの完全なリストについては、[このドキュメント](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)を参照してください。
+- **カスタマイズされたレポート**の「場所」オプションは使用できません。 
+- 「ドキュメントを開くまたはダウンロードする」イベントは利用できません。 
 
