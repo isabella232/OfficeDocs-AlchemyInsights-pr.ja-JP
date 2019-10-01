@@ -2,7 +2,6 @@
 title: Teams のアップグレード ガイダンス
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533884"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305126"
 ---
-# <a name="upgrade-to-teams"></a>Teams へのアップグレード
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams アップグレード
 
-Skype for Business から Microsoft Teams への以降のステップ バイ ステップ ガイドは[こちら](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)をご覧ください。
-  
+Teams を始めたばかりでも、すでに Skype for Business とともに Teams を使用している場合でも、アップグレードの準備ができている場合でも、Teams への旅を成功させるために必要なもののすべてが揃っていることを確認したいと思います。 詳細については、以下のリンクをご覧ください。
+
+[Microsoft Teams へのアップグレードを開始する](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[アップグレードを計画する](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Microsoft Teams と Skype for Business の共存について理解する](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Skype for Business Online から Teams にアップグレードする](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Skype for Business オンプレミスから Teams にアップグレードする](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
