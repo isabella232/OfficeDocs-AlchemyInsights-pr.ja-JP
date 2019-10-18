@@ -18,9 +18,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36538710"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="e762e-102">Office 2013 は Office 365 サブスクリプションではサポートされていません</span><span class="sxs-lookup"><span data-stu-id="e762e-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="66a42-102">Office 2013 は Office 365 サブスクリプションではサポートされていません</span><span class="sxs-lookup"><span data-stu-id="66a42-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
 
-<span data-ttu-id="e762e-103">2017 年 2 月 28 日以降、Office 2013 は Office 365 サブスクリプションではサポートされなくなりました。</span><span class="sxs-lookup"><span data-stu-id="e762e-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="66a42-103">2017 年 2 月 28 日以降、Office 2013 は Office 365 サブスクリプションではサポートされなくなりました。</span><span class="sxs-lookup"><span data-stu-id="66a42-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
   
-<span data-ttu-id="e762e-p101">使用する Office スイート製品のセキュリティを確保して、最新の機能をすべて取得するには、Office 365 サブスクリプションの一部として無料で使用できる最新バージョンの Office をインストールできます。「[ユーザーを最新の Office クライアントにアップグレードする](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e762e-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="66a42-p101">使用する Office スイート製品のセキュリティを確保して、最新の機能をすべて取得するには、Office 365 サブスクリプションの一部として無料で使用できる最新バージョンの Office をインストールできます。「[ユーザーを最新の Office クライアントにアップグレードする](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="66a42-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   

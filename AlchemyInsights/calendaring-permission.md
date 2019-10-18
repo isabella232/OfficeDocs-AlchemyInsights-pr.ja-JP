@@ -17,10 +17,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36505512"
 ---
-# <a name="calendar-permissions"></a><span data-ttu-id="fe2c1-102">予定表のアクセス許可</span><span class="sxs-lookup"><span data-stu-id="fe2c1-102">Calendar permissions</span></span>
+# <a name="calendar-permissions"></a><span data-ttu-id="9e18f-102">予定表のアクセス許可</span><span class="sxs-lookup"><span data-stu-id="9e18f-102">Calendar permissions</span></span>
 
-<span data-ttu-id="fe2c1-103">自分の予定表やその他のカレンダーにアクセスできない場合、[Microsoft の Office 365 サポート/回復アシスタント](https://diagnostics.office.com/)をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="fe2c1-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="9e18f-103">自分の予定表やその他のカレンダーにアクセスできない場合、[Microsoft の Office 365 サポート/回復アシスタント](https://diagnostics.office.com/)をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="9e18f-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="fe2c1-104">予定表共有の詳細については、「[他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fe2c1-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="9e18f-104">予定表共有の詳細については、「[他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9e18f-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
   
 

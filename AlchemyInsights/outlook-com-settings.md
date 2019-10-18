@@ -18,8 +18,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36512284"
 ---
-# <a name="settings-in-outlookcom"></a><span data-ttu-id="9ae60-102">Outlook.com での設定</span><span class="sxs-lookup"><span data-stu-id="9ae60-102">Settings in Outlook.com</span></span>
+# <a name="settings-in-outlookcom"></a><span data-ttu-id="f3e9e-102">Outlook.com での設定</span><span class="sxs-lookup"><span data-stu-id="f3e9e-102">Settings in Outlook.com</span></span>
 
-<span data-ttu-id="9ae60-103">Outlook.com の設定が開けない場合は、[ここをクリック](https://outlook.live.com/mail/options/general/timeAndLanguage)して下さい。</span><span class="sxs-lookup"><span data-stu-id="9ae60-103">If you can't open Outlook.com settings, please [click here](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="f3e9e-103">Outlook.com の設定が開けない場合は、[ここをクリック](https://outlook.live.com/mail/options/general/timeAndLanguage)して下さい。</span><span class="sxs-lookup"><span data-stu-id="f3e9e-103">If you can't open Outlook.com settings, please [click here](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="9ae60-104">現在、一部のダイレクト リンクが開きません - 問題に取り組んでいます。</span><span class="sxs-lookup"><span data-stu-id="9ae60-104">Some direct links don't open at the moment - we're working on it!</span></span>
+<span data-ttu-id="f3e9e-104">現在、一部のダイレクト リンクが開きません - 問題に取り組んでいます。</span><span class="sxs-lookup"><span data-stu-id="f3e9e-104">Some direct links don't open at the moment - we're working on it!</span></span>

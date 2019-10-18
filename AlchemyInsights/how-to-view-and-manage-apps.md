@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36539502"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="5f7f6-102">アプリを表示および管理する方法</span><span class="sxs-lookup"><span data-stu-id="5f7f6-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="13978-102">アプリを表示および管理する方法</span><span class="sxs-lookup"><span data-stu-id="13978-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="5f7f6-103">Microsoft 365 管理センターでアプリを表示できます。</span><span class="sxs-lookup"><span data-stu-id="5f7f6-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="13978-103">Microsoft 365 管理センターでアプリを表示できます。</span><span class="sxs-lookup"><span data-stu-id="13978-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="5f7f6-104">管理センターで、[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="5f7f6-104">In the admin center, go to the **Billing**  >  [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="13978-104">管理センターで、[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="13978-104">In the admin center, go to the **Billing**  >  [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="5f7f6-105">[**製品とサービス**] ページで、[**アプリ**] タブを選択します。</span><span class="sxs-lookup"><span data-stu-id="5f7f6-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="13978-105">[**製品とサービス**] ページで、[**アプリ**] タブを選択します。</span><span class="sxs-lookup"><span data-stu-id="13978-105">On the **Products & Services** page, select the **Apps** tab.</span></span>

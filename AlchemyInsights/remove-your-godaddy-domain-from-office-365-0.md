@@ -18,7 +18,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/10/2019
 ms.locfileid: "36822023"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="cdbf8-102">Office 365 から GoDaddy ドメインを削除する</span><span class="sxs-lookup"><span data-stu-id="cdbf8-102">Remove your GoDaddy domain from Office 365</span></span>
+# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="8b2b7-102">Office 365 から GoDaddy ドメインを削除する</span><span class="sxs-lookup"><span data-stu-id="8b2b7-102">Remove your GoDaddy domain from Office 365</span></span>
 
-<span data-ttu-id="cdbf8-p101">Microsoft では、GoDaddy ドメインを Office 365 から削除することはできません。[GoDaddy のカスタマー サービス](https://aka.ms/contact-godaddy) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="cdbf8-p101">We can't remove your GoDaddy domain from Office 365 for you. Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="8b2b7-p101">Microsoft では、GoDaddy ドメインを Office 365 から削除することはできません。[GoDaddy のカスタマー サービス](https://aka.ms/contact-godaddy) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="8b2b7-p101">We can't remove your GoDaddy domain from Office 365 for you. Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   

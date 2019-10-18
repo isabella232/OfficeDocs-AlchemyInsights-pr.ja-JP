@@ -19,12 +19,12 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36529434"
 ---
-# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="b10ff-102">重複するオブジェクトの同期エラー</span><span class="sxs-lookup"><span data-stu-id="b10ff-102">Duplicate object synchronization errors</span></span>
+# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="c5cb6-102">重複するオブジェクトの同期エラー</span><span class="sxs-lookup"><span data-stu-id="c5cb6-102">Duplicate object synchronization errors</span></span>
 
-<span data-ttu-id="b10ff-103">同期中に次のいずれかのエラーを受け取った場合:</span><span class="sxs-lookup"><span data-stu-id="b10ff-103">If you receive one of the following errors during a synchronization:</span></span>
+<span data-ttu-id="c5cb6-103">同期中に次のいずれかのエラーを受け取った場合:</span><span class="sxs-lookup"><span data-stu-id="c5cb6-103">If you receive one of the following errors during a synchronization:</span></span>
 
-- <span data-ttu-id="b10ff-104">同じプロキシ アドレスを持つ同期済みオブジェクトが Microsoft Online Services ディレクトリ内に既に存在します。</span><span class="sxs-lookup"><span data-stu-id="b10ff-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="c5cb6-104">同じプロキシ アドレスを持つ同期済みオブジェクトが Microsoft Online Services ディレクトリ内に既に存在します。</span><span class="sxs-lookup"><span data-stu-id="c5cb6-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
 
-- <span data-ttu-id="b10ff-105">UserPrincipalName についての同様のメッセージ。</span><span class="sxs-lookup"><span data-stu-id="b10ff-105">A similar message for UserPrincipalName.</span></span>
+- <span data-ttu-id="c5cb6-105">UserPrincipalName についての同様のメッセージ。</span><span class="sxs-lookup"><span data-stu-id="c5cb6-105">A similar message for UserPrincipalName.</span></span>
 
-<span data-ttu-id="b10ff-p101">新しい AADConnect Health 診断を使用して、重複オブジェクト エラーを解決します。詳細については、「[重複属性同期エラーを診断して修正する](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b10ff-p101">Use the new AADConnect Health diagnostic to resolve duplicate object errors. For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
+<span data-ttu-id="c5cb6-p101">新しい AADConnect Health 診断を使用して、重複オブジェクト エラーを解決します。詳細については、「[重複属性同期エラーを診断して修正する](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c5cb6-p101">Use the new AADConnect Health diagnostic to resolve duplicate object errors. For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>

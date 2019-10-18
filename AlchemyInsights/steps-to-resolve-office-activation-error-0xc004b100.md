@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36534388"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="f0ed4-102">Office のライセンス認証エラー 0xc004b100 を解決する手順</span><span class="sxs-lookup"><span data-stu-id="f0ed4-102">Steps to resolve Office activation error 0xc004b100</span></span>
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="0b54c-102">Office のライセンス認証エラー 0xc004b100 を解決する手順</span><span class="sxs-lookup"><span data-stu-id="0b54c-102">Steps to resolve Office activation error 0xc004b100</span></span>
 
-<span data-ttu-id="f0ed4-103">Office のライセンス認証エラー 0xc004b100 の修正には、次の解決方法を試してみてください。</span><span class="sxs-lookup"><span data-stu-id="f0ed4-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
+<span data-ttu-id="0b54c-103">Office のライセンス認証エラー 0xc004b100 の修正には、次の解決方法を試してみてください。</span><span class="sxs-lookup"><span data-stu-id="0b54c-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
   
-1. <span data-ttu-id="f0ed4-104">[Office のオンライン修復](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)を実行します。</span><span class="sxs-lookup"><span data-stu-id="f0ed4-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+1. <span data-ttu-id="0b54c-104">[Office のオンライン修復](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)を実行します。</span><span class="sxs-lookup"><span data-stu-id="0b54c-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-2. <span data-ttu-id="f0ed4-105">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeActivation-Alchemy)をダウンロードしてインストールし、**ライセンス認証のトラブルシューティング ツール**を実行します。</span><span class="sxs-lookup"><span data-stu-id="f0ed4-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+2. <span data-ttu-id="0b54c-105">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeActivation-Alchemy)をダウンロードしてインストールし、**ライセンス認証のトラブルシューティング ツール**を実行します。</span><span class="sxs-lookup"><span data-stu-id="0b54c-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>

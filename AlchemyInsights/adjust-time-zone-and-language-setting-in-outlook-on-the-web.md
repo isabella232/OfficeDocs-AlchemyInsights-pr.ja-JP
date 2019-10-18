@@ -20,7 +20,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36499932"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="9c0b3-102">Outlook on the web でタイム ゾーンと言語の設定を調整する</span><span class="sxs-lookup"><span data-stu-id="9c0b3-102">Adjust time zone and language settings in Outlook on the web</span></span>
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="eeb21-102">Outlook on the web でタイム ゾーンと言語の設定を調整する</span><span class="sxs-lookup"><span data-stu-id="eeb21-102">Adjust time zone and language settings in Outlook on the web</span></span>
 
-<span data-ttu-id="9c0b3-103">Outlook on the web (Office 365 の職場または学校アカウントを使用してアクセスする) でタイム ゾーンと言語設定を調整するには、[Outlook on the web でのタイム ゾーンと言語設定の変更](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="9c0b3-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
+<span data-ttu-id="eeb21-103">Outlook on the web (Office 365 の職場または学校アカウントを使用してアクセスする) でタイム ゾーンと言語設定を調整するには、[Outlook on the web でのタイム ゾーンと言語設定の変更](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="eeb21-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
   

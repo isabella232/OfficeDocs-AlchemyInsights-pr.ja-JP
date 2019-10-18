@@ -17,7 +17,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/09/2019
 ms.locfileid: "36818467"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="f3c87-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="f3c87-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="78ccc-102">OneDrive の同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="78ccc-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="f3c87-103">OneDrive が期待どおりにファイルを同期しない場合は、[OneDrive の同期の問題をトラブルシューティング](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)できます。</span><span class="sxs-lookup"><span data-stu-id="f3c87-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).</span></span>
+<span data-ttu-id="78ccc-103">OneDrive が期待どおりにファイルを同期しない場合は、[OneDrive の同期の問題をトラブルシューティング](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)できます。</span><span class="sxs-lookup"><span data-stu-id="78ccc-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).</span></span>
   

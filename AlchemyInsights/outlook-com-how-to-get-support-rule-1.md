@@ -16,9 +16,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36536361"
 ---
-# <a name="how-to-get-outlookcom-support"></a><span data-ttu-id="86b4f-102">Outlook.com のサポートを受ける方法</span><span class="sxs-lookup"><span data-stu-id="86b4f-102">How to get Outlook.com support</span></span>
+# <a name="how-to-get-outlookcom-support"></a><span data-ttu-id="01e88-102">Outlook.com のサポートを受ける方法</span><span class="sxs-lookup"><span data-stu-id="01e88-102">How to get Outlook.com support</span></span>
 
-<span data-ttu-id="86b4f-103">こんにちは。</span><span class="sxs-lookup"><span data-stu-id="86b4f-103">Hi!</span></span>
-<span data-ttu-id="86b4f-104">私はチャットボットではありませんが、お手伝いさせていただきます。</span><span class="sxs-lookup"><span data-stu-id="86b4f-104">I'm not a chat bot, but I will try to help you.</span></span>
+<span data-ttu-id="01e88-103">こんにちは。</span><span class="sxs-lookup"><span data-stu-id="01e88-103">Hi!</span></span>
+<span data-ttu-id="01e88-104">私はチャットボットではありませんが、お手伝いさせていただきます。</span><span class="sxs-lookup"><span data-stu-id="01e88-104">I'm not a chat bot, but I will try to help you.</span></span>
 
 

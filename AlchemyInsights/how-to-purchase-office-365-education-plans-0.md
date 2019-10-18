@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36390949"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="47619-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="47619-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="e7bf6-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="e7bf6-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="47619-p101">お客様の Office 365 Education の利用資格を現在確認中です。試用版の有効期限が切れる前に、利用資格に関する判断の通知をお送りします。</span><span class="sxs-lookup"><span data-stu-id="47619-p101">Your Office 365 Education qualification is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="e7bf6-p101">お客様の Office 365 Education の利用資格を現在確認中です。試用版の有効期限が切れる前に、利用資格に関する判断の通知をお送りします。</span><span class="sxs-lookup"><span data-stu-id="e7bf6-p101">Your Office 365 Education qualification is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>

@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36390697"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="db3a8-102">Office 365 Business の比較</span><span class="sxs-lookup"><span data-stu-id="db3a8-102">Compare Office 365 for Business</span></span>
+# <a name="compare-office-365-for-business"></a><span data-ttu-id="9feba-102">Office 365 Business の比較</span><span class="sxs-lookup"><span data-stu-id="9feba-102">Compare Office 365 for Business</span></span>
 
-<span data-ttu-id="db3a8-p101">Office 365 Business には 3 種類のプランがあります。[Office 365 Business のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。</span><span class="sxs-lookup"><span data-stu-id="db3a8-p101">There are three different plans available with Office 365 for Business. [Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="9feba-p101">Office 365 Business には 3 種類のプランがあります。[Office 365 Business のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。</span><span class="sxs-lookup"><span data-stu-id="9feba-p101">There are three different plans available with Office 365 for Business. [Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  

@@ -15,10 +15,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36530812"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="5863a-102">グループの一覧に自分のグループ {AimKIObject} が表示されない</span><span class="sxs-lookup"><span data-stu-id="5863a-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="0e5f2-102">グループの一覧に自分のグループ {AimKIObject} が表示されない</span><span class="sxs-lookup"><span data-stu-id="0e5f2-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
 
-<span data-ttu-id="5863a-p101">{AimKIObject} という名前の配布グループが {AimKITimeElapsed} 分前に作成されました。新しいグループが管理センターに表示されるまで最大 60 分かかる場合があります。</span><span class="sxs-lookup"><span data-stu-id="5863a-p101">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago. It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
+<span data-ttu-id="0e5f2-p101">{AimKIObject} という名前の配布グループが {AimKITimeElapsed} 分前に作成されました。新しいグループが管理センターに表示されるまで最大 60 分かかる場合があります。</span><span class="sxs-lookup"><span data-stu-id="0e5f2-p101">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago. It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
   
-<span data-ttu-id="5863a-105">今すぐメンバーの追加やその他の編集を行う場合は、[Exchange 管理センター](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)の [グループ] 機能を使用してください。</span><span class="sxs-lookup"><span data-stu-id="5863a-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="0e5f2-105">今すぐメンバーの追加やその他の編集を行う場合は、[Exchange 管理センター](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)の [グループ] 機能を使用してください。</span><span class="sxs-lookup"><span data-stu-id="0e5f2-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

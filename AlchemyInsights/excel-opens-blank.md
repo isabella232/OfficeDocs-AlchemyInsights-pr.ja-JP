@@ -18,6 +18,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36397243"
 ---
-# <a name="excel-opens-blank"></a><span data-ttu-id="ee332-102">Excel で空の画面が開かれる</span><span class="sxs-lookup"><span data-stu-id="ee332-102">Excel opens blank</span></span>
+# <a name="excel-opens-blank"></a><span data-ttu-id="afc20-102">Excel で空の画面が開かれる</span><span class="sxs-lookup"><span data-stu-id="afc20-102">Excel opens blank</span></span>
 
-<span data-ttu-id="ee332-103">Excel が起動しても、ファイルが表示されずに空の画面が表示される場合は、「[ファイル アイコンまたはファイル名をダブルクリックしたときに Excel で空の画面が表示される問題をトラブルシューティングする](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ee332-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
+<span data-ttu-id="afc20-103">Excel が起動しても、ファイルが表示されずに空の画面が表示される場合は、「[ファイル アイコンまたはファイル名をダブルクリックしたときに Excel で空の画面が表示される問題をトラブルシューティングする](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="afc20-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>

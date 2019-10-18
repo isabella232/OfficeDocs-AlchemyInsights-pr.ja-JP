@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36497844"
 ---
-# <a name="delays-in-email-message-delivery"></a><span data-ttu-id="1c947-102">メール メッセージ配信の遅延</span><span class="sxs-lookup"><span data-stu-id="1c947-102">Delays in email message delivery</span></span>
+# <a name="delays-in-email-message-delivery"></a><span data-ttu-id="227c1-102">メール メッセージ配信の遅延</span><span class="sxs-lookup"><span data-stu-id="227c1-102">Delays in email message delivery</span></span>
 
-<span data-ttu-id="1c947-p101">メール フローに問題がある可能性があります。メール フローに関する数多くの一般的な問題を特定するための診断ツールを提供しています。下の [**診断の実行**] をクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="1c947-p101">It looks like you have a mail flow issue. We have diagnostics that will help identify many common mail flow problems. Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="227c1-p101">メール フローに問題がある可能性があります。メール フローに関する数多くの一般的な問題を特定するための診断ツールを提供しています。下の [**診断の実行**] をクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="227c1-p101">It looks like you have a mail flow issue. We have diagnostics that will help identify many common mail flow problems. Click **Run Diagnostics** below.</span></span>

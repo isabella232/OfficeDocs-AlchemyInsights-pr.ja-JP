@@ -20,12 +20,12 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36554726"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="21467-102">PowerApps と Microsoft Flow のプランの延長</span><span class="sxs-lookup"><span data-stu-id="21467-102">PowerApps and Microsoft Flow plan extension</span></span>
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="f8586-102">PowerApps と Microsoft Flow のプランの延長</span><span class="sxs-lookup"><span data-stu-id="f8586-102">PowerApps and Microsoft Flow plan extension</span></span>
 
-<span data-ttu-id="21467-103">**Microsoft Flow** または **PowerApps** のプランの延長を要求しようとし、テナントに既に次のいずれかの機能に関してアクティブなユーザーがいる場合は、サポート リクエストを提出する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="21467-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
+<span data-ttu-id="f8586-103">**Microsoft Flow** または **PowerApps** のプランの延長を要求しようとし、テナントに既に次のいずれかの機能に関してアクティブなユーザーがいる場合は、サポート リクエストを提出する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="f8586-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
 
-- <span data-ttu-id="21467-104">PowerApps と Microsoft Flow でのカスタム コネクタの作成と発行</span><span class="sxs-lookup"><span data-stu-id="21467-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
-- <span data-ttu-id="21467-105">SharePoint および OneDrive 以外で Flow に統合された HTTP カスタム アクション</span><span class="sxs-lookup"><span data-stu-id="21467-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
-- <span data-ttu-id="21467-106">オンプレミス データ ゲートウェイ経由のオンプレミス データの統合</span><span class="sxs-lookup"><span data-stu-id="21467-106">Integration of on-premises data through the on-premises  data gateway</span></span>
+- <span data-ttu-id="f8586-104">PowerApps と Microsoft Flow でのカスタム コネクタの作成と発行</span><span class="sxs-lookup"><span data-stu-id="f8586-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
+- <span data-ttu-id="f8586-105">SharePoint および OneDrive 以外で Flow に統合された HTTP カスタム アクション</span><span class="sxs-lookup"><span data-stu-id="f8586-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
+- <span data-ttu-id="f8586-106">オンプレミス データ ゲートウェイ経由のオンプレミス データの統合</span><span class="sxs-lookup"><span data-stu-id="f8586-106">Integration of on-premises data through the on-premises  data gateway</span></span>
 
-<span data-ttu-id="21467-107">これらの機能に関してアクティブなユーザーをお持ちのお客様は、2020 年 1 月 31 日または、既存の Office 365 サブスクリプション期間の有効期限のいずれか長い方まで、自動延長されます。</span><span class="sxs-lookup"><span data-stu-id="21467-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>
+<span data-ttu-id="f8586-107">これらの機能に関してアクティブなユーザーをお持ちのお客様は、2020 年 1 月 31 日または、既存の Office 365 サブスクリプション期間の有効期限のいずれか長い方まで、自動延長されます。</span><span class="sxs-lookup"><span data-stu-id="f8586-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>

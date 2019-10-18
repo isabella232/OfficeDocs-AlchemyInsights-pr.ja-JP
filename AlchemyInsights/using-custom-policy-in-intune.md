@@ -19,18 +19,18 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36531760"
 ---
-# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="711a0-102">Intune でカスタム ポリシーを使用する</span><span class="sxs-lookup"><span data-stu-id="711a0-102">Using custom policy in Intune</span></span>
+# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="c5a1f-102">Intune でカスタム ポリシーを使用する</span><span class="sxs-lookup"><span data-stu-id="c5a1f-102">Using custom policy in Intune</span></span>
 
-<span data-ttu-id="711a0-103">Intune には、Android、iOS、macOS および Windows のデバイスに対応する多数の設定が組み込まれています。</span><span class="sxs-lookup"><span data-stu-id="711a0-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="711a0-104">また、それらのカスタム設定は、カスタム プロファイルを作成してから Intune を使用してデバイスに展開することもできます。</span><span class="sxs-lookup"><span data-stu-id="711a0-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="711a0-105">カスタム プロファイルは、Intune に組み込まれていないデバイス設定や機能を追加するためのものです。</span><span class="sxs-lookup"><span data-stu-id="711a0-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
+<span data-ttu-id="c5a1f-103">Intune には、Android、iOS、macOS および Windows のデバイスに対応する多数の設定が組み込まれています。</span><span class="sxs-lookup"><span data-stu-id="c5a1f-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="c5a1f-104">また、それらのカスタム設定は、カスタム プロファイルを作成してから Intune を使用してデバイスに展開することもできます。</span><span class="sxs-lookup"><span data-stu-id="c5a1f-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="c5a1f-105">カスタム プロファイルは、Intune に組み込まれていないデバイス設定や機能を追加するためのものです。</span><span class="sxs-lookup"><span data-stu-id="c5a1f-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
 
-[<span data-ttu-id="711a0-106">Intune の Android デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
+[<span data-ttu-id="c5a1f-106">Intune の Android デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
 
-[<span data-ttu-id="711a0-107">Intune の Android Enterprise デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[<span data-ttu-id="c5a1f-107">Intune の Android Enterprise デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[<span data-ttu-id="711a0-108">Intune の iOS デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
+[<span data-ttu-id="c5a1f-108">Intune の iOS デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[<span data-ttu-id="711a0-109">Intune の macOS デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
+[<span data-ttu-id="c5a1f-109">Intune の macOS デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[<span data-ttu-id="711a0-110">Intune の Windows 10 デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[<span data-ttu-id="c5a1f-110">Intune の Windows 10 デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[<span data-ttu-id="711a0-111">Intune の Windows Holographic for Business デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="711a0-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[<span data-ttu-id="c5a1f-111">Intune の Windows Holographic for Business デバイス用カスタム設定</span><span class="sxs-lookup"><span data-stu-id="c5a1f-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

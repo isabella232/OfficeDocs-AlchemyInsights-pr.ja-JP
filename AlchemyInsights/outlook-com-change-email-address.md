@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36547784"
 ---
-# <a name="change-your-email-address"></a><span data-ttu-id="fbb9b-102">メール アドレスを変更する</span><span class="sxs-lookup"><span data-stu-id="fbb9b-102">Change your email address</span></span>
+# <a name="change-your-email-address"></a><span data-ttu-id="869ed-102">メール アドレスを変更する</span><span class="sxs-lookup"><span data-stu-id="869ed-102">Change your email address</span></span>
 
-<span data-ttu-id="fbb9b-103">Outlook.com のメール アドレスを変更するには、別のアドレスを追加して、それをプライマリ メール エイリアスにする必要があります。</span><span class="sxs-lookup"><span data-stu-id="fbb9b-103">To change your email address, you'll need to add another one and make it your  primary email alias  .</span></span>
+<span data-ttu-id="869ed-103">Outlook.com のメール アドレスを変更するには、別のアドレスを追加して、それをプライマリ メール エイリアスにする必要があります。</span><span class="sxs-lookup"><span data-stu-id="869ed-103">To change your email address, you'll need to add another one and make it your  primary email alias  .</span></span>
   
-<span data-ttu-id="fbb9b-104">「[Outlook.com でメール エイリアスを追加または削除する](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)」の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="fbb9b-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="869ed-104">「[Outlook.com でメール エイリアスを追加または削除する](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)」の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="869ed-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

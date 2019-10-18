@@ -21,12 +21,12 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36390913"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="8e079-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="8e079-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="3af04-102">Office 365 Education のプランの購入方法</span><span class="sxs-lookup"><span data-stu-id="3af04-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="8e079-p101">Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="8e079-p101">You have been approved for Office 365 Education. To purchase:</span></span>
+<span data-ttu-id="3af04-p101">Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="3af04-p101">You have been approved for Office 365 Education. To purchase:</span></span>
   
-1. <span data-ttu-id="8e079-105">管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="8e079-105">In the Admin center, go to the **Purchase Services** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) Purchase Services.</span></span>
+1. <span data-ttu-id="3af04-105">管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="3af04-105">In the Admin center, go to the **Purchase Services** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) Purchase Services.</span></span>
 
-2. <span data-ttu-id="8e079-106">**[教育機関向けプラン]** の下のリストからプランを選択します。</span><span class="sxs-lookup"><span data-stu-id="8e079-106">Choose from the list under **Education Plans**.</span></span>
+2. <span data-ttu-id="3af04-106">**[教育機関向けプラン]** の下のリストからプランを選択します。</span><span class="sxs-lookup"><span data-stu-id="3af04-106">Choose from the list under **Education Plans**.</span></span>
 
-3. <span data-ttu-id="8e079-107">購入するサブスクリプションをポイントして、**[今すぐ購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="8e079-107">Hover over the subscription you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="3af04-107">購入するサブスクリプションをポイントして、**[今すぐ購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="3af04-107">Hover over the subscription you want to purchase, and choose **Buy Now**.</span></span>

@@ -18,11 +18,11 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36504828"
 ---
-# <a name="search-and-hybrid"></a><span data-ttu-id="e59b0-102">検索とハイブリッド</span><span class="sxs-lookup"><span data-stu-id="e59b0-102">Search and hybrid</span></span>
+# <a name="search-and-hybrid"></a><span data-ttu-id="57f62-102">検索とハイブリッド</span><span class="sxs-lookup"><span data-stu-id="57f62-102">Search and hybrid</span></span>
 
-- <span data-ttu-id="e59b0-103">SharePoint Online のハイブリッド フェデレーション検索に関する情報が必要ですか。</span><span class="sxs-lookup"><span data-stu-id="e59b0-103">Do you need information about hybrid and federated search in SharePoint Online?</span></span> <span data-ttu-id="e59b0-104">その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e59b0-104">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+- <span data-ttu-id="57f62-103">SharePoint Online のハイブリッド フェデレーション検索に関する情報が必要ですか。</span><span class="sxs-lookup"><span data-stu-id="57f62-103">Do you need information about hybrid and federated search in SharePoint Online?</span></span> <span data-ttu-id="57f62-104">その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="57f62-104">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-- <span data-ttu-id="e59b0-105">ハイブリッド フェデレーション検索の計画に関する情報が必要ですか。</span><span class="sxs-lookup"><span data-stu-id="e59b0-105">Do you need information about planning a hybrid federated search?</span></span>  <span data-ttu-id="e59b0-106">その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e59b0-106">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+- <span data-ttu-id="57f62-105">ハイブリッド フェデレーション検索の計画に関する情報が必要ですか。</span><span class="sxs-lookup"><span data-stu-id="57f62-105">Do you need information about planning a hybrid federated search?</span></span>  <span data-ttu-id="57f62-106">その場合は、[こちらの記事](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="57f62-106">If so, see [this article](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
 
 
 

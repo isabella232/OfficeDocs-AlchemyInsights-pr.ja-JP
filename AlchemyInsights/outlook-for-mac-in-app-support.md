@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/18/2019
 ms.locfileid: "37035760"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="fcf0e-102">Outlook for Mac でのアプリ内サポート</span><span class="sxs-lookup"><span data-stu-id="fcf0e-102">In-app support in Outlook for Mac</span></span>
+# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="916a9-102">Outlook for Mac でのアプリ内サポート</span><span class="sxs-lookup"><span data-stu-id="916a9-102">In-app support in Outlook for Mac</span></span>
 
-<span data-ttu-id="fcf0e-p101">Outlook for Mac の問題に対するサポートをアプリ内で受ける場合は、Outlook を開き、 **[ヘルプ]** \> **[サポートへの問い合わせ]** の順にクリックします。質問を入力すると、Outlook for Mac のサポート チームのメンバーが連絡を差し上げます。</span><span class="sxs-lookup"><span data-stu-id="fcf0e-p101">To receive support in-app for Outlook for Mac issues, open Outlook and click Help  Contact Support. Type your question, and a member of the Outlook for Mac support team will get in touch with you. Contact support in Outlook for Mac</span></span> 
+<span data-ttu-id="916a9-p101">Outlook for Mac の問題に対するサポートをアプリ内で受ける場合は、Outlook を開き、 **[ヘルプ]** \> **[サポートへの問い合わせ]** の順にクリックします。質問を入力すると、Outlook for Mac のサポート チームのメンバーが連絡を差し上げます。</span><span class="sxs-lookup"><span data-stu-id="916a9-p101">To receive support in-app for Outlook for Mac issues, open Outlook and click Help  Contact Support. Type your question, and a member of the Outlook for Mac support team will get in touch with you. Contact support in Outlook for Mac</span></span> 
 
-<span data-ttu-id="fcf0e-105">詳細情報: [Outlook for Mac でサポートに問い合わせる](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span><span class="sxs-lookup"><span data-stu-id="fcf0e-105">Learn more: [Contact support within Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span></span>
+<span data-ttu-id="916a9-105">詳細情報: [Outlook for Mac でサポートに問い合わせる](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span><span class="sxs-lookup"><span data-stu-id="916a9-105">Learn more: [Contact support within Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span></span>

@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36386517"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="88439-102">与信審査状態の要求</span><span class="sxs-lookup"><span data-stu-id="88439-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="13855-102">与信審査状態の要求</span><span class="sxs-lookup"><span data-stu-id="13855-102">Credit check status request</span></span>
 
-<span data-ttu-id="88439-p101">与信の審査のため、注文は保留されています。これは通常 24 時間以内に完了しますが、最大 48 時間かかることがあります。完了すると、サブスクリプション ステータスが保留からアクティブに変更され、サービスが利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="88439-p101">Your order is pending credit verification. This is normally completed in under 24 hours, but can take up to 48 hours. When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="13855-p101">与信の審査のため、注文は保留されています。これは通常 24 時間以内に完了しますが、最大 48 時間かかることがあります。完了すると、サブスクリプション ステータスが保留からアクティブに変更され、サービスが利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="13855-p101">Your order is pending credit verification. This is normally completed in under 24 hours, but can take up to 48 hours. When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>

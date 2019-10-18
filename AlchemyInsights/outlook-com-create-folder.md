@@ -20,9 +20,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36536944"
 ---
-# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="ac42a-102">Outlook.com でフォルダーを作成する</span><span class="sxs-lookup"><span data-stu-id="ac42a-102">8000009 Create a folder in Outlook.com</span></span>
+# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="39206-102">Outlook.com でフォルダーを作成する</span><span class="sxs-lookup"><span data-stu-id="39206-102">8000009 Create a folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="ac42a-103">フォルダー ウィンドウの一番下にある **[新しいフォルダー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="ac42a-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="ac42a-104">**[新しいフォルダー]** ボタンを表示するために、フォルダー ウィンドウを下にスクロールする必要がある場合があります。</span><span class="sxs-lookup"><span data-stu-id="ac42a-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-2. <span data-ttu-id="ac42a-105">テキスト ボックスにフォルダーの名前を入力し、Enter キーを押します。</span><span class="sxs-lookup"><span data-stu-id="ac42a-105">In the new folder box, enter a name for the folder and press Enter.</span></span>
+1. <span data-ttu-id="39206-103">フォルダー ウィンドウの一番下にある **[新しいフォルダー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="39206-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="39206-104">**[新しいフォルダー]** ボタンを表示するために、フォルダー ウィンドウを下にスクロールする必要がある場合があります。</span><span class="sxs-lookup"><span data-stu-id="39206-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+2. <span data-ttu-id="39206-105">テキスト ボックスにフォルダーの名前を入力し、Enter キーを押します。</span><span class="sxs-lookup"><span data-stu-id="39206-105">In the new folder box, enter a name for the folder and press Enter.</span></span>
 
-<span data-ttu-id="ac42a-106">詳細については、「[Outlook.com でフォルダーを作成する](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="ac42a-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="39206-106">詳細については、「[Outlook.com でフォルダーを作成する](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="39206-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

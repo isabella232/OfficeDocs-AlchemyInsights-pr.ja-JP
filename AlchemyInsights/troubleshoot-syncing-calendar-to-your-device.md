@@ -19,7 +19,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36665801"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="31c26-102">予定表とデバイスの同期の問題をトラブルシューティングする</span><span class="sxs-lookup"><span data-stu-id="31c26-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="21f44-102">予定表とデバイスの同期の問題をトラブルシューティングする</span><span class="sxs-lookup"><span data-stu-id="21f44-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="31c26-103">初回のモバイル メールの設定時に同期の問題が発生する場合は、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="31c26-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="21f44-103">初回のモバイル メールの設定時に同期の問題が発生する場合は、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="21f44-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   

@@ -18,6 +18,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36545948"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a><span data-ttu-id="62bc4-102">すべての添付ファイルをプレビューできない</span><span class="sxs-lookup"><span data-stu-id="62bc4-102">Can't preview all of an attachment</span></span>
+# <a name="cant-preview-all-of-an-attachment"></a><span data-ttu-id="22e61-102">すべての添付ファイルをプレビューできない</span><span class="sxs-lookup"><span data-stu-id="22e61-102">Can't preview all of an attachment</span></span>
 
-<span data-ttu-id="62bc4-103">一部のお客様で、すべての添付ファイルをプレビューできない問題が確認されています。</span><span class="sxs-lookup"><span data-stu-id="62bc4-103">We're aware of an issue where some customers can't preview all of an attachment.</span></span> <span data-ttu-id="62bc4-104">回避策として、新しいウィンドウで添付ファイルを開いてください。</span><span class="sxs-lookup"><span data-stu-id="62bc4-104">As a workaround, please open the attachment in a new window.</span></span>
+<span data-ttu-id="22e61-103">一部のお客様で、すべての添付ファイルをプレビューできない問題が確認されています。</span><span class="sxs-lookup"><span data-stu-id="22e61-103">We're aware of an issue where some customers can't preview all of an attachment.</span></span> <span data-ttu-id="22e61-104">回避策として、新しいウィンドウで添付ファイルを開いてください。</span><span class="sxs-lookup"><span data-stu-id="22e61-104">As a workaround, please open the attachment in a new window.</span></span>

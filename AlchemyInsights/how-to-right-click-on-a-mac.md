@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36539970"
 ---
-# <a name="how-to-right-click-on-a-mac"></a><span data-ttu-id="698b9-102">Mac で右クリックする方法</span><span class="sxs-lookup"><span data-stu-id="698b9-102">How to right-click on a Mac</span></span>
+# <a name="how-to-right-click-on-a-mac"></a><span data-ttu-id="3434e-102">Mac で右クリックする方法</span><span class="sxs-lookup"><span data-stu-id="3434e-102">How to right-click on a Mac</span></span>
 
-<span data-ttu-id="698b9-p101">Mac コンピューターでは、右クリックは副ボタンのクリックや control キーを押しながらクリックすることとして知られています。マウス、トラックパッド、その他の入力デバイスに右クリック ボタンや、右クリックを実行するその他の手段が装備されていない場合は、キーボードの **control** キーを押しながらクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="698b9-p101">On Mac computers, right-click is known as secondary click or Control click. If your mouse, trackpad, or other input device doesn't include a right-click button or other way to perform a right-click, hold down the **Control key** on your keyboard while you click.</span></span>
+<span data-ttu-id="3434e-p101">Mac コンピューターでは、右クリックは副ボタンのクリックや control キーを押しながらクリックすることとして知られています。マウス、トラックパッド、その他の入力デバイスに右クリック ボタンや、右クリックを実行するその他の手段が装備されていない場合は、キーボードの **control** キーを押しながらクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="3434e-p101">On Mac computers, right-click is known as secondary click or Control click. If your mouse, trackpad, or other input device doesn't include a right-click button or other way to perform a right-click, hold down the **Control key** on your keyboard while you click.</span></span>
   
-<span data-ttu-id="698b9-105">詳細については、[Apple サポート](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)のページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="698b9-105">For more information, go to [Apple support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).</span></span>
+<span data-ttu-id="3434e-105">詳細については、[Apple サポート](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)のページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="3434e-105">For more information, go to [Apple support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).</span></span>
   

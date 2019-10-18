@@ -19,11 +19,11 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36517648"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="59ad2-102">ファイルを添付する方法</span><span class="sxs-lookup"><span data-stu-id="59ad2-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="3a6b7-102">ファイルを添付する方法</span><span class="sxs-lookup"><span data-stu-id="3a6b7-102">How to attach files</span></span>
 
-1. <span data-ttu-id="59ad2-103">新しいメッセージを作成するか、メッセージに返信します。</span><span class="sxs-lookup"><span data-stu-id="59ad2-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="3a6b7-103">新しいメッセージを作成するか、メッセージに返信します。</span><span class="sxs-lookup"><span data-stu-id="3a6b7-103">Compose a new message or reply to a message.</span></span>
 
-2. <span data-ttu-id="59ad2-104">[作成] ウィンドウの下部にあるクリップのアイコンを選択します。</span><span class="sxs-lookup"><span data-stu-id="59ad2-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="3a6b7-104">[作成] ウィンドウの下部にあるクリップのアイコンを選択します。</span><span class="sxs-lookup"><span data-stu-id="3a6b7-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
 
-<span data-ttu-id="59ad2-105">詳細については、「[Outlook.com でファイルを添付する](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="59ad2-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="3a6b7-105">詳細については、「[Outlook.com でファイルを添付する](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3a6b7-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   

@@ -18,6 +18,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/07/2019
 ms.locfileid: "36249511"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="724b2-102">Excel ブックを保存する際のエラーをトラブルシューティングする方法</span><span class="sxs-lookup"><span data-stu-id="724b2-102">How to troubleshoot errors when you save Excel workbooks</span></span>
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="67918-102">Excel ブックを保存する際のエラーをトラブルシューティングする方法</span><span class="sxs-lookup"><span data-stu-id="67918-102">How to troubleshoot errors when you save Excel workbooks</span></span>
 
-<span data-ttu-id="724b2-103">Excel でブックの保存に問題がある場合は、「[Excel ブックを保存する際のエラーをトラブルシューティングする方法](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="724b2-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>
+<span data-ttu-id="67918-103">Excel でブックの保存に問題がある場合は、「[Excel ブックを保存する際のエラーをトラブルシューティングする方法](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="67918-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>

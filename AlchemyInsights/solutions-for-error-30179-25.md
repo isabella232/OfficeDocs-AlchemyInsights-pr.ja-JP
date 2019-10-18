@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36501588"
 ---
-# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="abb72-102">エラー 30179-25 の解決方法</span><span class="sxs-lookup"><span data-stu-id="abb72-102">Solutions for error 30179-25</span></span>
+# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="e19b5-102">エラー 30179-25 の解決方法</span><span class="sxs-lookup"><span data-stu-id="e19b5-102">Solutions for error 30179-25</span></span>
 
-<span data-ttu-id="abb72-103">ハード ドライブの容量が足りない場合、"Office をダウンロードできません" というメッセージと共にエラーが表示されることがあります (エラー コード [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA))。</span><span class="sxs-lookup"><span data-stu-id="abb72-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
+<span data-ttu-id="e19b5-103">ハード ドライブの容量が足りない場合、"Office をダウンロードできません" というメッセージと共にエラーが表示されることがあります (エラー コード [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA))。</span><span class="sxs-lookup"><span data-stu-id="e19b5-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
   
-<span data-ttu-id="abb72-104">[ハード ドライブに空き容量を作り](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space)、[Office を再インストールしてください](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="abb72-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+<span data-ttu-id="e19b5-104">[ハード ドライブに空き容量を作り](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space)、[Office を再インストールしてください](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e19b5-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
   

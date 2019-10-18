@@ -21,6 +21,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36518620"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="da8d9-102">メールを作成する場合に連絡先を選択できない</span><span class="sxs-lookup"><span data-stu-id="da8d9-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="bcd7e-102">メールを作成する場合に連絡先を選択できない</span><span class="sxs-lookup"><span data-stu-id="bcd7e-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="da8d9-p101">新しいメールを作成するときに、[**宛先**] または [**CC**] ボタンをクリックすると、一部のお客様は自分の連絡先のリストを表示することができません。連絡先を選択するには、[**宛先**] または [**CC**] フィールドで入力を始めると、関連する連絡先が表示されます。</span><span class="sxs-lookup"><span data-stu-id="da8d9-p101">When composing a new email and clicking the **To** or **Cc** buttons, some customers might not see their list of contacts. To select names, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="bcd7e-p101">新しいメールを作成するときに、[**宛先**] または [**CC**] ボタンをクリックすると、一部のお客様は自分の連絡先のリストを表示することができません。連絡先を選択するには、[**宛先**] または [**CC**] フィールドで入力を始めると、関連する連絡先が表示されます。</span><span class="sxs-lookup"><span data-stu-id="bcd7e-p101">When composing a new email and clicking the **To** or **Cc** buttons, some customers might not see their list of contacts. To select names, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>

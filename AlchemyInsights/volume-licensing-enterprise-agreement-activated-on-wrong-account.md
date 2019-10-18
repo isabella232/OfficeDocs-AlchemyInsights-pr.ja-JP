@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36387499"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="2fa17-102">ボリューム ライセンス エンタープライズ契約が誤ったアカウントでライセンス認証されている</span><span class="sxs-lookup"><span data-stu-id="2fa17-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="71bfb-102">ボリューム ライセンス エンタープライズ契約が誤ったアカウントでライセンス認証されている</span><span class="sxs-lookup"><span data-stu-id="71bfb-102">Volume licensing enterprise agreement activated on wrong account</span></span>
 
-<span data-ttu-id="2fa17-103">ボリューム ライセンス エンタープライズ契約を通して購入したサブスクリプションが誤ったテナント上でライセンス認証されていることがわかった場合は、"電話でのサポートを希望" オプションを使用してサポート エンジニアに連絡してください。</span><span class="sxs-lookup"><span data-stu-id="2fa17-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="71bfb-103">ボリューム ライセンス エンタープライズ契約を通して購入したサブスクリプションが誤ったテナント上でライセンス認証されていることがわかった場合は、"電話でのサポートを希望" オプションを使用してサポート エンジニアに連絡してください。</span><span class="sxs-lookup"><span data-stu-id="71bfb-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>

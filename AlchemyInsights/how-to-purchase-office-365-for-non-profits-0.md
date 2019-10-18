@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36390085"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="d4bbd-102">非営利団体向け Office 365 の購入方法</span><span class="sxs-lookup"><span data-stu-id="d4bbd-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="ea66d-102">非営利団体向け Office 365 の購入方法</span><span class="sxs-lookup"><span data-stu-id="ea66d-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="d4bbd-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="d4bbd-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="ea66d-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="ea66d-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="d4bbd-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4bbd-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="ea66d-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ea66d-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

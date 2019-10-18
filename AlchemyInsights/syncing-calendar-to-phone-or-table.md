@@ -17,8 +17,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36559594"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a><span data-ttu-id="65d0a-102">Outlook カレンダーとデバイスの同期に関する問題</span><span class="sxs-lookup"><span data-stu-id="65d0a-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a><span data-ttu-id="36931-102">Outlook カレンダーとデバイスの同期に関する問題</span><span class="sxs-lookup"><span data-stu-id="36931-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="65d0a-103">予定表とデバイスを同期できない問題を解決するには、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="65d0a-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
+<span data-ttu-id="36931-103">予定表とデバイスを同期できない問題を解決するには、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="36931-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
   
 

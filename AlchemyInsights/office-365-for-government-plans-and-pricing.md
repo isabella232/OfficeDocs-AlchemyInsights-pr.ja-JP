@@ -20,10 +20,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36522124"
 ---
-# <a name="office-365-government-plans"></a><span data-ttu-id="16c48-102">Office 365 Government プラン</span><span class="sxs-lookup"><span data-stu-id="16c48-102">Office 365 for Government plans and pricing</span></span>
+# <a name="office-365-government-plans"></a><span data-ttu-id="9250b-102">Office 365 Government プラン</span><span class="sxs-lookup"><span data-stu-id="9250b-102">Office 365 for Government plans and pricing</span></span>
 
-<span data-ttu-id="16c48-p101">Office 365 米国政府機関向けプランは、U.S. 米国政府機関の固有のニーズのために設計されています。このプランでは、組織が米国のコンプライアンスとセキュリティの基準を満たすことができるセグメント化された Government Cloud Community で、Office 365 サービスのすべての機能が提供されます。</span><span class="sxs-lookup"><span data-stu-id="16c48-p101">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations. They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+<span data-ttu-id="9250b-p101">Office 365 米国政府機関向けプランは、U.S. 米国政府機関の固有のニーズのために設計されています。このプランでは、組織が米国のコンプライアンスとセキュリティの基準を満たすことができるセグメント化された Government Cloud Community で、Office 365 サービスのすべての機能が提供されます。</span><span class="sxs-lookup"><span data-stu-id="9250b-p101">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations. They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
   
-- [<span data-ttu-id="16c48-105">政府機関向けプランを確認する</span><span class="sxs-lookup"><span data-stu-id="16c48-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+- [<span data-ttu-id="9250b-105">政府機関向けプランを確認する</span><span class="sxs-lookup"><span data-stu-id="9250b-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
 
-- [<span data-ttu-id="16c48-106">すべての Office 365 のプランを比較する</span><span class="sxs-lookup"><span data-stu-id="16c48-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="9250b-106">すべての Office 365 のプランを比較する</span><span class="sxs-lookup"><span data-stu-id="9250b-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

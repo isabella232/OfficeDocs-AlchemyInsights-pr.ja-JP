@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36546524"
 ---
-# <a name="long-running-script"></a><span data-ttu-id="ee94d-102">長時間実行されるスクリプト</span><span class="sxs-lookup"><span data-stu-id="ee94d-102">Long running script</span></span>
+# <a name="long-running-script"></a><span data-ttu-id="7dee1-102">長時間実行されるスクリプト</span><span class="sxs-lookup"><span data-stu-id="7dee1-102">Long running script</span></span>
 
-<span data-ttu-id="ee94d-p101">Outlook.com における長時間実行されるスクリプトの問題が報告されています。この問題を回避するには、Outlook.com のベータ版を使用してください。</span><span class="sxs-lookup"><span data-stu-id="ee94d-p101">We're aware of issues with "long running script" in Outlook.com. As a workaround, please use the Outlook.com beta.</span></span>
+<span data-ttu-id="7dee1-p101">Outlook.com における長時間実行されるスクリプトの問題が報告されています。この問題を回避するには、Outlook.com のベータ版を使用してください。</span><span class="sxs-lookup"><span data-stu-id="7dee1-p101">We're aware of issues with "long running script" in Outlook.com. As a workaround, please use the Outlook.com beta.</span></span>
   
-[<span data-ttu-id="ee94d-105">Outlook.com のベータ版に関する詳細をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="ee94d-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="7dee1-105">Outlook.com のベータ版に関する詳細をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="7dee1-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   

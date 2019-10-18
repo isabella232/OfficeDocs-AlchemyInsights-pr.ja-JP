@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/09/2019
 ms.locfileid: "36818719"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="0c74c-102">DNS レコードを更新する</span><span class="sxs-lookup"><span data-stu-id="0c74c-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="36180-102">DNS レコードを更新する</span><span class="sxs-lookup"><span data-stu-id="36180-102">Update DNS Records</span></span>
 
-<span data-ttu-id="0c74c-p101">DNS レコードの設定は、Office 365 サブスクリプションでカスタム ドメイン名を使用する場合に重要です。以下のリンクを使用して DNS レコードを追加または更新します。</span><span class="sxs-lookup"><span data-stu-id="0c74c-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="36180-p101">DNS レコードの設定は、Office 365 サブスクリプションでカスタム ドメイン名を使用する場合に重要です。以下のリンクを使用して DNS レコードを追加または更新します。</span><span class="sxs-lookup"><span data-stu-id="36180-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="0c74c-105">任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する</span><span class="sxs-lookup"><span data-stu-id="0c74c-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [<span data-ttu-id="0c74c-106">カスタムの DNS レコードを追加または編集する</span><span class="sxs-lookup"><span data-stu-id="0c74c-106">Add or edit custom DNS records</span></span>](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)
+- [<span data-ttu-id="36180-105">任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する</span><span class="sxs-lookup"><span data-stu-id="36180-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [<span data-ttu-id="36180-106">カスタムの DNS レコードを追加または編集する</span><span class="sxs-lookup"><span data-stu-id="36180-106">Add or edit custom DNS records</span></span>](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)

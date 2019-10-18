@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36542745"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="49862-102">BitLocker 回復</span><span class="sxs-lookup"><span data-stu-id="49862-102">BitLocker recovery options</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="42a0f-102">BitLocker 回復</span><span class="sxs-lookup"><span data-stu-id="42a0f-102">BitLocker recovery options</span></span>
 
-<span data-ttu-id="49862-103">BitLocker 回復キーを表示するには、[[デバイス](https://account.microsoft.com/devices/recoverykey)] に移動します。</span><span class="sxs-lookup"><span data-stu-id="49862-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="42a0f-103">BitLocker 回復キーを表示するには、[[デバイス](https://account.microsoft.com/devices/recoverykey)] に移動します。</span><span class="sxs-lookup"><span data-stu-id="42a0f-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="49862-104">詳細については、「[BitLocker 回復キーの検索](https://support.microsoft.com/help/4026181) 」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="49862-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="42a0f-104">詳細については、「[BitLocker 回復キーの検索](https://support.microsoft.com/help/4026181) 」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="42a0f-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>

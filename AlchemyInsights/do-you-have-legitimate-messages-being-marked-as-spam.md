@@ -19,15 +19,15 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36740398"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="ce00c-102">正当なメッセージが迷惑メールとしてマークされている場合</span><span class="sxs-lookup"><span data-stu-id="ce00c-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="77028-102">正当なメッセージが迷惑メールとしてマークされている場合</span><span class="sxs-lookup"><span data-stu-id="77028-102">Do you have legitimate messages being marked as spam?</span></span>
 
-<span data-ttu-id="ce00c-103">上記の診断を試すか、こちらの『[Office 365 で迷惑メールとしてマークされているメッセージのトラブルシューティングに関するステップ バイ ステップ ガイド](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)』を試してください。</span><span class="sxs-lookup"><span data-stu-id="ce00c-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="77028-103">上記の診断を試すか、こちらの『[Office 365 で迷惑メールとしてマークされているメッセージのトラブルシューティングに関するステップ バイ ステップ ガイド](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)』を試してください。</span><span class="sxs-lookup"><span data-stu-id="77028-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="ce00c-104">このような種類の問題を報告するには、次の方法をおすすめします。</span><span class="sxs-lookup"><span data-stu-id="ce00c-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="77028-104">このような種類の問題を報告するには、次の方法をおすすめします。</span><span class="sxs-lookup"><span data-stu-id="77028-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="ce00c-105">ユーザーの[レポート アドインを有効にします](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。</span><span class="sxs-lookup"><span data-stu-id="ce00c-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="77028-105">ユーザーの[レポート アドインを有効にします](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。</span><span class="sxs-lookup"><span data-stu-id="77028-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="ce00c-106">ユーザーに、[メッセージを迷惑メールではないメールとして報告](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)してもらいます。</span><span class="sxs-lookup"><span data-stu-id="ce00c-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).</span></span>
+2. <span data-ttu-id="77028-106">ユーザーに、[メッセージを迷惑メールではないメールとして報告](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)してもらいます。</span><span class="sxs-lookup"><span data-stu-id="77028-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).</span></span>
 
-<span data-ttu-id="ce00c-107">サポート チケットを開く場合は、以下の電子メール ヘッダーの中から少なくとも **1 つ、元のメッセージ全文**を添付してください。</span><span class="sxs-lookup"><span data-stu-id="ce00c-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
+<span data-ttu-id="77028-107">サポート チケットを開く場合は、以下の電子メール ヘッダーの中から少なくとも **1 つ、元のメッセージ全文**を添付してください。</span><span class="sxs-lookup"><span data-stu-id="77028-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
   

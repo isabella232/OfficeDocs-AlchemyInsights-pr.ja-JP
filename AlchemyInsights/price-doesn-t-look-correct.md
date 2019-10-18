@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36388497"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="6aaef-102">料金が正しくないと思われる場合</span><span class="sxs-lookup"><span data-stu-id="6aaef-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="9a3ba-102">料金が正しくないと思われる場合</span><span class="sxs-lookup"><span data-stu-id="9a3ba-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="6aaef-p101">請求書に記載されている料金が正しくないと思われる場合は、更新時の料金変更が原因の可能性があります。これが問題の原因と考えられない場合は、[お電話します] オプションを使用してサポート エンジニアにお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="6aaef-p101">If the price on your invoice doesn't look correct, this could be due to a price change at renewal. If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="9a3ba-p101">請求書に記載されている料金が正しくないと思われる場合は、更新時の料金変更が原因の可能性があります。これが問題の原因と考えられない場合は、[お電話します] オプションを使用してサポート エンジニアにお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="9a3ba-p101">If the price on your invoice doesn't look correct, this could be due to a price change at renewal. If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

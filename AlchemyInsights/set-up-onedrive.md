@@ -18,7 +18,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36509214"
 ---
-# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="ab945-102">OneDrive 同期クライアントを使用して OneDrive または SharePoint ファイルを同期する</span><span class="sxs-lookup"><span data-stu-id="ab945-102">Use the OneDrive syn client to sync OneDrive or SharePoint files</span></span>
+# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="c2da9-102">OneDrive 同期クライアントを使用して OneDrive または SharePoint ファイルを同期する</span><span class="sxs-lookup"><span data-stu-id="c2da9-102">Use the OneDrive syn client to sync OneDrive or SharePoint files</span></span>
 
-<span data-ttu-id="ab945-103">OneDrive 同期クライアントを使って、[自分の OneDrive for Business ファイルを同期](https://go.microsoft.com/fwlink/?linkid=533375)したり、[SharePoint ファイルを同期](https://go.microsoft.com/fwlink/?linkid=871666)したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="ab945-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
+<span data-ttu-id="c2da9-103">OneDrive 同期クライアントを使って、[自分の OneDrive for Business ファイルを同期](https://go.microsoft.com/fwlink/?linkid=533375)したり、[SharePoint ファイルを同期](https://go.microsoft.com/fwlink/?linkid=871666)したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="c2da9-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
   

@@ -18,7 +18,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36559306"
 ---
-# <a name="api-availability"></a><span data-ttu-id="e574f-102">API の可用性</span><span class="sxs-lookup"><span data-stu-id="e574f-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="35cf1-102">API の可用性</span><span class="sxs-lookup"><span data-stu-id="35cf1-102">API Availability</span></span>
 
-<span data-ttu-id="e574f-103">Stream の API は現在使用できません。</span><span class="sxs-lookup"><span data-stu-id="e574f-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="e574f-104">詳細情報: https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="e574f-104">For more informationhttps://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="35cf1-103">Stream の API は現在使用できません。</span><span class="sxs-lookup"><span data-stu-id="35cf1-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="35cf1-104">詳細情報: https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="35cf1-104">For more informationhttps://stream.microsoft.com/support/</span></span>

@@ -18,14 +18,14 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666989"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="4ae9a-102">Microsoft Teams - ゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="4ae9a-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="52480-102">Microsoft Teams - ゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="52480-102">Microsoft Teams - Guest Access</span></span>
 
-<span data-ttu-id="4ae9a-103">Microsoft Teams のゲスト アクセス機能を有効にし、設定するためにサポートが必要ですか。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
+<span data-ttu-id="52480-103">Microsoft Teams のゲスト アクセス機能を有効にし、設定するためにサポートが必要ですか。</span><span class="sxs-lookup"><span data-stu-id="52480-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="4ae9a-104">必要な操作は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-104">Here's what you need to do:</span></span>
+<span data-ttu-id="52480-104">必要な操作は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="52480-104">Here's what you need to do:</span></span>
 
-1. <span data-ttu-id="4ae9a-105">ゲスト アクセスを承認します。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-105">Authorize guest access.</span></span>
-1. <span data-ttu-id="4ae9a-106">チームにゲスト ユーザーを追加します。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-106">Add guest users to your team.</span></span>
-1. <span data-ttu-id="4ae9a-107">ゲスト ユーザーのアクセス許可を設定します。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-107">Set up guest user permissions.</span></span>
+1. <span data-ttu-id="52480-105">ゲスト アクセスを承認します。</span><span class="sxs-lookup"><span data-stu-id="52480-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="52480-106">チームにゲスト ユーザーを追加します。</span><span class="sxs-lookup"><span data-stu-id="52480-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="52480-107">ゲスト ユーザーのアクセス許可を設定します。</span><span class="sxs-lookup"><span data-stu-id="52480-107">Set up guest user permissions.</span></span>
 
-<span data-ttu-id="4ae9a-108">詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/microsoftteams/guest-access)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="4ae9a-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span></span>
+<span data-ttu-id="52480-108">詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/microsoftteams/guest-access)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="52480-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span></span>

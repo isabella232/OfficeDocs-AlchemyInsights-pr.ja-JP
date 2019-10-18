@@ -20,9 +20,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36546848"
 ---
-# <a name="delete-a-folder-in-outlookcom"></a><span data-ttu-id="e7774-102">Outlook.com でフォルダーを削除する</span><span class="sxs-lookup"><span data-stu-id="e7774-102">8000016 Delete a folder in Outlook.com</span></span>
+# <a name="delete-a-folder-in-outlookcom"></a><span data-ttu-id="10bdc-102">Outlook.com でフォルダーを削除する</span><span class="sxs-lookup"><span data-stu-id="10bdc-102">8000016 Delete a folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="e7774-103">左側のウィンドウで、削除するフォルダーまたはサブフォルダーを右クリックし、[**フォルダーの削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="e7774-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete**.</span></span>
-2. <span data-ttu-id="e7774-104">確認メッセージが表示されたら、**[OK]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e7774-104">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="10bdc-103">左側のウィンドウで、削除するフォルダーまたはサブフォルダーを右クリックし、[**フォルダーの削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="10bdc-103">In the left pane, right-click the folder or subfolder you want to delete and select **Delete**.</span></span>
+2. <span data-ttu-id="10bdc-104">確認メッセージが表示されたら、**[OK]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="10bdc-104">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="e7774-105">詳細については、「[Outlook.com でメッセージ フォルダーを操作する](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e7774-105">To learn more, see [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="10bdc-105">詳細については、「[Outlook.com でメッセージ フォルダーを操作する](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="10bdc-105">To learn more, see [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

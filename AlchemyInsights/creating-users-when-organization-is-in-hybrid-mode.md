@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36514912"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="cb643-102">ハイブリッド展開でのユーザーの作成</span><span class="sxs-lookup"><span data-stu-id="cb643-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="0ed6b-102">ハイブリッド展開でのユーザーの作成</span><span class="sxs-lookup"><span data-stu-id="0ed6b-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="cb643-p101">組織が、オンプレミス環境と Office 365 の間のハイブリッド展開である場合は、オンプレミスの Active Directory ですべてのユーザー オブジェクトを作成する必要があります。これらのユーザー オブジェクトは、Office 365 組織に同期されるように適切な組織単位 (OU) で作成します。</span><span class="sxs-lookup"><span data-stu-id="cb643-p101">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory. You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="0ed6b-p101">組織が、オンプレミス環境と Office 365 の間のハイブリッド展開である場合は、オンプレミスの Active Directory ですべてのユーザー オブジェクトを作成する必要があります。これらのユーザー オブジェクトは、Office 365 組織に同期されるように適切な組織単位 (OU) で作成します。</span><span class="sxs-lookup"><span data-stu-id="0ed6b-p101">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory. You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>

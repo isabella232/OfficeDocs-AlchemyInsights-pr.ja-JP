@@ -17,8 +17,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36531508"
 ---
-# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="bad32-102">Office 準備ツールキットを使用する</span><span class="sxs-lookup"><span data-stu-id="bad32-102">Using the Office Readiness Toolkit</span></span>
+# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="8b95e-102">Office 準備ツールキットを使用する</span><span class="sxs-lookup"><span data-stu-id="8b95e-102">Using the Office Readiness Toolkit</span></span>
 
-<span data-ttu-id="bad32-103">Office 準備ツールキットの使用に関する詳細については、「[準備ツールキットを使用して Office 365 ProPlus でのアプリケーションの互換性を評価する](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bad32-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span></span>
+<span data-ttu-id="8b95e-103">Office 準備ツールキットの使用に関する詳細については、「[準備ツールキットを使用して Office 365 ProPlus でのアプリケーションの互換性を評価する](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8b95e-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span></span>
 
-<span data-ttu-id="bad32-104">準備ツールキットに関するご意見やご質問は、ReadyForOffice@microsoft.com までメールにてご連絡ください。</span><span class="sxs-lookup"><span data-stu-id="bad32-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
+<span data-ttu-id="8b95e-104">準備ツールキットに関するご意見やご質問は、ReadyForOffice@microsoft.com までメールにてご連絡ください。</span><span class="sxs-lookup"><span data-stu-id="8b95e-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>

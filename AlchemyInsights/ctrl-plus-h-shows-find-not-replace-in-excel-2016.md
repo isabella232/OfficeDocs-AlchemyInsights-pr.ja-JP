@@ -20,7 +20,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36514516"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="73581-102">Excel では、Ctrl+H キーを押すと [置換] ではなく [検索] が表示されます</span><span class="sxs-lookup"><span data-stu-id="73581-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="178b5-102">Excel では、Ctrl+H キーを押すと [置換] ではなく [検索] が表示されます</span><span class="sxs-lookup"><span data-stu-id="178b5-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="73581-p101">Excel 2016 では、Ctrl+H キーを押すと [検索と置換] ダイアログが開き、[置換] タブではなく [検索] タブが表示されます。ホーム タブの [置換] をクリックしても同様になります。この問題は、バージョン 1708 (8431.2094) で修正されました。これを修正するには、最新バージョンの Office に更新します。**[ファイル]** \> **[アカウント]** \> **[更新オプション]** \> **[今すぐ更新]** の順に選択してください。</span><span class="sxs-lookup"><span data-stu-id="73581-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="178b5-p101">Excel 2016 では、Ctrl+H キーを押すと [検索と置換] ダイアログが開き、[置換] タブではなく [検索] タブが表示されます。ホーム タブの [置換] をクリックしても同様になります。この問題は、バージョン 1708 (8431.2094) で修正されました。これを修正するには、最新バージョンの Office に更新します。**[ファイル]** \> **[アカウント]** \> **[更新オプション]** \> **[今すぐ更新]** の順に選択してください。</span><span class="sxs-lookup"><span data-stu-id="178b5-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   

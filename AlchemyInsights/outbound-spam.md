@@ -18,6 +18,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/18/2019
 ms.locfileid: "37042413"
 ---
-# <a name="outbound-spam"></a><span data-ttu-id="ac9d1-102">送信スパム</span><span class="sxs-lookup"><span data-stu-id="ac9d1-102">Outbound spam detection</span></span>
+# <a name="outbound-spam"></a><span data-ttu-id="0befc-102">送信スパム</span><span class="sxs-lookup"><span data-stu-id="0befc-102">Outbound spam detection</span></span>
 
-<span data-ttu-id="ac9d1-103">送信スパムの誤検知が発生する場合は (問題のない送信メッセージがスパムとしてマークされる)、メッセージ例を含むサポート チケットを開きます。</span><span class="sxs-lookup"><span data-stu-id="ac9d1-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
+<span data-ttu-id="0befc-103">送信スパムの誤検知が発生する場合は (問題のない送信メッセージがスパムとしてマークされる)、メッセージ例を含むサポート チケットを開きます。</span><span class="sxs-lookup"><span data-stu-id="0befc-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>

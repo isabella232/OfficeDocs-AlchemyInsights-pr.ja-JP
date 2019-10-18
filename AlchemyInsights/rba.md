@@ -17,6 +17,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36553509"
 ---
-# <a name="about-room-mailboxes"></a><span data-ttu-id="9c66e-102">会議室メールボックスについて</span><span class="sxs-lookup"><span data-stu-id="9c66e-102">About room mailboxes</span></span>
+# <a name="about-room-mailboxes"></a><span data-ttu-id="57e7e-102">会議室メールボックスについて</span><span class="sxs-lookup"><span data-stu-id="57e7e-102">About room mailboxes</span></span>
 
-<span data-ttu-id="9c66e-103">会議室メールボックスは、会議室、講堂、トレーニング室など物理的な場所に割り当てられるリソース メールボックスです。</span><span class="sxs-lookup"><span data-stu-id="9c66e-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="9c66e-104">会議室メールボックスの詳細については、「[会議室メールボックスの作成と管理](https://go.microsoft.com/fwlink/p/?linkid=717533)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9c66e-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="57e7e-103">会議室メールボックスは、会議室、講堂、トレーニング室など物理的な場所に割り当てられるリソース メールボックスです。</span><span class="sxs-lookup"><span data-stu-id="57e7e-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="57e7e-104">会議室メールボックスの詳細については、「[会議室メールボックスの作成と管理](https://go.microsoft.com/fwlink/p/?linkid=717533)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="57e7e-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>

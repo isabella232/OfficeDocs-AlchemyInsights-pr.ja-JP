@@ -18,10 +18,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36546916"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="fb68e-102">Outlook.com でコピーして貼り付け</span><span class="sxs-lookup"><span data-stu-id="fb68e-102">Copy and paste in Outlook.com</span></span>
+# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="6ffc8-102">Outlook.com でコピーして貼り付け</span><span class="sxs-lookup"><span data-stu-id="6ffc8-102">Copy and paste in Outlook.com</span></span>
 
-<span data-ttu-id="fb68e-103">Outlook.com にはコピーまたは貼り付けボタンはありませんが、キーボード ショートカットを使用できます。</span><span class="sxs-lookup"><span data-stu-id="fb68e-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
+<span data-ttu-id="6ffc8-103">Outlook.com にはコピーまたは貼り付けボタンはありませんが、キーボード ショートカットを使用できます。</span><span class="sxs-lookup"><span data-stu-id="6ffc8-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
 
-<span data-ttu-id="fb68e-104">**Windows の場合**: コピーは CTRL+C、切り取りは CTRL+X、貼り付けは CTRL+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="fb68e-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
+<span data-ttu-id="6ffc8-104">**Windows の場合**: コピーは CTRL+C、切り取りは CTRL+X、貼り付けは CTRL+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="6ffc8-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
 
-<span data-ttu-id="fb68e-105">**Mac の場合**: コピーは CMD+C、切り取りは CMD+X、貼り付けは CMD+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="fb68e-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
+<span data-ttu-id="6ffc8-105">**Mac の場合**: コピーは CMD+C、切り取りは CMD+X、貼り付けは CMD+V を使用します。</span><span class="sxs-lookup"><span data-stu-id="6ffc8-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>

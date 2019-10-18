@@ -20,16 +20,16 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36523084"
 ---
-# <a name="help-understanding-your-bill"></a><span data-ttu-id="b6157-102">課金内容についての説明</span><span class="sxs-lookup"><span data-stu-id="b6157-102">Help understanding your bill</span></span>
+# <a name="help-understanding-your-bill"></a><span data-ttu-id="f9dd9-102">課金内容についての説明</span><span class="sxs-lookup"><span data-stu-id="f9dd9-102">Help understanding your bill</span></span>
 
-<span data-ttu-id="b6157-103">一般法人向け Office 365 サブスクリプションの請求金額はライセンス料金と購入したライセンス数を乗算した額と、必要なすべての税金/手数料を反映したものです。</span><span class="sxs-lookup"><span data-stu-id="b6157-103">The amount billed reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
+<span data-ttu-id="f9dd9-103">一般法人向け Office 365 サブスクリプションの請求金額はライセンス料金と購入したライセンス数を乗算した額と、必要なすべての税金/手数料を反映したものです。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-103">The amount billed reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
   
-<span data-ttu-id="b6157-104">請求金額が予想と異なる場合は、次に示すいくつかの理由が考えられます。</span><span class="sxs-lookup"><span data-stu-id="b6157-104">If the amount billed is different then expected there are a few reasons this may happen:</span></span>
+<span data-ttu-id="f9dd9-104">請求金額が予想と異なる場合は、次に示すいくつかの理由が考えられます。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-104">If the amount billed is different then expected there are a few reasons this may happen:</span></span>
   
-- <span data-ttu-id="b6157-p101">ご使用のサブスクリプションに対してライセンスの追加または削除が行われています。ライセンスが途中で変更されると、その内容が以降の請求書に反映されます。この変更を考慮して前のサービス期間に対するクレジットおよび再請求が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="b6157-p101">Licenses added or removed from your subscription. When licenses are changed mid-term, this is reflected on the following invoice. You may see a credit and re-bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="f9dd9-p101">ご使用のサブスクリプションに対してライセンスの追加または削除が行われています。ライセンスが途中で変更されると、その内容が以降の請求書に反映されます。この変更を考慮して前のサービス期間に対するクレジットおよび再請求が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-p101">Licenses added or removed from your subscription. When licenses are changed mid-term, this is reflected on the following invoice. You may see a credit and re-bill for the previous service period to account for this change.</span></span>
 
-- <span data-ttu-id="b6157-p102">サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。</span><span class="sxs-lookup"><span data-stu-id="b6157-p102">The subscription was cancelled. You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="f9dd9-p102">サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-p102">The subscription was cancelled. You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
 
-- <span data-ttu-id="b6157-110">サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。</span><span class="sxs-lookup"><span data-stu-id="b6157-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="f9dd9-110">サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-110">Your subscription renewed for a new term and the license price changed.</span></span>
 
-<span data-ttu-id="b6157-111">請求書の詳細については、[請求書](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="b6157-111">For more information about the invoice, see: [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)</span></span>
+<span data-ttu-id="f9dd9-111">請求書の詳細については、[請求書](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="f9dd9-111">For more information about the invoice, see: [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)</span></span>

@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666629"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="9aa31-102">Microsoft Skype for Business でのサインインに関する問題</span><span class="sxs-lookup"><span data-stu-id="9aa31-102">Problems Signing in to Microsoft Skype for Business</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="ee1bd-102">Microsoft Skype for Business でのサインインに関する問題</span><span class="sxs-lookup"><span data-stu-id="ee1bd-102">Problems Signing in to Microsoft Skype for Business</span></span>
 
-<span data-ttu-id="9aa31-p101">[サポート/回復アシスタント (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn)をダウンロードして使用します。このツールを使用すると、Skype for Business のサインインに関する既知の問題を自動的に診断、修復できます。</span><span class="sxs-lookup"><span data-stu-id="9aa31-p101">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn). This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
+<span data-ttu-id="ee1bd-p101">[サポート/回復アシスタント (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn)をダウンロードして使用します。このツールを使用すると、Skype for Business のサインインに関する既知の問題を自動的に診断、修復できます。</span><span class="sxs-lookup"><span data-stu-id="ee1bd-p101">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn). This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>

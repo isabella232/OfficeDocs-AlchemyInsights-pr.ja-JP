@@ -18,18 +18,18 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36499212"
 ---
-# <a name="information-about-gdpr"></a><span data-ttu-id="3f0e5-102">GDPR に関する情報</span><span class="sxs-lookup"><span data-stu-id="3f0e5-102">Information about GDPR</span></span>
+# <a name="information-about-gdpr"></a><span data-ttu-id="a3cac-102">GDPR に関する情報</span><span class="sxs-lookup"><span data-stu-id="a3cac-102">Information about GDPR</span></span>
 
-- <span data-ttu-id="3f0e5-103">[Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted) の使用を開始します。</span><span class="sxs-lookup"><span data-stu-id="3f0e5-103">Get Started with the [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span></span>
+- <span data-ttu-id="a3cac-103">[Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted) の使用を開始します。</span><span class="sxs-lookup"><span data-stu-id="a3cac-103">Get Started with the [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span></span>
 
-- <span data-ttu-id="3f0e5-104">**データ処理契約** (DPA) の関連事項については、次を確認してください。</span><span class="sxs-lookup"><span data-stu-id="3f0e5-104">For anything related to **Data Processing Agreement** (DPA), review:</span></span>
+- <span data-ttu-id="a3cac-104">**データ処理契約** (DPA) の関連事項については、次を確認してください。</span><span class="sxs-lookup"><span data-stu-id="a3cac-104">For anything related to **Data Processing Agreement** (DPA), review:</span></span>
 
-  - [<span data-ttu-id="3f0e5-105">データ保護のリソース</span><span class="sxs-lookup"><span data-stu-id="3f0e5-105">Data Protection Resources</span></span>](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [<span data-ttu-id="a3cac-105">データ保護のリソース</span><span class="sxs-lookup"><span data-stu-id="a3cac-105">Data Protection Resources</span></span>](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [<span data-ttu-id="3f0e5-106">監査レポート</span><span class="sxs-lookup"><span data-stu-id="3f0e5-106">Audit Reports</span></span>](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [<span data-ttu-id="a3cac-106">監査レポート</span><span class="sxs-lookup"><span data-stu-id="a3cac-106">Audit Reports</span></span>](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- <span data-ttu-id="3f0e5-107">**データ主体の要求** (DSR) に関する情報 (検出、アクセス、修正、制限、削除、エクスポート) は、[ここ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)にあります。</span><span class="sxs-lookup"><span data-stu-id="3f0e5-107">Information on **Data Subject Requests** (DSR) - discover, access, rectify, restrict, delete, export is [here.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span></span>
+- <span data-ttu-id="a3cac-107">**データ主体の要求** (DSR) に関する情報 (検出、アクセス、修正、制限、削除、エクスポート) は、[ここ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)にあります。</span><span class="sxs-lookup"><span data-stu-id="a3cac-107">Information on **Data Subject Requests** (DSR) - discover, access, rectify, restrict, delete, export is [here.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span></span>
 
-- <span data-ttu-id="3f0e5-108">**データ侵害の通知**に関する情報は、[ここ](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)にあります。</span><span class="sxs-lookup"><span data-stu-id="3f0e5-108">Information on **Data Breach Notification** is [here.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span></span>
+- <span data-ttu-id="a3cac-108">**データ侵害の通知**に関する情報は、[ここ](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)にあります。</span><span class="sxs-lookup"><span data-stu-id="a3cac-108">Information on **Data Breach Notification** is [here.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span></span>
 
-- <span data-ttu-id="3f0e5-109">**データの場所**に関する情報は、[ここ](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)にあります。</span><span class="sxs-lookup"><span data-stu-id="3f0e5-109">Information on **data locations** is [here.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span></span>
+- <span data-ttu-id="a3cac-109">**データの場所**に関する情報は、[ここ](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)にあります。</span><span class="sxs-lookup"><span data-stu-id="a3cac-109">Information on **data locations** is [here.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span></span>

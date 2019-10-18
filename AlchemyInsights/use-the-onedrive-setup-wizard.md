@@ -18,8 +18,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36532444"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="14b5c-102">OneDrive の設定</span><span class="sxs-lookup"><span data-stu-id="14b5c-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="50c5a-102">OneDrive の設定</span><span class="sxs-lookup"><span data-stu-id="50c5a-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="14b5c-103">組織の OneDrive を迅速にセットアップするには、[OneDrive セットアップ ウィザードを使用](https://portal.office.com/onboarding/odfbquickstartguide)します。</span><span class="sxs-lookup"><span data-stu-id="14b5c-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="50c5a-103">組織の OneDrive を迅速にセットアップするには、[OneDrive セットアップ ウィザードを使用](https://portal.office.com/onboarding/odfbquickstartguide)します。</span><span class="sxs-lookup"><span data-stu-id="50c5a-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 
