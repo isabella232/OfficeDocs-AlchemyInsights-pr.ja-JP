@@ -17,8 +17,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/07/2019
 ms.locfileid: "34751672"
 ---
-# <a name="access-denied-banned-sender"></a><span data-ttu-id="d0feb-102">Access denied, banned sender</span><span class="sxs-lookup"><span data-stu-id="d0feb-102">Access denied, banned sender</span></span>
+# <a name="access-denied-banned-sender"></a><span data-ttu-id="14726-102">Access denied, banned sender</span><span class="sxs-lookup"><span data-stu-id="14726-102">Access denied, banned sender</span></span>
 
- <span data-ttu-id="d0feb-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span><span class="sxs-lookup"><span data-stu-id="d0feb-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span></span> 
+ <span data-ttu-id="14726-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span><span class="sxs-lookup"><span data-stu-id="14726-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span></span> 
 
-<span data-ttu-id="d0feb-104">Office 365 の受信者にメールを送信しているときにこのエラーが発生した場合は、[https://sender.office.com](https://sender.office.com)でブロックされた送信者リストから影響を受けたアカウントを削除してください。</span><span class="sxs-lookup"><span data-stu-id="d0feb-104">If you receive this error when sending email to an Office 365 recipient, remove the affected account from the blocked senders list at [https://sender.office.com](https://sender.office.com).</span></span>
+<span data-ttu-id="14726-104">Office 365 の受信者にメールを送信しているときにこのエラーが発生した場合は、[https://sender.office.com](https://sender.office.com)でブロックされた送信者リストから影響を受けたアカウントを削除してください。</span><span class="sxs-lookup"><span data-stu-id="14726-104">If you receive this error when sending email to an Office 365 recipient, remove the affected account from the blocked senders list at [https://sender.office.com](https://sender.office.com).</span></span>

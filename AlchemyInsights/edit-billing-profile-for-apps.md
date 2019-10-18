@@ -19,18 +19,18 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "35607731"
 ---
-# <a name="edit-billing-profile-for-apps"></a><span data-ttu-id="5d254-102">アプリの課金プロフィールを編集する</span><span class="sxs-lookup"><span data-stu-id="5d254-102">Edit billing profile for apps</span></span>
+# <a name="edit-billing-profile-for-apps"></a><span data-ttu-id="b4f0f-102">アプリの課金プロフィールを編集する</span><span class="sxs-lookup"><span data-stu-id="b4f0f-102">Edit billing profile for apps</span></span>
 
-## <a name="to-change-the-billing-profile-on-apps"></a><span data-ttu-id="5d254-103">アプリで課金プロフィールを変更するには</span><span class="sxs-lookup"><span data-stu-id="5d254-103">To change the billing profile on apps</span></span>
+## <a name="to-change-the-billing-profile-on-apps"></a><span data-ttu-id="b4f0f-103">アプリで課金プロフィールを変更するには</span><span class="sxs-lookup"><span data-stu-id="b4f0f-103">To change the billing profile on apps</span></span>
 
-1. <span data-ttu-id="5d254-104">[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。</span><span class="sxs-lookup"><span data-stu-id="5d254-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="b4f0f-104">[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。</span><span class="sxs-lookup"><span data-stu-id="b4f0f-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="5d254-105">管理するアプリを検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="5d254-105">Find and select the mailbox that you want to disable.</span></span>  
+2. <span data-ttu-id="b4f0f-105">管理するアプリを検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="b4f0f-105">Find and select the mailbox that you want to disable.</span></span>  
 
-3. <span data-ttu-id="5d254-106">[**課金プロフィール**] の横の [**編集**] を選択し、アプリに関連付ける課金プロフィールを選択します。</span><span class="sxs-lookup"><span data-stu-id="5d254-106">Next to **Billing profile**, select **Edit** and choose the billing profile you would like to associate with the app.</span></span>
+3. <span data-ttu-id="b4f0f-106">[**課金プロフィール**] の横の [**編集**] を選択し、アプリに関連付ける課金プロフィールを選択します。</span><span class="sxs-lookup"><span data-stu-id="b4f0f-106">Next to **Billing profile**, select **Edit** and choose the billing profile you would like to associate with the app.</span></span>
 
-## <a name="edit-billing-profiles"></a><span data-ttu-id="5d254-107">課金プロフィールを編集する</span><span class="sxs-lookup"><span data-stu-id="5d254-107">Edit billing profiles</span></span>
+## <a name="edit-billing-profiles"></a><span data-ttu-id="b4f0f-107">課金プロフィールを編集する</span><span class="sxs-lookup"><span data-stu-id="b4f0f-107">Edit billing profiles</span></span>
 
-1. <span data-ttu-id="5d254-108">[**課金**] > [[請求と支払い](https://go.microsoft.com/fwlink/p/?linkid=848039)] ページの順に移動し、[**課金プロフィール**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="5d254-108">Go to the **Billing** > [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page, then choose **Billing profiles**.</span></span>
+1. <span data-ttu-id="b4f0f-108">[**課金**] > [[請求と支払い](https://go.microsoft.com/fwlink/p/?linkid=848039)] ページの順に移動し、[**課金プロフィール**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="b4f0f-108">Go to the **Billing** > [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page, then choose **Billing profiles**.</span></span>
 
-2. <span data-ttu-id="5d254-109">編集する課金プロフィールを一覧から選択します。</span><span class="sxs-lookup"><span data-stu-id="5d254-109">Choose the billing profile from the list to edit.</span></span>
+2. <span data-ttu-id="b4f0f-109">編集する課金プロフィールを一覧から選択します。</span><span class="sxs-lookup"><span data-stu-id="b4f0f-109">Choose the billing profile from the list to edit.</span></span>
