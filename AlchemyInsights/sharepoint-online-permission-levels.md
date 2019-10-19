@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 97f1001ed0835623e55a08791b2ae81f52b411ac
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374400"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36534892"
 ---
-# <a name="sharepoint-online-permission-levels"></a><span data-ttu-id="10cf7-102">SharePoint Online のアクセス許可レベル</span><span class="sxs-lookup"><span data-stu-id="10cf7-102">SharePoint Online permission levels</span></span>
+# <a name="sharepoint-online-permission-levels"></a><span data-ttu-id="ba830-102">SharePoint Online のアクセス許可レベル</span><span class="sxs-lookup"><span data-stu-id="ba830-102">SharePoint Online permission levels</span></span>
 
-<span data-ttu-id="10cf7-p101">SharePoint には、投稿や表示のみなど、ユーザーが使用できる既定のアクセス許可レベルがいくつかあります。これらでは対応できない場合、この他にアクセス許可レベルを作成できます。既定のレベルを編集または削除しない場合、および個々のユーザーにアクセス許可レベルを割り当てる代わりにユーザーをグループに追加し、それらのグループにアクセス許可レベルを割り当てる場合、アクセス許可の追跡が最も簡単です。</span><span class="sxs-lookup"><span data-stu-id="10cf7-p101">SharePoint comes with some default permission levels that you can use, such as Contribute and View Only. If they don't meet your needs, you can create additional permission levels. It's easiest to keep track of permissions if you don't edit or delete the default levels, and if you add people to groups and assign permission levels to those groups instead of assigning permission levels to individual users.</span></span>
+<span data-ttu-id="ba830-p101">SharePoint には、投稿や表示のみなど、ユーザーが使用できる既定のアクセス許可レベルがいくつかあります。これらでは対応できない場合、この他にアクセス許可レベルを作成できます。既定のレベルを編集または削除しない場合、および個々のユーザーにアクセス許可レベルを割り当てる代わりにユーザーをグループに追加し、それらのグループにアクセス許可レベルを割り当てる場合、アクセス許可の追跡が最も簡単です。</span><span class="sxs-lookup"><span data-stu-id="ba830-p101">SharePoint comes with some default permission levels that you can use, such as Contribute and View Only. If they don't meet your needs, you can create additional permission levels. It's easiest to keep track of permissions if you don't edit or delete the default levels, and if you add people to groups and assign permission levels to those groups instead of assigning permission levels to individual users.</span></span>
   
-- [<span data-ttu-id="10cf7-106">アクセス許可レベルについて</span><span class="sxs-lookup"><span data-stu-id="10cf7-106">Understanding permission levels</span></span>](https://go.microsoft.com/fwlink/?linkid=867071)
+- [<span data-ttu-id="ba830-106">アクセス許可レベルについて</span><span class="sxs-lookup"><span data-stu-id="ba830-106">Understanding permission levels</span></span>](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [<span data-ttu-id="10cf7-107">アクセス許可レベルを作成および編集する方法</span><span class="sxs-lookup"><span data-stu-id="10cf7-107">How to create and edit permission levels</span></span>](https://go.microsoft.com/fwlink/?linkid=867072)
+- [<span data-ttu-id="ba830-107">アクセス許可レベルを作成および編集する方法</span><span class="sxs-lookup"><span data-stu-id="ba830-107">How to create and edit permission levels</span></span>](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

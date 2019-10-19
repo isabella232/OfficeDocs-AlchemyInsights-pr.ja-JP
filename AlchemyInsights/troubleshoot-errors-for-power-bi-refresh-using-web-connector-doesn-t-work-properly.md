@@ -1,5 +1,5 @@
 ---
-Title: Web コネクタを使用した更新が正常に機能しない
+title: Web コネクタを使用した更新が正常に機能しない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35760769"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36748905"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a><span data-ttu-id="db028-102">Web コネクタを使用した更新が正常に機能しない</span><span class="sxs-lookup"><span data-stu-id="db028-102">Refresh using Web connector doesn't work properly</span></span>
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a><span data-ttu-id="92cce-102">Web コネクタを使用した更新が正常に機能しない</span><span class="sxs-lookup"><span data-stu-id="92cce-102">Refresh using Web connector doesn't work properly</span></span>
 
-<span data-ttu-id="db028-103">[Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) 関数を使用している Web コネクタ スクリプトがあり、2016 年 11 月 18 日以降にデータセットまたはレポートを更新した場合は、更新を正しく機能させるためにゲートウェイを使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="db028-103">If you have a web connector script that's using the [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) function, and you have updated your dataset or report after November 18th, 2016, you need to use a gateway in order for refresh to work properly.</span></span>
+<span data-ttu-id="92cce-103">[Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) 関数を使用している Web コネクタ スクリプトがあり、2016 年 11 月 18 日以降にデータセットまたはレポートを更新した場合は、更新を正しく機能させるためにゲートウェイを使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="92cce-103">If you have a web connector script that's using the [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) function, and you have updated your dataset or report after November 18th, 2016, you need to use a gateway in order for refresh to work properly.</span></span>
 
-<span data-ttu-id="db028-104">詳しくは、[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="db028-104">For more information</span></span>
+<span data-ttu-id="92cce-104">詳しくは、[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="92cce-104">For more information: https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios</span></span>
