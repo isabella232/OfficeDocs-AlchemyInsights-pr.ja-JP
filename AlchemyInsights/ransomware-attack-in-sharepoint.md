@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553401"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745546"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint または OneDrive のランサムウェア攻撃
 
@@ -33,7 +33,7 @@ OneDrive 同期 (存在する場合) を即時に停止/一時停止または、
 復元方法についての詳細は、次を参照してください。
 
 - [OneDrive ライブラリを復元する](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [ドキュメント ライブラリを復元する](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [ドキュメント ライブラリを復元する](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Advanced Threat Protection (ATP) の詳細については、次を参照してください。
 - [SharePoint、OneDrive、および Teams 用の ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)

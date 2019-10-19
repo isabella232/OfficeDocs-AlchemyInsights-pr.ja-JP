@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370475"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36551672"
 ---
 # <a name="restore-your-onedrive"></a>OneDrive を復元する
 

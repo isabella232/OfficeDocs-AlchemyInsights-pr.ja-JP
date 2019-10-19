@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509185"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36734170"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook モバイル アプリでメールをセットアップする
 
@@ -30,7 +30,7 @@ ms.locfileid: "36509185"
 
 3. メール アカウントのパスワードを入力して、**[サインイン]** または **[次へ]** をタップします。
 
-4. [[多要素認証]](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) が有効になっている場合は、セットアップした方法 (6 桁のコード、通話、または Microsoft Authenticator アプリ) が使用されていることを確認します。
+4. [[多要素認証]](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) が有効になっている場合は、セットアップした方法 (6 桁のコード、通話、または Microsoft Authenticator アプリ) が使用されていることを確認します。
 
 5. その他の IT 管理ポリシーが適用されている場合は、**[ライセンス認証を行う]** をタップしてそれらを有効にします。
 

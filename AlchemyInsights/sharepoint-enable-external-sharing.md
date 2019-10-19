@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503892"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36744430"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online の外部共有を有効にする
 
@@ -35,7 +35,7 @@ ms.locfileid: "36503892"
 
 - [SharePoint のファイルまたはフォルダーを共有する](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [OneDrive または SharePoint のファイルまたはフォルダーの共有を停止またはアクセス許可を変更する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [OneDrive または SharePoint のファイルまたはフォルダーの共有を停止またはアクセス許可を変更する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [外部ユーザーを削除する](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
@@ -45,6 +45,6 @@ ms.locfileid: "36503892"
 
 - [SharePoint と OneDrive での OSE 共有エラー](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [外部ユーザーが別のアカウントを使用して SharePoint Online の招待を受け入れた場合のエラー メッセージ](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [外部ユーザーが別のアカウントを使用して SharePoint Online の招待を受け入れた場合のエラー メッセージ](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [共有フォルダーへのアクセスが拒否される](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [共有フォルダーへのアクセスが拒否される](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

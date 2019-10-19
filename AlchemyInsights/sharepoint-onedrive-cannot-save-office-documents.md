@@ -1,6 +1,6 @@
 ---
 title: エクスプローラーで SharePoint ライブラリを開く
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b0d9c7c5a21fe73f6611456018b33d6df89c11e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: daab3f4d61002a83755240fa0ea71e0bcd5030ad
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508032"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36751173"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>Office ドキュメントを SharePoint または OneDrive のドキュメント ライブラリに保存できない
 

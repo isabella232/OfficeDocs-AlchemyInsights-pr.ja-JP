@@ -1,6 +1,6 @@
 ---
 title: ドキュメント ライブラリにフォルダーまたはファイルをアップロードする
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 7aa01f5190dc93382aba5c5490b9943da92de284
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503254"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36750885"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Office ドキュメントを SharePoint または OneDrive のドキュメント ライブラリに保存できない
 

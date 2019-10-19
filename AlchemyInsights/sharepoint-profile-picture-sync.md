@@ -11,10 +11,10 @@ ms.custom:
 - "1828"
 - "9000231"
 ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36818791"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>自分のプロファイルの変更は、SharePoint ユーザー プロファイル アプリケーションに同期されますか。

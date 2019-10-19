@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32377961"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36549224"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>組織外のユーザーと OneDrive でファイルを共有する
 

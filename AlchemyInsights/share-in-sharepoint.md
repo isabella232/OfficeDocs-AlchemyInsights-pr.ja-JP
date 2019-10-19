@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 88f91f897aacf22ae9c82c59d5eb50b3ffcd5330
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369719"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36549476"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online での共有方法
 

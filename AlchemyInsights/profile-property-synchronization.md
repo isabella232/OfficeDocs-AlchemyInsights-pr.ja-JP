@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: 1bb87786d9e28e11b1b883e5dba0c0588f3db18f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3f2fd97bd357c6fd6a94cb9715a316ca7fd1bacf
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372041"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36554446"
 ---
 # <a name="profile-property-synchronization"></a>プロファイル プロパティの同期
 

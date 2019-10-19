@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371195"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36552356"
 ---
 # <a name="restore-a-previous-file-version"></a>以前のファイル バージョンを復元する
 

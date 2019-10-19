@@ -1,5 +1,5 @@
 ---
-Title: Web コネクタを使用した更新が正常に機能しない
+title: Web コネクタを使用した更新が正常に機能しない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35760769"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36748905"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>Web コネクタを使用した更新が正常に機能しない
 

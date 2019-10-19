@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32377817"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36549620"
 ---
 # <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive または SharePoint のファイルまたはフォルダーを外部ユーザーと共有する
 

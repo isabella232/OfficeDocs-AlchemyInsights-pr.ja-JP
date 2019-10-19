@@ -11,10 +11,10 @@ ms.custom:
 - "1161"
 - "5200019"
 ms.openlocfilehash: f451b0ce99dece9e61285de0826e951793c7708f
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36818863"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online または OneDrive の "セットアップ中"

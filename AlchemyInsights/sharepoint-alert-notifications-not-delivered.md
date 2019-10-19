@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504468"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36744646"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint のアラート通知が配信されない
 
@@ -26,7 +26,7 @@ ms.locfileid: "36504468"
 
 **すべてのアラートが配信されない**のか、特定のファイルまたはライブラリからの**個別のアラートが配信されない**のかを特定します。
 
-- **個別のアラートが配信されない場合**: 特定のファイルやライブラリからの個別のアラートが配信されない場合は、アラートを削除してから再作成してみてください。 詳細については、「[SharePoint アラートの管理、表示、または削除](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)」を参照してください。
+- **個別のアラートが配信されない場合**: 特定のファイルやライブラリからの個別のアラートが配信されない場合は、アラートを削除してから再作成してみてください。 詳細については、「[SharePoint アラートの管理、表示、または削除](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online)」を参照してください。
 - **すべてのアラートが配信されない場合**: 複数のファイルやライブラリからのすべてのアラートが配信されない場合は、[[サービス正常性](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)] ダッシュボードにアクセスして、SharePoint または Exchange でインシデントやアドバイザリが発生していないかどうかを確認します。 問題の原因は、SharePoint のアラート機能によるもの、または Exchange 経由のメールの遅延によるものである可能性があります。 また、その他のメールが配信されているかどうかを確認することも重要です。配信されていない場合は、問題の原因が Exchange の遅延である可能性が高くなります。
 
 アラートに関する FAQ:
@@ -47,6 +47,6 @@ ms.locfileid: "36504468"
 
 SharePoint Online で Microsoft Flow を試す方法。
 
-- [フローを作成する](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [フローを作成する](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint and Flow (SharePoint と Flow)](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint and Flow (SharePoint と Flow)](https://flow.microsoft.com//blog/sharepoint-and-flow/)

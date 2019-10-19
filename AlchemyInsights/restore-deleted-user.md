@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551816"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745078"
 ---
 # <a name="restore-a-user-in-office-365"></a>Office 365 でユーザーを復元する
 
@@ -32,4 +32,4 @@ ms.locfileid: "36551816"
 
 4. **[メールを送信して閉じる]** をクリックしたら、これで完了です。
 
-簡単に変更できましたね。 詳細情報およびスクリーンショット付きの手順については、「[Office 365 でユーザーを復元する](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)」の記事を参照してください。 メールボックスを元に戻す別の方法が必要な場合は、「[Exchange Online でユーザー メールボックスを削除または復元する](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)」を参照してください。
+簡単に変更できましたね。 詳細情報およびスクリーンショット付きの手順については、「[Office 365 でユーザーを復元する](https://docs.microsoft.com/office365/admin/add-users/restore-user)」の記事を参照してください。 メールボックスを元に戻す別の方法が必要な場合は、「[Exchange Online でユーザー メールボックスを削除または復元する](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)」を参照してください。
