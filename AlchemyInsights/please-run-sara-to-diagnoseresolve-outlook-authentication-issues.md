@@ -3,7 +3,6 @@ title: 182 Outlook の認証の問題を診断および解決するには、SaRA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371258"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36752648"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="a2443-102">SaRA を使用して Outlook の認証の問題を診断および解決する</span><span class="sxs-lookup"><span data-stu-id="a2443-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="7ef2c-102">SaRA を使用して Outlook の認証の問題を診断および解決する</span><span class="sxs-lookup"><span data-stu-id="7ef2c-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="a2443-p101">Outlook からパスワードの入力を引き続き要求される場合、"[Outlook で何度もパスワードの入力を要求されます](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy)" 診断ツールを使用してそのマシンでのトラブルシューティングを行うことを強くお勧めします。この [SaRA](https://diagnostics.office.com/#/) 診断ツールは、自動チェックを行い、検出された問題に対応するのにユーザーが使用できる解決方法を返します。</span><span class="sxs-lookup"><span data-stu-id="a2443-p101">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password. This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="7ef2c-p101">Outlook からパスワードの入力を引き続き要求される場合、"[Outlook で何度もパスワードの入力を要求されます](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy)" 診断ツールを使用してそのマシンでのトラブルシューティングを行うことを強くお勧めします。この [SaRA](https://diagnostics.office.com/#/) 診断ツールは、自動チェックを行い、検出された問題に対応するのにユーザーが使用できる解決方法を返します。</span><span class="sxs-lookup"><span data-stu-id="7ef2c-p101">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password. This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
