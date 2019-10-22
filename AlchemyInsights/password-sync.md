@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372961"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36555382"
 ---
 # <a name="enable-password-sync"></a>パスワード同期を有効にする
 
-1.  O365 管理センターのホーム ページで [**DirSync の状態**] を選択します。 
+1.  Microsoft 365 管理センターのホーム ページで **[DirSync の状態]** を選択します。 
     
-     *または、[**ユーザー**]、[アクティブなユーザー] の順に移動し、*[アクティブなユーザー] ページで [**その他**]、[**ディレクトリ同期**] の順に選択します。* 
+     *または、**[ユーザー]** \> **[アクティブなユーザー]** の順に移動し、[アクティブなユーザー] ページで **[その他]** \> **[ディレクトリ同期]** の順に選択することができます。* 
     
 2. [ディレクトリ同期] ウィンドウで、[**DirSync の管理に移動**] を選択します。 
     

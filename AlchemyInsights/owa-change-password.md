@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "35086010"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36510484"
 ---
-# <a name="change-your-password"></a>パスワードを変更する
+# <a name="change-your-office-365-password"></a>Office 365 のパスワードを変更する
 
-[Office 365 のパスワードをリセットする](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Office 365 のパスワードを変更またはリセットする必要がある場合は、次のページに直接アクセスすることができます: [Microsoft のパスワードをリセットする](https://go.microsoft.com/fwlink/p/?linkid=841910)

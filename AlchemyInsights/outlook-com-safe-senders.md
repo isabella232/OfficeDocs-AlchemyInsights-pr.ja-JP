@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602004"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36535360"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>メッセージを [迷惑メール] フォルダーに移動することを停止する
 
-特定のユーザーまたはドメインからのメッセージを [迷惑メール] フォルダーに入れたくない場合があります。差出人セーフリストにあるアドレスまたはドメインからのメッセージは、[迷惑メール] フォルダーに移動されません。
+特定のユーザーまたはドメインからのメッセージを Outlook.com の [迷惑メール] フォルダーに入れたくない場合があります。差出人セーフリストにあるアドレスまたはドメインからのメッセージは、[迷惑メール] フォルダーに移動されません。
 
 1. [信頼できる差出人の設定](https://go.microsoft.com/fwlink/?linkid=2035804)を開きます。
 2. [**信頼できる差出人とドメイン**] で、追加するメール アドレスまたはドメインを入力し、[**追加**] を選択します。

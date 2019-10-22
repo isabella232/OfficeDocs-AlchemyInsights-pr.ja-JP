@@ -13,14 +13,14 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "35085866"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36556534"
 ---
-# <a name="how-to-delete-a-folder"></a>フォルダーを削除する方法
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Outlook on the web でフォルダーを削除する方法
 
 1. 左側のウィンドウで、削除するフォルダーまたはサブフォルダーを右クリックします。
 2. [**フォルダーの削除**] を選びます。

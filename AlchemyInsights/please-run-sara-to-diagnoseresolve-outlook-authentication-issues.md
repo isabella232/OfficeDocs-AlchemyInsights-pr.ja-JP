@@ -3,7 +3,6 @@ title: 182 Outlook の認証の問題を診断および解決するには、SaRA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371258"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36752648"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>SaRA を使用して Outlook の認証の問題を診断および解決する
 
