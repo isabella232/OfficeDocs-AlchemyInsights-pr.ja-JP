@@ -1,26 +1,26 @@
 ---
 title: SharePoint サイトをフォローまたはフォロー解除する
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755709"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611702"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="3ce98-102">SharePoint サイトをフォローまたはフォロー解除する</span><span class="sxs-lookup"><span data-stu-id="3ce98-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="2f73f-102">SharePoint サイトをフォローまたはフォロー解除する</span><span class="sxs-lookup"><span data-stu-id="2f73f-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="3ce98-103">SharePoint の面白そうなサイトをフォローするには複数の方法があります。</span><span class="sxs-lookup"><span data-stu-id="3ce98-103">There are multiple ways to follow a site that interests you in SharePoint.</span></span> <span data-ttu-id="3ce98-104">この方法を用いると、リストでサイトを簡単に検索したり、サイトのアクティビティを確認したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="3ce98-104">This will allow you to find the site easily in your list, and allow you to see activity from the site.</span></span> 
+<span data-ttu-id="2f73f-103">SharePoint に興味のあるサイト、ニュース、コンテンツを検索してフォローする方法は複数あります。</span><span class="sxs-lookup"><span data-stu-id="2f73f-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="2f73f-104">この方法を用いると、リストで情報を簡単に検索したり、SharePoint のアクティビティを確認したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="2f73f-104">This will allow you to find the site easily in your list, and allow you to see activity from the site.</span></span>
 
-<span data-ttu-id="3ce98-105">「[SharePoint サイトをフォローする](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)」で動画をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3ce98-105">Watch the video to [Follow a SharePoint site](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span></span> 
+<span data-ttu-id="2f73f-105">「[サイトおよびニュースを検索してフォローする](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c)」のビデオをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="2f73f-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
 
-<span data-ttu-id="3ce98-106">サイトのフォローまたはフォロー解除ができなくて、期待していた結果と異なる場合は、問題が組織内の単一ユーザーまたはすべてのユーザーに関連したものであるかを確認します。</span><span class="sxs-lookup"><span data-stu-id="3ce98-106">If you are unable to follow or un-follow a site and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="3ce98-107">すべてのユーザーに発生した問題であれば、一時的なサービスの問題である可能性があります。</span><span class="sxs-lookup"><span data-stu-id="3ce98-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span> 
+<span data-ttu-id="2f73f-106">サイト、ニュースまたはコンテンツのフォローまたはフォロー解除ができなくて、期待していた結果と異なる場合は、問題が組織内の単一ユーザーまたはすべてのユーザーに関連したものであるかを確認します。</span><span class="sxs-lookup"><span data-stu-id="2f73f-106">If you are unable to follow or un-follow a site and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="2f73f-107">すべてのユーザーに発生した問題であれば、一時的なサービスの問題である可能性があります。</span><span class="sxs-lookup"><span data-stu-id="2f73f-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
 
-<span data-ttu-id="3ce98-108">[サービスの正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。</span><span class="sxs-lookup"><span data-stu-id="3ce98-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+<span data-ttu-id="2f73f-108">[サービスの正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。</span><span class="sxs-lookup"><span data-stu-id="2f73f-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
