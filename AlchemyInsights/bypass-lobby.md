@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380105"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637782"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>ロビーの設定と参加レベルの制御
 
-これらの設定は、参加者が会議に参加する前にロビーで待機する会議の参加者と、会議で許可されている参加レベルを制御します。 Powershell を使用すると、Teams の管理センターで、まだ実装されていない (「近いうちに」というラベルの) ミーティングポリシー設定を更新できます。  すべてのユーザーがロビーをバイパスできるようにする PowerShell コマンドレットの例については、以下を参照してください。  
+ダイヤルイン、外部、匿名の各ユーザーを含むすべてのユーザーがロビーをバイパスできるようにする場合は、PowerShell を使用して実行できます。 組織のグローバル会議ポリシーを変更する例を次に示します。
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+現在、このコマンドレットでは、Skype for Business PowerShell モジュールを使用する必要があります。 このコマンドレットを使用するには、PowerShell を使用してポリシーを管理することをご確認ください。
+
+新しいポリシーをセットアップして、ユーザーに適用する必要があります。 グローバルポリシーを変更すると、ユーザーに自動的に適用されます。 ポリシーを変更する場合は、ポリシーが有効になるまで、少なくとも4時間、最大24時間待機する必要があります。
+
+このような変更を行う前に、次のドキュメントを必ず確認してください。
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teams 会議ロビーポリシーコントロールについて
 
 - [[ユーザーに自動的に](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people)許可するのは開催者ごとのポリシーで、ユーザーが会議に直接参加するか、認証されたユーザーによって許可されるまでロビーで待機するかを制御します。
 
@@ -30,15 +40,4 @@ ms.locfileid: "37380105"
 
 - [[開催者にロビーの設定を上書きすることを許可](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)する] (**近日**) は開催者ごとのポリシーで、会議の開催者が**自動的にユーザー**を許可し、ダイヤルインを**許可するために管理者が設定したロビー設定を上書きできるかどうかを制御します。ユーザー**が新しい会議をスケジュールするときに、ロビーをバイパスする。
 
-**注:** Microsoft Teams の会議ポリシーの完全な概要については、「 [teams での会議ポリシーの管理](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)」を参照してください。 
-
-
-**PowerShell の例**
-
-外部または匿名ユーザーを含むすべてのユーザーがロビーをバイパスできるようにする場合は、PowerShell を使用してこのタスクを実行することもできます。  ここでは、組織のグローバル会議ポリシーを変更する例を示します。   
-
-(この変更を行う前に、上記のドキュメントを必ずご確認ください)。
-
-CsTeamsMeetingPolicy-Identity Global-AutoAdmittedUsers 「Everyone」-AllowPSTNUsersToBypassLobby $True
-
-詳細については、「 [CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps)」を参照してください。
+**注:** Microsoft Teams の会議ポリシーの完全な概要については、「 [teams での会議ポリシーの管理](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)」を参照してください。
