@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501048"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36743278"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="c2e3f-102">"ライセンスのない製品" エラーの解決方法の提案</span><span class="sxs-lookup"><span data-stu-id="c2e3f-102">Suggestions for solving 'Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="95786-102">"ライセンスのない製品" エラーの解決方法の提案</span><span class="sxs-lookup"><span data-stu-id="95786-102">Suggestions for solving 'Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="c2e3f-p101">Office 365 Business または Business Premium などのクライアント ライセンスを許可するサブスクリプションがあることを確認し、[ユーザーにライセンスが割り当てられていることを確認します](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)。サブスクリプションでサポートされているインストール数を超えているかどうかを確認するために、[非アクティブ化してインストール](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)します。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-p101">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="95786-p101">Office 365 Business または Business Premium などのクライアント ライセンスを許可するサブスクリプションがあることを確認し、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。サブスクリプションでサポートされているインストール数を超えているかどうかを確認するために、[非アクティブ化してインストール](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)します。</span><span class="sxs-lookup"><span data-stu-id="95786-p101">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="c2e3f-105">ユーザーが、割り当てられているライセンスと同じアカウントでサインインしていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="95786-105">ユーザーが、割り当てられているライセンスと同じアカウントでサインインしていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="95786-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="c2e3f-106">[ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行します。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="95786-106">[ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行します。</span><span class="sxs-lookup"><span data-stu-id="95786-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="c2e3f-107">サブスクリプションが期限切れの状態であるかどうかを確認する</span><span class="sxs-lookup"><span data-stu-id="c2e3f-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="95786-107">サブスクリプションが期限切れの状態であるかどうかを確認する</span><span class="sxs-lookup"><span data-stu-id="95786-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="c2e3f-108">[Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="95786-108">[Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="95786-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="c2e3f-109">[Office のオンライン修復を実行します](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="95786-109">[Office のオンライン修復を実行します](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。</span><span class="sxs-lookup"><span data-stu-id="95786-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="c2e3f-110">その他のトラブルシューティング ソリューションについては、[Office でのライセンスのない製品エラーとアクティブ化エラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="c2e3f-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="95786-110">その他のトラブルシューティング ソリューションについては、[Office でのライセンスのない製品エラーとアクティブ化エラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="95786-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
