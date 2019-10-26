@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 5a72a74710a01cf958fa468b80ee67a4034c4383
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372349"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36554954"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint でのアクセス許可の継承のしくみ
 

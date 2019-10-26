@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371809"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36552993"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>SharePoint Online でアイテムを復元する
 
