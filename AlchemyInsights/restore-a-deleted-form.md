@@ -11,13 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: c378a490ccb6ffc79422183e0d35682d354d3cb5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
+ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509708"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37681692"
 ---
 # <a name="restore-a-deleted-form"></a>削除されたフォームを復元する
 
-Microsoft Forms のフォームを誤って削除してしまった場合は、フォームを復元することができます。 詳細については、「[フォームを削除する](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)」を参照してください。
+Microsoft Forms のフォームを誤って削除してしまった場合は、フォームを復元することができます。 削除されたフォームの所有者として Microsoft Forms にサインインします。 [**ごみ箱**] を選択してから、回復するフォームを選択し、[**復元**] を選択します。 復元が完了したら、[**フォームに戻る**] ページの矢印を選択します。
+
+フォームの所有者のみが復元できます。 フォーム所有者のアカウントが無効になっているか、テナントから削除されている場合、グローバル管理者のみがフォームを回復できます。 グローバル管理者が復元を実行するには、Forms ライセンスが必要です。 ユーザー アカウントが無効になっているか、テナントから削除されてから 30 日以内に作成されたフォームのみを復元できます。
+
+テナントのグローバル管理者であり、削除または無効化されたアカウントでフォームを復元する場合は、次の URL **https://forms.office.com/Pages/delegatepage.aspx?originalowner=[メール アドレス]** で [メール アドレス] を削除または無効化されたユーザーのメール アドレスに置き換えます。たとえば、メール アドレスが johndoe@contoso.com の場合、URL は **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** のようになります。 
+
+ユーザーの削除したフォームにアクセスしたら、移動するフォームを選択し、[**その他のフォームのアクション**] > [**移動**] の順に選択します。
+
+削除され、ユーザが組織から削除されたフォームを復元したい場合、グローバル管理者は Office 365 でユーザを復元し、そのユーザのパスワードをリセットしてからそのユーザーとしてログインしている間、別のアクティブなユーザーにフォームを移動することができます。 
