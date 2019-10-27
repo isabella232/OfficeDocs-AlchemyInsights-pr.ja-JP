@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: MT
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501223"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576881"
 ---
 # <a name="subscription-information"></a>サブスクリプション情報
 
-所有する Office 365 サブスクリプションの詳細については、管理センターで、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページにアクセスしてください。
+所有するサブスクリプションに関する情報については、[**課金**] \> [[サービスと製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
   
 各サブスクリプションに関する主要な情報
   

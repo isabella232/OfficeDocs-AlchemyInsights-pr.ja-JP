@@ -1,8 +1,7 @@
 ---
 title: サイトの名前を変更する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552896"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37658370"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint サイトの名前を変更する
 
-たとえば、サイトの名前を https://contoso.sharepoint.com/sites/sample1 から https://contoso.sharepoint.com/sites/sample2 に変更するには、新しいサイトを作成し、古いサイトのすべてのコンテンツを新しいサイトに移動します。ドキュメント ライブラリ内の項目を移動する方法については、「[SharePoint ドキュメント ライブラリから項目を移動またはコピーする](https://go.microsoft.com/fwlink/?Linkid=2018691)」を参照してください。
-  
-注: SharePoint Online の URL 内のドメイン名 (上記 URL の contoso 部分) を変更しようとしても、それを行うことはできません。[ドメイン名の変更](https://go.microsoft.com/fwlink/?Linkid=2018696)に関するページを参照してください。
+たとえば、https://contoso.sharepoint.com/sites/sample1 から https://contoso.sharepoint.com/sites/sample2 など、サイトの名前を変更するには、[この記事](https://docs.microsoft.com/sharepoint/change-site-address) の手順を実行します。
+
+**注:** SharePoint Online URL でドメイン名 (上記の例では、URL の contoso パーツ) を変更することはできません。 詳細については、[ドメインの変更](https://go.microsoft.com/fwlink/?Linkid=2018696) を確認してください。
   
