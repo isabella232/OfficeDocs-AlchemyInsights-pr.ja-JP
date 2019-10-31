@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: 7d3ab10dd41986a9741212350e138899d6263f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: de206611d9f01a498f181c71f5f5ac5f5827d0d9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544536"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768787"
 ---
 # <a name="get-information-about-microsoft-forms"></a>Microsoft Forms に関する情報を入手する
 
-Microsoft Forms についてのご質問でしょうか。 エラー、使用している機能などの問題を簡単に言い換えて説明すると、より正確な回答を得ることができます。 
+Microsoft Forms に関する特定の情報については、質問を簡潔に言い換えて、エラー、使用している機能などを含め、問題を説明してください。 
 
 その他のリソースを以下に紹介します。
 

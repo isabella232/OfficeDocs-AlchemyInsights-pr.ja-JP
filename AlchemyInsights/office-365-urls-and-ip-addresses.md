@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522040"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775320"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 の URL と IP アドレスの範囲
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 の URL と IP アドレスの範囲 
 
-Office 365 にはインターネットへの接続が必要です。ユーザーが Office 365 にアクセスするには、この記事の最後の [Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)に到達できる必要があります。
+Office 365 では、*エンドポイント*と呼ばれる特定の IP アドレスを介したインターネットへの接続が必要です。
+到達可能にする必要があるエンドポイントのリストについては、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」をご覧ください 
+
+Office 365 IP アドレスと URL の Web サービスを利用することにより、Office 365 のネットワーク トラフィックの識別と区別がより効率的になり、変更の評価、構成、および最新情報の取得が容易になります。 「[Office 365 IP アドレスと URL の Web サービス](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)」を参照してください。
