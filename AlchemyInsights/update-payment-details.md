@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660941"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921819"
 ---
 # <a name="update-payment-details"></a>お支払いの詳細の更新
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660941"
 4. 更新後、[**保存**] を選択します。
 
 5. このお支払い方法を削除するには、[**削除**] を選択します。
+
+**トラブルシューティング**
+
+ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。 
 
 詳細については、「[Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」 (一般法人向け Office 365 でクレジット カードや銀行口座を追加、更新、削除する) と「[Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)」 (クレジット カードと銀行口座のトラブルシューティング) を参照してください。
