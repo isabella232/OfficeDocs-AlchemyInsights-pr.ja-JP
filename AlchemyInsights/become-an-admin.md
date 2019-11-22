@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517684"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704358"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="ff5a7-102">管理者になる</span><span class="sxs-lookup"><span data-stu-id="ff5a7-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="e8e3f-102">管理者になる</span><span class="sxs-lookup"><span data-stu-id="e8e3f-102">Become an Admin</span></span>
 
-<span data-ttu-id="ff5a7-103">この組織で管理者の役割を担当するには、そのテナントを引き継ぐ必要があります。</span><span class="sxs-lookup"><span data-stu-id="ff5a7-103">To assume the admin role for this organization, you need take over the tenant.</span></span>
+<span data-ttu-id="e8e3f-103">組織内で管理者の役割を担当するには、Office 365 内のテナントを引き継ぐ必要があります。</span><span class="sxs-lookup"><span data-stu-id="e8e3f-103">To assume the admin role for this organization, you need take over the tenant.</span></span>
   
-<span data-ttu-id="ff5a7-104">「[Office 365 で管理者の引き継ぎを行う](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)」のガイドの手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="ff5a7-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)</span></span>
+<span data-ttu-id="e8e3f-104">「[管理者の引き継ぎ](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)」のガイドの手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="e8e3f-104">Follow the instructions in this guide: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)</span></span>
