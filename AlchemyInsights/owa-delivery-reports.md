@@ -3,18 +3,17 @@ title: Outlook on the web の配信不能レポート
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 50ce3ef6b507199914992c9ef580fb14dae552bd
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35085982"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768661"
 ---
 # <a name="issues-with-email-delivery"></a>メールの配信に関する問題
 

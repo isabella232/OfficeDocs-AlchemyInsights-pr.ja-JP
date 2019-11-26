@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
-ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
+ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
+ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704358"
+ms.locfileid: "38715425"
 ---
 # <a name="become-an-admin"></a>管理者になる
 
 組織内で管理者の役割を担当するには、Office 365 内のテナントを引き継ぐ必要があります。
   
-「[管理者の引き継ぎ](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)」のガイドの手順に従ってください。
+「[管理者の引き継ぎ](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)」のガイドの手順に従ってください。

@@ -2,18 +2,17 @@
 title: サイトを作成する
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: 76f963d0efded0aadba1e10d217e7f146a8707f3
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.openlocfilehash: fd09c720f8f2eae7233d07c287a9c03b8793b2b2
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747537"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769560"
 ---
 # <a name="create-a-site"></a>サイトを作成する
 
@@ -21,7 +20,7 @@ ms.locfileid: "36747537"
     
 - 新しい SharePoint 管理センターのサイト ページで、**[作成]** をクリックします。 
     
- **注:** 既存のサイトと同じ URL を持つサイトを新しく作成することはできません。 
+**注:** 既存のサイトと同じ URL を持つサイトを新しく作成することはできません。 
   
 サイト作成の詳細については、「[サイトを作成する](https://go.microsoft.com/fwlink/?linkid=866295)」を参照してください。
   

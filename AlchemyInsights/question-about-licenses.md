@@ -3,7 +3,6 @@ title: ライセンスについて質問する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666665"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768625"
 ---
 # <a name="questions-about-your-office-365-license"></a>Office 365 ライセンスについて質問する
 

@@ -2,7 +2,6 @@
 title: 共有メールボックスの受信トレイ ルールの作成
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: d64e7441bb1a701144921b9b2345bfeea005d090
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ac301788593c33d7a305f984d2caa00c9d25ea58
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514840"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769452"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>共有メールボックスの受信トレイ ルールの作成
 
