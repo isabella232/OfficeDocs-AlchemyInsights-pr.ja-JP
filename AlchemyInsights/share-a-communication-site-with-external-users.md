@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
 ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36751965"
@@ -27,6 +27,6 @@ ms.locfileid: "36751965"
   
 4. トップ メニューから [**共有**] ボタンを選択します。 
   
- **注:** 複数のサイトを選択していると、**[共有]** ボタンが無効表示になります。1 つのサイトのみを選択してください。 
+ **注:** 複数のサイトを選択していると、[**共有**] ボタンが無効表示になります。1 つのサイトのみを選択してください。 
   
 

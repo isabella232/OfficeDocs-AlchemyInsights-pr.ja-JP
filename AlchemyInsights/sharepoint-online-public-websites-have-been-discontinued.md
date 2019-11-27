@@ -13,15 +13,15 @@ ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
 ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
 ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36750309"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online のパブリック web サイトは廃止されました
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online パブリック Web サイトのサービスは終了しました
 
-SharePoint Online のパブリック web サイトは廃止されました。
+SharePoint Online パブリック Web サイトのサービスは終了しました。
 
-SharePoint Online のパブリック web サイトを作成した場合は、2018年3月31日から引き続き使用することができました。 パブリック web サイトを引き続き使用する場合は、新しいプロバイダーを使用して新しい web サイトを作成する必要があります。 SharePoint Online のパブリック web サイト上のコンテンツは削除されました。
+SharePoint Online パブリック Web サイトを作成していた場合、そのサイトは 2018 年 3 月 31 日から使用できなくなっています。 パブリック Web サイトを維持する場合は、新しいプロバイダーで新しいサイトを作成する必要があります。 SharePoint Online パブリック Web サイトのコンテンツは削除されています。
 
-パブリック web サイトの中止については、「[機能中止プロセスの詳細](https://go.microsoft.com/fwlink/?linkid=866980)」を参照してください。
+パブリック Web サイトのサービス終了の詳細については、[この機能のサービス終了プロセスに関する詳細](https://go.microsoft.com/fwlink/?linkid=866980)を参照してください。
