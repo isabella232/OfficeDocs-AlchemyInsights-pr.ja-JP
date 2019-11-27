@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751677"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37766896"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint のワークフロー
 
-SharePoint ワークフローが電子メールを送信していない場合は、組織で Exchange Online の送信者の制限が発生している可能性があります。
+SharePoint のワークフローでメールが送信されていない場合、組織が Exchange Online の送信者制限を行っている可能性があります。
 
-次のいずれかのアイテムがある場合、"ワークフローは中断されています" というエラーメッセージが発生することがあります。
+次の項目のいずれかに該当する場合は、「ワークフローは中断されています」エラー メッセージが発生する可能性があります。
 
 - SharePoint Online に、SharePoint 2010 または SharePoint 2013 ワークフロー プラットフォームの種類を使用しているワークフローがあります。
 

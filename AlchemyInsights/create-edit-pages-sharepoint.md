@@ -1,6 +1,6 @@
 ---
 title: SharePoint サイトを作成する
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,19 +8,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: f5e39ee3f4b8f543987267e873ef24a8f452c209
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515488"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769524"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>SharePoint サイトでモダン ページを作成および編集する
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>SharePoint サイトで最新のページを作成および編集する
 
-ファイルとページはすばやく簡単に編集できます。これらは任意のデバイスに適切に表示されます。 詳細については、次のリンクを参照してください。
+ファイルとページはすばやく簡単に編集できます。これらは任意のデバイスに適切に表示されます。 詳細については、次のリンク先を参照してください。
 
 
-- [SharePoint サイトでモダン ページを作成および編集する](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [SharePoint サイトで最新のページを作成および編集する](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
 
 - [SharePoint サイトで従来のページを作成および編集する](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
 

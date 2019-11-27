@@ -3,7 +3,6 @@ title: Alchemy - Outlook.com でパスワードを変更する
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: bf6d6736eaf281bcd03f2fe8a204c8e42c81822f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 06f914ae1a5dc35c60a6f4586d632a78a6e582a8
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398155"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37766824"
 ---
 # <a name="change-your-password"></a>パスワードを変更する
 
-パスワードを忘れた場合は、[Microsoft アカウント パスワードのリセット ページ](https://go.microsoft.com/fwlink/p/?linkid=841909)に移動します。それ以外の場合は、以下の指示に従います。
+Outlook.com パスワードを忘れた場合は、[Microsoft アカウント パスワードのリセット ページ](https://go.microsoft.com/fwlink/p/?linkid=841909)に移動します。それ以外の場合は、以下の指示に従います。
   
-1. 右上隅にある名前またはプロファイル画像を選択し、[**アカウントの表示**] を選択します。 
+1. 右上隅にある名前またはプロファイル画像を選択し、**[マイ アカウント]** を選択します。 
     
-2. こんにちはバナーで、[**パスワードの変更**] を選択します。 
+2. 自分の名前で、**[その他の操作]**  >  **[パスワードの変更]** を選択します。 
     
-3. 新しいパスワードを選択し、[**保存**] を選択します。 
+3. 署名の手順に従って、新しいパスワードを選びます。 
     
 詳細については、「[Outlook.com でパスワードを変更する](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)」を参照してください。
   

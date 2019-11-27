@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: 5562ace93ed1e85cf18c876788683e68a82b4f33
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b74188d74a6184ecd35b7a83e4b27ee6d38eb07f
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396151"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768517"
 ---
 # <a name="configure-mail-and-calendar-delegates"></a>メールと予定表の代理人を構成する
 
-自分のメールボックスに他のユーザーがアクセスできるようにするには、「[自分のメールと予定表の管理を他のユーザーに許可する](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)」を参照してください。
+自分の Outlook メールボックスに他のユーザーがアクセスできるようにするには、「[自分のメールと予定表の管理を他のユーザーに許可する](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)」を参照してください。

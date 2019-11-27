@@ -15,16 +15,16 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643699"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768733"
 ---
 # <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
 
-受信拒否リストのメール アドレスまたはドメインからのメッセージは、直接 [迷惑メール] フォルダーに移動します。 [迷惑メール] フォルダーのメールは 30 日経過すると自動的に削除され、復元できなくなります。 アイテムを選択して、いつ削除されるかを確認します。
+受信拒否リストのメール アドレスまたはドメインからのメッセージは、直接 Outlook の [迷惑メール] フォルダーに移動します。 [迷惑メール] フォルダーのメールは 30 日経過すると自動的に削除され、復元できなくなります。 アイテムを選択して、いつ削除されるかを確認します。
 
 **[受信トレイ] から:**
 

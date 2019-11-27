@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747832"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768301"
 ---
 # <a name="anonymous-sharing"></a>匿名の共有
 
@@ -23,7 +23,7 @@ ms.locfileid: "36747832"
   
 - 次のオプションを選択します: **[認証済み外部ユーザーへの共有と匿名アクセスの使用を許可する]** 
   
-(必要に応じて、指定した日数が経過すると有効期限が切れるようにリンクを設定し、受信者によるリンクの使用方法を選択できます。)
+(必要に応じて、指定した日数が経過すると有効期限が切れるようにリンクを設定し、受信者によるリンクの使用方法を選択できます)
     
  **匿名でファイルまたはフォルダーを共有する**
   

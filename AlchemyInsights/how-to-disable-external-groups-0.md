@@ -2,7 +2,6 @@
 title: 外部グループを無効にする方法
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: b057a6cf113416c4eb3addaa8fdb76dcb941c032
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
-ms.locfileid: "36818322"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769056"
 ---
-# <a name="ow-to-give-access-to-external-users-in-yammerh"></a>Yammer で外部ユーザーにアクセスを許可する方法
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Yammer で外部ユーザーにアクセスを許可する方法
 
 外部ユーザーが Yammer 内のネットワークにアクセスする方法は 4 つあります。
   

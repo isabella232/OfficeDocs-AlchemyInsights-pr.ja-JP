@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750849"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37766788"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>SharePoint から Office ファイルを開くときの問題
 
@@ -29,5 +29,5 @@ ms.locfileid: "36750849"
 
 詳細情報については、記事「[SharePoint ライブラリでドキュメントを開く際に発生する問題の解決](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)」を参照してください。
 
-**注**: 既定のブラウザーまたはクライアントでドキュメントを開くときに問題が発生する場合は、ライブラリ設定を変更することが必要な場合があります。 これを行うには、「ライブラリで発生する問題」に移動して、右上隅の歯車アイコンから、[ライブラリの設定]、[詳細設定]、[ブラウザーでドキュメントを開く] の順に移動します。
+**注**: 既定のブラウザーまたはクライアントでドキュメントを開くときに問題が発生する場合は、ライブラリ設定の変更が必要な場合があります。 これを行うには、「ライブラリで発生する問題」に移動して、右上隅の歯車アイコンから、**[ライブラリの設定]**  >   **[詳細設定]**  >  **[ブラウザーでドキュメントを開く]** の順に移動します。
 

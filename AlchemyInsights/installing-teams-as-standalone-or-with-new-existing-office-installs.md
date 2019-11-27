@@ -1,5 +1,5 @@
 ---
-title: Teams をスタンドアロンとして、または新しい/既存の Office インストールと共にインストールする
+title: Teams をスタンドアロンとして、または新規や既存の Office インストールでのインストール
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
-ms.translationtype: MT
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37370707"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768878"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンまたは新規または既存の Office インストールとしてインストールする
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規や既存の Office インストールでの展開
 
-Microsoft Teams は、Office 365 ProPlus、Office 365 Business、および Office for Mac の*新規インストール*の一部として追加されました。 詳細については、「 [Office の新規インストールにいつ Microsoft Teams が組み込まれ始めますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus) 」を参照してください。
+Microsoft Teams は、Office 365 ProPlus、Office 365 Business、および Office for Mac の*新規インストール*の一部として含まれています。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)」を参照してください。
 
-また、月次チャネルのバージョン1906以降では、既存のインストールを最新バージョンに更新するときに、Windows を実行しているデバイスに Teams が既存の Office 365 ProPlus (および Office 365 Business) に*追加*されます。 詳細については、「 [Office の既存のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
+さらに、月次チャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が*既存の Office 365 ProPlus (および Office 365 Business) インストールに追加*されます。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
 
-次の[手順に従う](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ことによって、ユーザーのために teams をスタンドアロンとして展開することがhttps://teams.microsoft.com/downloadsできます。または、ユーザーが自分のチームを自分でインストールすることもできます。
+[次の手順に従って](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)、ユーザーにスタンドアロンとして Teams を今すぐ展開できます。または、ユーザーに、https://teams.microsoft.com/downloads から Teams を自分でインストールしてもらうこともできます。
 
-Teams をインストールすると、新しい機能と品質更新プログラムにより、ほぼ2週間ごと[に自動的に更新さ](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)れます。 
+インストール後の Teams は、約 2 週間ごとに新しい機能と品質の更新プログラムによって[自動的に更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)されます。 
 
