@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: MT
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661049"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37658298"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="26a60-102">OneDrive の記憶域を管理する</span><span class="sxs-lookup"><span data-stu-id="26a60-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="e3a07-102">OneDrive の記憶域を管理する</span><span class="sxs-lookup"><span data-stu-id="e3a07-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="26a60-103">新規および既存の OneDrive ユーザーの既定の記憶域を変更するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="26a60-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="26a60-104">[OneDrive 管理センターの [記憶域] ページ](https://admin.onedrive.com/?v=StorageSettings)に移動してから、新しい容量を GB 単位で入力します。</span><span class="sxs-lookup"><span data-stu-id="26a60-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="e3a07-103">OneDrive の記憶領域は、テナントの総クォータにはカウントされません。</span><span class="sxs-lookup"><span data-stu-id="e3a07-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="26a60-105">この記憶域の設定は、特定の記憶域の制限を設定していないすべてのユーザーに適用されます。</span><span class="sxs-lookup"><span data-stu-id="26a60-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="26a60-106">特定のユーザーのストレージ領域を変更するには、Microsoft PowerShell を使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="26a60-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="26a60-107">これを行う方法については、「 [PowerShell を使用してユーザーの OneDrive の記憶域スペースを変更](https://go.microsoft.com/fwlink/?linkid=866402)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="26a60-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="26a60-108">自分の OneDrive で使用している記憶域の容量を確認するには、「 [onedrive For business ストレージを管理](https://go.microsoft.com/fwlink/?linkid=866429)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="26a60-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="26a60-109">各プランに付属するストレージの詳細については、「 [OneDrive For business サービスの説明](https://go.microsoft.com/fwlink/p/?LinkID=826071)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="26a60-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="e3a07-104">[OneDrive の記憶領域がユーザーまたはプランごとに割り当てられる方法](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="e3a07-105">[OneDrive で使用している記憶域のサイズ](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="e3a07-106">[PowerShell を使用して OneDrive の記憶域のクォータを取得する方法](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="e3a07-107">最初にユーザー 1 人あたり 1 TB が Microsoft により提供されますが、管理者は 1 人あたり 5 TB まで増やすことができます。</span><span class="sxs-lookup"><span data-stu-id="e3a07-107">For subscriptions with 5 or more users (can be any combination of qualifying plans), Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="e3a07-108">[OneDrive ユーザー向けに既定の記憶領域を設定する方法](https://docs.microsoft.com/onedrive/set-default-storage-space)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="e3a07-109">[特定のユーザーの OneDrive の記憶域を変更する方法](https://docs.microsoft.com/onedrive/change-user-storage)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="e3a07-110">[グローバル管理者が PowerShell を使用して OneDrive の記憶域のクォータをすべてのユーザーについて設定する方法](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)の説明。</span><span class="sxs-lookup"><span data-stu-id="e3a07-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
