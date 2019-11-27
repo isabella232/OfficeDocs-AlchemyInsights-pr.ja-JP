@@ -2,7 +2,6 @@
 title: ターミナル サーバーに Office をインストールする - ライセンスなし
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498420"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37205414"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>ターミナル サーバーに Office をインストールする
 
@@ -26,7 +25,10 @@ ms.locfileid: "36498420"
 
 - [共有コンピューターのライセンス認証](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)を有効にする必要があります。
 
-Office 365 ポータルから RDS に Office 365 ProPlus をインストールする場合 (***既定のインストール設定を使用***) は、次の手順に従います。
+Microsoft 365 管理センターから Office 365 ProPlus を RDS にインストールする場合 (***既定のインストール設定を使用***) は、次の手順を使用します。
+
+> [!TIP]
+> Office 365 ProPlus を共有コンピューターのライセンス認証モードでインストールするには、[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA_OfficeSCA_M365Portal)をダウンロードして実行することもできます。
   
 1. ご利用の Office 365 プランを確認します ([詳細](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have))。
 
@@ -34,9 +36,9 @@ Office 365 ポータルから RDS に Office 365 ProPlus をインストール�
 
 3. その他の Office 365 プランを使用して Office が RDS サーバーに既にインストールされている場合は、Office をアンインストールします。たとえば、[コントロール パネル] \> [プログラムのアンインストール] に移動します。問題が発生する場合は、[Microsoft サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)を使用してアンインストールします。
 
-4. RDS サーバーで、管理者アカウントを使用して Office 365 ポータルにサインインし、[Office 365 ProPlus をインストールします](https://portal.office.com/OLS/MySoftware.aspx)。
+4. RDS サーバーで、管理者アカウントを使用して Microsoft 365 管理センターにサインインし、[Office 365 ProPlus をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
 
-5. Office のインストール後には、Office アプリケーションを***開いたり、サインインしたりしないでください***。
+5. Office のインストール後は、Office アプリケーションを***開いたり、サインインしたりしないでください***。
 
 6. RDS サーバーで、次の手順に従ってレジストリを編集し、共有コンピューターのライセンス認証を有効にします。
 

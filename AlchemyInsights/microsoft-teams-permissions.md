@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: ab2349f71e1d75dd55a3efa39b076433d9d10546
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
-ms.translationtype: MT
+ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380094"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37590427"
 ---
 # <a name="microsoft-teams-permissions"></a>Microsoft Teams のアクセス許可
 
-Microsoft Teams には、所有者とメンバーという2つのユーザーロールがあります。 既定では、新しいチームを作成したユーザーには所有者の状態が付与されます。 また、所有者とメンバーは、チャネルのモデレーター機能を持つことができます (モデレートが設定されている場合)。 既存の Office 365 グループからチームを作成した場合、アクセス許可は継承されます。 詳細については、次のトピックを参照してください。
+Microsoft Teams には、所有者とメンバーという 2 つのユーザー ロールがあります。 既定では、新しいチームを作成したユーザーには所有者ステータスが付与されます。 また、チームの所有者とメンバーには、チャネルに対するモデレーターの機能を割り当てることができます (モデレートが設定されている場合)。 既存の Office 365 グループからチームを作成した場合、アクセス許可が継承されます。 詳細については、以下を参照してください。
 
-- [Microsoft Teams でチームの所有者とメンバーを割り当てる](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Microsoft Teams でチーム所有者とメンバーを割り当てる](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Microsoft Teams アプリのアクセス許可と考慮事項](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Teams のチャネルのゲストアクセス許可を設定する](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Teams でチャネルのゲストのアクセス許可を設定する](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

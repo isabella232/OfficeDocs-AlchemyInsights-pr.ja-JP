@@ -3,7 +3,6 @@ title: メールボックス サイズの拡大
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +12,31 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 67575a64090b013e9cd65123100c77f6f3599cdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 32c571619b09eb43abb4869492e3d19264d09e5d
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499320"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36712033"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランを切り替える
 
-メールボックスのサイズが既に 100 GB になっている場合は、そのサイズを拡大する方法はありません。その場合は、[このアドバイス](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)に従ってください。
+Office 365 メールボックスのサイズが既に 100 GB に達している、それ以上増やすことはできません。
   
 メールボックスのサイズが既に 100 GB である場合は、メールボックスのサイズを増やす方法はありません。メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の Office 365 プランに切り替える手順を次に示します。
   
-1. Microsoft 365 管理センターで、[[サブスクリプション]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動するか、**[課金]** \> **[サブスクリプション]** の順に選択します。
+1. Microsoft 365 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
-2. [**プランの切り替え**] を選択して、利用可能な新しいプランの一覧を表示します。
+2. アップグレードするサブスクリプションを選択します。
 
-3. プランを選択し、1 か月あたりの新しい費用の合計を表示します。 **重要な情報**に必ず目を通し、[ **次へ**] を選択して購入手続きへ進みます。
+3. [サブスクリプションの詳細] ページで、[**アップグレード**] を選択します。
 
-4. 購入手続の完了後、Office 365 による切り替えの最終処理に数分間かかります。新しいサブスクリプションは、すぐに使用開始できます。
+4. アップグレードする計画を見つけ、[**アップグレード**] ボタンを選択します。
 
-詳細については、「[別の Office 365 プランに切り替える](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)」を参照してください。
+5. 必要なライセンス数を入力し、月払いまたは年払いのどちらにするかを選択し、[**チェックアウト**] を選択します。
+
+詳細については、「[別のプランにアップグレードする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。
+
+以前の管理センターを使用している場合。 詳細については、「[別のプランに切り替える](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)」を参照してください。 
   
 「[インプレース アーカイブをサポートする O365 プラン](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)」をお持ちの場合は、アーカイブ メールボックスを有効化して追加のメール ストレージを入手することもできます。  アーカイブ メールボックスによって追加のストレージが与えられることにより、プライマリー メールボックスとアーカイブ メールボックスの両方を移動するメッセージのコピーと検索が行えるようになります。 アーカイブ メールボックスを有効化する手順については、「[アーカイブ メールボックスの有効化](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。

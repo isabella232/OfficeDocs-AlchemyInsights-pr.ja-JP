@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 0a66d2b39e77284edb8539c22121598183c9bce4
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
-ms.translationtype: MT
+ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380096"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37681711"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Microsoft Teams で Planner を使用する
 
-チームチャネルに1つ以上の Planner タブを追加して、タスクを整理します。 
+Teams チャネルに Planner のタブを 1 つ以上追加して、タスクを整理します。 
 
-- [チームチャネルに [プランナー] タブを追加](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)します。 タブを追加するユーザーは、所有者だけでなく、チームのメンバーである必要があります。 Microsoft Teams インターフェイスを使用して、ユーザーをメンバーとして追加することができます。
-- [既存のプランを Microsoft Teams に追加](https:/techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)します。
-- [[プランナー] タブを削除するか、プランを削除](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)します。 削除されたプランを Teams で回復することはできません。 グループが既に削除されている場合は、[削除されたプランとグループを復元](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)することができます。
-- [Teams での Planner の割り当て通知を有効または無効](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)にします。
+- [チーム チャネルに Planner のタブを追加します](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)。 タブを追加するユーザーは、所有者であるだけではなく、チームのメンバーである必要があります。 Microsoft Teams のインターフェイス経由で、メンバーとしてユーザーを追加できます。
+- [既存のプランを Microsoft Teams に追加します](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)。
+- [Planner タブを削除するか、プランを削除します](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)。 削除されたプランは、Teams で復元することはできません。 既にグループが削除されている場合は、[削除されたプランとグループを復元することができます](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)。
+- [Teams で Planner の課題の通知を有効または無効にします](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)。
 
-**注:** Planner の Microsoft Teams との統合に関する一般的な概要については、「 [Microsoft teams で planner を使用する](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)」を参照してください。
+**注:** Microsoft Teams での Planner の統合の概要については、「[Microsoft Teams で Planner を使用する](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)」を参照してください。
