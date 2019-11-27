@@ -3,7 +3,6 @@ title: 自動保存とは
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 800267eb910d09fb60be363a811298850367eb1f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387818"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769164"
 ---
-# <a name="what-is-autosave"></a><span data-ttu-id="ab815-102">自動保存とは</span><span class="sxs-lookup"><span data-stu-id="ab815-102">What is AutoSave?</span></span>
+# <a name="what-is-autosave"></a><span data-ttu-id="8f0f5-102">自動保存とは</span><span class="sxs-lookup"><span data-stu-id="8f0f5-102">What is AutoSave?</span></span>
 
-<span data-ttu-id="ab815-103">自動保存は、Office 365 をご利用の方が Excel、Word、および PowerPoint で使用できる新機能で、作業中に数秒ごとにファイルが自動的に保存されます。</span><span class="sxs-lookup"><span data-stu-id="ab815-103">AutoSave is a new feature available in Excel, Word, and PowerPoint for Office 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
+<span data-ttu-id="8f0f5-103">自動保存は、Office 365 をご利用の方が Excel、Word、および PowerPoint で使用できる機能で、作業中に数秒ごとにファイルが自動的に保存されます。</span><span class="sxs-lookup"><span data-stu-id="8f0f5-103">AutoSave is a new feature available in Excel, Word, and PowerPoint for Office 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
 
-<span data-ttu-id="ab815-104">よく寄せられる質問については、「[自動保存とは](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ab815-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>
+<span data-ttu-id="8f0f5-104">よく寄せられる質問については、「[自動保存とは](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8f0f5-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>
