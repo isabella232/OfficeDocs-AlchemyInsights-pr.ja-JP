@@ -13,14 +13,14 @@ ms.custom:
 - "1"
 ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
 ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36737230"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="54810-102">ユーザーのメール アドレスを追加または削除する</span><span class="sxs-lookup"><span data-stu-id="54810-102">Add or remove an email address for a user</span></span>
+# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="1c7ce-102">ユーザーのメール アドレスを追加または削除する</span><span class="sxs-lookup"><span data-stu-id="1c7ce-102">Add or remove an email address for a user</span></span>
 
-<span data-ttu-id="54810-103">開始するには、Microsoft 365 管理センターで以下の[手順を実行](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)します。</span><span class="sxs-lookup"><span data-stu-id="54810-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
+<span data-ttu-id="1c7ce-103">Microsoft 365 管理センターの[これらの手順に従って](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)作業を開始します。</span><span class="sxs-lookup"><span data-stu-id="1c7ce-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
 
- <span data-ttu-id="54810-p101">**注**: ユーザー用のメール アドレスは複数持つことができますが、追加の*メール エイリアス*は、メールを受信する場合にのみ使用できます。エイリアスを使用してメールを送信する必要がある場合は、[共有メールボックス](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)を作成します。このようにメールを送受信するエイリアスが表示されます。</span><span class="sxs-lookup"><span data-stu-id="54810-p101">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email. If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). This way you'll get the alias to send and receive mail.</span></span>
+ <span data-ttu-id="1c7ce-p101">**注**: ユーザー用のメール アドレスは複数持つことができますが、追加の*メール エイリアス*は、メールを受信する場合にのみ使用できます。エイリアスを使用してメールを送信する必要がある場合は、[共有メールボックス](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)を作成します。このようにメールを送受信するエイリアスが表示されます。</span><span class="sxs-lookup"><span data-stu-id="1c7ce-p101">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email. If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). This way you'll get the alias to send and receive mail.</span></span>
   
