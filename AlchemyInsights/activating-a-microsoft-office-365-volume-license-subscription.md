@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
 ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36661193"
@@ -30,6 +30,6 @@ ms.locfileid: "36661193"
 
 4. 電子メールでのアクティブ化には、**サインアップ**と**サインイン**の 2 つのオプションがあります。以前試用版を作成した場合は**サインイン**を選択します。まだ Office 365 テナントを持っていない場合は**サインアップ**を選択します。
 
-5. 既存の Office 365 管理者の資格情報[https://admin.microsoft.com](https://admin.microsoft.com)を使用して、Microsoft 365 管理センター () にサインインします。 サインインに成功すると、購入したことを確認する別のメールが届きます。
+5. 既存の Office 365 管理者の資格情報を使用して、Microsoft 365 管理センター ([https://admin.microsoft.com](https://admin.microsoft.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
 
-6. サインインした後、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、購入した Office 365 サブスクリプションがテナント内でアクティブ化されていることを確認できます。 (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションがデポジットされたことを確認する詳細を表示することもできます)。
+6. サインイン後、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動すると、購入した Office 365 サブスクリプションがテナント内でアクティブ化されていることを確認できます (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションが入金されていることを確認する詳細を表示することもできます)。

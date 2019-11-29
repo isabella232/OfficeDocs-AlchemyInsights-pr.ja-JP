@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
 ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
 ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36737338"
@@ -34,6 +34,6 @@ ms.locfileid: "36737338"
     
     通常、新しいエイリアスが有効になるには、約 30 分かかります。
     
-    **詳細については、次の記事を参照してください。**[ユーザーに別の電子メールエイリアスを追加する](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **詳細については、「**[ユーザーに別のメール エイリアスを追加する](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)」の記事を参照してください。
     
 

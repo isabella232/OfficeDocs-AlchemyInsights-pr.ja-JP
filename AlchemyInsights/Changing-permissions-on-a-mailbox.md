@@ -13,14 +13,14 @@ ms.custom:
 - "3500009"
 ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
 ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36734386"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>メールボックスのアクセス許可を変更する
 
-ユーザーが自分以外の Office 365 メールボックスにアクセスする必要がある場合は、それらのメールボックスを操作するためのアクセス許可を付与する必要があります。 これらのアクセス許可の割り当て方法は、メールボックスの種類によって異なります。 ユーザーがアクセスする必要がある場合:
+ユーザーが自分以外の Office 365 メールボックスにアクセスする必要がある場合は、それらのメールボックスを操作するためのアクセス許可を付与する必要があります。 これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。 ユーザーが以下にアクセスする必要がある場合:
   
 - 別のユーザーのメールボックス - 「[Office 365 の別のユーザーにメールボックス アクセス許可を付与する](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)」を参照してください。
     

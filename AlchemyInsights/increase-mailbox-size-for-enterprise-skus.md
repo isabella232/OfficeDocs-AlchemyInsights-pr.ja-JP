@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
 ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
 ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36739282"
@@ -26,7 +26,7 @@ E3 または E5 のプランでは、メールボックス サイズは既に 10
   
 1. Microsoft 365 管理センターから **[管理者]** \> **[Exchange]** の順に移動します。 
     
-2. [**受信者** \> **メールボックス**] を選択し、メールボックスを選択します。 
+2. [**受信者**] \> [**メールボックス**] を選択し、メールボックスを選択します。 
     
 3. 詳細ウィンドウの **[インプレース アーカイブ]** で、**[有効にする]** を選択します。 
     

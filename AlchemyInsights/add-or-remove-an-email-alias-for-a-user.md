@@ -13,14 +13,14 @@ ms.custom:
 - "1"
 ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
 ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36737230"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>ユーザーのメール アドレスを追加または削除する
 
-開始するには、Microsoft 365 管理センターで以下の[手順を実行](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)します。
+Microsoft 365 管理センターの[これらの手順に従って](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)作業を開始します。
 
  **注**: ユーザー用のメール アドレスは複数持つことができますが、追加の*メール エイリアス*は、メールを受信する場合にのみ使用できます。エイリアスを使用してメールを送信する必要がある場合は、[共有メールボックス](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)を作成します。このようにメールを送受信するエイリアスが表示されます。
   
