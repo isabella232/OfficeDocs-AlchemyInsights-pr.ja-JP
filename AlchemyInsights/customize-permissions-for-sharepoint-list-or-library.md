@@ -14,13 +14,13 @@ ms.custom:
 - "3166"
 ms.openlocfilehash: cf52bddd0a3b8e1f46c4ec58ad5bd15457f0c964
 ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/01/2019
 ms.locfileid: "37951109"
 ---
 # <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>SharePoint リストまたはライブラリのアクセス許可をカスタマイズする方法
 
-管理者またはライブラリ、リスト、またはアンケートの所有者は、アクセス許可を変更して、他のユーザーを制限する一方で、必要なデータにアクセスできるようにすることができます。
+ライブラリ、リスト、アンケートの管理者または所有者は、権限を変更して、1 つのユーザー グループが、必要なデータにアクセスできるように他のユーザーを制限することができます。
 
 [SharePoint リストまたはライブラリのアクセス許可をカスタマイズする](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
