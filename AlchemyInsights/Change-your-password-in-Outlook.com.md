@@ -10,17 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32365471"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36496421"
 ---
-<span data-ttu-id="74e89-p101">パスワードを忘れた場合は、[Microsoft アカウント パスワードのリセット ページ](https://go.microsoft.com/fwlink/p/?linkid=841909)に移動します。それ以外の場合は、以下の指示に従います。</span><span class="sxs-lookup"><span data-stu-id="74e89-p101">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909). Otherwise, follow the instructions below.</span></span>
-  
-1. <span data-ttu-id="74e89-104">右上隅にある名前またはプロファイル画像を選択し、[**アカウントの表示**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="74e89-104">Select your name or profile picture in the top right corner and select **View account**.</span></span>
-2. <span data-ttu-id="74e89-p102">こんにちはバナーで、[**パスワードの変更**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="74e89-p102">Under the Hello! banner, select **Change password**.</span></span>
-3. <span data-ttu-id="74e89-107">新しいパスワードを選択し、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="74e89-107">Choose a new password and select **Save**.</span></span>
+# <a name="change-your-password-in-outlook"></a><span data-ttu-id="f990f-102">Outlook でパスワードを変更する</span><span class="sxs-lookup"><span data-stu-id="f990f-102">Change your password in Outlook</span></span>
 
-<span data-ttu-id="74e89-108">詳細については、「[Outlook.com でパスワードを変更する](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="74e89-108">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
+<span data-ttu-id="f990f-p101">パスワードを忘れた場合は、[Microsoft アカウント パスワードのリセット ページ](https://go.microsoft.com/fwlink/p/?linkid=841909)に移動します。それ以外の場合は、以下の指示に従います。</span><span class="sxs-lookup"><span data-stu-id="f990f-p101">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909). Otherwise, follow the instructions below.</span></span>
+  
+1. <span data-ttu-id="f990f-105">右上隅にある名前またはプロファイル画像を選択し、[**アカウントの表示**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="f990f-105">Select your name or profile picture in the top right corner and select **View account**.</span></span>
+2. <span data-ttu-id="f990f-p102">こんにちはバナーで、[**パスワードの変更**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="f990f-p102">Under the Hello! banner, select **Change password**.</span></span>
+3. <span data-ttu-id="f990f-108">新しいパスワードを選択し、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="f990f-108">Choose a new password and select **Save**.</span></span>
+
+<span data-ttu-id="f990f-109">詳細については、「[Outlook.com でパスワードを変更する](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f990f-109">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
