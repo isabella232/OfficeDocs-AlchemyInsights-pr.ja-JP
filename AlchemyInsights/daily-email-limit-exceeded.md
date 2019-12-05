@@ -12,10 +12,10 @@ ms.custom:
 - "5200020"
 - "1227"
 ms.openlocfilehash: 5ae06919fde3c30b27975700fe17ecfd1bc2f675
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
-ms.translationtype: HT
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36818290"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>1 日のメールの制限を超えました。 ワークフローは中断されています。

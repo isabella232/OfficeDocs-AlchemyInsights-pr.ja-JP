@@ -1,5 +1,5 @@
 ---
-title: メールの移行のために EWS 調整制限を増やす
+title: メールの移行のために EWS の調整制限を増やす
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,15 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1900"
+- "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 2898711c4b97e947e660af593e59518de905b405
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 81de5eab55608de01337fdc2723c1fe8542ce45c
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499578"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37026635"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>メールの移行のために EWS 調整制限を増やす
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>メールの移行のために EWS の調整制限を増やす
 
-電子メールの移行のためのテナントの EWS 調整制限を増やすには、続けてサポートチケットを開きます。
+電子メールの移行に関するテナントの EWS 調整制限を増やすには、「サポートチケット」を開始してください。

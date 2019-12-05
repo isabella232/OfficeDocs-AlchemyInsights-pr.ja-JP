@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495864"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36737482"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>ネットワーク ドライブにマップされた SharePoint ライブラリに関する問題を修正します
 
@@ -26,7 +26,7 @@ ms.locfileid: "36495864"
 
 - **アクセスが拒否されました。この場所のファイルを開く前に、まず Web サイトを信頼済みサイトのリストに追加し、Web サイトを参照して、自動的にログインするオプションを選択してください。**
 
-[マップされたネットワーク ドライブのトラブルシューティングのヘルプを表示します](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)。
+[マップされたネットワーク ドライブのトラブルシューティングのヘルプを表示します](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)。
   
 ライブラリをネットワーク ドライブとしてマップすることは一時的であり、Internet Explorer でのみサポートされています。その代わりに、[ファイル オンデマンド](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)を含む[新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)します。OneDrive 内のすべてのファイルに、ローカル記憶域を使用することなくアクセスします。
   

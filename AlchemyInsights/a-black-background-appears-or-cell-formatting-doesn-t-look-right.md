@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389856"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36495972"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>黒い背景が表示される、またはセルの書式が正しく表示されない
 

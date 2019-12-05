@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: HT
+ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602148"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36546890"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"アクセス許可がないようです" を解決する方法
 
-".... のメールを取得するアクセス許可がないようです" というエラー メッセージが表示された場合は、次の操作を実行してください。
+"電子メールを取得するアクセス許可がありません" というエラーメッセージが表示される場合次の手順を実行してください。
 
 1. [接続されているアカウントの設定](https://outlook.live.com/mail/options/mail/accounts)を開き、エラーに示された接続されているアカウントを削除します。
 2. 接続されているアカウントをもう一度追加します。

@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389720"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36496116"
 ---
-# <a name="recall-or-replace-an-email-message"></a>送信したメール メッセージを取り消す、または置き換えます
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook 電子メールメッセージの取り消しまたは置換
 
 - 管理者は、**PowerShell を使用してユーザーの代理のメッセージを取り消すことが**できます。 管理センターからメッセージを取り消すことはできません。
 - あなたは**あなたの組織内の人々に送られたメッセージだけを取り消すことができます**。 たとえば、Gmail アドレスに送信された場合は、メッセージを取り消すことはできません。

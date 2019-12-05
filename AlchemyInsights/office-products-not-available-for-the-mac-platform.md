@@ -15,10 +15,10 @@ ms.custom:
 - "755"
 - "2000016"
 ms.openlocfilehash: 1ea94c7a341dc47bbf40754132965563826813bb
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
-ms.translationtype: HT
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36818827"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Mac プラットフォームで使用できない Office 製品

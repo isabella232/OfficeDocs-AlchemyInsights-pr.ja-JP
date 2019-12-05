@@ -1,5 +1,5 @@
 ---
-title: Saas (サービスとしてのソフトウェア) アプリはどこで入手できますか?
+title: サービスとしてのソフトウェア (SaaS) アプリはどこで入手できますか?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 61a8d241e992cc73f1a3ac253365ac21d5e2f3d4
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: HT
+ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607738"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36558550"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps"></a>Saas (サービスとしてのソフトウェア) アプリはどこで入手できますか?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Microsoft パートナーからのサービスとしてのソフトウェア (SaaS) アプリの入手方法を教えてください。
 
-[AppSource](http://www.appsource.com/) から Saas アプリを購入することができます。
+お客様は、 [Appsource](http://www.appsource.com/)から SaaS アプリを検索、調査、購入できます。

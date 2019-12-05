@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: e7157ffa7f6859ae79ffbf63d46b432e84a214e3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402816"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36527440"
 ---
 # <a name="enable-versioning-for-a-list-or-library"></a>リストまたはライブラリのバージョン管理を有効にする
 

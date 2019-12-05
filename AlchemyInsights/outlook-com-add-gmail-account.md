@@ -1,5 +1,5 @@
 ---
-title: Outlook.com に Gmail アカウントを追加する
+title: Gmail アカウントを Outlook.com に追加します。
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
-ms.translationtype: HT
+ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614175"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36538133"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Outlook.com に Gmail アカウントを追加する
+# <a name="add-your-gmail-account-to-outlookcom"></a>Gmail アカウントを Outlook.com に追加します。
 
 1. [メールの同期設定](https://go.microsoft.com/fwlink/?linkid=875264)を開きます。
-2. **[接続されているアカウント]** の下で、**[Gmail]** を選択します。
-3. 表示名を入力します (電子メール メッセージの受信時に受信者に表示される名前)。
-4. Outlook.com で Gmail から電子メールをインポートする必要があるかどうかと、インポートした電子メールを保存する場所を選択します。
-5. **[OK]** を選択して、Google のサインイン ページに移動します。
+2. [**接続されているアカウント**] で [ **Gmail**] を選択します。
+3. 表示名 (受信者が電子メールメッセージを受信したときに表示される名前) を入力します。
+4. Outlook.com が Gmail からメールをインポートするかどうか、およびインポートされたメールが保存される場所を選択します。
+5. [ **OK]** を選択して、Google サインインページに移動します。
 
-接続したアカウントから自分の Outlook.com アカウントへの同期は、一方向のみです。 Outlook.com を使用して Gmail アカウントから送信した電子メールは、Gmail の [送信済みアイテム] には表示されません。
+接続されたアカウントから Outlook.com アカウントへの同期は一一です。 Outlook.com を使用して Gmail アカウントから送信された電子メールは、Gmail の送信済みアイテムに表示されません。
 
-Outlook.com の電子メールは、接続した Gmail アカウントから送信できます。 電子メールの作成時に、**[差出人]** を選択してから Gmail アドレスを選択するか、[既定の差出人アドレスを更新](https://go.microsoft.com/fwlink/?linkid=875264)します。
+Outlook.com では、接続された Gmail アカウントから電子メールを送信できます。 電子メールを作成するときに、[**差出人**] を選択して Gmail アドレスを選択するか、[既定の差出人アドレスを更新](https://go.microsoft.com/fwlink/?linkid=875264)します。
 
-詳細については、「[その他のメール アカウントを Outlook.com に追加する](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
+詳細については、「[その他の電子メールアカウントを Outlook.com に追加する](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。

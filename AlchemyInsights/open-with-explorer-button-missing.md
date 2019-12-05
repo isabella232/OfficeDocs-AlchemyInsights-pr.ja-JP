@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388101"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36543066"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>[エクスプローラー​​で開く] ボタンが表示されない
 

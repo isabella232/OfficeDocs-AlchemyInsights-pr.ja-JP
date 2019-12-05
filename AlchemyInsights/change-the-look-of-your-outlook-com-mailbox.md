@@ -3,7 +3,6 @@ title: Outlook.com メールボックスの外観を変更する
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +13,14 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 612f3ef22dbad3ea4b77b26bb1d2e5d38f70e33f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520888"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769704"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>メールボックスの外観を変更する
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlook メールボックスの外観を変更する
 
 メッセージリストと閲覧ウィンドウの外観は、[[レイアウト設定](https://outlook.live.com/mail/options/mail/layout)] で変更できます。 これを選択すると、メールを個別のメッセージまたはスレッドとして表示したり、新しいメッセージをメッセージ リストの一番上または下に表示したり、外観に関する他の設定を行ったりできます。
   

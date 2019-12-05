@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 9f8129b09f7aa9821202614c80dfcee400961122
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400866"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36524128"
 ---
 # <a name="get-started-with-sharepoint-online"></a>SharePoint Online の使用を開始する
 

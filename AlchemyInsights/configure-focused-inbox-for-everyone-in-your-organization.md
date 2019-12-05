@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504720"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36738418"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>すべてのユーザーを対象に優先受信トレイのオン/オフを切り替える
 
-詳細については、「[組織内のすべてのユーザー用に優先受信トレイを構成する](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx)」を参照してください。
+詳細については、「[組織内のすべてのユーザー用に優先受信トレイを構成する](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)」を参照してください。
 
 **注**: この手順には Exchange Online PowerShell が必要です。代わりに Microsoft 365 管理センターでこれを実行する場合、[こちらでご投票ください](https://go.microsoft.com/fwlink/p/?linkid=862489)。

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 32e3c4016f3c2ef5d6477e3593c4717802bd62b5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389479"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36532624"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>SharePoint ドキュメント ライブラリにフォルダーまたはファイルをアップロードする
 

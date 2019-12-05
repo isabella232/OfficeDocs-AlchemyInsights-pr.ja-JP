@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532516"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769884"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive または SharePoint にファイルをアップロードする
 
@@ -26,7 +26,9 @@ ms.locfileid: "36532516"
     
 3. ファイルを選択して、OneDrive または SharePoint 内の場所にドラッグします。メモ: Microsoft Edge、Mozilla FireFox、または Google Chrome を使用している場合は、フォルダーとフォルダー内のすべてのファイルをアップロードすることもできます。
     
-> [!NOTE]
->  最大 15 GB のファイルをアップロードできます。>  ファイルの完全なパス (ファイル名を含む) は、400 字以上にはできません。>  100 個を超えるファイルをアップロードする必要がある場合は、[OneDrive 同期クライアント](https://go.microsoft.com/fwlink/?linkid=866427)を使用してください。 
+**注:**
+- 最大 15 GB のファイルをアップロードできます。 
+- ファイルの (ファイル名を含む) 完全なパスの長さは 400 文字を超えてはいけません。 
+- 100 個を超えるファイルをアップロードする必要がある場合は、[OneDrive 同期クライアントを使用します](https://go.microsoft.com/fwlink/?linkid=866427)。 
   
 

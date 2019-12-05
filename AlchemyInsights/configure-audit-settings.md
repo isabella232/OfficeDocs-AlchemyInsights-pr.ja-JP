@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408221"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36504972"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>SharePoint 監査設定を構成する
 

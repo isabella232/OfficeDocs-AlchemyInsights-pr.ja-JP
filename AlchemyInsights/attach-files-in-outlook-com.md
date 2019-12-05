@@ -3,7 +3,6 @@ title: 8000052 Outlook.com でファイルを添付する
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +11,14 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: d27757e8e10be75ec9ed7b14ba8ad965d6b3fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517648"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768337"
 ---
-# <a name="how-to-attach-files"></a>ファイルを添付する方法
+# <a name="how-to-attach-files-in-outlook"></a>OUtlook でファイルを添付する方法 
 
 1. 新しいメッセージを作成するか、メッセージに返信します。
 

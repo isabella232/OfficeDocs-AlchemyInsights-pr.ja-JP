@@ -1,7 +1,7 @@
 ---
-title: アイテム保持ポリシーの詳細情報
+title: アイテム保持ポリシーに関するその他の情報
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521680"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36753765"
 ---
-# <a name="more-info-about-retention-policies"></a>アイテム保持ポリシーの詳細情報
+# <a name="more-info-about-retention-policies"></a>アイテム保持ポリシーに関するその他の情報
 
-ほとんどの組織では、メール、ドキュメント、インスタント メッセージなどのデータの量と複雑さが日々増加しています。 こうした情報を効果的に管理することが重要です。アイテム保持ポリシーを使用すると、この目的を達成するのに役立ちます。 アイテム保持ポリシーの詳細については、次のリンク先を参照してください。
+ほとんどの組織では、データの量と複雑さが日々向上しています-電子メール、ドキュメント、インスタントメッセージなど。 この情報を効果的に管理または管理することは重要です。アイテム保持ポリシーを使用すると、これらの目標を達成するのに役立ちます。 アイテム保持ポリシーの詳細については、次のリンク先を参照してください。
 
-## <a name="a-from-security-and-compliance-center"></a>A) セキュリティ/コンプライアンス センターから
+## <a name="a-from-security-and-compliance-center"></a>セキュリティ/コンプライアンスセンターから)
 
-- [セキュリティ/コンプライアンス]、[データ ガバナンス]、[保持] の順にクリックします
-  - [こちら](https://docs.microsoft.com/office365/securitycompliance/retention-policies) の記事を参照してください
+- [セキュリティとコンプライアンス > データガバナンス > の保持に移動する]
+  - [この](https://docs.microsoft.com/office365/securitycompliance/retention-policies)記事を参照
 
-- [セキュリティ/コンプライアンス]、[電子情報開示]、[Advanced eDiscovery] の順にクリックします 
-  - [こちら](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) の記事を参照してください
+- 「Security and コンプライアンス > eDiscovery> Advanced eDiscovery」に移動します。 
+  - [この](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)記事を参照
 
-- [セキュリティ/コンプライアンス]、[分類]、[保持] の順にクリックします
-  - 次の記事を参照してください
+- [セキュリティとコンプライアンス > 分類 > の保持
+  - 次の記事を参照してください。
     - [機密ラベル](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [ラベルの概要](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) 従来版の電子情報開示ポリシー
+## <a name="b-legacy-ediscovery-policies"></a>B) 従来の電子情報開示ポリシー
 
-- [こちら](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) の記事を参照してください
+- [この](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)記事を参照
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) サイト クロ―ズと削除のポリシー
+## <a name="c-site-closure-and-deletion-policies"></a>C) サイトのクローズと削除のポリシー
 
-- [こちら](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) の記事を参照してください  
+- [この](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)記事を参照  
 
 ## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
 
-- 次の記事を参照してください
-  - [リストまたはライブラリの IRM](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+- 次の記事を参照してください。
+  - [リスト/ライブラリの IRM](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [IRM の概要](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> 従来の電子情報開示、IRM、またはサイトのクローズと削除のポリシーをまだ使用している場合は、セキュリティ/コンプライアンス ポリシーに移行することを強くお勧めします。
+> 従来の電子情報開示または IRM またはサイトの閉鎖と削除のポリシーを使用している場合は、セキュリティおよびコンプライアンスポリシーに移行することを強くお勧めします。

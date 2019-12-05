@@ -10,13 +10,15 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32365471"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36496421"
 ---
+# <a name="change-your-password-in-outlook"></a>Outlook でパスワードを変更する
+
 パスワードを忘れた場合は、[Microsoft アカウント パスワードのリセット ページ](https://go.microsoft.com/fwlink/p/?linkid=841909)に移動します。それ以外の場合は、以下の指示に従います。
   
 1. 右上隅にある名前またはプロファイル画像を選択し、[**アカウントの表示**] を選択します。

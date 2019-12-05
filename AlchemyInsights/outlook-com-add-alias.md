@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
-ms.translationtype: HT
+ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614103"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36542706"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com でのメール エイリアスの追加
 

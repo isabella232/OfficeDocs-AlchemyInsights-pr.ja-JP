@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519808"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36736726"
 ---
 # <a name="change-your-display-name"></a>表示名を変更する
   
@@ -27,7 +27,7 @@ Outlook での表示名を変更するには、次の手順を使用します。
 2. メール アカウントを選択し、[**変更**] を選択します。
 
     > [!NOTE]
-    > 表示名を変更するオプションが表示されない場合、Microsoft Exchange のメール アカウントを使用している可能性があります。その場合、管理者に連絡して表示名を変更する必要があります。「[Office 365 でユーザー名とメール アドレスを変更する](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)」を参照してください。
+    > 表示名を変更するオプションが表示されない場合、Microsoft Exchange のメール アカウントを使用している可能性があります。その場合、管理者に連絡して表示名を変更する必要があります。「[Office 365 でユーザー名とメール アドレスを変更する](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)」を参照してください。
   
 3. 表示名を変更したら、[**OK**] をクリックして変更内容を保存します。変更が組織全体に反映されるまで数時間かかることがあります。
 

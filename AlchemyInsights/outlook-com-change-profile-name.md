@@ -13,12 +13,12 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
-ms.translationtype: HT
+ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35085990"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36546725"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Outlook.com でプロファイル名を変更する
 
@@ -26,4 +26,4 @@ ms.locfileid: "35085990"
 2. **[名前の編集]** を選択します。
 3. 名と姓を入力し、**[保存]** を選択します。
 
-プロファイル名の変更が反映されるまでに、最大 24 時間かかります。
+プロフィール名の変更が反映されるまでに、最大 24 時間かかります。

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401546"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36525424"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で消失したまたは不明なファイルを探す
 

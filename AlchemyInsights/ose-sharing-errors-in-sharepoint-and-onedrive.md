@@ -1,6 +1,6 @@
 ---
-title: SharePoint と OneDrive での OSE 共有エラー
-ms.author: kirks
+title: SharePoint と OneDrive での共有エラー OSE
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543138"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36752973"
 ---
 # <a name="ose-sharing-errors"></a>OSE 共有エラー
 
-この記事では、Office 365 で SharePoint Online または OneDrive for Business からファイルまたはフォルダーを共有するときに発生する可能性があるさまざまなエラーについて説明します。 これらのエラーを修正するには、組織内のグローバル管理者または SharePoint 管理者である必要があります。 管理者でない場合は、ヘルプ デスクに連絡してエラー コードを伝えてください。
+この記事では、Office 365 で SharePoint Online または OneDrive for Business からファイルやフォルダーを共有する際に発生する可能性のあるさまざまなエラーについて説明します。 これらのエラーを修正するには、組織内のグローバル管理者または SharePoint 管理者である必要があります。 管理者でない場合は、ヘルプ デスクに連絡してエラー コードを伝えてください。
 
-OSE のエラー コードの詳細については、「[SharePoint と OneDrive での共有エラー](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)」を参照してください。
+OSE エラーコードの詳細については、「 [SharePoint および OneDrive での共有エラー](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)」を参照してください。

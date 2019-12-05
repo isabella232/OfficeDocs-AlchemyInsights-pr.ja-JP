@@ -3,7 +3,6 @@ title: 606 代理人に関する情報
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499104"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36661733"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlook と Outlook on the web の委任についてのトラブルシューティング
 
 **SaRA ツールを使用したトラブルシューティング:**
 
-1. ここから SaRA ツールをダウンロードしてインストールします
-1. Outlook を選択し、[予定表に問題がある] を選択します
-1. 影響を受けているコンピューターを、[はい] にします
-1. 影響を受けているユーザーの電子メール アドレスを追加します
-1. [代理アクセス権に問題がある] を選択します
-1. アクセス許可を付与する側の場合は、次のダイアログ ボックスで、代理人の電子メール アドレスを入力します。アクセス許可を受信した代理人の場合は、アクセス許可を付与したユーザーの電子メール アドレスを入力します。
+1. SaRA[ツールをダウンロードして](https://aka.ms/SaRA-SkypeForBusinessSignIn)インストールします。
+1. [ **Outlook**] を選択し、**予定表で問題が発生して**います。
+1. 影響を受けるコンピューターでは、 **「はい」** と答えます。
+1. 影響を受けるユーザーの電子メールアドレスを追加します。
+1. **代理人アクセス許可の問題が発生していること**を選択します。
+1. 次のプロンプトで、アクセス許可を与えるユーザーである場合は、代理人の電子メールアドレスを入力します。アクセス許可を受信し、代理人である場合は、アクセス許可を付与したユーザーの電子メールアドレスを入力します。
 1. 次のメニューで、シナリオに適したオプションを選択します。
 1. 次のメニューで、アクセス許可レベルを選択します。
 1. この段階で、SaRA ツールが自動チェックを実行し、考えられる解決策、またはさらに詳細なトラブルシューティングのために使用できる診断ログが提供されます。
-1. ログは、C:\Users\Username\AppData\Local\SaraResults の SaRA 結果フォルダーにあります。
+1. ログは、C:\Users\Username\AppData\Local\SaraResults. にある SaRA の結果フォルダーにあります。

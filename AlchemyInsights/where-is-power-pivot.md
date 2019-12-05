@@ -3,7 +3,6 @@ title: Power Pivot が表示されません
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,16 +14,16 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530958"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769848"
 ---
 # <a name="where-is-power-pivot"></a>Power Pivot が表示されません
 
-Power Pivot が表示されないのは、次の 3 つの原因があります。
+Power Pivot が表示されない理由は3つあります。
   
 **お使いのバージョンの Excel に含まれていない**
   

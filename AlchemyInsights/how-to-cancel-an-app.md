@@ -1,5 +1,5 @@
 ---
-title: アプリをキャンセルする方法
+title: アプリを取り消す方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: d8be2a6d0c8a86fbcc86fb32c4150df28bb97ee6
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
-ms.translationtype: HT
+ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607728"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36542116"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>サービスとしてのソフトウェア アプリをキャンセルする方法 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>サービスとしてのソフトウェアアプリを取り消す方法 
 
-1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
+1. Microsoft 365 管理センターで、 **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)ページに移動し、[**アプリ**] タブを選択します。
 
 2. 管理するアプリを検索して選択します。
 
-3. [**設定とアクション**] の下で、[**サブスクリプションのキャンセル**] を選択します。
+3. [**設定 & アクション**] で、[**サブスクリプションのキャンセル**] を選択します。

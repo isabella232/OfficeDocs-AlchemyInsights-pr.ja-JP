@@ -3,7 +3,6 @@ title: Office 365 for Enterprise プラン
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 818cb48fd53be840fed4aaa5141f6e77fc12ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 25e349bd3353340b91b9d4401ad3e61f456b6263
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543601"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37768769"
 ---
 # <a name="office-365-for-enterprise-plan"></a>Office 365 for Enterprise プラン
 
-Office 365 for Enterprise には 5 種類のプランがあります。「[Office 365 for Enterprise のプランと価格の比較](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。  
+エンタープライズ向け Office 365 には、さまざまなプランが用意されています。[エンタープライズプランと価格設定の Office 365 を比較](https://products.office.com/business/compare-more-office-365-for-business-plans)します。  

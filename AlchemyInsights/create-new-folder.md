@@ -3,7 +3,6 @@ title: 8000059 新しいフォルダーを作成する
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: be739d13decab3fcb1ee40f1c3e78eaf298801d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 67ed45120474b6b85971e5ba44e2d77ebe0ed283
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515272"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37769488"
 ---
 # <a name="create-a-new-folder-in-outlookcom"></a>Outlook.com で新しいフォルダーを作成する
 

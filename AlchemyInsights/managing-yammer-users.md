@@ -11,16 +11,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497046"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36734926"
 ---
 # <a name="managing-yammer-users"></a>Yammer ユーザーを管理する
 
-1. Office 365 から Yammer ユーザーを管理する方法については、「[Yammer ユーザーのライフサイクルを通じた Office 365 からの Yammer ユーザーの管理](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039)」を参照してください。このセクションには、次の操作に関する詳細情報が含まれています。
+1. Office 365 から Yammer ユーザーを管理する方法については、「[Yammer ユーザーのライフサイクルを通じた Office 365 からの Yammer ユーザーの管理](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)」を参照してください。このセクションには、次の操作に関する詳細情報が含まれています。
 
   - ユーザーの作成
 
@@ -36,4 +36,4 @@ ms.locfileid: "36497046"
 
   - ユーザー リストのエクスポート
 
-3. 外部ユーザーの追加、削除、および管理については、「[Yammer ネットワークに外部メッセージング参加者を追加する](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c)」を参照してください。
+3. 外部ユーザーの追加、削除、および管理については、「[Yammer ネットワークに外部メッセージング参加者を追加する](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)」を参照してください。

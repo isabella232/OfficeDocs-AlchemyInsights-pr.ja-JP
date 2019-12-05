@@ -11,12 +11,12 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504775"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36821807"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>接続されたアカウントはサポートされていません
 
@@ -26,7 +26,7 @@ Microsoft では、2018 年 9 月 15 日に、[接続されたアカウント] �
   
 [Turn on or off automatic forwarding in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346) (Outlook.com の自動転送を無効または有効にする)
   
-[Automatically forward Gmail messages to another account](https://support.google.com/mail/answer/10957?hl=en) (Gmail メッセージを別のアカウントに自動転送する)
+[Automatically forward Gmail messages to another account](https://aka.ms/forward-gmail-messages) (Gmail メッセージを別のアカウントに自動転送する)
   
-[Automatic email forwarding in Yahoo mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1) (Yahoo メールのメール自動転送)
+[Automatic email forwarding in Yahoo mail](https://aka.ms/yahoo-email-forwarding) (Yahoo メールのメール自動転送)
   

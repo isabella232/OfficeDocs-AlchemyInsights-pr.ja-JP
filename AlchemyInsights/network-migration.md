@@ -11,12 +11,12 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538472"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36734710"
 ---
 # <a name="network-migration"></a>ネットワークの移行
 
@@ -28,7 +28,7 @@ ms.locfileid: "36538472"
 
 - 構成を 1 対 1 に修正するには、引き続きネットワーク移行ツールを使用します。
 
-- ネットワーク移行の詳細については、「[ネットワークの移行: 複数の Yammer ネットワークの統合](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)」を参照してください。
+- ネットワークの移行の詳細については、「[ネットワークの移行: 複数の Yammer ネットワークを統合](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)する」を参照してください。
 
 次の点にご注意ください。
   

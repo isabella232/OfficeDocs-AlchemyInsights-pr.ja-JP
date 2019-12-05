@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 04b9812e755ced55331c436932558dac6420e060
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373573"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36511816"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>サブスクリプションと購読解除
 

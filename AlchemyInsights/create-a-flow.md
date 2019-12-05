@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 50dc376a86db07d80d7510671589be098e3d2391
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407325"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36516208"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 

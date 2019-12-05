@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 3e463e8b0998f20481af41a1ade71aa3b4baae4a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 822c50fda3c9af83232d57f08e039681718f178f
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409047"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36497160"
 ---
 # <a name="manage-synchronized-user-accounts"></a>同期されたユーザー アカウントを管理する
 

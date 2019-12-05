@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: a7f33c877382130fa07578ab75938f05badd2301
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406893"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36515164"
 ---
+# <a name="create-or-edit-an-outlook-profile"></a>Outlook プロファイルを作成または編集する
+
 新しい Outlook プロファイルの作成、プロファイルの編集または名前変更を行うには、次の手順を使用します。
   
 1. Outlook で、**[ファイル]**、**[アカウント設定]**、**[プロファイルの管理]** の順に選択します。

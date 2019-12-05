@@ -3,7 +3,6 @@ title: SharePoint ストレージ
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502722"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "37658262"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online ストレージを管理する
 
-ほとんどの組織では、SharePoint ストレージは自動的に管理されるので、サイト コレクションごとに制限を設定する必要はありません。現在の SharePoint ストレージの容量を確認するには、次の操作を実行します。
-  
-- 新しいSharePoint管理センターのサイトページの右上をみると、使用可能な合計ストレージ容量の数字が表示されているはずです。
+テナントのストレージが計画に基づいて[計算される](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)方法について説明します。
 
-制限の計算方法については、「[SharePoint Online の制限](https://go.microsoft.com/fwlink/p/?LinkID=856113)」を参照してください。追加の記憶域を購入するには、「[サブスクリプションの記憶域容量の変更](https://go.microsoft.com/fwlink/?linkid=866428)」を参照してください。
-  
-PowerShell を使用して個々のサイトのストレージを監視し、サイト コレクションのストレージを手動で管理する方法については、「[サイト コレクションのストレージの制限を管理する](https://go.microsoft.com/fwlink/?linkid=867833)」を参照してください。
+ほとんどの組織では、SharePoint のストレージは自動的に管理されるので、サイトコレクションごとに制限を設定する必要はありません。
+
+[組織のために合計および使用可能な記憶領域を表示](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)する方法について説明します。
+
+[個々のサイトコレクションの記憶域の制限を管理](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)する方法について説明します。
+
+サイトの容量が不足している場合や、スペースを使用しているライブラリまたはリストがわからない場合は、[**サイトの設定** > ] [**記憶域の指標**] (サイトコレクション管理者のアクセス許可が必要) を参照してください。
+
+[PowerShell を使用してサイトの記憶域の制限を監視](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)する方法について説明します。
+
+[追加のストレージを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)する方法について説明します。 
   

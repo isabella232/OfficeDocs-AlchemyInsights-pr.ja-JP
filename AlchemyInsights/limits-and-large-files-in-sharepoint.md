@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 182668e057a90d80c1c52a1de449fbb365589c1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409551"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36497592"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>SharePoint Online にアップロードできないファイル
 

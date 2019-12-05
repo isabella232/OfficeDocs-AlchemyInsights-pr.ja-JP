@@ -1,6 +1,6 @@
 ---
 title: 既定の 2010 承認ワークフローを追加できない
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493794"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36747681"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>既定の 2010 承認ワークフローを追加できない
 
-Microsoft SharePoint サイト コレクションで、グローバルに再利用可能なワークフロー ("承認 - SharePoint 2010" など) をリストまたはライブラリに追加できません。承認ワークフローが見つからない場合があります。この問題を解決するには、「[グローバルに再利用可能なワークフローを SharePoint リストまたはライブラリに追加できない](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)」を参照してください。
+Microsoft SharePoint サイトコレクションでは、グローバルに再利用可能なワークフロー ("Approval-SharePoint 2010" など) をリストまたはライブラリに追加することはできません。承認ワークフローがない可能性があります。この問題を解決するには、「 [SharePoint リストまたはライブラリにグローバルに再利用可能なワークフローを追加できません](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)」を参照してください。
 
-ワークフローの承認の詳細については、「[承認ワークフローの概要](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)」を参照してください。 
+ワークフローの承認の詳細については、「[承認ワークフローについ](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)て」を参照してください。 
  
-「[フローの新しい承認](https://flow.microsoft.com/blog/introducing-modern-approvals)」の詳細もご覧ください。 
+[Flow のモダン承認の詳細を](https://flow.microsoft.com/blog/introducing-modern-approvals)参照してください。 
   

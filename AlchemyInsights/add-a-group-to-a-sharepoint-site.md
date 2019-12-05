@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398823"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36495216"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint サイトにグループを追加する
 

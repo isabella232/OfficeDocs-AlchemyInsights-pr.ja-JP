@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online への移行オプション
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 379505b6495cdfc8e85caf559031eaff82c58e9d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 5cc179539dfa99be699fdb17b1a21317e482d978
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544760"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36753981"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>SharePoint Online への移行オプション
 

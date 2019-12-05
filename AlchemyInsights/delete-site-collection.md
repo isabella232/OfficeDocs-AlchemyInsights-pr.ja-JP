@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405016"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36512824"
 ---
 # <a name="delete-a-sharepoint-site"></a>SharePoint サイトを削除する
 

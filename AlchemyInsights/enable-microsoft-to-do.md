@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 39bd4634d31b8ff33081c10e566e05f7e1561404
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403644"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36527548"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Microsoft To-Do を有効にする方法
 

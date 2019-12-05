@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 40bdd0d5ecf6f96d7af95f39616c540470f1bdb6
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
-ms.translationtype: HT
+ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595259"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36536476"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Outlook.com でサポートを受ける方法
 
 申し訳ございません。Outlook.com は、電話によるサポートを提供していませんが、サポート専任のチームがあります。
 上記の[**ヘルプ**] ボックスにご質問や問題を入力し、[**ヘルプを依頼する**] を選択します。
 
-[Outlook.com に関するヘルプ](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Outlook.com のヘルプを取得する](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

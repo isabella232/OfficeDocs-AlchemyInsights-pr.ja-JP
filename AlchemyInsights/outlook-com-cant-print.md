@@ -1,5 +1,5 @@
 ---
-title: Outlook.com で印刷できない
+title: Outlook.com で印刷できません
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: 3a920dc6128e2c7ece6077a35d15aff9eaa5737f
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
-ms.translationtype: HT
+ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35581370"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36547928"
 ---
-# <a name="unable-to-print"></a>印刷できない
+# <a name="unable-to-print"></a>印刷できません
 
-一部のユーザーが Safari ブラウザーや Edge ブラウザーを使用するときに印刷できないという問題が生じていることを把握しています。 この問題が解決するまでの間、別のブラウザーをご使用ください。 ご不便をおかけして申し訳ございません。
+Safari またはエッジブラウザーを使用している場合、一部のユーザーは印刷できないという問題があることを認識しています。 この問題に対処するために、別のブラウザーを使用してください。 We apologize for the inconvenience.

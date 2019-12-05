@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 90ce8d2de04620150c4e4f4f253e1690a4f2da36
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404790"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36512788"
 ---
 # <a name="enable-seamless-sso"></a>シームレスな SSO を有効にする
 

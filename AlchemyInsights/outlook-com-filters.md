@@ -14,12 +14,12 @@ ms.custom:
 - "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: d21ff26d3f64d54e14ca908e15c26e1dc1247338
-ms.sourcegitcommit: 8e1e9de884daa1eb48f766979b2310844b7b499f
-ms.translationtype: HT
+ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35612528"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "36546688"
 ---
 # <a name="filtering-in-outlookcom"></a>Outlook.com でフィルター処理する
 
