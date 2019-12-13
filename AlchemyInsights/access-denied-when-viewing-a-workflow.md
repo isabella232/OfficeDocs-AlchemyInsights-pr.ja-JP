@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36747753"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="eb0c1-102">ワークフローを表示しようとするとアクセスが拒否される</span><span class="sxs-lookup"><span data-stu-id="eb0c1-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="d3e0a-102">ワークフローを表示しようとするとアクセスが拒否される</span><span class="sxs-lookup"><span data-stu-id="d3e0a-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="eb0c1-103">SharePoint グループのメンバーシップがすべてのユーザーに設定されていないと、SharePoint グループにメールを送信する SharePoint 2013 ワークフローを表示しようとする際に「アクセスが拒否されました」というエラー メッセージが表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="eb0c1-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="d3e0a-103">SharePoint グループのメンバーシップがすべてのユーザーに設定されていないと、SharePoint グループにメールを送信する SharePoint 2013 ワークフローを表示しようとする際に「アクセスが拒否されました」というエラー メッセージが表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3e0a-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="eb0c1-104">**この問題を解決するには、次の操作を行います。**</span><span class="sxs-lookup"><span data-stu-id="eb0c1-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="d3e0a-104">**この問題を解決するには、次の操作を行います。**</span><span class="sxs-lookup"><span data-stu-id="d3e0a-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="eb0c1-105">すべてのユーザーに SharePoint グループのメンバーが表示されるようにします。</span><span class="sxs-lookup"><span data-stu-id="eb0c1-105">Allow everybody to see the members of the SharePoint group.</span></span>
+ 1. <span data-ttu-id="d3e0a-105">すべてのユーザーに SharePoint グループのメンバーが表示されるようにします。</span><span class="sxs-lookup"><span data-stu-id="d3e0a-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="eb0c1-106">メールの宛先または CC 行から SharePoint グループを削除します。</span><span class="sxs-lookup"><span data-stu-id="eb0c1-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
+ 2. <span data-ttu-id="d3e0a-106">メールの宛先または CC 行から SharePoint グループを削除します。</span><span class="sxs-lookup"><span data-stu-id="d3e0a-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="eb0c1-107">SharePoint グループのメンバーシップの表示設定を変更できない場合は、To または CC 行にユーザーを明示的に追加します。</span><span class="sxs-lookup"><span data-stu-id="eb0c1-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
+ 3. <span data-ttu-id="d3e0a-107">SharePoint グループのメンバーシップの表示設定を変更できない場合は、To または CC 行にユーザーを明示的に追加します。</span><span class="sxs-lookup"><span data-stu-id="d3e0a-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="eb0c1-108">詳細を表示するには、「 [HTTP の承認されていない/_vti_bin の/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="eb0c1-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="d3e0a-108">詳細については「[/_vti_bin/client.svc/sp.utilities.utility.SendEmail への HTTP 権限エラー](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d3e0a-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   
