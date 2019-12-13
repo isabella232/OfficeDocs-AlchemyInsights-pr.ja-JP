@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 フォームの XML スキーマ
+title: Dynamics 365 フォーム XML スキーマ
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,11 +11,11 @@ ms.custom:
 - "6200019"
 ms.openlocfilehash: 7c0b8e77da3f6f58571c2fbc35a3fed16c00fd0a
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528880"
 ---
-# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 フォームの XML スキーマ
+# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 フォーム XML スキーマ
 
-[Dynamics 365 の顧客契約に関するフォームのカスタマイズ用のフォーム XML スキーマ定義](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[ Dynamics 365 顧客エンゲージメントのフォームをカスタムするためのフォーム XML スキーマ定義](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

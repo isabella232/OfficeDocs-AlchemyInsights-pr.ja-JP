@@ -13,10 +13,10 @@ ms.custom:
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
 ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
+ms.lasthandoff: 09/10/2019
 ms.locfileid: "36822167"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>アーカイブ メールボックスへのメールの移動

@@ -10,13 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: d690bad69fffe6e19655fc418c52c491373b13f0
-ms.sourcegitcommit: 163709b918fa21d0bc63b2219baf69a1b20f9b94
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37013734"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627471"
 ---
 # <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Microsoft Teams で削除されたチームを復元する
 
-チームを誤って削除しましたか。 チームを削除してから 30 日未満であれば、復元することができます。 チームを復元するには、「[Restore a deleted team (削除されたチームを復元する)](https://docs.microsoft.com/ja-JP/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)」の手順に従います。
+チームを誤って削除しましたか。 チームを削除してから 30 日未満であれば、復元することができます。 チームを復元するには、「[Restore a deleted team (削除されたチームを復元する)](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)」の手順に従います。

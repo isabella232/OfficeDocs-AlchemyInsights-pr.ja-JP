@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 フォームセレクター
+title: Dynamics 365 フォーム セレクター
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,11 +11,11 @@ ms.custom:
 - "6200014"
 ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528959"
 ---
-# <a name="dynamics-365-form-selector"></a>Dynamics 365 フォームセレクター
+# <a name="dynamics-365-form-selector"></a>Dynamics 365 フォーム セレクター
 
-* [フォームのアクセス制御について](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [フォームへのアクセス制御について](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)

@@ -12,10 +12,10 @@ ms.custom:
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
 ms.openlocfilehash: a78c30d2b4d0bd5278bb26ca7223899589d1bcc0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
+ms.lasthandoff: 09/09/2019
 ms.locfileid: "36818611"
 ---
 # <a name="install-and-configure-onedrive"></a>OneDrive をインストールして構成する

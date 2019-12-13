@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36497088"
@@ -24,7 +24,7 @@ ms.locfileid: "36497088"
   
 ほとんどの組織では、SharePoint ストレージは自動的に管理されるので、サイト コレクションごとに制限を設定する必要はありません。現在の SharePoint ストレージの容量を確認するには、次の操作を実行します。
   
-- 新しい SharePoint 管理センターのサイト ページの右上で、利用可能な記憶域および合計容量を探します。
+- 新しいSharePoint管理センターのサイトページの右上をみると、使用可能な合計ストレージ容量の数字が表示されているはずです。
     
 制限の計算方法については、「[SharePoint Online の制限](https://go.microsoft.com/fwlink/p/?LinkID=856113)」を参照してください。追加の記憶域を購入するには、「[サブスクリプションの記憶域容量の変更](https://go.microsoft.com/fwlink/?linkid=866428)」を参照してください。
   

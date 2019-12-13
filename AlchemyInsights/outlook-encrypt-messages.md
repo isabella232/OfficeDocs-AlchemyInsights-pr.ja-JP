@@ -1,5 +1,5 @@
 ---
-title: Web 上の Outlook での S/MIME
+title: Outlook on the web の S/MIME
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom: 9000329
 ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
 ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36752865"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Outlook で電子メールメッセージを暗号化する
+# <a name="encrypt-email-messages-in-outlook"></a>Outlook でメール メッセージを暗号化する
 
-Office 365 Message Encryption は、Microsoft Azure Rights Management (Azure RMS) に基づいて構築されています。これは、Azure Information Protection の一部です。 サブスクリプションに Azure Rights Management または Azure Information Protection が含まれている場合は、Rights Management サービスを**手動で有効または無効にする操作**を行う必要はありません。
+Office 365 Message Encryption は、Azure Information Protection の一部である Microsoft Azure Rights Management (Azure RMS) 上に構築されています。 サブスクリプションに Azure Rights Management または Azure Information Protection が含まれている場合は、Rights Management Service を**有効化またはアクティブ化するために手動での操作を行う必要はありません**。
 
-お客様のフィードバックに基づき、Exchange メールフロールールを有効にして、テナント内の特定の種類の機密情報を含む送信電子メールを既定で自動的に暗号化することはなくなります。 代わりに、yourselves を実行する方法について詳細な説明を提供しています。 機密情報を暗号化するためのトランスポートルールを作成する方法について詳しくは、[この記事](https://aka.ms/OmeEtr)を参照してください。
+お客様からのフィードバックに基づき、特定の種類の機密情報を含む送信メールを自動的に暗号化する Exchange のメール フロー ルールは、テナントで既定で有効化されなくなりました。 代わりに、ユーザー自身がこの操作を行うための詳細な手順を提供いたします。 機密情報を暗号化するためのトランスポート ルールを作成する方法の詳細については、[こちらの記事](https://aka.ms/OmeEtr)を参照してください。
 
-- Outlook on the Web (旧称**owa**) を使用している場合: 電子メールメッセージを作成するときは、[OWA で**保護**する] をクリックするだけです。 これにより、"転送不可" アクセス許可が適用されます。 [**権限の変更**] をクリックし、[**暗号化**] を選択してメッセージを暗号化します。
+- Outlook on the Web (以前の **OWA**) を使用している場合: メール メッセージを作成する際に、OWA で [**保護**] をクリックします。 これにより、"転送不可" のアクセス許可が既定で適用されます。 [**アクセス許可の変更**] をクリックし、[**暗号化**] を選択してメッセージの暗号化のみを行います。
 
-- Outlook**クライアント**を使用している場合: 暗号化されたメッセージを outlook 2013 または2016、あるいは outlook 2016 for Mac から送信するには、[**オプション** > の**権限**] を選択し、必要な保護オプションを選択します。
+- **Outlook クライアント**を使用している場合: Outlook 2013 または 2016、または Outlook 2016 for Mac から暗号化されたメッセージを送信するには、[**オプション**]  >  [**アクセス権**] を選択し、必要な保護オプションを選択します。
 
-- 特定の受信者または外部パートナー組織に送信される**すべての電子メールを自動的に暗号化**するには、Exchange 管理センターでメールフロートランスポートルールを作成する必要があります。 詳細な手順については、[このサポート記事](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)で説明されています。
+- 特定の受信者または外部パートナーの組織に送信される**すべてのメールを自動的に暗号化する**には、Exchange 管理センターでメール フロー トランスポート ルールを作成する必要があります。 詳細な手順については、[このサポート記事](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)を参照してください。
 
