@@ -1,5 +1,5 @@
 ---
-title: OneDrive または SharePoint ファイルのアップロードに関する問題のトラブルシューティング
+title: OneDrive または SharePoint のファイル アップロードに関する問題のトラブルシューティング
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "3422"
 ms.openlocfilehash: e05e270c45237f64bb5dc39c53c25858dbb8dc7b
 ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/10/2019
 ms.locfileid: "39976370"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDrive または SharePoint ファイルのアップロードに関する問題のトラブルシューティング
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDrive または SharePoint のファイル アップロードに関する問題のトラブルシューティング
 
-OneDrive または SharePoint へのファイルのアップロードまたは同期中に問題が発生した場合は、次の記事を参照してください。
+OneDrive または SharePoint へのファイルのアップロードまたは同期に問題がある場合は、以下の記事が役立つ場合があります。
 
 - [OneDrive Web サイトでのファイルのアップロードに関する問題を修復する](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 - [OneDrive、OneDrive for Business、および SharePoint で無効なファイル名とファイルの種類](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
@@ -30,7 +30,7 @@ OneDrive または SharePoint へのファイルのアップロードまたは�
 
 **詳細情報**
  
-ファイルのアップロードと同期の詳細については、以下の記事を参照してください。
+ファイルのアップロードおよび同期の詳細については、以下の記事を参照してください。
 - [ライブラリにフォルダーまたはファイルをアップロードする](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-- [Windows でファイルを OneDrive と同期させる](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Windows の OneDrive とファイルを同期する](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
  

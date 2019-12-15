@@ -1,5 +1,5 @@
 ---
-title: SharePoint 予定表を追加する
+title: SharePoint カレンダーを追加する
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "2585"
 ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
 ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/23/2019
 ms.locfileid: "37313918"
 ---
-# <a name="add-a-sharepoint-calendar"></a>SharePoint 予定表を追加する
+# <a name="add-a-sharepoint-calendar"></a>SharePoint カレンダーを追加する
 
-SharePoint の予定表は、Office 365 のグループの予定表と混同されることがある、従来のリストの種類です。
+SharePoint カレンダーは Office 365 グループ カレンダーと混同される場合がある、クラシックなリスト タイプです。
  
-SharePoint 予定表を作成するには、次の手順を実行します。
+SharePoint カレンダーを作成するには、次の手順を実行します。
  
-1.  [**設定**] 歯車アイコンを選択し、[**アプリの追加**] を選択します。
-2.  [アプリ検索を**検索**します] ボックスに「 **Calendar** 」と入力し、enter キーを押します。
-3.  [**予定表**] という名前のアプリを選択し、予定表の名前を入力します。
+1.  [**設定**] の歯車アイコンを選択し、[**アプリの追加**] をクリックします。
+2.  [**アプリの検索**] 検索ボックスに**カレンダー**と入力し、Enter キーを押します。
+3.  [**カレンダー**] というタイトルのアプリを選択し、カレンダーの名前を入力します。
 
-Office 365 グループの詳細については、「 [office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」を参照してください。
+Office 365 グループの詳細については、「[Office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」を参照してください。
 
