@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
-ms.translationtype: MT
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380102"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627615"
 ---
-# <a name="join-a-meeting-in-teams"></a>Teams で会議に参加する
+# <a name="join-a-meeting-in-teams"></a>Teams での会議に参加する
 
-Teams 会議に参加するには、まず、会議ポリシーを設定してから、ユーザーに優先するデバイスから参加するように指示します。
+Teams 会議に参加するには、最初に会議ポリシーを設定し、次に推奨デバイスから参加するようユーザーへと指示をします。
 
-- [参加者またはゲスト](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)としてミーティングに参加できるユーザーを制御する会議ポリシーを設定します。 
+- 誰が会議に参加できるかを[参加者またはゲスト](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)として制御する会議ポリシーを設定します。 
 
-- Microsoft Teams [PowerShell コマンドレット](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview)を使用して、ポリシーが変更されるようにします。    
+- Microsoft Teams [PowerShell コマンドレット](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)を使用して、ポリシーを変更します。    
 
-**注:** ポリシーの変更が有効になるまで、最大24時間かかる場合があります。
+**注:** ポリシーの変更が有効になるまで最大 24 時間かかる場合があります。

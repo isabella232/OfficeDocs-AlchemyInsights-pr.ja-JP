@@ -1,5 +1,5 @@
 ---
-title: Intune Insider のバグファイリング
+title: Intune Insider のバグ ファイリング
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -14,18 +14,18 @@ ms.custom:
 - "9000348"
 ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
 ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/02/2019
 ms.locfileid: "39673317"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider のバグファイリング
+# <a name="intune-insider-bug-filing"></a>Intune Insider のバグ ファイリング
 
-Intune Insider プログラムに関心をお持ちいただき、ありがとうございます。 既に Intune Insider program に利用していて、サポート要求をファイルに登録する必要がある場合は、次のようにします。
+Intune Insiders プログラムに関心をお寄せいただき、ありがとうございます。 Intune Insiders プログラムに既に参加しており、サポート リクエストを提出する必要がある場合には、以下の手順をお試しください。
 
-1. 問題については上記のフィールドに記入してください。
-2. 以下のオプションを使用して、新しいサービスリクエストを作成します。
+1. 上部にあるフィールドに問題の説明をご記入ください。
+2. 以下のオプションを使用して、新しいサービス リクエストを作成します。
 
-Intune サポートエンジニアが連絡します。
+Intune サポート エンジニアがご連絡を差し上げます。
 
-Intune Insider プログラムに参加していない場合は、お客様のご関心をお待ちしております。 現在、新しい参加者は採用されていません。
+Intune Insiders プログラムに参加していない場合は、関心をお寄せいただき、ありがとうございます。 現在のところ新しい参加者は募集していません。

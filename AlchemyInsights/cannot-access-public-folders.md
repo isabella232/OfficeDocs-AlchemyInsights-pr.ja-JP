@@ -1,5 +1,5 @@
 ---
-title: パブリックフォルダーにアクセスできない
+title: パブリック フォルダーにアクセスできません
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "3462"
 ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
 ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/10/2019
 ms.locfileid: "39976360"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook がパブリックフォルダーに接続できない
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook はパブリック フォルダーに接続できません
 
-パブリックフォルダーアクセスが少数のユーザーに対して機能しない場合は、次のことを試してください。
+パブリック フォルダー アクセスが少数のユーザーに対して機能しない場合には、以下を試してください。
 
-EXO PowerShell に接続し、問題のユーザーアカウントの DefaultPublicFolderMailbox を、作業中のユーザーアカウントの1つに一致するように構成します。
+EXO PowerShell に接続し、問題のあるユーザー アカウントの DefaultPublicFolderMailbox を、動作中のユーザー アカウントの DefaultPublicFolderMailbox と一致するように構成します。
 
 例:
 
-WorkingUser の取得 |ft DefaultPublicFolderMailbox、EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox のプロパティ-以前のコマンド> \<からのユーザー-DefaultPublicFolderMailbox の値
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-変更を有効にするには、少なくとも1時間待つ必要があります。
+変更が有効になるまで、少なくとも 1 時間待ちます。
