@@ -1,5 +1,5 @@
 ---
-title: Word で印刷エラーを解決する
+title: Word の印刷エラーの解決
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "9000585"
 ms.openlocfilehash: 7503d2c018d6da56fc84028b4546b7df5e37285c
 ms.sourcegitcommit: abe7f3bd6ed0a62cf618653aabccb99461519b5f
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/10/2019
 ms.locfileid: "37455965"
 ---
-# <a name="resolving-print-failures-in-word"></a>Word で印刷エラーを解決する
+# <a name="resolving-print-failures-in-word"></a>Word の印刷不具合の解決
 
-Word での印刷時にエラーが発生する場合は、新しいテスト文書から印刷を試して、特定の文書に問題があるかどうかを確認します。
+Word で印刷中にエラーが発生した場合は、新しい文書で印刷をテストし、エラーが特定のドキュメントに関連しているかどうかを確認します。
 
-- テスト文書から印刷できても元の文書を印刷できない場合は、元の文書が破損している可能性があります。 「 [Word で破損したドキュメントをトラブルシューティングする方法](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)」の手順に従います。
-- それでも印刷できない場合は、「 [Word の印刷エラーのトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)」の手順に従って問題を診断し、修正してください。
+- テストした文書からは印刷ができても、元の文書の印刷ができない場合は、元の文書が破損している可能性があります。 「[Wordで文書が破損した場合のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)」の指示に従います。
+- それでも印刷できない場合は、「[Wordでの印刷不具合のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)」の手順を実行し、問題を診断して解決してください。

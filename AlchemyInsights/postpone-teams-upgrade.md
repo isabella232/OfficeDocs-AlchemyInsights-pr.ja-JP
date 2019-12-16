@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: bee729ffe9fbbf379612c658cdad25b1fbfdd0ab
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
-ms.translationtype: MT
+ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37486379"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626749"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft による Teams のアップグレードを延期する方法
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft 主導の Teams アップグレードを延期する方法
 
-Skype for Business から Microsoft Teams への Microsoft による自動アップグレードに関する情報を受け取った場合、その後の日付に自動アップグレードを延期するには、Office 365 グローバル管理者が[Teams 管理ポータル](https://admin.teams.microsoft.com/dashboard)にログインして、[**延期**] ボタン。 テナントの Microsoft Teams への自動アップグレードの新しい日付を表示するには、Teams の管理ポータルページを更新します。
+Skype for Business から Microsoft Teams への Microsoft 主導の自動アップグレードに関する通知を受け取り、自動アップグレードを後日に延期したい場合、Office 365 グローバル管理者は [Teams 管理ポータル](https://admin.teams.microsoft.com/dashboard)にログインし、[**延期**] ボタンを選択できます。 テナントの Microsoft Teams への自動アップグレードの新しい日付を確認するには、Teams 管理ポータル ページを更新します。
 
-**注:**[**延期**] ボタンは、自動アップグレードに関するメッセージセンターの通知を受信した場合にのみ使用できます。 
+**注:** [**延期**] ボタンは、自動アップグレードに関するメッセージ センターの通知を受け取った場合にのみ使用できます。 
 
-Office 365 のグローバル管理者は、 [CsTeamsUpgradeStatus](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)を実行して、現在のアップグレード状態の詳細を確認することもできます。 
+Office 365 グローバル管理者は [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) を実行して、現在のアップグレード ステータスの詳細について確認することもできます。 

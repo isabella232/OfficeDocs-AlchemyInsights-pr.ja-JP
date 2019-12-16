@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
 ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
 ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/19/2019
 ms.locfileid: "38711725"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>SharePoint ドキュメント ライブラリでアイテムを移動する
 
-ドキュメントライブラリ内の別の場所にアイテムを移動することができます。
+ドキュメント ライブラリ内の別の場所にアイテムを移動できます。
   
 1. Web ブラウザーでは、移動するファイル、フォルダー、またはリンクを参照し、[**移動先**] をクリックします。
 
@@ -35,9 +35,9 @@ ms.locfileid: "38711725"
 
 3. [**ここに移動**] をクリックします。
 
- ファイルが移動されると、移動先に完全に移動されるまでソースディレクトリに表示されたままになり、削除されます。 このファイルは、移動が完了した後にソースサイトのごみ箱に残り、ユーザーがごみ箱から回復しない限り、通常のリサイクルスケジュールに従います。
+ ファイルが移動しているときは、完全に移動先に移動するまでソース ディレクトリに表示され、その後削除されます。 移動が完了した後、ファイルはソース サイトのごみ箱に残り、ユーザーがごみ箱から回復しない限り、通常のごみ箱のスケジュールに従って処理されます。
 
 詳細については、以下を参照してください。
 
- - [SharePoint でファイルを移動またはコピー](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)する (Office サポート記事)
- - [Office 365 の任意のフォルダーからファイルを移動](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)する (Microsoft Tech Community ブログ記事) 
+ - 「[SharePoint でファイルを移動またはコピーする](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)」(Office サポートの記事)
+ - 「[Move files from any folder in Office 365 (Office 365 の任意のフォルダーからファイルを移動する)](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)」(Microsoft Tech Community のブログ記事) 

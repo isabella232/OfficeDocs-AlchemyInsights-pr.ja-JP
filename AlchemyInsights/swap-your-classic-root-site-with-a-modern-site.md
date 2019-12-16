@@ -1,7 +1,7 @@
 ---
 title: モダン サイトとクラシック ルート サイトを入れ替える
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36749265"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042932"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>モダン サイトとクラシック ルート サイトを入れ替える
 
