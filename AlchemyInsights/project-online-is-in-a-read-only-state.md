@@ -1,7 +1,7 @@
 ---
 title: Project Online が読み取り専用状態
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamg
 ms.date: 4/10/2019
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: e57b5cab56510de3c14036141baa26b04a8418e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34fecf93f39659cbd26998697090957c6af45aa0
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554247"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054364"
 ---
 # <a name="project-online-is-in-a-read-only-state"></a>Project Online が読み取り専用状態
 

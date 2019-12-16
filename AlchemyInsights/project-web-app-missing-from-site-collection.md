@@ -1,7 +1,7 @@
 ---
 title: Project Web App が SharePoint サイト コレクションで見つからない
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamg
 ms.date: 4/09/2019
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 07b85c52cfacb2d8563df99d6557a0bf909a57fa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8800d7d6b3b24e2434bb63408224089c52c9e7de
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509962"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048963"
 ---
 # <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App が SharePoint サイト コレクションで見つからない
 
