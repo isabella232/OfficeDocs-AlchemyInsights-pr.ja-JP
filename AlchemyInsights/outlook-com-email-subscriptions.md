@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 電子メール購読
+title: Outlook.com メール サブスクリプション
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
@@ -14,21 +14,21 @@ ms.custom:
 - "9001191"
 ms.openlocfilehash: 9b1a3f14e6301f06daebdc4036063269055610f8
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "38653413"
 ---
-# <a name="email-subscriptions"></a>電子メール購読
+# <a name="email-subscriptions"></a>メール サブスクリプション
 
-サブスクリプションリストに電子メールが表示されるのはなぜですか?
+サブスクリプション リストにメールが表示されるのはなぜですか ?
 
-Outlook.com は、電子メールメッセージにサブスクリプション情報が含まれていることを検出しました。これには、メッセージの "購読取り消し" などが含まれます。 Outlook.com は、どのニュースレターにも自動的にサブスクライブしていません。
+Outlook.com は、メール メッセージがメッセージ内に "購読を解除する" などを含む登録情報を含んでいることを検出しました。 Outlook.com は、いかなるニュースレターも自動的に購読させるようなことはしていません。
 
-ニュースレターまたはプロモーションの受信を停止するには、Outlook.com を使用して購読を解除する方法が2つあります。
-1. 受信トレイで、ニュースレターまたは販促用のメールを選択します。 閲覧ウィンドウの上部に表示される **購読を解除する**を選択します。
-2. Outlook.com の[サブスクリプション](https://go.microsoft.com/fwlink/?linkid=2110887)設定を開き、[**購読取り消し**] を選択します。
+ニュースレターやプロモーションの受信を停止したい場合には、Outlook.com を使用して登録を解除する 2 つの方法があります。
+1. 受信トレイで、ニュースレターまたはプロモーション メールを選択します。 閲覧ウィンドウの上部で、[**購読を解除する**] を選択します。
+2. [Outlook.com サブスクリプション](https://go.microsoft.com/fwlink/?linkid=2110887)設定を開き、[**購読を解除する**] を選択します。
 
-メモ: 購読メールを送信している会社からの電子メールを受信した場合にのみ、この機能が表示されます。
-Office 365 の有料サブスクリプションに関するクエリの場合は、[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) 「 [office 365 について](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)」または「」を参照してください。
+注: 購読しているメールを送信する会社からメールを受信した場合にのみ、この機能が表示されます。
+クエリが Office 365 の有料サブスクリプションに関するものである場合は、[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) にアクセスするか、「[Office 365 の詳細について](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)」をご覧ください。
   

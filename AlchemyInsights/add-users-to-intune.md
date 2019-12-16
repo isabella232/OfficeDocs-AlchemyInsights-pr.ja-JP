@@ -1,5 +1,5 @@
 ---
-title: ユーザーを Intune に追加する
+title: Intune にユーザーを追加する
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: f1caff9ef112042b2bd39e47ec03c587cc87e421
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
-ms.translationtype: MT
+ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37726853"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39625813"
 ---
-# <a name="add-users-to-intune"></a>ユーザーを Intune に追加する
+# <a name="add-users-to-intune"></a>Intune にユーザーを追加する
 
- [Microsoft 365 管理センター](https://admin.microsoft.com/) または [intune ポータル](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)を使用して、ユーザーを intune サブスクリプションに手動で追加することができます。
+ [Microsoft 365 管理センター](https://admin.microsoft.com/) または  [Intune ポータル](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)を使用して、Intune サブスクリプションにユーザーを手動で追加できます。
 
-管理者は、ユーザーアカウントを編集して Intune ライセンスを割り当てることができます。 ライセンスは、Microsoft 365 管理センターまたは Intune ポータルのいずれかに割り当てることができます。
+管理者は、ユーザー アカウントを編集して Intune ライセンスを割り当てることができます。 ライセンスは、Microsoft 365 管理センターまたは Intune ポータルで割り当てることができます。
 
-Microsoft 365 管理センターの使用の詳細については、「 [ユーザーを個別に追加する」または「一括で microsoft 365 管理センターに追加する](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)」を参照してください。
+Microsoft 365 管理センターの使用に関する詳細については、「 [Add users individually or in bulk to the Microsoft 365 admin center (Office 365 管理センターにユーザーを個別に、またはまとめて追加する)](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)」を参照してください。
 
-Intune ポータルの使用の詳細については、「[ユーザーを追加し、管理アクセス許可を intune に付与する](https://docs.microsoft.com/en-us/intune/fundamentals/users-add)」を参照してください。
+Intune ポータルの使用の詳細については、「[ユーザーを追加し、Intune に管理アクセス許可を付与する](https://docs.microsoft.com/intune/fundamentals/users-add)」を参照してください。
