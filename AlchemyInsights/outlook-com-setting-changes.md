@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
 ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/03/2019
 ms.locfileid: "37386370"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com での設定
 
-受信者が組織の内部または外部で、Office 365 または Outlook.com 電子メールアカウントを使用している場合、次のクライアントは、メッセージを開くために特別な操作を行う必要はありません。 **outlook 2016、web/Outlook Web App、Outlook mobile アプリ**
+受信者が組織の内部または外部にいて、かつ受信者が Office 365 または Outlook.com のメールアカウントを使用している場合、次のクライアントでは特別な操作をせずにメッセージを開けます。**Outlook 2016, Outlook on the web / Outlook Web App, Outlook モバイル アプリ**
 
-保護された電子メールの送信先のユーザーの**代理人**。保護されたメッセージを開くことはできません。 元の受信者 (保護されたメールが送信された人物) だけが、電子メール内の情報を表示できます。
+保護されたメールが送信されたユーザーの **代理人** は、保護されたメッセージを開けません。 メール内の情報を見ることができるのは、元の受信者 (保護されたメールの受信者) のみです。
 
-- 受信者が別のインターネットサービスプロバイダー上にあり、メッセージ&nbsp;を開いて、' rpq msg ' 添付ファイルを表示できない場合は、次の手順を実行します。
+- &nbsp;受信者のインターネット サービス プロバイダーが異なり、メッセージを開けず、rpmsg 添付ファイルを表示できない場合は、次の手順に従います。
     
-    - [メッセージの**読み取り**] を選択します。
+    - メッセージを [**読む**] を選択します。
     
-    - これらは、**ワンタイムパスコード**でのサインインを選択する必要があるページにリダイレクトされます。
+    - リダイレクトされたページで [**ワンタイム パスコードを使用してサインインする**] を選択します。
     
-    - 単一使用のパスコードが同じ電子メールアドレスに送信されます。 ブラウザーウィンドウにコードを入力し、[**続行**] を選択してメッセージを読み上げます。
+    - 一時使用パスコードが同じメール アドレスに送信されます。 ブラウザー ウィンドウにコードを入力し、[**続行**] を選択し、メッセージを読みます。
 
-- 別の Office 365 組織からのメッセージを暗号化できない場合は、この[記事](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)に記載されている解決手順に従います。
+- 別の Office 365 組織からの暗号化されたメッセージを表示できない場合は、この [記事](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164) に記載されている解決手順に従います。
 
-- 受信者のメールボックスが**Yahoo または Gmail**上にある場合</span>は、この[記事](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)に記載されている手順に従ってください。
+- 受信者のメールボックスが **Yahoo または Gmail** にある場合は、この [記事](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098) に記載されている 手順 </span> に従います。
 
-- 保護ポリシーは、[既知のファイル形式](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)にのみ適用されます。 OneDrive for Business の添付ファイルは暗号化に対してサポートされていません。
+- 保護ポリシーは、[既知のファイル形式](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) にのみ適用されます。 OneDrive for Business の添付ファイルには、暗号化のサポートはありません。
 
-- 共有メールボックス**は、すべてのクライアントによって現在暗号化されたメッセージを開くことができません**。 
+- 共有メールボックスでは、**現在いずれのクライアントでも暗号化されたメッセージを開くことができません**。 
