@@ -1,5 +1,5 @@
 ---
-title: 重複がありません
+title: 存在しない - 重複
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001433"
 ms.openlocfilehash: 0987a5c66e6853f457624f251a53a9c4a842e4b9
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39627435"

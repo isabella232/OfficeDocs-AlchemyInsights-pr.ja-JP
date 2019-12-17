@@ -15,13 +15,13 @@ ms.custom:
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36736114"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Microsoft Teams を有効にして使用します
 
-Microsoft Teams へのアクセス権がない場合は、「 [Microsoft teams へのアクセス方法](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)」を参照してください。
+Microsoft Teams に全くアクセスできない場合は、「[Microsoft Teams へのアクセス方法](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)」をご確認ください。
 
-既に Microsoft Teams を所有しており、その構成と管理の方法を知る必要がある場合は、「[組織のために Microsoft teams の設定を管理](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)する」を参照してください。
+既に Microsoft Teams を持っており、構成や管理の方法を確認する必要がある場合は、「[組織の Microsoft Teams の設定を管理する](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)」を参照してください。

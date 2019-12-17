@@ -1,5 +1,5 @@
 ---
-title: 305アーカイブメールボックスのサイズを増やす
+title: 305 アーカイブ メールボックスのサイズを増やす
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,21 +11,21 @@ ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36661805"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>アーカイブメールボックスのサイズを増やす
+# <a name="increase-the-archive-mailbox-size"></a>アーカイブ メールボックスの容量を増やす
 
-Office 365 では、ユーザーアカウントに割り当てられているライセンスに基づいて、アーカイブメールボックスのサイズが[制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)されます。 アーカイブメールボックスが許可されたサイズの90% に達すると、ユーザーはメール通知を受信します。 アーカイブメールボックスのサイズが制限に達した場合、ユーザーはそれより多くのアイテムをアーカイブメールボックスに移動することはできません。 サイズ制限に達した後、Office 365 はアーカイブメールボックスのサイズを拡大しません。 代わりに、ユーザーは次の操作を実行して、アーカイブメールボックス内の空き領域を増やすことができます。
+Office 365 では、ユーザー アカウントに割り当てられているライセンスに基づいて、アーカイブ メールボックスのサイズが[制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)されます。 アーカイブ メールボックスが許可されているサイズの 90% に達すると、ユーザーはメール通知を受け取ります。 アーカイブ メールボックスがサイズの上限に達すると、ユーザーは追加のアイテムをアーカイブ メールボックスに移動することができなくなります。 アーカイブ メールボックスがサイズの上限に達しても、Office 365 によりサイズが拡張されることはありません。 代わりに、ユーザーは次の操作を実行するとアーカイブ メールボックスの領域を開放することができます。
 
-- Outlook を使用して、アイテムを .pst ファイルにエクスポートします。
+- Outlook を使用してアイテムを .pst ファイルにエクスポートします。
 
-- アーカイブメールボックスからアイテムを削除します。
+- アーカイブ メールボックスからアイテムを削除します。
 
-Office 365 では、Office 365 Enterprise E3 および E5 のライセンスに対して**無制限のアーカイブ**が提供されています。 管理者は、アーカイブメールボックスが最大サイズに達する前に、この機能を有効にする必要があります。 無制限のアーカイブが有効になっている場合は、アーカイブメールボックスに空き領域が追加されるまでに最大で30日かかることがあります。 そのため、管理者はアーカイブメールボックスの空き領域を確認することをお勧めします。これにより、ユーザーは、拡張中にアーカイブメールボックスを引き続き使用できます。 詳細については、「office [365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」および「 [office 365 で無制限アーカイブを有効にする](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)」を参照してください。
+Office 365 では、Office 365 Enterprise E3 および E5 のライセンスで**無制限アーカイブ**が提供されています。 管理者は、アーカイブ メールボックスのサイズが最大サイズに達する前にこの機能を有効にする必要があります。 無制限アーカイブが有効になっている場合、アーカイブ メールボックスに空き領域が追加されるまで最大で 30 日かかります。 このため、サイズが拡大される間もユーザーがアーカイブ メールボックスを使用し続けることができるよう、管理者はアーカイブ メールボックスの空き領域を確認することをお勧めします。 詳細については、「[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」と「[Office 365 で無制限アーカイブを有効にする](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)」を参照してください。
 
-Outlook からアーカイブメールボックスにアクセスする方法の詳細については、「[自動拡張アーカイブのアイテムにアクセスするための outlook 要件](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)」を参照してください。 アイテムをアーカイブメールボックスに自動的に移動するアイテム保持ポリシーを構成するには、「 [Office 365 組織のメールボックスのアーカイブおよび削除ポリシーをセットアップ](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)する」を参照してください。
+Outlook からアーカイブ メールボックスにアクセスする方法の詳細については、「[自動拡張アーカイブ内のアイテムにアクセスするための Outlook の要件](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)」を参照してください。 アイテムをアーカイブ メールボックスに自動的に移動するアイテム保持ポリシーを構成する方法については、「[Office 365 組織のメールボックスのアーカイブおよび削除ポリシーを設定する](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)」を参照してください。
 
-**注**: 自動拡張アーカイブは、Exchange 2010 のプライマリメールボックスではサポートされていません。
+**注**: 自動拡張アーカイブは、Exchange 2010 のプライマリ メールボックスではサポートされていません。

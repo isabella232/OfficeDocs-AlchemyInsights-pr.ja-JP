@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
-ms.translationtype: MT
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380100"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627579"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teams での会議ポリシーの管理
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teams で会議ポリシーを管理する
 
-会議ポリシーは、組織内のユーザーによってスケジュールされた会議の会議参加者が使用できる機能を制御するために使用されます。 会議ポリシーの一部の機能は、Teams 管理センターには実装されていない場合があります (ドキュメントの「近日中」というラベルが付いています)。 この場合、または Microsoft Teams の管理センターで "ポリシーを今すぐには更新できません。後でもう一度実行してください" のようなエラーが表示される場合は、PowerShell を使用して Teams の会議ポリシーを作成または変更することをお勧めします。 
+会議ポリシーは、組織内のユーザーによってスケジュールされた会議への参加者が利用できる機能を制御するために使用されます。 会議ポリシーの一部の機能は、Teams 管理センターにまだ実装されていない場合があります (これらはドキュメントに "近日公開" としてラベル付けされています)。 この場合、もしくは Microsoft Teams 管理センターで "今すぐポリシーを更新することはできませんが、後でもう一度試してください" などのエラーが表示される場合には、PowerShell を使用して Teams 会議ポリシーを作成または変更することをお勧めします。 
 
-会議ポリシーの詳細については、次のリソースを参照してください。
+会議ポリシーの詳細については、以下のリソースをご覧ください。
 
-- ポリシーの作成、変更、およびポリシーへのユーザーの割り当てについては、「 [Teams での会議ポリシーの管理](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)」を参照してください。
+- ポリシーの作成、変更、およびポリシーへのユーザーの割り当ての詳細については、「[Teams での会議ポリシーを管理する](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)」を参照してください。
 
-- PowerShell コマンドレットを使用してポリシーを変更するには、「 [Teams powershell の概要](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)」を参照してください。 
-    - Teams の会議ポリシーには、 [Skype For Business PowerShell モジュール](https://www.microsoft.com/download/details.aspx?id=39366)を使用する必要があります。 
-    - 詳細については、 [CsTeamsMeetingPolicy コマンドレットのドキュメント](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)を参照してください。
+- PowerShell コマンドレットを使用してポリシーを変更するには、「[Teams での PowerShell の概要](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)」を参照してください。 
+    - Teams の会議ポリシーには、[Skype for Business PowerShell モジュール](https://www.microsoft.com/download/details.aspx?id=39366)を使用する必要があります。 
+    - 詳細については、[*-CsTeamsMeetingPolicy コマンドレットのドキュメント](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)を参照してください。
 
-**注:** ユーザーがポリシーの変更を有効にするには、最大24時間かかる場合があります。 新しく作成したポリシーをすぐに変更できない場合があります。4時間待ってから、新しく作成したポリシーをもう一度変更します。 それでも問題が解決しない場合は、PowerShell をお試しください。  
+**注:** ポリシーの変更がユーザーに反映されるまで最大 24 時間かかる場合があります。 新しく作成されたポリシーをすぐに変更できない場合があります。4 時間待ってから、新しく作成されたポリシーを再度変更してみてください。 それでも問題が解決しない場合には、PowerShell を試してみてください。  

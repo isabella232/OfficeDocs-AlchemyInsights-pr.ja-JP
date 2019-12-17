@@ -1,5 +1,5 @@
 ---
-title: Office アプリを修正すると、関連付けられている office ライセンスが見つかりませんでした
+title: Office アプリの「関連する Office ライセンスが見つかりませんでした」メッセージの修正
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001426"
 ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39627923"

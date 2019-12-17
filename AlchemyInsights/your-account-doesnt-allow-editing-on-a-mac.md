@@ -1,5 +1,5 @@
 ---
-title: ライセンス認証の問題-Mac での編集を許可しない
+title: ライセンス認証の問題 - アカウントで Mac での編集が許可されていない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001425"
 ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39628139"

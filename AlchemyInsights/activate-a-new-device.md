@@ -1,5 +1,5 @@
 ---
-title: 新しいデバイスをアクティブにする
+title: 新しいデバイスのライセンス認証を行う
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001418"
 ms.openlocfilehash: a0e1d87620265f1bba133b571aa218bec3163366
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39625885"

@@ -12,7 +12,7 @@ ms.custom:
 - "9000231"
 ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
 ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2019
 ms.locfileid: "36818791"
@@ -27,7 +27,7 @@ SharePoint Online でのプロファイル画像の同期には、ユーザー�
 
 2. 職場または学校のアカウントでサインインして、OneDrive または SharePoint のタイルをクリックします。
 
-3. [自分のプロファイル写真を Office 365 に追加](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)します。
+3. [Office 365 にプロフィール写真を追加します](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)。
 
 [Office 365 のプロファイル画像の同期に関する情報](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

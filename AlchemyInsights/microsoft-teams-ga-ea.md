@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 997c04ba022ea96c225279b090b768043130cdcd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: MT
+ms.openlocfilehash: 5a99182e94509852aa94ae19822808b9d129a4a1
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37604152"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627543"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams - ゲスト アクセス
 
-Teams で組織外のユーザーとの通信を支援する必要がある場合は、[ゲストアクセスと外部アクセス (フェデレーション)](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access#external-access-vs-guest-access)のどちらを使用するかを決定し、それらの両方を有効にする必要があります。
+Teams で組織外のユーザーとの通信にサポートが必要な場合には、[ゲスト アクセスまたは外部アクセス (フェデレーション)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) のどちらを使用するか、もしくは両方を有効にするかを決定する必要があります。
 
-これらの機能には、いくつかの重要な相違点があります。 より広範な機能セットがあるために、ゲストアクセスを使用することをお勧めします。 ただし、外部アクセス (フェデレーション) は、外部ユーザーとの通信を単純にするのに適しています。 [相違点を確認](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access#external-access-vs-guest-access)し、ビジネスニーズに最も適したものを選びます。
+これらの機能の間には、いくつかの重要な違いがあります。 幅広い機能セットにより、ゲスト アクセスが好ましい場合もあるでしょう。 しかしながら、外部ユーザーとのよりシンプルな通信には外部アクセス (フェデレーション) が最適です。 [違いを確認し](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)、ビジネス ニーズに最適なものを選択してください。
 
-ゲストアクセスを有効にしたい場合は、[ゲストアクセスチェックリスト](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)のすべての手順に従っていることを確認してください。 完全に完了したら、設定が有効になるまで[最大24時間待機](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies)する必要があります。
+ゲスト アクセスを有効にする場合には、[ゲスト アクセスのチェックリスト](https://docs.microsoft.com/microsoftteams/guest-access-checklist)のすべての手順が完了されていることを確認してください。 設定が完了したら、設定が有効になるまで[最大で 24 時間待つ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies)必要があります。
 
-チェックリストのすべての手順が完了し、24時間を超えていることがわかっている場合は、先に進んで、[チームにゲストを追加](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)してみてください。
+チェックリストのすべての手順が確実に完了されており、24 時間以上経過した場合、[ゲストをチームに追加](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)します。
 
-外部アクセス (フェデレーション) を有効にする場合は、「 [Teams ユーザーがチャットして別の組織のユーザーと通信できる](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)ようにする」のすべての手順に従います。
+外部アクセス (フェデレーション) も有効にしたい場合には、「[Teams のユーザーが別の Teams 組織のユーザーとチャットおよび通信できるようにする](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)」のすべての手順を行ってください。
 
 詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/microsoftteams/guest-access)」をご覧ください。

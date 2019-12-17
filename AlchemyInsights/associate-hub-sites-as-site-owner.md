@@ -1,5 +1,5 @@
 ---
-title: ハブサイトをサイト所有者として関連付ける
+title: ハブ サイトをサイト所有者として関連付ける
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -14,23 +14,23 @@ ms.custom:
 - "2638"
 ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
 ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/23/2019
 ms.locfileid: "37313916"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>ハブサイトをサイト所有者として関連付ける
+# <a name="associate-hub-sites-as-site-owner"></a>ハブ サイトをサイト所有者として関連付ける
 
-[メッセージセンター 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626)共有 SharePoint hub をサイト所有者が実行できるようになりました。 ハブに関連付けることができる特定の個人を組織で管理する場合は、次の手順を実行します。 
+サイト所有者が SharePoint ハブへの参加方法を共有した[メッセージ センター 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) を実行できるようになりました。 組織がハブに関連付けることができる特定の個人を管理したい場合には、以下の手順を実行します。 
 
-1. 管理者権限を使用し[https://portal.office.com](https://portal.office.com)て Office 365 () にサインインします。
-2. 画面の左上にある**アプリ起動ツール**(9 つの正方形のアイコン) を選択し、[**管理者**] を選択します。
-3. 画面の左側にあるメニューから [**管理センター** ] を選択し、[ **SharePoint**] を選択します。
-4. 画面上部の青いバナーから、[**アプリを今すぐ起動**する] を選択して、新しい Sharepoint 管理センターを表示します。
-5. 画面左側の表示で、メニューから [**サイト**] を選択し、[**アクティブなサイト**] を選択します。
-6. 設定を変更するハブサイトを確認します。
-7. 画面の上部にあるメニューから [**ハブ**] を選択し、[**ハブサイト設定の編集**] を選択します。
-8. "このハブにサイトを関連付けることができるユーザー" アイテムで、操作を許可するユーザーまたはセキュリティグループを指定します。
-9. 画面の下部にある [**保存**] を選択します。
+1. 管理者権限で Office 365 ([https://portal.office.com](https://portal.office.com)) にサインインします。
+2. 画面の左上にある**アプリ起動ツール** (9 つの正方形のアイコン) を選択し、[**管理者**] を選択します。
+3. 画面の左側にあるメニューから [**管理センター**] を選択し、[**SharePoint**] を選択します。
+4. 画面上部の青いバナーから [**今すぐアプリを起動**] を選択し、新しい Sharepoint 管理センターを表示します。
+5. 画面左側の表示で、メニューから [**サイト**] を選択し、[**アクティブ サイト**] を選択します。
+6. 設定を変更するハブ サイトを確認します。
+7. 画面上部のメニューから [**ハブ**] を選択し、[**ハブ サイト設定の編集**] を選択します。
+8. [サイトをこのハブに関連付けることができるユーザー] アイテムでの作業を許可するユーザーまたはセキュリティ グループを指定します。
+9. 画面下部にある [**保存**] を選択します。
 
-詳細については[、「SharePoint サイトをハブサイトに関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)」を参照してください。 
+詳細については、「[SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)」を参照してください。 

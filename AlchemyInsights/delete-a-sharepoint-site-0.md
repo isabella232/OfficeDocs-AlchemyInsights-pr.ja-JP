@@ -13,12 +13,12 @@ ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36514045"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 グループに属するサイトを削除する
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 グループに属しているサイトを削除する
 
 ユーザーが SharePoint ホームから新しいチーム サイトを作成する (または、新しい SharePoint 管理センターのプレビューから新しいチーム サイトを作成する) と、対応する Office 365 グループが自動的に作成されます。Microsoft Teams で Office 365 グループまたはチームを作成すると、Office 365 グループ接続チーム サイトも作成されます。Office 365 グループに属している SharePoint サイトを削除するには、Office 365 グループ自体を削除する必要があります。 
   

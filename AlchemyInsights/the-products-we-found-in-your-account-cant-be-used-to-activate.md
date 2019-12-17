@@ -1,5 +1,5 @@
 ---
-title: Office メッセージ-お客様のアカウントで見つかった製品は、ライセンス認証に使用できません
+title: Office メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001424"
 ms.openlocfilehash: f0c7a162a90fd4840c566730c45b4a5a1866d30d
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39626281"

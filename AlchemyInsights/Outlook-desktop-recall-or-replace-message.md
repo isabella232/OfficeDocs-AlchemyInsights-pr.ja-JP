@@ -1,5 +1,5 @@
 ---
-title: Outlook デスクトップでメール メッセージを取り消す、または置き換えます
+title: Outlook デスクトップでメール メッセージを取り消す、または置き換える
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36496116"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook 電子メールメッセージの取り消しまたは置換
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook メール メッセージを取り消す、または置き換える
 
 - 管理者は、**PowerShell を使用してユーザーの代理のメッセージを取り消すことが**できます。 管理センターからメッセージを取り消すことはできません。
 - あなたは**あなたの組織内の人々に送られたメッセージだけを取り消すことができます**。 たとえば、Gmail アドレスに送信された場合は、メッセージを取り消すことはできません。

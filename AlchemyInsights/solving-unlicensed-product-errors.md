@@ -1,5 +1,5 @@
 ---
-title: ライセンスのない製品エラーの解決
+title: ライセンスのない製品というエラーを解決する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001428"
 ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39628031"

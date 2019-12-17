@@ -1,5 +1,5 @@
 ---
-title: アクティブ化/サインインの問題-別のアカウントが既にサインインしています
+title: ライセンス認証/サインインの問題 - 別のアカウントがすでにサインインしている
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001422"
 ms.openlocfilehash: 16a4e148ee6eac2c4492a8c0a1a137e947fcf332
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39625849"

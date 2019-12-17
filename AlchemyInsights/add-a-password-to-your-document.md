@@ -1,5 +1,5 @@
 ---
-title: ドキュメントにパスワードを追加する
+title: 文書にパスワードを追加する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "3464"
 ms.openlocfilehash: 89556c12ce22c16b30162c5e61a3ef57aceba82d
 ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/10/2019
 ms.locfileid: "39976362"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Word 文書にパスワードを追加する
 
-1. [**ファイル** > **情報** > **** > ] [**パスワードを使用してドキュメントの暗号化**を保護する] に移動します。
-2. 使用するパスワードを入力し、[ **OK]** を選択します。
-3. パスワードをもう一度入力し、[ **OK]** を選択します。
+1. [**ファイル**] > [**情報**] > [**文書の保護**] > [**パスワードを使用して暗号化**] の順に移動します。
+2. 使用するパスワードを入力し、[**OK**] を選択します。
+3. パスワードを再入力し、[**OK**] を選択します。

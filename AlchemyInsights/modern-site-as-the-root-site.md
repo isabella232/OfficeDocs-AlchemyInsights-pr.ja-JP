@@ -1,5 +1,5 @@
 ---
-title: ルートサイトとしてのモダンサイト
+title: ルートサイトとしてのモダン サイト
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -13,20 +13,20 @@ ms.custom:
 - "1874"
 ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
 ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36753909"
 ---
-# <a name="modern-site-as-root-site"></a>ルートサイトとしてのモダンサイト
+# <a name="modern-site-as-root-site"></a>ルート サイトとしてのモダン サイト
 
-[従来のサイトのルートサイトをモダンサイトと入れ替える](https://docs.microsoft.com/sharepoint/modern-root-site)ことができる新機能のロールアウトを開始しました。 元のサイトをアーカイブしているときに、 [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)を使用してサイトの場所を別のサイトと交換します。 両方のチームサイト (グループに接続されていない) とコミュニケーションサイトで使用できます。
+[モダン サイトと従来のサイトのルートサイトを交換](https://docs.microsoft.com/sharepoint/modern-root-site)できるようにするために、新機能のロールアウトを開始しました。 [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) を使用して、元のサイトをアーカイブしながら、別のサイトとサイトの場所を交換します。 チーム サイト (グループに接続されていない) とコミュニケーション サイトの両方で使用することができます。
 
 >[!Important]
-> モダンコミュニケーションサイトを作成するために、従来のルートサイトを削除しないでください。 これは Microsoft ではサポートされていません。 ルートサイトを削除すると、サイトを復元するか、同じ URL で新しいサイトを作成するまで、組織内のすべての SharePoint サイトがすべてのユーザーに対してアクセスできなくなります。 この機能は、メッセージセンター経由で通信します。 この機能は、すぐにテナントでオンになるはずです。
+> モダン コミュニケーション サイトを作成するために、従来のルート サイトを削除しないでください。 このようなことは、Microsoft ではサポートしていません。 ルートサイトを削除すると、サイトを復元するか、同じ URL の新しいサイトが作成されるまで、組織内のすべての SharePoint サイトですべてのユーザーにアクセスできなくなります。 私たちは、メッセージ センター経由でこの機能を伝えていきます。 すぐに、ユーザーのテナントの機能が有効になります。
 
-## <a name="known-issues-with-swapping-sites"></a>サイトのスワップに関する既知の問題
-- ターゲットサイトは、短時間に "not found" (HTTP 404) エラーを返す場合があります。
-- 検索インデックスを更新するには、コンテンツを再クロールする必要があります。 ここでは手動での手順は必要ありませんが、これは自動的に実行されます。
-- "静的" リンク (ファイル同期や OneNote ファイルなど) に依存するものは、手動で修正する必要があります。
-- Project Server サイトが正しく関連付けられていることを確認するには、そのサイトを検証する必要があります。 
+## <a name="known-issues-with-swapping-sites"></a>サイトの入れ替えに関する既知の問題
+- ターゲット サイトでは、短時間の間、"見つかりません" (HTTP 404) というエラーを返す場合があります。
+- 検索インデックスを更新するには、コンテンツが再クロールされる必要があります。 ここでは、要求される手動ステップはありません。これは自動的に行われます。
+- "静的" リンクに依存するもの (ファイルの同期や OneNote ファイルなど) は、手動で修正される必要があります。
+- Project Server サイトを検証し、それらが正しく関連付けられていることを確認することが必要な場合があります。 

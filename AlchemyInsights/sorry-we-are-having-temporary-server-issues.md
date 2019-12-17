@@ -1,5 +1,5 @@
 ---
-title: Office アプリを修正しています。一時的なサーバーの問題メッセージが表示されています。
+title: Office アプリの「申し訳ありませんが、一時的なサーバーの問題が発生しています」メッセージの修正
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001430"
 ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39627995"

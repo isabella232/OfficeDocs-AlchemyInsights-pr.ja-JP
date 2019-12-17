@@ -1,5 +1,5 @@
 ---
-title: ライセンス認証の問題-現時点では接続できません
+title: ライセンス承認の問題 - 現在接続できない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001423"
 ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39628247"

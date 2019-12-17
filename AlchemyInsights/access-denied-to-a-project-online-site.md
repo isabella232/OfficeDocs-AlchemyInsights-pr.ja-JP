@@ -13,17 +13,17 @@ ms.custom:
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36661229"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Project Online でユーザーにアクセス許可を付与する
+# <a name="give-users-permissions-in-project-online"></a>Project Online でユーザーにアクセスを許可する
 
 SharePoint アクセス許可モードを使用して、ユーザーに Project Web App サイトへのアクセスを許可します。
 
 1. 管理者として Project Online にログインします。
-2. Project Web App のホームページで、右上隅の [**共有**] を選択します。
+2. Project Web App ホームページで、右上隅にある [**共有**] を選択します。
 3. **[Project Web Appの共有]** ダイアログ ボックスの **[ユーザーの招待]** ボックスに、アクセスを許可したいユーザーのユーザー名を入力します。
 4. **[オプションの表示]** を選択し、**[権限レベルの選択]** メニューで **[Project Web App のプロジェクト管理者]** を選択します。
 5. **[共有]** を選択します。

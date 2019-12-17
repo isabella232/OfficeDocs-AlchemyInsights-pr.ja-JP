@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
 ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/04/2019
 ms.locfileid: "37973180"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>ドキュメント ライブラリにフォルダーまたはファイルをアップロードする
 
-コンピューターからドキュメントライブラリにファイルをドラッグアンドドロップすることで、SharePoint のドキュメントライブラリにファイルをアップロードできます。
+ファイルは SharePoint のドキュメント ライブラリに簡単にアップロードできます。アップロードするファイルをコンピューターからドラッグして、ドキュメント ライブラリにドロップします。
 
 * [ドキュメント ライブラリにフォルダーまたはファイルをアップロードする](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [OneDrive Sync を使用してアップロードする](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [OneDrive 同期を使用してアップロードする](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

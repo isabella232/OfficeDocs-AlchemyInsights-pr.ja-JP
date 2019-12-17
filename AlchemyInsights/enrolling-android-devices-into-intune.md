@@ -1,5 +1,5 @@
 ---
-title: Intune への Android デバイスの登録
+title: Android デバイスを Intune に登録する
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -13,24 +13,24 @@ ms.custom:
 - "2494"
 ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
 ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/24/2019
 ms.locfileid: "37726854"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Intune への Android デバイスの登録
+# <a name="enrolling-android-devices-into-intune"></a>Android デバイスを Intune に登録する
 
-Intune は、以下の Android デバイスの登録をサポートしています。
-- Samsung Knox and Zebra
-- Android Enterprise の作業プロファイル
+Intune は、次の Android デバイスの登録をサポートしています。
+- Samsung Knox および Samsung Zebra
+- Android Enterprise の作業プロフィール
 - Android Enterprise 専用
-- Android Enterprise の完全管理
+- 完全に管理されている Android Enterprise
 
-Android デバイスの登録をセットアップする前に、[前提条件を確認するhttps://docs.microsoft.com/intune/enrollment/android-enroll] (を参照してください。
+Android デバイスの登録をセットアップする前に、[前提条件を確認してください] (https://docs.microsoft.com/intune/enrollment/android-enroll)。
 
-一般的なデバイスの登録と Android の登録に関するエラーのトラブルシューティングの詳細については、「 [Microsoft Intune でのデバイス登録のトラブルシューティング](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)」を参照してください。
+デバイス登録のトラブルシューティング全般および Android 登録のエラーについては、「[Microsoft Intune でデバイス登録のトラブルシューティングを行う](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)」を参照してください。
 
-[Intune のトラブルシューティングブレードを説明するコンテンツ](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)を使用して、ユーザーが直面している enrolment 問題を特定することもできます。
+ユーザーに発生している登録に関する問題は、[Intune のトラブルシューティング ブレードに関する説明](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)を使用して特定することもできます。
 
 
 

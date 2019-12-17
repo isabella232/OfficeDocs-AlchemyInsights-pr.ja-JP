@@ -1,5 +1,5 @@
 ---
-title: アプリライセンスの数量を変更する
+title: アプリ ライセンス数を変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,16 +14,16 @@ ms.custom:
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
 ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/15/2019
 ms.locfileid: "36519772"
 ---
-# <a name="change-app-license-quantity"></a>アプリライセンスの数量を変更する
+# <a name="change-app-license-quantity"></a>アプリのライセンス数を変更する
 
-ライセンスの数を表示または変更したり、Microsoft 365 管理センターでユーザーにライセンスを割り当てたりすることができます。 
+所有しているライセンス数を表示または変更したり、Microsoft 365 管理センターのユーザーに割り当てることができます。 
 
-## <a name="to-change-license-quantity"></a>ライセンスの数量を変更するには
+## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
 
 1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
 
@@ -31,7 +31,7 @@ ms.locfileid: "36519772"
 
 3. [**ライセンスの追加/削除**] を選択します。
 
-4. 必要なライセンスの新しい数を入力します。 たとえば、現在5つのライセンスがあり、4つだけが必要な場合は、[**ライセンスの合計**] ボックスに「4」と入力します。 現在5つのライセンスを所有しており、ライセンス総数が10個必要な場合は、[**ライセンスの合計**] ボックスに「10」と入力します。
+4. 必要な新しいライセンス数を入力します。 たとえば、現在 5 個のライセンスがあり、4 個だけが必要な場合は、[**ライセンスの総数**] ボックスに 4 と入力します。 現在 5 個のライセンスを持っていて、合計 10 個のライセンスが必要な場合は、[**ライセンスの総数**] ボックスに 10 と入力します。
 
 ## <a name="to-assign-app-licenses"></a>アプリ ライセンスを割り当てるには
 

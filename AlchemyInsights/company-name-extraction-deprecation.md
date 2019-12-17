@@ -1,5 +1,5 @@
 ---
-title: 会社名抽出の廃止
+title: 会社名の抽出の廃止
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "9000759"
 ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
 ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/11/2019
 ms.locfileid: "37486380"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online での会社名抽出の変更点
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online での会社名の抽出の変更
 
-2019年11月15日[から、SharePoint Online から会社名の抽出を削除](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)します。 SharePoint での会社名の抽出を使用すると、検索システムで、事前に入力された辞書を使用するか、または会社や会社の除外リストを使用して、特定の条件セットのコンテンツから会社名を抽出できます。 会社名の抽出は、SharePoint Online のコンテンツから1つまたは複数の会社名を派生させるために依存するソリューションになっていますが、辞書と基になる機能セットの両方が古くなっています。
+2019 年 11 月 15 日から、[SharePoint Online での会社名の抽出の削除](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) を開始します。 SharePoint での会社名の抽出では、検索システムが、事前に入力されたディクショナリや、会社の対象リストまたは会社の除外リストを使用して、特定の条件下でコンテンツから会社名を抽出することができます。 会社名の抽出は、SharePoint Online のコンテンツから 1 つ以上の会社名を作成するのに信頼できる解決方法ですが、ディクショナリとその基になる機能セットは、使用されなくなりました。
 
-- [プロパティに対して会社名の抽出が有効になっているかどうかを確認するにはどうすればよいですか?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [プロパティの会社名の抽出が有効になっているかどうかを確認する方法](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [会社名の抽出が廃止された場合はどうなりますか。](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [会社名の抽出が廃止されるとどうなりますか?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [会社名の抽出に代わる方法はありますか。](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [会社名の抽出の代替機能はありますか。](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

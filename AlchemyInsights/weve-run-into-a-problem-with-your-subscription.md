@@ -1,5 +1,5 @@
 ---
-title: サブスクリプションメッセージに関して実行した Office アプリの問題を解決する
+title: Office アプリの「サブスクリプションに問題が発生しました」メッセージの修正
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9001427"
 ms.openlocfilehash: e1ba8c1ef4d62b1e2f129d7e299745ed317927b1
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39628211"

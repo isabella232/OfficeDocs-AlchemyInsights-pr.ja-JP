@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
 ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/19/2019
 ms.locfileid: "38711797"
@@ -41,5 +41,5 @@ ms.locfileid: "38711797"
   
 詳細については、以下を参照してください。
 
- - [SharePoint でファイルを移動またはコピー](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)する (Office サポート記事)
- - [Office 365 の任意のフォルダーからファイルを移動](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)する (Microsoft Tech Community ブログ記事)   
+ - 「[SharePoint でファイルを移動またはコピーする](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)」(Office サポートの記事)
+ - 「[Office 365 の任意のフォルダーからファイルを移動する](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)」(Microsoft Tech Community のブログ記事)   
