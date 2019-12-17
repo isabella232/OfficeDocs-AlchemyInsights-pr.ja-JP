@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online での外部共有
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 6656fb58817d9be74a4558981b3837ed104d65d6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36818359"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049774"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a><span data-ttu-id="79385-102">SharePoint Online での外部共有</span><span class="sxs-lookup"><span data-stu-id="79385-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="external-sharing-in-sharepoint-online"></a><span data-ttu-id="09354-102">SharePoint Online での外部共有</span><span class="sxs-lookup"><span data-stu-id="09354-102">External sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="79385-103">自分の組織の業務でベンダー、クライアント、または顧客とのドキュメント共有や直接的な共同作業が必要となる場合は、[SharePoint Online の外部共有機能](https://docs.microsoft.com/sharepoint/external-sharing-overview)を使用して組織外部のユーザーとコンテンツを共有することができます。</span><span class="sxs-lookup"><span data-stu-id="79385-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="09354-103">自分の組織の業務でベンダー、クライアント、または顧客とのドキュメント共有や直接的な共同作業が必要となる場合は、[SharePoint Online の外部共有機能](https://docs.microsoft.com/sharepoint/external-sharing-overview)を使用して組織外部のユーザーとコンテンツを共有することができます。</span><span class="sxs-lookup"><span data-stu-id="09354-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="79385-104">外部共有の詳細については、次のリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="79385-104">For more information on content migration, please visit the links below.</span></span>
+<span data-ttu-id="09354-104">外部共有の詳細については、次のリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="09354-104">For more information on external sharing, please visit the links below:</span></span>
 
-- [<span data-ttu-id="79385-105">SharePoint Online の外部共有を有効または無効にする</span><span class="sxs-lookup"><span data-stu-id="79385-105">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [<span data-ttu-id="79385-106">サイトの外部共有を有効または無効にする</span><span class="sxs-lookup"><span data-stu-id="79385-106">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [<span data-ttu-id="79385-107">サイトの種類別の既定の共有設定</span><span class="sxs-lookup"><span data-stu-id="79385-107">Default sharing settings per site type</span></span>](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [<span data-ttu-id="79385-108">SharePoint Online を企業間 (B2B) エクストラネット ソリューションとして使用する</span><span class="sxs-lookup"><span data-stu-id="79385-108">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [<span data-ttu-id="79385-109">SharePoint のファイルまたはフォルダーを共有する</span><span class="sxs-lookup"><span data-stu-id="79385-109">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [<span data-ttu-id="79385-110">OneDrive または SharePoint のファイルまたはフォルダーの共有を停止する、またはアクセス許可を変更する</span><span class="sxs-lookup"><span data-stu-id="79385-110">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-- [<span data-ttu-id="79385-111">Microsoft Teams でのゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="79385-111">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [<span data-ttu-id="79385-112">Microsoft ゲスト共有設定リファレンス (Azure Active Directory、Microsoft 365、および SharePoint Online)</span><span class="sxs-lookup"><span data-stu-id="79385-112">Microsoft Guest Sharing Settings Reference (Azure Active Directory, Microsoft 365, and SharePoint Online)</span></span>](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [<span data-ttu-id="09354-105">SharePoint Online の外部共有を有効または無効にする</span><span class="sxs-lookup"><span data-stu-id="09354-105">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="09354-106">サイトの外部共有を有効または無効にする</span><span class="sxs-lookup"><span data-stu-id="09354-106">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="09354-107">サイトの種類別の既定の共有設定</span><span class="sxs-lookup"><span data-stu-id="09354-107">Default sharing settings per site type</span></span>](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [<span data-ttu-id="09354-108">SharePoint Online を企業間 (B2B) エクストラネット ソリューションとして使用する</span><span class="sxs-lookup"><span data-stu-id="09354-108">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="09354-109">SharePoint のファイルまたはフォルダーを共有する</span><span class="sxs-lookup"><span data-stu-id="09354-109">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="09354-110">OneDrive または SharePoint のファイルまたはフォルダーの共有を停止する、またはアクセス許可を変更する</span><span class="sxs-lookup"><span data-stu-id="09354-110">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [<span data-ttu-id="09354-111">Microsoft Teams でのゲスト アクセス</span><span class="sxs-lookup"><span data-stu-id="09354-111">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [<span data-ttu-id="09354-112">Microsoft ゲスト共有設定リファレンス (Azure Active Directory、Microsoft 365、および SharePoint Online)</span><span class="sxs-lookup"><span data-stu-id="09354-112">Microsoft Guest Sharing Settings Reference (Azure Active Directory, Microsoft 365, and SharePoint Online)</span></span>](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-<span data-ttu-id="79385-113">外部ユーザーに関するエラーが発生する場合</span><span class="sxs-lookup"><span data-stu-id="79385-113">Receiving an error with an external user (guest)?</span></span><span data-ttu-id="79385-114">次のリンクをご確認ください。</span><span class="sxs-lookup"><span data-stu-id="79385-114">Check the links below.</span></span>
+<span data-ttu-id="09354-113">外部ユーザーに関するエラーが発生する場合</span><span class="sxs-lookup"><span data-stu-id="09354-113">Receiving an error with an external user?</span></span><span data-ttu-id="09354-114">次のリンクをご確認ください。</span><span class="sxs-lookup"><span data-stu-id="09354-114"> Check the links below:</span></span>
 
-- [<span data-ttu-id="79385-115">SharePoint Online と OneDrive for Business での "アクセスが拒否されました"、"このサイトにアクセスするための権限が必要です"、または "ディレクトリにユーザーが見つかりません" というエラー</span><span class="sxs-lookup"><span data-stu-id="79385-115">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="79385-116">SharePoint Online または OneDrive for Business でアイテムやサイトを共有する際の、"組織のポリシーにより、これらのユーザーとの共有は許可されていません" というエラー</span><span class="sxs-lookup"><span data-stu-id="79385-116">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="79385-117">SharePoint Online または OneDrive から共有する際に、共有オプションが淡色表示される</span><span class="sxs-lookup"><span data-stu-id="79385-117">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="79385-118">外部ユーザーが別のアカウントを使用して SharePoint Online の招待を受け入れた場合のエラー メッセージ</span><span class="sxs-lookup"><span data-stu-id="79385-118">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="79385-119">SharePoint と OneDrive での OSE 共有エラー</span><span class="sxs-lookup"><span data-stu-id="79385-119">OSE sharing errors in Sharepoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="09354-115">SharePoint Online と OneDrive for Business での "アクセスが拒否されました"、"このサイトにアクセスするための権限が必要です"、または "ディレクトリにユーザーが見つかりません" というエラー</span><span class="sxs-lookup"><span data-stu-id="09354-115">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="09354-116">SharePoint Online または OneDrive for Business でアイテムやサイトを共有する際の、"組織のポリシーにより、これらのユーザーとの共有は許可されていません" というエラー</span><span class="sxs-lookup"><span data-stu-id="09354-116">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="09354-117">SharePoint Online または OneDrive から共有する際に、共有オプションが淡色表示される</span><span class="sxs-lookup"><span data-stu-id="09354-117">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="09354-118">外部ユーザーが別のアカウントを使用して SharePoint Online の招待を受け入れた場合のエラー メッセージ</span><span class="sxs-lookup"><span data-stu-id="09354-118">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="09354-119">SharePoint と OneDrive での OSE 共有エラー</span><span class="sxs-lookup"><span data-stu-id="09354-119">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
