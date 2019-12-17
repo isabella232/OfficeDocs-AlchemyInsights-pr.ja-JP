@@ -1,7 +1,7 @@
 ---
 title: DLP 問題についての詳細情報
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665212"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052294"
 ---
 # <a name="information-about-dlp-issues"></a>DLP 問題に関する情報
 

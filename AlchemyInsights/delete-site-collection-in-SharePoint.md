@@ -1,19 +1,19 @@
 ---
 title: SharePoint のサイト コレクションを削除する
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36748185"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053014"
 ---
 # <a name="delete-a-site-collection"></a>サイト コレクションを削除する
 

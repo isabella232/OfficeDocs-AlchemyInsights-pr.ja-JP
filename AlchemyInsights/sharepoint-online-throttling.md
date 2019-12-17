@@ -1,19 +1,19 @@
 ---
 title: SharePoint Online の調整
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 4b144e951b1997f9464522d3052dfcba0fa5d198
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6914c8fc6f5856685d2c2cce33255381c358d2bc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750237"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044012"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online の調整
 

@@ -1,19 +1,19 @@
 ---
 title: OneDrive for Business の記憶域を増やす方法
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c4b6aefb2a7f25972d0fdfc7732f9a1a59b9acb9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755817"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051862"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>OneDrive for Business の記憶域を増やす方法
 

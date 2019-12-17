@@ -1,19 +1,19 @@
 ---
 title: SharePoint でファイルを編集する
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 933d3b80cfdda182941b69b75a4a88c0f52b953e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: f637ec82e10b6bce7c883958edd6a887dafabf14
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756069"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052762"
 ---
 # <a name="editing-files-in-sharepoint"></a>SharePoint でファイルを編集する
 

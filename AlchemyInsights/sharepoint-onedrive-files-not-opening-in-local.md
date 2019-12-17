@@ -1,7 +1,7 @@
 ---
 title: エクスプローラーで SharePoint ライブラリを開く
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766788"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051322"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>SharePoint から Office ファイルを開くときの問題
 

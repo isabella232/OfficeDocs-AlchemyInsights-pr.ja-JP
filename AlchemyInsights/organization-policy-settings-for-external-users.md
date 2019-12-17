@@ -1,7 +1,7 @@
 ---
 title: 外部ユーザー向けの組織のポリシー設定
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 1ba83b938600196e1c40e8e8d228eecf5bb939cf
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36762568"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054491"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>外部ユーザー向けの組織のポリシー設定
 

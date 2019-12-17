@@ -1,7 +1,7 @@
 ---
 title: 共有メールボックスを作成および使用する
-ms.author: dianef
-author: dianef77
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: 9279331e2ed186b52981550d1baac24d5e26f7b7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36818539"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049810"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>共有メールボックスを作成および使用する
 

@@ -1,19 +1,19 @@
 ---
 title: フロー認証エラーのトラブルシューティング
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 6/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d49d15d243dd98afc6f78b9e75f0cfa74c2cd7c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393618"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050638"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>フロー認証エラーのトラブルシューティング
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint ワークフローを作成する手順
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559634"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053554"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>SharePoint ワークフローを作成する手順
 

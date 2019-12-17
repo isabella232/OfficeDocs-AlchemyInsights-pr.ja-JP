@@ -1,19 +1,19 @@
 ---
 title: パフォーマンスの問題 - SharePoint または OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 2db0a9442b9fdf1752b654f7c188e641e0a274cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750561"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053806"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint または OneDrive において、処理が遅い、アクセスできない、または複数のユーザーで使用できない
 
