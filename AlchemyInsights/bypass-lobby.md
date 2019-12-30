@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626353"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889087"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>ロビーの設定と参加レベルを制御する
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Teams でロビーの設定と参加レベルを制御する
 
-ダイヤルイン ユーザー、外部ユーザー、匿名ユーザーを含むすべてのユーザーが Microsoft Teams のロビーをバイパスできるようにするには、PowerShell を使用してこれを行えます。 組織のグローバル会議ポリシーを変更する例を次に示します。
+ダイヤルイン ユーザー、外部ユーザー、匿名ユーザーを含むすべてのユーザーが**ロビーをバイパス**できるようにするには、PowerShell を使用してこれを行えます。 組織のグローバル会議ポリシーを変更する例を次に示します。
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
 現在、このコマンドレットでは Skype for Business PowerShell モジュールを使用する必要があります。 このコマンドレットを使用するための設定方法については、「[PowerShell によるポリシーの管理](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)」を参照してください。
 
-新しいポリシーをセットアップすることができます。そのポリシーはユーザーに適用する必要があります。 グローバル ポリシーを変更した場合、変更されたポリシーは自動的にユーザーに適用されます。 ポリシーを変更した場合、ポリシーが有効になるまで少なくとも 4 時間、最大で 24 時間待つ必要があります。
+ポリシーの設定が完了したら、ポリシーをユーザーに適用する必要があります。ただし、グローバル ポリシーを変更した場合は、ポリシーは自動的にユーザーに適用されます。 ポリシーを変更した場合、ポリシーが有効になるまで少なくとも **4 時間、最大で 24 時間**待つ必要があります。 
 
 これらの変更を行う前に、下のドキュメントをよく確認し、許可される内容について正確に理解するようにします。
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teams の会議ロビー ポリシーの制御の説明
+
+これらの設定では、会議への入室が許可されるまでロビーで待機する必要がある会議参加者およびそれらの参加者に許可する会議への参加レベルが制御されます。 PowerShell を使用することで、Teams 管理センターでまだ実装されていない ("準備中" というラベルが付いている) 会議ポリシーの設定を更新できます。  ロビーをバイパスすることをすべてのユーザーに許可するための PowerShell コマンドレットの例を次に示します。
 
 - [[ユーザーの参加を自動的に許可する](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people)] は開催者単位のポリシーで、ユーザーは会議に直接参加するのか、認証されたユーザーにより入室が許可されるまでロビーで待機するのかを制御します。
 
