@@ -13,20 +13,20 @@ ms.custom:
 - "9000220"
 ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
 ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/30/2019
 ms.locfileid: "40923554"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 回復キーへのアクセス
+# <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 回復キーにアクセスする
 
-Bitlocker 設定 Intune Endpoint Protection ポリシーを構成する場合は、Azure Active Directory に Bitlocker 回復情報を格納するかどうかを定義できます。
+BitLocker 設定の Intune エンドポイント保護ポリシーを構成する場合、BitLocker 回復情報を Azure Active Directory に保存するかどうかを定義できます。
 
-この設定が構成されている場合は、次の2つの方法で、intune デバイスブレードのデバイスレコードデータの一部として、保存された回復データを Intune 管理者に表示する必要があります。
+その設定が構成されている場合、保存された回復データは、Intune デバイス ブレードのデバイス レコード データの一部として Intune 管理者に対して、次の 2 つの方法で表示されます。
 
-Devices-Azure AD devices-> "デバイス" またはデバイス-> すべてのデバイス-> "デバイス"-> の回復キー
+デバイス - Azure AD devices -> 「デバイス」またはデバイス -> すべてのデバイス -> 「デバイス」 -> 回復キー
 
-または、デバイス自体への管理アクセス権がある場合は、昇格したコマンドプロンプトから次のコマンドを実行することによって、回復キー (パスワード) を確認できます。
+または、デバイス自体に管理アクセス権がある場合は、管理者特権でのコマンド プロンプトから次のコマンドを実行して、回復キー (パスワード) を表示できます。
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +42,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-デバイスが Intune で enrolment より前に暗号化されている場合、回復キーは、OOBE プロセス中にデバイスへのサインインに使用される "Microsoft アカウント" (MSA) に関連付けられている可能性があります。 その場合は、その MSA をhttps://onedrive.live.com/recoverykey使用してアクセスおよびサインインすることにより、回復キーが保存されたデバイスを表示する必要があります。
+Intune に登録する前にデバイスが暗号化されていた場合は、OOBE プロセス中にデバイスにサインインするために使用される「Microsoftアカウント」 (MSA) に回復キーが関連付けられている可能性があります。 この場合、https://onedrive.live.com/recoverykey にアクセスしてその MSA でサインインすると、回復キーが保存されたデバイスが表示されます。
  
-ドメインベースのグループポリシーによって構成の結果としてデバイスが暗号化されている場合、回復情報は社内 Active Directory に格納されることがあります。
+デバイスがドメインベースのグループ ポリシーによる構成の結果として暗号化された場合、回復情報はオンプレミス Active Directory に保存されます。
  
 

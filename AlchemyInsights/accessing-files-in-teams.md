@@ -1,5 +1,5 @@
 ---
-title: Teams のファイルへのアクセス
+title: Teams 内のファイルへアクセスする
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "9000710"
 ms.openlocfilehash: 8731cad13ad5bacb7f69b70c91d50524ce38d558
 ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/30/2019
 ms.locfileid: "40923562"
 ---
-# <a name="accessing-files-in-microsoft-teams"></a>Microsoft Teams のファイルへのアクセス
+# <a name="accessing-files-in-microsoft-teams"></a>Microsoft Teams 内のファイルへアクセスする
 
-ユーザーが Microsoft Teams のファイルにアクセスするのが困難な場合は、まず、ファイルがプライベートチャットまたはチャネル会話に添付されているかどうかを判断します。 チーム チャンネルは、チームの全員があけすけに会話できる場所です。 プライベートチャットはチャット内のユーザーにのみ表示されます (また、チャットで共有するファイルは OneDrive for Business に保存されます)。
+ユーザが Microsoft Teams のファイルにアクセスできない場合は、まずそのファイルがプライベート チャットまたはチャネルの会話に添付されているかどうかを確認します。 チーム チャネルは、チームの全員が率直に会話できる場所です。 プライベート チャットは、チャットの参加者にのみ表示されます (チャットで共有するファイルは OneDrive for Business に保存されます)。
 
-ユーザーがプライベートチャットでファイルを共有する場合、ファイルは共有ユーザーの OneDrive for Business に保存されます。 ユーザーが既存のプライベートチャットに追加された場合、元の所有者がファイルを再度共有しない限り、ファイルにアクセスすることはできません。    
+ユーザーがプライベート チャットでファイルを共有する場合、ファイルは共有ユーザーの OneDrive for Business に保存されます。 ユーザーが既存のプライベート チャットに追加された場合、元の所有者がそのファイルを再共有しない限り、ファイルにアクセスできなくなります。    
 
 **チャネル会話の場合:**
 
-- [Microsoft Teams でのファイルの共有](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)は、SharePoint または OneDrive で構成された設定に基づいています。 
-- Teams でのファイルの共有と共同作業の方法の詳細については[、「チームでファイルの共同作業](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae)」を参照してください。 
-- 新しいチームメンバーがファイルへのアクセスに遅延を感じる場合は、サポートチケットを開いてレプリケーションが完了するまで、少なくとも**4 時間**待つようにしてください。 
+- [Microsoft Teams でのファイルの共有](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)は、SharePoint または OneDrive で構成された設定に基づいて行われます。 
+- Teams でファイルを共有して共同作業できるようにする方法については、「[自分のチームでファイルでの共同作業を行う](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae)」をご覧ください。 
+- 新しいチーム メンバーがファイルへアクセスする際に遅延が発生した場合は、少なくとも **4 時間**待ってから、サポート チケットを開いてレプリケーションを完了してください。 
 
-ユーザーがチームチャネルの [ファイル] タブを使用してファイルにアクセスでき、"これらのファイルは使用できません" というエラーが表示される場合は、SharePoint サイトまたはドキュメントライブラリの名前が変更されているかどうかを確認します。 Teams の SharePoint サイトとドキュメントライブラリの名前を変更することはまだサポートされていません。 この問題を解決するには、このチームに使用されているチームサイトを開き、ライブラリの名前を "Shared Documents" に戻します。
+以前にはユーザーがチーム チャネルの [ファイル] タブからファイルにアクセスでき、「これらのファイルは利用できなくなりました」というエラーが表示される場合は、SharePoint サイトまたはドキュメント ライブラリの名前が変更されているかどうかを確認してください。 Teams の SharePoint サイトとドキュメント ライブラリの名前の変更は、まだサポートされていません。 この問題を解決するには、このチームに使用されているチーム サイトを開いて、ライブラリの名前を [共有ドキュメント] に戻します。
