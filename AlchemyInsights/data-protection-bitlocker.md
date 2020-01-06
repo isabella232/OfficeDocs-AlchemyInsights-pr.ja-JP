@@ -1,5 +1,5 @@
 ---
-title: DataProtection-Bitlocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,34 +13,34 @@ ms.custom:
 - "9000220"
 ms.openlocfilehash: c23a2a2bde240900119382a9c1185a6e02520149
 ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 12/30/2019
 ms.locfileid: "40923551"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune で Bitlocker 暗号化を有効にする
 
- Intune Endpoint Protection ポリシーを使用して、Windows デバイスの Bitlocker 暗号化設定を構成できます。 詳細については、「 [Windows 10 以降の設定」の「Intune を使用してデバイスを保護する](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)」を参照してください。
+ Intune エンドポイント保護ポリシーを使用して、Windows デバイスの BitLocker 暗号化設定を構成できます。 詳細については、「[Intune を使用してデバイスを保護する Windows 10 以降の設定](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)」を参照してください。
  
-Windows 10 を実行している新しいデバイスの多くは、自動 Bitlocker 暗号化をサポートしていますが、これは MDM ポリシーの適用なしでトリガーされることに注意してください。 既定以外の設定が構成されている場合、ポリシーの適用に影響する可能性があります。 詳細については、次の FAQ を参照してください。
+Windows 10 を実行する多くの新しいデバイスでは、MDM ポリシーの適用なしでトリガーされる自動 Bitlocker 暗号化をサポートしていることを、ユーザーは認識する必要があります。 これは、非既定の設定が構成されている場合、ポリシーの適用に影響を与える可能性があります。 詳細については、次の FAQ を参照してください。
  
-Bitlocker の問題のトラブルシューティングの詳細については、「 [Microsoft Intune での bitlocker ポリシーのトラブルシューティング](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)」を参照してください。
+Bitlocker の問題のトラブルシューティングについては、「[Microsoft Intune の BitLocker ポリシーのトラブルシューティング](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)」を参照してください。
  
  
 **FAQ**
 
- Q: エンドポイント保護ポリシーを使用してデバイスの暗号化をサポートしている Windows のエディションを教えてください。<br>
- A: Intune Endpoint Protection ポリシーの設定は、 [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)を使用して実装されています。 Windows のすべてのエディションまたはビルドが Bitlocker CSP をサポートするわけではありません。 <br><br>
-      現時点では、次の Windows エディションがサポートされています。 Enterprise、エデュケーション、Mobile、Mobile Enterprise、Professional (ビルド1809以降)。
+ Q: エンドポイント保護ポリシーを使用するデバイスの暗号化をサポートする Windows のエディションはどれですか?<br>
+ A: Intune エンドポイント保護ポリシーの設定は、[Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) を使用して実装されています。 すべての Windows のエディションまたはビルドで Bitlocker CSP をサポートしているわけではありません。 <br><br>
+      現時点では、次の Windows エディションがサポートされています。Enterprise、Education、Mobile、Mobile Enterprise および Professional (ビルド 1809 以降)。
  
-Q: 暗号化方式と暗号強度 (XTS-128) の OS の既定の設定を使用して、デバイスが既に Bitlocker で暗号化されている場合、別の設定のポリシーを適用すると、新しい設定でドライブの再暗号化が自動的にトリガーされますか。<br>
-A: いいえ。 新しい cipher 設定を適用するには、最初にドライブを復号化する必要があります。<br><br>
-**注:** 自動操縦によって登録されているデバイスの場合、OOBE 中に発生する自動暗号化は、Intune ポリシーが評価されるまでトリガーされないため、ポリシーベースの設定を OS の既定値の代わりに使用できます。
+Q: デバイスが、暗号化方法と暗号強度 (XTS-AES-128) に対する OS の既定の設定を使用している Bitlocker で暗号化されている場合、新しい設定を使用してドライブの再暗号化を自動でトリガーできる、設定の異なるポリシーを適用することはできますか?<br>
+A: いいえ。 新しい暗号の設定を適用するには、ドライブの暗号化を最初に解除する必要があります。<br><br>
+**注**: OOBE 中に行われる Autopilot の自動暗号化を使用してデバイスが登録されている場合は、OS の既定値の代わりに使用されるポリシー ベースの設定を許可する Intune ポリシーが評価されるまで、トリガーされません。
  
-Q: Intune ポリシーを適用した結果としてデバイスが暗号化されている場合、そのポリシーが削除されると、暗号化が解除されますか。<br>
-A: 暗号化関連のポリシーを削除しても、構成されたドライブの暗号化が解除されることはありません。
+Q: Intune ポリシーを適用した結果としてデバイスが暗号化されている場合、そのポリシーが削除されれば、デバイスの暗号は解除されますか?<br>
+A: 暗号化関連のポリシーを削除しても、構成されたドライブの暗号は解除されません。
  
-Q: Intune コンプライアンスポリシーが、Bitlocker が有効になっていないのに、Bitlocker が有効になっていないことを示しているのはなぜですか?<br>
-A: Intune コンプライアンスポリシーの "Bitlocker enabled" 設定は、Windows デバイス正常性構成証明 (DHA) クライアントを利用します。 このクライアントは、ブート時のデバイスの状態のみ評価します。 Bitlocker 暗号化が完了してからデバイスが再起動されていない場合、DHA クライアントサービスは Bitlocker をアクティブとして報告しません。
+Q: Intune コンプライアンス ポリシーで、Bitlocker が有効になっているにもかかわらず有効になっていないと表示されるのはどうしてですか?<br>
+A: Intune コンプライアンス ポリシーの「Bitlocker 有効」設定では、 Windows デバイス正常性構成証明 (DHA) のクライアントを利用します。 このクライアントは、ブート時のデバイスの状態のみ評価します。 そのため、Bitlocker 暗号化が完了してからデバイスが再起動されていない場合、DHA クライアント サービスでは Bitlocker をアクティブな状態として報告しません。
  
  
