@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664757"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104662"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>無料試用版から Office 365 のサブスクリプションを購入する
 
@@ -36,3 +36,7 @@ Office 365 を試したら、次に必要なのは購入手続きです。試用
 3. 購入するサブスクリプションを検索して、[**購入**] を選択し、手順に従ってチェックアウトします。
 
 詳細については、「[無料の試用版から一般法人向け Office 365 のサブスクリプションを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)」を参照してください。
+
+**トラブルシューティング**
+
+ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。
