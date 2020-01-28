@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663362"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41551002"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>基本的な Outlook 同期のトラブルシューティング
 
 同期の問題がある場合には、以下を試してください。
 
 - 影響を受けるマシンで[この診断ツール](https://aka.ms/sara-outlooksendreceive)を実行します。
-- [新しい Outlook プロファイルを作成](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d)し、規定として設定します。 影響を受けるコンピューターで [Outlook プロファイルを実行](https://aka.ms/SaRA-OutlookSetupProfile)できます。
+- プライマリまたは共有メールボックスのフォルダー数を減らします。 「[キャッシュ モードの .ost ファイルまたは .pst ファイルのフォルダー内の項目が多すぎるフォルダーがある場合、Outlook のパフォーマンスの問題が発生する](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)」を参照してください。
 - ユーザーがインターネットに接続できることを確認してください。 
 - [自身がオンラインであることを確認します](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)。
 - [ルールが適用されているかどうかを判断します](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)。
