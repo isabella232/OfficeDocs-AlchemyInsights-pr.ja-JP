@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051538"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771184"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online の一般的な問題と解決策
 
 SharePoint Online についてよく寄せられるトピックは次の通りです。
+
+- **はじめに**: [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) を使用して、職場を接続する美しくパワフルなイントラネットを構築します。 「[例](https://lookbook.microsoft.com/)」を参照して、「[デザインのガイダンス](https://spdesign.azurewebsites.net/)」を入手してください。 SharePoint Online の概要については、「[SharePoint Online の概要](https://docs.microsoft.com/sharepoint/introduction)」を参照してください。
 
 - **アクセス許可**: [アクセス許可方針の作成](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)および[アクセス許可レベルの理解](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
@@ -33,4 +35,4 @@ SharePoint Online についてよく寄せられるトピックは次の通り�
 
 - **SharePoint のモダン化**: 移行を開始するための「[SharePoint のモダン エクスペリエンスへのガイド](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)」および「[従来の SharePoint サイトをモダン化する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)」をご確認ください。
 
-- **概要**: サイトの管理方法を含む「[SharePoint Online の使用を開始する](https://docs.microsoft.com/sharepoint/introduction)」方法をご確認ください。
+**注:** SharePoint の問題に関するより具体的な回答をお求めの場合は、質問を簡潔にまとめて、発生しているエラーまたは使用している機能を含めます。

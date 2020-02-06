@@ -1,5 +1,5 @@
 ---
-title: SharePoint のサイト コレクションを削除する
+title: サイトを削除する
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053014"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770392"
 ---
-# <a name="delete-a-site-collection"></a>サイト コレクションを削除する
+# <a name="delete-a-site"></a>サイトを削除する
 
-Office 365 の全体管理者または SharePoint 管理者がサイト (旧称: "サイト コレクション") を削除すると、そのサイトはサイト コレクションのごみ箱に移動され 93 日間保持されます。 
+サイトを削除すると、[[削除されたサイト](https://admin.microsoft.com/sharepoint)] に移動され、93 日間保持されます。 サイトを削除するには、[[アクティブなサイト](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)] に移動します。 
 
 サイトを削除すると、そのサイト内のすべての内容 (次のものを含む) が削除されます。
 
@@ -26,6 +26,6 @@ Office 365 の全体管理者または SharePoint 管理者がサイト (旧称:
 - サイト設定と履歴。
 - すべてのサブサイトとそのコンテンツ。
 
-サイトの削除前に、サイトの管理者とサブサイトの所有者がデータを別の場所に移動できるように通知しておく必要があります。また、サイトが削除される日時をユーザーに知らせておく必要もあります。 
+サイトの削除前に、サイトの管理者とサブサイトの所有者がデータを別の場所に移動できるように通知しておく必要があります。また、サイトが削除される日時をユーザーに知らせておく必要もあります。
 
-詳細については、「[サイト コレクションを削除する](https://docs.microsoft.com/sharepoint/delete-site-collection)」を参照してください。 
+詳細については、「[サイトを削除する](https://docs.microsoft.com/sharepoint/delete-site-collection)」を参照してください。

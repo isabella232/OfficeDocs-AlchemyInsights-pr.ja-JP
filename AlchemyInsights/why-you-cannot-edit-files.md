@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049414"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771148"
 ---
 # <a name="why-cant-i-edit-files"></a>ファイルを編集できないのはなぜですか。
 
-Windows デスクトップ アプリケーションでドキュメント、ワークシート、またはプレゼンテーションが編集のためにロックされていて開けない場合、そのファイルは別のユーザーが既に編集しているか、ファイルをチェックアウトしている可能性があります。ここでは、[ファイルの編集ができない理由](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)のいくつかについて簡単に説明します。
+[ファイルを編集できない理由](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)をいくつか見てみましょう。
 
 **チェックアウト、必須**または**検証**の列またはメタデータを含むライブラリがある場合、または**下書きアイテムのセキュリティ**が**編集できるユーザーのみ**に設定されている場合、またはライブラリのバージョン設定で**アイテムを承認できるユーザーのみ**が対象となります。
 
