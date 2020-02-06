@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050926"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770464"
 ---
-# <a name="workflows-in-sharepoint"></a><span data-ttu-id="46db8-102">SharePoint のワークフロー</span><span class="sxs-lookup"><span data-stu-id="46db8-102">Workflows in SharePoint</span></span>
+# <a name="workflows-in-sharepoint"></a><span data-ttu-id="75bd5-102">SharePoint のワークフロー</span><span class="sxs-lookup"><span data-stu-id="75bd5-102">Workflows in SharePoint</span></span>
 
-<span data-ttu-id="46db8-103">SharePoint ワークフローは、さまざまなビジネス プロセスを効率化および自動化するプログラム済みのミニアプリケーションです。</span><span class="sxs-lookup"><span data-stu-id="46db8-103">SharePoint workflows are pre-programmed mini-applications that streamline and automate a wide variety of business processes.</span></span> <span data-ttu-id="46db8-104">署名、フィードバック、計画やドキュメントの承認の収集から、日常的な手続きの現在の状態のトラッキングまで、さまざまなワークフローがあります。</span><span class="sxs-lookup"><span data-stu-id="46db8-104">Workflows can range from collecting signatures, feedback, or approvals for a plan or document, to tracking the current status of a routine procedure.</span></span>
+<span data-ttu-id="75bd5-103">SharePoint ワークフローは、さまざまなビジネス プロセスを効率化するプログラム済みのアプリです。</span><span class="sxs-lookup"><span data-stu-id="75bd5-103">SharePoint workflows are pre-programmed apps that streamline a wide variety of business processes.</span></span> <span data-ttu-id="75bd5-104">詳細については、次のリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="75bd5-104">See the links below for more info.</span></span>
 
-<span data-ttu-id="46db8-105">**概要:** SharePoint ワークフローの概要については、「[Introduction to SharePoint ワークフローの概要](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="46db8-105">**Getting Started:** If you're just getting started with SharePoint workflows, see [Introduction to SharePoint workflows for more info](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
+## <a name="getting-started"></a><span data-ttu-id="75bd5-105">概要</span><span class="sxs-lookup"><span data-stu-id="75bd5-105">Getting Started</span></span>
 
-<span data-ttu-id="46db8-106">**Microsoft Flow**: 従来の SharePoint ワークフロー ソリューションの代わりに Microsoft Flow を使用することを検討してください。</span><span class="sxs-lookup"><span data-stu-id="46db8-106">**Microsoft Flow**: Consider using Microsoft Flow instead of the classic SharePoint workflow solutions.</span></span> <span data-ttu-id="46db8-107">詳細については、「[SharePoint Online または OneDrive でリストまたはライブラリのフローを作成する](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="46db8-107">For more info, see [Create a flow for a list or library in SharePoint Online or OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)</span></span>
+<span data-ttu-id="75bd5-106">SharePoint ワークフローの概要については、「[Intro to SharePoint workflows (SharePoint ワークフローの概要)](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="75bd5-106">If you're just getting started with SharePoint workflows, see [Intro to SharePoint workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
 
-<span data-ttu-id="46db8-108">**ワークフローのトラブルシューティングとデバッグ**:</span><span class="sxs-lookup"><span data-stu-id="46db8-108">**Workflow Troubleshooting and Debugging**:</span></span>
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a><span data-ttu-id="75bd5-107">SharePoint ワークフローのトラブルシューティングとデバッグ</span><span class="sxs-lookup"><span data-stu-id="75bd5-107">Troubleshoot and Debug a SharePoint Workflow</span></span>
 
-<span data-ttu-id="46db8-109">デバッグのワークフローは以前のバージョンのものと似ています。</span><span class="sxs-lookup"><span data-stu-id="46db8-109">Debugging workflows resembles that of previous versions.</span></span> <span data-ttu-id="46db8-110">詳細については、「[SharePoint ワークフローをデバッグする](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="46db8-110">For more info, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span> <span data-ttu-id="46db8-111">トラブルシューティングの詳細については、「[SharePoint Server ワークフロー検証エラーのトラブルシューティング](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="46db8-111">For more info on troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+<span data-ttu-id="75bd5-108">「[Troubleshoot SharePoint workflow validation errors (SharePoint ワークフロー検証エラーのトラブルシューティング)](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)」および「[SharePoint ワークフローをデバッグする](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="75bd5-108">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
+## <a name="power-automate"></a><span data-ttu-id="75bd5-109">Power Automate</span><span class="sxs-lookup"><span data-stu-id="75bd5-109">Power Automate</span></span>
+
+<span data-ttu-id="75bd5-110">従来の SharePoint ワークフロー ソリューションの代わりに [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) を使用することを検討してください。</span><span class="sxs-lookup"><span data-stu-id="75bd5-110">Consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
