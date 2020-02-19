@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770392"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042885"
 ---
 # <a name="delete-a-site"></a>サイトを削除する
 
-サイトを削除すると、[[削除されたサイト](https://admin.microsoft.com/sharepoint)] に移動され、93 日間保持されます。 サイトを削除するには、[[アクティブなサイト](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)] に移動します。 
+サイトを削除すると、[[削除されたサイト](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)] に移動され、93 日間保持されます。 サイトを削除するには、[[アクティブなサイト](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)] に移動します。 
 
 サイトを削除すると、そのサイト内のすべての内容 (次のものを含む) が削除されます。
 
