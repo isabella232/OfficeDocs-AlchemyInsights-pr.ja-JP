@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 9a205a6646d28fbb151d229719a104d6af383a92
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
+ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37042412"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42031619"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Word ファイルを開いたり保存したりするときのエラーを解決する
 
@@ -25,6 +25,7 @@ Word 文書を開いたり保存したりするときに問題が発生する場
 - [Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 最新の Office 更新プログラムの一覧については、[最新の更新プログラム](https://docs.microsoft.com/officeupdates/office-updates-msi) を参照してください。
 - [Word の破損した文書のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)。
 - [Office アプリケーションを修復する](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
+- 文書に変更履歴が含まれている場合、問題を解決するための[変更履歴とコメントが過剰な場合、Word の提案を使用すると応答が遅くなったり停止したり](https://docs.microsoft.com/ja-JP/office/troubleshoot/word/word-stops-responding)します。
 
 次のいずれかのエラーが表示された場合は、「[レジストリ ポリシー設定によってファイルがブロックされた場合の Office でのエラー メッセージ](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)」に記載されている提案を実行します
 

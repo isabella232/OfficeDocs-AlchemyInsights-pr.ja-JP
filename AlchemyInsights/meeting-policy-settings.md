@@ -9,16 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627579"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042849"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teams で会議ポリシーを管理する
+
+**注: ポリシーの変更がユーザーに反映されるまで最大 24 時間かかる場合があります。** 新しく作成されたポリシーをすぐに変更できない場合があります。4 時間待ってから、新しく作成されたポリシーを再度変更してみてください。
 
 会議ポリシーは、組織内のユーザーによってスケジュールされた会議への参加者が利用できる機能を制御するために使用されます。 会議ポリシーの一部の機能は、Teams 管理センターにまだ実装されていない場合があります (これらはドキュメントに "近日公開" としてラベル付けされています)。 この場合、もしくは Microsoft Teams 管理センターで "今すぐポリシーを更新することはできませんが、後でもう一度試してください" などのエラーが表示される場合には、PowerShell を使用して Teams 会議ポリシーを作成または変更することをお勧めします。 
 
@@ -30,4 +32,3 @@ ms.locfileid: "39627579"
     - Teams の会議ポリシーには、[Skype for Business PowerShell モジュール](https://www.microsoft.com/download/details.aspx?id=39366)を使用する必要があります。 
     - 詳細については、[*-CsTeamsMeetingPolicy コマンドレットのドキュメント](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)を参照してください。
 
-**注:** ポリシーの変更がユーザーに反映されるまで最大 24 時間かかる場合があります。 新しく作成されたポリシーをすぐに変更できない場合があります。4 時間待ってから、新しく作成されたポリシーを再度変更してみてください。 それでも問題が解決しない場合には、PowerShell を試してみてください。  
