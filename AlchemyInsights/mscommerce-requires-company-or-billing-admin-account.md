@@ -13,14 +13,14 @@ ms.custom:
 - "3529"
 ms.openlocfilehash: 80735a03eef6ef9f7b791c43019678ea01f83c00
 ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/17/2020
 ms.locfileid: "42094402"
 ---
 # <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce には、会社または課金管理者アカウントが必要です
 
-MSCommerce モジュールには、会社または課金の管理者権限を持つアカウントが必要です。 次のエラーが表示される場合は、別のアカウントで再接続する必要があります。
+MSCommerce モジュールには、会社または課金管理者の特権を持つアカウントが必要です。 次のエラーが表示される場合は、別のアカウントで再接続する必要があります。
 
     ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - 
     At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5
@@ -29,4 +29,4 @@ MSCommerce モジュールには、会社または課金の管理者権限を持
         + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
         + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError
 
-アカウントに会社または課金管理者の権限がない場合は、IT 管理者に問い合わせてください。
+アカウントに会社または課金管理者の特権がない場合は、IT 管理者にお問い合わせください。

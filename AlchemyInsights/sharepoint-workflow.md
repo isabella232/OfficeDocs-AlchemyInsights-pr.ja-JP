@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online の使用を開始する
+title: SharePoint のワークフローのトラブルシューティング
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770464"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056139"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePoint のワークフロー
+# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint のワークフローのトラブルシューティング
 
-SharePoint ワークフローは、さまざまなビジネス プロセスを効率化するプログラム済みのアプリです。 詳細については、次のリンクを参照してください。
-
-## <a name="getting-started"></a>概要
-
-SharePoint ワークフローの概要については、「[Intro to SharePoint workflows (SharePoint ワークフローの概要)](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)」を参照してください。
-
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>SharePoint ワークフローのトラブルシューティングとデバッグ
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>SharePoint のワークフローのトラブルシューティングとデバッグ
 
 「[Troubleshoot SharePoint workflow validation errors (SharePoint ワークフロー検証エラーのトラブルシューティング)](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)」および「[SharePoint ワークフローをデバッグする](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)」を参照してください。
 
 ## <a name="power-automate"></a>Power Automate
 
-従来の SharePoint ワークフロー ソリューションの代わりに [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) を使用することを検討してください。
+ワークフローの使用を始めたばかりの場合は、従来の SharePoint ワークフロー ソリューションの代わりに [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) を使用することを検討してください。
