@@ -1,5 +1,5 @@
 ---
-title: プロジェクトの一般的な問題と解決策
+title: Project の一般的な問題と解決策
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "3559"
 ms.openlocfilehash: 4c4542f8aa69489e455320e24f2652789436e3c0
 ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/20/2020
 ms.locfileid: "42219263"
 ---
-# <a name="project-common-issues-and-resolutions"></a>プロジェクトの一般的な問題と解決策
+# <a name="project-common-issues-and-resolutions"></a>Project の一般的な問題と解決策
 
 Project についてよく寄せられるトピックは次の通りです。
 
-1. **Project online の**  [使用](https://docs.microsoft.com/en-us/ProjectOnline/get-started-with-project-online)を開始する: project online の使用を開始し、環境内で[project online を計画、実装、および保守](https://docs.microsoft.com/en-us/projectonline/project-online)する方法について説明します。 [Project Online ソフトウェアの制限と境界を調べて、](https://docs.microsoft.com/en-us/ProjectOnline/project-online-software-boundaries-and-limits)重要な制限事項を確認します。
+1. **Project の使用を開始する:** [Project Online の使用を開始](https://docs.microsoft.com/ja-JP/ProjectOnline/get-started-with-project-online)し、お客様の環境で [Project Online の計画を立て、実装し、管理する](https://docs.microsoft.com/ja-JP/projectonline/project-online)方法について説明します。 重要な制限事項について、「[Project Online ソフトウェアの制限および境界](https://docs.microsoft.com/ja-JP/projectonline/project-online-software-boundaries-and-limits)」を確認してください。
 
-2. **ユーザーに Project Online へのアクセス権を付与します。**[ユーザー、グループ、リソースを追加し、Project Online を共有](https://docs.microsoft.com/en-us/projectonline/step-2-add-people-to-project-online)して他のユーザーと共同作業を行います。 
+2. **Project Online へのアクセス許可をユーザーに付与する:** [ユーザー、グループ、リソースを追加して Project Online を共有](https://docs.microsoft.com/ja-JP/projectonline/step-2-add-people-to-project-online)し、他のユーザーと共同作業を行えるようにします。 
 
-3. Project **Online で Project Web App (PWA) のパフォーマンスをチューニングする:**[パフォーマンスへの影響と](https://docs.microsoft.com/en-us/projectonline/tune-project-online-performance)、いくつかの最も一般的な Project Web App 設定のトレードオフを確認します。
+3. **Project Online で Project Web App (PWA) のパフォーマンスを調整する:** Project Web App の一般的な設定による[パフォーマンスへの影響とトレードオフ](https://docs.microsoft.com/ja-JP/projectonline/tune-project-online-performance)を確認できます。
 
-4. Project**デスクトップクライアントを使用して Project Online に接続します。**[Project Online デスクトップクライアント](https://docs.microsoft.com/en-us/projectonline/connect-to-project-online-with-the-project-online-desktop-client)を使用して、Office 365 環境の project online に接続します。 
+4. **Project デスクトップ クライアントを使用して Project Online に接続する:** [Project Online デスクトップ クライアント](https://docs.microsoft.com/ja-JP/projectonline/connect-to-project-online-with-the-project-online-desktop-client)を使用して Office 365 環境で Project Online に接続します。 
 
-5. **Project professional のインストール:** project Online のサブスクリプションバージョンと、非サブスクリプション版の project 2019、2016、または2013を使用して、 [project professional をインストールして使用](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US)します。
+5. **Project Professional のインストール:** Project Online のサブスクリプション版および Project 2019、2016、または 2013 のサブスクリプション以外のバージョンを使用して [Project Professional](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) をインストールして使用します。 
