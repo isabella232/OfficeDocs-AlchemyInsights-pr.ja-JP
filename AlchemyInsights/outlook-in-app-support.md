@@ -1,0 +1,25 @@
+---
+title: テナントは、Outlook のアプリ内サポートを試験しています
+ms.author: daeite
+author: daeite
+manager: joallard
+ms.date: 2/24/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "3441"
+- "9001442"
+ms.openlocfilehash: b21174ceefb4a9222854f450ddef91f06e39157e
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42268943"
+---
+# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>テナントは、Outlook のアプリ内サポートを試験しています。
+
+Outlook で直接サポートを受けることができる場合があります。 最新の月次チャネルビルドを実行している場合は、Outlook を開いて [ **Help** > **Contact Support**] を選択します。 質問を入力すると、Outlook サポートチームのメンバーが連絡します。
+
+最新の月次チャネルビルドが実行されているかどうかがわからない場合は、[使用している Office のバージョン](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)を確認してください。
