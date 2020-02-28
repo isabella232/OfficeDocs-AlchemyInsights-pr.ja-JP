@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42094384"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162917"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Yammer ネットワークの電子情報開示
 
 Office 365 で Yammer コンテンツの電子情報開示検索を実行できるようになりました。  Yammer コンテンツで電子情報開示検索またはエクスポートを実行するには、次のものが必要です。
 
-1. Yammer メッセージおよびファイルを検出可能にするには、まず Yammer エンタープライズ ネットワークをネイティブ モードに移行する必要があります。
-
-   > [!NOTE] 
-   >2020 年 1 月 9 日の時点で Office 365 の新規顧客であり、Yammer ネットワークが既にネイティブ モードになっている場合、データは電子情報開示で検出可能になります。
+1. Yammer メッセージおよびファイルを検出可能にするには、まず Yammer エンタープライズ ネットワークをネイティブ モードに移行する必要があります。 **注: 2020 年 1 月 9 日の時点で Office 365 の新規顧客であり、Yammer ネットワークが既にネイティブ モードになっている場合、データは電子情報開示で検出可能になります**。
 
 2. 既存のお客様については、ネイティブ モード アライメント ツールがリリースされ、テナント内の Yammer のネイティブ モード移行が完了すると、Yammer の電子情報開示が利用可能になります。
 

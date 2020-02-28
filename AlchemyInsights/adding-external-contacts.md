@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 90c33249ee17ff65ece33d38f4722d57f214939c
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: a1c4f18633765c4990d2c0866a28f100555862e4
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37313942"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42264985"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>外部通信を有効にして連絡先を追加する
 
