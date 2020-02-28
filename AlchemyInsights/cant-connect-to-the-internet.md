@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627959"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265057"
 ---
-# <a name="fix-network-connection-issues"></a><span data-ttu-id="55775-102">ネットワーク接続の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="55775-102">Fix network connection issues</span></span>
+# <a name="fix-network-connection"></a><span data-ttu-id="c4dbd-102">ネットワーク接続の修正</span><span class="sxs-lookup"><span data-stu-id="c4dbd-102">Fix network connection</span></span>
 
-<span data-ttu-id="55775-103">ネットワーク接続の問題を解決するには、まずネットワークのトラブルシューティング ツールを実行してください。</span><span class="sxs-lookup"><span data-stu-id="55775-103">To solve network connection problems, first try running the Network troubleshooter.</span></span> 
+<span data-ttu-id="c4dbd-103">ネットワーク接続の問題を解決するには、まずネットワークのトラブルシューティング ツールを実行してください。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-103">To solve network connection problems, first try running the Network troubleshooter.</span></span> 
 
-<span data-ttu-id="55775-104">タスク バーの検索ボックスに「**ネットワークのトラブルシューティング ツール**」と入力し、[**ネットワークの問題の識別と修復**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="55775-104">In the search box on the taskbar, type **Network troubleshooter**, and then select **Identify and repair network problems**.</span></span>
+1. <span data-ttu-id="c4dbd-104">[トラブルシューティングの設定を開きます](ms-settings:troubleshoot)。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-104">[Open the Troubleshoot settings](ms-settings:troubleshoot).</span></span>
 
-<span data-ttu-id="55775-105">**注:** Windows 7 または Windows 8.1 を実行している PC を使用してインターネットに接続するためのサポートが必要な場合は、「[Windows でのネットワーク接続の問題の修正](https://support.microsoft.com/help/15287)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="55775-105">**Note:** If you need help connecting to the Internet using a PC running Windows 7 or Windows 8.1, see [Fix network connection issues in Windows](https://support.microsoft.com/help/15287)</span></span> 
+2. <span data-ttu-id="c4dbd-105">**[インターネット接続]** で、**[トラブルシューティング ツールの実行]** を実行します。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-105">Under **Internet Connections**, select **Run the troubleshooter**.</span></span>
 
-<span data-ttu-id="55775-106">無線 (Wi-Fi) 接続を使用している場合は、デバイス (物理 Wi-Fi スイッチを含む) で Wi-Fi がオンになっていること、およびその機内モードがオンになっていないことを確認します。</span><span class="sxs-lookup"><span data-stu-id="55775-106">If you’re using a wireless (Wi-Fi) connection, make sure Wi-Fi is turned on for your device (including any physical Wi-Fi switch), and that airplane mode isn’t turned on.</span></span>
+<span data-ttu-id="c4dbd-106">Wi-Fi 接続を使用している場合は、デバイス (物理 Wi-Fi スイッチを含む) で Wi-Fi がオンになっていること、およびその機内モードがオンになっていないことを確認します。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-106">If you’re using a Wi-Fi connection, make sure Wi-Fi is turned on for your device (including any physical Wi-Fi switch), and that airplane mode isn’t turned on.</span></span>
 
-<span data-ttu-id="55775-107">有線 (イーサネット) 接続を使用している場合は、ケーブルが PC とルーターまたはモデムにしっかりと接続されていることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="55775-107">If you’re using a wired (Ethernet) connection, make sure the cable is securely plugged into your PC and your router or modem.</span></span>
+<span data-ttu-id="c4dbd-107">イーサネット接続を使用している場合は、ケーブルが PC とルーターまたはモデムにしっかりと接続されていることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-107">If you’re using an Ethernet connection, make sure the cable is securely plugged into your PC and your router or modem.</span></span>
 
-<span data-ttu-id="55775-108">それでもうまくいかない場合は、PC、モデム、ルーター (ある場合) を再起動してください。</span><span class="sxs-lookup"><span data-stu-id="55775-108">If that doesn't work, try restarting your PC, modem, and router (if you have one):</span></span>
+<span data-ttu-id="c4dbd-108">それでもうまくいかない場合は、PC、モデム、ルーター (ある場合) を再起動してください。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-108">If that doesn't work, try restarting your PC, modem, and router (if you have one):</span></span>
 
-1. <span data-ttu-id="55775-109">モデムとルーターの電源を抜きます。</span><span class="sxs-lookup"><span data-stu-id="55775-109">Unplug the power from your modem and router.</span></span> <span data-ttu-id="55775-110">モデムにバッテリー バックアップがある場合は、電源を完全にオフにするためにバッテリーを取り外す必要があります。</span><span class="sxs-lookup"><span data-stu-id="55775-110">If your modem has a battery backup, you’ll need to remove the battery to completely turn off power.</span></span>
-2. <span data-ttu-id="55775-111">30 秒間待ちます。</span><span class="sxs-lookup"><span data-stu-id="55775-111">Wait about 30 seconds.</span></span> <span data-ttu-id="55775-112">モデムからバッテリーを取り外した場合は、元に戻します。</span><span class="sxs-lookup"><span data-stu-id="55775-112">If you removed the battery from the modem, put it back in.</span></span>
-3. <span data-ttu-id="55775-113">モデムとルーターの電源ケーブルを差し込みます。</span><span class="sxs-lookup"><span data-stu-id="55775-113">Plug in the power cable for the modem and router.</span></span>
-4. <span data-ttu-id="55775-114">モデムとルーターの電源が完全にオンになるのを待っている間に、PC を再起動します。</span><span class="sxs-lookup"><span data-stu-id="55775-114">While you wait for the modem and router to fully power on, restart your PC.</span></span> <span data-ttu-id="55775-115">[**開始**] > [**電源**] > [**再起動**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="55775-115">Choose **Start** > **Power** > **Restart**.</span></span> <span data-ttu-id="55775-116">([**シャットダウン**] ではなく、[**再起動**] を選択してください。)</span><span class="sxs-lookup"><span data-stu-id="55775-116">(Make sure you select **Restart**, not **Shut down**.)</span></span>
+1. <span data-ttu-id="c4dbd-109">モデムとルーターの電源を抜きます。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-109">Unplug the power from your modem and router.</span></span> <span data-ttu-id="c4dbd-110">モデムにバッテリー バックアップがある場合は、電源を完全にオフにするためにバッテリーを取り外す必要があります。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-110">If your modem has a battery backup, you’ll need to remove the battery to completely turn off power.</span></span>
 
-<span data-ttu-id="55775-117">**高度なトラブルシューティング**</span><span class="sxs-lookup"><span data-stu-id="55775-117">**Advanced troubleshooting**</span></span>
+2. <span data-ttu-id="c4dbd-111">30 秒間待ちます。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-111">Wait about 30 seconds.</span></span> <span data-ttu-id="c4dbd-112">モデムからバッテリーを取り外した場合は、元に戻します。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-112">If you removed the battery from the modem, put it back in.</span></span>
 
-<span data-ttu-id="55775-118">より高度なトラブルシューティングの手順については、「[Windows 10 でネットワーク接続の問題を修正する](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="55775-118">For more advanced troubleshooting steps, see [Fix network connection issues in Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F).</span></span> <span data-ttu-id="55775-119">この記事には、次のようなインターネット接続の修正方法に関する技術情報が含まれています。</span><span class="sxs-lookup"><span data-stu-id="55775-119">This article includes more technical information on how to fix your Internet connection, such as:</span></span>
+3. <span data-ttu-id="c4dbd-113">モデムとルーターの電源ケーブルを差し込みます。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-113">Plug in the power cable for the modem and router.</span></span>
 
-- <span data-ttu-id="55775-120">コマンド プロンプトを使用してネットワーク コマンドを実行する</span><span class="sxs-lookup"><span data-stu-id="55775-120">Using the command prompt to run networking commands</span></span>
-- <span data-ttu-id="55775-121">ネットワーク アダプター ドライバーの更新</span><span class="sxs-lookup"><span data-stu-id="55775-121">Updating the network adapter driver</span></span>
-- <span data-ttu-id="55775-122">ファイアウォールまたはウイルス対策ソフトウェアがインターネット接続を干渉しているかどうかを確認する</span><span class="sxs-lookup"><span data-stu-id="55775-122">Checking to see if your firewall or antivirus software is interfering with your Internet connection</span></span>
-- <span data-ttu-id="55775-123">ネットワーク リセットを使用してネットワーク デバイスを再インストールする</span><span class="sxs-lookup"><span data-stu-id="55775-123">Using network reset to reinstall network devices</span></span>
+4. <span data-ttu-id="c4dbd-114">モデムとルーターの電源が完全にオンになるのを待っている間に、PC を再起動します: **開始** > **電源** > **再起動**。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-114">While you wait for the modem and router to fully power on, restart your PC: **Start** > **Power** > **Restart**.</span></span>
 
-<span data-ttu-id="55775-124">**注:** より技術的なトラブルシューティングの手順が適切でない場合は、[**お問い合わせ**] ボタンを選択して、担当者に連絡してサポートを依頼できます。</span><span class="sxs-lookup"><span data-stu-id="55775-124">**Note:** If you're not comfortable using the more technical troubleshooting steps, you can talk to a person for more help by choosing the **Contact Us** button.</span></span>
+<span data-ttu-id="c4dbd-115">**高度なトラブルシューティング**</span><span class="sxs-lookup"><span data-stu-id="c4dbd-115">**Advanced troubleshooting**</span></span>
+
+<span data-ttu-id="c4dbd-116">より高度なトラブルシューティングの手順については、「[Windows で Wi-Fi 接続の問題を修正する](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-116">For more advanced troubleshooting steps, see [Fix Wi-Fi connection issues in Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F).</span></span> 
+
+<span data-ttu-id="c4dbd-117">より技術的なトラブルシューティング手順に慣れていない場合は、[お問い合わせください](https://support.microsoft.com/contactus)。</span><span class="sxs-lookup"><span data-stu-id="c4dbd-117">If you're not comfortable using the more technical troubleshooting steps, [Contact Us](https://support.microsoft.com/contactus).</span></span>
