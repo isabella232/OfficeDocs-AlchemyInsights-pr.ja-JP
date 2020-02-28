@@ -3,6 +3,7 @@ title: Outlook.com の削除済みアイテム フォルダーを空にする
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768697"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277936"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="2d559-102">削除済みアイテム フォルダーを空にする</span><span class="sxs-lookup"><span data-stu-id="2d559-102">Empty the Deleted Items folder.</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="90d96-102">削除済みアイテム フォルダーを空にする</span><span class="sxs-lookup"><span data-stu-id="90d96-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="2d559-103">削除済みの Outlook メッセージをすべて削除するには、[[削除済みアイテム フォルダー](https://outlook.live.com/mail/deleteditems)]  に移動し、[ **フォルダーを空にする**] を選択し、メッセージ一覧の上の [ **このフォルダーから削除されたアイテムを復元する**]  を選択し、もう一度 [ **フォルダーを空にする**]  を選択します。</span><span class="sxs-lookup"><span data-stu-id="2d559-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="90d96-103">削除済みアイテム フォルダーを開き、[**空のフォルダー**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="90d96-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="90d96-104">ページの上部にある [**回復できる項目**] を選択して [**空のフォルダー**] を再び選択します。</span><span class="sxs-lookup"><span data-stu-id="90d96-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="2d559-104">多数のメッセージを削除した場合、これらのアイテムが削除済みアイテムフォルダーに移動するまで、または削除済みアイテムフォルダーから削除されるまでにしばらく時間がかかることがあります。</span><span class="sxs-lookup"><span data-stu-id="2d559-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="2d559-105">アイテムが削除されるまでブラウザー ウィンドウを開いたままにしておいてください。</span><span class="sxs-lookup"><span data-stu-id="2d559-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="90d96-105">**削除済みアイテム フォルダーを空にできません**</span><span class="sxs-lookup"><span data-stu-id="90d96-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="2d559-106">メッセージが正常に削除されない場合、少ない数のメッセージを削除してみてください。</span><span class="sxs-lookup"><span data-stu-id="2d559-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="90d96-106">多数のメールを削除した場合、これらのアイテムが削除済みアイテムフォルダーに移動するまで、または削除済みアイテムフォルダーから削除されるまでにしばらく時間がかかることがあります。</span><span class="sxs-lookup"><span data-stu-id="90d96-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="90d96-107">削除の実行中は、ブラウザー ウィンドウを開いたままにします。</span><span class="sxs-lookup"><span data-stu-id="90d96-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="90d96-108">メールが正常に削除されない場合は、削除するより小さいバッチを選択します。</span><span class="sxs-lookup"><span data-stu-id="90d96-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="90d96-109">削除されたメールが再び表示される場合は、最近多数のメールを削除したからかもしれません。</span><span class="sxs-lookup"><span data-stu-id="90d96-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="90d96-110">後でもう一度お試しください。</span><span class="sxs-lookup"><span data-stu-id="90d96-110">Please try again later.</span></span>
