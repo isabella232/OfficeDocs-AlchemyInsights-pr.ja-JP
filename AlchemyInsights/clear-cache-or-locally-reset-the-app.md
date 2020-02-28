@@ -1,5 +1,5 @@
 ---
-title: キャッシュをクリアするか、アプリをローカルにリセットする
+title: キャッシュをクリアする、またはアプリをローカルにリセットする
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "3060"
 ms.openlocfilehash: ac04f1397417c43cfca893009c3cdc91e819d434
 ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/25/2020
 ms.locfileid: "42268952"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>キャッシュをクリアするか、アプリをローカルにリセットする
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>キャッシュをクリアする、またはアプリをローカルにリセットする
 
-不完全または正しくないデータが表示されている場合は、アプリを閉じて再度開いてください。  それでも問題が解決しない場合は、デバイスのアカウントをリセットします。 
+不完全または誤ったデータが表示される場合は、アプリを強制的に閉じてから再度開いてください。  それでも問題が解決しない場合は、デバイスのアカウントをリセットしてみてください。 
 
-**[アプリの > 設定] を開いて、メールアカウント > リセットアカウントを選択 >**
+**[アプリ]、[設定] の順に開き、メール アカウントを選択して、[アカウントのリセット] を選択します**

@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536188"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260247"
 ---
 # <a name="find-missing-folders"></a>見つからないフォルダーを探す
 
-フォルダーを確認できない場合は、フォルダーが折りたたまれていないことを確認します。左側のウィンドウの [**フォルダー**] の隣にある矢印を選択します。
-  
-フォルダーを誤って削除した場合、削除済みアイテム フォルダー内に残っていれば、そのフォルダーを復元できます。 詳細については、[Outlook.com で削除されたメール メッセージを復元する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy) をご覧ください。
-  
-フォルダーが見つからないという問題があります。 現在、この問題の修正に取り組んでいます。 [**検索**] を使用すれば、表示されていないフォルダー内に保存されたアイテムをまだ見つけることができます。 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />そして、ログアウトしてから再度ログインすると上手くいく場合があります。 [こちらをクリックしてサインアウトします。](https://login.live.com/logout.srf)
+一部のユーザーは、小さな画面で表示すると左側のフォルダ ウィンドウズを表示できない場合があります。
+
+- 必要なときにのみフォルダー ウィンドウを展開します。 左側のバーの 3 つの線アイコンを選択して、フォルダーを表示または非表示にします。
+- [[レイアウト設定](https://outlook.live.com/mail/options/mail/layout)] を開き、[**閲覧ウィンドウの非表示**]、[**保存**] の順に選択します。 これにより、画面にフォルダーを表示するためのスペースが広がります。
+
+フォルダーを誤って削除した場合、削除済みアイテム フォルダー内に残っていれば、そのフォルダーを復元できます。 詳細については、[Outlook.com で削除されたメール メッセージを復元する](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) をご覧ください。

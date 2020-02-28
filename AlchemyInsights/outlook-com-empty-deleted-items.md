@@ -3,6 +3,7 @@ title: Outlook.com の削除済みアイテム フォルダーを空にする
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768697"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277936"
 ---
 # <a name="empty-the-deleted-items-folder"></a>削除済みアイテム フォルダーを空にする
 
-削除済みの Outlook メッセージをすべて削除するには、[[削除済みアイテム フォルダー](https://outlook.live.com/mail/deleteditems)]  に移動し、[ **フォルダーを空にする**] を選択し、メッセージ一覧の上の [ **このフォルダーから削除されたアイテムを復元する**]  を選択し、もう一度 [ **フォルダーを空にする**]  を選択します。
+1. 削除済みアイテム フォルダーを開き、[**空のフォルダー**] を選択します。
+2. ページの上部にある [**回復できる項目**] を選択して [**空のフォルダー**] を再び選択します。
 
-多数のメッセージを削除した場合、これらのアイテムが削除済みアイテムフォルダーに移動するまで、または削除済みアイテムフォルダーから削除されるまでにしばらく時間がかかることがあります。 アイテムが削除されるまでブラウザー ウィンドウを開いたままにしておいてください。
+**削除済みアイテム フォルダーを空にできません**
 
-メッセージが正常に削除されない場合、少ない数のメッセージを削除してみてください。
+- 多数のメールを削除した場合、これらのアイテムが削除済みアイテムフォルダーに移動するまで、または削除済みアイテムフォルダーから削除されるまでにしばらく時間がかかることがあります。 削除の実行中は、ブラウザー ウィンドウを開いたままにします。
+- メールが正常に削除されない場合は、削除するより小さいバッチを選択します。
+- 削除されたメールが再び表示される場合は、最近多数のメールを削除したからかもしれません。 後でもう一度お試しください。

@@ -13,19 +13,19 @@ ms.custom:
 - "3754"
 ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
 ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/25/2020
 ms.locfileid: "42268953"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory が同期しない
 
-"最近の同期がありません" のような同期エラーを受信している場合、または Office 管理ポータルのディレクトリ同期の状態が "前回の同期は3日前" であることが示されている場合は、AADConnect の設定が正しくないか、または不足している可能性があります。同期を実行するためのアクセス許可。  
+「同期が最近行われていません」などの同期エラーが表示される場合、または Office 管理ポータルでディレクトリ同期の状態が「最後の同期: 3 日以上前」と表示される場合は、AADConnect の設定が正しくないか、同期を実行するための権限が不十分である可能性があります。  
 
-エクスプレス設定を使用して AADConnect を再インストールすると、問題が迅速に解決する場合があります。
+[簡単設定] を使用して AADConnect を再インストールすると、すぐに問題が解決する場合があります。
 
-1. [AADConnect の最新バージョンをダウンロード](https://go.microsoft.com/fwlink/?LinkId=615771)します。
+1. [AADConnect の最新バージョンをダウンロードします](https://go.microsoft.com/fwlink/?LinkId=615771)。
 
-2. [高速インストールの手順に従い](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)ます。
+2. [高速インストール手順に従います](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)。
 
-AADConnect サービスアカウントの詳細については、「 [AZURE AD Connect: accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)」を参照してください。
+AADConnect サービス アカウントの詳細については、「[Azure AD Connect: アカウントとアクセス許可](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)」を参照してください。
