@@ -1,5 +1,5 @@
 ---
-title: Cloudflare を使用してドメインを確認する
+title: Cloudflare でドメインを確認する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "1"
 ms.openlocfilehash: 1ff9660f38d302708ce10917a7e8edc9bb88fb50
 ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/27/2020
 ms.locfileid: "42331729"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>Cloudflare を使用してドメインを確認する
+# <a name="verify-your-domain-with-cloudflare"></a>Cloudflare でドメインを確認する
 
-ドメインを確認するには、ドメインレジストラーに TXT レコードを追加して、自分のドメインを所有していることを確認する必要があります。 
+ドメインを確認するには、ドメインを所有していることを確認するための TXT レコードをドメイン レジストラーに追加する必要があります。 
 
-最初に、[ドメインの**設定** \> **] を選択**して、ドメイン**の追加**[ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
+最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
   
-詳しい手順については、「 [Cloudflare For Office 365 で DNS レコードを作成](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare)する」を参照してください。
+詳しい手順については、「[Cloudflare で Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare)」を参照してください。
