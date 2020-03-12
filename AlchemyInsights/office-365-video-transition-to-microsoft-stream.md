@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: aaade66b49eb79326df778da08d2b59bb1b46b18
-ms.sourcegitcommit: b38a2b27006f63dc57b8b15d4d49ee442a6959ef
-ms.translationtype: HT
+ms.openlocfilehash: 9f338a2e222789adb757f38c77f65ab2e2c9b76c
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42219271"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600065"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="920e0-102">Office 365 ビデオから Microsoft Stream への移行</span><span class="sxs-lookup"><span data-stu-id="920e0-102">Office 365 Video transition to Microsoft Stream</span></span>
+# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="6bddb-102">Office 365 ビデオから Microsoft Stream への移行</span><span class="sxs-lookup"><span data-stu-id="6bddb-102">Office 365 Video transition to Microsoft Stream</span></span>
 
-<span data-ttu-id="920e0-103">Office 365 ビデオから Microsoft Stream への移行の詳細については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="920e0-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
+<span data-ttu-id="6bddb-103">Office 365 ビデオから Microsoft Stream への移行の詳細については、次を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6bddb-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
 
-- [<span data-ttu-id="920e0-104">移行の概要</span><span class="sxs-lookup"><span data-stu-id="920e0-104">Migration overview</span></span>](https://docs.microsoft.com/ja-JP/stream/migrate-from-office-365)
-- [<span data-ttu-id="920e0-105">移行の詳細</span><span class="sxs-lookup"><span data-stu-id="920e0-105">Migration details</span></span>](https://docs.microsoft.com/ja-JP/stream/migration-experience)
-- [<span data-ttu-id="920e0-106">移行タイミングの設定</span><span class="sxs-lookup"><span data-stu-id="920e0-106">Migration timing setting</span></span>](https://docs.microsoft.com/ja-JP/stream/migration-o365video-timing-setting)
-- [<span data-ttu-id="920e0-107">移行の準備スクリプト</span><span class="sxs-lookup"><span data-stu-id="920e0-107">Migration prep script</span></span>](https://docs.microsoft.com/ja-JP/stream/migration-o365video-prep)
+- [<span data-ttu-id="6bddb-104">移行の概要</span><span class="sxs-lookup"><span data-stu-id="6bddb-104">Migration overview</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="6bddb-105">移行の詳細</span><span class="sxs-lookup"><span data-stu-id="6bddb-105">Migration details</span></span>](https://docs.microsoft.com/stream/migration-experience)
+- [<span data-ttu-id="6bddb-106">移行タイミングの設定</span><span class="sxs-lookup"><span data-stu-id="6bddb-106">Migration timing setting</span></span>](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
+- [<span data-ttu-id="6bddb-107">移行の準備スクリプト</span><span class="sxs-lookup"><span data-stu-id="6bddb-107">Migration prep script</span></span>](https://docs.microsoft.com/stream/migration-o365video-prep)
