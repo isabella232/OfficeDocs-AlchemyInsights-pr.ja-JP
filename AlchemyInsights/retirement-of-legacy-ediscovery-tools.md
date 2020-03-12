@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158090"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600379"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>従来の電子情報開示ツールの廃止
 
@@ -37,7 +37,7 @@ Microsoft 365 コンプライアンス センターの電子情報開示機能�
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **廃止のタイムライン**:
 - 2020 年 4 月 1 日: 新しい検索と保留リストを作成できなくなりますが、ユーザーの自己責任において、既存の検索の実行、編集、および削除は引き続き行えます。 Microsoft サポートによる Exchange 管理センターのインプレース電子情報開示およびインプレース ホールドのサポートが終了します。
@@ -46,9 +46,9 @@ Microsoft 365 コンプライアンス センターの電子情報開示機能�
 
 **詳細については、以下を参照してください。**
 
- - [従来の電子情報開示検索と保持を Microsoft 365 コンプライアンス センターに移行する](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [従来の電子情報開示ツールの廃止](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [インプレース電子情報開示とインプレース ホールドに関するよくある質問](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [従来の電子情報開示検索と保持を Microsoft 365 コンプライアンス センターに移行する](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [従来の電子情報開示ツールの廃止](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [インプレース電子情報開示とインプレース ホールドに関するよくある質問](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
