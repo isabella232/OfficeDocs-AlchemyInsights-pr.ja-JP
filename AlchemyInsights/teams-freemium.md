@@ -10,18 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: HT
+ms.openlocfilehash: d3dfcda1250aaf783e890cd897c51c8639cef48f
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354010"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599345"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Teams 無料版にサインアップしたいのですが、サインアップできません。
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>無料で Teams にサインアップしたい
 
-- Office 365 の職場または学校アカウントを使用している場合、この無料版は使用できません。 ただし、お客様の組織で Teams を既に使用している場合があります。 使用していない場合、[Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) にアクセスして、組織が無料試用版の対象かどうかをご確認ください。
+Teams は、いくつかの異なるプログラムで無料で利用できます。 この要求のサポートに連絡しているため、既に microsoft Teams が既に存在することを意味する Microsoft 365 テナントが既に存在しています。
 
-- 教育機関は、この無料プランの対象外です。 ただし、教員や学生は Office 365 の無料版を取得でき、その中に通常版の Microsoft Teams が含まれています。 「[Microsoft Teams 用の Office 365 ライセンス](https://docs.microsoft.com/microsoftteams/office-365-licensing)」を参照してください。
+ほとんどの場合、Teams は既定ですべてのユーザーに対して有効になっています。 オンにすると、ユーザーは、[デスクトップ](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) および [モバイル](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)クライアントをインストールするか、またはの場所で [ブラウザー](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) を使用して Teams を実行できます。 <https://teams.microsoft.com.>
 
-- 米国政府機関は、この無料プランの対象外です。 政府機関向けの Office 365 プラン (無料試用版を含む) については、「[Microsoft Teams 用の Office 365 ライセンス](https://docs.microsoft.com/microsoftteams/office-365-licensing)」を参照してください。
+この例外は、教育機関向け Microsoft Teams (EDU) です。 EDU ライセンスを所有している場合は、Microsoft Teams を手動で有効にする必要があります。 これを行うには、microsoft Teams > microsoft 365 管理センター **> サービスとアドイン**] に移動します。 新しい Teams 管理センターを使用している場合は、[ **サービスと**アドインを検索するに  **は、新しい管理センターを試してみる**] をオフにする必要があります。重要: 変更が有効になるまで最大24時間待機しなければならない場合があります。
+
+ [Teams を使用してリモートワーカーをサポート](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)するためのガイダンスをすべて見逃すことはありません。

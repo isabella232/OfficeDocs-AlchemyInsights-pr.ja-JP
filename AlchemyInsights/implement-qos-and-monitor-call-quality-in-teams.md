@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 07df61fdc78cc66bff530b85239f10c4a7cde498
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
-ms.translationtype: HT
+ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42219265"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599993"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Teams で QoS を実施し、通話分析を監視する
 
-通話分析と通話品質ダッシュボードを使って Microsoft Teams の通話品質の問題のトラブルシューティングを行うことができます。 サービス品質 (QoS)、通話分析、通話品質ダッシュボード (CQD) の詳細については、「[Microsoft Teams で QoS を実装し、通話品質を監視する](https://docs.microsoft.com/ja-JP/microsoftteams/monitor-call-quality-qos)」を参照してください。 
+通話分析と通話品質ダッシュボードを使って Microsoft Teams の通話品質の問題のトラブルシューティングを行うことができます。 サービス品質 (QoS)、通話分析、通話品質ダッシュボード (CQD) の詳細については、「[Microsoft Teams で QoS を実装し、通話品質を監視する](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)」を参照してください。 

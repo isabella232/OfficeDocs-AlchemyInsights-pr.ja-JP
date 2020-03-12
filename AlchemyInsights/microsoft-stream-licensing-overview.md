@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: eddc08f81f2b3d477b52441515c797087647393d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42410579"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600101"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Microsoft Stream ライセンスの概要
 
 Microsoft Stream は、ユーザーごとのサブスクリプションごとにライセンスされたクラウドサービスです。 このサービスは、対象となる Office 365 サブスクリプションの一部として使用できます。 各サブスクリプションの種類の詳細については、「Office 365 の価格」を参照してください。
 
-- [Microsoft Stream ライセンスの概要](https://docs.microsoft.com/en-us/stream/license-overview)
+- [Microsoft Stream ライセンスの概要](https://docs.microsoft.com/stream/license-overview)
