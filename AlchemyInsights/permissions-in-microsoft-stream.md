@@ -13,17 +13,17 @@ ms.custom:
 - "3773"
 ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
 ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/03/2020
 ms.locfileid: "42410581"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Microsoft Stream のアクセス許可
 
-既定では、ビデオをアップロードすると、ビデオに対してアクセス許可が設定され、会社全体に表示されるようになります。 特定のユーザーまたはグループに対してアクセス許可を指定する場合は、ビデオのアクセス許可をカスタマイズできます。
+既定では、ビデオをアップロードすると、会社全体でそのビデオが見れるようにアクセス許可が設定されます。 特定のユーザー/グループのアクセス許可を指定する場合は、ビデオのアクセス許可をカスタマイズすることができます。
 
 - [Microsoft Stream のアクセス許可とプライバシー](https://docs.microsoft.com/stream/portal-permissions)
 
-- [グループ権限](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [グループのアクセス許可](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
 - [チャネルのアクセス許可](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
