@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558838"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600497"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 サービスの正常性
 
@@ -29,4 +29,4 @@ ms.locfileid: "42558838"
 
 - 組織のサービス正常性の履歴を確認するには、**[履歴]** を選択します。 
 
-詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/ja-JP/office365/enterprise/view-service-health)」を参照してください。 
+詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。 
