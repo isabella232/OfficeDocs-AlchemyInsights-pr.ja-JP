@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42280865"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584482"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>切り取り & スケッチを使用した、画像のキャプチャ、マークアップ、共有
 
@@ -28,8 +28,12 @@ ms.locfileid: "42280865"
 
 3. カーソルを移動すると、キャプチャする領域が強調表示されます。 キャプチャした領域が画面に表示されます。
 
+   ![強調表示されている選択の画像](media/snipone.png)
+
 切り取った領域はクリップボードに保存され、メールやドキュメントに貼り付けることができます。 
 
 **画像を編集または表示したい場合**: 
 
 - タスクバーの右端にある通知アイコンをクリックします。その後、キャプチャした画像をクリックします。 切り取り & スケッチ アプリで切り取り領域が開きます。
+
+   ![Snipping アプリに表示されている画像の画像](media/sniptwo.png)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Service Health
+title: Microsoft 365 サービスの正常性
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42394922"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558838"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
+# <a name="microsoft-365-service-health"></a>Microsoft 365 サービスの正常性
 
 
-サービス正常性ダッシュボードから、サービスの正常性を確認します。 右上の**新しい管理センター**を選択すると、新しいサービス正常性オプションが表示されます。
+[サービス正常性ダッシュボード](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)で、すべてのサービスに関するサービス正常性を確認します。 右上隅の [**新しい管理センター**] を選択すると、新しいサービス正常性のオプションが表示されます。
 
-- サービス正常性の**電子メール通知**を受信するための [**設定**] を選択します。
+- サービス正常性の**メール通知**を受信するには、**[基本設定]** を選択します。
 
-- サービスで問題が発生した場合は **、[問題を報告**する] を選択します。
+- サービスに関する問題が発生した場合は、**[問題の報告]** を選択します。
 
-- [**履歴**] を選択して、組織のサービスの正常性の履歴を確認します。 
+- 組織のサービス正常性の履歴を確認するには、**[履歴]** を選択します。 
 
-詳細については、「 [Office 365 サービス正常性を確認する方法](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health)」を参照してください。 
+詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/ja-JP/office365/enterprise/view-service-health)」を参照してください。 

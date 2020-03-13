@@ -13,7 +13,7 @@ ms.custom:
 - "1692"
 ms.openlocfilehash: 8ee45688c5ffb4b02295e7a4df655c6e3a8dd6fe
 ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/10/2020
 ms.locfileid: "42575394"
@@ -26,4 +26,4 @@ ms.locfileid: "42575394"
 * モダン ユーザー インターフェイスの使用時に、リストとライブラリのブロックを解除する方法については、「[モダン リストとライブラリを最大限に活用する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)」を参照してください。
 * Office 365 のグループに接続し、グループ接続を実行するには「[Office 365 グループに接続する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)」を参照してください。
 
-**重要**: ページが既にモダンビューで表示されている場合、そのページを参照して、url をコピーし、サポートチケットの詳細の一部として url を指定してください。
+**重要**: ページがモダン ビューで表示されるはずなのに表示されない場合は、問題のページを参照し、URL をコピーしてサポート チケットの詳細の一部として URL を提供してください。
