@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 62464ce279b54101338cee1f14589ea96dd7354e
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543102"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556664"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote Class Notebook の問題および解決策
 
@@ -29,6 +29,8 @@ Class Notebook に関してよく寄せられるトピックとトラブルシ�
 - **学生を削除する:** [OneNote の Class Notebook の学生を削除する ](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c) から開始します。 学生の削除に関連する問題については、[学生は削除されたが、フォルダーが表示される](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71) を参照してください。
 
 - **新しい教師:** 新しい教師が Class Notebook を設定するには、 [OneNote の Class Notebook で補助教員を追加または削除する ](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) または [Class Notebook を新しい教師へ移管する](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027) を参照してください。
+
+- OneNote Class Notebook の同期に関する最も一般的な問題の解決方法については、「[OneNote を同期できないときの問題を解決する](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)」の手順に従ってください。
 
 該当する問題が見つからない場合は、[Class Notebook](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea) の [トラブルシューティング](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) セクションを参照してください。 
 
