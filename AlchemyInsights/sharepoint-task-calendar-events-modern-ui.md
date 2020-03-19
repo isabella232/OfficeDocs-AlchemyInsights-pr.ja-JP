@@ -1,5 +1,5 @@
 ---
-title: モダン UI のタスクとカレンダーのイベントリスト
+title: モダン UI でのタスクと予定表のイベント リスト
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -13,17 +13,17 @@ ms.custom:
 - "2627"
 ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
 ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/10/2020
 ms.locfileid: "42575395"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>モダン UI のタスクとカレンダーのイベントリスト
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>モダン UI でのタスクと予定表のイベント リスト
 
-モダンビューで表示しようとしたときに、タスク`< ID >_.000`とイベントのリストに "Title" と表示されると、エラーが表示されることがあります。
+タスクとイベント リストをモダン ビューでレンダリングしようとしたときに、タスクとイベント リストの「タイトル」の表示にエラーが `< ID >_.000` として表示される場合があります。
 
-リストやライブラリの中には、タスクリストやイベントリストなどのモダンユーザーインターフェイスに表示されないものがあります。
+リストやライブラリの中には、モダン ユーザー インターフェイスに表示するのに必要なビルドが現時点では完了していないものが存在します。例としては、タスク リストやイベント リストなどです。
 
-重要なアイテムの1つは、モダン UX の一部としてタスクとイベントのリストをサポートすることです。 ただし、このサポートのための ETA は提供されていません。そのため、これらのリストに対しては従来の環境を引き続き使用してください。
+Microsoft では、タスクおよびイベント リストを、モダン UX の一部としてサポートすることを優先したいと考えています。 ただし、このサポートに ETA はありませんので、これらのリストについては引き続きクラシック エクスペリエンスをご利用ください。
 
-詳細については、「[モダンリストとライブラリを最大限](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)に活用する」を参照してください。
+詳細については、「[モダン リストとモダン ライブラリを最大限に利用する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)」を参照してください。
