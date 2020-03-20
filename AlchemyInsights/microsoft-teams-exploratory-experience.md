@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: e899d29da78b2820c4384252af162092b81e9391
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
+ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228244"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612352"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Exploratory エクスペリエンス
 
 Microsoft Teams Exploratory エクスペリエンスを使用すると、Azure Active Directory (AAD) を持ち、Teams のライセンスを取得していない組織内のユーザーは、Teams の Exploratory エクスペリエンスを開始できます。 管理者は組織内のユーザーに対して、この機能をオンまたはオフに切り替えることができます。 (以前の Microsoft の商用クラウドの試用版は、Teams Exploratory エクスペリエンスと呼ばれています。)
+
+Microsoft Teams Exploratory エクスペリエンスは、次のエンタープライズ契約日、または 2021 年 1 月以降の更新日まで追加料金なしで利用可能です。 この時点で、Microsoft Exploratory エクスペリエンス ライセンスのエンド ユーザーは、Teams を含む有料のライセンスに移行する必要があります。
 
 詳細については、「[Microsoft Teams Exploratory ライセンスの管理](https://docs.microsoft.com/microsoftteams/teams-exploratory/)」を参照してください。
