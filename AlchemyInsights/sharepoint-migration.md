@@ -10,16 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
-ms.translationtype: HT
+ms.openlocfilehash: d54d3adbaa697c4abda7cb52214c79f136b37daa
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964019"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958615"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>SharePoint Online への移行オプション
 
-コンテンツを SharePoint Online に移動する際には、移動する必要があるファイルのサイズと品質に応じてさまざまなオプションを使用できます。「[こちら](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)」のオプションの一覧をご確認ください。
+**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+
+**移行オプション**
+
+移行する必要のあるファイルのサイズと量によっては、コンテンツを SharePoint Online に移行するために使用できるさまざまなオプションがあります。詳細については、[ここに記載](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)されているオプションの一覧を参照してください。
 
 コンテンツの移行の詳細については、下記リンク先を参照してください。
 

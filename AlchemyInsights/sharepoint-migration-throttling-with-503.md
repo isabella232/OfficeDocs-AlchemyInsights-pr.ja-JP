@@ -12,14 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054058"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958687"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>503 エラーによる SharePoint の移行のスロットル
+
+**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+
+**503 SharePoint Online への移行時のエラー**
 
 SharePoint Online への移行中に 503 エラーが発生しているようです。 Microsoft ができるだけ早くサポートをご提供できるよう、次の手順を実行してください。 
 

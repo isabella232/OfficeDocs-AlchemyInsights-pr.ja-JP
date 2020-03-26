@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 49f8a4ee2b78f158ec1ce5ca7da84f6fbfff0d14
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
-ms.translationtype: HT
+ms.openlocfilehash: 9a0aa659db24f3929b0cca54b9c697867a04e42e
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37313930"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958507"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SPMT を使用した SharePoint の移行
+
+**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+
+**SharePoint 移行ツール**
 
 最小のファイル セットの移行から企業での大規模な移行に至るまで広範囲に対応する SharePoint 移行ツールを使用することで、情報をクラウドに取り込んで、Office 365 を使用した最新の共同作業、インテリジェンス、セキュリティの各ソリューションを活用することができます。
 

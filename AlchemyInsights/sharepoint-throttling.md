@@ -7,14 +7,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 24040647173206f43ea1eb78b9aaf1102e7cb575
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 235a9adaaf4ce7b2946c2db268093ee8b4afae34
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053698"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958579"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online の調整
+
+**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+
+**SharePoint Online の調整**
 
 SharePoint Online は、SharePoint Online サービスの最適なパフォーマンスと信頼性を維持する目的で調整を使用します。 調整では、リソースの過剰な使用を防ぐため、ユーザー アクションまたは (スクリプトまたはコードによる) 同時呼び出しの数が制限されます。 詳細については、次のリンク先を参照してください。
 
