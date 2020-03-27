@@ -12,14 +12,18 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 757136c39700f12f40f839b29277a59b0e436f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 4ec0df9d4954a8c65f0c34188d285dd8cf44a4f2
+ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529864"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42977311"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>社会保障番号に伴う DLP の問題
+
+**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+
+**SSNs に関する DLP の問題**
 
 Office 365 で機密情報の類を使用しているときに、**社会保障番号 (SSN)** を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題は発生していませんか。発生している場合は、コンテンツに DLP ポリシーに必要な情報が含まれていることを確認してください。 
   
