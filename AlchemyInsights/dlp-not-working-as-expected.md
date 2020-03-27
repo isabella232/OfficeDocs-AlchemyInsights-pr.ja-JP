@@ -13,18 +13,22 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530291"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932627"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP が期待どおりに機能していない
 
-Office 365の**データ損失防止 (DLP)** で問題が発生していませんか？ その場合は、**DLPポリシー**が正しく設定されていること、およびデータに**DLPポリシー**が評価のさいに探しているものが含まれていることを確認してください。
-  
+**重要**: 多くの SharePoint Online および OneDrive をご利用のお客様は、バックグラウンドで実行されるサービスに対してビジネスに不可欠なアプリケーションを実行します。 これには、コンテンツの移行、データ損失防止 (DLP)、およびバックアップ ソリューションが含まれます。 これらの前例のない時期に、リモート作業シナリオでこれまで以上にサービスに依存しているユーザーに対して、SharePoint Online および OneDrive サービスの可用性と信頼性を確保するための措置を講じています。
+
+この目的をサポートするため、平日の昼間の時間帯に、バックグラウンド アプリ (移行、DLP、およびバックアップ ソリューション) の調整制限を強化しました。 これらのアプリのスループットは、これらの期間では非常に制限されています。 ただし、同地域の夕方および週末には、サービスはバックグラウンド アプリからの非常に大量のリクエストを処理する準備が整います。
+
  **DLP のセットアップ**
+
+Office 365の**データ損失防止 (DLP)** で問題が発生していませんか？ その場合は、**DLPポリシー**が正しく設定されていること、およびデータに**DLPポリシー**が評価のさいに探しているものが含まれていることを確認してください。
   
 DLP ポリシーによって、組織の機密情報を識別および保護することができます。DLP ポリシーをセットアップするには、[こちら](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)の情報を使用します。
   

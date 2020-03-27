@@ -13,14 +13,20 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37915922"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931123"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>SharePoint 移行ツールに関する問題とエラーのトラブルシューティング
+
+**重要**: 多くの SharePoint Online および OneDrive をご利用のお客様は、バックグラウンドで実行されるサービスに対してビジネスに不可欠なアプリケーションを実行します。 これには、コンテンツの移行、データ損失防止 (DLP)、およびバックアップ ソリューションが含まれます。 これらの前例のない時期に、リモート作業シナリオでこれまで以上にサービスに依存しているユーザーに対して、SharePoint Online および OneDrive サービスの可用性と信頼性を確保するための措置を講じています。
+
+この目的をサポートするため、平日の昼間の時間帯に、バックグラウンド アプリ (移行、DLP、およびバックアップ ソリューション) の調整制限を強化しました。 これらのアプリのスループットは、これらの期間では非常に制限されています。 ただし、同地域の夕方および週末には、サービスはバックグラウンド アプリからの非常に大量のリクエストを処理する準備が整います。
+
+**一般的な問題とエラー**
 
 SharePoint 移行ツール (SPMT) を使用するときに、一般的な問題やエラーが発生する場合があります。 詳細については、次のリンクを参照してください。
 
