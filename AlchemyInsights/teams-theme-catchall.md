@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856472"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030405"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams の一般的な問題と解決策
+
+**重要**: Teams の使用数が最近増加したため、Teams ライセンスをユーザーに割り当てると、完全にセットアップされるまでに約 24 時間かかることがあります。 それまでの間、Teams ポリシーの割り当てを行うことはできません。また、通話や電話会議など一部の Teams 機能を利用できないことがあります。
+
+**一般的な問題と解決策**
 
 より具体的な回答をお求めの場合は、発生しているエラーまたは使用している Teams 機能を含めて、質問を簡潔にまとめます。
 
