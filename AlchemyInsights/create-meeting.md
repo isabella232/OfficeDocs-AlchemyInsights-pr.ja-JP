@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37380103"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105352"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Teams での会議のスケジュールを設定する
+
+**重要**: 会議の作成に問題がある場合、または Teams で会議オプションが見つからない場合は、影響を受けるユーザーに [Exchange Online メールボックスのライセンスがあり、メールボックスが有効になっていることを確認してください](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)。
 
 会議のスケジュールの設定には、次の 2 つの方法があります。 
 
@@ -29,4 +31,6 @@ Outlook で会議のスケジュールを設定する場合と同様に、会議
 
 スケジュールフォームの右側にチャネルや個々のユーザーを追加できます。また、空白のままにしてプライベートな予定を設定することもできます。
 
-Microsoft Teams で会議を作成および会議のスケジュールを設定する方法の詳細については 「[Teams で会議のスケジュールを設定する](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)」 を参照してください。
+- Microsoft Teams で会議を作成および会議のスケジュールを設定する方法の詳細については 「[Teams で会議のスケジュールを設定する](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)」 を参照してください。
+
+- 会議の制限と仕様については、「[Microsoft Teams の制限事項と仕様](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)」を参照してください。
