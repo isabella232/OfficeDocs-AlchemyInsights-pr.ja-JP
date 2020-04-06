@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "43013671"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105316"
 ---
 # <a name="service-numbers-in-teams"></a>Teams のサービス番号
 
 サービス電話番号は、ユーザーまたはサブスクライバーの電話番号よりも同時通話容量が高くなります。 
 
-- [**サービス番号を取得する**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)さまざまな方法を確認します。 
+- [サービス番号を取得するさまざまな方法を確認します](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)。 
 
-- [**ユーザー番号をサービス番号に変換する**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)方法を確認します。
+- [ユーザー番号をサービス番号に変換する方法を確認します](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)。
+
+詳細については、「[組織の電話番号を管理する](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)」をご覧ください。
