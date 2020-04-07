@@ -1,5 +1,5 @@
 ---
-title: お支払いの詳細の更新
+title: クレジット カード情報を更新する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921819"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059885"
 ---
-# <a name="update-payment-details"></a>お支払いの詳細の更新
+# <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 
 1. Microsoft 365 管理センターで、[**課金情報**] \> [[支払い方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)] ページの順に移動します。
 
