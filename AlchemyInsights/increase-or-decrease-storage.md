@@ -20,7 +20,7 @@ ms.locfileid: "43064897"
 ---
 # <a name="increase-or-decrease-storage"></a>容量を増やす、または減らす
 
-SharePoint Online サイト コレクションの容量が不足し始めたら、ご使用のプランが対象であれば、サブスクリプションに容量を追加できます。 
+SharePoint Online サイト コレクションの容量が不足し始めた場合、ご使用のプランが対象に含まれている場合は、サブスクリプションに容量を追加できます。 
 
 - [使用可能な容量を表示する](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#view-available-storage)。 
 
@@ -30,4 +30,4 @@ SharePoint Online サイト コレクションの容量が不足し始めたら�
 
 - [請求内容についての説明](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice?view=o365-worldwide)。
 
-「[サブスクリプションに容量を追加する](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide)」を参照してください。 
+詳細については、「[サブスクリプションに容量を追加する](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide)」を参照してください。 
