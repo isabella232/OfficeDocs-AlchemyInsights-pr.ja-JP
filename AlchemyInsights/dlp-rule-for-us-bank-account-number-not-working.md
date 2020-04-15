@@ -14,16 +14,16 @@ ms.custom:
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: bb7d8ca91af73fa4ebed5992ec848128beb18830
 ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42977167"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>US bank の口座番号に関する DLP の問題
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>米国の銀行口座番号に関する DLP の問題
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
-**US bank の口座番号に関する DLP の問題**
+**米国の銀行口座番号に関する DLP の問題**
 
 Office 365 で DLP 機密情報の種類を使用しているときに、**米国の銀行口座番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生した場合は、DLP ポリシーに必要な情報がコンテンツに含まれていることを確認してください。
   

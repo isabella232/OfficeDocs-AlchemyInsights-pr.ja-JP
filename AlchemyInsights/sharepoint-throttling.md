@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: 235a9adaaf4ce7b2946c2db268093ee8b4afae34
 ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42958579"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online の調整
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
 **SharePoint Online の調整**
 

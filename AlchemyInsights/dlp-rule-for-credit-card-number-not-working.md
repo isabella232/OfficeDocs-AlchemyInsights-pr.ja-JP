@@ -14,16 +14,16 @@ ms.custom:
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: 40a4a1668039b70455e09ee662359c05235645e8
 ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42977203"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>クレジットカード番号に関する DLP の問題
+# <a name="dlp-issues-with-credit-card-numbers"></a>クレジット カード番号に関する DLP 問題
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
-**クレジットカード番号に関する DLP の問題**
+**クレジット カード番号に関する DLP 問題**
 
 O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている**クレジット カード ポリシー**の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。
   

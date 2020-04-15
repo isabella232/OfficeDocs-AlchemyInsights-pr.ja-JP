@@ -14,14 +14,14 @@ ms.custom:
 - "2594"
 ms.openlocfilehash: 9a0aa659db24f3929b0cca54b9c697867a04e42e
 ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42958507"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SPMT を使用した SharePoint の移行
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
 **SharePoint 移行ツール**
 

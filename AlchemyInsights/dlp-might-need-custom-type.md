@@ -15,16 +15,16 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 87fcb5c3cc9ccd525265097b66d9d9b3a85c5feb
 ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42977275"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP のカスタム タイプの必要性
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
-**DLP にカスタム情報の種類が必要になる場合がある**
+**DLP にはカスタム情報の種類が必要な場合があります**
 
 データ損失防止（DLP）ポリシーを使用すると、組織内の機密データを識別し保護することができます。 場合によっては、組織のデータを保護するために独自の**カスタム**機密情報の種類を作成する必要があります。
 

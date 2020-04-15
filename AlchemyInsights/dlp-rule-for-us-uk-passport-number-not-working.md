@@ -14,20 +14,20 @@ ms.custom:
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: 534e258c31a9a71c618765511487487c53f455b5
 ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/26/2020
 ms.locfileid: "42977111"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP-US/英国のパスポート番号に関する問題
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP の問題 - US/UK パスポート番号
 
-**重要**: これらの従来の状況では、sharepoint Online と OneDrive のサービスの可用性を確保するための手順を実行しています。詳細については、「 [Sharepoint online の一時的な機能の調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
-**米/英国のパスポート番号に関する DLP の問題**
+**US/UK パスポート番号に関する DLP の問題**
 
-O365 で DLP 機密情報の種類を使用しているときに、**米/英国のパスポート番号**が含まれているコンテンツの**データ損失防止 (DLP)** に関する問題が発生していますか。 その場合は、DLP ポリシーの評価時に必要な情報がコンテンツに含まれていることを確認してください。
+O365 で DLP 機密情報の種類を使用するときに、**US/UK パスポート番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題がありますか? その場合、DLP ポリシーが評価されるときに DLP ポリシーが探しているものに必要な情報がコンテンツに含まれていることを確認してください。
   
-たとえば、信頼レベルが75% で構成された**米/英国のパスポート番号**ポリシーの場合、次のものが評価され、ルールをトリガーするために検出される必要があります。
+たとえば、75% の信頼レベルで構成された **US/UK パスポート番号**では、以下の内容が評価されるため、ルールをトリガーするためにはこれらの内容が検出される必要があります
   
 - **[書式:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** 9 桁の数字
 
@@ -41,7 +41,7 @@ O365 で DLP 機密情報の種類を使用しているときに、**米/英国�
 
   - Keyword_passport のキーワードを検出した。
 
-    たとえば、次のサンプルは**米国/英国のパスポート番号**のポリシーに対してトリガーされます。米国のパスポート番号123456789
+    たとえば、次のサンプルでは **US/UK パスポート番号**ポリシー (U.S. Passport number 123456789) をトリガーします。
 
 コンテンツに対して US/UK パスポート番号が検出されるために必要な情報の詳細については、この記事の「[US/UK パスポート番号に関する機密情報の種類の検索基準](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)」セクションを参照してください。
   
