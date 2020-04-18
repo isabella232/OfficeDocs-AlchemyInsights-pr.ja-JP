@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: HT
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665477"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552602"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 サブスクリプションをキャンセルする場合
 
@@ -28,4 +28,8 @@ ms.locfileid: "36665477"
   
 または、サポート エンジニアと相談するには [**お問い合わせ先**] を選択します。
   
+**返金: 次の請求サイクルでは、日割り処理によるクレジットが返されます。** 
+
+**注**: 取り消すオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示し、[**設定 & の操作**] に [**サブスクリプションのキャンセル**] オプションが表示されるはずです。 
+
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。

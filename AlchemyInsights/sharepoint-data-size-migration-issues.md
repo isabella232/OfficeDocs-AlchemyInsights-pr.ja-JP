@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958651"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552926"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>SharePoint Online へのデータ移行中の問題
-
-**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
 **100 TB を超えるデータの移行**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958651"
     - 予想される移行サイズ。
     - ご希望の移行開始および完了日時。
     - SharePoint Server、Box、GDrive、ファイル共有など、コンテンツの移行元。
-
-
-  
-
