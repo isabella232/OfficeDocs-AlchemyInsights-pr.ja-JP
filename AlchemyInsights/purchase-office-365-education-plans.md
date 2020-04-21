@@ -1,35 +1,37 @@
 ---
-title: Office 365 Education のプランの購入方法
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Office 365 Education プランを購入する
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
-ms.date: 2/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "330"
-- "370"
 - "1500009"
-ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+- "328"
+- "330"
+ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286254"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43413676"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Office 365 Education のプランの購入方法
+# <a name="purchase-office-365-education-plans"></a>Office 365 Education プランを購入する
 
-お客様は Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。
+お客様は Office 365 Education の利用が承認されています。  購入するには、次の手順に従ってください。
 
 1. **[[課金情報] > [サービスの購入]](https://portal.office.com/AdminPortal/Home#/catalog)** の順に移動します。
 
 2. **[教育機関向けプラン]** の下のリストからプランを選択します。
 
 3. 購入するサブスクリプションをポイントして、**[今すぐ購入]** をクリックします。
+
+**Teams を有効にする**
+
+- すべてのユーザーに対して Microsoft Teams を有効にするには、**[[設定] > [設定] > [Microsoft Teams]](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)** の順に移動し、**[すべてのユーザーに対して Microsoft Teams を有効にする]** チェック ボックスをクリックします。  **[変更の保存]** をクリックします。
 
 **リモート教育と学習**
 

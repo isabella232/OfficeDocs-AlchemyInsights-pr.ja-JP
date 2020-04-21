@@ -9,17 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386906"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217869"
 ---
 # <a name="change-how-often-you-pay"></a>支払回数を変更する
 
- **支払い頻度を変更するため**、一般法人向け Office 365 サブスクリプションの支払い頻度を年払いから月払いに、または月払いから年払いに変更する必要がある場合は、Microsoft がお手伝いします。新しい支払い頻度で同じサブスクリプションを購入し、古いサブスクリプションを解約する必要があります。[お電話します] オプションを使用してサポート エンジニアにお問い合わせください。
+サブスクリプションを購入する場合、月単位の課金か年単位の課金かを選択できます。 サブスクリプションの請求頻度を変更するには、次の手順を実行します。
+
+1. 管理センターで、**[課金情報] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
+
+2. 変更するサブスクリプションを見つけます。 **[課金情報]** セクションで、**[月単位で課金]** または **[年単位で課金]** の横にある **[編集]** をクリックします。
+
+3. 課金頻度のオプションを選択し、**[変更]** をクリックします。

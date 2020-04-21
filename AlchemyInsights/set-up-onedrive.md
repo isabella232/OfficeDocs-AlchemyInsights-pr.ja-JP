@@ -11,14 +11,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 4552d03c800bcb4a2f95db5beda5f4ab75ef03b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 47635cd7fbe55b4d5dc2d38259877a7c0e184b51
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509214"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43116338"
 ---
-# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a>OneDrive 同期クライアントを使用して OneDrive または SharePoint ファイルを同期する
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>OneDrive 同期クライアントを使用して OneDrive または SharePoint ファイルを同期する
 
 OneDrive 同期クライアントを使って、[自分の OneDrive for Business ファイルを同期](https://go.microsoft.com/fwlink/?linkid=533375)したり、[SharePoint ファイルを同期](https://go.microsoft.com/fwlink/?linkid=871666)したりすることができます。
   
