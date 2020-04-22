@@ -3,19 +3,19 @@ title: 2589 組織からのメール メッセージに Winmail.dat 添付ファ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 41ab3f22499994cda5883834ff54e5767c69265b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
-ms.translationtype: HT
+ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36397239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666746"
 ---
 # <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>組織からのメール メッセージに Winmail.dat 添付ファイルが含まれないようにする
 

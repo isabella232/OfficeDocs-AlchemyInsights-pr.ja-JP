@@ -3,7 +3,7 @@ title: Outlook on the web で送信者をブロックまたはブロック解除
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/17/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: fcd41108cb96fffac8b20ff7160199588f0886a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720365"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Outlook on the web で送信者をブロックまたはブロック解除する
 

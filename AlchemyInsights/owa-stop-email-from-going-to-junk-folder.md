@@ -3,19 +3,19 @@ title: Outlook on the web の [迷惑メール] フォルダーにメッセー�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555742"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721946"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Outlook on the web の [迷惑メール] フォルダーにメッセージが移動されないようにする
 

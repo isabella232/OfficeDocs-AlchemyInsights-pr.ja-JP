@@ -3,18 +3,18 @@ title: Outlook.com から Skype が削除されている
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: d1debdfb8f682cfa1d9889f29e2ea409d90185a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: a2f55cfb3882488b3337369fb32057b8a49dc845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666818"
 ---
 # <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Outlook.com で Skype をオフにするには、どうすればいいですか。
 

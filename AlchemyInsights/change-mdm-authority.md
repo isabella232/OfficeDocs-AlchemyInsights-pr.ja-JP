@@ -2,18 +2,18 @@
 title: MDM 機関を変更する
 ms.author: sirkkuw
 author: Sirkkuw
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
-ms.translationtype: HT
+ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770968"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706796"
 ---
 # <a name="change-intune-mdm-authority"></a>Intune MDM 機関を変更する
 

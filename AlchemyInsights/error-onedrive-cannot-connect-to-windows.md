@@ -2,18 +2,18 @@
 title: 'エラー: OneDrive を Windows に接続できない'
 ms.author: pebaum
 author: pebaum
-ms.date: 10/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 02c922e9256b589b9e03a5ee6256d1d47a870346
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714299"
 ---
 # <a name="error-onedrive-cannot-connect-to-windows"></a>エラー: OneDrive を Windows に接続できない
 

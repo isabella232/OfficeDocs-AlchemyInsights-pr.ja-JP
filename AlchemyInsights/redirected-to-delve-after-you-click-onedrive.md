@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
-ms.translationtype: HT
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722815"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>[OneDrive] をクリックした後、Delve にリダイレクトされる
 
 詳細については、「[トラブルシューティング ガイド](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)」を参照してください。
 
-この問題を解決するには、Office 365 管理者は、ユーザーに [個人用サイト] サイトを作成する権限を付与する必要があります。 これは、OneDrive for Business ページが個人用サイトに作成されているためです。
+この問題を解決するには、管理者は個人用サイトを作成する権限をユーザーに付与する必要があります。 これは、OneDrive for Business ページが個人用サイトに作成されているためです。
 
 この権限を付与するには、次の手順を実行します。
 

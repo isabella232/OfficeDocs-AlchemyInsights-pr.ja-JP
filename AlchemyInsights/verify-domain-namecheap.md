@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
-ms.translationtype: HT
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42331732"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721764"
 ---
 # <a name="verify-your-domain-with-namecheap"></a>Namecheap でドメインを確認する
 
@@ -23,4 +23,4 @@ ms.locfileid: "42331732"
 
 最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
   
-詳しい手順については、「[Namecheap で Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)」を参照してください。
+詳細な手順については、「 [Microsoft 365 の Namecheap で DNS レコードを作成](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)する」を参照してください。

@@ -2,7 +2,7 @@
 title: 詳細な展開 Catch All ルール
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
-ms.translationtype: HT
+ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710916"
 ---
 # <a name="deploy-office-apps"></a>Office アプリを展開する
 
-Office 展開ツールや Microsoft Endpoint Configuration Manager を介して、オペレーティング システムのディスク イメージの一部として、またはリモート デスクトップ サービス (RDS) やターミナル サービスとともに Windows Server を使用する共有コンピューター シナリオで、Office アプリを複数のエンド ユーザーに展開する場合は、**Office 365 ProPlus 展開アドバイザー**のステップ バイ ステップ ガイドの使用を検討してください。
+Office アプリを Office 展開ツール、Microsoft エンドポイント構成マネージャー、オペレーティングシステムのディスクイメージの一部として、または Windows Server を使用してリモートデスクトップサービス (RDS) またはターミナルサービスを使用する共有コンピューターシナリオで複数のエンドユーザーに展開する場合は、「 **Microsoft 365 apps for enterprise Deployment advisor**」のステップバイステップガイドを参照してください。
   
 作業を開始するには、必ずテナント管理者かグローバル管理者としてサインインしていることを確認してから、次をクリックしてください: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)。
   

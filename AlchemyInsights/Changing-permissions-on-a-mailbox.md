@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: HT
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734386"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692518"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>メールボックスのアクセス許可を変更する
 
-ユーザーが自分以外の Office 365 メールボックスにアクセスする必要がある場合は、それらのメールボックスを操作するためのアクセス許可を付与する必要があります。 これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。 ユーザーが以下にアクセスする必要がある場合:
+ユーザーが自分以外のメールボックスにアクセスすることが必要な場合、そのようなメールボックスを使用するアクセス許可を付与される必要があります。これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。ユーザーがアクセスする必要があるメールボックスの種類は次のとおりです。
   
-- 別のユーザーのメールボックス - 「[Office 365 の別のユーザーにメールボックス アクセス許可を付与する](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)」を参照してください。
+- 他のユーザーのメールボックス-[別のユーザーにメールボックスアクセス許可を付与することを](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)確認してください。
     
 - 共有メールボックス - 「[共有メールボックスにメンバーを追加または削除する](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)」を参照してください。
     

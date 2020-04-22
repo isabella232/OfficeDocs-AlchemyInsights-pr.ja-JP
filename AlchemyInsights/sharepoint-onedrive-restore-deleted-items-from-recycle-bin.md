@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053842"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692842"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で見つからないファイルまたはフォルダーのトラブルシューティング
 
@@ -35,7 +35,7 @@ OneDrive または SharePoint の多数のファイルを削除、上書き、�
 
 **ファイルの履歴を確認するために、監査ログまたはファイル アクティビティ ウィンドウを使用する**
 
-</a>ここ[に移動して](https://protection.office.com/#/unifiedauditlog)[監査レポートを確認する](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
+</a>ここ[に移動して](https://protection.office.com/#/unifiedauditlog)[監査レポートを確認する](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
 
 [ファイル アクティビティ](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) ウィンドウを使用してファイルの履歴を確認します。
 
