@@ -2,7 +2,7 @@
 title: SharePoint Online のクラシック モードへの制限
 ms.author: pebaum
 author: pebaum
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048765"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742474"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online のクラシック モードへの制限
 

@@ -3,7 +3,7 @@ title: Outlook on the web で言語、日付と時刻の形式、またはタイ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: c7ed1f7286fb62a552c21d7a20d7c85111656058
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da58d873ed28c79856d62ce8f113e3ea65d22610
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556613"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743026"
 ---
 # <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Outlook on the web で言語、日付と時刻の形式、またはタイム ゾーンを変更する
 

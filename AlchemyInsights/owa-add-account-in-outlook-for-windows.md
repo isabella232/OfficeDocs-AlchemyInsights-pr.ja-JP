@@ -3,18 +3,18 @@ title: Outlook on the web アカウントを Outlook for Windows に追加する
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: dd66c85b11efc31874bc44bcb5f8345a21bf5a9d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36745618"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743206"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook on the web アカウントを Outlook に追加する
 

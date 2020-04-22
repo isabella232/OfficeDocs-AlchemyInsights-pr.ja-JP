@@ -3,7 +3,7 @@ title: SharePoint で削除したファイルまたはフォルダーを復元�
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 63b9d8c3539c67982176fe40190ada3b50178ec4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: a31c2c9c20a49765de02924bdd396833ab4c2b7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37915918"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742566"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>SharePoint で削除したファイルまたはフォルダーを復元する
 

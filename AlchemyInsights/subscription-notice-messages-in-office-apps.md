@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: efb78f5f0b8a0633ecd5d36a981e3c9f5eff81d0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 2678510c71340f1460d12ff5576e9a5f545f7ec2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43413641"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741924"
 ---
 # <a name="subscription-notice-messages-in-office-apps"></a>Office アプリでのサブスクリプションの通知メッセージ
 
@@ -26,7 +26,7 @@ ms.locfileid: "43413641"
 
 - [サブスクリプション状態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)が有効であること、影響を受けるユーザーに[有効なライセンスが割り当てられている](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)こと、インターネットに接続されていることを確認します。 新しい Office 365 サブスクリプションまたはプランに最近切り替えた場合は、影響を受けているコンピューターで、Office を一旦アンインストールしてから再インストールしてみてください。
 
-- Office アプリを開き、**[ファイル] > [アカウント]** の順に移動して、すべてのアカウントからサインアウトします。 ライセンスが有効なユーザー アカウントを使用して、もう一度サインインします。 詳細については、「[Office のアカウント](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB)」を参照してください。
+- Office アプリを開き、**[ファイル] > [アカウント]** の順に移動して、すべてのアカウントからサインアウトします。 ライセンスが有効なユーザー アカウントを使用して、もう一度サインインします。 詳細については、「[Office のアカウント](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)」を参照してください。
 
 - Office アプリを開き、**[ファイル] > [アカウント] > [更新オプション] > [今すぐ更新]** の順に移動して、影響を受けているマシンの Office を更新します。 詳細な手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 

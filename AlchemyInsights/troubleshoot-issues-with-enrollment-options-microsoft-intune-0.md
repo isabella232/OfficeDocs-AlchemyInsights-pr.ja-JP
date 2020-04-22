@@ -3,7 +3,7 @@ title: Microsoft Intune の登録オプションに関する問題のトラブ�
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506736"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735197"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune の登録オプションに関する問題のトラブルシューティング
 
