@@ -3,7 +3,7 @@ title: 1050 スパム対策 4.7.500 サーバーがビジー状態です。[XXX.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: e1f6d7d6db0b229c116de79ae66bac48ef81bac8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707952"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="34604-103">4.7.500 サーバーがビジー状態です。後でもう一度やり直してください</span><span class="sxs-lookup"><span data-stu-id="34604-103">4.7.500 Server busy, please try again later</span></span>
+# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="d51c3-103">4.7.500 サーバーがビジー状態です。後でもう一度やり直してください</span><span class="sxs-lookup"><span data-stu-id="d51c3-103">4.7.500 Server busy, please try again later</span></span>
 
-<span data-ttu-id="34604-104">このエラーは、ソース IP アドレスからのメール トラフィック量が、ソース IP アドレスの評価に基づいて制限を超える場合 (または評価が不十分な場合) に発生します。</span><span class="sxs-lookup"><span data-stu-id="34604-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="d51c3-104">このエラーは、ソース IP アドレスからのメール トラフィック量が、ソース IP アドレスの評価に基づいて制限を超える場合 (または評価が不十分な場合) に発生します。</span><span class="sxs-lookup"><span data-stu-id="d51c3-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="34604-p102">ソース IP アドレスからのメールのブロックは、1 時間以内に期限が切れます。ソース IP アドレスがお客様のオンプレミスのメール サーバーの場合、メール フロー コネクタの構成を確認してください。この動作が 1 時間以上継続する場合は、サポートに連絡してソース IP アドレスの例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="34604-p102">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="d51c3-p102">ソース IP アドレスからのメールのブロックは、1 時間以内に期限が切れます。ソース IP アドレスがお客様のオンプレミスのメール サーバーの場合、メール フロー コネクタの構成を確認してください。この動作が 1 時間以上継続する場合は、サポートに連絡してソース IP アドレスの例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="d51c3-p102">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>

@@ -3,7 +3,7 @@ title: SharePoint や OneDrive からファイルをダウンロードできな�
 ms.author: pebaum
 author: pebaum
 manager: matteva
-ms.date: 08/06/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 07056849ba8926c5bd34709990b65057a62e5602
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 46309de245df34a90c9cb0bcee6df2a8c6527c3f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666904"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="4f36c-102">SharePoint や OneDrive からファイルをダウンロードできないようにする</span><span class="sxs-lookup"><span data-stu-id="4f36c-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="2ea47-102">SharePoint や OneDrive からファイルをダウンロードできないようにする</span><span class="sxs-lookup"><span data-stu-id="2ea47-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="4f36c-103">ダウンロードされるのを防ぐために使用できるさまざまな方法があります。</span><span class="sxs-lookup"><span data-stu-id="4f36c-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="4f36c-104">各方法に関しては、以下のリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="4f36c-104">Please visit the links below for the respective methods:</span></span>
+<span data-ttu-id="2ea47-103">ダウンロードされるのを防ぐために使用できるさまざまな方法があります。</span><span class="sxs-lookup"><span data-stu-id="2ea47-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="2ea47-104">各方法に関しては、以下のリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="2ea47-104">Please visit the links below for the respective methods:</span></span>
 
-- [<span data-ttu-id="4f36c-105">Azure AD の条件付きアクセスでファイルのダウンロードをブロックする</span><span class="sxs-lookup"><span data-stu-id="4f36c-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="2ea47-105">Azure AD の条件付きアクセスでファイルのダウンロードをブロックする</span><span class="sxs-lookup"><span data-stu-id="2ea47-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [<span data-ttu-id="4f36c-106">非管理対象デバイスからのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="4f36c-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="2ea47-106">非管理対象デバイスからのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="2ea47-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [<span data-ttu-id="4f36c-107">コンテンツのダウンロードを制限するために SharePoint ドキュメント ライブラリの IRM ポリシーを設定する</span><span class="sxs-lookup"><span data-stu-id="4f36c-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [<span data-ttu-id="2ea47-107">コンテンツのダウンロードを制限するために SharePoint ドキュメント ライブラリの IRM ポリシーを設定する</span><span class="sxs-lookup"><span data-stu-id="2ea47-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
