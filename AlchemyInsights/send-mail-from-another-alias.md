@@ -13,16 +13,16 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 06d3811fcc4e07802a31a0946b86951cefefb25d
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551528"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43646721"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>エイリアスまたはセカンダリ アドレスからメールを送信する
 
-Office 365 では現在、エイリアスまたはセカンダリ メール アドレスからのメール送信はサポートされていません。メール エイリアスはメールの受信にのみ使用できます。他のメール アドレスからメールを送信する場合は、共有メールボックスを作成する必要があります。共有メールボックスにより、追加のライセンスを取得せずに別のメール アドレスを入手することができます。
+現在、Microsoft 365 は、エイリアスまたは第2メールアドレスからの電子メールの送信をサポートしていません。メールエイリアスは、電子メールの受信のみに使用できます。別の電子メールアドレスからメールを送信する場合は、共有メールボックスを作成する必要があります。共有メールボックスでは、別のライセンスを必要とせずに、別のメールアドレスが提供されます。
   
 - [ここから共有メールボックスを作成できます](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 

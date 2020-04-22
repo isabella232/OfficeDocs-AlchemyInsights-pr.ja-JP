@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2db0a9442b9fdf1752b654f7c188e641e0a274cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: f52f09ba9688bfc6dc932427fe950c0fc17a6f95
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053806"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642077"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint または OneDrive において、処理が遅い、アクセスできない、または複数のユーザーで使用できない
 
@@ -21,7 +21,7 @@ ms.locfileid: "40053806"
 
 **ユーザーの追加とライセンス認証**
 
-[一般法人向け Office 365 のユーザーにライセンスが割り当てられている](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ことを確認してください。
+[Microsoft 365 for business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ようにしてください。
 
 
 **アクセス許可の割り当て**

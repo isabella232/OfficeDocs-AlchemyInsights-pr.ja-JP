@@ -12,16 +12,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: bb50c64a02c99ebfbda07bd58cb6329356ab24fe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: c144f1fa8de7c83fb561a5d93964cddede937f32
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542776"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641861"
 ---
 # <a name="outlookcom-account-hacked"></a>Outlook.com のアカウントがハッキングされた
 
 アカウントがハッキングされた場合、「[Outlook.com アカウントがハッキングされた](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)」の指示に従ってアカウントを回復します。
   
-詳細については、「[Office 365 サブスクライバー用の Outlook.com の高度なセキュリティ](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
+[Microsoft 365 サブスクライバーの詳細な Outlook.com セキュリティの](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)詳細について説明します。
   

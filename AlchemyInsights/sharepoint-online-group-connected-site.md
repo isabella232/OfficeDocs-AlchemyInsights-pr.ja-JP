@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
-ms.translationtype: HT
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770356"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642149"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint でグループ接続されたサイトを作成する際の問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "41770356"
    - PowerShell の使用を開始する方法の詳細については、「[SharePoint Online 管理シェルの使用を開始する](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)」を参照してください。
    - [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell コマンドレットを使用して、削除されたサイトからサイトを削除します。 グループ サイトを完全に削除するには、PowerShell が必要です。
 
-1. グループ接続されたサイトを作成する際に、**同じエイリアスのグループが既に存在しています**という警告が表示される場合、[Office 365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/groups)で既存のグループを確認します。 この問題を解決するには、不要になった既存のグループを削除するか、異なるエイリアスを割り当ててサイトを作成します。
+1. グループに接続されたサイトを作成していて、警告が表示される場合は、**同じエイリアスを持つ別のグループが既に存在**する場合は、 [Microsoft 365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/groups)から既存のグループを確認します。 この問題を解決するには、不要になった既存のグループを削除するか、異なるエイリアスを割り当ててサイトを作成します。
 
 1. SharePoint でモダン グループを作成および使用するには、さまざまな方法があります。
 
