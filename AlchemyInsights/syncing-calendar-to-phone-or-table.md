@@ -3,22 +3,22 @@ title: 1600036 予定表をスマートフォンまたはタブレットに同�
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 6eecf530488bfaf6d7479948a99a51a15629c6b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c5592607bbe2bae3e410a81d9b170d855a6dc7f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43740017"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a><span data-ttu-id="36931-102">Outlook カレンダーとデバイスの同期に関する問題</span><span class="sxs-lookup"><span data-stu-id="36931-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a><span data-ttu-id="1d957-102">Outlook カレンダーとデバイスの同期に関する問題</span><span class="sxs-lookup"><span data-stu-id="1d957-102">Issues synchronizing your Outlook calendar to devices</span></span>
 
-<span data-ttu-id="36931-103">予定表とデバイスを同期できない問題を解決するには、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="36931-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
+<span data-ttu-id="1d957-103">予定表とデバイスを同期できない問題を解決するには、「[予定表や連絡先を携帯電話またはタブレットと同期できない](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1d957-103">To troubleshoot issues synchronizing you calendar to devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).</span></span>
   
 
