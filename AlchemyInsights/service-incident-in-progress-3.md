@@ -2,7 +2,7 @@
 title: サービス インシデントの処理中
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: 5b4291339b52cc2cf0325cd115051ef79deecac5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 535b0b35548044e950c3b29e6479bff50882b227
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719772"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="249c8-102">サービス インシデントの処理中</span><span class="sxs-lookup"><span data-stu-id="249c8-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="58647-102">サービス インシデントの処理中</span><span class="sxs-lookup"><span data-stu-id="58647-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="249c8-p101">現在調査中のサービス インシデントまたはアドバイザリによる影響を受ける可能性があります。最新の状況は、[[サービス正常性]](https://admin.microsoft.com/adminportal/home#/servicehealth) ページで確認できます。</span><span class="sxs-lookup"><span data-stu-id="249c8-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="58647-p101">現在調査中のサービス インシデントまたはアドバイザリによる影響を受ける可能性があります。最新の状況は、[[サービス正常性]](https://admin.microsoft.com/adminportal/home#/servicehealth) ページで確認できます。</span><span class="sxs-lookup"><span data-stu-id="58647-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="249c8-105">参考として、このインシデントの概要をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="249c8-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="58647-105">参考として、このインシデントの概要をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="58647-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="249c8-106">**インシデント番号:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="249c8-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="58647-106">**インシデント番号:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="58647-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="249c8-107">影響の説明: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="249c8-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="58647-107">影響の説明: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="58647-107">Impact description: {ImpactDescription}</span></span>

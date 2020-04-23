@@ -3,7 +3,7 @@ title: 監査ログで受信トレイのルール アクティビティを特定
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539177"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716429"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a><span data-ttu-id="7e7fb-102">監査ログで受信トレイのルール アクティビティを特定する</span><span class="sxs-lookup"><span data-stu-id="7e7fb-102">Identify inbox rule activity in audit logs</span></span>
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a><span data-ttu-id="6f909-102">監査ログで受信トレイのルール アクティビティを特定する</span><span class="sxs-lookup"><span data-stu-id="6f909-102">Identify inbox rule activity in audit logs</span></span>
 
-<span data-ttu-id="7e7fb-103">Office 365 セキュリティ/コンプライアンス センターで、監査ログの検索を使用して、受信トレイのルールのイベント (受信トレイのルールの作成、変更、および削除) を表示することができます。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-103">You can use audit log search in the Office 365 Security & Compliance Center to view inbox rule events (creating, modifying, and deleting inbox rules).</span></span>
+<span data-ttu-id="6f909-103">Microsoft 365 セキュリティ & コンプライアンスセンターで監査ログの検索を使用して、受信トレイルールイベント (受信トレイルールの作成、変更、および削除) を表示することができます。</span><span class="sxs-lookup"><span data-stu-id="6f909-103">You can use audit log search in the Microsoft 365 Security & Compliance Center to view inbox rule events (creating, modifying, and deleting inbox rules).</span></span>
 
-1. <span data-ttu-id="7e7fb-104">[Office 365 セキュリティ/コンプライアンス センター](https://protection.office.com/) にログインします。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-104">[Search the audit log in the Office 365 Security & Compliance Center](https://protection.office.com/)</span></span>
+1. <span data-ttu-id="6f909-104">[Microsoft 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインします。</span><span class="sxs-lookup"><span data-stu-id="6f909-104">Log in to the [Microsoft 365 Security & Compliance Center](https://protection.office.com/).</span></span>
 
-2. <span data-ttu-id="7e7fb-105">**[検索]** > **[監査ログの検索]** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-105">Go to the **Search** > **Audit log search** page.</span></span>
+2. <span data-ttu-id="6f909-105">**[検索]** > **[監査ログの検索]** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="6f909-105">Go to the **Search** > **Audit log search** page.</span></span>
 
-3. <span data-ttu-id="7e7fb-106">[**開始日**] と [**終了日**] フィールドで日付範囲を選択します。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-106">Select a date range using the **Start date** and **End date** fields.</span></span>
+3. <span data-ttu-id="6f909-106">[**開始日**] と [**終了日**] フィールドで日付範囲を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f909-106">Select the date range in the **Start date** and **End date** fields.</span></span>
 
-4. <span data-ttu-id="7e7fb-107">[**Exchange メールボックスのアクティビティ**] の下で、[**アクティビティ**] フィールドが [**New-InboxRule 受信トレイのルールの作成/変更/有効化/無効化**] に設定されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-107">Under **Exchange Mailbox Activities**, verify the **Activities** field is set to **New-InboxRule Create/modify/enable/disable inbox rule**.</span></span>
+4. <span data-ttu-id="6f909-107">[**Exchange メールボックスのアクティビティ**] の下で、[**アクティビティ**] フィールドが [**New-InboxRule 受信トレイのルールの作成/変更/有効化/無効化**] に設定されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6f909-107">Under **Exchange Mailbox Activities**, verify the **Activities** field is set to **New-InboxRule Create/modify/enable/disable inbox rule**.</span></span>
 
-5. <span data-ttu-id="7e7fb-108">[**検索**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-108">Click **Search**.</span></span>
+5. <span data-ttu-id="6f909-108">[**検索**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6f909-108">Click **Search**.</span></span>
 
-<span data-ttu-id="7e7fb-109">結果から、[監査レコード] を選択します。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-109">In the results, select an audit record.</span></span> <span data-ttu-id="7e7fb-110">詳細ポップアップから、 [**詳細情報**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-110">In the details flyout, click **More Information**.</span></span> <span data-ttu-id="7e7fb-111">受信トレイのルール設定に関する情報は、[**パラメーター**] フィールドに表示されます。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-111">Information about the inbox rule settings is displayed in the **Parameters** field.</span></span>
+<span data-ttu-id="6f909-109">結果から、[監査レコード] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f909-109">In the results, select an audit record.</span></span> <span data-ttu-id="6f909-110">詳細ポップアップから、 [**詳細情報**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6f909-110">In the details flyout, click **More Information**.</span></span> <span data-ttu-id="6f909-111">受信トレイのルール設定に関する情報は、[**パラメーター**] フィールドに表示されます。</span><span class="sxs-lookup"><span data-stu-id="6f909-111">Information about the inbox rule settings is displayed in the **Parameters** field.</span></span>
 
-<span data-ttu-id="7e7fb-112">詳細については、「[ユーザーが受信トレイ ルールを作成したかどうかを判別する](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e7fb-112">For more information, see [Determining if a user created an inbox rule](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)</span></span>
+<span data-ttu-id="6f909-112">詳細については、「[ユーザーが受信トレイ ルールを作成したかどうかを判別する](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6f909-112">For more information, see [Determining if a user created an inbox rule](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)</span></span>

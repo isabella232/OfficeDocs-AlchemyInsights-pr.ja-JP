@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: HT
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705558"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="d1d8a-102">ユーザー メールボックスを共有メールボックスに変換する</span><span class="sxs-lookup"><span data-stu-id="d1d8a-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="42879-102">ユーザー メールボックスを共有メールボックスに変換する</span><span class="sxs-lookup"><span data-stu-id="42879-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="d1d8a-p101">個々のユーザーの Office 365 メールボックスを共有メールボックスに変換すると、すべての既存のメールと予定表アイテムは複数のユーザーがアクセスできる共有メールボックスに保持されます。共有メールボックスをユーザー (プライベート) メールボックスに変換することもできます。</span><span class="sxs-lookup"><span data-stu-id="d1d8a-p101">When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained. Only now it's in a shared mailbox where several people will be able to access it instead of one person. At a later date, you can convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="42879-p101">個々のユーザーのメールボックスを共有メールボックスに変換する場合、既存のすべての電子メールアイテムと予定表アイテムは、複数のユーザーがアクセスできる共有メールボックスに保持されます。また、共有メールボックスをユーザー (プライベート) メールボックスに変換し直すこともできます。</span><span class="sxs-lookup"><span data-stu-id="42879-p101">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access. You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="d1d8a-105">詳細については、「[ユーザー メールボックスを共有メールボックスに変換する](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d1d8a-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="42879-105">詳細については、「[ユーザー メールボックスを共有メールボックスに変換する](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="42879-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   
