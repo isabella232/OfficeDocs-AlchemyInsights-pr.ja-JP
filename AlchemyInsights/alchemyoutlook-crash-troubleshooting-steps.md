@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: HT
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708360"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook のクラッシュをトラブルシューティングする手順
 
-Outlook デスクトップがクラッシュする問題が発生する場合は、まず、次の 3 つの手順を実行します。すべての手順の詳細が、「[Office 365 で使用した時に Outlook がクラッシュまたは応答を停止する問題のトラブルシューティング方法](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)」に記載されています。
+Outlook デスクトップのクラッシュの問題が発生している場合は、次の3つの手順に従って開始します。この記事では、 [outlook がクラッシュまたは応答を停止する問題のトラブルシューティング方法につい](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)て説明します。
   
 手順 1: アドインに関する潜在的な問題を調査します。
   
