@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
-ms.translationtype: HT
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739642"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722381"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Office 365 で多要素認証を構成する
+# <a name="configure-multi-factor-authentication"></a>多要素認証を構成する
 
-MFA を構成するには、「[Office 365 ユーザー用の多要素認証を設定する](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)」を参照してください。
+MFA を構成するには、「[多要素認証をセットアップ](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)する」を参照してください。
 
-MFA を有効にして構成するには、Office 365 の全体管理者である必要があります。
+MFA を有効にして構成するには、グローバル管理者である必要があることに注意してください。

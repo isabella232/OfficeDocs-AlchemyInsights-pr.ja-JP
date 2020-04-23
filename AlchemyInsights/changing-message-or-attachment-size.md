@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: HT
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706398"
 ---
 # <a name="changing-message-or-attachment-size"></a>メッセージまたは添付ファイルのサイズを変更する
 
-Office 365 管理者は、ユーザーが送信するメッセージ (添付ファイルを含む) の最大サイズや最小サイズを変更できます。これは、個別のユーザーまたはすべてのユーザーに対して実施できます。この設定を変更してから反映されるまでに約 30 分かかります。
+Microsoft 365 管理者は、ユーザーが送信するメッセージ (添付ファイルを含む) の最大/最小サイズを変更できます。これは、個々のユーザーまたはすべてのユーザーに対して行うことができます (組織の既定値)。この設定を変更した後は、画面が表示されるまでに約30分かかります。
   
 - 特定のユーザーのメッセージ サイズを変更するには、[**管理センター**]\>[**Exchange**]\>[**受信者**]\>[**メールボックス**] に移動します。ユーザーのメールボックスを選択します。編集アイコン、[**メールボックスの機能**] を選択し、[**メッセージのサイズ制限**] にある [**詳細の表示**] を選択して、新しい最大メッセージ サイズを指定します。
 

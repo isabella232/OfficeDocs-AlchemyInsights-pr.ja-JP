@@ -10,18 +10,18 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706904"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>SharePoint Online でドメイン名を変更する
 
-残念ながら、Office 365 で組織の SharePoint Online ドメイン名を変更することはできません。たとえば、組織の名前が Contoso から Fourth Coffee に変更された場合、contoso.sharepoint.com から fourthcoffee.sharepoint.com に変更することはできません。
+残念ながら、組織の SharePoint Online ドメイン名を変更することはできません。たとえば、組織の名前が "Contoso" から "4 番目のコーヒー" に変更された場合、contoso.sharepoint.com を fourthcoffee.sharepoint.com に変更することはできません。
   
-ドメイン名 fourthcoffee.sharepoint.com を使用するには、新しい Office 365 サブスクリプションを購入し、保持するすべてのメール、ファイル、およびその他のデータを新しいサブスクリプションに移動する必要があります。
+ドメイン名 fourthcoffee.sharepoint.com を使用するには、新しいサブスクリプションを購入し、新しいサブスクリプションに保持する必要があるすべての電子メール、ファイル、およびその他のデータを移動する必要があります。
   
  **注**: https://contoso.sharepoint.com/sites/sample1 から https://contoso.sharepoint.com/sites/sample2 のサイト名を変更するには、[この記事](https://docs.microsoft.com/sharepoint/change-site-address)の手順に従います。 
   

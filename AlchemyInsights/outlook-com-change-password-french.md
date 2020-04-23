@@ -3,7 +3,7 @@ title: Outlook.com パスワードを変更する - フランス語
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537424"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721959"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de passe dans Outlook.com
 

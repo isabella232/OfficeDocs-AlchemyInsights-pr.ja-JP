@@ -3,7 +3,7 @@ title: 1245-インポート-PST-サービス
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687767"
 ---
-# <a name="office-365-import-service"></a>Office 365 インポート サービス
+# <a name="microsoft-365-import-service"></a>Microsoft 365 インポートサービス
 
-Office 365 インポート サービスでは、Exchange Online のメールボックスに複数の PST ファイルを一括インポートすることができます。
+Microsoft 365 インポートサービスを使用すると、複数の PST ファイルを Exchange Online メールボックスに一括インポートすることができます。
 
 インポート サービスにアクセスして、インポート プロセスを開始するには、次の操作を実行します。
 
-1. [セキュリティ/コンプライアンス センター](https://protection.office.com)にアクセスし、Office 365 組織の管理者アカウントの資格情報を使用してサインインします。
+1. [[セキュリティ & コンプライアンスセンター](https://protection.office.com) ] に移動し、組織内の管理者アカウントの資格情報を使用してサインインします。
 
 2. **セキュリティ/コンプライアンス センター**の左のウィンドウで、**[データ ガバナンス] > [インポート]** の順にクリックします。
 

@@ -3,18 +3,18 @@ title: Outlook デスクトップでメール メッセージを取り消す、�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: HT
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687515"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Outlook メール メッセージを取り消す、または置き換える
 
@@ -37,4 +37,4 @@ ms.locfileid: "36496116"
 - [コンテンツ検索を作成し、](https://docs.microsoft.com/office365/securitycompliance/content-search) 削除するメッセージを見つけます。
 - [セキュリティ/コンプライアンス センターのPowerShellに接続します](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。
 
-多要素認証を使用している場合、以下を参照してください [多要素認証を使用してOffice 365のセキュリティ/コンプライアンス センターのPowerShellに接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)。
+多要素認証を使用している場合は、「 [Connect To Microsoft 365 security And コンプライアンスセンター PowerShell (多要素認証を使用](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps))」を参照してください。

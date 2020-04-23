@@ -12,18 +12,18 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: HT
+ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664159"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720701"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook で表示されないメッセージ、連絡先、予定表のアイテムを検索して復元する方法
 
 - 影響を受けたコンピューターで[メール メッセージの送信、受信、検索で問題が発生しているツール](https://aka.ms/SaRA-OutlookSendReceive)を使用できます。このツールは、さまざまな問題を確認し、考えられる解決策を提案します。
 
-- [アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」の手順を実行します。
+- [アカウントが侵害されているかどうかを判断](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)します。侵害された場合は、「[侵害された電子メールアカウントに応答する](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」の手順に従います。
 
 - [クイック検索を使ってメッセージまたはアイテムを検索する](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 

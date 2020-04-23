@@ -3,7 +3,7 @@ title: Outlook.com で移動または削除を元に戻す
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: 2aef6716b62aeffe8243a6ee0e56c63f61a723f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 30288247b1f00e1347744357bb97faced2a2ff31
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719427"
 ---
 # <a name="action-confirmations"></a>操作の確認
 

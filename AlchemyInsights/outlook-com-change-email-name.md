@@ -3,7 +3,7 @@ title: Outlook.com で電子メール名を変更する
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537462"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712895"
 ---
 # <a name="change-your-email-name"></a>電子メール名を変更する
 

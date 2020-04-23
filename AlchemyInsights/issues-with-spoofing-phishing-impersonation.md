@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
-ms.translationtype: HT
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713975"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>スプーフィング、フィッシング、なりすましに関する問題。
 
-Office 365 では、次の被害に遭わないようにお客様を保護します。
+Microsoft が次のものから保護する方法について説明します。
 
 - 「[スプーフィング](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)」
 
@@ -28,10 +28,10 @@ Office 365 では、次の被害に遭わないようにお客様を保護しま
 
 - 独自のドメインから送信されたように見えるスプーフィングされた送信元に対しては、[SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) と [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) を役立てます。
 
-- 独自のドメインの送信者が、メール フロー ルール (トランスポート ルールとも呼ばれます) または許可リストのエントリを使用して、スパム対策フィルターを迂回できるように構成されていないことを確認します。 詳細については、「[Office 365 スパム フィルターの迂回に対する注意](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)」を参照してください。
+- 独自のドメインの送信者が、メール フロー ルール (トランスポート ルールとも呼ばれます) または許可リストのエントリを使用して、スパム対策フィルターを迂回できるように構成されていないことを確認します。 詳細については、「 [Microsoft スパムフィルターをバイパス](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)するための注意事項」を参照してください。
 
 - ユーザーによって、フィッシング攻撃を許可するような[信頼できる差出人のリスト](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE)のエントリが構成されていないかを確認します。
 
-- [迷惑メール] フォルダーではなく検疫に、信頼性の高いスパムおよびフィッシング詐欺のメッセージを配信することを検討してください。 詳細については、「[Office 365 でのメール メッセージの検疫](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages)」を参照してください。
+- [迷惑メール] フォルダーではなく検疫に、信頼性の高いスパムおよびフィッシング詐欺のメッセージを配信することを検討してください。 詳細については、「[検疫メールメッセージ](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages)」を参照してください。
 
 **[Microsoft にメッセージを報告する](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)ことは、フィルターがどのように機能しているかを知る最良の方法です。**

@@ -3,7 +3,7 @@ title: 1221-インポート-エクスポート-Outlook-メール-連絡先-予�
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724669"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook のメール、連絡先、予定表のアイテムをインポートおよびエクスポートする
 
@@ -30,4 +30,4 @@ ms.locfileid: "36545174"
 
 Outlook のインポートおよびエクスポートの手順すべての一覧については、[こちらの記事](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)を参照してください。
 
-管理者として、複数の PST ファイルを Office 365 メールボックスに一括インポートする場合は、[こちらの記事](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)を参照してください。
+管理者が複数の PST ファイルを Microsoft 365 メールボックスに一括インポートする場合は、[この記事](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)を参照してください。

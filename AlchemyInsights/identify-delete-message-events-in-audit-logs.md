@@ -3,7 +3,7 @@ title: 監査ログのメッセージ イベントの削除を特定する
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539214"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716501"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>削除されたメール メッセージの監査ログ
 
 2019 年 1 月から、Microsoft では、標準でメールボックス監査が有効になっています。 それ以外の場合、特定のユーザーのメッセージの削除を確認するためには、監査の削除操作を手動で有効にする必要があります。 組織または特定のユーザーのメールボックス監査ログが既に有効になっている場合は、次の手順を実行します。
 
-1. [Office 365  セキュリティ/コンプライアンス センター](https://protection.office.com/)にログインする
+1. [Microsoft 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインする
 
 2. [**検索と調査**] と [**監査ログ検索**]をクリックする。
 

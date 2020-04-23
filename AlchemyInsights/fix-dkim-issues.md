@@ -3,19 +3,19 @@ title: DKIM セットアップに関する問題の解決方法
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 4d6dadbcbf71fe6e9ea56d6a82a7d8ababdd38ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
-ms.translationtype: HT
+ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "35085877"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717567"
 ---
 # <a name="fix-dkim-setup-issues"></a>DKIM セットアップに関する問題の解決方法
 

@@ -3,7 +3,7 @@ title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
-ms.translationtype: HT
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720737"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>メールボックスを訴訟ホールドの状態にする
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398632"
 
 - 1 人のユーザーに対して訴訟ホールドを有効にする場合は、[この手順を実行してください](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)。訴訟ホールドが有効になると、メールボックス内のすべてのコンテンツが保持されます。
 
-- 組織ですべてのメールボックスのコンテンツを保持する場合は、[組織全体の Office 365 のアイテム保持ポリシー](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)を使用します。組織全体のアイテム保持ポリシーの場合は、そのポリシーが新しいユーザーに自動的に割り当てられる点に注意してください。
+- 組織内のすべてのメールボックスのコンテンツを保持するには、[組織全体のアイテム保持ポリシー](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)を使用できます。組織全体のアイテム保持ポリシーについては、新しいユーザーが自動的にポリシーに割り当てられることに注意してください。

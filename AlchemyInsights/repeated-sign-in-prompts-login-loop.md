@@ -14,11 +14,11 @@ ms.custom:
 - "9000725"
 - "2656"
 ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43656224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722743"
 ---
 # <a name="repeated-sign-in-prompts-in-office-apps"></a>Office アプリでサインイン プロンプトが繰り返し表示される
 

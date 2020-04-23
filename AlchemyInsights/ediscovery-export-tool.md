@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: HT
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769308"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714775"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>電子情報開示のエクスポート ツールをインストールまたは実行できません。
 
-検索結果をダウンロードするために Office 365 の電子情報開示のエクスポート ツールをインストールしたり、実行することができない場合は、次のことを確認してください。
+検索結果をダウンロードするために電子情報開示エクスポートツールをインストールまたは実行できない場合は、次の点を確認してください。
   
 - 使用するコンピューターは、次の前提条件を満たしている必要があります:
 
@@ -43,7 +43,7 @@ ms.locfileid: "37769308"
 
 - 組織が Azure のエンドポイント (**\*.blob.core.windows.net**) に接続できます (ワイルドカードはエクスポート ジョブの一意の識別子を表します)。
 
-- Office 365 のセキュリティ/コンプライアンス センターで、ユーザーにエクスポートの役割が割り当てられています。既定では、この役割は電子情報開示管理者の役割グループにのみ割り当てられています。「[電子情報開示のアクセス許可を割り当てる](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)」を参照してください。
+- Microsoft 365 セキュリティ&amp;コンプライアンスセンターで、エクスポートの役割が割り当てられていること。既定では、この役割は電子情報開示マネージャーの役割グループにのみ割り当てられます。「[電子情報開示のアクセス許可を割り当てる](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)」をご覧ください。
 
 詳細については、「[コンテンツ検索の結果をエクスポートする](https://docs.microsoft.com/office365/securitycompliance/export-search-results)」を参照してください。
   

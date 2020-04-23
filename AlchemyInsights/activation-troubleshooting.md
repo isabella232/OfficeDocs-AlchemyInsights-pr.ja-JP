@@ -2,7 +2,7 @@
 title: ライセンス認証のトラブルシューティング
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495576"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676430"
 ---
 # <a name="activation-troubleshooting"></a>ライセンス認証のトラブルシューティング
 
-**コントロール パネル**の [**プログラムと機能**] で、Office を検索します。Microsoft Office 365 ProPlus または Microsoft Office 365 Business が表示されます。複数のバージョンの Office の一覧が表示されている場合は、使用していないバージョンをアンインストールします。
+**コントロールパネル** \>の **[プログラムと機能**] で、[Office] を検索します。「Microsoft 365 Apps for enterprise」または「Microsoft 365 Apps for business」を参照してください。複数のバージョンの Office が表示されている場合は、使用していないバージョンをアンインストールします。
   
 コントロール パネルを使用して正常にアンインストールできない場合は、[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)を使用して、使用していないバージョンをアンインストールします。
   

@@ -3,19 +3,19 @@ title: Alchemy Insights ホーム
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 3f89d9ef2d6961db7bd2bc9bf68f6a59eb6da5f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
-ms.translationtype: HT
+ms.openlocfilehash: 28f2ed5c76a0906c9512197a041366d46e864050
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412540"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711132"
 ---
 # <a name="alchemy-insights"></a>Alchemy 分析情報
 

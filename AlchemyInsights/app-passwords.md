@@ -3,7 +3,7 @@ title: 500 アプリ パスワード
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707844"
 ---
 # <a name="app-passwords"></a>アプリ パスワード
 
-アプリ パスワードは、Office 365 の職場または学校アカウントにアクセスするためのアクセス許可をアプリまたはデバイスに付与するコードです。アカウントに多要素認証 (MFA) が必要で、アプリからアカウントに接続する場合は、アプリが Office 365 に接続できるように、アプリ パスワードを生成する必要があります。たとえば、Outlook 2016 以前のバージョンの Outlook にはアプリ パスワードが必要です。
+アプリパスワードは、Microsoft 職場または学校アカウントにアクセスするためのアプリまたはデバイスのアクセス許可を付与するコードです。アカウントに多要素認証 (MFA) が必要で、アプリが自分のアカウントに接続する場合は、アプリが Microsoft に接続できるように、アプリパスワードを生成する必要があります。たとえば、outlook 2016 および以前のバージョンの Outlook では、アプリパスワードが必要です。
 
- **メモ**: 次の手順を試す前に、アカウントに MFA が必要な Office 365 管理を使用して確認します。MFA が必要ない場合は、手順に記載されているオプションが使用できません。
+ **注**: 以下の手順を実行する前に、お使いのアカウントで MFA が必要であることを Microsoft 365 管理者に確認してください。そうでない場合は、手順で説明されているオプションは使用できません。
 
-1. 職場または学校アカウントとパスワードを使用して、Office 365 にサインインします。
+1. 職場または学校のアカウントとパスワードを使用してサインインします。
 
 2. **[今すぐセットアップ]** を選択します。
 

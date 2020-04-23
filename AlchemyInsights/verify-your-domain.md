@@ -3,7 +3,7 @@ title: ドメインの検証
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710448"
 ---
 # <a name="verify-your-domain"></a>ドメインの検証
 
@@ -29,4 +29,4 @@ ms.locfileid: "36531364"
   
 - 既にその時間は待っている場合、DNS ホストで正確な値をコピーし、TXT 検証レコードに貼り付けたことを二重に確認してください。よくある原因の 1 つとして、レコードの「MS=」部分が含められていないことがあります。この部分も含める必要があります。
 
-- DNS ホストによっては、インターネット全体で更新されるようにゾーン ファイル (DNS レコードが保存されているファイル) を保存するという作業も必要になります。Office 365 がレコードを表示し、確認できるように、変更内容は必ず保存してください。
+- DNS ホストによっては、インターネット上で更新されるように、ゾーンファイル (DNS レコードが保存されている場所) を保存するために、さらに手順を実行する必要があります。変更が保存されていることを確認し、Microsoft がレコードを表示および確認できるようにします。

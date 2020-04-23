@@ -3,7 +3,7 @@ title: 123 OWA で "アカウントが無効です" というエラーが表示�
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708872"
 ---
 # <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Outlook on the web で "アカウントが無効です" というエラーが表示される場合
 

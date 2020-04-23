@@ -12,14 +12,14 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: HT
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664721"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712176"
 ---
-# <a name="buy-additional-office-365-licenses"></a>追加の Office 365 ライセンスを購入する
+# <a name="buy-additional-licenses"></a>追加のライセンスを購入する
 
 1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
@@ -32,8 +32,8 @@ ms.locfileid: "36664721"
     > [!NOTE]
     > サブスクリプションの支払いにクレジット カードまたは銀行口座を使用している場合、購入した新しいライセンスは注文確認の受け取り直後に使用可能になります。請求書支払いの場合は、与信審査を待機する必要があり、その後で新しいライセンスが使用可能になります。
 
-詳細については、「[一般法人向け Office 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)」を参照してください。  
+詳細については、「 [Microsoft 365 for business サブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。  
 
 **追加リソース**
 
-- [Office 365 for Business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Microsoft 365 for Business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

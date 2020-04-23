@@ -2,18 +2,18 @@
 title: 匿名の共有
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050386"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708060"
 ---
 # <a name="anonymous-sharing"></a>匿名の共有
 
@@ -31,6 +31,6 @@ ms.locfileid: "40050386"
     
 - このリンクを有効にする対象ユーザーには、**[全員]** をクリックします。
   
- **注**: **[全員]** 任意のユーザーがドキュメントやフォルダーへのアクセスに使用できるリンクが生成されます。このリンクは、Office 365 または OneDrive にログインしていないユーザーも使用できます。このリンクは社内または社外の誰とでもファイルを共有する際に使用します。また、このリンクは任意のユーザーに転送することもできます。 
+ **注**: Microsoft 365 または OneDrive にログインしていない場合でも、すべてのユーザーがドキュメントまたはフォルダーへのアクセスに使用できるリンクを作成**します。** これを使用して、会社内外のすべてのユーザーと共有します。このリンクは、すべてのユーザーに転送することもできます。 
     
 

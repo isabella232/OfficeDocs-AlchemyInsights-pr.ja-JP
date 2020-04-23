@@ -11,16 +11,16 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: d201ed7a14eb5132af73ed89da0ad6d47d1940ec
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
-ms.translationtype: HT
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
-ms.locfileid: "36818395"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715365"
 ---
 # <a name="creating-public-folders"></a>パブリック フォルダーの作成
 
-Office 365 でパブリック フォルダーを使用するには、事前にパブリック フォルダー メールボックスを少なくとも 1 つ作成しておく必要があります。作成するには、次の手順を実行します。
+ユーザーがパブリックフォルダーを使用できるようにするには、少なくとも1つのパブリックフォルダーメールボックスを作成する必要があります。以下を作成します。
   
 1. Microsoft 365 管理センターから **[管理者]** \> **[Exchange]** の順に移動します。
 

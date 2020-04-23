@@ -3,7 +3,7 @@ title: SharePoint と OneDrive へのアクセス権をユーザーに付与す�
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 11/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: eead51d6d16206de19bca213d6df72dbb6b66c8b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051934"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721785"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>SharePoint と OneDrive へのアクセス権をユーザーに付与する
 

@@ -3,7 +3,7 @@ title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
-ms.translationtype: HT
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "35174412"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714483"
 ---
 # <a name="ediscovery-issues"></a>電子情報開示の問題
 
@@ -30,7 +30,7 @@ ms.locfileid: "35174412"
 
 詳しくは、次のトピックを参照してください。
 
-- [Office 365 のコンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
 - [セキュリティ/コンプライアンス センターの電子情報開示ケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 

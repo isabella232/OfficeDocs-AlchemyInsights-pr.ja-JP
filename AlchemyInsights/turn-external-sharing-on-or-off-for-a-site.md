@@ -3,7 +3,7 @@ title: サイトの外部共有を有効または無効にする
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559162"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732001"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>SharePoint サイトの外部共有を有効または無効にする
 

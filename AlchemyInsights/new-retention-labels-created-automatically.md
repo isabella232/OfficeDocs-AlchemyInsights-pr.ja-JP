@@ -3,7 +3,7 @@ title: 自動作成される新しい保持ラベル
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054671"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713507"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自動作成される新しい保持ラベル
 
-組織内に自動作成される [3 つの新しい Office 365 保持ラベル](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)がセキュリティ/コンプライアンス管理センターの [**保持ラベル**] に表示されていることがあります。 ラベル名は次のとおりです。
+セキュリティ管理者またはコンプライアンス管理センターの [**保持ラベル**] で、組織内に自動的に作成される[3 つの新しい保持ラベル](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)が表示される場合があります。 ラベル名は次のとおりです。
 
 - 運用手順
 - 企業一般

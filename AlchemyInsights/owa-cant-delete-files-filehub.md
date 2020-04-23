@@ -3,7 +3,7 @@ title: Outlook on the web で [ファイル] からファイルや写真が削�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 7e6a6d0fd6493a27908d3885eb90570dce54f3bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 4d0930992f107121b79453bfc359e2cde5a87fa8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557470"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720329"
 ---
 # <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Outlook on the web で [ファイル] からファイルや写真が削除できない
 

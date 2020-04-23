@@ -3,7 +3,7 @@ title: Outlook.com でスパムと迷惑メールを処理する
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512074"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710736"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com でのスパムと迷惑メール
 

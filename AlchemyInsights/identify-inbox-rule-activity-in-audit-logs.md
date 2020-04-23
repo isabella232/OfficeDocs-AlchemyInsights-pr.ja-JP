@@ -3,7 +3,7 @@ title: 監査ログで受信トレイのルール アクティビティを特定
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539177"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716429"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>監査ログで受信トレイのルール アクティビティを特定する
 
-Office 365 セキュリティ/コンプライアンス センターで、監査ログの検索を使用して、受信トレイのルールのイベント (受信トレイのルールの作成、変更、および削除) を表示することができます。
+Microsoft 365 セキュリティ & コンプライアンスセンターで監査ログの検索を使用して、受信トレイルールイベント (受信トレイルールの作成、変更、および削除) を表示することができます。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://protection.office.com/) にログインします。
+1. [Microsoft 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインします。
 
 2. **[検索]** > **[監査ログの検索]** ページに移動します。
 

@@ -3,7 +3,7 @@ title: 929 トランスポート ルールを回避する受信トレイ ルー�
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724597"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>メール フロー ルール (トランスポート ルールとも呼ばれます)
 

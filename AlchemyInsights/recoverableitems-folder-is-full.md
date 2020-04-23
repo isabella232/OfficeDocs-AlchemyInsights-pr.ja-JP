@@ -3,7 +3,7 @@ title: 1336 [回復可能なアイテム] フォルダーに空きがない
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720257"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>[回復可能なアイテム] フォルダーに空きがない
 
-Office 365 の Exchange Online メールボックスの場合、[回復可能なアイテム] フォルダーの記憶域の既定の制限は 30 GB です。メールボックスが訴訟ホールドまたは電子情報開示の保留リストに配置されるか、Office 365 のアイテム保持ポリシーに割り当てられている場合、[回復可能なアイテム] フォルダーの記憶域の制限は自動的に 100 GB に増やされます。
+Exchange Online メールボックスの場合、回復可能なアイテムフォルダーの既定の格納域の制限は 30 GB です。メールボックスが訴訟ホールド、電子情報開示ホールド、またはアイテム保持ポリシーに割り当てられている場合、回復可能なアイテムフォルダーの格納域の制限が自動的に 100 GB に増加します。
 
 [回復可能なアイテム] フォルダーが記憶域の制限に達すると、メールボックスの機能は次のように影響を受けます。
 

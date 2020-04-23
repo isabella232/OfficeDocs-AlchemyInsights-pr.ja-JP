@@ -2,22 +2,22 @@
 title: Delve でユーザー プロファイルを管理する
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: HT
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497196"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720544"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Delve でユーザー プロファイルを管理する
 
-Office Delve では、ユーザーが自分の Office 365 ユーザー プロファイルを管理することができます。ユーザーは次の操作を行うことができます。
+Office Delve では、ユーザーが自分のユーザープロファイルを管理できます。ユーザーは次のことができます。
   
 - 自分の情報を表示して更新する
     

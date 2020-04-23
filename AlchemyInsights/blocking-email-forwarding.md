@@ -3,7 +3,7 @@ title: 726 メールの転送のブロック
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: HT
+ms.openlocfilehash: da1ca874e436afb8753fa046478f08563c8f19ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768409"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712284"
 ---
 # <a name="block-email-forwarding"></a>メールの転送のブロック
 
-特定のメールボックスのメールの転送を無効にするには、「[Office 365 でメール転送を構成する](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)」を参照してください。
+特定のメールボックスの電子メール転送を無効にするには、「 [Configure email 転送](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)」を参照してください。
 
 組織全体のメールの転送をブロックするには、[Exchange Online でメールの自動転送をブロックするさまざまな方法](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)に関するページを参照してください。

@@ -3,7 +3,7 @@ title: Outlook.com の [迷惑メール] フォルダーにメッセージが移
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710952"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>メッセージが [迷惑メール] フォルダーに移動されないようにする
 

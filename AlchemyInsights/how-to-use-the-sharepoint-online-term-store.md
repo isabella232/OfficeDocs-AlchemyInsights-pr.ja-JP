@@ -2,7 +2,7 @@
 title: SharePoint Online 用語ストアの使用法
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717381"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online 用語ストアの使用法
 
-用語ストアは、Office 365のグローバル管理者、SharePoint管理者、および用語ストア管理者が利用でき、新しいSharePoint Online管理センターにあります。
+用語ストアは、グローバル管理者、SharePoint 管理者、および用語ストア管理者が使用でき、新しい SharePoint Online 管理センターで見つけることができます。
   
 SharePoint Online で SharePoint Online 用語ストアと分類を使用する方法の詳細については、「[管理されたメタデータの概要](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)」を参照してください。
   

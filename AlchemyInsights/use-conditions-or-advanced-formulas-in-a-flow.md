@@ -3,7 +3,7 @@ title: フローで条件または高度な式を使用する
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: da2b093237f94809b501baabe84122e776b7fbb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 88ae3420d7be6bba9f032a99564c43e7d4d24b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726361"
 ---
 # <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>フローで条件または高度な式を使用する
 
