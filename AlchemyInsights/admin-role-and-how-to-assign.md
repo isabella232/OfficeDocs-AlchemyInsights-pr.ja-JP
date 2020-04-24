@@ -3,30 +3,25 @@ title: 管理者の役割と割り当て方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708980"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="cf68a-102">管理者の役割についておよびその割り当て方法</span><span class="sxs-lookup"><span data-stu-id="cf68a-102">What are admin roles and how do you assign them?</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="7565d-102">管理者権限</span><span class="sxs-lookup"><span data-stu-id="7565d-102">Admin roles</span></span>
 
-<span data-ttu-id="cf68a-p101">管理者の役割について質問をいくつかお持ちのようです。これらの記事ですべての質問にお答えします。</span><span class="sxs-lookup"><span data-stu-id="cf68a-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
-  
-- [<span data-ttu-id="cf68a-105">管理者の役割について</span><span class="sxs-lookup"><span data-stu-id="cf68a-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- <span data-ttu-id="7565d-103">管理者役割の割り当てまたは詳細については、管理センターで [[役割](https://admin.microsoft.com/Adminportal/Home#/roles)] を選択してください。</span><span class="sxs-lookup"><span data-stu-id="7565d-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
 
-- [<span data-ttu-id="cf68a-106">管理者の役割を割り当てる</span><span class="sxs-lookup"><span data-stu-id="cf68a-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-<span data-ttu-id="cf68a-p102">質問に対する回答が見つからなくても、問題はありません。[電話でのサポートを希望] オプションを使用して、サポート エンジニアにお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="cf68a-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- <span data-ttu-id="7565d-104">次に、役割名を選択して [**役割の割り当て**] をクリックするか、[**役割の比較**] をクリックして詳細を確認します。</span><span class="sxs-lookup"><span data-stu-id="7565d-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
