@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43413640"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789487"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>SharePoint Online の外部共有を有効または無効にする
 
-Office 365 のグローバル管理者と SharePoint 管理者が、SharePoint および OneDrive の組織レベルの共有設定を変更する方法については、「[外部共有を有効または無効にする](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)」を参照してください。
+グローバル管理者と SharePoint 管理者が、SharePoint および OneDrive の組織レベルの共有設定を変更する方法については、「[外部共有を有効または無効にする](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)」を参照してください。

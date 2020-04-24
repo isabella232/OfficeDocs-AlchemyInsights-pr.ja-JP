@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719309"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>アカウントが侵害された場合に推奨される対処方法
 
-[ビデオ: 侵害された Office 365 アカウントの修復](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[ビデオ: 侵害されたアカウントの修復](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [ユーザーのパスワードを直ちにリセット](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)します。新しいパスワードはメールでエンド ユーザーに伝えないでください。
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745438"
 
 5. アカウントが侵害されていないと確信できるまでは、すべての[管理ロール グループ](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)からそのユーザー アカウントを削除します。
 
-将来のデータ漏えいやアカウントの侵害の可能性を最小限に抑えるために、[Office 365 のセキュリティのロードマップ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)を確認することをお勧めします。
+将来のデータ漏えいやアカウントの侵害の可能性を最小限に抑えるために、[Microsoft 365 のセキュリティのロードマップ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)を確認することをお勧めします。
   

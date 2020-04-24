@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059885"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720070"
 ---
 # <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059885"
 
 ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。 
 
-詳細については、「[Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」 (一般法人向け Office 365 でクレジット カードや銀行口座を追加、更新、削除する) と「[Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)」 (クレジット カードと銀行口座のトラブルシューティング) を参照してください。
+詳細については、「[一般法人向け Microsoft 365 でクレジット カードや銀行口座を追加、更新、削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」と「[クレジット カードと銀行口座のトラブルシューティング](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)」を参照してください。

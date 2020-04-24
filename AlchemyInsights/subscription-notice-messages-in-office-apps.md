@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 2678510c71340f1460d12ff5576e9a5f545f7ec2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741924"
+ms.locfileid: "43789199"
 ---
 # <a name="subscription-notice-messages-in-office-apps"></a>Office アプリでのサブスクリプションの通知メッセージ
 
 - Office が新しいデバイスに既にプレインストールされている場合、新しいデバイスで Office のライセンス認証を行う方法については、「[Office のライセンス認証を行う](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)」を参照してください。
 
-- [Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
+- [Microsoft 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
 
-- [サブスクリプション状態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)が有効であること、影響を受けるユーザーに[有効なライセンスが割り当てられている](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)こと、インターネットに接続されていることを確認します。 新しい Office 365 サブスクリプションまたはプランに最近切り替えた場合は、影響を受けているコンピューターで、Office を一旦アンインストールしてから再インストールしてみてください。
+- [サブスクリプション状態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)が有効であること、影響を受けるユーザーに[有効なライセンスが割り当てられている](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)こと、インターネットに接続されていることを確認します。 新しいサブスクリプションまたはプランに最近切り替えた場合は、影響を受けているコンピューターで、Office を一旦アンインストールしてから再インストールしてみてください。
 
 - Office アプリを開き、**[ファイル] > [アカウント]** の順に移動して、すべてのアカウントからサインアウトします。 ライセンスが有効なユーザー アカウントを使用して、もう一度サインインします。 詳細については、「[Office のアカウント](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)」を参照してください。
 
@@ -36,6 +36,6 @@ ms.locfileid: "43741924"
 
 詳細な手順については、以下を参照してください。 
 
-[Office 365 アプリケーションを開くとサブスクリプションに関するお知らせが表示される](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Microsoft 365 アプリケーションを開くとサブスクリプションに関するお知らせが表示される](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Office のライセンス認証に関する問題のトラブルシューティング](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

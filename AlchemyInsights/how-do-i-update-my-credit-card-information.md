@@ -3,7 +3,7 @@ title: クレジット カードの情報を更新する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231496"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787915"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>クレジット カードの情報を更新する方法
 
@@ -30,6 +30,6 @@ ms.locfileid: "43231496"
 
 4. 必要に応じて、クレジット カードまたは銀行口座の情報 (クレジット カードまたは銀行口座の名前、請求先住所、電話番号、有効期限) を更新し、[**保存**] > [**完了**] の順に選択します。
 
-詳細については、「[一般法人向け Office 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
+詳細については、「[クレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
 
 **注**: サブスクリプションを購入したのが別の管理者であった場合、サブスクリプションのクレジット カードの情報は更新できません。 クレジット カードの有効期限が切れそうで、他の管理者が情報を更新できない場合は、サブスクリプションに別のクレジット カードを追加してサービスの中断を防ぐことができます。
