@@ -1,9 +1,9 @@
 ---
-title: Office 365 の URL と IP アドレス
+title: Microsoft 365 の URL と IP アドレス
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 27a4781458e3d22b7bc69a007680e43c3c45f8d3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775320"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787843"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="d9ac1-102">Office 365 の URL と IP アドレスの範囲 </span><span class="sxs-lookup"><span data-stu-id="d9ac1-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a><span data-ttu-id="9c442-102">Microsoft 365 の URL と IP アドレスの範囲</span><span class="sxs-lookup"><span data-stu-id="9c442-102">Microsoft 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="d9ac1-103">Office 365 では、*エンドポイント*と呼ばれる特定の IP アドレスを介したインターネットへの接続が必要です。</span><span class="sxs-lookup"><span data-stu-id="d9ac1-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
-<span data-ttu-id="d9ac1-104">到達可能にする必要があるエンドポイントのリストについては、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」をご覧ください</span><span class="sxs-lookup"><span data-stu-id="d9ac1-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+<span data-ttu-id="9c442-103">Microsoft 365 では、*エンドポイント*と呼ばれる特定の IP アドレスを介したインターネットへの接続が必要です。</span><span class="sxs-lookup"><span data-stu-id="9c442-103">Microsoft 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="9c442-104">到達可能にする必要があるエンドポイントのリストについては、「[Microsoft 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」をご覧ください</span><span class="sxs-lookup"><span data-stu-id="9c442-104">For a list of endpoints that need to be reachable, see [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
 
-<span data-ttu-id="d9ac1-105">Office 365 IP アドレスと URL の Web サービスを利用することにより、Office 365 のネットワーク トラフィックの識別と区別がより効率的になり、変更の評価、構成、および最新情報の取得が容易になります。</span><span class="sxs-lookup"><span data-stu-id="d9ac1-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="d9ac1-106">「[Office 365 IP アドレスと URL の Web サービス](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d9ac1-106">[Office 365 IP Address and URL Web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)</span></span>
+<span data-ttu-id="9c442-105">Microsoft 365 IP アドレスと URL の Web サービスを利用することにより、Microsoft 365 のネットワーク トラフィックの識別と区別がより効率的になり、変更の評価、構成、および最新情報の取得が容易になります。</span><span class="sxs-lookup"><span data-stu-id="9c442-105">The Microsoft 365 IP Address and URL web service helps you better identify and differentiate Microsoft 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="9c442-106">「[Microsoft 365 IP アドレスと URL の Web サービス](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9c442-106">See [Microsoft 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
