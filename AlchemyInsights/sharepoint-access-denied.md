@@ -2,18 +2,18 @@
 title: "\"アクセスが拒否されました\" メッセージのトラブルシューティング"
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 913324524e4b04ee7eb552bcc4efad1b493ab319
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051826"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742148"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>"アクセスが拒否されました" メッセージのトラブルシューティング
 
@@ -21,7 +21,7 @@ SharePoint Online のサイトを閲覧しようとしたときにアクセス�
 
 **ユーザーの追加とライセンス認証**
 
-[一般法人向け Office 365 のユーザーにライセンスが割り当てられている](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ことを確認してください。
+[一般法人向け Microsoft 365 のユーザーにライセンスが割り当てられている](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)ことを確認してください。
 
 **アクセス許可の割り当て**
 

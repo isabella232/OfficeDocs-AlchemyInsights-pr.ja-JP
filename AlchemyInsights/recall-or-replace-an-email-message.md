@@ -1,9 +1,9 @@
 ---
-title: メール メッセージを取り消す、または置き換える
+title: 送信したメール メッセージを取り消す、または置き換えます
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742760"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Office 365 でメール メッセージを取り消す、または置き換える
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Microsoft 365 でメール メッセージを取り消す、または置き換える
 
 - あなたは**あなたの組織内の人々に送られたメッセージだけを取り消すことができます**。 たとえば、Gmail アドレスに送信された場合は、メッセージを取り消すことはできません。
 - **PC 版 Outlook 2016 から送信されたメッセージだけを取り消すことができます**。 ユーザーが、Outlook for Mac またはOutlook on the web を使用してメッセージを送信する場合、取り消すことができません。
@@ -32,7 +32,7 @@ ms.locfileid: "36553437"
 2. 取り消すメッセージを開きます。 メッセージを開くにはダブルクリックする必要があります。 閲覧ウィンドウに表示されるようにメッセージを選択しても、メッセージを取り消すことはできません。
 3. [メッセージ] タブから、[**操作]、[** > **メッセージの取り消し**]を選択します。
 4. [**未読のこのメッセージのコピーを削除する**]、または [**未読のコピーを削除して新しいメッセージに置き換える**] を選び、それから [**OK**] を選択します。
-5. 代わりのメッセージを送信する場合、メッセージを作成し、[**送信**] を選択します。
+5. 代わりのメッセージを送信する場合、メッセージを作成し、**[送信]** を選択します。
 6. メッセージ取り消しの成功または失敗は、受信者の Outlook の設定によって決まります。
 
 取り消しを確認する方法など、詳細については、「[送信したメールメッセージを取り消す、または置き換える](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)」を参照してください。
@@ -42,4 +42,4 @@ ms.locfileid: "36553437"
 1. [コンテンツ検索を作成し、](https://docs.microsoft.com/office365/securitycompliance/content-search) 削除するメッセージを見つけます。
 2. [セキュリティ/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。 
 
-MFA をお使いの場合は、「[多要素認証を使用して Office 365 セキュリティ センター/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)」を参照してください。 
+MFA をお使いの場合は、「[多要素認証を使用して Microsoft 365 セキュリティ センター/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)」を参照してください。 

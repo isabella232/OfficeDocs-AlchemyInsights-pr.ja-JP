@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43126696"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722625"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Office のライセンス認証エラー 0xD000000C を解決する
 
-- インストールしようとしている Mac 上でインターネットが動作していることを確認します。 これは、インターネット ブラウザーを開いて、www.microsoft.com にアクセスすることで確認できます。 ページが読み込まれた場合は、インターネット接続は正常です。
+- インストールしようとしている Mac 上でインターネットが動作していることを確認します。 これは、インターネット ブラウザーを開いて、[Microsoft](https://www.microsoft.com) にアクセスすることで確認できます。 ページが読み込まれた場合は、インターネット接続は正常です。
 
 - すべての Office アプリを終了します。
 

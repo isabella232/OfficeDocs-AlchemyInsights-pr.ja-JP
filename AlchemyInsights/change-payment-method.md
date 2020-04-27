@@ -12,12 +12,12 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068289"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655503"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 
@@ -29,4 +29,4 @@ Microsoft 365 管理センターで設定されている支払い方法を確認
 
 3. 画面に示される手順を実行して、変更を完了します。
 
-詳細については、「[一般法人向け Office 365 の支払い方法を変更する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)」を参照してください。
+詳細については、「[一般法人向け Microsoft 365 の支払い方法を変更する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)」を参照してください。

@@ -2,7 +2,7 @@
 title: モダン サイトとクラシック ルート サイトを入れ替える
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741549"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>モダン サイトとクラシック ルート サイトを入れ替える
 
@@ -28,7 +28,7 @@ ms.locfileid: "40042932"
 
 - 間もなく、追加機能が導入されて、引き続きサイトのコンテンツを使用できるようになりますが、既存のサイトをコミュニケーション サイトに変換します。 
 >[!Important]
->これらの機能は、段階的にロールアウトされます。 更新プログラムに関しては、引き続き Office 365 メッセージ センターでご確認ください。 
+>これらの機能は、段階的にロールアウトされます。 定期的にメッセージ センターで更新プログラムについてご確認ください。 
 
 ## <a name="known-issues-with-swapping-sites"></a>サイトの入れ替えに関する既知の問題
 
@@ -37,8 +37,3 @@ ms.locfileid: "40042932"
 - "静的" リンクに依存するもの (ファイルの同期や OneNote ファイルなど) は、手動で修正される必要があります。
 - ソース サイトが組織のニュース サイトだった場合は、URL を更新します。 すべての組織のニュース サイトの一覧を取得します。
 - Project Server サイトを検証し、それらが正しく関連付けられていることを確認することが必要な場合があります。
-
-
-
-
-

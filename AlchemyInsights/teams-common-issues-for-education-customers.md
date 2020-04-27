@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42859577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739441"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>教育機関のお客様向け Teams の一般的な問題
 
@@ -45,12 +45,12 @@ ms.locfileid: "42859577"
     6. Skype for Business 管理センターで、**[電話会議]**、**[ユーザー]** の順にクリックします。
     7. 該当するユーザーを選択し、そのユーザーに既定の有料電話番号があることを確認します。
 
-    詳細については、「[Office 365 の通話プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問について Microsoft コマース課金チームにお問い合わせください。
+    詳細については、「[通話プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問について Microsoft コマース課金チームにお問い合わせください。
 
     その他のリソース
 
     - [Microsoft Teams でのミーティングと会議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365 における電話会議](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [電話会議](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **会議ポリシー**: 会議ポリシーは、組織内のユーザーによってスケジュールされた会議への参加者が利用できる機能を制御するために使用されます。 ポリシーを作成して変更を行ってから、ユーザーをポリシーに割り当てることができます。
 
@@ -77,7 +77,7 @@ ms.locfileid: "42859577"
     一度に複数のユーザーにポリシーを割り当てる方法については、「[一括で Teams のユーザー設定を編集する](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk)」を参照してください。
 
     または、以下の操作を実行できます。
-    1. Microsoft Teams 管理センターの左側のナビゲーションで、**[会議]、[会議ポリシー]** の順に移動します。
+    1. Microsoft Teams 管理センターの左側のナビゲーションで、**[会議] > [会議ポリシー]** の順に移動します。
     2. ポリシー名の左側をクリックしてポリシーを選びます。
     3. **[ユーザーの管理]** をクリックします。
     4. **[ユーザーを管理する]** ウィンドウで、表示名またはユーザー名でユーザーを検索し、名前を選択して **[追加]** をクリックします。 追加するユーザーごとに、この手順を繰り返します。

@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 77567abf8f7099898568db970ecedf51d9424a51
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736546"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687479"
 ---
 # <a name="trying-to-remove-your-domain"></a>ドメインを削除する場合
 
-「[Office 365 からドメインを削除する](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)」の手順に従います。
+「[ドメインを削除する](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)」で説明している手順に従います。
   
 ドメインを削除する前に、そのドメイン名に割り当てられているすべてのユーザーまたはグループを更新する必要があります。他の一般的な解決方法については、「[ドメインに関する FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。
   

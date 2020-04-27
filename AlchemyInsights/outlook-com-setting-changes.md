@@ -3,18 +3,18 @@ title: Outlook.com の設定
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743566"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com での設定
 
@@ -30,7 +30,7 @@ ms.locfileid: "40053266"
     
     - 一時使用パスコードが同じメール アドレスに送信されます。 ブラウザー ウィンドウにコードを入力し、[**続行**] を選択し、メッセージを読みます。
 
-- 別の Office 365 組織からの暗号化されたメッセージを表示できない場合は、この [記事](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164) に記載されている解決手順に従います。
+- 別の組織からの暗号化されたメッセージを表示できない場合は、この[記事](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)に記載されている解決手順に従ってください。
 
 - 受信者のメールボックスが **Yahoo または Gmail** にある場合は、この [記事](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098) に記載されている 手順 </span> に従います。
 

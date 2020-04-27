@@ -1,9 +1,9 @@
 ---
-title: Office 365 にユーザーを追加する
+title: ユーザーの追加
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 49a91bd6024476c22382a82c6767884e7cdd88bb
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: f6fd4a20aefc52b54f28c830d535d84631a34ab2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068246"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671318"
 ---
-# <a name="add-a-user-to-office-365"></a>Office 365 にユーザーを追加する
+# <a name="add-a-user"></a>ユーザーの追加
 
-1. Microsoft 365 管理センターで、**[ユーザー]**  >  [[アクティブ ユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) の順に選択します。
+1. Microsoft 365 管理センターで、**[ユーザー]** > [[アクティブ ユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) の順に選択します。
 
 2. **[ユーザーの追加]** をクリックします。
 
 3. ユーザーの情報を入力します。 完了したら [**追加の完了**] を選択します。
 
-詳細については、「[Office 365 にユーザーを個別に、またはまとめて追加する](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
+詳細については、「[ユーザーを個別に、またはまとめて追加する](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
