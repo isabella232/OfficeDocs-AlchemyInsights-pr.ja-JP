@@ -3,7 +3,7 @@ title: Office クライアントのサブスクリプションに関するお知
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559774"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741868"
 ---
-# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="dfef0-102">Office クライアントのサブスクリプションに関するお知らせ</span><span class="sxs-lookup"><span data-stu-id="dfef0-102">Subscription notice in your Office client?</span></span>
+# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="9fc03-102">Office クライアントのサブスクリプションに関するお知らせ</span><span class="sxs-lookup"><span data-stu-id="9fc03-102">Subscription notice in your Office client?</span></span>
 
-<span data-ttu-id="dfef0-p101">Office 365 サブスクリプションの状態に関するお知らせが Office クライアントに表示されているようです。問題の解決方法に関する情報については、この記事「[Office 365 アプリケーションを開くとサブスクリプションに関するお知らせが表示される](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dfef0-p101">It looks like you are seeing a notice in your Office client related to the status of your Office 365 subscription. You can find information on how to fix the issue in this article: [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
+<span data-ttu-id="9fc03-p101">サブスクリプションの状態に関連するお知らせが Office クライアントに表示されているようです。この問題を解決する方法は、記事「[Microsoft 365 アプリケーションを開くとサブスクリプションに関するお知らせが表示される](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)」で確認できます。</span><span class="sxs-lookup"><span data-stu-id="9fc03-p101">It looks like you are seeing a notice in your Office client related to the status of your subscription. You can find information on how to fix the issue in this article: [A subscription notice appears when I open a Microsoft 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
   
-<span data-ttu-id="dfef0-p102">お使いの Office 365 サブスクリプションが最新の場合は、Office のライセンス認証が失敗する原因となった一時的な問題が発生していた可能性があります。コンピューターの時間を確認する、管理者として Office を実行する、サインインしてライセンス認証するなど、これらのメッセージを回避するための簡単な手順があります。問題の解決方法に関する情報については、この記事「[Office のライセンスのない製品というエラーとアクティブ化のエラー](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dfef0-p102">If your Office 365 subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail. There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate. You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
+<span data-ttu-id="9fc03-p102">サブスクリプションが最新のものである場合、一時的な問題で Office のアクティブ化に失敗することがあります。コンピューターの時間を確認したり、管理者として Office を実行したり、サインインしてアクティブ化したりするなど、このメッセージを回避するための簡単な方法はいくつかあります。記事「[ライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)」で、問題を修正するための詳細な手順を確認できます。</span><span class="sxs-lookup"><span data-stu-id="9fc03-p102">If your subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail. There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate. You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
   
-<span data-ttu-id="dfef0-108">これらの方法で解決できない場合は、次のリンクからお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="dfef0-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
-  
+<span data-ttu-id="9fc03-108">これらの方法で解決できない場合は、次のリンクからお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="9fc03-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
