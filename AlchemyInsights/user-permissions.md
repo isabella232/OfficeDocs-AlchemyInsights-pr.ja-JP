@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710520"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912899"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint および OneDrive でのユーザーのアクセス許可
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710520"
   
 1. そのサイトを Web ブラウザーで開きます。
     
-2. サイトが Office 365 のグループに属している場合、右上の [設定] アイコンをクリックし、[**サイトの権限**] をクリックします。[**ユーザーの招待**] をクリックして、Office 365 グループにメンバーを追加するか、サイトのみを共有します。 
+2. サイトが Microsoft 365 グループに属している場合は、右上の [設定] アイコンをクリックし、[**サイトの権限**] をクリックします。[**ユーザーの招待**] をクリックし、Microsoft 365 グループにメンバーを追加するか、サイトのみを共有するかを選択します。 
     
     コミュニケーション サイトでは、右上の [**サイトの共有**] をクリックして、ユーザー名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。 
     

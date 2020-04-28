@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721795"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912408"
 ---
 # <a name="manage-access-requests"></a>アクセス依頼を管理する
 
@@ -26,7 +26,7 @@ SharePoint でユーザーがアイテムにアクセスしようとしても、
     
 2. [**ユーザーと権限**] で、[**アクセスの依頼と招待状**] をクリックします (これが表示されない場合、アクセス依頼は作成されていません)。
     
-3. ユーザーに個別に権限を与えるには、[**承認**] または [**拒否**] をクリックします。特定の権限レベルを選択するには、まず、ユーザー名の横にある省略記号 (...) をクリックします。または、サイトへのアクセス権を持つグループにユーザーを追加します。コミュニケーション サイトおよび従来のチーム サイトの場合、[サイトの設定] ページでこの操作を行うことができます。Office 365 グループに属するサイトの場合、ユーザーをそのグループに追加できます。
+3. ユーザーのアクセス許可を個別に付与するには、[**承認**] または [**拒否**] をクリックします。特定のアクセス許可レベルを選択するには、まず、その人物の名前の横にある省略記号 ([...]) をクリックします。または、サイトへのアクセス許可を持つグループにユーザーを追加します。コミュニケーションサイトと従来のチームサイトでは、[サイトの設定] ページでこれを行うことができます。Microsoft 365 グループに属しているサイトの場合、そのユーザーをグループに追加することができます。
     
     [アクセス依頼を管理する](https://go.microsoft.com/fwlink/?linkid=2008747)
     

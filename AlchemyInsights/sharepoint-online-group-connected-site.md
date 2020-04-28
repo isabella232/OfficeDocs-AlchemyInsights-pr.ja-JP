@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642149"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912971"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint でグループ接続されたサイトを作成する際の問題
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642149"
 
 1. SharePoint でモダン グループを作成および使用するには、さまざまな方法があります。
 
-   - 既存のサイトを Office 365 グループに接続することができます。 詳細については、「[SharePoint ユーザー インターフェイスを使用して Office 365 グループを接続する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)」を参照してください。
-   - Office 365 のグループ接続されたサイトを作成するには、[チーム サイト](https://admin.microsoft.com/sharepoint)を作成する必要があります。
+   - 既存のサイトを Microsoft 365 グループに接続することができます。 詳細については、「 [SharePoint ユーザーインターフェイスを使用して Microsoft 365 グループを接続する](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)」を参照してください。
+   - Microsoft 365 グループに接続されたサイトを作成するには、[チームサイト](https://admin.microsoft.com/sharepoint)を作成する必要があります。

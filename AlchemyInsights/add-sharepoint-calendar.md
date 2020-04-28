@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671354"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911009"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint カレンダーを追加する
 
-SharePoint カレンダーは Office 365 グループ カレンダーと混同される場合がある、クラシックなリスト タイプです。
+SharePoint カレンダーは、Microsoft 365 グループの予定表と混同されることがある、従来のリストの種類です。
  
 SharePoint カレンダーを作成するには、次の手順を実行します。
  
@@ -29,5 +29,5 @@ SharePoint カレンダーを作成するには、次の手順を実行します
 2.  [**アプリの検索**] 検索ボックスに**カレンダー**と入力し、Enter キーを押します。
 3.  [**カレンダー**] というタイトルのアプリを選択し、カレンダーの名前を入力します。
 
-Office 365 グループの詳細については、「[Office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」を参照してください。
+Microsoft 365 グループの詳細については、「 [microsoft 365 グループについ](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)て」を参照してください。
 
