@@ -1,5 +1,5 @@
 ---
-title: Office 365 サブスクリプションの国または地域を変更する
+title: Microsoft 365 サブスクリプションの国または地域を変更する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: 12edbcc283b1aa8a5fc0f5c559057f16cb2292e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 4b1a6b5f4d24a3ffad4f521df16c25e780f4b8c4
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599417"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799020"
 ---
-# <a name="change-the-country-or-region-for-your-office-365-subscription"></a>Office 365 サブスクリプションの国または地域を変更する
+# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションの国または地域を変更する
 
-サブスクリプションの国または地域を変更することは**できません**。 代わりに、新しいアカウントにサインアップし、希望する国または地域を選択して、新しいサブスクリプションを購入する必要があります。 
+サブスクリプションの国または地域は、**変更できません**。 これは、組織の本社所在地の国または地域によって、利用可能なサービス、税金、請求通貨、およびデータセンターの場所が決まるためです。 組織の国または地域を変更する場合は、新しいアカウントのサインアップを実行して、希望する国または地域を選択し、新しいサブスクリプションを購入してください。
 
-詳細については、「[組織の住所およびその他のプロファイル情報を変更する](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide)」を参照してください。 関連する請求先住所またはサブスクリプションの住所を変更するには、「[一般法人向け Office 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」を参照してください。 
+詳細については、「[組織の住所およびその他のプロファイル情報を変更する](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide)」を参照してください。 関連付けられた請求先またはサブスクリプションの住所の変更を検討している場合は、「[Microsoft 365 for business の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」を参照してください。 
