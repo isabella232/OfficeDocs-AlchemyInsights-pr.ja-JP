@@ -3,7 +3,7 @@ title: ファイル要求を作成する方法
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 11/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 91ffde74178462bba2ad55d213eb20553e010648
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: aac083e400990d4f237d821cba5f9096300119db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39976358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705414"
 ---
 # <a name="how-to-create-a-file-request"></a>ファイル要求を作成する方法
 

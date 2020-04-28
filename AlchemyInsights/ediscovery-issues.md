@@ -13,7 +13,7 @@ ms.custom: 1829
 ms.assetid: ''
 ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43714483"
@@ -28,7 +28,7 @@ ms.locfileid: "43714483"
 
 - 新しいエンドツーエンドの高度な電子情報開示ソリューションを使用すると、カストディアンを特定して連絡をとり、ケースに関連するカストディアン データを保持し、データを収集してレビュー セットに追加し、ケースへの関連性が最も高いデータに注目するために不必要なデータを選り分けるようアナリティクスを適用してデータの量を減らすことができます。これを行うには、**[電子情報開示] > [高度な電子情報開示]** に移動します。
 
-詳しくは、次のトピックを参照してください。
+詳細については、以下を参照してください。
 
 - [コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/content-search)
 

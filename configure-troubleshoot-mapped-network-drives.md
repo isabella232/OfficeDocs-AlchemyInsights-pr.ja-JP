@@ -3,7 +3,7 @@ title: マップされたネットワーク ドライブを構成しトラブル
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: f4cde10b1d0fec60ca0f724c3d9cf2c2a7ded83a
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: 99842cacb86859109d81fdaff7d31b9032b6d3bf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37973181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707228"
 ---
 # <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>マップされたネットワーク ドライブを構成しトラブルシューティングする方法
 

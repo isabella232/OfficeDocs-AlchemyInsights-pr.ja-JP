@@ -14,7 +14,7 @@ ms.custom:
 - "2638"
 ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43712499"
@@ -23,7 +23,7 @@ ms.locfileid: "43712499"
 
 サイト所有者が SharePoint ハブへの参加方法を共有した[メッセージ センター 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) を実行できるようになりました。 組織がハブに関連付けることができる特定の個人を管理したい場合には、以下の手順を実行します。 
 
-1. 管理者権限を[https://portal.office.com](https://portal.office.com)使用して () にサインインします。
+1. 管理者権限で [https://portal.office.com](https://portal.office.com) にサインインします。
 2. 画面の左上にある**アプリ起動ツール** (9 つの正方形のアイコン) を選択し、[**管理者**] を選択します。
 3. 画面の左側にあるメニューから [**管理センター**] を選択し、[**SharePoint**] を選択します。
 4. 画面上部の青いバナーから [**今すぐアプリを起動**] を選択し、新しい Sharepoint 管理センターを表示します。
