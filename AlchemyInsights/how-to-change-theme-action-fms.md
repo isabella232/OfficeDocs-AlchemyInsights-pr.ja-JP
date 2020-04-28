@@ -14,12 +14,12 @@ ms.custom:
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
 ms.openlocfilehash: fe581021d53afdf61bd5a5cdfae471ede596f4c6
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43711240"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="02575-102">テーマを変更する方法</span><span class="sxs-lookup"><span data-stu-id="02575-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="2494a-102">テーマを変更する方法</span><span class="sxs-lookup"><span data-stu-id="2494a-102">How to change your theme</span></span>
 
-<span data-ttu-id="02575-p101">Outlook.com または Outlook on the web でテーマを変更するには、**[設定]** に移動し、**[テーマ]** でテーマを選択します。使用可能なテーマをすべて見るには、**[テーマ]** の下の **[すべて表示]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="02575-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span>
+<span data-ttu-id="2494a-p101">Outlook.com または Outlook on the web でテーマを変更するには、**[設定]** に移動し、**[テーマ]** でテーマを選択します。使用可能なテーマをすべて見るには、**[テーマ]** の下の **[すべて表示]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2494a-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span>
   
