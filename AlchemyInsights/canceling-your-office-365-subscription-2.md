@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
 ms.openlocfilehash: 4afd88ec7d60da0e6d5f40d1ec81c715af09842d
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43711456"
@@ -28,8 +28,8 @@ ms.locfileid: "43711456"
   
 または、サポート エンジニアと相談するには [**お問い合わせ先**] を選択します。
   
-**返金: 次の請求サイクルでは、日割り処理によるクレジットが返されます。** 
+**返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 
-**注**: 取り消すオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示し、[**設定 & の操作**] に [**サブスクリプションのキャンセル**] オプションが表示されるはずです。 
+**注**: キャンセルするためのオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示します。**[設定とアクション]** に **[サブスクリプションのキャンセル]** オプションが示されます。 
 
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。
