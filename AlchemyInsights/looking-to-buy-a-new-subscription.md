@@ -13,14 +13,14 @@ ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43709448"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>新しいサブスクリプションを購入する場合
 
-既に Microsoft 365 for business のサブスクリプションをお持ちの場合、組織で別のサブスクリプションを購入するには、[**課金** \> [サービス](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動して、組織で使用可能なサブスクリプションの一覧を確認してください。
+既に一般法人向け Microsoft 365 のサブスクリプションを所有していて、組織に別のサブスクリプションを購入する場合は、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] の順に移動し、組織で利用可能なサブスクリプションの一覧を表示します。
  
 1. 必要なサブスクリプションを選択し、[**購入**] を選択します。
 
@@ -32,8 +32,8 @@ ms.locfileid: "43709448"
 
  **その他のリソース:** 
   
-- [Microsoft 365 for business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
 - [サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- サブスクリプションの切り替えについては、「[別の Microsoft 365 for business プランに切り替える](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)」を参照してください。
+- サブスクリプションの切り替えに関心がある場合は、「[別の一般法人向け Microsoft 365 プランに切り替える](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)」を参照してください。

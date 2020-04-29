@@ -15,12 +15,12 @@ ms.custom:
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43666782"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>プリペイド Microsoft 365 の更新
+# <a name="prepaid-microsoft-365-renewal"></a>プリペイドの Microsoft 365 の更新
 
 1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 

@@ -3,7 +3,7 @@ title: SharePoint カレンダーを Outlook に同期する
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8158b1fd762fe541a56c821fd68f1bdfa5d7339c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050782"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912863"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>カレンダーとデバイスの同期に関する問題
 
-SharePoint カレンダーは、クラシック リスト タイプで、Office 365 のグループ カレンダーと混同される場合があります。
+SharePoint カレンダーは、クラシック リスト タイプで、Microsoft 365 のグループ カレンダーと混同される場合があります。
 
 SharePoint カレンダーを Outlook と同期するには、次の手順を実行します。
 
@@ -33,4 +33,4 @@ SharePoint カレンダーを Outlook と同期するには、次の手順を実
 >[!Note]
 > 同期された Outlook カレンダーに変更を加えた場合は、SharePoint カレンダーにも表示されます。
 
-Office 365 グループの詳細については、この [記事](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) を参照してください。
+Microsoft 365 グループの詳細については、この [記事](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) を参照してください。

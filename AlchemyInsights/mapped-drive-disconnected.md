@@ -3,7 +3,7 @@ title: マップされたドライブの切断
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 67179efe497079a28ec2801d4ca1e5feab7ea708
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734854"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762430"
 ---
 # <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>ネットワーク ドライブにマップされた SharePoint ライブラリが切断された
 

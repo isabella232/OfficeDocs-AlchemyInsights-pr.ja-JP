@@ -3,7 +3,7 @@ title: ワークフローが開始されない
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766102"
 ---
 # <a name="workflow-is-not-starting"></a>ワークフローが開始されない
 

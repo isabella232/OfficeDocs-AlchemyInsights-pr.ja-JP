@@ -3,7 +3,7 @@ title: 送信メールが迷惑メール フォルダーへ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 371d2c46e9048365fd343145330536bd9cf1db82
-ms.sourcegitcommit: 1002f510fadb92c143cd6bbb60b42a851d5a38e1
+ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37313910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761173"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>送信メールが迷惑メール フォルダーへ
 

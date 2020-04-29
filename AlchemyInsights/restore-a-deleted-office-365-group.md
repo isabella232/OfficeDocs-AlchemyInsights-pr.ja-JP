@@ -1,9 +1,9 @@
 ---
-title: 削除された Office 365 グループを復元する
+title: 削除された Microsoft 365 グループを復元する
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048837"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912716"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>削除された Office 365 グループを復元する
+# <a name="restore-a-deleted-microsoft-365-group"></a>削除された Microsoft 365 グループを復元する
 
 削除されたグループは、30 日間保持されます。削除されたグループを復元するには、次の操作を行います。
   
@@ -28,5 +28,5 @@ ms.locfileid: "40048837"
 
 2. グループを選択し、コマンド バーの [**復元**] をクリックするか、または詳細ウィンドウの [ここをクリックして復元します] リンクをクリックします。
 
-詳細な情報、または PowerShell を使用したグループの復元方法については、「[削除済みの Office 365 グループを復元する](https://go.microsoft.com/fwlink/?linkid=867802)」を参照してください。
+詳細な情報、または PowerShell を使用したグループの復元方法については、「[削除された Microsoft 365 グループを復元する](https://go.microsoft.com/fwlink/?linkid=867802)」を参照してください。
   

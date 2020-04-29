@@ -12,7 +12,7 @@ ms.custom:
 - "9000196"
 ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
 ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "43642005"
@@ -21,7 +21,7 @@ ms.locfileid: "43642005"
 
 組織の外部ユーザーとの共有を試みるユーザーに対して次の警告メッセージが表示される場合があります。 
 
-   **組織のポリシーでは、これらのユーザーとの共有が許可されていません。Microsoft 365 管理センターの [外部共有] に移動して、有効にします。** 
+   **組織のポリシーでは、これらのユーザーと共有できません。Microsoft 365 管理センターの外部共有に移動して、共有を有効にします。** 
 
 これは、外部ユーザーとの共有を初めて行おうとする場合や、新しい外部ユーザーとの共有を行う場合によく発生します。 詳細については、以下の記事を参照してください。
 

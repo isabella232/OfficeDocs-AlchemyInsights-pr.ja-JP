@@ -3,7 +3,7 @@ title: Sharepoint または OneDrive からファイルを開くときの問題
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: e1aa019f45d16070463567213cb6baaa9766a357
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d4cc404023ab0c5d2fec8731599e06c2d1954c65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698459"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Sharepoint または OneDrive からファイルを開くときの問題 
 

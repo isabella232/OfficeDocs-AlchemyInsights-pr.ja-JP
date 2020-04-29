@@ -3,7 +3,7 @@ title: 更新を再アクティブ化および管理する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739318"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763443"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>継続請求を再アクティブ化および管理する方法
 

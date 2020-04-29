@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763186"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規や既存の Office インストールでの展開
 
-Microsoft Teams は、Office 365 ProPlus、Office 365 Business、および Office for Mac の*新規インストール*の一部として含まれています。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)」を参照してください。
+Microsoft Teams は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、Office for Mac の*新規インストール*の一部として含まれます。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)」を参照してください。
 
-さらに、月次チャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が*既存の Office 365 ProPlus (および Office 365 Business) インストールに追加*されます。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
+さらに、月次チャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が Microsoft 365 Apps for enterprise (および Microsoft 365 Apps for business) の*既存のインストールに追加*されるようになります。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
 
 [次の手順に従って](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)、ユーザーにスタンドアロンとして Teams を今すぐ展開できます。または、ユーザーに、https://teams.microsoft.com/downloads から Teams を自分でインストールしてもらうこともできます。
 

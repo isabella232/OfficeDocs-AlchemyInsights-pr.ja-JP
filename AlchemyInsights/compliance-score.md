@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706098"
 ---
 # <a name="compliance-score"></a>コンプライアンス スコア
 
@@ -33,7 +33,7 @@ Microsoft コンプライアンス スコア (プレビュー) は、組織の�
 
 **関連情報**:
 
-- コンプライアンス スコアのアクセス許可の設定については、「[ユーザーに Office 365 セキュリティ/コンプライアンス センターへのアクセス権を付与する](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)」を参照してください。
+- コンプライアンス スコアのアクセス許可の設定については、「[ユーザーに Microsoft 365 セキュリティ/コンプライアンス センターへのアクセス権を付与する](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)」を参照してください。
 - コンプライアンス スコアの改善アクションの使用については、「[Working with Compliance Score (コンプライアンス スコアを使用する)](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)」を参照してください。
 - コンプライアンス スコアの計算方法については、「[コンプライアンス スコアの手法](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)」を参照してください。
 - コンプライアンス スコア対コンプライアンス マネージャーについては、「[Relationship to Compliance Manager (コンプライアンス マネージャーとの関係)](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)」を参照してください。

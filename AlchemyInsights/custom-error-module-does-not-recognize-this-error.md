@@ -1,5 +1,5 @@
 ---
-title: カスタムエラーモジュールを取得すると、メッセージ追跡のダウンロード時にこのエラーが認識されません。
+title: メッセージの追跡をダウンロードすると「カスタム エラー モジュールではこのエラーを認識しません」というメッセージが表示されますか?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "3520"
 ms.openlocfilehash: 39184bef117e29f88be4487a79cb50fd778a94c4
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43705234"

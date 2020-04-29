@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: d998dec19433279e602c02bdaacc74371a4d0262
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41778006"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912827"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>クラシック SharePoint エクスペリエンスをモダン化する
 
 モダン ユーザー インターフェイスに切り替えるには、次のリソースを確認してください。
 
 - [**モダン サイト**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (チーム サイトまたはコミュニケーション サイト) を作成する。 [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) を使用して、美しくパワフルなイントラネットを構築して職場での接続を強化する。 「[例](https://lookbook.microsoft.com/)」を参照して、「[デザインのガイダンス](https://spdesign.azurewebsites.net/)」をご覧ください。
-- [**Office 365 グループ**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)にサイトを接続して Office 365 全体で共同作業を強化する。
+- [**Microsoft 365 グループ**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)にサイトを接続して Microsoft 365 全体で共同作業を強化する。
 - [リストとライブラリのモダン ユーザー インターフェイスでの表示を有効にする](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)ことで、**モダン リストとライブラリ**のエクスペリエンスに変換する。
 - **サイト ページ**を、クラシック **Wiki** ページ、**Web パーツ** ページ、**ホーム** ページから[クライアント側のモダン ページ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)に変換する。 [SharePoint モダン化スキャナー](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner)では、現在の Wiki ページや Web パーツ ページの閲覧状況に関する情報が提供され、変化するページの優先順位を付けるのに役立ちます。
 

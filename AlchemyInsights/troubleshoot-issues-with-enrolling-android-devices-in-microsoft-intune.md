@@ -3,7 +3,7 @@ title: Microsoft Intune での Android デバイスの登録に関する問題�
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500076"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759625"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Microsoft Intune での Android デバイスの登録に関する問題のトラブルシューティング
 
@@ -33,7 +33,7 @@ ms.locfileid: "36500076"
 
 2. デバイスを Android 6.0 以降に更新します。
 
-3. Intune ポータル サイトの管理から Samsung Smart Manage を無効にします。これらの問題と解決方法の詳細については、[こちらのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)を確認してください。
+3. Intune ポータル サイトの管理から Samsung Smart Manage を無効にします。これらの問題と解決方法の詳細については、[こちらのドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)を確認してください。
 
  **ユーザー ライセンスの種類が無効**または**ユーザー名が認識されないエラー:** ユーザーには、Intune または EMS ライセンスが割り当てられている必要があります。Office 管理センターまたは Azure portal からライセンスを割り当てるには、こちらのドキュメントを確認してください。
   

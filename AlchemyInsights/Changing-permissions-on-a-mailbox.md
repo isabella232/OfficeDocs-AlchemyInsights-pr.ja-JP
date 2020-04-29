@@ -13,7 +13,7 @@ ms.custom:
 - "3500009"
 ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43692518"
@@ -22,7 +22,7 @@ ms.locfileid: "43692518"
 
 ユーザーが自分以外のメールボックスにアクセスすることが必要な場合、そのようなメールボックスを使用するアクセス許可を付与される必要があります。これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。ユーザーがアクセスする必要があるメールボックスの種類は次のとおりです。
   
-- 他のユーザーのメールボックス-[別のユーザーにメールボックスアクセス許可を付与することを](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)確認してください。
+- 別のユーザーのメールボックス - 「[別のユーザーにメールボックス アクセス許可を付与する](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)」を参照してください。
     
 - 共有メールボックス - 「[共有メールボックスにメンバーを追加または削除する](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)」を参照してください。
     

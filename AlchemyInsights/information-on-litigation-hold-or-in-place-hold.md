@@ -11,7 +11,7 @@ localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43711024"
@@ -22,7 +22,7 @@ ms.locfileid: "43711024"
     
 - 1 人のユーザーに対して**訴訟ホールドを有効にするには**、[ここ](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)に記載されている手順に従います。訴訟ホールドが有効になると、メールボックス内のコンテンツはすべて保留中になります。
     
-- 単一のユーザーまたは**組織全体のすべてのメールボックス**に対する**インプレース保持**を適用するには、[ここで](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )説明する手順に従って、Microsoft 365 セキュリティ/コンプライアンスセンターのアイテム保持ポリシーを使用できます。
+- **インプレース保持を 1 人のユーザー**に適用する、または**組織全体のすべてのメールボックス**を保留中にするには、[ここ](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )で説明されている手順に従って、Microsoft 365 セキュリティ/コンプライアンス センターでアイテム保持ポリシーを使用できます。
     
     > [!NOTE]
     > 組織全体のアイテム保持ポリシーの場合は、新しいユーザーが自動的に保持に追加されます。 

@@ -3,7 +3,7 @@ title: 優先受信トレイを無効にする
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1199"
 - "105"
 - "8000001"
-ms.openlocfilehash: 5c1fd78526e55d14f445c9617a463c11d79a8bac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7059f3ba1886dc1d86f15b40b4fb7e295a9fb478
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759011"
 ---
 # <a name="turn-off-focused-inbox"></a>優先受信トレイを無効にする
 

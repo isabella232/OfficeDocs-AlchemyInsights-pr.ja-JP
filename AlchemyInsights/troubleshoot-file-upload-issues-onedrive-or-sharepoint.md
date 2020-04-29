@@ -3,7 +3,7 @@ title: OneDrive または SharePoint のファイル アップロードに関す
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 11/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: 65e6917168b701e0086ea42db0c5061f1677e9cf
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 57b597fcded42ec1a1fb72496f3bbbf2303c88bd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228272"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766786"
 ---
 # <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDrive または SharePoint のファイル アップロードに関する問題のトラブルシューティング
 
 OneDrive または SharePoint へのファイルのアップロードまたは同期に問題がある場合は、以下の記事が役立つ場合があります。
 
-- [ドキュメント ライブラリにフォルダーまたはファイルをアップロードする](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb?ui=en-US&rs=en-US&ad=US)
+- [ドキュメント ライブラリにフォルダーまたはファイルをアップロードする](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 - [OneDrive Web サイトでのファイルのアップロードに関する問題を修復する](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 - [OneDrive、OneDrive for Business、および SharePoint で無効なファイル名とファイルの種類](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 - [OneDrive の同期に関する問題を解決する](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)

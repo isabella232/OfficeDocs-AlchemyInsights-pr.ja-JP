@@ -3,7 +3,7 @@ title: Outlook.com の容量超過
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: bcfbe9cc479a36c4d1ffd9d19a403e146794f024
-ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
+ms.openlocfilehash: b65124cc5c637f2fb1a0d0edadfb439cd2b698e0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "37414088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745208"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Outlook.com のメールと記憶域のクォータ
 

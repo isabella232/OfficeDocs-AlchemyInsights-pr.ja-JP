@@ -13,7 +13,7 @@ ms.custom:
 - "3066"
 ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43720106"
@@ -26,7 +26,7 @@ ms.locfileid: "43720106"
 
 **Outlook for Windows**: 
 
-- **ファイル** > **Office アカウント** > **ユーザー情報** > **(Microsoft** 365 プロファイルオンラインになります) >**更新プロファイル**を表示するか、カメラアイコンをクリックして写真を変更します。  
+- [**ファイル**]  >  [**Office アカウント**]  >  [**ユーザー情報**  > ] [**自己紹介**] (Microsoft 365 プロファイルをオンラインで表示)、[**プロフィールの更新**] の順に移動するか、カメラ アイコンをクリックして写真を変更する  
   
 **Outlook on the Web (OWA)**: 
 

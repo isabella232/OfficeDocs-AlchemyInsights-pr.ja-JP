@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737878"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910937"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>外部ユーザーを配布グループに追加する場合
 
@@ -40,5 +40,5 @@ ms.locfileid: "36737878"
     
 これらの手順を実行した後に、外部ユーザーと DG の間でメールの送受信ができない場合は、内部ユーザーからのメールのみが許可されるように DG にマークされている可能性があります。 [こちら](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)の指示に従ってこの構成の確認と修正を行えます。
   
- **注:** グループの種類が "配布グループ" ではなく "Office 365 グループ" の場合、これらの手順は適用されません。 その場合は、Outlook からグループに外部ユーザーを直接追加できます。 Office 365 グループ ゲストに関する詳細情報および外部ゲストを追加する手順については、[この記事](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)を参照してください。
+ **注:** グループの種類が「配布グループ」ではなく「Microsoft 365 グループ」の場合、これらの手順は適用されません。 その場合は、Outlook からグループに外部ユーザーを直接追加できます。 Microsoft 365 グループ ゲストに関する詳細情報および外部ゲストを追加する手順については、[この記事](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)を参照してください。
   

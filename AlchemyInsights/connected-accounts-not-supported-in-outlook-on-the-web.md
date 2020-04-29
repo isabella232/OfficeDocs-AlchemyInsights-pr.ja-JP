@@ -13,14 +13,14 @@ ms.custom:
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
 ms.openlocfilehash: b26f9b62ec3c379eb875426c7744a39fca6decc1
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43705846"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>接続されたアカウントはサポートされていません
 
-Microsoft は、2018年9月15日に接続されたアカウント機能を使用して web 上の Outlook に新しいアカウントを追加する機能を削除しました。2018年9月15日以前に接続された2018年10月30日に、既存のアカウントの同期を停止します。11月15日に、[接続済みアカウント] (**設定** \> **メール** \> **アカウント**) が web 上の outlook から削除されます。詳細については、「 [web 上の outlook で接続されたアカウントがサポートされなくなりました (Microsoft 365 For business アカウント)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887) 」を参照してください。
+Microsoft では、2018 年 9 月 15 日に、[接続されたアカウント] 機能を使用して Outlook on the web に新しいアカウントを追加する機能を削除しました。また、2018 年 9 月 15 日より前に接続された既存のアカウントの同期を、2018 年 10 月 30 日に停止します。[接続されたアカウント] オプション (**[設定]** \> **[メール]** \> **[アカウント]**) は、11 月 15 日に Outlook on the web から削除されます。詳細については、「[接続されたアカウントは Outlook on the web でサポートされていません (一般法人向け Microsoft 365 アカウント)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)」を参照してください。
   
 他のアカウントのメールを引き続き表示する場合: 他のアカウントのメールを Outlook on the web に引き続き転送できます。詳細については、以下を参照してください。
   

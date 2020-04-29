@@ -13,7 +13,7 @@ ms.custom:
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
 ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43709700"
@@ -22,7 +22,7 @@ ms.locfileid: "43709700"
 
 Office を正常にインストールしてライセンス認証するには、管理者がユーザーの職場または学校のアカウントに [Office ライセンス](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を割り当てる必要があります。
   
-Office のインストール後、多くの場合、アプリが自動的に有効になり、ユーザーがライセンス認証を求められない場合は、すぐに Office を使い始めることができます。
+Office をインストールした後、多くの場合、アプリではライセンス認証が自動的に行われ、ユーザーがライセンス認証を求められない場合は、すぐに Office を使用できます。
   
 ただし、ユーザーが **[サインインして Office を設定する]** よう求められた場合は、[割り当て済みの Office ライセンス](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)が既にある職場または学校のアカウントでサインインする必要があります。
   

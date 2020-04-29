@@ -15,20 +15,21 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43687767"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 インポートサービス
+# <a name="microsoft-365-import-service"></a>Microsoft 365 インポート サービス
 
-Microsoft 365 インポートサービスを使用すると、複数の PST ファイルを Exchange Online メールボックスに一括インポートすることができます。
+Microsoft 365 インポート サービスでは、Exchange Online のメールボックスに複数の PST ファイルを一括インポートすることができます。
 
 インポート サービスにアクセスして、インポート プロセスを開始するには、次の操作を実行します。
 
-1. [[セキュリティ & コンプライアンスセンター](https://protection.office.com) ] に移動し、組織内の管理者アカウントの資格情報を使用してサインインします。
+1. [セキュリティ/コンプライアンス センター](https://protection.office.com)にアクセスし、組織の管理者アカウントの資格情報を使用してサインインします。
 
-2. **セキュリティ/コンプライアンス センター**の左のウィンドウで、**[データ ガバナンス] > [インポート]** の順にクリックします。
+2. 
+            **セキュリティ/コンプライアンス センター**の左のウィンドウで、**[データ ガバナンス] > [インポート]** の順にクリックします。
 
 3. **[インポート]** ページで、**[新規インポート ジョブ]** をクリックします。
 

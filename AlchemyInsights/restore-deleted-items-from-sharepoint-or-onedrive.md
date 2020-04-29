@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742520"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912552"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint または OneDrive から削除されたアイテムを復元する
 
@@ -34,6 +34,6 @@ SharePoint サイトからファイル、フォルダー、リスト、リスト
   
 [削除済みサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660) (Microsoft 365 の全体管理者または SharePoint 管理者) 
   
-Office 365 グループに属するサイトの場合、サイトを復元するにはグループを復元する必要があります。[削除済みの Office 365 グループを復元する](https://go.microsoft.com/fwlink/?linkid=867802) をご覧ください (全体管理者) 
+Microsoft 365 グループに属するサイトの場合、サイトを復元するにはグループを復元する必要があります。「[削除された Microsoft 365 グループを復元する](https://go.microsoft.com/fwlink/?linkid=867802)」をご覧ください (全体管理者) 
   
 

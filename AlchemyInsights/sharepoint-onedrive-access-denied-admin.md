@@ -2,18 +2,18 @@
 title: "\"アクセスが拒否されました\" メッセージのトラブルシューティング"
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 82e11458529b8a49e583b1a6963a51e2a466bfd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051430"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758460"
 ---
 # <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Sharepoint/OneDrive 管理センターで "アクセスが拒否されました" メッセージをトラブルシューティングする
 
@@ -21,7 +21,7 @@ Sharepoint/OneDrive 管理センターをブラウザーで参照しようとし
 
 この問題は、ユーザーの削除後に同じユーザー プリンシパル名 (UPN) でユーザーを再作成した場合にも発生することがあります。 新しいアカウントは、別の PUID (Passport 一意識別子) を使用して作成されます。 そのユーザーがサイト コレクションや自分の OneDrive にアクセスしようとしたときに、ユーザーの PUID は間違ったものになります。 もう 1 つのシナリオには、Active Directory 組織単位 (OU) とのディレクトリ同期が関連します。 SharePoint にサインインしているユーザーが、別の OU に移動されて SharePoint と再同期されると、この問題が発生することがあります。
 
-この問題を解決するには、「[Office 365 でユーザーを復元する](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)」に記載された手順を実行して元の UPN を復元する必要があります。
+この問題を解決するには、「[Microsoft 365 でユーザーを復元する](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)」に記載されている手順を実行して元の UPN を復元する必要があります。
 
 注: それまでアクセスできていた複数のユーザーが OneDrive または SharePoint 管理センターを利用できない場合は、サービスに一時的な問題が発生している可能性があります。  [サービス正常性ダッシュボードを確認](https://portal.office.com/adminportal/home#/servicehealth)してください。
 

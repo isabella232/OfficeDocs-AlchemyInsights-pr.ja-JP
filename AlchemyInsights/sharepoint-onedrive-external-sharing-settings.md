@@ -12,14 +12,14 @@ ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43692878"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>警告メッセージ: 組織のポリシーにより、これらのユーザーと共有することはできません。
 
-組織外のユーザーと共有しようとすると、警告メッセージが表示される場合があります。 このメッセージは、組織のポリシーによって、これらのユーザーとの共有が許可されていないことを示してい**ます。Microsoft 365 管理センターの [外部共有] に移動して、有効に**します。 これは、外部ユーザーとの共有を初めて行おうとする場合や、新しい外部ユーザーと共有する場合によく発生します。
+組織外のユーザーと共有しようとすると、警告メッセージが表示される場合があります。 「**このユーザーとの共有が組織で許可されていません。Microsoft 365 管理センターの外部共有に移動して、共有を有効にしてください**」というメッセージです。 これは、外部ユーザーとの共有を初めて行おうとする場合や、新しい外部ユーザーとの共有を行う場合によく発生します。
 
 組織の **SharePoint および OneDrive の外部共有設定**を確認してください。
 

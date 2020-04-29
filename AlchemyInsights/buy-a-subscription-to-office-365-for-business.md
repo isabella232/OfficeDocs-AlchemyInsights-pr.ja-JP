@@ -1,5 +1,5 @@
 ---
-title: 一般法人向け Office 365 のサブスクリプションを購入する
+title: 無料試用版から一般法人向け Microsoft 365 のサブスクリプションを購入する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
-ms.translationtype: MT
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43413706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712212"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>一般法人向け Office 365 のサブスクリプションを購入する
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>無料試用版から Microsoft 365 のサブスクリプションを購入する
 
-Office 365 を試したら、次に必要なのは購入手続きです。試用版から Office 365 を購入する方法は 2 つあります。
+Microsoft 365 を試したので、購入する準備が整いました。 試用版から Microsoft 365 を購入する場合、2 つのオプションがあります。
   
  **試用版と同じプランを購入する**
   
@@ -35,7 +35,7 @@ Office 365 を試したら、次に必要なのは購入手続きです。試用
 
 3. 購入するサブスクリプションを検索して、[**購入**] を選択し、手順に従ってチェックアウトします。
 
-詳細については、「[無料の試用版から一般法人向け Office 365 のサブスクリプションを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)」を参照してください。
+詳細については、「[無料の試用版から一般法人向け Microsoft 365 のサブスクリプションを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)」を参照してください。
 
 **トラブルシューティング**
 

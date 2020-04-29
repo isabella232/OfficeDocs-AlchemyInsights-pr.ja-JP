@@ -3,7 +3,7 @@ title: 8000086 Outlook.com 画像を挿入する
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,12 +15,12 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: ee8e98e602930ee9846009254d1735102df56838
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4634560610367ac665f1c502d054687490bddd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546416"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760129"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>メール メッセージまたは予定表イベントに画像を挿入する
 

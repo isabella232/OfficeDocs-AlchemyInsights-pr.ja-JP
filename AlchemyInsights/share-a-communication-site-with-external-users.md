@@ -2,18 +2,18 @@
 title: 外部ユーザーとコミュニケーション サイトを共有する
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054166"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767506"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>外部ユーザーとコミュニケーション サイトを共有する
 

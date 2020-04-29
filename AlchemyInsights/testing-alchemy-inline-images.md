@@ -2,7 +2,7 @@
 title: Alchemy インライン画像のテスト
 ms.author: pebaum
 author: pebaum
-ms.date: 11/16/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.custom:
 - "273"
 - "1500006"
-ms.openlocfilehash: 8a9d98e2af3ef0cc71b820b4e74aa2a2a522346b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 47e4d86125ae73faa97a777ef1c56620bd0b890b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36743134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759985"
 ---
 # <a name="access-the-domains-page"></a>[Domains] ページにアクセスする
 

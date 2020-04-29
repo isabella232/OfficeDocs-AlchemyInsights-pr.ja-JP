@@ -2,7 +2,7 @@
 title: Office のライセンス認証エラー 0x80070005 を解決する手順
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,12 +12,12 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 92c18207d676a42b86c5a11c6f4ae9001bbe9107
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61e8bdf268e6c6c6d537073eab04b1ae37d20526
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534532"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764014"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office のライセンス認証エラー 0x80070005 を解決する手順
 

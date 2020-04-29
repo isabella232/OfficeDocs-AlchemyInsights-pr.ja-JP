@@ -2,7 +2,7 @@
 title: Office のライセンス認証エラー 0x80072EFD を解決する手順
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,12 +12,12 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: b32abb6684e8a2a4a3fdac19045073d1ba598303
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: de9969a6c4aca318887589f1553c7060eff6b6f4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559738"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763952"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Office のライセンス認証エラー 0x80072EFD を解決する手順
 

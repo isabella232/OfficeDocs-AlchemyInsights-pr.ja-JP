@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
 ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43705090"
@@ -24,7 +24,7 @@ ms.locfileid: "43705090"
 
 クレジット カードでの支払いにして、クレジット カードでの支払いが拒否された場合、支払いプロセスが完了できなかったことを通知するメールが送信されます。カード番号、有効期限、クレジット カードの名義、住所 (市町村、都道府県、郵便番号を含む) などの[クレジット カードの詳細](https://go.microsoft.com/fwlink/p/?linkid=842054)が、クレジット カードとクレジット カードの明細に記載されている内容と同じであることを再確認してください。[[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの [**残高の決済**] オプションを使用すると、クレジット カード情報を更新して、すぐに支払いを申し込むことができます。 
 
-詳細については、有効期限が切れ、支払期日を過ぎてしまった場合に関するセクションが記載されている [Microsoft 365 for business サブスクリプション](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)にお支払いください。
+詳細については、有効期限が切れ、支払期日を過ぎてしまった場合に関するセクションが記載されている 「[一般法人向け Microsoft 365 サブスクリプションを支払う](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)」を参照してください。
   
 それでも、ご利用いただけないというメッセージが表示される場合は、ご契約先の金融機関にお問い合わせください。クレジット カードがアクティブでない可能性があります。たとえば、有効期限が更新されたクレジット カードを最近郵送で受け取ったのであれば、クレジット カードをアクティブにすることが必要な場合があります。また、クレジット カードでのオンライン取引、国際取引、または定期的な取引が承認されていない場合は、ご契約先の金融機関に確認できます。  
   

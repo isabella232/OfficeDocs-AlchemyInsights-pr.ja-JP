@@ -9,7 +9,7 @@ localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
 ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "43642257"
@@ -17,7 +17,7 @@ ms.locfileid: "43642257"
 # <a name="irm-protection-to-sharepoint-files"></a>SharePoint ファイルに対する IRM 保護
 
 
-SharePoint Online では、リストおよびライブラリのレベルでファイルに IRM 保護が適用されます。 組織で IRM 保護を使用するには、まず、Rights Management をセットアップしておく必要があります。 IRM は Azure Information Protection の Azure Rights Management サービスを利用して、暗号化と使用制限の割り当てを実施します。 一部の Microsoft 365 サブスクリプションには、Azure Rights Management は含まれていますが、すべてではありません。 
+SharePoint Online では、リストおよびライブラリのレベルでファイルに IRM 保護が適用されます。 組織で IRM 保護を使用するには、まず、Rights Management をセットアップしておく必要があります。 IRM は Azure Information Protection の Azure Rights Management サービスを利用して、暗号化と使用制限の割り当てを実施します。 Microsoft 365 サブスクリプションには Azure Rights Management が含まれているものと、含まれていないものがあります。 
 
 詳細については、次を参照してください。
 

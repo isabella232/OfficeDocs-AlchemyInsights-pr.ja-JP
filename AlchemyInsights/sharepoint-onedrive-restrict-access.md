@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43692770"
@@ -29,9 +29,9 @@ SharePoint Online と OneDrive for Business で、アクセス権が必要なグ
 
 - [サブフォルダーの権限の変更](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [非管理対象デバイスからのアクセスを制御する](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [アンマネージド デバイスからのアクセスを制御する](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint またはグローバル管理者は、管理されていないデバイス (ハイブリッド AD に参加していないか、または Intune で準拠していないデバイス) からの SharePoint および OneDrive のコンテンツへのアクセスをブロックまたは制限することができます。
+SharePoint 管理者またはグローバル管理者は、非管理対象デバイス (ハイブリッド AD に参加していないデバイスまたは Intune 内の準拠していないデバイス) からの SharePoint および OneDrive のコンテンツに対するアクセスをブロックまたは制限することができます。
 
 **ネットワークの場所の制限**
 
@@ -43,5 +43,5 @@ SharePoint Online では、誰もアクセスできないようにサイト コ�
 
 **ユーザーがサイトまたはサブサイトを作成できないように制限する**
 
-SharePoint 管理者またはグローバル管理者は、ユーザーが自分の SharePoint サイトを作成および管理したり、作成できるサイトの種類を決定したり、サイトの場所を指定したりすることができます。 詳細については、[「SharePoint Online のサイト作成を管理する」](https://docs.microsoft.com/sharepoint/manage-site-creation)を参照してください。
+SharePoint 管理者またはグローバル管理者は、ユーザーが独自の SharePoint サイトを作成し管理できるようにし、ユーザーが作成できるサイトの種類を決定し、サイトの場所を指定することができます。 詳細については、[「SharePoint Online のサイト作成を管理する」](https://docs.microsoft.com/sharepoint/manage-site-creation)を参照してください。
 

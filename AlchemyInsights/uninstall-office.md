@@ -15,7 +15,7 @@ ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: PC から Outlook をインストール方法は次のとおりです。
 ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43731333"

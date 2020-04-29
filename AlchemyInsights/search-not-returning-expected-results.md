@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43709232"
 ---
 # <a name="content-search-not-returning-expected-results"></a>期待した結果を返さないコンテンツ検索
 
-Microsoft 365 セキュリティ & コンプライアンスセンターからコンテンツ検索を実行すると、予期しない検索結果が表示されることがあります。検索結果に影響を与える可能性がある次の点を考慮してください。
+Microsoft 365 セキュリティ/コンプライアンス センターからコンテンツ検索を実行すると、期待していない検索結果が返されることがあります。検索結果には、次の事項が影響している可能性があります。
 
 - **コンテンツの場所と検索条件**: 適切なコンテンツの場所と検索条件を選択していることを確認してください。大規模な検索 (多数の場所を含む) を実行する場合は、複数の検索に分割することを検討してください。
 

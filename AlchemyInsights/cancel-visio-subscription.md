@@ -1,5 +1,5 @@
 ---
-title: Visio サブスクリプションのキャンセル
+title: Visio サブスクリプションをキャンセルする
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "4721"
 ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
 ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/18/2020
 ms.locfileid: "43552812"
 ---
-# <a name="cancel-visio-subscription"></a>Visio サブスクリプションのキャンセル
+# <a name="cancel-visio-subscription"></a>Visio サブスクリプションをキャンセルする
 
-管理者は、 **Microsoft 365 管理センター**から組織の Visio サブスクリプションを取り消すことができます。 
+管理者は、組織の Visio サブスクリプションを **Microsoft 365 管理センター**からキャンセルできます。 
 
-1. **請求**オプションを選択します。
+1. [**課金**] オプションを選択します。
 
-2. [ [Products & services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) ] をクリックして、組織のすべてのサブスクリプションを表示します。
+2. 組織のすべてのサブスクリプションを表示するには、[[製品とサービス](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions)] をクリックします。
 
-3. 取り消したい Visio プランを探します。
+3. キャンセルする Visio プランを見つけます。
 
-4. [**サブスクリプションのキャンセル**] をクリックします。
+4. **[サブスクリプションのキャンセル]** をクリックします。
 
-**返金: 次の請求サイクルでは、日割り処理によるクレジットが返されます。** 
+**返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 
-**注**: 取り消すオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示し、[**設定 & の操作**] に [**サブスクリプションのキャンセル**] オプションが表示されるはずです。 
+**注**: キャンセルするためのオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示します。**[設定とアクション]** に **[サブスクリプションのキャンセル]** オプションが示されます。 
 
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。 

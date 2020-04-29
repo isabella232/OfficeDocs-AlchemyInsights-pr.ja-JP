@@ -14,7 +14,7 @@ ms.custom:
 - "9000201"
 ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43682297"
@@ -34,6 +34,6 @@ Visio のライセンス認証を行うには:
 
 詳細については、次を参照してください。<br>
 [Office のライセンス認証を行う](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Microsoft アプリケーションを開くとサブスクリプションの通知が表示される](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Microsoft アプリケーションを開くとサブスクリプションに関するお知らせが表示される](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Office エラー「アカウントで見つかった製品は、<app> のライセンス認証に使用できません」](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Office のライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

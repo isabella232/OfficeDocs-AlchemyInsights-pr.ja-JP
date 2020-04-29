@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053122"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908709"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>1 日のメールの制限を超えました。 ワークフローは中断されています。
 
@@ -27,7 +27,7 @@ ms.locfileid: "40053122"
 - ワークフローを実行すると、メール メッセージは送信されず、ユーザーは次のような動作に気付くはずです。
     - プラットフォームの種類に SharePoint 2013 を使用するワークフローでは、[**ワークフローの状態**] ページを参照します。 [ワークフローの状態] ページで、[**内部の状態**] は [**開始済み**] に設定され、情報の吹き出しには "**受信者に送信できません**" と表示されます。
 
-この問題を回避するには、[Exchange Online の送信者制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)を超過せずにメール メッセージを送信するようにワークフローを構成します。 たとえば、ワークフロー内で一時停止を使用したり、メールを Office 365 グループ、配布グループ、またはメールが有効なセキュリティ グループに送信したり、一度にメッセージを送信する相手を 200 人未満の受信者にしたりします。
+この問題を回避するには、[Exchange Online の送信者制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)を超過せずにメール メッセージを送信するようにワークフローを構成します。 たとえば、ワークフロー内で一時停止を使用したり、メールを Microsoft 365 グループ、配布グループ、またはメールが有効なセキュリティ グループに送信したり、一度にメッセージを送信する相手を 200 人未満の受信者にしたりします。
 
 
 詳細については、以下の[記事](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)をご覧ください。
