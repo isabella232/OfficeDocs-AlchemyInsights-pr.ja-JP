@@ -15,13 +15,13 @@ ms.custom:
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
 ms.openlocfilehash: bfca8cbf03b2561a433032e79c09727b83bacf43
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43712931"
 ---
-# <a name="change-your-email-address"></a><span data-ttu-id="fabce-102">メール アドレスを変更する</span><span class="sxs-lookup"><span data-stu-id="fabce-102">Change your email address</span></span>
+# <a name="change-your-email-address"></a><span data-ttu-id="ad8d4-102">メール アドレスを変更する</span><span class="sxs-lookup"><span data-stu-id="ad8d4-102">Change your email address</span></span>
 
-<span data-ttu-id="fabce-103">Outlook.com のメール アドレスを変更するには、別のアドレスを追加して、それをプライマリ メール エイリアスにする必要があります。</span><span class="sxs-lookup"><span data-stu-id="fabce-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
+<span data-ttu-id="ad8d4-103">Outlook.com のメール アドレスを変更するには、別のアドレスを追加して、それをプライマリ メール エイリアスにする必要があります。</span><span class="sxs-lookup"><span data-stu-id="ad8d4-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
   
-<span data-ttu-id="fabce-104">「[Outlook.com でメール エイリアスを追加または削除する](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)」の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="fabce-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="ad8d4-104">「[Outlook.com でメール エイリアスを追加または削除する](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)」の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="ad8d4-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

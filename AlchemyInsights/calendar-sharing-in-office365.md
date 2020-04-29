@@ -12,13 +12,13 @@ ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: 2b0e054db44fed52941fe5b6973ec6171a4c5e51
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43712032"
 ---
-# <a name="calendar-sharing"></a><span data-ttu-id="1f2a5-102">予定表の共有</span><span class="sxs-lookup"><span data-stu-id="1f2a5-102">Calendar sharing</span></span>
+# <a name="calendar-sharing"></a><span data-ttu-id="f5192-102">予定表の共有</span><span class="sxs-lookup"><span data-stu-id="f5192-102">Calendar sharing</span></span>
 
-<span data-ttu-id="1f2a5-103">予定表またはその他の予定表にアクセスするときに問題が発生した場合は、microsoft [365 の Microsoft サポート/回復アシスタント](https://diagnostics.office.com/)を使用してください。</span><span class="sxs-lookup"><span data-stu-id="1f2a5-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="f5192-103">自分の予定表やその他のカレンダーにアクセスできない場合、[Microsoft の Microsoft 365 用サポート / 回復アシスタント](https://diagnostics.office.com/)をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="f5192-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="1f2a5-104">予定表共有の詳細については、「[他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1f2a5-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="f5192-104">予定表共有の詳細については、「[他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f5192-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>

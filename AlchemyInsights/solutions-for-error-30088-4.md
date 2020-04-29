@@ -3,7 +3,7 @@ title: エラー 30088-4 の解決方法
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501660"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756888"
 ---
-# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="900f0-102">エラー 30088-4 の解決方法</span><span class="sxs-lookup"><span data-stu-id="900f0-102">Solutions for error 30088-4</span></span>
+# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="1f85b-102">エラー 30088-4 の解決方法</span><span class="sxs-lookup"><span data-stu-id="1f85b-102">Solutions for error 30088-4</span></span>
 
-<span data-ttu-id="900f0-103">エラー [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA) の修正には、次の解決方法を試してみてください。</span><span class="sxs-lookup"><span data-stu-id="900f0-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="1f85b-103">エラー [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA) の修正には、次の解決方法を試してみてください。</span><span class="sxs-lookup"><span data-stu-id="1f85b-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="900f0-104">コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。</span><span class="sxs-lookup"><span data-stu-id="900f0-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="1f85b-104">コンピューターを再起動してから [Office をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。</span><span class="sxs-lookup"><span data-stu-id="1f85b-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="900f0-105">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="900f0-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="1f85b-105">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="1f85b-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="900f0-106">起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="900f0-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="1f85b-106">起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョンを選択して **[次へ]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1f85b-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="900f0-107">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="900f0-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="1f85b-107">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="1f85b-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="900f0-108">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="900f0-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="1f85b-108">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="1f85b-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="900f0-109">その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。</span><span class="sxs-lookup"><span data-stu-id="900f0-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="1f85b-109">その後のプロンプトに従って、Office を[再インストール](https://portal.office.com/OLS/MySoftware.aspx)するか、アシスタントを閉じます。</span><span class="sxs-lookup"><span data-stu-id="1f85b-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
