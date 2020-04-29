@@ -2,21 +2,21 @@
 title: ファイルのチェックインとチェックアウトに関する質問
 ms.author: pebaum
 author: pebaum
-ms.date: 9/25/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 64fba3360e067bb1686db14a63761b0e8fc8daf4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e744c70e890e63890a0488e73dcf5bca4e4e54c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698315"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="58c25-102">ファイルのチェックインとチェックアウトに関する質問</span><span class="sxs-lookup"><span data-stu-id="58c25-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="6b2bf-102">ファイルのチェックインとチェックアウトに関する質問</span><span class="sxs-lookup"><span data-stu-id="6b2bf-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="58c25-103">SharePoint Online でファイルをチェックインおよびチェックアウトする方法、チェックアウトを破棄する方法など、よく寄せられる質問については、「[チェックアウト、チェックインについてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=2018786)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="58c25-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="6b2bf-103">SharePoint Online でファイルをチェックインおよびチェックアウトする方法、チェックアウトを破棄する方法など、よく寄せられる質問については、「[チェックアウト、チェックインについてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=2018786)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b2bf-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 

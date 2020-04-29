@@ -12,21 +12,21 @@ ms.custom: 2589
 ms.assetid: ''
 ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43666746"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a><span data-ttu-id="1168c-102">組織からのメール メッセージに Winmail.dat 添付ファイルが含まれないようにする</span><span class="sxs-lookup"><span data-stu-id="1168c-102">Help prevent Winmail.dat attachments in email messages from your organization</span></span>
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a><span data-ttu-id="19c03-102">組織からのメール メッセージに Winmail.dat 添付ファイルが含まれないようにする</span><span class="sxs-lookup"><span data-stu-id="19c03-102">Help prevent Winmail.dat attachments in email messages from your organization</span></span>
 
-<span data-ttu-id="1168c-103">管理者として、次の手順を試します。</span><span class="sxs-lookup"><span data-stu-id="1168c-103">As an admin, try these steps:</span></span>
+<span data-ttu-id="19c03-103">管理者として、次の手順を試します。</span><span class="sxs-lookup"><span data-stu-id="19c03-103">As an admin, try these steps:</span></span>
 
-1. <span data-ttu-id="1168c-104">[[Exchange 管理センター](https://outlook.office365.com/ecp/)] を開きます。</span><span class="sxs-lookup"><span data-stu-id="1168c-104">Open the [Exchange admin center](https://outlook.office365.com/ecp/).</span></span>
+1. <span data-ttu-id="19c03-104">[[Exchange 管理センター](https://outlook.office365.com/ecp/)] を開きます。</span><span class="sxs-lookup"><span data-stu-id="19c03-104">Open the [Exchange admin center](https://outlook.office365.com/ecp/).</span></span>
 
-2. <span data-ttu-id="1168c-105">[**メール フロー**]  >  [**リモート ドメイン**] の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="1168c-105">Go to **Mail flow** > **Remote domains**.</span></span>
+2. <span data-ttu-id="19c03-105">[**メール フロー**]  >  [**リモート ドメイン**] の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="19c03-105">Go to **Mail flow** > **Remote domains**.</span></span>
 
-3. <span data-ttu-id="1168c-106">**Default** という既定のリモート ドメインを選択し、[**編集**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1168c-106">Select the default remote domain named **Default**, and then click **Edit**.</span></span>
+3. <span data-ttu-id="19c03-106">**Default** という既定のリモート ドメインを選択し、[**編集**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="19c03-106">Select the default remote domain named **Default**, and then click **Edit**.</span></span>
 
-4. <span data-ttu-id="1168c-107">[**リッチテキスト形式の使用**] セクションで、 [**行なわない**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1168c-107">In the **Use Rich-text format** section, select **Never**.</span></span>
+4. <span data-ttu-id="19c03-107">[**リッチテキスト形式の使用**] セクションで、 [**行なわない**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="19c03-107">In the **Use Rich-text format** section, select **Never**.</span></span>
 
-<span data-ttu-id="1168c-108">詳細については、「[リモート ドメインのメッセージ形式を指定する](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1168c-108">For more information, see [Specify the message format for remote domains](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).</span></span>
+<span data-ttu-id="19c03-108">詳細については、「[リモート ドメインのメッセージ形式を指定する](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="19c03-108">For more information, see [Specify the message format for remote domains](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).</span></span>

@@ -13,11 +13,11 @@ ms.custom:
 - "9001195"
 ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43712643"
 ---
-# <a name="banned-sending-ip"></a><span data-ttu-id="88ae5-102">禁止送信 IP</span><span class="sxs-lookup"><span data-stu-id="88ae5-102">Banned sending IP</span></span>
+# <a name="banned-sending-ip"></a><span data-ttu-id="93bd6-102">禁止送信 IP</span><span class="sxs-lookup"><span data-stu-id="93bd6-102">Banned sending IP</span></span>
 
-<span data-ttu-id="88ae5-103">Microsoft 365 にメールを送信するときに、送信者がこのエラーを発生させることがあります。</span><span class="sxs-lookup"><span data-stu-id="88ae5-103">When sending mail to Microsoft 365, a sender might experience this error.</span></span> <span data-ttu-id="88ae5-104">送信者は https://sender.office.com にアクセスして、指示に従う必要があります。</span><span class="sxs-lookup"><span data-stu-id="88ae5-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="88ae5-105">ポータルからの確認メールを送信者が受信していない場合は、送信者にスパム フォルダーをチェックしてもらいます。または、別のメール アドレスで試してもらいます。</span><span class="sxs-lookup"><span data-stu-id="88ae5-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>
+<span data-ttu-id="93bd6-103">Microsoft 365 にメールを送信するときに、このエラーが送信者に表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="93bd6-103">When sending mail to Microsoft 365, a sender might experience this error.</span></span> <span data-ttu-id="93bd6-104">送信者は https://sender.office.com にアクセスして、指示に従う必要があります。</span><span class="sxs-lookup"><span data-stu-id="93bd6-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="93bd6-105">ポータルからの確認メールを送信者が受信していない場合は、送信者にスパム フォルダーをチェックしてもらいます。または、別のメール アドレスで試してもらいます。</span><span class="sxs-lookup"><span data-stu-id="93bd6-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>

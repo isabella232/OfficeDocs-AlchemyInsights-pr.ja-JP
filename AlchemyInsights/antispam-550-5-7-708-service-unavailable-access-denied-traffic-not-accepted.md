@@ -15,13 +15,13 @@ ms.custom:
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
 ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43707880"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="6fb32-103">550 5.7.708 アクセスが拒否され、この IP からのトラフィックは受け入れられませんでした</span><span class="sxs-lookup"><span data-stu-id="6fb32-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="12829-103">550 5.7.708 アクセスが拒否され、この IP からのトラフィックは受け入れられませんでした</span><span class="sxs-lookup"><span data-stu-id="12829-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="6fb32-104">このエラーは、評価が低い既知の IP アドレス (通常、新規のお客様が使用するアドレス) からメールが送信された場合に発生します。</span><span class="sxs-lookup"><span data-stu-id="6fb32-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="12829-104">このエラーは、評価が低い既知の IP アドレス (通常、新規のお客様が使用するアドレス) からメールが送信された場合に発生します。</span><span class="sxs-lookup"><span data-stu-id="12829-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="6fb32-105">ライセンスを購入する前に、これらの IP アドレスからメールを送信する必要がある場合は、サポートに連絡して、ライセンスを購入できるまで例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="6fb32-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="12829-105">ライセンスを購入する前に、これらの IP アドレスからメールを送信する必要がある場合は、サポートに連絡して、ライセンスを購入できるまで例外を申請してください。</span><span class="sxs-lookup"><span data-stu-id="12829-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
