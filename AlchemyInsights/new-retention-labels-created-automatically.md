@@ -14,14 +14,14 @@ ms.custom:
 - "9000331"
 ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43713507"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自動作成される新しい保持ラベル
 
-セキュリティ管理者またはコンプライアンス管理センターの [**保持ラベル**] で、組織内に自動的に作成される[3 つの新しい保持ラベル](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)が表示される場合があります。 ラベル名は次のとおりです。
+セキュリティ/コンプライアンス管理センターの **[保持ラベル]** には、組織内に自動作成される [3 つの新しい保持ラベル](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)が表示されていることがあります。 ラベル名は次のとおりです。
 
 - 運用手順
 - 企業一般

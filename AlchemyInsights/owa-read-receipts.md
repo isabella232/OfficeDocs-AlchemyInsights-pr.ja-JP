@@ -3,7 +3,7 @@ title: Outlook on the web の開封確認
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/18/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 896b7b684be1b8e28f59e7de60f3706e73d5b235
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d068a3be12828022cf58a71d114dbabe0978547
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556138"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768309"
 ---
 # <a name="read-receipts"></a>開封確認
 

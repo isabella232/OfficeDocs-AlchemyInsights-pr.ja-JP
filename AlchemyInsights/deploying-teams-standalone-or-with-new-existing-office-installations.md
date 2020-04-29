@@ -14,16 +14,16 @@ ms.custom:
 - "2509"
 ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43704638"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規または既存の Offic eインストールで展開する
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規または既存の Office インストールで展開する
 
-Microsoft Teams は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Office for Mac の***新規インストール***の一部として追加されました。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)」を参照してください。
+Microsoft Teams は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Office for Mac の***新規インストール***に含まれるようになりました。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)」を参照してください。
 
-さらに、月次チャネルのバージョン1906以降では、既存のインストールを最新バージョンに更新するときに、Windows を実行しているデバイスに Teams がインストールされて、Microsoft 365 Apps for enterprise (および Microsoft 365 Apps for business)***に追加***されます。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
+さらに、月次チャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が Microsoft 365 Apps for enterprise (および Microsoft 365 Apps for business) の***既存のインストールに追加***されるようになります。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)」を参照してください。
 
 > [!NOTE]
 > この展開スケジュールを待たない場合は、[次の手順に従って](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) 、ユーザーに Teams をスタンドアロンとして展開することができます。または、ユーザーが  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) から自分で Teams をインストールすることもできます。

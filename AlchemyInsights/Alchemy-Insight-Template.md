@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43676538"

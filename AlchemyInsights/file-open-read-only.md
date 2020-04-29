@@ -3,7 +3,7 @@ title: 読み取り専用で開いているファイル
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702779"
 ---
 # <a name="file-open-read-only"></a>読み取り専用で開いているファイル
 
@@ -37,7 +37,7 @@ ms.locfileid: "36822239"
   
  **OneDrive がいっぱいになっていないか?**
   
-ファイルが OneDrive に保存されており、OneDrive の記憶領域がいっぱいになっている場合は、割り当てられた領域未満になるまで、ドキュメントを保存できません。OneDrive 上の空き領域を確認するには、通知センターで OneDrive アイコンをクリックして、[記憶域の管理 (Manage storage)] を選択するか、[http://onedrive.live.com](http://onedrive.live.com) に移動して、サインインし、画面の左下で使用済み領域の容量を書き留めます。
+ファイルが OneDrive に保存されており、OneDrive の記憶領域がいっぱいになっている場合は、割り当てられた領域未満になるまで、ドキュメントを保存できません。OneDrive 上の空き領域を確認するには、通知センターで OneDrive アイコンをクリックして、[記憶域の管理 (Manage storage)] を選択するか、[https://onedrive.live.com](https://onedrive.live.com) に移動して、サインインし、画面の左下で使用済み領域の容量を書き留めます。
   
  **Office はライセンス認証されているか?**
   

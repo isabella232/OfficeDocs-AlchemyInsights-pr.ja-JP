@@ -2,7 +2,7 @@
 title: Office のインストール時にエラー コード 30125-4 または 30125-1011 が表示される
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,12 +12,12 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527102"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703067"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Office のインストール時にエラー コード 30125-4 または 30125-1011 が表示される
 

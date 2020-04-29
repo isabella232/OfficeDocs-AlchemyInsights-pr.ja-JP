@@ -3,19 +3,19 @@ title: '2571 新機能: スパムの判定に関するフィードバックを�
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: 83ffad7000ae750714a1d040cd90bfafd1f4afb6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36712069"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765021"
 ---
 # <a name="get-feedback-about-spam-judgments"></a>スパムの判定に関するフィードバックを取得する
 

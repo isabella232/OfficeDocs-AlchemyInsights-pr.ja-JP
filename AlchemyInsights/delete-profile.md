@@ -3,7 +3,7 @@ title: 1800001 プロファイルを削除する
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704838"
 ---
 # <a name="delete-a-profile"></a>プロファイルを削除する
 
@@ -31,7 +31,7 @@ ms.locfileid: "36513220"
 3. **[メール]** ダイアログで、削除するプロファイルを選択してから **[削除]** をクリックします。
 
     > [!NOTE]
-    > Outlook で、プロファイルを削除するとオフラインのデータが削除されるという警告が示される場合があります。Outlook データ ファイル (.pst) に格納されている情報や、オンライン アカウント (Outlook.com、Exchange、Office 365 のアカウントなど) に格納されている情報が失われることはありません。
+    > プロファイルを削除すると、Outlook でオフラインのデータが削除されるという警告が示される場合があります。Outlook データ ファイル (.pst) に格納されている情報や、オンライン アカウント (Outlook.com、Exchange、Microsoft 365 のアカウントなど) に格納されている情報が失われることはありません。
   
 **Outlook for Mac** プロファイルの管理については、「[Outlook for Mac でプロファイルまたは ID を管理する](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)」を参照するか、以下の手順を使用してください。
   
