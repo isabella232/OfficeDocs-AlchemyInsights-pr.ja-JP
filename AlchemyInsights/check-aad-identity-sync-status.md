@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43706314"
@@ -30,5 +30,5 @@ ms.locfileid: "43706314"
 
 - [ディレクトリ同期] ウィンドウで、[DirSync の管理に移動] を選択します。
 
-ディレクトリ同期に問題がある場合は、このページにエラーが表示されます。発生する可能性があるさまざまなエラーの詳細については、「 [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)」を参照してください。
+ディレクトリの同期で問題がある場合は、このページにエラーが一覧表示されます。発生する可能性があるさまざまなエラーの詳細については、[ディレクトリ同期エラーを確認する](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)に関するページを参照してください。
   
