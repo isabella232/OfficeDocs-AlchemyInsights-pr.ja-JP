@@ -3,7 +3,7 @@ title: グループ サイトを削除する
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 1/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,14 +14,14 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 058277a0b252d89b2fba9b9d8d6131395614f74a
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 5c44ab1409f6a0dcd7079cee68f61d6984bdc43f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931195"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911513"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365 グループに属している SharePoint サイトを削除する
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>Microsoft 365 グループに属している SharePoint サイトを削除する
 
 グループに関連付けられているサイトを削除すると、グループとグループの Outlook メールボックスやカレンダーなどのすべてのリソース、Teams チャネルが削除されます。
   

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742372"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911693"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online での共有方法
 
@@ -24,7 +24,7 @@ ms.locfileid: "43742372"
   
 1. サイトを Web ブラウザーで開きます。
     
-2. サイトが Office 365 のグループに属している場合、右上の [設定] アイコンをクリックし、[**サイトの権限**] をクリックします。[**ユーザーの招待**] をクリックして、Office 365 グループにメンバーを追加するか、サイトのみを共有します。 
+2. サイトが Microsoft 365 グループに属している場合、右上の [設定] アイコンをクリックし、**[サイトの権限]** をクリックします。**[ユーザーの招待]** をクリックして、Microsoft 365 グループにメンバーを追加するか、サイトのみを共有します。 
     
     コミュニケーション サイトでは、右上の [**サイトの共有**] をクリックして、ユーザー名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。 
     

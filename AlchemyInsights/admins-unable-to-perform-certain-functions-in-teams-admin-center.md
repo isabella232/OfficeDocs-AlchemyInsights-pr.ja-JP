@@ -13,12 +13,14 @@ ms.custom:
 - "5055"
 - "9002613"
 - "5057"
-ms.openlocfilehash: 44f51dc8735409fa91b8e616421535f774b903a5
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+- "9000701"
+- "5067"
+ms.openlocfilehash: 676f6a2a93d1cff67729b94e7ecddcbdb04dacfc
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908810"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914912"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>管理者が Teams 管理センターで特定の機能を実行できない
 

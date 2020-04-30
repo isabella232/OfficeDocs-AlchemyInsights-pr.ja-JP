@@ -3,7 +3,7 @@ title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555238"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911836"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>コンテンツ検索と電子情報開示検索の実行方法
 
-セキュリティ/コンプライアンス センターのコンテンツ検索ツールを使用して、Exchange メールボックスのメール、SharePoint サイトおよび OneDrive アカウントのドキュメント、Skype for Business のインスタント メッセージングの会話をすばやく検索できます。 コンテンツ検索ツールは、Microsoft Teams や Office 365 グループなどの Office 365 コラボレーション ツール内の電子メール、ドキュメント、インスタント メッセージングの会話を検索するためにも使用できます。
+セキュリティ/コンプライアンス センターのコンテンツ検索ツールを使用して、Exchange メールボックスのメール、SharePoint サイトおよび OneDrive アカウントのドキュメント、Skype for Business のインスタント メッセージングの会話をすばやく検索できます。 コンテンツ検索ツールは、Microsoft Teams や Microsoft 365 グループなどの Microsoft 365 コラボレーション ツール内のメール、ドキュメント、インスタント メッセージングの会話を検索するためにも使用できます。
 
 **コンテンツ検索を実行するには**
 

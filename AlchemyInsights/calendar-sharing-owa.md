@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665621"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711996"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>Outlook での予定表の共有に関する問題
 
-- 他の予定表の空き時間情報を表示することができない場合、または自分の予定表の空き時間情報を他のユーザーが表示することができない場合、[Microsoft Office 365 サポート/回復アシスタント](https://diagnostics.office.com/)を使用してください。
+- 他の予定表の空き時間情報が表示できない場合、または他のユーザーに自分の予定表の空き時間情報が表示されない場合は、[Microsoft の Microsoft 365 用サポート/回復アシスタント](https://diagnostics.office.com/)をご利用ください。
 
 **その他のリソース:** 
 
