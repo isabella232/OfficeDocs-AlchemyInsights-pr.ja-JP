@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43712176"
@@ -32,8 +32,8 @@ ms.locfileid: "43712176"
     > [!NOTE]
     > サブスクリプションの支払いにクレジット カードまたは銀行口座を使用している場合、購入した新しいライセンスは注文確認の受け取り直後に使用可能になります。請求書支払いの場合は、与信審査を待機する必要があり、その後で新しいライセンスが使用可能になります。
 
-詳細については、「 [Microsoft 365 for business サブスクリプションのライセンスを購入](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)する」を参照してください。  
+詳細については、「[一般法人向け Microsoft 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)」を参照してください。  
 
 **追加リソース**
 
-- [Microsoft 365 for Business のユーザーにライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

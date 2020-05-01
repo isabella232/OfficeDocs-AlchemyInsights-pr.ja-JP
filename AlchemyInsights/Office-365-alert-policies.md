@@ -14,14 +14,14 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43687623"
 ---
-# <a name="alert-policies"></a>ポリシーを通知する
+# <a name="alert-policies"></a>アラート ポリシー
 
-Microsoft 365 セキュリティ & コンプライアンスセンターでは、Office 365 Enterprise または Office 365 の米国政府 E1/G1、E3/G3、または E5/G5 サブスクリプションを使用して組織に対する通知をトリガーする[既定の通知ポリシー](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)が提供されます。したがって、管理者は、Office365Alerts@microsoft.com によって送信された通知電子メール通知を、"低重要度アラート:*警告ポリシーの名前*" のような件名で受信することがあります。アラート通知は、次のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。
+Microsoft 365 セキュリティ/コンプライアンス センターは、Office 365 Enterprise または Office 365 US Government E1/G1、E3/G3、E5/G5 サブスクリプションを持つ組織に対してアラートをトリガーする[既定のアラート ポリシー](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)を提供します。そのため、管理者は Office365Alerts@microsoft.com から送信された "低重要度アラート: "アラート ポリシーの名前" などの件名でのアラート メール通知を受信する場合があります。アラート通知は、ユーザーによる以下のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。**
 
 - メールを転送する受信トレイのルールを作成する。
 - アクセス許可をメールボックスに割り当てる。

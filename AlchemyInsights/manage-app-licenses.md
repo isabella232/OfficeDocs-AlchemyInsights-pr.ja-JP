@@ -3,7 +3,7 @@ title: アプリ ライセンスを管理する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497376"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762646"
 ---
-# <a name="manage-office-365-app-licenses"></a>Office 365 アプリ ライセンスを管理する
+# <a name="manage-app-licenses"></a>アプリ ライセンスを管理する
 
 ## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
 
@@ -37,4 +37,4 @@ ms.locfileid: "36497376"
 
 2. 管理するアプリを検索して選択します。  
 
-3. [**設定とアクション**] の下で、[**発行元のポータルで管理する**] へのリンクを選択します。
+3. **[設定とアクション]** で、**[発行元のポータルで管理する]** へのリンクを選択します。

@@ -12,7 +12,7 @@ ms.custom:
 - "1"
 ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43721764"
@@ -23,4 +23,4 @@ ms.locfileid: "43721764"
 
 最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
   
-詳細な手順については、「 [Microsoft 365 の Namecheap で DNS レコードを作成](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)する」を参照してください。
+詳しい手順については、「[Namecheap で Microsoft 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)」を参照してください。

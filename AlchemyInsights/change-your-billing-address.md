@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43413683"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943948"
 ---
 # <a name="change-your-billing-address"></a>請求先住所を変更する
 
-課金内容や請求書には次の 3 つの住所が含まれています。 
+課金内容や請求書には次の 3 つの住所が含まれています。
 
-**請求先住所を変更する**
+**支払い方法の請求先住所を変更する**
 
-1. 管理センターで、**[課金情報]、[[支払い方法]](https://go.microsoft.com/fwlink/p/?linkid=2018806)** ページの順に移動します。 
+1. 管理センターで、**[課金情報]、[[支払い方法]](https://go.microsoft.com/fwlink/p/?linkid=2018806)** の順に移動します。
+2. 変更するクレジット カードまたは銀行口座を選択します。
+3. [**支払方法の詳細**] ページで、[**編集**] をクリックします。
+4. 請求先住所を更新し、**[保存]、[完了]** の順にクリックします。
 
-2. 変更するクレジット カードまたは銀行口座を選択します。 
+アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」をご覧ください。
 
-3. [**支払方法の詳細**] ページで、[**編集**] をクリックします。 
+**課金アカウントの情報を変更する**
 
-4. 請求先住所を更新し、**[保存]、[完了]** の順にクリックします。 
+1. 管理センターで、**[課金情報]、[[請求対象アカウント]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)** の順に移動します。
+2. **[請求先アカウントの情報を編集する]** を選択します。
+3. 課金アカウントの情報を更新し、**[保存]、[完了]** の順にクリックします。
 
-アドレスと通知の変更の詳細については、「[一般法人向け Office 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」をご覧ください。 
+**注**: 国/地域は変更できません。 このフィールドを変更する必要がある場合は、新しいテナントを購入する必要があります。

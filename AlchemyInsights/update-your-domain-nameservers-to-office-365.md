@@ -1,5 +1,5 @@
 ---
-title: Microsoft を指すようにドメインネームサーバーを更新する
+title: Microsoft を指すようにドメイン ネームサーバーを更新する
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -13,16 +13,16 @@ ms.custom:
 - "14"
 ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43719998"
 ---
-# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Microsoft を指すようにドメインネームサーバーを更新する
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Microsoft を指すようにドメイン ネームサーバーを更新する
 
 注: ネーム サーバーの変更は、反映されるまで最大 48 時間かかる場合があります。
   
-Microsoft を使用してドメインをセットアップするには、レジストラーのネームサーバーを更新する必要があります。ドメインレジストラーでネームサーバーレコードを作成または編集します。
+Microsoft でドメインを設定するには、レジストラーのネーム サーバーを更新する必要があります。ドメイン レジストラーでネーム サーバー レコードを作成または編集します。
   
 1. ご利用のドメイン レジストラーの Web サイトにアクセスして、ネーム サーバーを編集できる領域を見つけます。
 
@@ -34,5 +34,5 @@ Microsoft を使用してドメインをセットアップするには、レジ�
 
 3. 変更を保存します。
 
-この記事の詳細な手順については、「[ネームサーバーを変更して、Microsoft 365 を任意のドメインレジストラーでセットアップする](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)」を参照してください。
+詳細な手順については、「[任意のドメイン レジストラーで Microsoft 365 をセットアップするためにネームサーバーを変更する](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)」も参照してください。
   

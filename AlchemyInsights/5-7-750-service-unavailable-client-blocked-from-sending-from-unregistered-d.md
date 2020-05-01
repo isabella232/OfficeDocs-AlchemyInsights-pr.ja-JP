@@ -14,13 +14,13 @@ ms.custom:
 - "3100026"
 ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43676718"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 クライアントが未登録のドメインからの送信をブロックしました
 
-このエラーは、テナントでプロビジョニングされていないドメインから大量のメッセージが送信された場合に発生します (承認済みドメインとして追加され、検証されます)。
+(承認済みドメインおよび検証済みとして追加された) テナントでプロビジョニングされていないドメインから大量のメッセージが送信されると、エラーが発生します。
 
 このエラーを回避するには、証明書のドメインがプロビジョニングされたドメインである場合は、証明書ベースのメール フロー コネクタを使用できます。または、送信側のドメインをすべてプロビジョニングすることもできます。

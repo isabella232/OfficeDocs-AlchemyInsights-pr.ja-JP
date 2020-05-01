@@ -14,16 +14,16 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43716465"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>外部のメール転送がメールボックスで構成された際に、それを特定する
 
-Microsoft 365 ユーザーがメールボックスで外部の電子メール転送を構成する場合、アクティビティは**メールボックスの設定**コマンドレットの一部として監査されます。 セキュリティ/コンプライアンス センターで監査ログ検索を使用すると、アクティビティを表示できます。
+Microsoft 365 ユーザーが外部のメール転送をメールボックスで構成すると、このアクティビティは **Set-Mailbox** コマンドレットの一部として監査されます。 セキュリティ/コンプライアンス センターで監査ログ検索を使用すると、アクティビティを表示できます。
 
-1. [Microsoft 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインします。
+1. [Microsoft 365 セキュリティ/コンプライアンス センター](https://protection.office.com/)にログインします。
 
 2. **[検索]** > **[監査ログの検索]** ページに移動します。
 

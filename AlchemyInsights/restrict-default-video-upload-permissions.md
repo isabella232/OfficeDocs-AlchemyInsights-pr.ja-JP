@@ -1,5 +1,5 @@
 ---
-title: 既定のビデオアップロードアクセス許可を制限する
+title: 既定のビデオ アップロード アクセス許可を制限する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom:
 - "5101"
 ms.openlocfilehash: ccfacd6ea910937d3474cf94b9ff8e19c456832c
 ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "43604040"
 ---
-# <a name="restrict-default-video-upload-permissions"></a>既定のビデオアップロードアクセス許可を制限する
+# <a name="restrict-default-video-upload-permissions"></a>既定のビデオ アップロード アクセス許可を制限する
 
-ユーザーが、グループチャネルまたはグループチャネルのコンテキスト外のストリームポータル経由で Microsoft Stream にビデオをアップロードすると、[社内のすべてのユーザーがこのビデオを表示できるようにする] チェックボックスは既定でオンになっています。 これにより、社内のすべてのユーザーがビデオを表示できるようになります。
+ユーザーがグループまたはグループ チャネルのコンテキスト外の Stream ポータル経由で Microsoft Stream にビデオをアップロードする場合、[社内の全員がこのビデオを閲覧するのを許可する] チェック ボックスは既定でオンになっています。 このため、社内の全員がそのビデオを見ることができます。
 
-- [既定のビデオアップロードアクセス許可を設定する](https://docs.microsoft.com/stream/default-video-permissions)
+- [既定のビデオ アップロード アクセス許可を設定する](https://docs.microsoft.com/stream/default-video-permissions)

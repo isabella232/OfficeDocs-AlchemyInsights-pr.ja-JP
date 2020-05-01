@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 サブスクリプションのキャンセル
+title: Microsoft 365 サブスクリプションをキャンセルする
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
 ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43711564"

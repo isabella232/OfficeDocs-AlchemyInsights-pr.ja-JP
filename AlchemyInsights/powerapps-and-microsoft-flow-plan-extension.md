@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43667034"
@@ -28,4 +28,4 @@ ms.locfileid: "43667034"
 - SharePoint および OneDrive 以外で Flow に統合された HTTP カスタム アクション
 - オンプレミス データ ゲートウェイ経由のオンプレミス データの統合
 
-これらの機能を使用しているお客様は、2020年1月31日または既存の Microsoft 365 サブスクリプション期間の有効期限が切れるまで、自動的に内線番号を取得できます。
+これらの機能に関してアクティブなユーザーをお持ちのお客様は、2020 年 1 月 31 日または、既存の Microsoft 365 サブスクリプション期間の有効期限のいずれか長い方まで、自動延長されます。

@@ -3,7 +3,7 @@ title: Visio 2019 にアップグレードする
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720034"
 ---
 # <a name="upgrade-to-visio-2019"></a>Visio 2019 にアップグレードする
 
@@ -31,6 +31,6 @@ Visio を Office と並行してインストールする場合は、「[同一�
 
 詳しくは、次のトピックを参照してください。<br>
 [Visio の展開ガイド](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Visio 2019 のメージャー バージョン番号が 16.0 のままになる](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Office 2016 および Office 365 クライアント アプリの年の指定がスタート メニューのエントリから削除される](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Visio 2019 のメージャー バージョン番号が 16.0 のままになる](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Office 2016 およびクライアント アプリの年の指定がスタート メニューのエントリから削除される](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
 [Windows および Mac 用の Office 2019 コマーシャルでよく寄せられる質問](https://support.microsoft.com/help/4133312) 

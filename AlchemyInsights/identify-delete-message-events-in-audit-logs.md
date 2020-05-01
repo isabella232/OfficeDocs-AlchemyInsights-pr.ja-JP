@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43716501"
@@ -23,7 +23,7 @@ ms.locfileid: "43716501"
 
 2019 年 1 月から、Microsoft では、標準でメールボックス監査が有効になっています。 それ以外の場合、特定のユーザーのメッセージの削除を確認するためには、監査の削除操作を手動で有効にする必要があります。 組織または特定のユーザーのメールボックス監査ログが既に有効になっている場合は、次の手順を実行します。
 
-1. [Microsoft 365 セキュリティ & コンプライアンスセンター](https://protection.office.com/)にログインする
+1. [Microsoft 365 セキュリティ/コンプライアンス センター](https://protection.office.com/)にログインします
 
 2. [**検索と調査**] と [**監査ログ検索**]をクリックする。
 

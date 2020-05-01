@@ -1,5 +1,5 @@
 ---
-title: 一般法人向け Office 365 の試用期間を延長する
+title: 一般法人向け Microsoft 365 の試用期間を延長する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
+ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702887"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>一般法人向け Office 365 の試用期間を延長する
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>一般法人向け Microsoft 365 の試用期間を延長する
 
 試用版をさらに 30 日間延長できます。延長できるのは 1 回のみです。
   

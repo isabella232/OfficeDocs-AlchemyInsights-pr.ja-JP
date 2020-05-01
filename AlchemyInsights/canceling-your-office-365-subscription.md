@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
 ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43711420"
@@ -29,8 +29,8 @@ ms.locfileid: "43711420"
 
 - 割り当てられているライセンス数が 25 以上の場合は、25 未満になるまでユーザーを削除するか、[電話でのサポートを希望] オプションを使用して、サポート エンジニアに連絡することができます。
   
-**返金: 次の請求サイクルでは、日割り処理によるクレジットが返されます。** 
+**返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 
-**注**: 取り消すオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示し、[**設定 & の操作**] に [**サブスクリプションのキャンセル**] オプションが表示されるはずです。 
+**注**: キャンセルするためのオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示します。**[設定とアクション]** に **[サブスクリプションのキャンセル]** オプションが示されます。 
 
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。

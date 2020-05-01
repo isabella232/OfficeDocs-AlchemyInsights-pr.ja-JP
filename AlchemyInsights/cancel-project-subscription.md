@@ -1,5 +1,5 @@
 ---
-title: プロジェクトのサブスクリプションをキャンセルする
+title: Project サブスクリプションをキャンセルする
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,27 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: MT
+ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
+ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552854"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43599250"
 ---
-# <a name="cancel-project-subscription"></a>プロジェクトのサブスクリプションをキャンセルする
+# <a name="cancel-project-subscription"></a>Project サブスクリプションをキャンセルする
 
-管理者は、 **Microsoft 365 管理センター**から組織の Project サブスクリプションを取り消すことができます。 
+管理者は、組織の Project サブスクリプションを **Microsoft 365 管理センター**からキャンセルできます。 
 
-1. **請求**オプションを選択します。
+1. **[課金]** オプションを選択します。
 
-2. [ [Products & services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) ] をクリックして、組織のすべてのサブスクリプションを表示します。
+2. 組織のすべてのサブスクリプションを表示するには、[[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) をクリックします。
 
-3. キャンセルするプロジェクト計画を探します。
+3. キャンセルする Project プランを見つけます。
 
-4. [**サブスクリプションのキャンセル**] をクリックします。
+4. **[サブスクリプションのキャンセル]** をクリックします。
 
-**返金: 次の請求サイクルでは、日割り処理によるクレジットが返されます。** 
+**返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 
-**注**: 取り消すオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示し、[**設定 & の操作**] に [**サブスクリプションのキャンセル**] オプションが表示されるはずです。 
+**注**: キャンセルするためのオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示します。**[設定とアクション]** に **[サブスクリプションのキャンセル]** オプションが示されます。 
 
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)」を参照してください。 

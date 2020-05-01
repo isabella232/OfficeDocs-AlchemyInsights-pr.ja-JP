@@ -13,14 +13,14 @@ ms.custom:
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43717381"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online 用語ストアの使用法
 
-用語ストアは、グローバル管理者、SharePoint 管理者、および用語ストア管理者が使用でき、新しい SharePoint Online 管理センターで見つけることができます。
+用語ストアは、グローバル管理者、SharePoint 管理者、および用語ストア管理者が利用でき、新しい SharePoint Online 管理センターにあります。
   
 SharePoint Online で SharePoint Online 用語ストアと分類を使用する方法の詳細については、「[管理されたメタデータの概要](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)」を参照してください。
   

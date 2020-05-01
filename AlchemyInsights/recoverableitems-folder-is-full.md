@@ -14,14 +14,14 @@ ms.custom:
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
 ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43720257"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>[回復可能なアイテム] フォルダーに空きがない
 
-Exchange Online メールボックスの場合、回復可能なアイテムフォルダーの既定の格納域の制限は 30 GB です。メールボックスが訴訟ホールド、電子情報開示ホールド、またはアイテム保持ポリシーに割り当てられている場合、回復可能なアイテムフォルダーの格納域の制限が自動的に 100 GB に増加します。
+Exchange Online メールボックスの場合、[回復可能なアイテム] フォルダーの記憶域の既定の制限は 30 GB です。メールボックスが訴訟ホールドまたは電子情報開示の保留リストに配置されるか、アイテム保持ポリシーに割り当てられている場合、[回復可能なアイテム] フォルダーの記憶域の制限は自動的に 100 GB に増やされます。
 
 [回復可能なアイテム] フォルダーが記憶域の制限に達すると、メールボックスの機能は次のように影響を受けます。
 

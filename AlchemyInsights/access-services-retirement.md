@@ -12,14 +12,14 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43687263"
 ---
 # <a name="access-services-retirement"></a>Access サービスの廃止
 
-MC97576 では、2017年3月に最初に発表されたとおり、過去1年間のアクセスサービスは廃止されました。 このプロセスの次のフェーズでは、基になるデータ ストレージとして SharePoint リストを使用する Access Web データベースを削除します。
+2017 年 3 月に MC97576 で最初に発表し、この 1 年間も引き続きご案内させていただいた通り、Access Services は廃止されます。 このプロセスの次のフェーズでは、基になるデータ ストレージとして SharePoint リストを使用する Access Web データベースを削除します。
 
 **どのような影響がありますか?**
 
@@ -27,7 +27,7 @@ SharePoint Online での新しい Access データベースの作成を 2019 年
 
 **この変更に関してどのような準備をすればよいのですか?**
 
-組織の Access web データベースの移行計画を作成することをお勧めします。 管理者は、[SharePoint Access アプリス キャナー](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)を使用して、サイトが使用している Access アプリのインベントリを取得できます。
+組織の Access Web データベースの移行計画を作成することをお勧めします。 管理者は、[SharePoint Access アプリス キャナー](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)を使用して、サイトが使用している Access アプリのインベントリを取得できます。
 
 Access Web データベースのデータを移行するには、いくつかの方法があります。
 

@@ -13,7 +13,7 @@ ms.custom:
 - "9001426"
 ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43715637"
@@ -22,7 +22,7 @@ ms.locfileid: "43715637"
 
 このメッセージが表示された場合は、次を試してください。
 
-1. ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、インターネットが Office アプリにアクセスするのをそれらがブロックしていないことを確認します。 「 [Microsoft 365 の url と IP アドレスの範囲」を](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)参照してください。
+1. ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、インターネットが Office アプリにアクセスするのをそれらがブロックしていないことを確認します。 「[Microsoft 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。
 2. Office ライセンスを削除し、影響を受ける[ユーザーに再割り当て](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users)します。 
 3. Office アプリを開き、既存のすべてのユーザー アカウントから[サインアウト](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)します。
 4. Windows の設定、[**アカウント**] > [**メールとアカウント**] の順に移動し、影響を受けるアカウントを除くすべての職場アカウントを削除します。
