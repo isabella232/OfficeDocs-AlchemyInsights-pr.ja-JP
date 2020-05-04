@@ -13,24 +13,24 @@ ms.custom:
 - "3576"
 ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43716141"
 ---
 # <a name="find-and-activate-my-product-key"></a>プロダクト キーの検索とライセンス認証を行う
 
-Microsoft [Open License プログラム](https://go.microsoft.com/fwlink/p/?LinkID=613298)を使用して microsoft 365 for business を購入した場合、プロダクトキーを検索してライセンス認証する方法を以下に示します。
+[Microsoft のオープン ライセンス プログラム](https://go.microsoft.com/fwlink/p/?LinkID=613298)を利用して一般法人向け Microsoft 365 を購入した場合は、プロダクト キーの検索とライセンス認証を以下のように行います。
 
-1. Microsoft 365 パートナーからキーを購入した後、ライセンス認証リンクを含む Microsoft からの電子メールを受信トレイで確認します。  **注**: このメールは、ボリューム ライセンス契約にオンライン管理者として記載された人に送信されます。  オンライン管理者として指定されているユーザーがわからない場合は、Microsoft 365 パートナーにお問い合わせください。
+1. Microsoft 365 パートナーからキーを購入した後で、受信トレイをチェックして、アクティブ化に必要なリンクが含まれたメールが Microsoft から届いていることを確認してください。  **注**: このメールは、ボリューム ライセンス契約にオンライン管理者として記載された人に送信されます。  誰がオンライン管理者として指定されているかわからない場合は、Microsoft 365 パートナーにお問い合わせください。
 
-2. メールのリンクをクリックして、職場または学校のアカウントでサインインし、オープン ライセンス契約に同意して、サブスクリプションを更新します。  ステップバイステップのチュートリアルについては、「PDF ガイドをダウンロードする」、「[オンラインサービスをアクティブ化する: Microsoft 365 サブスクリプション](https://go.microsoft.com/fwlink/p/?LinkId=618100)」を参照してください。 
+2. メールのリンクをクリックして、職場または学校のアカウントでサインインし、オープン ライセンス契約に同意して、サブスクリプションを更新します。  詳しいチュートリアルについては、PDF ガイド『[Online Services のアクティブ化: Microsoft 365 サブスクリプション](https://go.microsoft.com/fwlink/p/?LinkId=618100)』をダウンロードして参照してください。 
 
 **注**: ボリューム ライセンスのお客様は、[ボリューム ライセンス サービス センター](https://go.microsoft.com/fwlink/p/?LinkID=282016)で、サブスクリプションをアクティブ化することもできます。  アクティブ化の方法については、PDF ガイド『[ボリューム ライセンス サービス センターで Online Services をアクティブ化する](https://go.microsoft.com/fwlink/p/?LinkId=618096)』をダウンロードして参照してください。
 
-小売店から Microsoft 365 Business Premium Standard を購入した場合は、次の手順を使用して有効期限を延長するか、既存のサブスクリプションにライセンスを追加します。
+Microsoft 365 Business Premium Standard を小売店舗から購入した場合は、次の手順で有効期限を延長するか、既存のサブスクリプションにライセンスを追加します。
 
-**注**: プロダクトキーを使用して有効期限を延長したり、既存の Microsoft 365 Business Premium Standard サブスクリプションにライセンスを追加したりするには、同じ microsoft 365 サブスクリプションに新しい未使用のキーが必要です。  既に引き換え済みのキーを再度使用することはできないため、元の Microsoft 365 プロダクトキーを入力しても機能しません。
+**注**: プロダクト キーを使用した有効期限の延長や、既存の Microsoft 365 Business Premium Standard サブスクリプションへのライセンスの追加を行うには、同じMicrosoft  365 サブスクリプションの新しい未使用のキーが必要です。  以前使用したキーの再利用はできないため、元の Microsoft  365 プロダクト キーを入力することはできません。
 
 1. 管理センターで、**[課金]** > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 

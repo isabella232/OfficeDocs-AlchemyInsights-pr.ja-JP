@@ -13,7 +13,7 @@ ms.custom:
 - "900072"
 ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43722815"
@@ -22,7 +22,7 @@ ms.locfileid: "43722815"
 
 詳細については、「[トラブルシューティング ガイド](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)」を参照してください。
 
-この問題を解決するには、管理者は個人用サイトを作成する権限をユーザーに付与する必要があります。 これは、OneDrive for Business ページが個人用サイトに作成されているためです。
+この問題を解決するには、管理者は、ユーザーに [個人用サイト] サイトを作成する権限を付与する必要があります。 これは、OneDrive for Business ページが個人用サイトに作成されているためです。
 
 この権限を付与するには、次の手順を実行します。
 

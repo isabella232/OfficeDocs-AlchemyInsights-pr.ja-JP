@@ -15,16 +15,16 @@ ms.custom:
 - "2000023"
 ms.openlocfilehash: e4884f920545164f4574e57c86f02a0c20eee68e
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43724873"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>"サポートされないオペレーティング システム" の解決方法
 
-Microsoft 365 をインストールしようとすると、デバイスが[システム要件](https://products.office.com/office-system-requirements)を満たしていない場合、サポートされて**いないオペレーティングシステム**のエラーメッセージが表示されることがあります。
+Microsoft 365 をインストールしようとすると、お使いのデバイスが[システム要件](https://products.office.com/office-system-requirements)を満たしていない場合、**サポートされていないオペレーティング システム** のエラー メッセージが表示されます。
   
-Microsoft 365 には以下が必要です。
+Microsoft 365 には次のものが必要です。
   
 - PC: Windows 10、Windows 8.1、Windows 8、Windows 7 Service Pack 1、Windows Server 2016、Windows Server 2012 R2、Windows Server 2012、または Windows Server 2008 R2
 

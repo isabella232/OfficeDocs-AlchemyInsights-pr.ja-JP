@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
 ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43710088"
 ---
 # <a name="help-understanding-your-bill"></a>課金内容についての説明
 
-サブスクリプションの請求金額は、ライセンスの価格と、購入したライセンスの数に加えて、必要な税金/手数料を掛けた金額になります。
+お使いのサブスクリプションの請求金額はライセンス料金と購入したライセンス数を乗算した額と、必要なすべての税金/手数料を反映したものです。
   
 請求金額が予想と異なる場合は、次に示すいくつかの理由が考えられます。
   

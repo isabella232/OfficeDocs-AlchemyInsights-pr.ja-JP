@@ -1,9 +1,9 @@
 ---
-title: Office 365 Business のプランと価格
+title: 一般法人向け Microsoft 365 のプランと価格
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761639"
 ---
-# <a name="compare-office-365-for-business"></a>Office 365 Business の比較
+# <a name="compare-microsoft-365-for-business"></a>一般法人向け Microsoft 365 の比較
 
-Office 365 Business には 3 種類のプランがあります。[Office 365 Business のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。  
+一般法人向け Microsoft 365 には 3 種類のプランがあります。[一般法人向け Microsoft 365 のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。  

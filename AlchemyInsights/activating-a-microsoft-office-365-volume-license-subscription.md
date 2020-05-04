@@ -1,5 +1,5 @@
 ---
-title: Microsoft ボリュームライセンスサブスクリプションをアクティブ化する
+title: Microsoft ボリューム ライセンス サブスクリプションをアクティブ化する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -15,21 +15,21 @@ ms.custom:
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43708764"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft ボリュームライセンスサブスクリプションをアクティブ化する
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft ボリューム ライセンス サブスクリプションをアクティブ化する
 
 1. [ボリューム ライセンス サービス センター (VLSC) ポータル](https://go.microsoft.com/fwlink/p/?LinkId=329762)にサインインします。
 
-2. サブスクリプションに移動し、[**アクティブ化**] を選択します。
+2. お使いのサブスクリプションに移動して、**[アクティブ化]** を選択します。
 
 3. 電子メールがオンライン サービス (OLS) の連絡先に送信されます。
 
-4. ライセンス認証の電子メールでは、**サインアップ**または**サインイン**という2つのオプションが提供されます。以前に試用版を作成している場合は、[**サインイン**] を選択します。Microsoft 365 テナントがまだない場合は、[**サインアップ**] を選択します。
+4. 電子メールでのアクティブ化には、**サインアップ**と**サインイン**の 2 つのオプションがあります。以前試用版を作成した場合は**サインイン**を選択します。まだ Microsoft 365 テナントを持っていない場合は**サインアップ**を選択します。
 
-5. 既存の管理者の資格情報を使用[https://admin.microsoft.com](https://admin.microsoft.com)して、Microsoft 365 管理センター () にサインインします。サインインに成功すると、購入したことを確認する別のメールが届きます。
+5. 既存の管理者の資格情報を使用して、Microsoft 365 管理センター ([https://admin.microsoft.com](https://admin.microsoft.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
 
-6. サインインした後、[ **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) ] ページに移動して、購入したサブスクリプションがテナント内でアクティブ化されていることを確認できます。(VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションがデポジットされたことを確認する詳細を表示することもできます)。
+6. サインイン後、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動すると、購入したサブスクリプションがテナント内でアクティブ化されていることを確認できます (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションが入金されていることを確認する詳細を表示することもできます)。

@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43720544"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Delve でユーザー プロファイルを管理する
 
-Office Delve では、ユーザーが自分のユーザープロファイルを管理できます。ユーザーは次のことができます。
+Office Delve では、ユーザーが自分のユーザー プロファイルを管理することができます。ユーザーは次の操作を行うことができます。
   
 - 自分の情報を表示して更新する
     

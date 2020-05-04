@@ -15,12 +15,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666377"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764661"
 ---
 # <a name="restore-a-deleted-mailbox"></a>削除済みメールボックスを復元する
 
@@ -32,5 +32,5 @@ ms.locfileid: "36666377"
 
 2. **[ライセンスとアプリ]** タブで、Exchange Online ライセンスを割り当て、**[変更の保存]** を選択します。
 
-共有メールボックスを復元しようとしている場合も、復元可能な期間は 30 日間です。 **ユーザー** \> **削除されたユーザー ** で確認できます; 共有メールボックスにライセンスは必要ありません。 削除したユーザーを復元する必要がある場合は、[「Office 365 でユーザーを復元する」](https://docs.microsoft.com/office365/admin/add-users/restore-user) を参照してください。
+共有メールボックスを復元しようとしている場合も、復元可能な期間は 30 日間です。 **ユーザー** \> **削除されたユーザー ** で確認できます; 共有メールボックスにライセンスは必要ありません。 削除したユーザーを復元する必要がある場合は、[「ユーザーを復元する」](https://docs.microsoft.com/office365/admin/add-users/restore-user) を参照してください。
   

@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764877"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Outlook でメール メッセージを暗号化する
 
-Office 365 Message Encryption は、Azure Information Protection の一部である Microsoft Azure Rights Management (Azure RMS) 上に構築されています。 サブスクリプションに Azure Rights Management または Azure Information Protection が含まれている場合は、Rights Management Service を**有効化またはアクティブ化するために手動での操作を行う必要はありません**。
+Microsoft 365 Message Encryption は、Azure Information Protection の一部である Microsoft Azure Rights Management (Azure RMS) 上に構築されています。 サブスクリプションに Azure Rights Management または Azure Information Protection が含まれている場合は、Rights Management Service を**有効化またはアクティブ化するために手動での操作を行う必要はありません**。
 
 お客様からのフィードバックに基づき、特定の種類の機密情報を含む送信メールを自動的に暗号化する Exchange のメール フロー ルールは、テナントで既定で有効化されなくなりました。 代わりに、ユーザー自身がこの操作を行うための詳細な手順を提供いたします。 機密情報を暗号化するためのトランスポート ルールを作成する方法の詳細については、[こちらの記事](https://aka.ms/OmeEtr)を参照してください。
 

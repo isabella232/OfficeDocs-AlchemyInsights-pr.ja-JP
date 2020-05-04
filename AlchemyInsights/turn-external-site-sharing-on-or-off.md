@@ -14,13 +14,13 @@ ms.custom:
 - "2734"
 ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43731703"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>サイトの外部共有を有効または無効にする
 
-サイトの外部共有設定を変更するには、グローバルまたは SharePoint の管理者である必要があります (以前は "サイトコレクション" と呼ばれています)。 サイトの所有者はこの設定の変更を許可されていません。 
+サイト (以前の "サイト コレクション") の外部共有設定を変更するには、グローバル管理者または SharePoint 管理者である必要があります。 サイトの所有者はこの設定の変更を許可されていません。 
 
 詳細については、「[サイトの外部共有をオンまたはオフにする](https://docs.microsoft.com/sharepoint/change-external-sharing-site)」を参照してください。

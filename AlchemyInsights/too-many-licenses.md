@@ -3,7 +3,7 @@ title: ライセンスが多すぎますか?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759913"
 ---
 # <a name="too-many-licenses"></a>ライセンスが多すぎますか?
 
-請求を受ける Office 365 ライセンスの数が多すぎるとお考えの場合、それは通常、必要以上のライセンスを購入していることに原因があります。
+請求を受けるライセンスの数が多すぎるとお考えの場合、それは通常、必要以上のライセンスを購入していることに原因があります。
   
 **購入したライセンスの数を減らす**
   
@@ -32,4 +32,4 @@ ms.locfileid: "36665945"
 
 3. [**ライセンスの総数**] ボックスにこのサブスクリプション用に必要なライセンスの総数を入力し、[**変更の送信**] を選択します。 たとえば、110 個のライセンスがあり、そのうち 5 個を削除する場合は、105 と入力します。
 
-詳細については、「[一般法人向け Office 365 サブスクリプションからライセンスを削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)」を参照してください。
+詳細については、「[一般法人向け Microsoft 365 サブスクリプションからライセンスを削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)」を参照してください。

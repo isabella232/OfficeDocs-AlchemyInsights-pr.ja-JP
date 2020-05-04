@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628031"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764158"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"ライセンスのない製品" エラーの解決方法の提案
 
 "ライセンスのない製品" エラーを解決するには、次の操作を行います。
 
 - サブスクリプション ステータスが期限切れになっていないかどうか確認します。
-- Office 365 Business や Business Premium など、クライアント ライセンスが許可されているサブスクリプションを持っていること、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 
+- Microsoft 365 Apps for business や Business Premium など、クライアント ライセンスが許可されているサブスクリプションを持っていること、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 
 - ユーザーが、ライセンスが割り当てられているアカウントと同じアカウントで Office にサインインしていることを確認します。
-- [Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
-- ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Office アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 詳細については、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。
+- [サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
+- ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Office アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 「 [URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。
 
 また、トラブルシューティングのための次の操作を試すこともできます。 
 

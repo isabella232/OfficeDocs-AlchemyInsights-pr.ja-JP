@@ -3,7 +3,7 @@ title: エラー 30016-4 の解決方法
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,16 +14,16 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757026"
 ---
 # <a name="solutions-for-error-30016-4"></a>エラー 30016-4 の解決方法
 
-コンピューターから Office 365 ProPlus をアンインストールしようとすると、「**問題が発生しました 30016-4**」というエラー メッセージが表示されます。これは、**%temp%** ドライブが **%ProgramFiles%** 以外のドライブにマッピングされていることを意味します。
+コンピューターから Microsoft 365 Apps for enterprise をアンインストールしようとすると、「**問題が発生しました 30016-4**」というエラー メッセージが表示されます。これは、**%temp%** ドライブが **%ProgramFiles%** 以外のドライブにマッピングされていることを意味します。
   
 この問題を修正するには、[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。
   

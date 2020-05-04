@@ -1,9 +1,9 @@
 ---
-title: 2681 Office 365 の攻撃シミュレータ
+title: 2681 Microsoft 365 の攻撃シミュレータ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37313941"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713471"
 ---
-# <a name="attack-simulator-in-office-365"></a>Office 365 の攻撃シミュレータ
+# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 の攻撃シミュレータ
 
-- 攻撃シミュレータが見つかりませんか ? 攻撃シミュレータには、**Office 365 Advanced Threat Protection プラン 2 (ATP プラン 2)** または **Office 365 Enterprise E5** が必要です。 攻撃シミュレータは、Office 365 Advanced Threat Protection プラン 1 (ATP プラン 1)、Office 365 Enterprise E3、または Office 365 Business サブスクリプションには含まれて**いません**。
+- 攻撃シミュレータが見つかりませんか ? 攻撃シミュレータには、**Office 365 Advanced Threat Protection プラン 2 (ATP プラン 2)** または **Office 365 Enterprise E5** が必要です。 攻撃シミュレータは、Office 365 Advanced Threat Protection プラン 1 (ATP プラン 1)、Office 365 Enterprise E3、または 一般法人向け Microsoft 365 アプリ サブスクリプションには含まれて**いません**。
 
 - シミュレートされた攻撃を開始するために使用するアカウントには、グローバル管理者またはセキュリティ管理者のアクセス許可および多要素認証 (MFA) が必要です。 攻撃シミュレータの要件の詳細情報については、[このトピック](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)を参照してください。
 
@@ -38,4 +38,4 @@ ms.locfileid: "37313941"
 
 - レポート: シミュレートされた攻撃が完了したら、[**攻撃の詳細**] をクリックしてレポートを確認できます。
 
-- 攻撃シミュレータの詳細な手順および新機能については、「[Office 365 の攻撃シミュレータ](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)」を参照してください。
+- 攻撃シミュレータの詳細な手順および新機能については、「[Microsoft 365 の攻撃シミュレータ](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)」を参照してください。

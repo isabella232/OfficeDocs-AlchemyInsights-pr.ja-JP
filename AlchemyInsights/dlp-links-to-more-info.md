@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704530"
 ---
 # <a name="information-about-dlp-issues"></a>DLP 問題に関する情報
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977479"
 
 **DLP ポリシーに関する情報**
 
-データ損失防止 (DLP) ポリシーを使用すると、Office 365 内の機密情報を識別、監視し、自動的に保護できます。
+データ損失防止 (DLP) ポリシーを使用すると、Microsoft 365 内の機密情報を識別、監視し、自動的に保護できます。
 
 詳細については、次のリンク先を参照してください。
 

@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664865"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765057"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>予定表の空き時間情報の表示に関する問題
 
-他の予定表の空き時間情報を表示することができない場合、または自分の予定表の空き時間情報を他のユーザーが表示することができない場合、[Microsoft Office 365 サポート/回復アシスタント](https://diagnostics.office.com/)を使用してください。
+他の予定表の空き時間情報を表示することができない場合、または自分の予定表の空き時間情報を他のユーザーが表示することができない場合、[Microsoft サポート/回復アシスタント](https://diagnostics.office.com/)を使用してください。
   

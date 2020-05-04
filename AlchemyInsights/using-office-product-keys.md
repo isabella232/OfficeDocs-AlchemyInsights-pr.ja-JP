@@ -14,7 +14,7 @@ ms.custom:
 - "3550"
 ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43726072"
@@ -28,6 +28,6 @@ ms.locfileid: "43726072"
 - Office 365 Home または Office 365 Personal プロダクト キーに関するヘルプについては、「[Office でのプロダクト キーの使用](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)」を参照してください。
 
 **Office サブスクリプションをライセンス認証する** 
-- 小売り店から Microsoft 365 サブスクリプションを購入した場合は、「 [microsoft 365 アプリ用のプロダクトキーを入力](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)してください。 business Premium」を参照してください。
+- 小売店から Microsoft 365 サブスクリプションを購入した場合は、「[Enter your product key for Microsoft 365 Business Premium (Microsoft 365　Business Premium のプロダクト キーを入力する)](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)」を参照してください。
 
-- プロダクトキーの償還を試行したときにエラーメッセージが表示される場合は、「 [Microsoft 365 for business プロダクトキーに関する問題](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)」を参照してください。
+- プロダクト キーを使用しようとしたときにエラー メッセージが表示された場合は、「[一般法人向け Microsoft 365 プロダクト キーの問題](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)」を参照してください。

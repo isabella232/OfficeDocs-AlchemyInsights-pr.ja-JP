@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ebb9dd81cadcd74c4dcd67915a409d150830b101
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 64c74827e28618ab08cca16c1e8ac4eb7689bb0d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42331743"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759409"
 ---
 # <a name="verify-your-domain-with-bluehost"></a>Bluehost でドメインを確認する
 
@@ -23,4 +23,4 @@ ms.locfileid: "42331743"
 
 最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
   
-詳しい手順については、「[Bluehost で Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)」を参照してください。
+詳しい手順については、「[Bluehost for Microsoft 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)」を参照してください。

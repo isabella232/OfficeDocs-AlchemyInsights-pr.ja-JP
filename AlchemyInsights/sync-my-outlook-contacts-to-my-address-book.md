@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42307112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767074"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook の連絡先をアドレス帳に同期する
 
@@ -30,7 +30,7 @@ Outlook では、連絡先を Android の既定の連絡先アプリにエクス
 
 3. [**連絡先の同期**] のスライダーをオンに切り替えます。
  
-双方向の連絡先エクスポートは、Office 365、Outlook.com、およびオンプレミス メールボックスのハイブリッド先進認証でサポートされています。 双方向のサポートにより、追加した新しい連絡先または編集した既存の連絡先が、デバイスと Outlook アカウント間で確実に同期されます。
+双方向の連絡先エクスポートは、Microsoft 365、Outlook.com、およびオンプレミス メールボックスのハイブリッド先進認証でサポートされています。 双方向のサポートにより、追加した新しい連絡先または編集した既存の連絡先が、デバイスと Outlook アカウント間で確実に同期されます。
  
 従来の Exchange アカウントの場合は、連絡先をエクスポートしてデバイスに保存できます。 [**連絡先の同期**] を有効にすると、Outlook の連絡先に新しく追加された連絡先と編集内容がデバイスの連絡先アプリに保存されます。 ただし、デバイスの連絡先アプリで直接行った編集内容は Outlook に保存されません。 オンプレミスの Exchange アカウントの Android 版 Outlook からの連絡先の追加/編集はサポートされていないため、別の Outlook クライアントから連絡先を管理する必要があります。
  

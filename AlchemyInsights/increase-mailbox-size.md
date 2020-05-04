@@ -14,16 +14,16 @@ ms.custom:
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
 ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43714047"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>サブスクリプションを切り替えてメールボックスのサイズを増やす
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにサブスクリプションを切り替える
 
-メールボックスのサイズが既に 100 GB の場合、それを増やす方法はありません。
+メールボックスのサイズが既に 100 GB に達している、それ以上増やすことはできません。
   
-メールボックスのサイズが 50 GB の場合は、 [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software)または[Office 365 enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)に切り替えることによって、これを 100 gb に増やすことができます。別のサブスクリプションに切り替える手順は次のとおりです。
+メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の サブスクリプションに切り替える手順を次に示します。
   
 1. Microsoft 365 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
@@ -37,4 +37,4 @@ ms.locfileid: "43714047"
 
 詳細については、「[別のプランにアップグレードする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)」を参照してください。
 
-[インプレースアーカイブをサポートするサブスクリプション](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)を持っている場合は、アーカイブメールボックスを有効にすることによって、追加の電子メールストレージを取得することもできます。 アーカイブ メールボックスによって追加のストレージが与えられることにより、プライマリ メールボックスとアーカイブ メールボックスの両方でメッセージを移動、コピー、および検索できます。 アーカイブ メールボックスを有効化する方法の手順については、「[アーカイブ メールボックスの有効化](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。
+「[インプレース アーカイブをサポートするサブスクリプション](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)」をお持ちの場合は、アーカイブ メールボックスを有効化して追加のメール ストレージを入手することもできます。 アーカイブ メールボックスによって追加のストレージが与えられることにより、プライマリ メールボックスとアーカイブ メールボックスの両方でメッセージを移動、コピー、および検索できます。 アーカイブ メールボックスを有効化する方法の手順については、「[アーカイブ メールボックスの有効化](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。

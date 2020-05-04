@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054779"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762358"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>クラウド サービスに問題が発生した場合
 
@@ -23,5 +23,5 @@ ms.locfileid: "40054779"
 
 **通知ポリシー**
 
-サービス インシデントが発生したときには、タイムリーで対象範囲の限定された正確なコミュケーションが、お客様にとって不可欠であることを Microsoft は認識しています。 Microsoft は、Office 365 管理ポータルでテナント固有の[サービス正常性ダッシュボード (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) を更新することで、Office 365 管理者への通知を実施します。 サービス インシデントの更新は時間単位で実行されるか、または異なる間隔が必要な場合は、SHD 通信の投稿に記載されます。 詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。
+サービス インシデントが発生したときには、タイムリーで対象範囲の限定された正確なコミュケーションが、お客様にとって不可欠であることを Microsoft は認識しています。 Microsoft は、管理ポータルでテナント固有の[サービス正常性ダッシュボード (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) を更新することで、Microsoft 365 管理者への通知を実施します。 サービス インシデントの更新は時間単位で実行されるか、または異なる間隔が必要な場合は、SHD 通信の投稿に記載されます。 詳細については、「[Microsoft 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。
 
