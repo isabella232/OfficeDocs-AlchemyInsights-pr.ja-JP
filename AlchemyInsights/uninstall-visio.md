@@ -14,21 +14,21 @@ ms.custom:
 - "9000201"
 ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43728792"
 ---
-# <a name="uninstall-visio"></a><span data-ttu-id="b0ca2-102">Visio をアンインストールする</span><span class="sxs-lookup"><span data-stu-id="b0ca2-102">Uninstall Visio</span></span>
+# <a name="uninstall-visio"></a><span data-ttu-id="1001c-102">Visio をアンインストールする</span><span class="sxs-lookup"><span data-stu-id="1001c-102">Uninstall Visio</span></span>
 
-<span data-ttu-id="b0ca2-103">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="1001c-103">[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。</span><span class="sxs-lookup"><span data-stu-id="1001c-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="b0ca2-104">起動後に、**[Office 製品のアンインストール]** からアンインストールする Visio のバージョンを選択し、**[次へ]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="1001c-104">起動後に、**[Office 製品のアンインストール]** からアンインストールする Visio のバージョンを選択し、**[次へ]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="1001c-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="b0ca2-105">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-105">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="1001c-105">各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。</span><span class="sxs-lookup"><span data-stu-id="1001c-105">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="b0ca2-106">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="1001c-106">再起動後に、サポート/回復アシスタントが自動的に再開してアンインストール処理を完了します。</span><span class="sxs-lookup"><span data-stu-id="1001c-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="b0ca2-107">残りのプロンプトに従い、Visio Online のサブスクリプションをお持ちの場合は、Microsoft 365[アカウントポータル](https://portal.office.com/account#installs)から visio を再インストールすることができます。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Microsoft 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="b0ca2-108">詳細なヘルプや、Visio Professional などサブスクリプション バージョン以外の Visio のインストールに関するヘルプについては、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
+3. <span data-ttu-id="1001c-107">残りのメッセージに従います。Visio Online のサブスクリプションを所有している場合は、Microsoft 365 [アカウント ポータル](https://portal.office.com/account#installs)から Visio を再インストールできます。</span><span class="sxs-lookup"><span data-stu-id="1001c-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Microsoft 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="1001c-108">詳細なヘルプや、Visio Professional などサブスクリプション バージョン以外の Visio のインストールに関するヘルプについては、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1001c-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
     
-<span data-ttu-id="b0ca2-109">その他のアンインストール オプションのリストについては、「[PC から Office をアンインストールする](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)」を選択します。</span><span class="sxs-lookup"><span data-stu-id="b0ca2-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
+<span data-ttu-id="1001c-109">その他のアンインストール オプションのリストについては、「[PC から Office をアンインストールする](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)」を選択します。</span><span class="sxs-lookup"><span data-stu-id="1001c-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
