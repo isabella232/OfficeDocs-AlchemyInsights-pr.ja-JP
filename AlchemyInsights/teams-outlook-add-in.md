@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42219260"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957947"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="9874f-102">Teams Outlook アドイン</span><span class="sxs-lookup"><span data-stu-id="9874f-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="417bb-102">Teams Outlook アドイン</span><span class="sxs-lookup"><span data-stu-id="417bb-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="9874f-103">サポートされている Teams アップグレード モード (TeamsOnly、SfBWithTeamsCollabAndMeetings、Islands のいずれか) に移行した後に、ユーザーに Teams Outlook アドインが表示されない場合は、アドインで正常に読み込めなかった可能性があります。</span><span class="sxs-lookup"><span data-stu-id="9874f-103">If your users do not see the Teams Outlook add-in after moving to a supported Teams Upgrade Mode (TeamsOnly, SfBWithTeamsCollabAndMeetings, or Islands) then the add-in may have failed to load properly.</span></span>  <span data-ttu-id="9874f-104">問題のトラブルシューティングを行うには、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9874f-104">Check out the following article to troubleshoot the issue:</span></span> 
+<span data-ttu-id="417bb-103">Teams アドインが表示されない原因には複数の要因があるため、[こちら](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0)にすべて記載しています。</span><span class="sxs-lookup"><span data-stu-id="417bb-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).</span></span>
 
-- [<span data-ttu-id="9874f-105">Outlook で Microsoft Teams の会議アドインが表示されないのはなぜですか?</span><span class="sxs-lookup"><span data-stu-id="9874f-105">Why can't I see the Microsoft Teams Meeting add-in for Outlook?</span></span>](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+<span data-ttu-id="417bb-104">**まず、アドインが無効になっていないことを確認するよう、お勧めします。**</span><span class="sxs-lookup"><span data-stu-id="417bb-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
+
+- <span data-ttu-id="417bb-105">Outlook で、**[ファイル]**、**[オプション]** の順にクリックします。</span><span class="sxs-lookup"><span data-stu-id="417bb-105">In Outlook, click **File** and then **Options**.</span></span>
+- <span data-ttu-id="417bb-106">**[Outlook のオプション]** ダイアログ ボックスの **[アドイン]** タブを選択します。</span><span class="sxs-lookup"><span data-stu-id="417bb-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
+- <span data-ttu-id="417bb-107">**[Microsoft Office 用の Microsoft Teams 会議アドイン]** が **[有効なアプリケーション アドイン]** の一覧に表示されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="417bb-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
+- <span data-ttu-id="417bb-108">Teams 会議アドインが **[無効なアプリケーション アドイン]** の一覧に表示されている場合は、**[管理]** の **[COM アドイン]** を選択し、**[移動…]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="417bb-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
+- <span data-ttu-id="417bb-109">**[Microsoft Office 用の Microsoft Teams 会議アドイン]** の横にあるチェックボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="417bb-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
+- <span data-ttu-id="417bb-110">すべてのダイアログボックスで **[OK]** をクリックして、Outlook を再起動します。</span><span class="sxs-lookup"><span data-stu-id="417bb-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>

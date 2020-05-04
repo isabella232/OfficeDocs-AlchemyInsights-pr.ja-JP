@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799128"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957911"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="d3a98-102">オンラインでのお支払い方法に対する複数回の請求</span><span class="sxs-lookup"><span data-stu-id="d3a98-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="past-due-account"></a><span data-ttu-id="bc4d0-102">期限を過ぎたアカウントの場合</span><span class="sxs-lookup"><span data-stu-id="bc4d0-102">Past due account?</span></span>
 
-<span data-ttu-id="d3a98-103">請求が失敗した場合、システムは以後数週間に渡って残高の決済を継続します。</span><span class="sxs-lookup"><span data-stu-id="d3a98-103">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="d3a98-104">ユーザーはいつでも支払い情報を更新して、次回の請求が確実に行われるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="d3a98-104">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="d3a98-105">詳細については、「[Microsoft 365 for business でクレジット カードまたは銀行口座を追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d3a98-105">For more information, see [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="bc4d0-103">クレジット カードの有効期限が切れている場合など、いくつかの理由で支払いが拒否される可能性があります。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-103">A payment can be declined for several reasons, including if the credit card has expired.</span></span> <span data-ttu-id="bc4d0-104">**残高の決済**機能を使用して、いつでもクレジット カード情報を変更し、支払いについてすぐに再送信できます。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-104">You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.</span></span>
+
+1. <span data-ttu-id="bc4d0-105">管理センターで、**[課金情報] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-105">In the admin center, go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+<span data-ttu-id="bc4d0-106">未払い残高のあるサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-106">Find the subscription with the outstanding balance.</span></span> <span data-ttu-id="bc4d0-107">**[課金情報]** セクションで、**[サブスクリプションに期日を過ぎた支払いがあります]** の横にある **[残高の決済]** をクリックして、未払い残高をすべて支払います。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-107">In the **Billing** section, next to the **Subscription has a past due payment**, click **Settle balance** to pay the entire outstanding balance.</span></span>
+2. <span data-ttu-id="bc4d0-108">クレジット カードを所有している場合は、有効期限の変更、別のカードの選択、[新しいカードの追加](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)などを行うことができます。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-108">If you own the credit card, you can change the expiration date, pick a different card, or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).</span></span>
+3. <span data-ttu-id="bc4d0-109">クレジット カードを所有者していない場合は、別のクレジット カードを選択するか、[新しいカードを追加](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)できます。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-109">If you don’t own the credit card, you can choose a different credit card or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).</span></span>
+4. <span data-ttu-id="bc4d0-110">更新が完了したら、**[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-110">After you’ve completed your updates, click **Save**.</span></span>
+
+<span data-ttu-id="bc4d0-111">**注**: 支払い完了後も、期限切れの通知が短時間表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-111">**Note**: After a payment has been made, the past due notification may still be visible for a short period of time.</span></span> <span data-ttu-id="bc4d0-112">サポートに問い合わせる前に、少なくとも **48 時間** お待ちください。</span><span class="sxs-lookup"><span data-stu-id="bc4d0-112">Please wait at least **48 hours** before contacting support.</span></span>
