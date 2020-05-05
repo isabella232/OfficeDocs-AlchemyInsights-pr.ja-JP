@@ -13,16 +13,16 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957947"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021503"
 ---
 # <a name="teams-outlook-add-in"></a>Teams Outlook アドイン
 
-Teams アドインが表示されない原因には複数の要因があるため、[こちら](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0)にすべて記載しています。
+Teams アドインが表示されない原因には複数の要因があるため、[こちら](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)にすべて記載しています。
 
 **まず、アドインが無効になっていないことを確認するよう、お勧めします。**
 
