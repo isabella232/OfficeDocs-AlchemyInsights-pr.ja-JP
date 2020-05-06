@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43413710"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010187"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>修正 - "現在 Office ライセンスが割り当てられていません"
 
-Office クライアント アプリをインストールする場合は、[Office クライアント アプリが含まれる](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) Office 365 または Microsoft 365 のサブスクリプション (Office 365 Business Premium、Office 365 Business、Office 365 ProPlus など) を所有していることをご確認ください。
+Office クライアント アプリをインストールする場合は、[Office クライアント アプリが含まれている](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) Office 365 または Microsoft 365 のサブスクリプション (Microsoft 365 Business Premium、Microsoft 365 Apps for business、Microsoft 365 Apps for enterprise など) を所有していることを確認してください。
 
 **注**: [Office Home and Business](https://products.office.com/home-and-business) は、[家庭向け Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 製品であり、一般法人向けのサブスクリプションには含まれません。 Project Online Essentials には、デスクトップ版の Project は含まれていないため、インストールをする必要はありません。 Visio Plan 1 ユーザーは、プランに Visio デスクトップ アプリが含まれていないため、Visio on the web にアクセスできます。 Mac では、Project や Visio のデスクトップ アプリは利用できません
 

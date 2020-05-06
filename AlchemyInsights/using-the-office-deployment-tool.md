@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726253"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010872"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Office 展開ツールの使用 (ODT)
 
@@ -42,4 +42,4 @@ Office 展開ツール (ODT) を使用して Office の Office 365 バージョ�
 
     **注:** この手順は、Office をインストールするクライアント コンピューターから実行する必要があります。また、そのコンピューターに対してローカル管理者のアクセス許可を持っている必要があります。
 
-Office 展開ツールを使用してエンタープライズ展開シナリオの Microsoft 365 アプリを使用する方法の詳細については、「 [Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)」を参照してください。Office カスタマイズツールの使用方法の詳細については、「 [Office カスタマイズツールの概要](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)」を参照してください。
+Microsoft 365 Apps for enterprise の展開シナリオに Office 展開ツールを使用する方法の詳細については、「[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)」を参照してください。Office カスタマイズ ツールの使用方法の詳細については、「[Office カスタマイズ ツールの概要](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)」を参照してください。

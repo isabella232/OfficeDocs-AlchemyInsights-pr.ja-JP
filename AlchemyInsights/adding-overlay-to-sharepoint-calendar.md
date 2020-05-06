@@ -14,14 +14,14 @@ ms.custom:
 - "2587"
 ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
 ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/27/2020
 ms.locfileid: "43908853"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint カレンダーにオーバーレイを追加する
 
-SharePoint カレンダーは、Microsoft 365 グループの予定表と混同されることがある、従来のリストの種類です。
+SharePoint カレンダーは、クラシック リスト タイプで、Microsoft 365 のグループ カレンダーと混同される場合があります。
  
 サイトで SharePoint カレンダーを使用する場合、独自の Exchange カレンダーをその上にオーバーレイして、複合カレンダー ビューを作成できます。 または、両方の SharePoint カレンダーが同じサイト コレクションにある限り、別の SharePoint カレンダーにもオーバーレイできます。
  
