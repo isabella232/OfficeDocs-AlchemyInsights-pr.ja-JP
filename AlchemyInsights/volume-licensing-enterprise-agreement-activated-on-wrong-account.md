@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716213"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021539"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>ボリューム ライセンス エンタープライズ契約が誤ったアカウントでライセンス認証されている
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>誤ったアカウントでライセンス認証されたボリュームライセンスエンタープライズアグリーメント、またはアカウント間でのライセンスの転送
 
-ボリューム ライセンス エンタープライズ契約を通して購入したサブスクリプションが誤ったテナント上でライセンス認証されていることがわかった場合は、"電話でのサポートを希望" オプションを使用してサポート エンジニアに連絡してください。
+**ボリュームライセンスエンタープライズ契約**を利用して購入したサブスクリプションを見つけた場合に、**間違ったテナント**でライセンス認証された、あるテナントから別のテナントに **ライセンスを転送**する方法は [Microsoft ボリュームライセンスサービスセンター](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)にお問い合わせください。
