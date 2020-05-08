@@ -1,24 +1,26 @@
 ---
-title: Bing および Office 365 ProPlus での Microsoft Search
+title: Bing および Microsoft 365 Apps for enterprise での Microsoft Search
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41561911"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043042"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Bing および Office 365 ProPlus での Microsoft Search
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Bing および Microsoft 365 Apps for enterprise での Microsoft Search
 
-Office 365 ProPlus のバージョン 2002 以降、Bing の Microsoft Search の拡張機能がインストールされます。これにより、Google Chrome Web ブラウザーの既定の検索エンジンが、特定の場所にあるデバイスにのみインストールされます。
+Google Chrome 向け Bing の拡張機能の***オプション***である Microsoft Search を、バージョン 2005 以降の Microsoft 365 Apps for enterprise (以前の Office 365 ProPlus) で使用することができます。 この拡張機能は、Windows を実行しているドメイン参加済みデバイスの特定の場所で利用することができます。 この拡張機能を展開すると、Bing が既定の検索エンジンとして設定されます。
 
-**拡張機能のインストールを希望されない場合は、[次の手順を実行してください](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed)。**
+拡張機能をインストールするには、Microsoft 365 管理センターの Microsoft Search のセクションで設定を構成して***オプトイン***する必要があります。
 
-拡張機能がインストールされた後でも、[[オン/オフ](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)] トグルを使用して、既定の検索エンジンとしての Bing の使用を中止できます。また、組織内の複数のデバイスから[拡張機能を削除できます](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed)。
+この***オプション***の拡張機能の展開にも、バージョン 2005 以降の Microsoft 365 Apps for enterprise に含まれているバックグラウンド サービスが必要です。 バックグラウンド サービスがインストールされていないと、拡張機能はインストールされません。
 
-この変更に関する詳細をご理解いただくために、[ここに](https://docs.microsoft.com/deployoffice/microsoft-search-bing)詳細な記事を掲載します。
+拡張機能をインストールした後でも、ユーザーはオン/オフの切り替えをするだけで、既定の検索エンジンとしての Bing の使用を簡単に停止することができます。
+
+この ***オプション*** の拡張機能を展開する方法の詳細については、「[Bing および Microsoft 365 Apps for enterprise での Microsoft Search](https://docs.microsoft.com/deployoffice/microsoft-search-bing)」を参照してください。
