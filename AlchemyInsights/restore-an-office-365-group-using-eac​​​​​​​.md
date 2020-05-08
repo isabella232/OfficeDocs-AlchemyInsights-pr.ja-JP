@@ -1,5 +1,5 @@
 ---
-title: Exchange 管理センターを使用して Microsoft 365 グループを復元する
+title: Exchange アドミンセンターを使用して Microsoft 365 グループを復元する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
 ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/27/2020
 ms.locfileid: "43912588"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Exchange 管理センターを使用して Microsoft 365 グループを復元する
+# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Exchange アドミンセンターを使用して Microsoft 365 グループを復元する
 
 1. Microsoft 365 管理センターの左側のナビゲーションで [ **管理センター**] を展開し、[ **Exchange**] を選びます。
     
@@ -25,7 +25,7 @@ ms.locfileid: "43912588"
     
 3. グループが論理的に削除された正確な時間を表示するには、グループを選択して、右側のウィンドウに情報を表示します。
     
-4. 復元する Microsoft 365 グループを選択し、[復元] アイコンを選択します。
+4. 復元する Microsoft 365 グループを選択し、復元アイコンを選びます。
     
 5. 更新 ![[最新の情報に更新] アイコン](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) を選んで、ページの情報を更新します。使用しているグループは、"アクティブ" として表示されます。 
     
