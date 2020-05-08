@@ -1,5 +1,5 @@
 ---
-title: 非営利団体向け Office 365 の購入方法
+title: '非営利団体向け Microsoft 365 '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3ea3245e1ea17c253412b384cb4d60fc94195f16
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763582"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005191"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>非営利団体向け Office 365 の購入方法
+# <a name="microsoft-365-for-nonprofits---approved"></a>非営利団体向け Microsoft 365
 
-お客様は Microsoft 認定非営利団体として承認されました。購入するには、次の手順に従ってください。
-  
+Microsoft 認定非営利団体としてお客様のステータスが承認されています。 Microsoft 365 管理センターから購入することができます。
+
 1. 管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。
 
-2. **[非営利団体向けプラン]** の下のリストからプランを選択します。
+2. **[非営利団体向けプラン]** にあるリストから選択します。
 
 3. 購入するサブスクリプションをポイントして、**[今すぐ購入]** を選択します。
+
+詳細については、「[ 非営利団体向けの Microsoft 365 リソースの ](https://www.microsoft.com/nonprofits/microsoft-365)」 または「[販売](https://www.microsoft.com/nonprofits/contact-us)に問い合わせる」を参照してください。

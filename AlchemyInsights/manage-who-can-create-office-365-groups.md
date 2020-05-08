@@ -13,7 +13,7 @@ ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
 ms.openlocfilehash: 1625311e7b47791f15a5eb8b2f057ca0d49c75f1
 ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/27/2020
 ms.locfileid: "43912300"
@@ -24,6 +24,6 @@ ms.locfileid: "43912300"
   
 これを変更する場合は、PowerShell を使用して、グループの作成を一部のユーザーに限定するセキュリティ グループを作成できます。
   
-この手順に従って、「 [Microsoft 365 グループを作成できるユーザーを管理する](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)」を参照してください。
+「[Microsoft 365 グループを作成できるユーザーを管理する](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)」の詳しい手順に従って操作します。
   
 
