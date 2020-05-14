@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958543"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43537746"
 ---
 # <a name="general-migration-performance-guidance"></a>全般的な移行パフォーマンス ガイダンス
 
+
 **重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
-**移行パフォーマンス ガイダンス**
+**移行オプション**
 
-移行のパフォーマンスは、ネットワーク インフラストラクチャ、ファイル サイズ、移行時間、調整の影響を受ける可能性があります。これらの要因を理解することは、移行効率を計画し、最大化する上で役立ちます。
+コンテンツを SharePoint Online に移動する際には、移動する必要があるファイルのサイズと品質に応じてさまざまなオプションを使用できます。「[こちら](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)」のオプションの一覧をご確認ください。
 
-- [全般的な移行パフォーマンス ガイダンス](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+コンテンツの移行の詳細については、下記リンク先を参照してください。
+
+- 「[Sharepoint 移行ツール](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)」
+
+- [移行マネージャーの使用の開始](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)

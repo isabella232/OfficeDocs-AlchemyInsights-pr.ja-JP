@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
-ms.openlocfilehash: 998eadb49068b0ca8001498efb97fc29c912c2a6
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+- "3821"
+ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42575399"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "42707448"
 ---
 # <a name="increase-microsoft-365-security"></a>強化された Microsoft 365 のセキュリティ
 

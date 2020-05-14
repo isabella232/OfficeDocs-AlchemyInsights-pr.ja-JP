@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42948819"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43766606"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>予期しない多要素認証
 
-2019 年 10 月 21 日以降にテナントが作成され、予期せず MFA の入力を求められた場合は、テナントで[セキュリティの既定](http://aka.ms/securitydefaults)が有効になっている可能性があります。 
+2019 年 10 月 21 日以降にテナントが作成され、予期せず MFA の入力を求められた場合は、テナントで[セキュリティの既定](https://aka.ms/securitydefaults)が有効になっている可能性があります。 
 
 セキュリティの既定値を管理するには:
 

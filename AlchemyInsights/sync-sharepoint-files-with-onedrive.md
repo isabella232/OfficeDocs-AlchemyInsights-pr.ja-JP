@@ -3,7 +3,7 @@ title: SharePoint Online での「エクスプローラーで開く」問題の�
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770284"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43767038"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online での「エクスプローラーで開く」問題のトラブルシューティング
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43040214"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43784804"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams のダイヤルイン会議番号を削除する
 
@@ -24,7 +24,7 @@ ms.locfileid: "43040214"
 
 会議ブリッジの既定の電話番号は、会議の参加者または開催者によって発信呼び出しが行われる場合に使用される発信者 ID を定義します。
 
-1. 自分の職場のアカウントで Office 365 にサインインします。
+1. 職場アカウントでサインインします。
 
 2. **Microsoft 365 管理センター**に移動します。
 
