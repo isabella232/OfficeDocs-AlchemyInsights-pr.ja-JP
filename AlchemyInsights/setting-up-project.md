@@ -22,6 +22,6 @@ ms.locfileid: "36666197"
 
  <span data-ttu-id="d0419-104">Microsoft Project をセットアップするには、[この記事](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx) の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="d0419-104">To set up Microsoft Project, follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).</span></span>
 
-<span data-ttu-id="d0419-105">**Mac ユーザーへのお知らせ:** Project 製品は、現時点で MacOS では使用できません。</span><span class="sxs-lookup"><span data-stu-id="d0419-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> 
+<span data-ttu-id="d0419-105">**Mac ユーザーへのお知らせ:** Project 製品は、現時点で MacOS では使用できません。</span><span class="sxs-lookup"><span data-stu-id="d0419-105">**Notice for Mac users:** The Project product is not available for MacOS at this time.</span></span> 
   
-<span data-ttu-id="d0419-106">セットアップ中にエラーが発生する場合は、[サポート/回復アシスタントを使用して Project をインストール](https://aka.ms/SaRA-ProjectSetupScenario)します。</span><span class="sxs-lookup"><span data-stu-id="d0419-106">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>
+<span data-ttu-id="d0419-106">セットアップ中にエラーが発生する場合は、[サポート/回復アシスタントを使用して Project をインストール](https://aka.ms/SaRA-ProjectSetupScenario)します。</span><span class="sxs-lookup"><span data-stu-id="d0419-106">If you are running into errors during setup, [install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario).</span></span>

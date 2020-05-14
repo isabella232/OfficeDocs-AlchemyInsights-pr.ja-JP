@@ -18,7 +18,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2019
 ms.locfileid: "37340570"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a><span data-ttu-id="de1e6-102">Microsoft Teams PowerShell モジュールの機能</span><span class="sxs-lookup"><span data-stu-id="de1e6-102">What you can accomplish with Microsoft Teams PowerShell Module</span></span>
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a><span data-ttu-id="de1e6-102">Microsoft Teams PowerShell モジュールの機能</span><span class="sxs-lookup"><span data-stu-id="de1e6-102">What you can accomplish with Microsoft Teams PowerShell module</span></span>
 
 <span data-ttu-id="de1e6-103">Teams PowerShell モジュールのインストール方法については、[このブログ](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="de1e6-103">If you need to know how to install the Teams PowerShell module, you can check out [this blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).</span></span>
 
