@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957839"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063802"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>サブスクリプションのライセンスを追加または削除する
 
 ここでは、ライセンスを追加または削除する方法について説明します。
   
-1. **[課金情報] > [[サブスクリプション]](https://portal.office.com/adminportal/home#/subscriptions)** の順に移動します。
+1. 管理センターで、[製品の**請求** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] ページに移動します。
 
 2. ライセンスを追加/削除するサブスクリプションを選択します。
 
@@ -37,7 +37,7 @@ ms.locfileid: "43957839"
 
 ライセンスを割り当てる方法の詳細については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
 
- **参照資料**
+**参照資料**
   
 - [サブスクリプション ライセンスを管理する - 購入または削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
