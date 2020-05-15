@@ -13,18 +13,18 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762610"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063838"
 ---
 # <a name="manage-recurring-billing"></a>継続請求を管理する
 
 Microsoft 365 管理センターで継続請求を有効または無効にできます。
   
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. [**課金**] の [**更新予定日**] または [**有効期限**] の横にある [**編集**] を選択します。
 
@@ -32,4 +32,4 @@ Microsoft 365 管理センターで継続請求を有効または無効にでき
 
 4. [**変更の送信**] を選択します。
 
-詳細については、[「継続請求をオフまたはオンにする」](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on) を参照してください。
+詳細については、[「継続請求をオフまたはオンにする」](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。

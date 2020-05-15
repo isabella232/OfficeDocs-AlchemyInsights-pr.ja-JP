@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741832"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063262"
 ---
 # <a name="subscription-recurring-billing"></a>サブスクリプションの継続請求
 
 月払いまたは年払いのサブスクリプションの請求日 ([**継続請求**] が有効な場合)、または有効期限 ([**継続請求**] が無効な場合) を確認する必要がある場合、次の手順を実行します。
   
-1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. サブスクリプションの詳細については、**[課金]** の **[更新日]** または **[有効期限]** を参照してください。
 

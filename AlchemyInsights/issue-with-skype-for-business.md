@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739066"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43765850"
 ---
 # <a name="issue-with-skype-for-business"></a>Skype for Business に関する問題
 
@@ -23,7 +23,7 @@ ms.locfileid: "36739066"
   
 {HealthCheckString}
   
-ドメイン (DNS) レコードの NS、CNAME、または SRV の設定が Skype for Business に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。
+ドメイン (DNS) レコードの NS、CNAME、または SRV の設定が Skype for Business に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。
   
 この問題を修正する場合は、Microsoft 365 管理センターの [[ドメイン]](https://admin.microsoft.com/adminportal/home#/Domains) ページに移動して支援を求めてください。
   

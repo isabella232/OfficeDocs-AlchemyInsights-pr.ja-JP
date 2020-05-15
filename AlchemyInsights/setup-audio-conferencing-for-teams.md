@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42813288"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43764374"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Teams の電話会議を設定する
 
@@ -42,4 +42,4 @@ Microsoft Teams で電話会議を有効にしたり、設定したりする方�
 
 7. 該当するユーザーを選択し、そのユーザーに**既定の有料電話番号**があることを確認します。
 
-詳細については、「[Office 365 の通話プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問については Microsoft コマース課金チームにお問い合わせください。
+詳細については、「[Microsoft 365 の通話プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問について Microsoft コマース課金チームにお問い合わせください。

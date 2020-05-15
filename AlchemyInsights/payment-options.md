@@ -12,22 +12,22 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b743d7ef20fa2c5ebbc5d3f8a236464522aa79c5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a03eea367de2d13f6f20e0b98396c2b8b9934007
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666773"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063154"
 ---
-# <a name="payment-options-for-office-365-for-business-subscriptions"></a>一般法人向け Office 365 サブスクリプションの支払いオプション
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 for business サブスクリプションの支払いオプション
   
-クレジットカード、銀行口座 (口座振替)、および請求書 (小切手または電子決済) はすべて、一般法人向け Office 365 のサブスクリプションの支払いオプションです。
+クレジットカード、銀行口座 (口座振替)、および請求書 (小切手または電子決済) はすべて、Microsoft 365 for business のサブスクリプションの支払いオプションです。
   
 **クレジット カードまたは銀行口座引き落としで支払う**
   
 クレジット カードまたは銀行口座引き落としで支払う場合、請求日の翌日からサブスクリプション有効期限の最終日まで、サブスクリプションの費用が自動請求されます。 必要に応じて [クレジット カードまたは銀行口座情報を更新](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) できます。 また、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) こともできます。
   
-ご利用のクレジット カードが拒否された場合、またはお支払い期限を過ぎている場合は、**[課金情報]** \> [[製品とサービス](https://portal.office.com/adminportal/home#/subscriptions)] ページで [**残高の決済**] オプションを選択することができます。
+ご利用のクレジット カードが拒否された場合、またはお支払い期限を過ぎている場合は、[**課金情報**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページで [**残高の決済**] オプションを選択することができます。
   
 **請求書による支払い (小切手または電子決済)**
   
@@ -41,4 +41,4 @@ ms.locfileid: "36666773"
   
 **追加情報**
   
-[一般法人向け Office 365 サブスクリプションを支払う](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
+[一般法人向け Microsoft 365 サブスクリプションを支払う](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)

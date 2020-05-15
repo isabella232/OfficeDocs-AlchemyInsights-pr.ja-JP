@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714155"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063478"
 ---
 # <a name="expired-subscription"></a>期限切れのサブスクリプション
 
@@ -26,7 +26,7 @@ ms.locfileid: "43714155"
   
 **再アクティブ化**
   
-1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 再アクティブ化するサブスクリプションを見つけます。 [**課金**] セクションで、[**再アクティブ化**] を選びます。
 
@@ -38,7 +38,7 @@ ms.locfileid: "43714155"
 
 **新規購入**
   
-1. 管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。
+1. 管理センターで、[**課金**] \> [**[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)**] ページに移動します。
 
 2. 購入するサブスクリプションを選択して、[**購入**] を選択します。
 

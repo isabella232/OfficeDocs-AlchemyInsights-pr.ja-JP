@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43064904"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43784552"
 ---
 # <a name="set-up-insider-risk-management"></a>インサイダー リスク管理の設定
 
@@ -26,13 +26,13 @@ ms.locfileid: "43064904"
 
 - Microsoft E5 コンプライアンス アドオンが含まれている **Microsoft 365 E3** サブスクリプション。
 
-既存の **Microsoft 365 E5** プランがなく、インサイダー リスク管理をお試しになりたい場合は、Microsoft 365 を既存の Office 365 サブスクリプションに追加するか、Microsoft 365 Enterprise E5 の試用版にサインアップすることができます。
+既存の **Microsoft 365 E5** プランがなく、インサイダー リスク管理をお試しになりたい場合は、Microsoft 365 を既存のサブスクリプションに追加するか、Microsoft 365 Enterprise E5 の試用版にサインアップすることができます。
 
 インサイダー リスク管理を使用するための基本的な手順は次のとおりです。
 
 1. インサイダー リスク管理のアクセス許可を有効にします。
 
-2. Office 365 監査ログを有効にします。
+2. 監査ログを有効にします。
 
 3. テンプレートの前提条件を構成します (オプション)。
 

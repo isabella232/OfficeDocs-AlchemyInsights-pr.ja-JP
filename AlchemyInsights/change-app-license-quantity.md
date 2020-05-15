@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707048"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44058757"
 ---
 # <a name="change-app-license-quantity"></a>アプリのライセンス数を変更する
 
@@ -25,7 +25,7 @@ ms.locfileid: "43707048"
 
 ## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
 
-1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
+1. [**課金**] > **[[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)]** ページの順に移動し、[**アプリ**] タブを選択します。
 
 2. 管理するアプリを検索して選択します。  
 
@@ -35,7 +35,7 @@ ms.locfileid: "43707048"
 
 ## <a name="to-assign-app-licenses"></a>アプリ ライセンスを割り当てるには
 
-1. [**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動し、[**アプリ**] タブを選択します。
+1. [**課金**] > [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページの順に移動し、[**アプリ**] タブを選択します。
 
 2. 管理するアプリを検索して選択します。  
 

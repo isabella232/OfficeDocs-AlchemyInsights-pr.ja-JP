@@ -12,12 +12,12 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3b1b1586814a8817df24c42f6a80e6dfd5d193a5
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710700"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063766"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 で Rights Management 保護を使用する
 

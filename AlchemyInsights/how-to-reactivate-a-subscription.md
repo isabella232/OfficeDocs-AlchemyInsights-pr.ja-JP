@@ -3,7 +3,7 @@ title: サブスクリプションを再アクティブ化する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 288cb29c463da776ccbce9d6a3302bfdc786702f
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664001"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44064126"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>サブスクリプションを再アクティブ化する方法
 
 サブスクリプションが有効期限切れになった場合、または Microsoft によってキャンセルまたは無効にされた場合には、Microsoft 365 管理センターでサブスクリプションを再アクティブ化できます。
   
-1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 再アクティブ化するサブスクリプションを見つけます。 [**課金**] セクションで、[**再アクティブ化**] を選びます。
 

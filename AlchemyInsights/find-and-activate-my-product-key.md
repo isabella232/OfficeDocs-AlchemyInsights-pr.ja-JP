@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716141"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062469"
 ---
 # <a name="find-and-activate-my-product-key"></a>プロダクト キーの検索とライセンス認証を行う
 
@@ -32,7 +32,7 @@ Microsoft 365 Business Premium Standard を小売店舗から購入した場合�
 
 **注**: プロダクト キーを使用した有効期限の延長や、既存の Microsoft 365 Business Premium Standard サブスクリプションへのライセンスの追加を行うには、同じMicrosoft  365 サブスクリプションの新しい未使用のキーが必要です。  以前使用したキーの再利用はできないため、元の Microsoft  365 プロダクト キーを入力することはできません。
 
-1. 管理センターで、**[課金]** > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
+1. 管理センターで、[**課金**]  >  [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 有効期限の延長、またはライセンスの追加を行うサブスクリプションを見つけます。  [[終了日の延長]](https://go.microsoft.com/fwlink/p/?linkid=842054) または [[ライセンスの追加]](https://go.microsoft.com/fwlink/p/?linkid=842054) をクリックします。
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43543513"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43783976"
 ---
 # <a name="domain-transfers"></a>ドメインの転送
 
@@ -24,9 +24,9 @@ ms.locfileid: "43543513"
 
     - Microsoft が購入したドメインでは NS レコードの変更はサポートされていませんが、Web ホスティングにドメイン登録を転送するのではなく、[Web サイトの DNS レコードの更新をする](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)ことを検討してください。
 
-- Microsoft が購入したドメインは、Office 365 テナント間で転送することはできません。 
+- Microsoft が購入したドメインは、Microsoft 365 テナント間で転送することはできません。 
 
-    - ただし、[1つのテナントからドメインを削除](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)してから、別のテナントのドメインを確認することによって、Office 365 テナント間でサードパーティのドメインを転送できます。
+    - ただし、[1 つのテナントからドメインを削除](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)してから、別のテナントのドメインを確認することによって、Microsoft 365 テナント間でサードパーティのドメインを転送できます。
 
 - サードパーティのドメイン登録や課金は、Microsoft に転送できません。
 

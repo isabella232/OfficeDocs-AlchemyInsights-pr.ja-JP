@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714047"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44064234"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにサブスクリプションを切り替える
 
@@ -25,7 +25,7 @@ ms.locfileid: "43714047"
   
 メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の サブスクリプションに切り替える手順を次に示します。
   
-1. Microsoft 365 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. Microsoft 365 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. アップグレードするサブスクリプションを選択します。
 

@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666782"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062902"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>プリペイドの Microsoft 365 の更新
 
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 延長するサブスクリプションを検索します。 [**課金**] セクションで、[**終了日を延長する**] を選択します。
 

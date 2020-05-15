@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763443"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44064090"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>継続請求を再アクティブ化および管理する方法
 
 期限切れのサブスクリプションがあるようです。サブスクリプションを再アクティブ化する手順を次に示します。
   
-1. 管理センターで、**[課金]** \> [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 再アクティブ化するサブスクリプションを見つけます。 [**課金**] セクションで、[**再アクティブ化**] を選択します。
 
@@ -36,7 +36,7 @@ ms.locfileid: "43763443"
 
 月次請求または年次請求を管理する場合は、[**継続請求**] の有効/無効を切り替えることができます。
   
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. 継続請求を管理するサブスクリプションを選択します。
 

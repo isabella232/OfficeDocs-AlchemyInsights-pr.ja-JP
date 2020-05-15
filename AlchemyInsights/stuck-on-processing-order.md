@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 676deacd28a1c544e605120a5dccd331531c5684
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43161415"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43286355"
 ---
 # <a name="stuck-on-processing-order"></a>オーダー処理がスタックしています
 
-Microsoft 365 サブスクリプションのアップグレードを選択しても、オーダーが「処理中」 で停滞している場合は、「[サービスの正常性 ダッシュボード](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/servicehealth)」の投稿**SP207374**参照してください。 テナントをアップグレードするプロセスでは、プロビジョニングが必要なため、遅延を起こす可能性があります。 プロセスは24時間以内に完了する見込みです。ただし、このような要求の処理には、最大48時間かかる場合があります。 この処理に48時間以上時間がかかる場合は、問い合わせを行ってください。
+Microsoft 365 サブスクリプションのアップグレードを選択しても、オーダーが一定期間「オーダーの処理中」のままになっている場合は、しばらくお待ちください。 テナントをアップグレードするプロセスでは、プロビジョニングが必要なため、遅延を起こす可能性があります。 この間、管理センターにはアクセスできませんが、Microsoft 365 の他のすべての領域にはアクセスできます。 プロセスは**24 時間以内に完了する**見込みです。ただし、このような要求の処理には、最大 **48 時間かかる**場合があります。 この処理に **48 時間以上**時間がかかる場合は、問い合わせを行ってください。

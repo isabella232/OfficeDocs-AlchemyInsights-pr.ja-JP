@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789163"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44064362"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>別の一般法人向け Microsoft 365 サブスクリプションに切り替える
 
 業務の内容が変化したり、機能がさらに必要な場合は、新しいプランにアップグレードできます。
   
-1. 管理センターで、[**課金情報\>]、[[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)]** の順に移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. アップグレードするサブスクリプションを選択します。
 

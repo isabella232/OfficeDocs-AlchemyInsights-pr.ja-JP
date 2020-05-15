@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706832"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43939660"
 ---
 # <a name="change-how-often-you-pay"></a>支払回数を変更する
 
- **支払い頻度を変更する** 一般法人向け Microsoft 365 のサブスクリプションの支払い頻度を年払いから月払いに、または月払いから年払いに変更する必要がある場合は、その変更をサポートいたします。 新しい支払い頻度を指定して同じサブスクリプションを購入し、古いサブスクリプションをキャンセルする必要があります。 [電話でのサポートを希望] オプションを使用して、サポート担当者にお問い合わせください。
+課金とサブスクリプションの支払いの頻度を変更するには、Microsoft 365 管理センターで次の手順を実行します。 
+1. **[支払い]、[[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。
+2. 変更するサブスクリプションを見つけます。 **[課金情報]** セクションで、**[月単位で課金]** または **[年単位で課金]** の横にある **[編集]** をクリックします。 
+3. 課金頻度のオプションを選択し、**[変更]** をクリックします。
+
+**注**: 月単位または年単位の課金のみが可能です。
+
+詳細については、「[支払い頻度を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)」を参照してください。

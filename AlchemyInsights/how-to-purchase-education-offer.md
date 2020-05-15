@@ -14,18 +14,18 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 41b98b2ea96d14ba65ae03e0e4ed46486f61f7d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7de2ebb0226b51003a6f9caf36899122b1177ddd
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763762"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063514"
 ---
 # <a name="how-to-purchase-education-offer"></a>教育機関向けプランの購入方法
 
 Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。
   
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
 2. **学生または教職員**向けの試用版を選択します。
 

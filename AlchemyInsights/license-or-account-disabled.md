@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 57331da43579af705c7e9ba52211295c0e37ce34
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: b85eb133644b8ec9ab785bf6668a3df59dda30a3
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43413737"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063406"
 ---
 # <a name="license-or-account-disabled"></a>ライセンスまたはアカウントが無効になっている
 
@@ -24,12 +24,14 @@ ms.locfileid: "43413737"
 
 **サブスクリプションを再アクティブ化する**
 
-1. 管理センターで、**[課金情報] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。
+1. 管理センターで、[**課金**]  >  [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
-2. [製品とサービス] ページで、再度有効にするサブスクリプションを探します。
+2. 再アクティブ化するサブスクリプションを見つけます。
 
-3. [課金情報]セクションで、**[今すぐ再度有効にする] **をクリックします。  [カード] ビューが表示されている場合、[名前] と [利用可能な数量] の間にある省略記号をクリックしてから、メニューで [再度有効にする]を選択します。 **注**: お探しのサブスクリプションが表示されていない場合、ページの上部にある [サブスクリプションの状態]フィルターを **[すべて]** に調整する必要がある場合があります。
+3. **[課金]** セクションで、**[今すぐ再度有効にする]** を選びます。 [**カード**] ビューが表示されている場合、[**名前**] と [**利用可能な数量**] の間にある省略記号をクリックしてから、メニューで [**再度有効にする**] を選択します。
+
+**注**: お探しのサブスクリプションが表示されていない場合、ページの上部にある **[サブスクリプションの状態]** フィルターを **[すべて]** に調整する必要がある場合があります。
 
 4. 支払いの詳細を確認して、既存の支払い情報を更新します。 支払い方法の入力が完了したら、**[再度有効にする]** をクリックします。
 
-詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)」を参照してください。 
+詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
