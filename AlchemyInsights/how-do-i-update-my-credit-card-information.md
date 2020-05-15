@@ -13,23 +13,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787915"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225273"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="10663-102">クレジット カードの情報を更新する方法</span><span class="sxs-lookup"><span data-stu-id="10663-102">How do I update my credit card information?</span></span>
+# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="a8461-102">クレジット カードの情報を更新する方法</span><span class="sxs-lookup"><span data-stu-id="a8461-102">How do I update my credit card information?</span></span>
 
-1. <span data-ttu-id="10663-103">Microsoft 365 管理センターで、[**課金情報**] \> [[支払い方法](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="10663-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="a8461-103">管理センターで、[**課金情報**] > [**請求と支払い**] > [[支払方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="a8461-103">In the admin center, go to the **Billing** > **Bills & payments** > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+2. <span data-ttu-id="a8461-104">更新する支払い方法の行を選択します。</span><span class="sxs-lookup"><span data-stu-id="a8461-104">Select the row of the payment method to update.</span></span> <span data-ttu-id="a8461-105">右側のウィンドウで、[**編集**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="a8461-105">In the right pane, select **Edit**.</span></span>
+3. <span data-ttu-id="a8461-106">クレジット カードまたはデビット カードの名前、請求先住所、有効期限などのお支払い方法の情報を更新し、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="a8461-106">Update your payment method information, including the name on the credit or debit card, billing address, or expiration date, and then select **Save**.</span></span>
 
-2. <span data-ttu-id="10663-104">[**支払い方法**] ページで、更新するクレジット カードまたは銀行口座を選択します。</span><span class="sxs-lookup"><span data-stu-id="10663-104">On the **Payment methods** page, pick the credit card or bank account to update.</span></span>
+<span data-ttu-id="a8461-107">詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a8461-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
 
-3. <span data-ttu-id="10663-105">クレジット カードまたは銀行口座の情報を変更するには、[**お支払いの詳細を編集**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="10663-105">To change the credit card or bank account information, select **Edit payment details**.</span></span>
-
-4. <span data-ttu-id="10663-106">必要に応じて、クレジット カードまたは銀行口座の情報 (クレジット カードまたは銀行口座の名前、請求先住所、電話番号、有効期限) を更新し、[**保存**] > [**完了**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="10663-106">Update your credit card or bank account information (name on the credit card or bank account, billing address phone number, or expiration date) as needed, then select **Save** > **Done**.</span></span>
-
-<span data-ttu-id="10663-107">詳細については、「[クレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="10663-107">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
-
-<span data-ttu-id="10663-108">**注**: サブスクリプションを購入したのが別の管理者であった場合、サブスクリプションのクレジット カードの情報は更新できません。</span><span class="sxs-lookup"><span data-stu-id="10663-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="10663-109">クレジット カードの有効期限が切れそうで、他の管理者が情報を更新できない場合は、サブスクリプションに別のクレジット カードを追加してサービスの中断を防ぐことができます。</span><span class="sxs-lookup"><span data-stu-id="10663-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>
+<span data-ttu-id="a8461-108">**注**: サブスクリプションを購入したのが別の管理者であった場合、サブスクリプションのクレジット カードの情報は更新できません。</span><span class="sxs-lookup"><span data-stu-id="a8461-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="a8461-109">クレジット カードの有効期限が切れそうで、他の管理者が情報を更新できない場合は、サブスクリプションに別のクレジット カードを追加してサービスの中断を防ぐことができます。</span><span class="sxs-lookup"><span data-stu-id="a8461-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>

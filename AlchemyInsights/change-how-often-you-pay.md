@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706832"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "43939660"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="9f70c-102">支払回数を変更する</span><span class="sxs-lookup"><span data-stu-id="9f70c-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="20ed8-102">支払回数を変更する</span><span class="sxs-lookup"><span data-stu-id="20ed8-102">Change how often you pay</span></span>
 
- <span data-ttu-id="9f70c-103">**支払い頻度を変更する**</span><span class="sxs-lookup"><span data-stu-id="9f70c-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="9f70c-104">一般法人向け Microsoft 365 のサブスクリプションの支払い頻度を年払いから月払いに、または月払いから年払いに変更する必要がある場合は、その変更をサポートいたします。</span><span class="sxs-lookup"><span data-stu-id="9f70c-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="9f70c-105">新しい支払い頻度を指定して同じサブスクリプションを購入し、古いサブスクリプションをキャンセルする必要があります。</span><span class="sxs-lookup"><span data-stu-id="9f70c-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="9f70c-106">[電話でのサポートを希望] オプションを使用して、サポート担当者にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="9f70c-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="20ed8-103">課金とサブスクリプションの支払いの頻度を変更するには、Microsoft 365 管理センターで次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="20ed8-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
+1. <span data-ttu-id="20ed8-104">**[支払い]、[[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="20ed8-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="20ed8-105">変更するサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="20ed8-105">Find the subscription you want to change.</span></span> <span data-ttu-id="20ed8-106">**[課金情報]** セクションで、**[月単位で課金]** または **[年単位で課金]** の横にある **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="20ed8-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
+3. <span data-ttu-id="20ed8-107">課金頻度のオプションを選択し、**[変更]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="20ed8-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+
+<span data-ttu-id="20ed8-108">**注**: 月単位または年単位の課金のみが可能です。</span><span class="sxs-lookup"><span data-stu-id="20ed8-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="20ed8-109">詳細については、「[支払い頻度を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="20ed8-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
