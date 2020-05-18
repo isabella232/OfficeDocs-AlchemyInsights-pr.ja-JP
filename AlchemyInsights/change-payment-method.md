@@ -9,24 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "277"
 - "1500001"
+- "277"
+- "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655503"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44221950"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 
-Microsoft 365 管理センターで設定されている支払い方法を確認したり、変更したりできます。 確認するサブスクリプションを選択します。 サブスクリプションに設定されている支払い方法が、[**課金**] に表示されます。
+支払い方法の変更は、**Microsoft 365 管理センター**から行うことができます。
   
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
+1. 管理センターで、**[課金]** > **[請求と支払い]** > [[支払方法]](https://go.microsoft.com/fwlink/p/?linkid=2018806) ページの順に移動します。
+2. 変更する支払い方法の行を選択します。 右側のウィンドウには、選択した支払方法を使用する請求プロファイルと個々のサブスクリプションがすべて一覧表示されます。
+3. 右側のウィンドウで、**[すべてのアイテムの支払方法を置き換える]** を選択します。
+4. 既存の支払い方法を使用する場合は、ドロップダウン リストからいずれかのオプションを選択して、**[置換]** を選択します。
+    > [!NOTE]
+    > 請求プロファイルに関連付けられているサブスクリプションがある場合は、クレジット カードまたはデビット カードのみ支払いに使用できます。 **[支払方法]** ページに銀行口座が表示されている場合は、ドロップダウン リストで選択することはできません。
+5. 新しい支払方法を追加するには、**[支払方法の追加]** を選択します。
+6. **[支払方法の追加]** ウィンドウで、アカウント情報を入力し、**[保存]** を選択します。 テナントと同じ国の支払い方法を使用する必要があります。
+7. 新しい支払い方法は、ドロップダウン リストで既に選択されています。 **[置換]** を選択します。
 
-2. 支払い方法を変更するサブスクリプションを検索します。 支払い方法の横にある [**編集**] を選択します。
-
-3. 画面に示される手順を実行して、変更を完了します。
-
-詳細については、「[一般法人向け Microsoft 365 の支払い方法を変更する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)」を参照してください。
+詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。

@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710016"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225201"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>支払いをクレジット カードから請求書に変更する方法
 
 > [!NOTE]
 > 請求書で支払うオプションは、サブスクリプションの料金が一定の金額を超えた場合に限られます (サービスの提供場所によって異なります)。請求書支払いの金額が大きい場合、与信審査が必要になることがあります。詳細については、「[サブスクリプションを支払う方法](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)」を参照してください。
-  
-1. 管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。
 
-2. 変更するサブスクリプションを選択します。 [**課金**] セクションで、現在のお支払い方法の [**編集**] オプションを選択します。 
+1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 
-3. [**このサブスクリプションの支払い方法を変更する**] ボックスで [**変更**] を選択し、別の支払方法を選ぶか追加し、[**保存**]を選択します。
+2. 変更するサブスクリプションを見つけます。 [**請求**] の下で支払い方法の横にある [**編集**] を選択します。
 
-   > [!NOTE]
-   > このオプションが表示されない場合、サブスクリプションが請求書支払いの最小金額に満たないため、クレジット カードまたは銀行口座引き落としから請求書に切り替えられないことを意味します。 請求書払いに必要な最小金額は地理的な場所によって異なります。
-  
+3. 既存の支払い方法の横にある [**変更**] を選択します。
+
+4. ドロップダウン メニューで、[**請求書または電信送金**] を選択します。
+
+5. ご自分の名前、住所、電話番号を入力します。 請求書に表示する発注書番を追加することもできます。
+
+6. 完了したら、[**保存**] を選択します。
+
+7. 選択した支払い方法が正しいことを確認し、[**保存**] を選択します。
+
+詳細については、「[支払方法を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)」を参照してください。

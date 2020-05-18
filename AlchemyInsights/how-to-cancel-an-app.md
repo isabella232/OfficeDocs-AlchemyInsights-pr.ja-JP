@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711312"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062505"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>サービスとしてのソフトウェア アプリをキャンセルする方法 
 
-1. Microsoft 365 管理センターで、[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] のページの順に移動し、[**アプリ**] タブを選択します。
+1. Microsoft 365 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動し、**[アプリ]** タブを選択します。
 
 2. 管理するアプリを検索して選択します。
 

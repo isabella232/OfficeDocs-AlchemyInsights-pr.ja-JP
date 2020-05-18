@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 8d7ca90f7ed2a5c11f4133e6ec35ec282e3cbd2b
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109211"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44063010"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>アカウントとサブスクリプションを管理する
 
