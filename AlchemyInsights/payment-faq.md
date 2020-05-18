@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44012666"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263953"
 ---
 # <a name="payment-faq"></a>支払いに関するよく寄せられる質問
 
 ** Microsoft 365 管理センター**の支払を管理します。 
 
-1. サブスクリプションの支払い方法の割り当てまたは変更を行うには、**課金 > [製品 & サービス](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動します。
-2. 支払い方法を追加、更新、または削除するには、**課金 > [の支払い方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)** に移動します。
-
-**一般的な問題と解決策**
+- サブスクリプションの支払い方法の割り当てまたは変更を行うには、**[課金] > [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] に移動します。
+- 支払い方法を追加、更新、または削除するには、**課金 > [の支払い方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)** に移動します。
 
 - **支払い方法** クレジットカードまたは銀行口座による支払いの場合、サブスクリプションに関連付けられている支払方法は、請求書が作成されてから数日以内に課金されます。 支払いが上手く処理されない場合は、支払い方法の更新を行います。 詳細については、「[支払い方法を追加、更新、あるいは削除する](https://go.microsoft.com/fwlink/?linkid=2118133)」を参照してください。
 
