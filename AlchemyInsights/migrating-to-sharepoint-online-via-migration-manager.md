@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235357"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268741"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>移行マネージャーを使用して SharePoint Online に移行する
-
-**移行マネージャー**
 
 最新の SharePoint 管理センターにある、移行マネージャーに従ってクライアントのセットアップとタスクの作成を実行します。 グローバル設定またはタスク レベルの設定、全体の進行状況の表示、集計サマリーのダウンロードおよびタスク レベルのレポートを指定することができます。
 
