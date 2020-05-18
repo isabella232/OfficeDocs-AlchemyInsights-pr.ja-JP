@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710016"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225201"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="dfa87-102">支払いをクレジット カードから請求書に変更する方法</span><span class="sxs-lookup"><span data-stu-id="dfa87-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="6f811-102">支払いをクレジット カードから請求書に変更する方法</span><span class="sxs-lookup"><span data-stu-id="6f811-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="dfa87-p101">請求書で支払うオプションは、サブスクリプションの料金が一定の金額を超えた場合に限られます (サービスの提供場所によって異なります)。請求書支払いの金額が大きい場合、与信審査が必要になることがあります。詳細については、「[サブスクリプションを支払う方法](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dfa87-p101">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span></span>
-  
-1. <span data-ttu-id="dfa87-106">管理センターで、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="dfa87-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+> <span data-ttu-id="6f811-p101">請求書で支払うオプションは、サブスクリプションの料金が一定の金額を超えた場合に限られます (サービスの提供場所によって異なります)。請求書支払いの金額が大きい場合、与信審査が必要になることがあります。詳細については、「[サブスクリプションを支払う方法](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6f811-p101">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span></span>
 
-2. <span data-ttu-id="dfa87-107">変更するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="dfa87-107">Select the subscription that you want to change.</span></span> <span data-ttu-id="dfa87-108">[**課金**] セクションで、現在のお支払い方法の [**編集**] オプションを選択します。 </span><span class="sxs-lookup"><span data-stu-id="dfa87-108">In the **Billing** section, select the **Edit** option for your current payment method.</span></span>
+1. <span data-ttu-id="6f811-106">管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="6f811-106">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-3. <span data-ttu-id="dfa87-109">[**このサブスクリプションの支払い方法を変更する**] ボックスで [**変更**] を選択し、別の支払方法を選ぶか追加し、[**保存**]を選択します。</span><span class="sxs-lookup"><span data-stu-id="dfa87-109">In the **Change how you pay for this subscription** box, select **Change**, choose or add a different payment method, and then select **Save**.</span></span>
+2. <span data-ttu-id="6f811-107">変更するサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="6f811-107">Find the subscription that you want to change.</span></span> <span data-ttu-id="6f811-108">[**請求**] の下で支払い方法の横にある [**編集**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f811-108">Under **Billing**, next to the payment method, select **Edit**.</span></span>
 
-   > [!NOTE]
-   > <span data-ttu-id="dfa87-110">このオプションが表示されない場合、サブスクリプションが請求書支払いの最小金額に満たないため、クレジット カードまたは銀行口座引き落としから請求書に切り替えられないことを意味します。</span><span class="sxs-lookup"><span data-stu-id="dfa87-110">If this option isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice.</span></span> <span data-ttu-id="dfa87-111">請求書払いに必要な最小金額は地理的な場所によって異なります。</span><span class="sxs-lookup"><span data-stu-id="dfa87-111">The minimum cost amount required to be billed by invoice varies by geographic location.</span></span>
-  
+3. <span data-ttu-id="6f811-109">既存の支払い方法の横にある [**変更**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f811-109">Next to your existing payment method, select **Change**.</span></span>
+
+4. <span data-ttu-id="6f811-110">ドロップダウン メニューで、[**請求書または電信送金**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f811-110">From the drop-down menu, select **Invoice or wire transfer**.</span></span>
+
+5. <span data-ttu-id="6f811-111">ご自分の名前、住所、電話番号を入力します。</span><span class="sxs-lookup"><span data-stu-id="6f811-111">Enter your name, address, and phone number.</span></span> <span data-ttu-id="6f811-112">請求書に表示する発注書番を追加することもできます。</span><span class="sxs-lookup"><span data-stu-id="6f811-112">You can also add a PO number to display on the invoice.</span></span>
+
+6. <span data-ttu-id="6f811-113">完了したら、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f811-113">When you're finished, select **Save**.</span></span>
+
+7. <span data-ttu-id="6f811-114">選択した支払い方法が正しいことを確認し、[**保存**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6f811-114">Verify that the selected payment method is correct, then select **Save**.</span></span>
+
+<span data-ttu-id="6f811-115">詳細については、「[支払方法を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6f811-115">To learn more, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
