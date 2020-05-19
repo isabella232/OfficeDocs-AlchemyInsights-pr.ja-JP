@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711384"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278825"
 ---
 # <a name="cannot-access-sharepoint"></a>SharePoint にアクセスできない
-
-**重要**: 昨今の前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
 
 Microsoft SharePoint や Microsoft OneDrive にアクセスできなくなる理由はいくつか考えられます。 SharePoint Online にアクセスできない場合は、次のガイドを使用して、この問題をトラブルシューティングしてください。
 
