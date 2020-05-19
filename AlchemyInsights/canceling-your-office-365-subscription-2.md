@@ -13,21 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 4afd88ec7d60da0e6d5f40d1ec81c715af09842d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 77b24f9bf3777c2f2085a72f089017201cd8f928
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711456"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086785"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションをキャンセルしますか?
 
 ご利用いただきありがとうございました。
   
-組織のデータに基づくと、現在のすべてのサブスクリプションに割り当てられたライセンスは 25 以上であると思われます。ユーザーを 25 未満になるまで削除してから、[**課金**] \> [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
-  
-または、サポート エンジニアと相談するには [**お問い合わせ先**] を選択します。
-  
+組織のデータに基づくと、現在のすべてのサブスクリプションには、25 以上の割り当て済みのライセンスがあります。25 未満になるまでユーザーを削除できます。その後、[**課金**] \>** [[製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] **ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
+ 
 **返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 
 **注**: キャンセルするためのオプションが表示されない場合は、サブスクリプションをクリックして詳細を表示します。**[設定とアクション]** に **[サブスクリプションのキャンセル]** オプションが示されます。 
