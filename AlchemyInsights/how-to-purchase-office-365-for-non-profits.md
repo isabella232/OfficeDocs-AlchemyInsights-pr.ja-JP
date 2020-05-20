@@ -1,5 +1,5 @@
 ---
-title: 非営利団体向け Office 365 の購入方法
+title: 非営利団体向け Microsoft 365 - 現在検討中
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763546"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005227"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>非営利団体向け Office 365 の購入方法
+# <a name="microsoft-365-for-nonprofits---under-review"></a>非営利団体向け Microsoft 365 - 現在検討中
 
-Microsoft 認定の非営利組織として、お客様の利用資格について検討しています。試用の期限が切れるまでに利用資格の判定に関する通知がありますのでお待ちください。申請の状況については、[ここ](https://eligibilityweb.azurewebsites.net/)から追跡できます。
+Microsoft 認定非営利団体としての利用資格は、**現在検討中**です。 利用資格に関する決定は、申請から **48 時間**後に通知されます。 この通知に関するお問い合わせは、**48 時間**以上待機してから行ってください。 
+
+詳細については、「[非営利団体向け Microsoft 365](https://www.microsoft.com/nonprofits/microsoft-365)」を参照してください。 

@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724561"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005263"
 ---
-# <a name="inbox-rules"></a>受信トレイのルール
+# <a name="inbox-rules-in-outlook-desktop"></a>Outlook デスクトップの受信トレイのルール
 
-独自のメールボックスでの受信トレイのルールの使用に関する詳細については、次を参照してください。
+1. [**ファイル] > [仕分けルールと通知の管理**] の順に選択して、[**仕分けルールと通知**] ダイアログ ボックスを開きます。
+2. [**電子メールの仕分けルール**] タブの [**新しい仕分けルール**] をクリックします。
+3. **手順 1** のいずれかのテンプレートを選択します。 空白のルールから開始するには、[**受信メッセージにルールを適用する] または [送信メッセージにルールを適用する**] を選択します。
+4. [**手順 2: 仕分けルールの説明を編集してください**] ボックスで、下線が引かれたオプションをクリックし、それらを設定します。 たとえば、手順 1 で、[**特定の人から受信したメッセージにフラグを設定する**] を選択した場合は、[**名前/パブリック グループ**] をクリックし、フラグを設定する送信者のメッセージを選択し、[**期限**] をクリックして、フラグとフォロー アップの日付を選択します。
+5. [**次へ**] をクリックします。
 
-- [Outlook for PC でルールを使用してメール メッセージを管理する](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Outlook on the web で受信トレイのルールを使用してメッセージを管理する](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Exchange Online PowerShell で受信トレイのルールを管理することもできます。詳細については、「[Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule)」 (表示)、「[New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule)」 (作成)、「[Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule)」 (削除)、「[Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule)」 (既存の変更)、「[Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule)」 (既存の無効化)、および「[Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)」 (既存の有効化) を参照してください。
+受信トレイルールを使用する方法の詳細については、「[仕分けルールを使ってメール メッセージを管理する](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)」を参照してください。

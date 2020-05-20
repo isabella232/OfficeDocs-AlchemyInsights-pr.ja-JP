@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
 ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/27/2020
 ms.locfileid: "43912899"
@@ -25,9 +25,9 @@ ms.locfileid: "43912899"
     
  SharePoint サイトにアクセスするためのアクセス許可をユーザーに付与するには: 
   
-1. そのサイトを Web ブラウザーで開きます。
+1. サイトを Web ブラウザーで開きます。
     
-2. サイトが Microsoft 365 グループに属している場合は、右上の [設定] アイコンをクリックし、[**サイトの権限**] をクリックします。[**ユーザーの招待**] をクリックし、Microsoft 365 グループにメンバーを追加するか、サイトのみを共有するかを選択します。 
+2. サイトが Microsoft 365 グループに属している場合、右上の [設定] アイコンをクリックし、**[サイトの権限]** をクリックします。**[ユーザーの招待]** をクリックして、Microsoft 365 グループにメンバーを追加するか、サイトのみを共有します。 
     
     コミュニケーション サイトでは、右上の [**サイトの共有**] をクリックして、ユーザー名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。 
     
