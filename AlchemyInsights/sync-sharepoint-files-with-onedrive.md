@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43767038"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343165"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online での「エクスプローラーで開く」問題のトラブルシューティング
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767038"
 - [[エクスプローラーで開く] を使用してライブラリ ファイルをコピーまたは移動する](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **注:** 
+>- [エクスプローラーで開く] は、Internet Explorer 10 または 11 でのみサポートされています。 [エクスプローラーで開く] は、Microsoft Edge、Google Chrome、Mozilla FireFox を使用した場合の Windows、または Mac プラットフォームでは機能しません。 そのため、[エクスプローラー ビュー] オプションが灰色表示になることがあります。
 >
 >- [エクスプローラーで開く] ボタンは、新しいライブラリ エクスペリエンスには表示されません。 右上にある **[表示]** ドロップダウン (このドロップダウンの名前は、現在のビューによって変化します) をクリックして、**[エクスプローラーで表示]** をクリックしてください。
->
->- [エクスプローラーで開く] は、Internet Explorer 10 または 11 でのみサポートされています。 [エクスプローラーで開く] は、Microsoft Edge、Google Chrome、Mozilla FireFox を使用した場合の Windows、または Mac プラットフォームでは機能しません。 そのため、[エクスプローラー ビュー] オプションが灰色表示になることがあります。
-
-

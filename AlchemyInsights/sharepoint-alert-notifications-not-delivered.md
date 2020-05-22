@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742052"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343104"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint のアラート通知が配信されない
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742052"
 
 - 配布グループにアラートを送信することはできません。サポートされているのはセキュリティ グループと O365 グループのみです。
 - アラート メール テンプレートをカスタマイズすることはできません。カスタマイズを行うには、Microsoft FLOW または SharePoint Designer ワークフローを使用する必要があります。
-
-詳細情報:
-
-- **アラートの設定**: アラートの設定の詳細については、「[SharePoint でファイルやフォルダーが変更されたときに知らせてくれる通知を作成する](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)」を参照してください。
-- **アラートのトラブルシューティング**: アラートのトラブルシューティングの詳細については、「[ユーザーが SharePoint Online アラート通知を受信していない](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)」を参照してください。
-- **高度な O365 コンプライアンス アラート ポリシー**: この種類のアラートの設定の詳細については、「[コンプライアンス アラート ポリシー](https://docs.microsoft.com/office365/securitycompliance/alert-policies)」を参照してください。
-- **SharePoint および OneDrive 監査ログ**: これらのイベントを取得する方法の詳細については、「[監査ログを検索する](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)」を参照してください。
-- **Advanced Threat Protection によって送信されるアラート**: 「[ATP for SharePoint and OneDrive (SharePoint および OneDrive 用の ATP)](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)」を参照してください。
-- **データ損失防止ポリシーによって送信されるアラート**: 「[Email notifications for DLP policies (DLP ポリシーのメール通知)](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)」を参照してください。
 
 ## <a name="related-topics"></a>関連項目
 
