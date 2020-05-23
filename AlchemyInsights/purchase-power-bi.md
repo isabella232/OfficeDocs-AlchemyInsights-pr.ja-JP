@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 45a906ccda0ef42e30c0e81ac07b9bf8694ed542
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: a8bdf15609c74c28626f0c2aa4e7c8fd1ad66f89
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599304"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062811"
 ---
 # <a name="purchase-power-bi"></a>Power BI を購入する
 

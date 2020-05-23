@@ -12,14 +12,14 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: a357e538c8fafee36bf7b05348c1d9445052f978
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 10f18044f999a9d30969221f65012fdce445d94a
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235230"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331348"
 ---
-# <a name="sharepoint-throttling"></a>SharePoint の調整
+# <a name="sharepoint-migration-throttling"></a>SharePoint の移行の調整
 
 SharePoint Online は、SharePoint Online サービスの最適なパフォーマンスと信頼性を維持する目的で調整を使用します。 調整では、リソースの過剰な使用を防ぐため、ユーザー アクションまたは (スクリプトまたはコードによる) 同時呼び出しの数が制限されます。 詳細については、次を参照してください。
 

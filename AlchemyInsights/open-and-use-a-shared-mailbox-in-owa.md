@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682081"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163822"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開いて使用する
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Outlook で共有メールボックスを開いて使用する
 
-アクセス権のある共有メールボックスは、自動的には Outlook on the web (旧称 Outlook Web App) に表示されません。
+共有メールボックスを使用すると、グループのメンバーが共通のメール アドレスでメールの監視と送信ができるようになります。 
 
-共有メールボックスとプライマリ メールボックスは一緒に表示できます。共有メールボックスは別のブラウザー ウィンドウで開くこともできます。共有メールボックスの新しいメッセージ通知を受信するには、共有メールボックスを別のブラウザー ウィンドウで開く必要があります。詳細については、「[Outlook Web App で共有メールボックスを開いて使用する](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)」を参照してください。
+**注**: Microsoft 365 管理者は、共有メールボックスを作成し、メンバーとして追加する必要があります。
+
+共有メールボックスを開いて使用する方法については、以下を参照してください。
+
+- [共有メールボックスを Outlook on the web に追加する](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Outlook for Windows で共有メールボックスを開いて使用する](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Outlook for Mac で共有フォルダーまたはメールボックスを開く](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Outlook Mobile に共有メールボックスを追加する (iOS/Android 版 Outlook)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)
