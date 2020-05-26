@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: 35636cf4bc4d6d3277d72be2c25a4de863d09700
-ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.openlocfilehash: 9fe58236a335613526948f87225e770e512a37d8
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44282083"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354129"
 ---
 # <a name="migration-manager-faq"></a>移行マネージャーについてよく寄せられる質問
 
-- 「[移行マネージャーについてよく寄せられる質問](https://docs.microsoft.com/ja-JP/sharepointmigration/mm-faqs)」を参照してください。
+- 「[移行マネージャーについてよく寄せられる質問](https://docs.microsoft.com/sharepointmigration/mm-faqs)」を参照してください。

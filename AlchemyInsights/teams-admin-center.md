@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029777"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354093"
 ---
 # <a name="teams-admin-center"></a>Teams 管理センター
 
@@ -30,4 +30,6 @@ Teams 管理センターにアクセスできない場合は、以下の項目�
 Teams 管理センターでユーザーが表示されない場合は、以下の項目を確認してください。
 
 - 24 時間以内にユーザーの作成、またはライセンスの割り当てを行ったかどうか。 サポート チケットをオープンする前に 24 時間以上経過したことをご確認ください。
-- 適切なライセンスが割り当てられていることを確認したか。 
+- 適切なライセンスが割り当てられていることを確認したか。
+- オンプレミスの Active Directory がある場合は、[msRTCSIP-PrimaryUserAddress の値またはローカル Active Directory の ProxyAddresses フィールドの SIP アドレスが一意であり、形式が一致していることを確認します](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) (sip: [Microsoft 365 管理センター](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)のユーザーの **Username**)。
+- Skype for Business Server の展開を維持し、ユーザーをオンプレミスおよびオンラインに置く場合は、Skype for Business Server コントロール パネルの **「Teams および Skype for Business Online とのハイブリッドのセットアップ」** に従ってください。ユーザーをオンラインに移動します。
