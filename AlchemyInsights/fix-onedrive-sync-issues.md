@@ -10,14 +10,20 @@ ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: 6e89e6ceac5bcd71d364f600fb4649048fa7fafb
-ms.sourcegitcommit: b81c9c63142e24ca049c5385afe71630340fec74
+ms.openlocfilehash: e39784fa5b1e2b822b855b6d4578906abb6934c5
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2019
-ms.locfileid: "36818467"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407211"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive の同期の問題を修正する
 
-OneDrive が期待どおりにファイルを同期しない場合は、[OneDrive の同期の問題をトラブルシューティング](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)できます。
+OneDrive がユーザーまたはユーザーの期待どおりに同期しない場合は、トラブルシューティングのために次のリソースを使用してください。
+
+- [OneDrive for Business の同期の問題を解決する](https://support.microsoft.com/en-us/office/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-us&rs=en-us&ad=us)
+- [**最近**の OneDrive の問題に関する修正プログラムと回避策](https://support.office.com/article/fixes-or-workarounds-for-recent-issues-in-onedrive-36110213-f3f6-490d-8cb7-3833539def0b)
+- [**個人用** OneDrive との同期の問題を解決する](https://support.office.com/article/0b10108f-8459-4a7a-b912-28f8adec5a81)
+- [**SharePoint Online** の同期の問題を解決する](https://support.office.com/article/aaa2d172-8d45-4e94-9c04-5364d04ca2f4)
+- [**ファイルやフォルダーが OneDrive に既に存在する**](https://support.microsoft.com/ja-JP/office/the-file-or-folder-already-exists-in-onedrive-7b8044ad-438d-41db-bbbf-4f66b8890408)
   

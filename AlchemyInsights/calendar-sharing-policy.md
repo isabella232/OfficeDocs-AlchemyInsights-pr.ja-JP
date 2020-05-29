@@ -14,13 +14,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 68a0a0de5e90a60bf95cce73cfa0b2881169ee52
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711960"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373004"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>予定表を共有する場合のポリシー エラー
 
-予定表を共有しようとしているときに、「このレベルのアクセス権限を 1 人以上の受信者に付与することは、ポリシーで許可されていません。」というエラーが表示される場合は、[このトピック](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor)を参照してください。
+1. 状況に応じて、次のいずれかを実行します。
+    - リモート PowerShell を使用して Exchange Online に接続します。 詳細については、「[リモート PowerShell による Exchange への接続](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)」を参照してください。
+    - オンプレミスのサーバーで Exchange 管理シェルを開きます。
+2. ユーザーに割り当てられている共有ポリシーを決定します。 これを行うには、次のコマンドを実行して、返されたポリシーを確認します。
+
+    `
+    Get-Mailbox User1 | fl *sharing*
+    `
+
+3. ユーザーの共有ポリシーを更新します。 これを行うには、次の手順を実行します。
+    - Exchange 管理センターを開きます。
+    - [**組織**] をクリックし、[**個別共有**] でユーザーに割り当てられているポリシーをダブルクリックします。 これは、手順 2 で返されたポリシーです。
+    - [共有ルール] ページの [**共有する情報を指定します**] で、許可する予定表の共有レベルを選択します。[**保存**] をクリックします。
+
+予定表を共有しようとしているときに、詳細情報については、「[このレベルのアクセス権限を 1 人以上の受信者に付与することは、ポリシーで許可されていません](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)」エラーを参照してください。
