@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 8d7ca90f7ed2a5c11f4133e6ec35ec282e3cbd2b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063010"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418113"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>アカウントとサブスクリプションを管理する
 
@@ -39,7 +39,7 @@ ms.locfileid: "44063010"
 
 - [請求書の内容を理解する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [お支払い方法を追加、更新、削除する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **サブスクリプションとライセンスを管理する** 
 

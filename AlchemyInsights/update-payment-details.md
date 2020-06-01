@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720070"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418185"
 ---
 # <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 
@@ -40,4 +40,4 @@ ms.locfileid: "43720070"
 
 ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。 
 
-詳細については、「[一般法人向け Microsoft 365 でクレジット カードや銀行口座を追加、更新、削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」と「[クレジット カードと銀行口座のトラブルシューティング](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)」を参照してください。
+詳細については、「[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
