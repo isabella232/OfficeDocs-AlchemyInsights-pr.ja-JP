@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765274"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418077"
 ---
 # <a name="when-is-my-credit-card-charged"></a>クレジット カードに請求されるタイミング
 
@@ -26,4 +26,4 @@ ms.locfileid: "43765274"
   
 定期的な請求の場合は、請求書が作成されてから 1 日以内に発生します。
   
-請求が失敗した場合、システムでは、それから数週間にわたって残高の決済の試行が続行されます。次回の請求試行が確実に成功するように、いつでも支払い情報を更新することができます。詳細については、「[一般法人向け Microsoft 365 用のクレジット カードを追加、更新、または削除する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)」を参照してください。
+請求が失敗した場合、システムは以後数週間に渡って残高の決済を継続します。ユーザーはいつでも支払い情報を更新して、次回の請求が確実に行われるようにすることができます。詳細については、「[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
