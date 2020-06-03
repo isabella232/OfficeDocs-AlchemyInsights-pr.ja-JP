@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 1586cfd72430bd4af75dac1efbf5400fe8a0d9de
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 54e5e807911e365bdec848625d89774782978573
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43710232"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499120"
 ---
 # <a name="having-email-delivery-issues"></a>メール配信の問題がある場合
 
@@ -21,7 +21,7 @@ ms.locfileid: "43710232"
   
 {HealthCheckString}
   
-ドメイン (DNS) レコードの NS または MX の設定が、Microsoft への電子メール配信に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。 
+ドメイン (DNS) レコードの NS または MX の設定が、Microsoft への電子メール配信に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。 
   
 この問題を修正する場合は、Microsoft 365 管理センターの [[ドメイン]](https://admin.microsoft.com/adminportal/home#/Domains) ページに移動して支援を求めてください。 
 
