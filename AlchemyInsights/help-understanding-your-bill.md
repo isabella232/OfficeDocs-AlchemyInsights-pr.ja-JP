@@ -13,12 +13,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: af4f0e274cce71b9a432066096763abc1fa464bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710088"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498976"
 ---
 # <a name="help-understanding-your-bill"></a>課金内容についての説明
 
@@ -32,4 +32,4 @@ ms.locfileid: "43710088"
 
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
 
-請求書の詳細については、[請求書](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)に関するページを参照してください。
+請求書の詳細については、[請求書](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)に関するページを参照してください。
