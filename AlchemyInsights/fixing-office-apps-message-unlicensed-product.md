@@ -1,5 +1,5 @@
 ---
-title: Office アプリのメッセージを修正する - ライセンスのない製品
+title: Office をライセンス認証することができない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,35 +9,35 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002298"
-- "4451"
-ms.openlocfilehash: ffe1c642f43063cd7dec87e09564642531be7e4c
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+- "2000023"
+- "3509"
+ms.openlocfilehash: de05f869702c40facf61fa5ad01a6ab841b45063
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109220"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499480"
 ---
-# <a name="fixing-office-apps-message---unlicensed-product"></a>Office アプリのメッセージを修正する - ライセンスのない製品
+# <a name="unable-to-activate-office"></a>Office をライセンス認証することができない
 
 - サブスクリプションが期限切れの状態であるかどうかを確認します。
-
+- Office 365 Business や Business Premium など、クライアント ライセンスが許可されているサブスクリプションを持っていること、そして[ユーザーにライセンスが割り当てられていることを確認](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)します。
 - ユーザーが、ライセンスが割り当てられているアカウントと同じアカウントで Office にサインインしていることを確認します。
+- [Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
+- ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Office アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 詳細については、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 の URL と IP アドレスの範囲 ")」を参照してください。
 
 - ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Office アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 詳細については、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。
 
 トラブルシューティングのための次の操作をお試しください。 
 
-- Office アプリを開き、すべての既存のユーザー アカウントから[サインアウト](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)します。 Office のライセンスを[削除](https://docs.microsoft.com/office365/admin/manage/remove-licenses-from-users?view=o365-worldwide)して[再び割り当て](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)、影響を受けているユーザー アカウントを使用して [Office にサインイン](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)します。
+- Office アプリを開き、すべての既存のユーザー アカウントから[サインアウト](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)します。 Office のライセンスを[削除](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)して[再び割り当て](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)、影響を受けているユーザー アカウントを使用して [Office にサインイン](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)します。
+トラブルシューティングのための次の操作をお試しください。
 
+- Office アプリを開き、すべての既存のユーザー アカウントから[サインアウト](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)します。 Office のライセンスを[削除](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide "削除")して[再び割り当て](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide "再割り当て")、影響を受けているユーザー アカウントを使用して [Office にサインイン](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9 "Office にサインインする")します。
 - [ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行します。
-
-- [Office のライセンス認証の状態を再設定します](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。 
-
+- [Office のライセンス認証の状態を再設定します](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Office のライセンス認証の状態をリセットする")。
 - [Office のオンライン修復を実行します](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。
 
-その他のトラブルシューティングの手順については、次を参照してください。 
-
-- [Office でのライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
-
-- [Office のライセンス認証時の "申し訳ございません。お使いのアカウントに接続できません。後でもう一度やり直してください。" というエラー](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+その他のトラブルシューティングの手順については、次を参照してください。  
+[Office でのライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)  
+[Office のライセンス認証時の "申し訳ございません。お使いのアカウントに接続できません。 後でもう一度やり直してください。" というエラー](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365 "Office のライセンス認証時の "申し訳ございません。お使いのアカウントに接続できません。 後でもう一度やり直してください。" というエラー")
