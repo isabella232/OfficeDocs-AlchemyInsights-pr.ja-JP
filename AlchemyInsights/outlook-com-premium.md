@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6f82c9fc69e8c5fcb68be53ca49e70131bf02802
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 060c4e75961e77038ae3cfc4236d075e713ed521
+ms.sourcegitcommit: cd5283431f0b4ce289427c63cd27e5b36173a9da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744774"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44545775"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com プレミアム
 
@@ -27,4 +27,4 @@ ms.locfileid: "43744774"
 **新しいサブスクライバー**
 
 - 申し訳ございません、Outlook.com プレミアムは受付を終了しました。
-- 多くの [機能とメリット](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) は [Office 365 Home と Office 365 Personal のサブスクリプション契約](https://go.microsoft.com/fwlink/?linkid=2017122)に含まれています。
+- 多くの [機能とメリット](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) は [Microsoft 365 Home と Microsoft 365 Personal のサブスクリプション契約](https://go.microsoft.com/fwlink/?linkid=2017122)に含まれています。
