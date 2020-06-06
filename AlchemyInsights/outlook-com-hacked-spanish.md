@@ -3,18 +3,18 @@ title: 8000066 - ルール 1 - Outlook.com がハッキングされた - スペ�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000066
-ms.openlocfilehash: ed464d44b3dc755780ff42b1f7589373834081a6
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
-ms.translationtype: HT
+ms.openlocfilehash: d4fc4029b564d9ee95218ce7572536477d110e13
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35745946"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581524"
 ---
 # <a name="han-hackeada-mi-cuenta-de-outlookcom"></a>Han hackeada mi cuenta de Outlook.com
 
