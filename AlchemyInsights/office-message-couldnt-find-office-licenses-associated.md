@@ -1,5 +1,5 @@
 ---
-title: Office アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
+title: Microsoft 365 アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43413661"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581656"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
 
 このエラーを解決するには、次の操作を行います。
 
-- Office ライセンスを削除し、影響を受ける[ユーザーに再割り当て](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)します。
+- Office ライセンスを削除し、影響を受ける[ユーザーに再割り当て](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)します。
 
 - Office アプリを開き、すべての既存のユーザー アカウントから[サインアウト](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)します。
 
@@ -38,10 +38,10 @@ ms.locfileid: "43413661"
 
 - Office のライセンス認証の状態をリセットします。 「[Microsoft 365 Apps for enterprise のライセンス認証の状態をリセットする](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)」を参照してください。
 
-- ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Office アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 
+- ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Microsoft 365 アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 
 
 その他のトラブルシューティングの手順については、次を参照してください。
 
 [Office でのライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

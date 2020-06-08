@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: bc7301a5538128fb1a3bab8e9c8bf1ee84e509c2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43791306"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580050"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office クライアント アプリを PC または MAC にインストールする
 
@@ -24,9 +24,9 @@ Office クライアント アプリをインストールする場合は、[Offic
 
 **注**: [Office Home and Business](https://products.office.com/home-and-business) は、[家庭向け Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 製品であり、一般法人向けのサブスクリプションには含まれません。 Project Online Essentials には、デスクトップ版の Project が含まれていないため、インストールの必要がありません。 Visio Plan 1 のユーザーは、Web 用 Visio にアクセスできます。このプランには、Visio デスクトップ アプリが含まれていません。 Mac では、Project や Visio のデスクトップ アプリを利用できません。
 
-Office アプリを含むサブスクリプションをお持ちの場合は、[割り当て済みのライセンス](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)を入手するまで、インストールのオプションは表示されません。 ライセンスの割り当てを担当している Office 365 管理者は、「[ユーザーにライセンスを割り当てる](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)」を参照してください。 さらに、[Office ソフトウェア ダウンロードの設定](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)を使用すると、ユーザーが自分の所有デバイスに Office アプリをインストールできるようにするかどうかを選択できます。
+Microsoft 365 アプリを含むサブスクリプションをお持ちの場合は、[割り当て済みのライセンス](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)を入手するまで、インストールのオプションは表示されません。 ライセンスの割り当てを担当している Office 365 管理者は、「[ユーザーにライセンスを割り当てる](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)」を参照してください。 さらに、[Office ソフトウェア ダウンロードの設定](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)を使用すると、ユーザーが自分の所有デバイスに Office アプリをインストールできるようにするかどうかを選択できます。
 
-**注**: [Office ライセンス認証レポート](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide)では、少なくとも 1 台のデバイスに Office アプリをインストールしてライセンス認証したユーザーを確認できます。
+**注**: [Office ライセンス認証レポート](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide)では、少なくとも 1 台のデバイスに Microsoft 365 アプリをインストールしてライセンス認証したユーザーを確認できます。
 
 その後で、各ユーザーに次の操作の実行を求めます。
 

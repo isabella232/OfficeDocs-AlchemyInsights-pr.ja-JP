@@ -1,5 +1,5 @@
 ---
-title: Office アプリが起動しない
+title: Microsoft 365 アプリが起動しない
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: bed29ce271df96afe229275a079b9769591924a1
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40923553"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576853"
 ---
-# <a name="office-apps-crash-stop-responding-or-dont-launch"></a>Office アプリがクラッシュする、応答を停止する、または起動しない
+# <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 アプリがクラッシュする、応答を停止する、起動しない
 
-Office アプリのハングまたはクラッシュを修正するには、次のオプションを試します。
+Microsoft 365 アプリのハングまたはクラッシュを修正するには、次のオプションを試します。
 
 - Office 用にインストールされた[アドインで発生する可能性のある問題を調査する](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins)
-- [ウイルス対策ソフトウェアが Office アプリと競合している](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict)かどうかを確認する
+- [ウイルス対策ソフトウェアが Microsoft 365 アプリと競合している](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict)かどうかを確認する
 - [Office の最新の更新プログラムをインストール](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)または確認する
 - コントロール パネルを使用して [Office を修復する](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Office を[アンインストール](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)し、再インストールする

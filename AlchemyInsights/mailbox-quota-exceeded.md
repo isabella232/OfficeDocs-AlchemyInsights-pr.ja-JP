@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784696"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579798"
 ---
 # <a name="mailbox-quota-exceeded"></a>メールボックス クォータを超えました。
 
