@@ -3,7 +3,7 @@ title: メールの移行のために EWS 調整制限を増やす
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 81de5eab55608de01337fdc2723c1fe8542ce45c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 947590f2ee669c683ab745e6f3aa123bde7841ee
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37026635"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580086"
 ---
 # <a name="increase-ews-throttling-limits-for-mail-migration"></a>メールの移行のために EWS 調整制限を増やす
 
