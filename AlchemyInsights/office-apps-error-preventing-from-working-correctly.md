@@ -1,5 +1,5 @@
 ---
-title: 'Office アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました'
+title: 'Microsoft 365 アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40901330"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576817"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました
 
 このエラーを解決するには、以下のオプションを試してみてください。
 
@@ -31,6 +31,6 @@ ms.locfileid: "40901330"
 
 詳細については、以下を参照してください。 
 
-- 「[Microsoft Office アプリを開くときのエラー](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)」
+- 「[Microsoft Microsoft 365 アプリを開くときのエラー](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)」
 - 「[PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)」
-- 「[Troubleshoot problems that occur when you start or use Office Apps (Office アプリの起動時または使用時に発生する問題のトラブルシューティング)](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)」
+- 「[Microsoft 365 アプリの起動時または使用時に発生する問題のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)」

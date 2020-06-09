@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758448"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581020"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>機密ラベルが表示されない
 
-機密ラベルにより、機密コンテンツを分類して保護できます。 機密ラベルは、Microsoft 365 コンプライアンス センター、Microsoft 365 セキュリティ センター、または Microsoft 365 セキュリティ/コンプライアンス センターの [分類] > [機密ラベル] で作成できます。 この機能の詳細については、「[機密ラベルの概要](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)」を参照してください。
+機密ラベルにより、機密コンテンツを分類して保護できます。 機密ラベルは、Microsoft 365 コンプライアンス センター、Microsoft 365 セキュリティ センター、または Microsoft 365 セキュリティ/コンプライアンス センターの [分類] > [機密ラベル] で作成できます。 この機能の詳細については、「[機密ラベルの概要](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)」を参照してください。
 
-機密ラベルが構成されているのに Office アプリでそれらが表示されない場合は、次の点を確認してください。
+機密ラベルが構成されているのに Microsoft 365 アプリでそれらが表示されない場合は、次の点を確認してください。
 
-- 対象のユーザーとグループに機密ラベルが[「発行されている」](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)ことを確認します。
+- 対象のユーザーとグループに機密ラベルが[「発行されている」](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do)ことを確認します。
 
 - ユーザーが機密ラベルをサポートするアプリを使用していることを確認します。[「ドキュメントの機密ラベル」](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)を参照してください。
 

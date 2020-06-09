@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628175"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582636"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word がクラッシュする、または応答しない
 
@@ -31,7 +31,7 @@ Word が起動しない場合は、次の操作を行います。
 1.   Windows デスクトップで Outlook を終了し、CTRL + ALT + DEL キーを同時に押して、タスク マネージャーを開きます。 
 2. **[プロセス]** タブで Word のプロセスが実行されている場合は、それらを選択し、[**タスクの終了**] を選択します。 また、メモリを完全にクリアするために再起動することが推奨されています。
 
-    Word の起動中に引き続きクラッシュまたはハングする場合は、セーフ モードで起動するために「[Windows PC 上の Office アプリをセーフ モードで開く](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)」を参照してください。
+    Word の起動中に引き続きクラッシュまたはハングする場合は、セーフ モードで起動するために「[Windows PC 上の Microsoft 365 アプリをセーフ モードで開く](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)」を参照してください。
 
 それでも問題が発生する場合は、次の記事を参照してください。 
 - [PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010572"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581916"
 ---
-# <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Office アプリの「アカウントで見つかった製品は、ライセンス認証に使用できません」メッセージの修正
+# <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Microsoft 365 アプリの「アカウントで見つかった製品は、ライセンス認証に使用できません」メッセージの修正
 
 このメッセージが表示された場合は、次を試してください。
 

@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: d1c25bb283def13524b1dcd19d0c746ee32c4e11
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38749429"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581344"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Office アプリでの「このコンピューターのトラステッド プラットフォーム モジュールが正常に機能していません 」というメッセージを解決する
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Microsoft 365 アプリでの「このコンピューターのトラステッド プラットフォーム モジュールが正常に機能していません」というメッセージを解決する
 
 このエラーを解決するには、次の操作を行います。
 

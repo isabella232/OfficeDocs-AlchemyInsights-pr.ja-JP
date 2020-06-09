@@ -1,5 +1,5 @@
 ---
-title: Office アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
+title: Microsoft 365 アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010736"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581620"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Office アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Microsoft 365 アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
 
 - [サブスクリプション状態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)が有効であること、および影響を受けるユーザーに[有効なライセンスが割り当てられており](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)、インターネットに接続されていることを確認します。 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010736"
 
 - [ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行し、コンピューターを再起動します。
 
-- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 共有コンピューターのシナリオについては、「[Microsoft 365 アプリに対する共有コンピューターのライセンス認証に関する問題のトラブルシューティング](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)」を参照してください。
 

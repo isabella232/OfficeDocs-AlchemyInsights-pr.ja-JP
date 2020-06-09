@@ -1,5 +1,5 @@
 ---
-title: 'Office アプリ エラー: アプリケーションを正しく起動できませんでした'
+title: 'Microsoft 365 アプリ エラー: アプリケーションを正しく起動できませんでした'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40901329"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581164"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Office アプリ エラー: アプリケーションを正しく起動できませんでした
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Microsoft 365 アプリ エラー: アプリケーションを正しく起動できませんでした
 
 このエラーを解決するには、以下のオプションを試してみてください。
 
@@ -30,6 +30,6 @@ ms.locfileid: "40901329"
 
 詳細については、以下を参照してください。 
 
-- 「[Microsoft Office アプリを開くときのエラー](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)」
-- [PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- 「[Troubleshoot problems that occur when you start or use Office Apps (Office アプリの起動時または使用時に発生する問題のトラブルシューティング)](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)」
+- 「[Microsoft Microsoft 365 アプリを開くときのエラー](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)」
+- 「[PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)」
+- 「[Microsoft 365 アプリの起動時または使用時に発生する問題のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)」

@@ -1,5 +1,5 @@
 ---
-title: Office アプリでのサブスクリプションの通知メッセージ
+title: Microsoft 365 アプリでのサブスクリプションの通知メッセージ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789199"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582312"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Office アプリでのサブスクリプションの通知メッセージ
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Microsoft 365 アプリでのサブスクリプションの通知メッセージ
 
 - Office が新しいデバイスに既にプレインストールされている場合、新しいデバイスで Office のライセンス認証を行う方法については、「[Office のライセンス認証を行う](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)」を参照してください。
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789199"
 
 - [ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行し、コンピューターを再起動します。
 
-- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 詳細な手順については、以下を参照してください。 
 

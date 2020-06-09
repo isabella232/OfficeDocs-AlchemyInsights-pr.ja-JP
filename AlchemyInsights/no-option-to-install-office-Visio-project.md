@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010151"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576997"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office、Visio、Project をインストールするオプションがない
 
@@ -24,7 +24,7 @@ Office クライアント アプリをインストールする場合は、[Offic
 
 **注**: [Office Home and Business](https://products.office.com/home-and-business) は、[家庭向け Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 製品であり、一般法人向けのサブスクリプションには含まれません。 Project Online Essentials には、デスクトップ版の Project は含まれていないため、インストールをする必要はありません。 Visio Plan 1 ユーザーは、プランに Visio デスクトップ アプリが含まれていないため、Visio on the web にアクセスできます。 Mac では、Project や Visio のデスクトップ アプリは利用できません
 
-Office アプリを含むサブスクリプションをお持ちの場合は、[割り当て済みのライセンス](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)を入手するまで、インストールのオプションは表示されません。 ライセンスの割り当てを担当している Office 365 管理者は、「[ユーザーにライセンスを割り当てる](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)」を参照してください。
+Microsoft 365 アプリを含むサブスクリプションをお持ちの場合は、[割り当て済みのライセンス](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)を入手するまで、インストールのオプションは表示されません。 ライセンスの割り当てを担当している Office 365 管理者は、「[ユーザーにライセンスを割り当てる](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)」を参照してください。
 
 
 各ユーザーに次の操作を実行してもらいます。

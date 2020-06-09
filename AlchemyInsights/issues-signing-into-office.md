@@ -1,5 +1,5 @@
 ---
-title: Office アプリへのサインインに関する問題
+title: Microsoft 365 アプリへのサインインに関する問題
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474430"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579834"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 アプリへのサインインに関する問題
 
@@ -25,7 +25,7 @@ Microsoft 365 アプリに関するサインインの問題を修正するには
 - Windows の場合は、「[Recommendations on resolving common sign-in issues (サインインに関する一般的な問題の解決についての推奨事項)](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)」を参照してください
 - Mac の場合は、「[Office 2016 for Mac アプリにサインインできない](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)」を参照してください
 
-**注:** サインインやアクティベーションの問題を解決するために先進認証 (ADAL) や Web アカウント管理 (WAM) を無効にすることは、**推奨されていません**。 Office 2013 を使用し Microsoft 365 へと接続する際にエラーが発生した場合は、Office クライアントの[先進認証が有効](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)になっていることを確認します。
+**注:** サインインやアクティベーションの問題を解決するために先進認証 (ADAL) や Web アカウント管理 (WAM) を無効にすることは、**推奨されていません**。 Office 2013 を使用し Microsoft 365 へと接続する際にエラーが発生した場合は、Office クライアントの[先進認証が有効](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)になっていることを確認します。
 
 具体的なトラブルシューティングの手順については、以下をご覧ください。
 

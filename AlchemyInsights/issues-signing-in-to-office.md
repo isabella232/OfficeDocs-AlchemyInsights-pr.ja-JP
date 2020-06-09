@@ -1,5 +1,5 @@
 ---
-title: Office アプリへのサインインに関する問題
+title: Microsoft 365 アプリへのサインインに関する問題
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "36051955"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579906"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Office アプリでの空のサインイン画面
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Microsoft 365 アプリでの空のサインイン画面
 
 この問題を解決するには、次の操作を試してください。
 - [Windows](https://support.microsoft.com/help/4027667/windows-10-update) および [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5) の最新の更新プログラムをインストールします。

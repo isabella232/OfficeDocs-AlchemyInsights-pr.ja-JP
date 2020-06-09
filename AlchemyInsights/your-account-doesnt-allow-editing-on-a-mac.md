@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628139"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576961"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Officeアプリの「アカウントは Mac での編集を許可していません」メッセージを修正
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Microsoft 365 アプリの「アカウントは Mac での編集を許可していません」メッセージを修正
 
 このメッセージが表示された場合は、次を試してください。
 
-- クライアント ライセンスが許可されているサブスクリプションを持っていること、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 
+- クライアント ライセンスが許可されているサブスクリプションを持っていること、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 
 - [ライセンス削除ツール](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)をダウンロードして実行します。
 - 資格情報をリセットします。 「[インストール後に Office ライセンス認証を行うことができない](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate)」を参照してください。
 - 再起動して、アカウントで Office にサインインします。
