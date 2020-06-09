@@ -1,5 +1,5 @@
 ---
-title: Office アプリのアイコン/ショートカットが白色、空白、または重複している
+title: Microsoft 365 アプリのアイコン/ショートカットが白色、空白、または重複している
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 90f9a5ac522f7ec76ed5d52da7f8b11672e8f8b7
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40901331"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581128"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="10398-102">Office アプリのアイコンまたはショートカットが白色、空白、または重複している</span><span class="sxs-lookup"><span data-stu-id="10398-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="e9c91-102">Office アプリのアイコンまたはショートカットが白色、空白、または重複している</span><span class="sxs-lookup"><span data-stu-id="e9c91-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="10398-103">Office アプリのアイコンが空白または白色で表示される場合には、[Office アプリケーションを修復](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)してみてください。</span><span class="sxs-lookup"><span data-stu-id="10398-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="10398-104">重複する Office アプリ アイコンを削除するには、「[Office shortcuts remain after Office uninstall (Office のアンインストール後も Office のショートカットが残っている)](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="10398-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="e9c91-103">Office アプリのアイコンが空白または白色で表示される場合には、[Office アプリケーションを修復](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)してみてください。</span><span class="sxs-lookup"><span data-stu-id="e9c91-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="e9c91-104">重複する Office アプリ アイコンを削除するには、「[Office shortcuts remain after Office uninstall (Office のアンインストール後も Office のショートカットが残っている)](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e9c91-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="10398-105">詳細については、「[Microsoft Store から Office をインストールした後に Office アイコンが空白になる](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="10398-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="e9c91-105">詳細については、「[Microsoft Store から Office をインストールした後に Office アイコンが空白になる](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e9c91-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
