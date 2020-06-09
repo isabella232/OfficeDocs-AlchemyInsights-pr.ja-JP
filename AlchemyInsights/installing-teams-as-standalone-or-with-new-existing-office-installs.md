@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 1c6e99056dad97362923c7c3feb1d6a739df5c6a
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 4ccc8a56528b0ca6eb69ccd4b2a9685b9c255c21
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010558"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618174"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規や既存の Office インストールでの展開
 
 Microsoft Teams は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、Office for Mac の*新規インストール*の一部として含まれます。 詳細については、「[Microsoft Teams は、いつ Office の新規インストールに含まれるようになりますか?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)」を参照してください。
 
-さらに、月次チャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が Microsoft 365 Apps for enterprise (および Microsoft 365 Apps for business) の*既存のインストールに追加*されるようになります。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)」を参照してください。
+さらに、現在のチャネルのバージョン 1906 以降、Windows を実行しているデバイスで既存のインストールを最新バージョンに更新する際に、Teams が Microsoft 365 Apps for enterprise (および Microsoft 365 Apps for business) の*既存のインストールに追加*されるようになります。 詳細については、「[既存の Office のインストールについて](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)」を参照してください。
 
 [次の手順に従って](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)、ユーザーにスタンドアロンとして Teams を今すぐ展開できます。または、ユーザーに、https://teams.microsoft.com/downloads から Teams を自分でインストールしてもらうこともできます。
 

@@ -1,5 +1,5 @@
 ---
-title: Office アプリでのサブスクリプションの期限切れの通知
+title: Microsoft 365 アプリでのサブスクリプションの期限切れの通知
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789271"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576709"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Office アプリでの "サブスクリプションの期限切れ" の通知
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365 アプリでの「サブスクリプションの期限切れ」の通知
 
 - [サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789271"
 
 - [ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行し、コンピューターを再起動します。
 
-- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 影響を受けるマシンで、[Office のライセンス認証の状態をリセットします](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 詳細な手順については、以下を参照してください。 
 
