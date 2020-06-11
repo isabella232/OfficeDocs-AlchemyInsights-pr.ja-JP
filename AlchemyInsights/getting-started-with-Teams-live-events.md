@@ -24,7 +24,7 @@ Microsoft Teams のライブ イベントは Teams 会議の拡張機能であ�
 
 ライブ イベントの作成には、以下のものが必要です。
 
-- まず、Teams のライブ イベントが[お客様の国と地域で利用可能](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)であることをご確認ください。ライブ イベントは、一部の国ではまだサポートされていません。  ライセンスを割り当ててポリシーを設定したにもかかわらず Teams のライブ イベントを作成できない場合、ライブ イベントがまだ利用できない国または地域にいる可能性があります。
+- まず、Teams のライブ イベントが[お客様の国と地域で利用可能](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)であることをご確認ください。ライブ イベントは、一部の国ではまだサポートされていません。  ライセンスを割り当ててポリシーを設定したにもかかわらず Teams のライブ イベントを作成できない場合、お住まいの国または地域でライブ イベントがまだ提供されていない可能性があります。
 
 - [Office 365 Enterprise E1、E3、E5 のいずれかのライセンス、または Office 365 A3 または A5 ライセンス](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)。 **注**: Teams の使用数が最近増加したため、Teams ライセンスをユーザーに割り当てると、完全にセットアップされるまでに約 24 時間かかることがあります。 それまでの間、Teams ポリシーの割り当てを行うことはできません。また、通話や電話会議など一部の Teams 機能を利用できないことがあります。
 

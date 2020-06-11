@@ -22,7 +22,7 @@ ms.locfileid: "44563470"
 
 Teams でレコーディングすることができない場合、または Teams でのレコーディング方法を理解する必要がある場合は、次のいずれかの記事を参照してください。
 
-Teams の会議レコーディング機能は、Stream の地域や国での使用可否に依存しています。  会議を記録できない場合には、[お住まいの国または地域で Stream が利用可能](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)かどうかをご確認ください。  詳細については、管理者ポータルの以下のメッセージ センターの投稿を必ずご確認ください。
+Teams の会議レコーディング機能は、地域や国での Stream の提供状況に依存しています。  会議を記録できない場合には、[お住まいの国または地域で Stream が利用可能](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)かどうかをご確認ください。  詳細については、管理者ポータルの以下のメッセージ センターの投稿を確認ください。
 
 - [更新された機能: Microsoft Stream クラウド レコーディング地域ストレージ制御](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
