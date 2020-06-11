@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049054"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667853"
 ---
 # <a name="manage-your-onedrive-storage"></a>OneDrive の記憶域を管理する
 
-OneDrive の記憶領域は、テナントの総クォータにはカウントされません。 
+OneDrive for Business を管理することで、どのくらいのスペースを使用しているのかを確認し、空き領域を増やすことができます。  詳細については、以下のリンクをご覧ください。
 
-[OneDrive の記憶領域がユーザーまたはプランごとに割り当てられる方法](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)の説明。
-
-[OneDrive で使用している記憶域のサイズ](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)の説明。
-
-[PowerShell を使用して OneDrive の記憶域のクォータを取得する方法](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)の説明。
-
-最初にユーザー 1 人あたり 1 TB が Microsoft により提供されますが、管理者は 1 人あたり 5 TB まで増やすことができます。 [OneDrive ユーザー向けに既定の記憶領域を設定する方法](https://docs.microsoft.com/onedrive/set-default-storage-space)の説明。
-
-[特定のユーザーの OneDrive の記憶域を変更する方法](https://docs.microsoft.com/onedrive/change-user-storage)の説明。
-
-[グローバル管理者が PowerShell を使用して OneDrive の記憶域のクォータをすべてのユーザーについて設定する方法](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)の説明。
-  
+- [OneDrive for Business の容量を管理する](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [特定のユーザーの OneDrive の記憶域を変更する](https://docs.microsoft.com/onedrive/change-user-storage)
+- [OneDrive ユーザー向けに既定の記憶領域を設定する](https://docs.microsoft.com/onedrive/set-default-storage-space)
