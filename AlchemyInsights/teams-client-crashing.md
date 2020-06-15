@@ -11,45 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43040224"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354057"
 ---
-# <a name="teams-client-crashing"></a><span data-ttu-id="981b3-102">Teams クライアントがクラッシュした場合</span><span class="sxs-lookup"><span data-stu-id="981b3-102">Teams client crashing?</span></span>
+# <a name="teams-client-crashing"></a><span data-ttu-id="bfcb9-102">Teams クライアントがクラッシュした場合</span><span class="sxs-lookup"><span data-stu-id="bfcb9-102">Teams client crashing?</span></span>
 
-<span data-ttu-id="981b3-103">Teams クライアントがクラッシュした場合は、次のことを実施してください。</span><span class="sxs-lookup"><span data-stu-id="981b3-103">If your Teams client is crashing, try the following:</span></span>
+<span data-ttu-id="bfcb9-103">Teams クライアントがクラッシュした場合は、次のことを実施してください。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-103">If your Teams client is crashing, try the following:</span></span>
 
-- <span data-ttu-id="981b3-104">Teams デスクトップ アプリを使用している場合は、[アプリが完全に更新されていることを確認します](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)。</span><span class="sxs-lookup"><span data-stu-id="981b3-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
+- <span data-ttu-id="bfcb9-104">Teams デスクトップ アプリを使用している場合は、[アプリが完全に更新されていることを確認します](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
 
-- <span data-ttu-id="981b3-105">すべての [Office 365 の URL とアドレスの範囲](https://docs.microsoft.com/microsoftteams/connectivity-issues)にアクセスできることを確認します。</span><span class="sxs-lookup"><span data-stu-id="981b3-105">Make sure all the [Office 365 URL's and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
+- <span data-ttu-id="bfcb9-105">すべての [Microsoft 365 の URL とアドレスの範囲](https://docs.microsoft.com/microsoftteams/connectivity-issues)にアクセスできることを確認します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-105">Make sure all the [Microsoft 365 URLs and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
 
-- <span data-ttu-id="981b3-106">管理者アカウントでログインし、[サービス正常性ダッシュボード](https://docs.microsoft.com/office365/enterprise/view-service-health)をチェックして、停止やサービスの低下がないことを確認します。</span><span class="sxs-lookup"><span data-stu-id="981b3-106">Log in with your admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
+- <span data-ttu-id="bfcb9-106">テナント管理者アカウントでログインし、[サービス正常性ダッシュボード](https://docs.microsoft.com/office365/enterprise/view-service-health)をチェックして、停止やサービスの低下がないことを確認します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-106">Log in with your tenant admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
 
- - <span data-ttu-id="981b3-107">最後の手順として、以下の操作を実行して Teams クライアントのキャッシュをクリアします。</span><span class="sxs-lookup"><span data-stu-id="981b3-107">As a last step, you can attempt to clear your Teams client cache:</span></span>
+- <span data-ttu-id="bfcb9-107">Teams アプリケーションをアンインストールして再インストールする (リンク)</span><span class="sxs-lookup"><span data-stu-id="bfcb9-107">Uninstall and reinstall the Teams Application (link)</span></span>
+    - <span data-ttu-id="bfcb9-108">コンピューターの %appdata%\Microsoft\teams\ フォルダーに移動して、そのディレクトリにあるすべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-108">Browse to the %appdata%\Microsoft\teams\ folder on your computer and delete all files in that directory.</span></span>
+    - <span data-ttu-id="bfcb9-109">[Teams アプリをダウンロードしてインストールします](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)。可能であれば、管理者として Teams をインストールします (Teams インストーラーを右クリックし、利用可能な場合は [管理者として実行] を選択します)。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-109">[Download and install the Teams App](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), and if possible, install Teams as an administrator (right click the Teams installer and select "Run as administrator" if available).</span></span>
 
-    1.  <span data-ttu-id="981b3-108">Microsoft Teams デスクトップ クライアントを完全に終了します。</span><span class="sxs-lookup"><span data-stu-id="981b3-108">Fully exit the Microsoft Teams desktop client.</span></span> <span data-ttu-id="981b3-109">トレイのアイコンから **Teams** を右クリックして **[終了]** をクリックするか、タスク マネージャーを実行してプロセスを完全に強制終了します。</span><span class="sxs-lookup"><span data-stu-id="981b3-109">You can right-click **Teams** from the Icon Tray and click **Quit**, or run Task Manager and fully kill the process.</span></span>
+<span data-ttu-id="bfcb9-110">Teams クライアントがまだクラッシュする場合、問題を再現することができますか?</span><span class="sxs-lookup"><span data-stu-id="bfcb9-110">If your Teams client is still crashing, can you reproduce the issue?</span></span> <span data-ttu-id="bfcb9-111">その場合には、以下の手順を行います。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-111">If so:</span></span>
 
-    2.  <span data-ttu-id="981b3-110">エクスプローラーに移動し、%appdata%\Microsoft\teams と入力します。</span><span class="sxs-lookup"><span data-stu-id="981b3-110">Go to File Explorer, and type in %appdata%\Microsoft\teams.</span></span>
+1. <span data-ttu-id="bfcb9-112">ステップ記録ツールを使用して、手順をキャプチャします。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-112">Use the Steps Recorder to capture your steps.</span></span>
+    - <span data-ttu-id="bfcb9-113">不要なアプリケーションや機密のアプリケーションをすべて閉じます。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-113">Close ALL unnecessary or confidential applications.</span></span>
+    - <span data-ttu-id="bfcb9-114">ステップ記録ツールを起動し、影響を受けているユーザー アカウントを使用してログインした状態で、問題を再現します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-114">Launch the Steps Recorder and reproduce the issue while logged in with the affected user account.</span></span>
+    - <span data-ttu-id="bfcb9-115">[記録された再現手順をキャプチャする Teams ログを収集します](https://docs.microsoft.com/microsoftteams/log-files)。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-115">[Collect the teams logs that capture the recorded repro steps](https://docs.microsoft.com/microsoftteams/log-files).</span></span> <span data-ttu-id="bfcb9-116">**注**: 影響を受けているユーザーのサインイン アドレスがキャプチャされていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-116">**Note**: Make sure you capture the sign-in address of the impacted user.</span></span>
+    - <span data-ttu-id="bfcb9-117">ダンプや障害バケット情報 (Windows) を収集します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-117">Collect the dump and/or Fault bucket info (Windows).</span></span> <span data-ttu-id="bfcb9-118">クラッシュが発生しているコンピューターで Windows Powershell を起動し、次のコマンドを実行します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-118">Launch Windows Powershell on the machine where the crash is occurring and run the following commands:</span></span>
 
-    3.  <span data-ttu-id="981b3-111">ディレクトリには、次のようなフォルダーが表示されます。</span><span class="sxs-lookup"><span data-stu-id="981b3-111">Once in the directory, you'll see a few of the following folders:</span></span>
-
-         - <span data-ttu-id="981b3-112">**Application Cache** から、Cache に移動し、Cache の場所 (%appdata%\Microsoft\teams\application cache\cache) にあるすべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-112">From within **Application Cache**, go to Cache and delete any of the files in the Cache location:  %appdata%\Microsoft\teams\application cache\cache.</span></span>
-
-        - <span data-ttu-id="981b3-113">**Blob_storage** (%appdata%\Microsoft\teams\blob_storage) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-113">From within **Blob_storage**, delete all files: %appdata%\Microsoft\teams\blob_storage.</span></span>
-
-        - <span data-ttu-id="981b3-114">**Cache** (%appdata%\Microsoft\teams\Cache) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-114">From within **Cache**, delete all files: %appdata%\Microsoft\teams\Cache.</span></span>
-
-        - <span data-ttu-id="981b3-115">**databases** (%appdata%\Microsoft\teams\databases) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-115">From within **databases**, delete all files: %appdata%\Microsoft\teams\databases.</span></span>
-
-        - <span data-ttu-id="981b3-116">**GPUCache** (%appdata%\Microsoft\teams\GPUcache) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-116">From within **GPUCache**, delete all files: %appdata%\Microsoft\teams\GPUcache.</span></span>
-
-        - <span data-ttu-id="981b3-117">**IndexedDB** (%appdata%\Microsoft\teams\IndexedDB) から、db ファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-117">From within **IndexedDB**, delete the .db file: %appdata%\Microsoft\teams\IndexedDB.</span></span>
-
-        - <span data-ttu-id="981b3-118">**Local Storage** (%appdata%\Microsoft\teams\Local Storage) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-118">From within **Local Storage**, delete all files: %appdata%\Microsoft\teams\Local Storage.</span></span>
-
-        - <span data-ttu-id="981b3-119">最後に、**tmp** (%appdata%\Microsoft\teams\tmp) から、すべてのファイルを削除します。</span><span class="sxs-lookup"><span data-stu-id="981b3-119">Lastly, from within **tmp**, delete any file: %appdata%\Microsoft\teams\tmp.</span></span>
-
-    4. <span data-ttu-id="981b3-120">Teams クライアントを再起動します。</span><span class="sxs-lookup"><span data-stu-id="981b3-120">Restart your Teams client.</span></span>
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. <span data-ttu-id="bfcb9-119">サポート ケースにファイルを添付します。</span><span class="sxs-lookup"><span data-stu-id="bfcb9-119">Attach the file to your support case.</span></span>
