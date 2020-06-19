@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 74913492a086de688067d588e95dd87e6946743b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759517"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504988"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="f3ead-102">不正検出チェックの安全性のヒントのトラブルシューティングを行う</span><span class="sxs-lookup"><span data-stu-id="f3ead-102">Troubleshooting the safety tip for fraud detection checks</span></span>
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="367e0-102">不正検出チェックの安全性のヒントのトラブルシューティングを行う</span><span class="sxs-lookup"><span data-stu-id="367e0-102">Troubleshooting the safety tip for fraud detection checks</span></span>
 
-<span data-ttu-id="f3ead-p101">「送信者不正検出チェックに合格せず、なりすましの可能性がある」ことを示す安全性のヒントが表示される場合には、送信者は DKIM または SPF 認証チェックに合格しませんでした。この問題を解決する最善の方法は、送信者自身が認証を受けることです。お客様に代わって送信者が送信する場合、その送信者の IP アドレスをご使用の SPF レコードに追加し、送信者を認証する必要があります。</span><span class="sxs-lookup"><span data-stu-id="f3ead-p101">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks. The best method to resolve this is for the sender to authorize themselves. If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
+<span data-ttu-id="367e0-103">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks.</span><span class="sxs-lookup"><span data-stu-id="367e0-103">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks.</span></span> <span data-ttu-id="367e0-104">The best method to resolve this is for the sender to authorize themselves.</span><span class="sxs-lookup"><span data-stu-id="367e0-104">The best method to resolve this is for the sender to authorize themselves.</span></span> <span data-ttu-id="367e0-105">If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span><span class="sxs-lookup"><span data-stu-id="367e0-105">If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
   
-<span data-ttu-id="f3ead-106">詳しくは、「[不正検出チェックの赤い (不審) 安全性のヒントに関するトラブルシューティングを行う](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f3ead-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span>
+<span data-ttu-id="367e0-106">詳しくは、「[不正検出チェックの赤い (不審) 安全性のヒントに関するトラブルシューティングを行う](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="367e0-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span>
   
-<span data-ttu-id="f3ead-107">以下に役立つその他のリンクをいくつか記します。</span><span class="sxs-lookup"><span data-stu-id="f3ead-107">Here are some other links that can help:</span></span>
+<span data-ttu-id="367e0-107">以下に役立つその他のリンクをいくつか記します。</span><span class="sxs-lookup"><span data-stu-id="367e0-107">Here are some other links that can help:</span></span>
   
-- [<span data-ttu-id="f3ead-108">Microsoft において Sender Policy Framework (SPF) を使用して、スプーフィングを防止する方法</span><span class="sxs-lookup"><span data-stu-id="f3ead-108">How Microsoft uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [<span data-ttu-id="367e0-108">Microsoft において Sender Policy Framework (SPF) を使用して、スプーフィングを防止する方法</span><span class="sxs-lookup"><span data-stu-id="367e0-108">How Microsoft uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [<span data-ttu-id="f3ead-109">SPF を設定して、スプーフィングを防止する</span><span class="sxs-lookup"><span data-stu-id="f3ead-109">Set up SPF to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="367e0-109">SPF を設定して、スプーフィングを防止する</span><span class="sxs-lookup"><span data-stu-id="367e0-109">Set up SPF to help prevent spoofing</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
