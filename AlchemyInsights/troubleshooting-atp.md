@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732407"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512595"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection のトラブルシューティング
 
-- メッセージの配信に遅延がある場合 ATP の安全な添付ファイル ポリシーの [[動的配信]](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) オプションを使用します。 これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。
+- メッセージの配信に遅延がある場合 ATP の安全な添付ファイル ポリシーの [[動的配信]](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) オプションを使用します。 これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。
 
 - Microsoft に誤検知を報告する場合 この[リンク](https://www.microsoft.com/wdsi/filesubmission/)を使用して、分析用にファイルを送信してください。
 

@@ -24,4 +24,4 @@ ms.locfileid: "44580698"
 
 Microsoft 365 グループの作成時にそのドメインを変更するには、「[Microsoft 365 グループを作成するときに使うドメインを選ぶ](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)」で説明している手順に従ってください。
   
-現在、Microsoft 365 グループの作成後にドメインを変更する方法はありません。唯一の方法は、新しい Microsoft 365 グループを作成し、必要に応じて古いグループを削除することです (新しいメール アドレスは [Exchange 管理センター](https://outlook.office365.com/ecp.aspx)から追加できます)。
+After the Microsoft 365 Group is already created, there is currently no way to change the domain. The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).

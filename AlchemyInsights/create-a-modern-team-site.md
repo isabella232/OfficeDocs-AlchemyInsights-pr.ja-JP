@@ -17,15 +17,15 @@ ms.locfileid: "44580374"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Microsoft 365 グループに接続されているチーム サイトを作成する
 
-1. 左右隅にあるアプリ起動ツールをクリックし、[**SharePoint**] を選択します。SharePoint タイルが表示されない場合、[**すべてのアプリ**] をクリックします。
+1. Click the app launcher in the upper-left corner and select **SharePoint**. If you don't see the SharePoint tile, click **All apps**.
     
 2. SharePoint ホーム ページの一番上にある [**サイトの作成**] をクリックし、[**チーム サイト**] オプションを選択します。 
     
     > [!NOTE]
-    > [サイトの作成] コマンドが表示されない場合、ユーザーが所属する組織ではサイト作成が無効になっている可能性があります。有効にするには、「[サイトの作成を管理する](https://go.microsoft.com/fwlink/?linkid=2009644)」を参照してください。 
+    > If you don't see the Create site command, site creation may not be enabled in your organization. To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. 画面の指示に従い、サイトに名前を付け、Microsoft 365 グループのメール アドレスを作成し、[**次へ**] をクリックします。他のグループの所有者やメンバーも追加できます。[**完了**] をクリックします。
+3. Follow the steps on the screen to name the site and create an email address for the Microsoft 365 group, and then click **Next**. You can also add other group owners and members. Click **Finish**.
   
- **注:** グループを接続せずにチーム サイトを作成するには、上記の手順を実行するとき、手順 2 でチーム サイトを選択する代わりに他のオプションを選択します。グループなしでチーム サイトを作成するための指示が与えられます。 
+ **Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2. select Other options. This will guide you through creating a Team Site without a group. 
     
 

@@ -27,13 +27,13 @@ Microsoft SharePoint サイト コレクションにおいて、グローバル�
   
 3. [**ワークフロー**] リボンの [**新規作成**] セクションで、[**再利用可能なワークフロー**] を選択します。 
   
-4. [**再利用可能なワークフローの作成**] フォームで、名前 ***Repair2010*** を入力します。[**プラットフォームの種類**] で [**SharePoint 2010 ワークフロー**] をクリックし、[**OK**] をクリックします。 
+4. On the **Create Reusable Workflow** form, enter the name ** *Repair2010* **. For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**. 
   
 1. [**ワークフロー**] リボンの [**保存**] セクションで、[**発行**] を選択します。 
   
-2. [**ワークフロー**] リボンの [**管理**] セクションで、[**グローバルに発行**] を選択します。表示される確認ダイアログ ボックスで [**OK**] を選択します。 
+2. In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**. In the confirmation dialog box that appears, select **OK**. 
   
-3. Web ブラウザーで、サイト コレクションのルート Web サイトを見つけて、[**サイトの設定**]、[**サイト コレクションの機能**] の順にアクセスします。**ワークフロー**機能を次のように切り替えます。 
+3. In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**. Toggle the **Workflows** feature: 
   
 本機能が*アクティブ化*されている場合は、[**非アクティブ化**] をクリックしてから、[**アクティブ化**] をクリックします。 
   

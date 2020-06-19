@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682297"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504880"
 ---
 # <a name="activate-visio"></a>Visio のライセンス認証
 
-Visio Online プラン 2 に含まれているデスクトップ版 Visio デスクトップ アプリをインストールしてライセンス認証するには、まず、ユーザーに [Visio ライセンス](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)を割り当てておく必要があります。
+Visio Online プラン 2 に含まれているデスクトップ版 Visio デスクトップ アプリをインストールしてライセンス認証するには、まず、ユーザーに [Visio ライセンス](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)を割り当てておく必要があります。
 
 **注**: Visio Online プラン 1 には、デスクトップ版の Visio は含まれていません。
 

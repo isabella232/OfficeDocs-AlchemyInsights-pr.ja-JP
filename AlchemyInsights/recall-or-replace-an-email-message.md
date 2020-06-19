@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742760"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509461"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Microsoft 365 でメール メッセージを取り消す、または置き換える
 
@@ -39,7 +39,7 @@ ms.locfileid: "43742760"
 
 ***組織内の電子メールメッセージを検索して削除する*** 組織内の電子メールメッセージを検索して削除するには、グローバル管理者であることが最も簡単です。グローバル管理者でない場合は、アカウントを eDiscovery Manager のロールグループ、または Compliance Search の管理ロールに追加する必要があります。 メッセージを削除するには、Organization Management ロールグループのメンバーであるか、検索と消去の管理ロールが割り当てられている必要があります。 これらのロールへの権限は、[セキュリティ/コンプライアンス センター](https://protection.office.com/)で付与されます。
 
-1. [コンテンツ検索を作成し、](https://docs.microsoft.com/office365/securitycompliance/content-search) 削除するメッセージを見つけます。
+1. [コンテンツ検索を作成し、](https://docs.microsoft.com/microsoft-365/compliance/content-search) 削除するメッセージを見つけます。
 2. [セキュリティ/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。 
 
 MFA をお使いの場合は、「[多要素認証を使用して Microsoft 365 セキュリティ センター/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)」を参照してください。 

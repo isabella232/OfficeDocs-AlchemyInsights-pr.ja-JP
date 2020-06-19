@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051718"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511549"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer の接続に関する問題 
 
@@ -37,7 +37,7 @@ SharePoint Designer で SharePoint サイトへの接続に問題が発生した
 
 3. SharePoint Designer 2013 を開いてもう一度アカウントにサインインし、動作を確認します。
 
-手順 3: [Windows デバイスの Office 2013 の先進認証を有効にします](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)。
+手順 3: [Windows デバイスの Office 2013 の先進認証を有効にします](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)。
 
 手順 4: SharePoint Designer の接続を可能にするために、管理者は SharePoint 管理センターの設定で、**カスタム スクリプトの実行を許可**する必要があります。 詳細については、「[カスタム スクリプトを許可または禁止する](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)」を参照してください。
 

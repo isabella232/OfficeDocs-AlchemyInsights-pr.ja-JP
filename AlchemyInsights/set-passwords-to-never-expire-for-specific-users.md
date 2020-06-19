@@ -14,12 +14,12 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43646001"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509425"
 ---
 # <a name="set-passwords-to-never-expire"></a>パスワードを無期限に設定する
 
@@ -27,9 +27,9 @@ ms.locfileid: "43646001"
   
 詳細については、次を参照してください。 
 
-- [組織のパスワード有効期限ポリシーを設定する](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [組織のパスワード有効期限ポリシーを設定する](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [特定のユーザーのパスワードを無期限に設定する](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [特定のユーザーのパスワードを無期限に設定する](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 - [パスワードは、複雑さの要件を満たす必要がある](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

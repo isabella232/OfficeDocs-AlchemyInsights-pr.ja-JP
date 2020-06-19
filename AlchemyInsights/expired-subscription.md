@@ -13,16 +13,16 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063478"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505584"
 ---
 # <a name="expired-subscription"></a>期限切れのサブスクリプション
 
-期限切れのサブスクリプションが 1 つ以上あります。サービスを継続するには、サブスクリプションを再び有アクティブ化するか、新規購入する必要があります。
+It appears you have one or more expired subscriptions. If you would like to continue service, you must reactivate the subscription, or make a new purchase.
   
 **再アクティブ化**
   
@@ -34,7 +34,7 @@ ms.locfileid: "44063478"
 
 3. 支払いの詳細を確認します。 ここで既存の支払い情報を更新することができます。 支払い方法の入力が完了したら、[**再アクティブ化**] を選択します。
 
-詳細については、[サブスクリプションを再度有効にする](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)を参照してください。
+詳細については、[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)を参照してください。
 
 **新規購入**
   
@@ -46,4 +46,4 @@ ms.locfileid: "44063478"
 
 4. 残りの手順に従って、チェック アウトを完了します。
 
-詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)」をご覧ください。
+詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)」をご覧ください。

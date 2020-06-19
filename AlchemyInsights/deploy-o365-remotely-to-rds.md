@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010259"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507591"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS、ターミナル サーバー、または VDI で共有して使用する Microsoft 365 Apps for enterprise の展開
 
@@ -38,8 +38,8 @@ Office 展開ツールを使用したカスタム インストールの前提条
 
 Microsoft 365 管理センターから Microsoft 365 Apps for enterprise を RDS にインストールする場合 (***既定のインストール設定を使用***) には、以下の手順を使用します。
 
-1.    契約しているサブスクリプションを確認します。 「[詳細](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)」を参照してください。
-2.    必要に応じて別のサブスクリプションに切り替えます。 「[詳細](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)」を参照してください。
+1.    契約しているサブスクリプションを確認します。 「[詳細](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)」を参照してください。
+2.    必要に応じて別のサブスクリプションに切り替えます。 「[詳細](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)」を参照してください。
 3.    他の Microsoft サブスクリプションを使用して Office が RDS サーバーに既にインストールされている場合には、アンインストールします。 たとえば、[**コントロール パネル**] >  [**プログラムのアンインストール**] の順に移動して行います。 問題が発生した場合には、[Microsoft サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)を使用してアンインストールしてください。
 4.    RDS サーバーで、管理者アカウントを使用して Microsoft 365 管理センターにサインインし、[Microsoft 365 Apps for enterprise をインストール](https://portal.office.com/OLS/MySoftware.aspx)します。
 5.    Office のインストール後は、Office アプリケーションを***開いたり、サインインしたりしないでください***。

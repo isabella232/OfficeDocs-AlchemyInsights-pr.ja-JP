@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759589"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512559"
 ---
 # <a name="troubleshoot-content-search-errors"></a>コンテンツ検索のエラーをトラブルシューティングする
 
@@ -34,4 +34,4 @@ ms.locfileid: "43759589"
 
 または、多数のメールボックス (100,000 を超えるメールボックス) を検索したり、検索結果をエクスポートするときに、エクスポート エラーが発生しますか。
 
-このようなエラーの場合は、失敗したコンテンツの場所の検索を再試行してください。詳細については、[この記事](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)を参照してください。
+For these types of errors, retry the search for the content locations that have failed. See  [this article](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for more information.

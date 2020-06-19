@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676538"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750975"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>必要な Alchemy ヘッダー H1、H2 が機能していません。
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必要な Alchemy ヘッダー H1、H2 が機能していません。"
 Alchemy 作成のベスト プラクティスとガイドライン:
 
-1. **フォルダーで Alchemy 分析情報を入れ子にしないでください**- 入れ子にすると URL の構造が壊れてしまいます。この問題の修正については現在検討中です。
+1. **Do not nest Alchemy Insights in folders**- this will break the url structure. We're looking into fixing this.
 1. **AlchemyInsights** フォルダ内のファイルは、小文字のファイル名 (スペースの代わりにハイフンを使用) にする必要があります。例:  ***how-to-enable-litigation-hold***
     1. [Alchemy パートナー ポータル](https://alchemyportal.azurewebsites.net)からのルール ID またはバケット ID を ms.custom フィールドに含めます。 例:  ***ms.custom: 100021***
 1. このファイルの冒頭にある残りのメタデータをテンプレートとして使用します。
 1. [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)で、セクション [**Customer Insight Title:**] まで下方向に移動し、それをインサイトの H1 タイトルの出発点として使用します。 
     > [!NOTE]
-    > Alchemy Insight に含むことができる H1 は上部の 1 つに限られます。そうしなければ、運用環境では中断されます。H2 はレンダリングされないため、**太字**またはその他の規則を使用して、個別のセクションを表します。
+    > Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.
 1. 次に、Alchemy Rule ページの Customer Insights セクションにある下書きの資料を使用して、本文のテキストを入力します。
     1. 箇条書きを使用できます。
     1. 段落番号も使用できます。

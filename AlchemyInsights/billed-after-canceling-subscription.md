@@ -12,11 +12,11 @@ ms.custom:
 - "1500019"
 - "5584"
 ms.openlocfilehash: 7f53d17bead1c45134112f6efa47835ea6ca9abe
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
-ms.translationtype: MT
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182185"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44203961"
 ---
 # <a name="billed-after-canceling-subscription"></a>サブスクリプションをキャンセルした後の請求
 

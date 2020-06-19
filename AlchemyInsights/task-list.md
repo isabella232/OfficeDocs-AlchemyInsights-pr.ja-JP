@@ -13,14 +13,14 @@ ms.custom:
 - "9002971"
 ms.openlocfilehash: de9389e95dd3f442931973b800a5875f719154cc
 ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/04/2020
 ms.locfileid: "44569897"
 ---
 # <a name="task-list"></a>タスク リスト
 
-SharePoint タスクリストには、プロジェクトの一部であるタスクのコレクションが表示されます。 SharePoint タスクリストを作成すると、タスクの追加、タスクへのリソースの割り当て、タスクの進捗状況の更新、およびタイムラインに沿って表示されるバーに関するタスク情報の表示を行うことができます。 「[タスクリストを作成および管理する](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)」を参照してください。  
+SharePoint タスク リストには、プロジェクトの一部であるタスクのコレクションが表示されます。 SharePoint タスク リストを作成した後は、タイムラインに沿って表示されるバーで、タスクを追加し、リソースをタスクに割り当て、タスクの進行状況を更新し、タスクの情報を見ることができます。 [タスク リストを作成および管理する](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a) を参照してください。  
 
--   タスクリストは、モダンユーザーインターフェイスではまだ作成されていません。したがって、タスクリストに従来の状態を引き続き使用してください。詳細については、「[モダンリストとライブラリを最大限](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)に活用する」を参照してください。
--   SharePoint との同期機能を使用すると、プロジェクトマネージャーは、Microsoft SharePoint ユーザーとの .mpp プロジェクトファイルを共有できます。 プロジェクトマネージャーは、新規または既存のサイトが存在する親サイトコレクションで、SharePoint Owners グループ (または、少なくともデザイナー権限を持っている) に属している必要があります。 「 [Project Professional から SharePoint タスクリストと同期](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)する」を参照してください。
+-   タスク リストについては、モダン ユーザー インターフェイスに表示されていないため、引き続き従来のタスク リストを使用する方法については、[「モダン リストとライブラリを最大限に活用する」](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) を参照してください。
+-   SharePoint との同期機能を使用すると、プロジェクト マネージャーが Microsoft SharePoint ユーザーとの .mpp プロジェクト ファイルを共有できます。 プロジェクト マネージャーは、新規または既存のサイトが存在する親サイト コレクションの SharePoint 所有者グループの一部 (または、少なくともデザイナー アクセス許可がある場合) に含まれている必要があります。 詳細については、[「Project Professional から SharePoint タスク リストと同期する」](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)を参照してください。

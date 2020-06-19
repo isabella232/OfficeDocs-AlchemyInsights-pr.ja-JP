@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911836"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510181"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>コンテンツ検索と電子情報開示検索の実行方法
 
@@ -32,6 +32,6 @@ ms.locfileid: "43911836"
 4. キーワードやコンテンツの場所など、必須の検索条件を入力します。  
 5. **[保存および実行]** をクリックして、検索に名前を付けて、検索を開始し、その結果を確認します。
 
-コンテンツ検索、結果のエクスポート、およびデータを保持するための電子情報開示ケースの作成に関する詳細な手順については、[[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/content-search)] および [[電子情報開示ケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)] を参照してください。
+コンテンツ検索、結果のエクスポート、およびデータを保持するための電子情報開示ケースの作成に関する詳細な手順については、[[コンテンツ検索](https://docs.microsoft.com/microsoft-365/compliance/content-search)] および [[電子情報開示ケース](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)] を参照してください。
 
-コンテンツ検索の詳細を理解するために、[要件と制限事項](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)、[部分的にインデックスが作成されたアイテムの調査](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)およびその他の注意が必要な結果について確認してください。
+コンテンツ検索の詳細を理解するために、[要件と制限事項](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)、[部分的にインデックスが作成されたアイテムの調査](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)およびその他の注意が必要な結果について確認してください。

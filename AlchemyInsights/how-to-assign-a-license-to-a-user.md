@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
 ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/02/2020
 ms.locfileid: "44495992"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>ユーザーへのライセンスの割り当て/割り当て解除を行う
 
-ユーザーがサービスにアクセスするにはライセンスが必要です。ユーザーのライセンスの**追加、変更、または削除**は、次の手順で行います。
+A user needs a license to have access to services. Here are steps to **add, change, or remove** a license from a user.
   
 1. 管理センターで、**[ユーザー]** \> [[アクティブなユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) の順に移動します。
 

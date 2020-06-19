@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062902"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509929"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>プリペイドの Microsoft 365 の更新
 
@@ -35,4 +35,4 @@ ms.locfileid: "44062902"
 
 5. 注文の詳細を確認し、[**使用**] を選択します。
 
-詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)」を参照してください。
+詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。

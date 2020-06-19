@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716501"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508993"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>削除されたメール メッセージの監査ログ
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716501"
 
 結果から、[監査レコード] を選択します。 詳細ポップアップから、 [**詳細情報**]をクリックします。 削除された項目に関する追加情報(件名、項目が削除されたときの場所など) は、 [**対象アイテム**] フィールドに表示されます。 **ClientInfoString** プロパティが、Outlook、Outlook on the web (旧称 Outlook Web App)、またはその他のデバイス上で削除が発生したかどうかを表示します。
 
-詳細については、 [メールボックスへの転送を誰が設定したのか判別する](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)を参照してください。
+詳細については、 [メールボックスへの転送を誰が設定したのか判別する](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)を参照してください。
 
 **注意**: 監査ログ機能を使用して、削除したアイテムを復元することはできません。 Outlook on the web で削除済みのメッセージを取得するには、[Outlook Web App で 削除済みアイテムを復元する](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4) を参照してください。

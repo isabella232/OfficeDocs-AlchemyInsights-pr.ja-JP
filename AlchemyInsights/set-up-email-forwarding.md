@@ -21,11 +21,11 @@ ms.locfileid: "44580984"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>メールボックスのメールの転送設定を確認する
 
-Microsoft 365 メールボックスのメールの転送設定は、簡単に確認できます。確認するには、次の手順を実行します。
+It's easy to verify the email forwarding settings on a Microsoft 365 mailbox. Just follow these steps.
   
-> ユーザー メールボックスの場合は、[**ユーザー**] \> [**アクティブなユーザー**] に移動して、転送するメールボックスのユーザーを選択します。[**メール**] タブで、[**メールの転送を管理する**] を選択します。
+> If this is a user mailbox, go to **Users** \> **Active users** and select the user whose mailbox you're forwarding. On the **Mail** tab, select **Manage email forwarding**.
 
-> 共有メールボックスの場合は、[**グループ**] \> [**共有メールボックス**] に移動して、転送する共有メールボックスを選択します。メールの転送の [**編集**] を選択します。
+> If this is a shared mailbox, go to **Groups** \> **Shared mailboxes** and select the shared mailbox you're forwarding. Select **Edit** for email forwarding.
 
 詳細については、「[Microsoft 365 でメール転送を構成する](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)」を参照してください。
   

@@ -22,4 +22,4 @@ ms.locfileid: "44580482"
 ---
 # <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>配布グループを Microsoft 365 グループに変換する
 
-特定の条件を満たす場合は、配布グループを Microsoft 365 グループに変換できます。グループの変換または変換に関する問題のトラブルシューティングについては、「[Outlook で配布リストを Microsoft 365 グループにアップグレードする](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)」を参照してください。
+You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria. To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).

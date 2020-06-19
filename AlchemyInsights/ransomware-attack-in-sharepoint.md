@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742810"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511621"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint または OneDrive のランサムウェア攻撃
 
@@ -36,12 +36,12 @@ OneDrive 同期 (存在する場合) を即時に停止/一時停止または、
 - [ドキュメント ライブラリを復元する](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Advanced Threat Protection (ATP) の詳細については、次を参照してください。
-- [SharePoint、OneDrive、および Teams 用の ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [脅威エクスプローラーのビュー](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [SharePoint、OneDrive、および Teams 用の ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [脅威エクスプローラーのビュー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 その他の情報:
 
-- [SPO でのウイルス検出](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [ODB および SPO でのデータの暗号化](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [SPO でのウイルス検出](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [ODB および SPO でのデータの暗号化](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [ランサムウェアの検出とファイルの回復](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [脅威エクスプローラーおよびリアルタイムの検出](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [脅威エクスプローラーおよびリアルタイムの検出](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

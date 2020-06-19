@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911153"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507103"
 ---
 # <a name="ediscovery-settings"></a>電子情報開示の設定
 
@@ -28,4 +28,4 @@ ms.locfileid: "43911153"
 - 電子情報開示検索の実行に必要なアクセス許可については「[電子情報開示検索に必要なアクセス許可](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)」で確認してください。
 - 検索で期待した結果が返されない場合は、「 [期待した結果を返さない検索](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)」を参照してください。
 
-電子情報開示について詳しくは「[電子情報開示](https://docs.microsoft.com/office365/securitycompliance/ediscovery)」をご覧ください。
+電子情報開示について詳しくは「[電子情報開示](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)」をご覧ください。

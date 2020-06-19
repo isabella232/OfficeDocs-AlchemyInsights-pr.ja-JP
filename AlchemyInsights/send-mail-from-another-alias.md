@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17dfcdb03e875c05116a3553e3160947a5957938
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709196"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505276"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>エイリアスまたはセカンダリ アドレスからメールを送信する
 
-Microsoft 365 では現在、エイリアスまたはセカンダリ メール アドレスからのメール送信はサポートされていません。メール エイリアスはメールの受信にのみ使用できます。他のメール アドレスからメールを送信する場合は、共有メールボックスを作成する必要があります。共有メールボックスにより、追加のライセンスを取得せずに別のメール アドレスを入手することができます。
+Microsoft 365 does not currently support sending email from an alias or secondary email address. Email aliases can be used to receive emails only. If you want to send email from another email address, you need to create a shared mailbox. The shared mailbox will give you another email address, without requiring another license.
   
 - [ここから共有メールボックスを作成できます](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-「[共有メールボックスを作成する](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)」の記事では、共有メールボックスに関して必要な情報を、使用方法も含め、すべて確認することができます。
+「[共有メールボックスを作成する](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)」の記事では、共有メールボックスに関して必要な情報を、使用方法も含め、すべて確認することができます。

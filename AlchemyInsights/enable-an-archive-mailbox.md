@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788671"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507031"
 ---
 # <a name="enable-an-archive-mailbox"></a>アーカイブ メールボックスの有効化
 
@@ -51,6 +51,6 @@ Microsoft 365 のアーカイブ メールボックス (*オンライン アー�
 
 詳細については、以下を参照してください。
   
-- [アーカイブ メールボックスの有効化](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [アーカイブ メールボックスの有効化](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [アーカイブと削除ポリシーを設定する](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

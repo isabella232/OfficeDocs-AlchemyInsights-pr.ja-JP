@@ -21,7 +21,7 @@ ms.locfileid: "44694828"
 ---
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook エラー: Microsoft Outlook を起動できません
 
-Outlook 2016、Outlook 2013、または Outlook 2010 の起動に関する問題が発生しているか、"Microsoft Outlook を起動できません。Outlook ウィドウを開くことができません" というエラー メッセージが表示されている場合
+Are you having trouble starting Outlook 2016, Outlook 2013, or Outlook 2010, or receiving "Cannot start Microsoft Outlook. Cannot open the Outlook window" error messages?
   
 まず、[この記事](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85)にあるトラブルシューティングの手順を使って、これらのスタートアップに関する問題の解決に役立てます。 
   

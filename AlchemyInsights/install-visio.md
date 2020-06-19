@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765994"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508669"
 ---
 # <a name="install-visio"></a>Visio をインストールする
 
@@ -25,7 +25,7 @@ Visio はスタンドアロンのアプリケーションとして販売され�
 
 **注**: Visio Online プラン 1 には、デスクトップ版の Visio が含まれていないため、インストールはできません。
 
-Visio Online プラン 2 のサブスクリプションがある場合は、ユーザーに[ライセンスを割り当てる](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)必要があります。ライセンスを割り当てていないと、[[マイ アカウント] ポータル](https://portal.office.com/account#installs)の **[マイ インストール]** から Visio をインストールするオプションがユーザーに表示されません。 
+Visio Online プラン 2 のサブスクリプションがある場合は、ユーザーに[ライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)必要があります。ライセンスを割り当てていないと、[[マイ アカウント] ポータル](https://portal.office.com/account#installs)の **[マイ インストール]** から Visio をインストールするオプションがユーザーに表示されません。 
 
 ボリューム ライセンス版以外の Visio Standard または Visio Professional は、Microsoft アカウントに関連付けられていて、管理センターでは管理できません。 これらのバージョンをインストールするには、ユーザーはそのバージョンの Visio に関連付けられている Microsoft アカウントで [account.microsoft.com](https://account.microsoft.com) にサインインする必要があります。
 

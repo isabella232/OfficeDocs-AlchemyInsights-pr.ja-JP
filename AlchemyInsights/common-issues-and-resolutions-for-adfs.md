@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580554"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797976"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS の一般的な問題と解決策
 
 フェデレーション ドメインの構成は、以下のマイクロソフト サポート技術情報の記事に記載されている方法で更新できます。
+
+- [ADFS フェデレーション証明書の期限切れ](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898): フェデレーション ユーザーが Microsoft 365、Azure、Intune にサインインするときに AD FS から受け取る、「サイトへのアクセスに関する問題が発生しました」エラー。
 

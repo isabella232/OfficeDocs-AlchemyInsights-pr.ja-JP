@@ -21,12 +21,12 @@ ms.locfileid: "44582384"
 
 1. Microsoft 365 管理センターの左側のナビゲーションで [ **管理センター**] を展開し、[ **Exchange**] を選びます。
     
-2. Exchange 管理センターで、[**受信者**]、[**グループ**] の順に選びます。グループがアクティブか、論理的に削除されているかを確認できます。グループが完全に削除された場合、グループはまったく表示されません。
+2. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft Deleted. If the group has been permanently deleted, it won't be listed at all.
     
 3. グループが論理的に削除された正確な時間を表示するには、グループを選択して、右側のウィンドウに情報を表示します。
     
 4. 復元する Microsoft 365 グループを選択し、復元アイコンを選びます。
     
-5. 更新 ![[最新の情報に更新] アイコン](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) を選んで、ページの情報を更新します。使用しているグループは、"アクティブ" として表示されます。 
+5. 更新 ![[最新の情報に更新] アイコン](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. 
     
 

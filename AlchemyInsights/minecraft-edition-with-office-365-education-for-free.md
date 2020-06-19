@@ -29,9 +29,9 @@ ms.locfileid: "44579654"
 
   - 学校が Azure AD テナントを所有していない場合は、**Minecraft: Education Edition** を入手するプロセスの一環として、[IT 管理者はテナントを設定することができます](https://docs.microsoft.com/education/windows/school-get-minecraft)。
 
-  - 教師と学生は、オンライン バージョンの Microsoft 365 アプリと 1 TB のオンライン ストレージを含む、Office 365 Education を無料で利用できます。[Office 365 Education に自分の学校をサインアップします](https://products.office.com/academic/office-365-education-plan)。
+  - Office 365 Education, which includes online versions of Microsoft 365 apps plus 1 TB online storage is free for teachers and students. [Sign up your school for Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - 学校で Office 365 Education サブスクリプションを利用している場合は、無料の Azure AD サブスクリプションが含まれています。[無料の Azure AD サブスクリプションを登録します](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)。
+  - If your school has an Office 365 Education subscription, it includes a free Azure AD subscription. [Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
 [教師が Minecraft: Education Edition を入手して配布する方法について説明します](https://docs.microsoft.com/education/windows/teacher-get-minecraft)。
   

@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 101a06af595c0911b6df9c93883c207d11c66a53
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671462"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506707"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>プリペイド サブスクリプションにシートを追加する
 
 支払い済みのライセンスは、25 文字の英数字コードとして発行されます。 必要なライセンスの購入が完了すると、ライセンスをサブスクリプションに追加できます。 
 
-1. 管理センターで、[**課金**] > [[製品とサービス](https://go.microsoft.com/fwlink/p/?linkid=842054)] のページに移動します。
+1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 
 2. ライセンスを追加するサブスクリプションを見つけます。 [**ライセンス**] セクションで、[**さらにライセンスを追加する**] を選択します。
 
@@ -37,4 +37,4 @@ ms.locfileid: "43671462"
 
 5. 注文の詳細を確認し、[**使用**] を選択します。
 
-詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)」を参照してください。
+詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。

@@ -27,11 +27,11 @@ ms.locfileid: "44579438"
   
 1. サイトを Web ブラウザーで開きます。
     
-2. サイトが Microsoft 365 グループに属している場合、右上の [設定] アイコンをクリックし、**[サイトの権限]** をクリックします。**[ユーザーの招待]** をクリックして、Microsoft 365 グループにメンバーを追加するか、サイトのみを共有します。 
+2. If the site belongs to a Microsoft 365 group, click the Settings icon in the upper right, and then click **Site permissions**. Click **Invite people**, and then choose to add members to the Microsoft 365 group or share only the site. 
     
     コミュニケーション サイトでは、右上の [**サイトの共有**] をクリックして、ユーザー名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。 
     
-    従来のチーム サイトの場合は、右上の [**共有**] をクリックします。招待するユーザー名を入力します。組織内の全員と共有するときは「すべてのユーザー」と入力します。[**共有**] をクリックします。
+    For a classic team site, click **Share** in the upper-right. Enter the name of the person you want to invite or type Everyone to share with everyone in your organization. Click **Share**.
     
 > [!NOTE]
 > サイトのメンバーではあるがサイトの所有者ではない場合、ユーザーをサイトに招待することはできますが、その招待では、サイト所有者が承認または拒否できるアクセス要求が生成されます。 

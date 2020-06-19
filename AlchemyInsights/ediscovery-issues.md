@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714483"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507139"
 ---
 # <a name="ediscovery-issues"></a>電子情報開示の問題
 
@@ -30,8 +30,8 @@ ms.locfileid: "43714483"
 
 詳細については、以下を参照してください。
 
-- [コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [コンテンツ検索](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [セキュリティ/コンプライアンス センターの電子情報開示ケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [セキュリティ/コンプライアンス センターの電子情報開示ケース](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Microsoft 365 の高度な電子情報開示ソリューション](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Microsoft 365 の高度な電子情報開示ソリューション](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

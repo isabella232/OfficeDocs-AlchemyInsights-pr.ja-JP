@@ -20,6 +20,6 @@ ms.locfileid: "44580230"
 ---
 # <a name="download-and-install-office"></a>Office をダウンロードしてインストール
 
-**Business Essentials** サブスクリプションに Microsoft 365 アプリは含まれていません。Office を入手するには、**Business** または **Business Premium** サブスクリプションにアップグレードする必要があります。Office で利用できるサブスクリプションについては、「[一般法人向け Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)」を参照してください。
+Your **Business Essentials** subscription does not include the Microsoft 365 apps. In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription. Check out the available subscriptions with Office here: [Microsoft 365 for business](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671498"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44062001"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>追加、削除、またはユーザーによるプロフィール写真の変更を防止する
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671498"
 
 - **プロフィール写真の削除:** プロフィール写真は、[Azure Active Directory ユーザー管理](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)の管理者または Microsoft Teams ユーザー プロファイルのユーザーが削除できます。
 
-- **プロフィール写真の変更のブロック:** 記事ごとに Outlook Web App ポリシーを追加するか、[写真をロックするか、Microsoft 365 のプロフィール写真を変更する権限を制限する](https://answers.microsoft.com/ja-JP/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)ことにより、すべての Microsoft 365* の写真の変更をブロックすることができます。
+- **プロフィール写真の変更のブロック:** 記事ごとに Outlook Web App ポリシーを追加するか、[写真をロックするか、Microsoft 365 のプロフィール写真を変更する権限を制限する](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)ことにより、すべての Microsoft 365* の写真の変更をブロックすることができます。
 
 *Microsoft Teams は現在、写真の変更をブロックする Outlook Web App ポリシーをサポートしていませんが、2020 年初頭にこの機能のサポートを追加する予定です。

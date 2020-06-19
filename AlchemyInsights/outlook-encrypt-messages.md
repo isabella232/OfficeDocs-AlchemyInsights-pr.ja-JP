@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764877"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511513"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Outlook でメール メッセージを暗号化する
 
@@ -26,5 +26,5 @@ Microsoft 365 Message Encryption は、Azure Information Protection の一部で
 
 - **Outlook クライアント**を使用している場合: Outlook 2013 または 2016、または Outlook 2016 for Mac から暗号化されたメッセージを送信するには、[**オプション**]  >  [**アクセス権**] を選択し、必要な保護オプションを選択します。
 
-- 特定の受信者または外部パートナーの組織に送信される**すべてのメールを自動的に暗号化する**には、Exchange 管理センターでメール フロー トランスポート ルールを作成する必要があります。 詳細な手順については、[このサポート記事](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)を参照してください。
+- 特定の受信者または外部パートナーの組織に送信される**すべてのメールを自動的に暗号化する**には、Exchange 管理センターでメール フロー トランスポート ルールを作成する必要があります。 詳細な手順については、[このサポート記事](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities)を参照してください。
 

@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766750"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511117"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP の問題のトラブルシューティング
 
@@ -27,4 +27,4 @@ ms.locfileid: "43766750"
     3. **[特定の受信者に適用されるポリシー]** で、ポリシーを編集 (または追加) します。
     4. **組織内で送信されたメッセージに安全なリンクを適用する**を選択します。
     5. ポリシーを保存し、変更がデータセンターに反映されるまで約 30 分かかります。
-- ATP の詳細については、「[Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)」を参照してください。
+- ATP の詳細については、「[Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。

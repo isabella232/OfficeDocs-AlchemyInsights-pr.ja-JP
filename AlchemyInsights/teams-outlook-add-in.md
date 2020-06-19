@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021503"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702211"
 ---
 # <a name="teams-outlook-add-in"></a>Teams Outlook アドイン
 
-Teams アドインが表示されない原因には複数の要因があるため、[こちら](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)にすべて記載しています。
+不足している Teams Outlook アドインのトラブル シューティングを行うには、まず管理ポータルでサービス診断を実行してください。  サービス診断で問題がないことが示された場合は、[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook アドイン シナリオ**を、該当するユーザーのコンピューターでダウンロードして実行し、クライアントの問題を診断して修正してください。
 
-**まず、アドインが無効になっていないことを確認するよう、お勧めします。**
-
-- Outlook で、**[ファイル]**、**[オプション]** の順にクリックします。
-- **[Outlook のオプション]** ダイアログ ボックスの **[アドイン]** タブを選択します。
-- **[Microsoft Office 用の Microsoft Teams 会議アドイン]** が **[有効なアプリケーション アドイン]** の一覧に表示されていることを確認します。
-- Teams 会議アドインが **[無効なアプリケーション アドイン]** の一覧に表示されている場合は、**[管理]** の **[COM アドイン]** を選択し、**[移動…]** をクリックします。
-- **[Microsoft Office 用の Microsoft Teams 会議アドイン]** の横にあるチェックボックスをオンにします。
-- すべてのダイアログボックスで **[OK]** をクリックして、Outlook を再起動します。
+この問題を手動でトラブル シューティングするには、Teams アドインが[こちら](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)に一覧表示されない原因となる可能性のある要因の一覧を確認してください。

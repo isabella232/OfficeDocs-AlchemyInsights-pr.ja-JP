@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713507"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511765"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自動作成される新しい保持ラベル
 
-セキュリティ/コンプライアンス管理センターの **[保持ラベル]** には、組織内に自動作成される [3 つの新しい保持ラベル](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)が表示されていることがあります。 ラベル名は次のとおりです。
+セキュリティ/コンプライアンス管理センターの **[保持ラベル]** には、組織内に自動作成される [3 つの新しい保持ラベル](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)が表示されていることがあります。 ラベル名は次のとおりです。
 
 - 運用手順
 - 企業一般
@@ -33,4 +33,4 @@ ms.locfileid: "43713507"
 
 1. 削除する保持ラベルを選択してから、**[ラベルの削除]** > **[はい]** を実行してラベルを削除します。
 
-ファイル計画マネージャーでは、組織内の保持ラベルとポリシーを管理できます。詳細については、「[ファイル計画マネージャーの概要](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)」を参照してください。
+ファイル計画マネージャーでは、組織内の保持ラベルとポリシーを管理できます。詳細については、「[ファイル計画マネージャーの概要](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)」を参照してください。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761305"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510973"
 ---
 # <a name="more-info-about-retention-policies"></a>アイテム保持ポリシーの詳細情報
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761305"
 ## <a name="a-from-security-and-compliance-center"></a>A) セキュリティ/コンプライアンス センターから
 
 - [セキュリティ/コンプライアンス]、[データ ガバナンス]、[保持] の順にクリックします
-  - [こちら](https://docs.microsoft.com/office365/securitycompliance/retention-policies) の記事を参照してください
+  - [こちら](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) の記事を参照してください
 
 - [セキュリティ/コンプライアンス]、[電子情報開示]、[Advanced eDiscovery] の順にクリックします 
-  - [こちら](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) の記事を参照してください
+  - [こちら](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) の記事を参照してください
 
 - [セキュリティ/コンプライアンス]、[分類]、[保持] の順にクリックします
   - 次の記事を参照してください
-    - [機密ラベル](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [ラベルの概要](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [機密ラベル](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [ラベルの概要](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) 従来版の電子情報開示ポリシー
 

@@ -20,7 +20,7 @@ ms.locfileid: "44581056"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint でのアクセス許可の継承のしくみ
 
-既定では、SharePoint でのアクセス許可は階層内の上位から継承されます。そのため、ファイルのアクセス許可はフォルダーから継承され、フォルダーのアクセス許可はライブラリから継承され、ライブラリのアクセス許可はサイトから継承され、サイトのアクセス許可はサイト コレクションから継承されます。
+By default, permissions in SharePoint are inherited from higher up in the hierarchy. So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.
   
 固有のアクセス許可の削除と継承の復元の詳細については、「[リストまたはライブラリのアクセス許可を編集および管理する](https://go.microsoft.com/fwlink/?linkid=869946)」を参照してください。
   

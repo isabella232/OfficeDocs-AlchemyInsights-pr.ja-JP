@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 4e68514c463b1c6d5376ee0fdd35672f1513fd1d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42410582"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44015766"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Microsoft Stream でビデオを共有する
 
-Microsoft Stream のビデオを、アクセス許可のないユーザーと共有することができます。 ビデオを共有するには、以下のようなさまざまな方法があります。 
+Microsoft Stream のビデオを、アクセス許可のないユーザーと共有することができます。 ビデオを共有するには、以下のようなさまざまな方法があります。
 
 - [Microsoft Stream でビデオを共有する](https://docs.microsoft.com/stream/portal-share-video)
-
-- [Microsoft Stream の外部共有](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [ビデオのアクセス許可](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
