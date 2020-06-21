@@ -1,5 +1,5 @@
 ---
-title: OneDrive は変更の処理にスタックしています
+title: OneDrive が「変更の処理中」で停止する
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "5842"
 ms.openlocfilehash: 6bb3eb01a1ea70ec29298a649c76a634cc90856d
 ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/11/2020
 ms.locfileid: "44708603"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive は変更の処理にスタックしています
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive が「変更の処理中」で停止する
 
-OneDrive が長い間に「変更を処理」を示している場合は、オンラインファイルを開いている、キューに大量のファイルがたまっている、または非常に大きなファイルを同期していることが考えられます。 推奨手順と詳細情報について[は、「変更の処理」の「OneDrive の読み取り」が表示され](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd)ます。
+OneDrive で「変更の処理中」が長い間表示される場合は、オンラインのファイルを開いている、多数のファイルがキューに残っている、または大きいファイルを同期していることが原因である可能性があります。 推奨される手順と詳細については、「[OneDrive が「変更の処理中」で停止する](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd)」をご覧ください。
 
-詳細については、「 [OneDrive サポートを電子メールで送信](https://go.microsoft.com/fwlink/p/?LinkId=528676)する」を参照してください。
+さらにサポートが必要な場合は、[OneDrive サポートにメールを送信](https://go.microsoft.com/fwlink/p/?LinkId=528676)できます。

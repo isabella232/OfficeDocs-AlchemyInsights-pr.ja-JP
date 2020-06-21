@@ -1,5 +1,5 @@
 ---
-title: 製品とサービス
+title: 製品
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758795"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44062866"
 ---
-# <a name="products--services"></a>製品とサービス
+# <a name="your-products"></a>製品
 
-お客様の組織が所有しているサブスクリプションは、**[課金]** > [**[製品とサービス]**](https://go.microsoft.com/fwlink/p/?linkid=842054) ページでご確認いただけます。 このページの特徴の一部と、各機能に関する詳しい情報のリンクを次に示します。
+お客様の組織が所有しているサブスクリプションは、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページでご確認いただけます。 このページの特徴の一部と、各機能に関する詳しい情報のリンクを次に示します。
 
 1. サブスクリプションごとに購入されているライセンス数と、使用中のライセンス数を管理する。  **注**: 使用していない (ユーザーに割り当てられていない) ライセンスも課金されます。  使用していないライセンスが課金されないようにするには、購入ライセンス数を減らしてください。 サブスクリプションにライセンスを追加または削除する方法について詳しくは、「[ライセンスを追加または削除する方法](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)」を参照してください。
 

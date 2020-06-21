@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42517606"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44063226"
 ---
 # <a name="subscription-status"></a>サブスクリプションの状態
 
-サブスクリプションの状態は、Microsoft 365 管理センターの [製品とサービス] のページにあります。
+サブスクリプションの状態は、Microsoft 365 管理センターの [**製品**] のページにあります。
 
-1. **[課金]** > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) の順に移動します。
+1. **[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動します。
 
 2. いずれかのサブスクリプションの状態に問題がある場合は、サブスクリプションの横に赤い警告アイコンが表示されるか、サブスクリプションの詳細の [課金] セクションに「期限切れ」または「無効」という状態が表示されます。
 
@@ -30,11 +30,11 @@ ms.locfileid: "42517606"
 
 **有効期限**
 
-1. **[課金]** > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) の順に移動します。
+1. **[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動します。
 
 2. 表示形式に応じて、有効期限は右端の **[日付]** の列、または **[有効期限]** の横にあるサブスクリプションの詳細の **[課金]** セクションに表示されます。
 
 **ライセンス**
 
-購入済みおよび使用中のライセンスの数は、サブスクリプション別に [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054) のページに一覧表示されます。
+購入済みおよび使用中のライセンスの数は、サブスクリプション別に **[製品]** のページに一覧表示されます。
 

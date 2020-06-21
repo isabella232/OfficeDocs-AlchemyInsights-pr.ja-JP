@@ -1,5 +1,5 @@
 ---
-title: Office の購入 365 Advanced Threat Protection
+title: Office 365 Advanced Threat Protection を購入する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "5758"
 ms.openlocfilehash: 80f3ea749813d6038f9234229f445d6cd43d3637
 ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/09/2020
 ms.locfileid: "44708593"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Office の購入 365 Advanced Threat Protection
+# <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection を購入する
 
-Office 365 Advanced Threat Protection (ATP) は、Microsoft 365 E5、Office 365 E5、Office 365 A5、Microsoft 365 Business Premium などの特定のサブスクリプションに含まれています。 サブスクリプションに Office 365 ATP が含まれていない場合は、特定のサブスクリプションへのアドオンとして[Atp プラン1or は Atp plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq)を購入することができます。 Microsoft 365 管理センターで購入するには、次のようにします。
+Office 365 Advanced Threat Protection (ATP) は、Microsoft 365 E5、Office 365 E5、Office 365 A5、Microsoft 365 Business Premium などの特定のサブスクリプションに含まれています。 サブスクリプションに Office 365 ATP が含まれていない場合は、特定のサブスクリプションのアドオンとして [ATP プラン 1 または ATP プラン 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) を購入することができます。 Microsoft 365 管理センターで購入するには:
 
-1. **請求**   >   [書購入サービス](https://go.microsoft.com/fwlink/p/?linkid=868433)に移動します。
-2. **興味のある他のカテゴリ**の**アドオン**ページを選択します。
-3. 購入する Advanced Threat Protection プランを選択します。 また、試用プランを選択することもできます。
+1. **[課金]**  >  [[サービスの購入]](https://go.microsoft.com/fwlink/p/?linkid=868433) の順に移動します。
+2. [**その他の興味のあるカテゴリ**] から [**アドオン**] ページを選択します。
+3. 購入する Advanced Threat Protection プランを選択します。 そこでも試用版プランを選択できます。
 4. Advanced Threat Protection を使用するユーザーの数を選択します。
 
 ユーザーにライセンスを割り当てる方法については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)」をご覧ください。

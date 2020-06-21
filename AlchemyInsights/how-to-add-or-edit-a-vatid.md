@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
 ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/02/2020
 ms.locfileid: "44495956"
@@ -35,7 +35,7 @@ ms.locfileid: "44495956"
 
     完了すると、VAT は次の請求書では請求されなくなります。
 
-詳細については、「Microsoft 365 に対して請求される税について」を参照してください。https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+詳細については、「Microsoft 365 ではどのような税が課せられますか?https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)」を参照してください
 
 **その他のリソース**
 
