@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8195b0e3fada6da033b2d95b1fc6600e7fa3341e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717567"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506779"
 ---
 # <a name="fix-dkim-setup-issues"></a>DKIM セットアップに関する問題の解決方法
 
 カスタム ドメインの DKIM を有効にする際に問題が発生した場合は、次の手順を使用してください。
 
-- ほとんどの DKIM セットアップの問題は、不適切な DNS レコードに関連しています。 DKIM CNAME レコード (TXT レコード**ではありません**) の書式が正しいことを確認します。 詳細については、この[トピック](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)を参照してください。
+- ほとんどの DKIM セットアップの問題は、不適切な DNS レコードに関連しています。 DKIM CNAME レコード (TXT レコード**ではありません**) の書式が正しいことを確認します。 詳細については、この[トピック](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)を参照してください。
 
 - ドメインの DNS ホスティン グサービス (通常はドメイン レジストラー) で DKIM DNS レコードを作成または更新したら、その DNS レコードが伝達されるまで待機します。
 
