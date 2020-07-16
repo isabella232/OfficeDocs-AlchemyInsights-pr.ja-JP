@@ -3,7 +3,7 @@ title: ドメイン名の文字の大きさやスペルを変更
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 07/8/2020
+ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: fa6e463b385f8743ab0b889273c04e241ebfec57
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088591"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138940"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>ドメイン名の文字の大きさやスペルを変更
 
@@ -29,4 +29,4 @@ ms.locfileid: "45088591"
 
 2. [ドメインウィザードの追加](https://portal.office.com/adminportal/home#/Domains/Wizard)を使用して、正しいスペルと文字の大きさのドメインを再度追加します。
 
-サインアップした後は、文字の大きさの変更、onmicrosoft.com ドメインの名前の再変更はできません。
+サインアップした後は、文字の大きさを変更したり、onmicrosoft.com ドメインまたは、Microsoft から購入したドメインの名前の変更したりすることはできません。
