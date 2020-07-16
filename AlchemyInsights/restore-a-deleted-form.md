@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
-ms.translationtype: HT
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37681692"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148042"
 ---
 # <a name="restore-a-deleted-form"></a>削除されたフォームを復元する
 
@@ -28,4 +28,4 @@ Microsoft Forms のフォームを誤って削除してしまった場合は、�
 
 ユーザーの削除したフォームにアクセスしたら、移動するフォームを選択し、[**その他のフォームのアクション**] > [**移動**] の順に選択します。
 
-削除され、ユーザが組織から削除されたフォームを復元したい場合、グローバル管理者は Office 365 でユーザを復元し、そのユーザのパスワードをリセットしてからそのユーザーとしてログインしている間、別のアクティブなユーザーにフォームを移動することができます。 
+削除されたフォームを復元し、ユーザーが組織から削除された場合、全体管理者はユーザーを回復し、そのユーザーのパスワードをリセットした後、そのユーザーとしてログインしたときに、フォームにアクセスして別のアクティブなユーザーに移動することができます。 
