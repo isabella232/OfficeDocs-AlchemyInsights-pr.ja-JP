@@ -24,9 +24,9 @@ ms.locfileid: "44582780"
   
 1. Microsoft 365 管理センターで、[[サービスとアドイン]](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) ページに移動して、**[サイト]** をクリックします。
     
-2. Make sure the setting is turned to "On." If "Only existing external users" is selected, make sure the external user is listed in the Microsoft 365 admin center.
+2. 設定が "オン" になっていることを確認します。"既存の外部ユーザーのみ" が選択されている場合、Microsoft 365 管理センターのリストに外部ユーザーが表示されていることを確認します。
     
-Make sure external sharing it turned on for the site. For a classic site collection:
+サイトに対して外部共有がオンになっていることを確認します。従来のサイト コレクションの場合:
   
 1. 新しい SharePoint 管理センターの左側のウィンドウで、**[サイト]** を選択します。
     
@@ -34,7 +34,7 @@ Make sure external sharing it turned on for the site. For a classic site collect
     
 Microsoft 365 グループに属するチーム サイトの場合とコミュニケーション サイトの場合:
   
-- These new site types have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in. In this case, the sites allow sharing with new and existing external users who sign in. To change the setting for specific sites, use the new SharePoint admin center or PowerShell. [Learn more](https://go.microsoft.com/fwlink/?linkid=871863).
+- サインインを要求しないリンクを利用したファイル共有が組織全体の設定で許可されている場合を除き、この新しい種類のサイトには組織全体の設定と同じ共有設定が与えられます。サイトでは、サインインした新しい外部ユーザーと既存外部ユーザーとの共有が許可されます。特定のサイトの設定を変更するには、新しい SharePoint 管理センターまたは PowerShell を使用します。詳細は[こちら](https://go.microsoft.com/fwlink/?linkid=871863)をご覧ください。
     
 > [!NOTE]
 > サイトの外部共有設定には、組織全体設定の場合より制限を増やすことができますが、組織全体設定の場合より制限を減らすことはできません。 

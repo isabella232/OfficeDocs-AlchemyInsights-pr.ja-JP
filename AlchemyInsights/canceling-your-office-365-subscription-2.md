@@ -24,7 +24,7 @@ ms.locfileid: "44508201"
 
 ご利用いただきありがとうございました。
   
-Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses. You can remove users until you have fewer than 25, then go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page. In the **Settings & Actions** section, choose **Cancel subscription**.
+組織のデータに基づくと、現在のすべてのサブスクリプションには、25 以上の割り当て済みのライセンスがあります。25 未満になるまでユーザーを削除できます。その後、[**課金**] \>** [[製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] **ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
  
 **返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 

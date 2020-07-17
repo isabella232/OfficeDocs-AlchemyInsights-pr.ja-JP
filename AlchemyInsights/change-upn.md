@@ -20,7 +20,7 @@ ms.locfileid: "44506016"
 ---
 # <a name="change-a-users-email-address"></a>ユーザーの電子メール アドレスを変更します。
 
-Changing someone's email address is easy! Just follow these steps:
+ユーザーのメール アドレスは簡単に変更できます。次の手順に従ってください。
   
 1. Microsoft 365 管理センターで、[[ユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) ページにアクセスするか、**[ユーザー]** \> **[アクティブなユーザー]** の順に選択します。
     
@@ -30,14 +30,14 @@ Changing someone's email address is easy! Just follow these steps:
     
 4. [**エイリアス**] ボックスに新しいメール アドレスを入力し、[**追加**] を選択します。
     
-    **IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Microsoft to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
+    **重要**: "**パラメーター名 'EmailAddresses' に一致するパラメーターが見つかりません**" というエラー メッセージが表示される場合、これは、Microsoft が最近追加されたテナントまたはカスタム ドメインをセットアップするのに少し時間がかかっていることを意味します。セットアップ プロセスの完了までには最大 4 時間かかることがあります。セットアップ プロセスが完了するまでしばらく待ってから、もう一度試してください。それでも問題が解決しない場合は、サポートにご連絡ください。サポートがお客様に代わって完全な同期を行います。
     
     "**申し訳ございません。ユーザーを編集できませんでした。情報を確認して、もう一度やり直してください**。" というエラー メッセージが表示された場合、お客様は全体管理者ではなく、ユーザー名を変更するアクセス許可がないことを意味します。
     
-5. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. If you purchased your subscription from GoDaddy, you must sign in to their management console to set the primary email address. 
+5. そのユーザーのプライマリ メール アドレスとして設定するメール アドレスに対して、[**プライマリに設定**] を選択します。GoDaddy からサブスクリプションを購入した場合、プライマリ メール アドレスを設定するには管理コンソールにサインインする必要があります。 
     
 6. [**保存**] を選択してから、[**閉じる**] を選択すると、完了です。
     
-Wasn't that easy? For more details and steps with screenshots, check out this article: [Change a user name and email address](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+簡単に変更できましたね。詳細情報およびスクリーンショット付きの手順については、「[ユーザー名とメール アドレスを変更する](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)」の記事を参照してください。
   
 

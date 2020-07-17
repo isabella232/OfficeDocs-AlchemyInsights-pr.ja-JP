@@ -24,7 +24,7 @@ ms.locfileid: "44512487"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook モバイル アプリでメールをセットアップする
 
-1. Select **Get Started** if it's your first time setting up email in the mobile app. Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.
+1. モバイル アプリでのメールのセットアップが初めての場合は、**[作業の開始]** を選択します。そうでない場合は、**[メニュー]** をタップしてから、**[設定]** \> **[アカウントの追加]** \> **[メール アカウントの追加]** をタップします。
 
 2. 完全なメール アドレスを入力して、**[続行]** または **[アカウントの追加]** をタップします。
 
@@ -34,7 +34,7 @@ ms.locfileid: "44512487"
 
 5. その他の IT 管理ポリシーが適用されている場合は、**[ライセンス認証を行う]** をタップしてそれらを有効にします。
 
-6. Outlook may request permission to access your calendar, contacts, and other information. Select **Yes** or **Allow**.
+6. Outlook では、自分の予定表、連絡先、およびその他の情報にアクセスするためにアクセス許可が必要な場合があります。**[はい]** または **[許可]** を選択します。
 
 [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) または [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) の詳細なセットアップ手順については、以下を参照してください。
   

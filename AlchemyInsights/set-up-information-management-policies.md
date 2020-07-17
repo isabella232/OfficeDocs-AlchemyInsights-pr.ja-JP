@@ -19,7 +19,7 @@ ms.locfileid: "44581308"
 
 1. SharePoint サイトにサブサイトがある場合は、トップレベルのサイトを参照します。
     
-2. Click **Settings**, and then click **Site Settings**. If the site is a Microsoft 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.
+2. [**設定**]、[**サイトの設定**] の順にクリックします。サイトが Microsoft 365 グループに接続されたサイトの場合、[**設定**]、[**サイト コンテンツ**] の順にクリックして、[**サイトの設定**] をクリックします。
     
 3. [**サイト コレクションの管理**] で、[**サイト コレクションの機能**] をクリックします。
     

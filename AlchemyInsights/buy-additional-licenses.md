@@ -27,10 +27,10 @@ ms.locfileid: "44506232"
 
     [追加/削除リンクが表示されない場合](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
+3. [**ライセンスの総数**] ボックスにこのサブスクリプション用に必要なライセンスの総数を入力し、[**変更の送信**] を選択します。たとえば、100 個のユーザー ライセンスを持っていて、さらに 5 個のライセンスを追加する場合は、ここに「105」と入力します。
 
     > [!NOTE]
-    > If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.
+    > サブスクリプションの支払いにクレジット カードまたは銀行口座を使用している場合、購入した新しいライセンスは注文確認の受け取り直後に使用可能になります。請求書支払いの場合は、与信審査を待機する必要があり、その後で新しいライセンスが使用可能になります。
 
 詳細については、「[一般法人向け Microsoft 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」を参照してください。  
 

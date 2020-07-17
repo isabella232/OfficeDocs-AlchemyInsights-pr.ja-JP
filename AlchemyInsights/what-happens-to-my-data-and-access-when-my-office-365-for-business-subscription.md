@@ -22,10 +22,10 @@ ms.locfileid: "44511693"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>一般法人向け Microsoft 365 のサブスクリプションが終了したとき、データとアクセスはどうなりますか?
 
-If your subscription ends—either because it expires, or because you decide to cancel—your access to services, applications, and customer data go through multiple states before the subscription is fully turned off, or  *deprovisioned*  . If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Microsoft—back up your data before it is ultimately deleted.
+期限切れまたはキャンセルにより、サブスクリプションが終了する場合、サブスクリプションが*完全に無効になる (サービス提供が停止される)* 前に、サービス、アプリケーション、顧客データへのアクセスは、複数の段階を経て処理されます。この過程を認識していると、より適切にサブスクリプションをアクティブな状態に戻すことができ、手遅れになることがありません。また Microsoft の使用を終了する場合でも、データが完全に削除される前に、データをバックアップしておくことができます。
   
 サブスクリプションが実際に有効期限に達する前に、ユーザーには**サブスクリプションの継続請求を管理する**ための選択肢がいくつかあります。
   
-- If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Recurring billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing** off, you can always [turn recurring billing back on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- **継続請求**が既に有効になっている場合は、いかなる手続きも必要ありません。サブスクリプションは**継続請求**日に課金され、現在の支払回数に応じて、追加された年分または月分の料金が課せられます。何らかの理由で**継続請求**を無効にした場合は、いつでも[継続請求](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)を有効にすることができます。
 
-- If you're an Open Volume Licensing customer with a prepaid, one-year subscription, contact your partner to purchase a new product key. You'll receive instructions via email to activate your key in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Microsoft 365 partner or reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- 1 年間のプリペイド サブスクリプションを利用するオープン ボリューム ライセンス ユーザーの場合は、パートナーに連絡して、新しいプロダクト キーを購入してください。[ボリューム ライセンス サービス センター](https://go.microsoft.com/fwlink/p/?LinkID=282016)でキーをアクティブ化する手順をメールで受け取ります。新しいパートナーまたは以前のパートナーを見つける方法の詳細については、「[Microsoft 365 パートナーまたはリセラーを見つける](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)」を参照してください。

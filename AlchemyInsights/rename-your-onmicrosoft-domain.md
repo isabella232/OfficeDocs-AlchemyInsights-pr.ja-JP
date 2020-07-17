@@ -21,7 +21,7 @@ ms.locfileid: "44510613"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>onmicrosoft.com ドメインの名前を変更する
 
- **You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*, you can't change it to be  *fabrikam.onmicrosoft.com*. To use a different onmicrosoft.com domain, you'd have to start a new subscription with Microsoft 365.
+ **サインアップ後に onmicrosoft ドメインの名前は変更できません**。たとえば、選んだ初期ドメインが *fourthcoffee.onmicrosoft.com* の場合、*fabrikam.onmicrosoft.com* に変更することはできません。別の onmicrosoft.com ドメインを使うには、Microsoft 365 で新しいサブスクリプションを開始する必要があります。
   
 *contoso.com* のようなカスタム ドメインを使用する場合は、[自分が所有するものを追加](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)するか、または [Microsoft から購入](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)します。
   

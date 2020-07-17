@@ -21,6 +21,6 @@ ms.locfileid: "44505836"
 ---
 # <a name="create-distribution-groups"></a>配布グループの作成
 
-You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization. Creating them is easy! For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+配布グループ (配布リストとも呼ばれる) を使用して、組織内および組織外のユーザーのグループにメール メッセージを配信します。これを作成するのは簡単です。手順については、「[Microsoft 365 管理センターで配布リストを作成する](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists)」を参照してください。
 
-**Note**: An admin needs to manage the membership of a distribution group. If you want users to manage their own group membership lists, you might want to consider [Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.
+**注**: 管理者は配布グループのメンバーシップを管理する必要があります。ユーザーが独自のグループ メンバーシップを管理する必要がある場合は、代わりに [Microsoft 365 グループ](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)を検討することをお勧めします。

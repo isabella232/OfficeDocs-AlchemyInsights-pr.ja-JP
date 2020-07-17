@@ -23,7 +23,7 @@ ms.locfileid: "44508165"
 
 誠に残念ですが、サブスクリプションをキャンセルするオプションを次に示します。
   
-- If you are a trial customer, there is nothing to cancel. Trial subscriptions expire automatically unless you provide a payment method.
+- 試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。
 
 - 割り当て済みのライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。 [**課金**]\>** [[製品](https://go.microsoft.com/fwlink/p/?linkid=842054)]** ページに移動します。 [**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
 

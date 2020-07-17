@@ -20,7 +20,7 @@ ms.locfileid: "44510145"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>電子情報開示の検索に必要なアクセス許可
 
-To perform Content Searches in the Security & Compliance Center, a user must be at least be a member of the eDiscovery Manager role group, which allows them to perform searches and place holds on mailboxes, SharePoint sites, and OneDrive locations. Members can also create and manage eDiscovery cases, add and remove members to a case, create and edit Content Searches, and access case data in Advanced eDiscovery.
+セキュリティ/コンプライアンス センターでコンテンツ検索を実行するには、ユーザーは少なくとも電子情報開示マネージャーの役割グループのメンバーになっている必要があります。このメンバーは、メールボックス、SharePoint のサイト、および OneDrive の場所で検索とプレース保持を実行できます。また、電子情報開示ケースの作成と管理、ケースへのメンバーの追加と削除、コンテンツ検索の作成と編集、およびケース データへのアクセスも Advanced eDiscovery で実行できます。
 
 Exchange 管理センター (EAC) でインプレース電子情報開示検索を実行するには、ユーザーは Exchange Online の証拠開示管理の役割グループのメンバーになっている必要があります。
 

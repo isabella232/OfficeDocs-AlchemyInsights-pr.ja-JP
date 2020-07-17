@@ -23,4 +23,4 @@ ms.locfileid: "44507807"
 
 詳細については、「[組織内のすべてのユーザー用に優先受信トレイを構成する](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)」を参照してください。
 
-**Note**: This procedure requires Exchange Online PowerShell. Would you like to do this in the Microsoft 365 admin center instead? [Vote here!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**注**: この手順には Exchange Online PowerShell が必要です。代わりに Microsoft 365 管理センターでこれを実行する場合、[こちらでご投票ください](https://go.microsoft.com/fwlink/p/?linkid=862489)。

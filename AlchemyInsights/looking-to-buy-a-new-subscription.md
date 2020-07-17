@@ -28,7 +28,7 @@ ms.locfileid: "44505548"
 
 3. [**今すぐチェックアウト**] を選択します。 次のページで、注文内容を確認して購入を完了できます。
 
-4. When your purchase is complete, you may need to reassign licenses or cancel a subscription. For help with this, please see the Additional Resources section below.
+4. 購入が完了したら、ライセンスを再割り当てするか、サブスクリプションをキャンセルすることが必要な場合があります。このヘルプについては、次の「その他のリソース」を参照してください。
 
  **その他のリソース:** 
   

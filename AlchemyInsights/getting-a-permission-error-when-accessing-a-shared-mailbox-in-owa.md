@@ -22,5 +22,5 @@ ms.locfileid: "44499192"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Outlook on the web で共有メールボックスを開くときにアクセス権のエラーが表示される場合
 
-If you get the error **Something went wrong. You don't have permission to open this mailbox.** when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox. Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Outlook on the web で共有メールボックスを開こうとしたときに "**問題が発生しました。このメールボックスを開く権限がありません**" というエラーが表示された場合、その共有メールボックスへのアクセス権が自分のアカウントに付与されていない可能性があります。組織の管理者は、トピック「[共有メールボックスを作成する](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)」の手順に従って、共有メールボックスへのアクセス権をアカウントに割り当てることができます。
   

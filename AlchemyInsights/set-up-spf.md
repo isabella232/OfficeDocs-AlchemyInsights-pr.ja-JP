@@ -20,7 +20,7 @@ ms.locfileid: "44512667"
 ---
 # <a name="set-up-spf"></a>SPF をセットアップする
 
-Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.
+DNS レコードを更新し、カスタム ドメインに Sender Policy Framework (SPF) を使用して、カスタム ドメインから送信されたメールを検証できます。これにより、ご使用のドメインから「スプーフィング」メールが送信されるのを防ぐことができます。
   
 - [SPF を設定して、スプーフィングを防止する](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 

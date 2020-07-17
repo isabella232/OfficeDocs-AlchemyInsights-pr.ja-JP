@@ -22,7 +22,7 @@ ms.locfileid: "44509857"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"ライセンスのない製品" エラーの解決方法の提案
 
-Ensure you have a subscription that allows client licenses, such as Microsoft 365 Apps for business or Microsoft 365 Business Premium Standard, and [ensure the user has a license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deactivate an install](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) to check if you have exceeded the number of installs supported by your subscription.
+Microsoft 365 Apps for business または Microsoft 365 Business Premium および Standard などのクライアント ライセンスを許可するサブスクリプションがあることを確認し、[ユーザーにライセンスが割り当てられていることを確認します](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。サブスクリプションでサポートされているインストール数を超えているかどうかを確認する場合は、[インストールを非アクティブにします](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)。
   
 ユーザーが、割り当てられているライセンスと同じアカウントでサインインしていることを確認します。
   

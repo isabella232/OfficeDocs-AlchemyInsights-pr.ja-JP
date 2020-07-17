@@ -22,9 +22,9 @@ ms.locfileid: "44508309"
 
 残念なことですが、ここでは、サブスクリプションをキャンセルするためのオプションを紹介します。
   
-- If you are a trial customer, there is nothing to cancel. Trial subscriptions expire automatically unless you provide a payment method.
+- 試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。
 
-- If you have fewer than 25 assigned licenses, you can cancel your subscription online. Go to **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**. In the **Settings & Actions** section, choose **Cancel subscription**.
+- 割り当てられているライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
 
 - 割り当てられているライセンス数が 25 以上の場合は、25 未満になるまでユーザーを削除するか、[電話でのサポートを希望] オプションを使用して、サポート エンジニアに連絡することができます。
 

@@ -23,5 +23,5 @@ ms.locfileid: "44507627"
 
 ユーザーのアクセスを直ちにブロックし、その情報を保持する必要がある場合は、「[元従業員の Microsoft 365 データへのアクセスをブロックする](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)」を参照してください。
   
-If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). This will immediately free up their license.
+単にユーザーを削除し、そのデータには関心がない場合は、[組織からのユーザーの削除](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)に関するページを参照してください。これにより、ライセンスがすぐに削除されます。
   

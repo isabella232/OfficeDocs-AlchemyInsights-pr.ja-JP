@@ -20,7 +20,7 @@ ms.locfileid: "44510649"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Microsoft 365 から GoDaddy ドメインを削除する
 
-We can't remove your GoDaddy domain from Microsoft 365 for you. Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.
+Microsoft では、GoDaddy ドメインを Microsoft 365 から削除することはできません。[GoDaddy のカスタマー サービス](https://aka.ms/contact-godaddy) にお問い合わせください。
   
 組織の名前に「NETORG」が含まれていない場合、または GoDaddy から購入したものではない場合は、「[Microsoft 365 からドメインを削除する](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)」の手順に従ってドメインを削除することができます。
   

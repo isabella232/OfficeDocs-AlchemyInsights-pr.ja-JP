@@ -26,9 +26,9 @@ ms.locfileid: "44498976"
   
 請求金額が予想と異なる場合は、次に示すいくつかの理由が考えられます。
   
-- Licenses were added or removed from your subscription. When licenses are changed mid-term, this is reflected on the following invoice. You may see a credit and re-bill for the previous service period to account for this change.
+- ご使用のサブスクリプションに対してライセンスの追加または削除が行われています。ライセンスが途中で変更されると、その内容が以降の請求書に反映されます。この変更を考慮して前のサービス期間に対するクレジットおよび再請求が表示される場合があります。
 
-- The subscription was cancelled. You will receive an invoice after cancellation with any outstanding balance minus any credits.
+- サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。
 
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
 

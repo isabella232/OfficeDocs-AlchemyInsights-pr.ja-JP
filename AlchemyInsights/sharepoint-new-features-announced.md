@@ -21,4 +21,4 @@ Ignite 2018 カンファレンスで、Microsoft は SharePoint の革新的な�
   
 新機能の詳細については、「[New innovations in SharePoint &amp; Microsoft 365 deliver power and simplicity for content collaboration](https://go.microsoft.com/fwlink/?linkid=2026502)」 (SharePoint と Microsoft 365 でコンテンツ共同作業がシンプルかつ多機能になる) というブログ投稿を参照してください。
   
-Your organization can join the Targeted Release program to have early access to new features. See [Set up the Standard or Targeted release options in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+対象指定リリース プログラムに組織で加入すると、新機能に早期アクセスできます。「[Microsoft 365 で標準または対象指定リリース オプションを設定する](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)」を参照してください。

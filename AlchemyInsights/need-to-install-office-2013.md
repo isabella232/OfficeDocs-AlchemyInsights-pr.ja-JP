@@ -22,5 +22,5 @@ ms.locfileid: "44512053"
 
 2017 年 2 月 28 日以降、Office 2013 は Microsoft 365 サブスクリプションではサポートされなくなりました。
   
-To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
+使用する Office スイート製品のセキュリティを確保して、最新の機能をすべて取得するには、Microsoft 365 サブスクリプションの一部として無料で使用できる最新バージョンの Office をインストールできます。「[ユーザーを最新の Office クライアントにアップグレードする](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)」を参照してください。
   

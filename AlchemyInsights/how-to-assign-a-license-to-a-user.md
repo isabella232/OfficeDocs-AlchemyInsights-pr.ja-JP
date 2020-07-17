@@ -22,7 +22,7 @@ ms.locfileid: "44495992"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>ユーザーへのライセンスの割り当て/割り当て解除を行う
 
-A user needs a license to have access to services. Here are steps to **add, change, or remove** a license from a user.
+ユーザーがサービスにアクセスするにはライセンスが必要です。ユーザーのライセンスの**追加、変更、または削除**は、次の手順で行います。
   
 1. 管理センターで、**[ユーザー]** \> [[アクティブなユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) の順に移動します。
 

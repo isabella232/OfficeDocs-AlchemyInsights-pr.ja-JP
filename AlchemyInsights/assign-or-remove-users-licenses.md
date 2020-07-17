@@ -20,10 +20,10 @@ ms.locfileid: "44506376"
 ---
 # <a name="assign-or-remove-users-licenses"></a>ユーザーのライセンスを割り当てるまたは削除する
 
-As an admin, you can adjust your users' licenses as needed. The articles below will show you how to manage your users' licenses, including:
+管理者は、必要に応じてユーザーのライセンスを調整できます。次の記事では、ユーザーのライセンスを管理する方法について説明しています。
   
 - [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
 - [一般法人向け Microsoft 365 のユーザーからライセンスの割り当てを解除する](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Didn't answer your question? No problem! Use the "Need help" button to talk to a support engineer.
+質問に対する回答が見つからなくても、問題はありません。[お問い合わせ先] ボタンを使用して、サポート エンジニアにお問い合わせください。

@@ -34,4 +34,4 @@ ms.locfileid: "44512559"
 
 または、多数のメールボックス (100,000 を超えるメールボックス) を検索したり、検索結果をエクスポートするときに、エクスポート エラーが発生しますか。
 
-For these types of errors, retry the search for the content locations that have failed. See  [this article](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for more information.
+このようなエラーの場合は、失敗したコンテンツの場所の検索を再試行してください。詳細については、[この記事](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)を参照してください。

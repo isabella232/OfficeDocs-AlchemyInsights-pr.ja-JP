@@ -23,7 +23,7 @@ ms.locfileid: "44509173"
 ---
 # <a name="how-to-purchase-education-offer"></a>教育機関向けプランの購入方法
 
-You have been approved for Office 365 Education. To purchase:
+Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。
   
 1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 

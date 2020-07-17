@@ -20,7 +20,7 @@ ms.locfileid: "44502576"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>メールボックスのアクセス許可を変更する
 
-If users need access to mailboxes other than their own, they need to be given permissions to work with those mailboxes. How you assign those permissions depends on the mailbox type. If users need access to:
+ユーザーが自分以外のメールボックスにアクセスすることが必要な場合、そのようなメールボックスを使用するアクセス許可を付与される必要があります。これらのアクセス許可を割り当てる方法は、メールボックスの種類によって異なります。ユーザーがアクセスする必要があるメールボックスの種類は次のとおりです。
   
 - 別のユーザーのメールボックス - 「[別のユーザーにメールボックス アクセス許可を付与する](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)」を参照してください。
     

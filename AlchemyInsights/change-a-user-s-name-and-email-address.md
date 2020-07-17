@@ -25,4 +25,4 @@ Microsoft 365 でユーザー名とメール アドレスを変更するのは�
   
 [Microsoft 365 でユーザー名とメール アドレスを変更する](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Note**: If you change the user's main email address, their old email address will still be valid for receiving email (this happens automatically). Also, if your organization is in Hybrid state, all email and user name changes need to be done in on-premises Active Directory and then synced to the cloud.
+ **注**: ユーザーのメインのメール アドレスを変更しても、古いメール アドレスはメールの受信用に引き続き有効です (これは自動的に発生します)。また、組織がハイブリッド状態の場合、すべてのメールとユーザー名の変更をオンプレミスの Active Directory で行い、クラウドと同期する必要があります。

@@ -21,13 +21,13 @@ ms.locfileid: "44750975"
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必要な Alchemy ヘッダー H1、H2 が機能していません。"
 Alchemy 作成のベスト プラクティスとガイドライン:
 
-1. **Do not nest Alchemy Insights in folders**- this will break the url structure. We're looking into fixing this.
+1. **フォルダーで Alchemy 分析情報を入れ子にしないでください**- 入れ子にすると URL の構造が壊れてしまいます。この問題の修正については現在検討中です。
 1. **AlchemyInsights** フォルダ内のファイルは、小文字のファイル名 (スペースの代わりにハイフンを使用) にする必要があります。例:  ***how-to-enable-litigation-hold***
     1. [Alchemy パートナー ポータル](https://alchemyportal.azurewebsites.net)からのルール ID またはバケット ID を ms.custom フィールドに含めます。 例:  ***ms.custom: 100021***
 1. このファイルの冒頭にある残りのメタデータをテンプレートとして使用します。
 1. [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)で、セクション [**Customer Insight Title:**] まで下方向に移動し、それをインサイトの H1 タイトルの出発点として使用します。 
     > [!NOTE]
-    > Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.
+    > Alchemy Insight に含むことができる H1 は上部の 1 つに限られます。そうしなければ、運用環境では中断されます。H2 はレンダリングされないため、**太字**またはその他の規則を使用して、個別のセクションを表します。
 1. 次に、Alchemy Rule ページの Customer Insights セクションにある下書きの資料を使用して、本文のテキストを入力します。
     1. 箇条書きを使用できます。
     1. 段落番号も使用できます。

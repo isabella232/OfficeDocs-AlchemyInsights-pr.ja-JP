@@ -23,7 +23,7 @@ ms.locfileid: "44508741"
 
 メールボックスのサイズが既に 100 GB に達している、それ以上増やすことはできません。
   
-If the mailbox size is 50 GB, you can increase it to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Here are the steps to switch to a different subscription:
+メールボックスのサイズが 50 GB である場合は、[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) または [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) に切り替えることによって、メールボックスのサイズを 100 GB に増やすことができます。別の サブスクリプションに切り替える手順を次に示します。
   
 1. Microsoft 365 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 

@@ -22,7 +22,7 @@ ms.locfileid: "44510289"
 
 注: ネーム サーバーの変更は、反映されるまで最大 48 時間かかる場合があります。
   
-To set up your domain with Microsoft, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.
+Microsoft でドメインを設定するには、レジストラーのネーム サーバーを更新する必要があります。ドメイン レジストラーでネーム サーバー レコードを作成または編集します。
   
 1. ご利用のドメイン レジストラーの Web サイトにアクセスして、ネーム サーバーを編集できる領域を見つけます。
 

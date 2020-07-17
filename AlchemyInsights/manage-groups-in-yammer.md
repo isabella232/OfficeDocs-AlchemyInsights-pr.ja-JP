@@ -24,7 +24,7 @@ ms.locfileid: "44505512"
 
 - **動的グループ メンバーシップ。** Yammer 接続 Microsoft 365 グループの動的メンバーシップの作成については、「[Yammer で動的グループを作成する](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group)」を参照してください。
 
-- **Restoring deleted groups.** Restoring Yammer groups is possible via [Restore a deleted Microsoft 365 group](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) Non connected groups cannot be restored after deletion.
+- **削除されたグループの復元。** Yammer グループの復元は、「[削除された Microsoft 365 グループの復元](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)」を介して可能です。接続されていないグループは、削除後に復元できません。
 
 グループの管理の詳細については、「[Yammer でグループを管理する](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)」を参照してください。 接続されている Microsoft 365 グループについては、「[Yammer グループと Microsoft 365 グループ](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)」を参照してください。
   

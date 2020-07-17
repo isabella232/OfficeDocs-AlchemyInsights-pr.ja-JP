@@ -23,4 +23,4 @@ ms.locfileid: "44504916"
 
 1. プロダクト キーで新しいサブスクリプションのライセンス認証を行うには、[https://office.com/setupkey](https://office.com/setupkey) に移動します。
 
-2. Enter your product key and follow the prompts to activate your subscription. If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+2. プロダクト キーを入力し、メッセージに従ってサブスクリプションをアクティブ化します。アクティブ化に問題がある場合は、この[一般的なプロダクト キー エラーと解決策の一覧](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)を参照してください。

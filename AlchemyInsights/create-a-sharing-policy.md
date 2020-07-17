@@ -29,7 +29,8 @@ ms.locfileid: "44862287"
             **[共有ルール]** で、次のいずれかのオプションを選択して、共有するドメインを指定します。
     - **[すべてのドメインと共有]**
     - **[特定のドメインと共有]**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. 
+            **[特定のドメインと共有]** を選択した場合は、共有するドメインの名前を入力します。この共有ポリシーに複数のドメインを入力する必要がある場合は、最初のドメインの設定値を保存してから、共有ルールを編集してさらにドメインを追加します。
 9. 共有できる情報を指定するには、**[予定表フォルダーを共有する]** チェック ボックスを選択してから、以下のいずれかのオプションを選択します。
     - **[時刻のみを指定して予定表の空き時間情報にアクセス]**
     - **[時間、件名、場所を含む予定表の空き時間情報]**

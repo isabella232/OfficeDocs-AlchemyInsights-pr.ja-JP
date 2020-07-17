@@ -20,7 +20,7 @@ ms.locfileid: "44580302"
 ---
 # <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365 グループに属しているサイトを削除する
 
-When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Microsoft 365 group is automatically created. Microsoft 365 group-connected team sites are also created when you create a Microsoft 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to a Microsoft 365 group, you need to delete the Microsoft 365 group itself. 
+ユーザーが SharePoint ホームから新しいチーム サイトを作成する (または、新しい SharePoint 管理センターのプレビューから新しいチーム サイトを作成する) と、対応する Microsoft 365 グループが自動的に作成されます。Microsoft Teams で Microsoft 365 グループまたはチームを作成すると、Microsoft 365 グループ接続チーム サイトも作成されます。Microsoft 365 グループに属している SharePoint サイトを削除するには、Microsoft 365 グループ自体を削除する必要があります。 
   
 1. [Microsoft 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。
     
@@ -36,7 +36,7 @@ When users create a new team site from SharePoint Home or you create a new team 
   
 2. 右上の [**設定**] アイコンをクリックします。 
   
-3. Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.
+3. [**サイトの設定**] をクリックします。[**サイト情報**] または [**サイトの操作**] で [**このサイトを削除**] をクリックして、[**削除**] をクリックします。
   
 **SharePoint のサイト コレクションを削除する:** 
 

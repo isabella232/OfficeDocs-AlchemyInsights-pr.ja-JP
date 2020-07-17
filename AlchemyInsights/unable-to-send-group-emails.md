@@ -22,7 +22,7 @@ ms.locfileid: "44582492"
 
 Outlook.com で連絡先リストまたは連絡先グループにメールを送信できない場合は、以下を試してください。
   
-1. Use Outlook.com beta. For more information, [Learn about the Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Outlook.com ベータ版を使用します。詳細については、「[新しい Outlook.com について](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)」をご覧ください。
     
 2. グループに対するメールの作成に引き続き問題が発生する場合は、[[人物]](https://outlook.live.com/people/) に移動し、連絡先リストまたはグループを選択して、**[メールを送信]** を選択します。
     
@@ -30,7 +30,7 @@ Outlook.com で連絡先リストまたは連絡先グループにメールを�
   
 1. ポップアップがブロックされていないことを確認してください。連絡先リスト ページからメールを送信するときは、新しいウィンドウが開きます。
     
-2. Send mail from the contact list automatically places the list in the **TO** line. If you want to hide your contact list details, click **BCC** in the top right corner, then copy and paste the contact list into **BCC** and delete the **TO** entry. 
+2. 連絡先リストからメールを送信すると、**[宛先]** 行にリストが自動的に設定されます。連絡先リストの詳細を表示しない場合は、右上隅の **[BCC]** をクリックし、連絡先リストをコピーして **[BCC]** に貼り付けてから、**[宛先]** の入力を削除します。 
     
 3. **[BCC]** を使用するときは、**[宛先]** 行に常に何か (独自の "差出人" アドレスなど) を設定しておくことをお勧めします。 
     

@@ -19,6 +19,6 @@ ms.locfileid: "44509785"
 
 ドメインとユーザーをセットアップする準備ができたら、この短いビデオをご覧ください。
   
-![Your browser does not support video. Install Microsoft Silverlight, Adobe Flash Player, or Internet Explorer 9.](media/MSN_Video_Widget.gif)
+![ご使用のブラウザーはビデオをサポートしていません。Microsoft Silverlight、Adobe Flash Player、または Internet Explorer 9 をインストールしてください。](media/MSN_Video_Widget.gif)
   
 詳細については、「[ドメインに関する FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)」を参照してください。

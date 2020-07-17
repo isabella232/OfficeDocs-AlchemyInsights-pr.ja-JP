@@ -24,7 +24,7 @@ ms.locfileid: "44708581"
 
 - **請求金額**は、予想していた金額とは異なります。
 - ライセンスがサブスクリプションから追加または削除された。 ライセンスが契約期間中に変更された場合、次の請求書に反映されます。 この変更を示すために、前のサービス期間のクレジットおよび再請求が表示される場合があります。
-- The subscription was cancelled. You will receive an invoice after cancellation with any outstanding balance minus any credits.
+- サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
 - 請求書の詳細については、[請求書](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)に関するページを参照してください。
 - **クレジット カードによる支払いの処理に問題があります**

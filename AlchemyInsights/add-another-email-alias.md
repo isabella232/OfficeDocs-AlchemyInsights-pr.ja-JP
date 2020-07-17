@@ -20,7 +20,7 @@ ms.locfileid: "44503008"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 
-Need to create an email alias for a user, or add an additional email address? Just follow these steps!
+ユーザーに対してメール エイリアスを作成したり、その他のメール アドレスを追加したりする必要がある場合、次の手順に従ってください。
   
 1. Microsoft 365 管理センターで、[[ユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) ページにアクセスするか、**[ユーザー]** \> **[アクティブなユーザー]** の順に選択します。
     
@@ -28,9 +28,9 @@ Need to create an email alias for a user, or add an additional email address? Ju
     
 3. 右側の [ **ユーザー名 / メール エイリアス**] 行で、[ **編集**] を選びます。
     
-4. In the **Alias** box, type a new email, then choose **Add**. If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console. 
+4. [ **エイリアス**] ボックスに新しいメール アドレスを入力し、[ **追加**] を選択します。GoDaddy または別のパートナーからサブスクリプションを購入した場合、新しいエイリアスをプライマリとして設定するには、GoDaddy またはパートナーの管理コンソールに移動する必要があります。 
     
-    **IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Microsoft to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
+    **重要**: "**パラメーター名 'EmailAddresses' に一致するパラメーターが見つかりません**" というエラー メッセージが表示される場合、これは、Microsoft が最近追加されたテナントまたはカスタム ドメインをセットアップするのに少し時間がかかっていることを意味します。セットアップ プロセスの完了までには最大 4 時間かかることがあります。セットアップ プロセスが完了するまでしばらく待ってから、もう一度試してください。それでも問題が解決しない場合は、サポートにご連絡ください。サポートがお客様に代わって完全な同期を行います。
     
     通常、新しいエイリアスが有効になるには、約 30 分かかります。
     

@@ -22,7 +22,7 @@ ms.locfileid: "44508057"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>請求の通知の連絡用メール アドレスを変更する
 
-Changing the alternate email address for billing notification is easy. Just follow these steps:
+請求の通知の送り先である連絡用メール アドレスは簡単に変更できます。次の手順を実行するだけです。
   
 1. Microsoft 365 の管理センターで、**[課金]** \> [[課金の通知]](https://go.microsoft.com/fwlink/p/?linkid=853212) ページに移動します。
 

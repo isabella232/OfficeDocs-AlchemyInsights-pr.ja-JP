@@ -22,7 +22,7 @@ ms.locfileid: "44505276"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>エイリアスまたはセカンダリ アドレスからメールを送信する
 
-Microsoft 365 does not currently support sending email from an alias or secondary email address. Email aliases can be used to receive emails only. If you want to send email from another email address, you need to create a shared mailbox. The shared mailbox will give you another email address, without requiring another license.
+Microsoft 365 では現在、エイリアスまたはセカンダリ メール アドレスからのメール送信はサポートされていません。メール エイリアスはメールの受信にのみ使用できます。他のメール アドレスからメールを送信する場合は、共有メールボックスを作成する必要があります。共有メールボックスにより、追加のライセンスを取得せずに別のメール アドレスを入手することができます。
   
 - [ここから共有メールボックスを作成できます](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 

@@ -22,7 +22,7 @@ ms.locfileid: "44509101"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>継続請求を再アクティブ化および管理する方法
 
-Looks like you have a subscription that has expired. If you would like to reactivate it, here's how.
+期限切れのサブスクリプションがあるようです。サブスクリプションを再アクティブ化する手順を次に示します。
   
 1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 

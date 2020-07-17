@@ -22,7 +22,7 @@ ms.locfileid: "44505584"
 ---
 # <a name="expired-subscription"></a>期限切れのサブスクリプション
 
-It appears you have one or more expired subscriptions. If you would like to continue service, you must reactivate the subscription, or make a new purchase.
+期限切れのサブスクリプションが 1 つ以上あります。サービスを継続するには、サブスクリプションを再び有アクティブ化するか、新規購入する必要があります。
   
 **再アクティブ化**
   

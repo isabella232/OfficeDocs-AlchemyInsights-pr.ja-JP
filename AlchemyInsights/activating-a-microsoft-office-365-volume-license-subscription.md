@@ -28,8 +28,8 @@ ms.locfileid: "44062037"
 
 3. 電子メールがオンライン サービス (OLS) の連絡先に送信されます。
 
-4. The activation email will provide you with two options: **Sign up**, or **Sign in**. If you have previously created a trial, choose **Sign in**. If you don't yet have a Microsoft 365 tenant, choose **Sign up**.
+4. 電子メールでのアクティブ化には、**サインアップ**と**サインイン**の 2 つのオプションがあります。以前試用版を作成した場合は**サインイン**を選択します。まだ Microsoft 365 テナントを持っていない場合は**サインアップ**を選択します。
 
-5. Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials. After you successfully sign in, you'll receive another email confirming your purchase.
+5. 既存の管理者の資格情報を使用して、Microsoft 365 管理センター ([https://admin.microsoft.com](https://admin.microsoft.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
 
-6. After you've signed in, you can go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are activated within your tenant. (You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)
+6. サインイン後、[**課金**] \> [[製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動すると、購入したサブスクリプションがテナント内でアクティブ化されていることを確認できます (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションが入金されていることを確認する詳細を表示することもできます)。

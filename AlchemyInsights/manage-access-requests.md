@@ -20,13 +20,13 @@ ms.locfileid: "44579726"
 ---
 # <a name="manage-access-requests"></a>アクセス依頼を管理する
 
-When a user tries to access an item in SharePoint and they don't have permission, they'll see a message that they need permission to access the item. The user can request access (in some cases, to the specific item or to join the group) and a site owner can approve or decline the request. If someone who is not a site owner shares a site with another person, the site owner will also get an access request for the new user. To approve or decline access requests:
+SharePoint でユーザーがアイテムにアクセスしようとしても、権限がない場合、アイテムにアクセスするには権限が必要であるというメッセージが表示されます。ユーザーはアクセス権 (場合によっては、特定のアイテムへのアクセス許可やグループに参加するための許可) を依頼でき、サイト所有者は、その依頼を承認または拒否することができます。サイト所有者ではないユーザーが別のユーザーとサイトを共有する場合も、サイト所有者に対して、新しいユーザーのアクセス権が依頼されます。アクセス依頼を承認または拒否するには、次の手順を実行します。
   
-1. Go to the site, click the Settings icon in the upper right, and then click **Site Settings**. (If you don't see Site Settings, click **Site permissions**, and then click **Advanced permissions settings**. Look for a banner that has a link called "Show access requests and invitations.")
+1. サイトに移動して、右上の [設定] アイコンをクリックし、[**サイトの設定**] をクリックします ([サイトの設定] が表示されない場合は、[**サイトの権限**]、[**高度なアクセス許可の設定**] の順にクリックします。"アクセス依頼と招待を表示します" というリンクを含むバナーを見つけます)。
     
-2. Under **Users and Permissions**, click **Access requests and invitations**. (If this doesn't appear, no access requests have been made.)
+2. [**ユーザーと権限**] で、[**アクセスの依頼と招待状**] をクリックします (これが表示されない場合、アクセス依頼は作成されていません)。
     
-3. To give the user permission individually, click **Approve** or **Decline**. To select a specific permission level, first click the ellipsis (...) next to the person's name. Alternatively, add the user to a group that has permission to the site. For communication sites and classic team sites, you can do this on the Site Settings page. For sites that belong to a Microsoft 365 group, you can add the user to the group.
+3. ユーザーに個別に権限を与えるには、[**承認**] または [**拒否**] をクリックします。特定の権限レベルを選択するには、まず、ユーザー名の横にある省略記号 (...) をクリックします。または、サイトへのアクセス権を持つグループにユーザーを追加します。コミュニケーション サイトおよび従来のチーム サイトの場合、[サイトの設定] ページでこの操作を行うことができます。Microsoft 365 グループに属するサイトの場合、ユーザーをそのグループに追加できます。
     
     [アクセス依頼を管理する](https://go.microsoft.com/fwlink/?linkid=2008747)
     

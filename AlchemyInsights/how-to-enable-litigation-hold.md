@@ -22,8 +22,8 @@ ms.locfileid: "44495818"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>メールボックスを訴訟ホールドの状態にする
 
-- To place a mailbox on Litigation Hold or In-Place hold, an Exchange Online Plan 2 license [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required. If a mailbox is assigned a Plan 1 license, you can assign a separate Exchange Online Archiving add-on license [Exchange Online Archiving add-on license](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- メールボックスを訴訟ホールドまたはインプレース ホールドの状態にするには、Exchange Online プラン 2 ライセンス[Exchange Online プラン 2 ライセンス](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)が必要になります。メールボックスにプラン 1 ライセンスが割り当てられている場合は、別個の Exchange Online Archiving アドオン ライセンス[Exchange Online Archiving アドオン ライセンス](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)を割り当てることができます。
 
-- To enable Litigation Hold for a single user, [follow these steps](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). When Litigation Hold is enabled, all content in the mailbox is preserved.
+- 1 人のユーザーに対して訴訟ホールドを有効にする場合は、[この手順を実行してください](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)。訴訟ホールドが有効になると、メールボックス内のすべてのコンテンツが保持されます。
 
-- To preserve content in all mailboxes in your organization, you can use an [organization-wide retention policy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Note that for organization-wide retention policies, new users will be automatically assigned to the policy.
+- 組織ですべてのメールボックスのコンテンツを保持する場合は、[組織全体の アイテム保持ポリシー](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)を使用します。組織全体のアイテム保持ポリシーの場合は、そのポリシーが新しいユーザーに自動的に割り当てられる点に注意してください。

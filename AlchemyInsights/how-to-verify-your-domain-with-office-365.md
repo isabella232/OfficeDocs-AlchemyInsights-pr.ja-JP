@@ -22,7 +22,7 @@ ms.locfileid: "44509029"
 ---
 # <a name="how-to-verify-your-domain"></a>ドメインを確認する場合
 
-To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain. First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.
+ドメインを所有していることを確認するには、ご利用のドメイン レジストラーに TXT レコードを追加する必要があります。まず、[[ドメイン ウィザードの追加](https://portal.office.com/adminportal/home#/Domains/Wizard)] に従います。 [**設定**]\>、[**ドメイン**]、[**ドメインの追加**] の順にクリックしてください。
   
 ドメインを確認するため TXT レコードを追加するには、[[任意の DNS ホスティング プロバイダー で DNS レコードを作成](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)]の手順に従います。
 

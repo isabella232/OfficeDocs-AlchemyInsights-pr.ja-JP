@@ -21,7 +21,7 @@ ms.locfileid: "44496100"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Microsoft 365 Apps for business サブスクリプションのライセンスを購入する方法
 
-When assigning licenses to your users, you may find you have the need to buy additional licenses. To do this:
+ライセンスをユーザーに割り当てるときに、追加のライセンスを購入する必要があることに気づく場合があります。購入するには、次の手順を行います。
   
 1. 管理センターで、**[課金]** \> **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 

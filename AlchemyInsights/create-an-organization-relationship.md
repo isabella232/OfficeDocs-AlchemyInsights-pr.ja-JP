@@ -25,8 +25,8 @@ ms.locfileid: "44862286"
 3. **[組織の共有]** の下の **[新規作成]** をクリックします。
 4. 
             **[組織上の関係の新規作成]** の **[関係の名前]** ボックスに、組織上の関係のフレンドリ名を入力します。
-5. In the **Domains to share with** box, type the domain for the external Office 365 or Exchange on-premises organization you want to let see your calendars. If you need to enter more than one domain, separate the domain names with a comma. For example, contoso.com, service.contoso.com.
-6. Select the **Enable calendar free/busy information sharing** check box to turn on calendar sharing with the domains you listed. Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+5. **[共有するドメイン]** ボックスに、こちらの予定表を参照できるようにする外部の Office 365 または Exchange 社内組織のドメインを入力します。複数のドメインを入力する必要がある場合は、各ドメイン名をコンマで区切ります。たとえば、 contoso.com、service.contoso.com のようにします。
+6. **[予定表の空き時間情報の共有を有効にする]** チェック ボックスを選択して、指定したドメインとの予定表の共有をオンにします。予定表の空き時間情報の共有レベルと、予定表の空き時間情報を共有できるユーザーを設定します。  
 
 空き時間情報のアクセス レベルを設定するには、次のいずれかを選択します。
 

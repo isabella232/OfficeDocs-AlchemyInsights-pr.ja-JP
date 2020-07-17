@@ -27,9 +27,9 @@ Outlook での表示名を変更するには、次の手順を使用します。
 2. メール アカウントを選択し、[**変更**] を選択します。
 
     > [!NOTE]
-    > If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    > 表示名を変更するオプションが表示されない場合、Microsoft Exchange のメール アカウントを使用している可能性があります。その場合、管理者に連絡して表示名を変更する必要があります。「[ユーザー名とメール アドレスを変更する](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)」を参照してください。
   
-3. After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.
+3. 表示名を変更したら、[**OK**] をクリックして変更内容を保存します。変更が組織全体に反映されるまで数時間かかることがあります。
 
 詳細については、「[Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)」 (メールの受信者に表示される表示名を変更する) を参照してください。
   

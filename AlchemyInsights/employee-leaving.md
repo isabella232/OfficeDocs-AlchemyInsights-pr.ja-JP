@@ -32,4 +32,4 @@ ms.locfileid: "44507067"
 
 4. [**ユーザーによるサインインをブロックする**]\>[**変更の保存**] の順に選択します。
 
-**Note**: Sign-out for some apps might not be immediate. Follow up with more actions in this article: [Remove a former employee](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
+**注**: 一部のアプリに対するサインアウトは、直ちに適用されない可能性があります。「[Microsoft 365 から元従業員を削除する](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)」の記事にある他のアクションをフォローアップします。

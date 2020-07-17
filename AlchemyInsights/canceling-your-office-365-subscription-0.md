@@ -24,7 +24,7 @@ ms.locfileid: "44508273"
 
 ご利用いただきありがとうございました。
   
-Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page. In the **Settings & Actions** section, choose **Cancel subscription**.
+組織のデータに基づくと、現在のすべてのサブスクリプションのシートは 25 未満であると思われます。サブスクリプションをオンラインでキャンセルするには、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。
   
 **返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。** 
 

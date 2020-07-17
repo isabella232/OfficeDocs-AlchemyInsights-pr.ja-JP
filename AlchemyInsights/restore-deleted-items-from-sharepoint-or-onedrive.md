@@ -28,12 +28,12 @@ ms.locfileid: "44582528"
     
 4. **[復元]** をクリックします。 
     
-When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.
+SharePoint サイトからファイル、フォルダー、リスト、リスト アイテムが削除されると、それらは [ごみ箱] に移動し、このごみ箱から誰かが削除しない限りは 93 日間保持されます。このごみ箱 (サイトのごみ箱と呼ばれます) から削除すると、残りの期間、サイト コレクションのごみ箱に移動し、その後、完全に削除されます。削除されたサイトとサイト コレクションは、サイト コレクションのごみ箱に直接移動し、そこで 93 日間保持されます。
   
 [サイト コレクションのごみ箱からアイテムを復元する](https://go.microsoft.com/fwlink/?linkid=867800)(サイト コレクション管理者) 
   
 [削除済みサイト コレクションを復元する](https://go.microsoft.com/fwlink/?linkid=867660) (Microsoft 365 の全体管理者または SharePoint 管理者) 
   
-For sites that belong to a Microsoft 365 group, you need to restore the group to restore the site. See [Restore a deleted Microsoft 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin) 
+Microsoft 365 グループに属するサイトの場合、サイトを復元するにはグループを復元する必要があります。「[削除された Microsoft 365 グループを復元する](https://go.microsoft.com/fwlink/?linkid=867802)」をご覧ください (全体管理者) 
   
 

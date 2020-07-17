@@ -21,7 +21,7 @@ Intune で **条件付きアクセス** を使用するには、次の 3 つの�
 
 - **コンプライアンス ポリシー** を作成し ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows))、デバイスが準拠しているとみなされるために満たす必要がある設定を定義します。 たとえば、準拠していると見なされるには、デバイスには少なくとも 6 桁の暗証番号 (pin) が必要です。
 - **条件付きアクセス ポリシー**を作成し、どのリソースを保護し、リソースへのアクセスにはどのような条件が必要かを定義します。  [たとえば、](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) 企業のメールにアクセスするにはデバイスが準拠している必要があります。
-- Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users. This may require creating specific groups of users in Azure Active Directory.
+- **コンプライアンス ポリシー** と **条件付きアクセス ポリシー** の両方を確認することは、目的のユーザーのグループを対象としています。これには、Azure Active Directory のユーザーで特定のグループを作成することが必要な場合があります。
 
 **便利なリンク:**
 

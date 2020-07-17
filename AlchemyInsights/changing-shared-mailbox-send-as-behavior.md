@@ -21,7 +21,7 @@ ms.locfileid: "44507879"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>共有メールボックスの [送信の形式] 動作の変更
 
-By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.
+既定では、共有メールボックスから送信されたメッセージは、共有メールボックスの [送信済みアイテム] フォルダーには保存されません。代わりに、メッセージを送信したユーザーの [送信済みアイテム] フォルダーに保存されます。
   
 すべてのメンバーが送信済みの電子メールを表示できるようにする場合は、Microsoft 365 管理センターで、共有メールボックスの詳細を編集して、**[送信済みアイテム]** \> **[編集]** の順に選択します。
   

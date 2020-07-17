@@ -23,6 +23,6 @@ ms.locfileid: "44507735"
 ---
 # <a name="control-creation-of-microsoft-365-groups"></a>Microsoft 365 グループの作成を制御する
 
-By default, all users within the company are able to create groups. If needed, you are able to change this, and assign the right to create groups to a set of people within your company. Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).
+既定では、社内のすべてのユーザーがグループを作成できますが、必要に応じて、特定のユーザーにグループを作成する権限を割り当てるよう変更することができます。変更した場合は、Microsoft 365 のサービス (Outlook、Teams、Planner など) からのグループの作成に影響を与えることに注意してください。
   
 手順: [Microsoft 365 グループを作成できるユーザーを管理する](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

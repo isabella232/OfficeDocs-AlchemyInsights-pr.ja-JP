@@ -19,7 +19,7 @@ ms.locfileid: "44582240"
 ---
 # <a name="restore-a-deleted-site"></a>削除されたサイトを復元する
 
-When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site:
+管理者が SharePoint サイトを削除すると、サイト コレクションのごみ箱に入れられ、93 日間保管されてから完全に削除されます。サイトを復元するには、以下を参照してください。
   
 1. 新しい SharePoint Online 管理センター のリボンにある **[ごみ箱]** をクリックします。 
     
@@ -27,6 +27,6 @@ When an admin deletes a SharePoint site, it's placed in the site collection Recy
     
 3. **[削除したアイテムを復元]** をクリックします。
     
-To restore a deleted communication site, you can use the new SharePoint admin center. Otherwise, you need to use Microsoft PowerShell. To restore a site that belongs to a Microsoft 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.
+削除したコミュニケーション サイトを復元する場合は、新しい SharePoint 管理センターを使用できます。それ以外の場合は、Microsoft PowerShell を使用する必要があります。Microsoft 365 グループに属するサイトを復元する場合は、そのグループを Exchange 管理センターで復元する必要があります。グループは、削除後 30 日経過するまで復元可能です。
   
 
