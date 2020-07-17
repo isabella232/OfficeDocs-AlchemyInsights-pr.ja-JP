@@ -18,32 +18,32 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/05/2020
 ms.locfileid: "44581272"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="00a35-102">SharePoint サイトにグループを追加する</span><span class="sxs-lookup"><span data-stu-id="00a35-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="2eb0c-102">SharePoint サイトにグループを追加する</span><span class="sxs-lookup"><span data-stu-id="2eb0c-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="00a35-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Microsoft 365 group owners.</span><span class="sxs-lookup"><span data-stu-id="00a35-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Microsoft 365 group owners.</span></span> <span data-ttu-id="00a35-104">SharePoint sites and content can also be shared with Microsoft 365 groups, and with SharePoint groups.</span><span class="sxs-lookup"><span data-stu-id="00a35-104">SharePoint sites and content can also be shared with Microsoft 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="00a35-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span><span class="sxs-lookup"><span data-stu-id="00a35-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="00a35-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span><span class="sxs-lookup"><span data-stu-id="00a35-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="2eb0c-p101">一部の SharePoint チーム サイト (Microsoft Teams で作成されたサイトも含む) は Microsoft 365 グループ所有者によって管理されます。また SharePoint サイトとコンテンツは、Microsoft 365 グループおよび SharePoint グループと共有できます。SharePoint グループは、サイトとコンテンツに対して同じ一連のアクセス許可を持つユーザーのコレクションです。クラシック サイトの場合、一度に 1 人ずつアクセス許可を割り当てるのではなく、グループを使用して多数のユーザーに同じレベルのアクセス許可を適宜割り当てることをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-p101">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Microsoft 365 group owners. SharePoint sites and content can also be shared with Microsoft 365 groups, and with SharePoint groups. A SharePoint group is a collection of users who all have the same set of permissions to sites and content. For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="00a35-107">Microsoft 365 グループメンバーを管理する。</span><span class="sxs-lookup"><span data-stu-id="00a35-107">Manage Microsoft 365 group members:</span></span>
+<span data-ttu-id="2eb0c-107">Microsoft 365 グループメンバーを管理する。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-107">Manage Microsoft 365 group members:</span></span>
   
-1. <span data-ttu-id="00a35-108">[Microsoft 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。</span><span class="sxs-lookup"><span data-stu-id="00a35-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="2eb0c-108">[Microsoft 365 管理センターの [グループ] ページ](https://portal.office.com/adminportal/home#/groups)に移動します。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="00a35-109">Select a group to see its owners and members.</span><span class="sxs-lookup"><span data-stu-id="00a35-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="00a35-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span><span class="sxs-lookup"><span data-stu-id="00a35-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="2eb0c-p102">所有者とメンバーを確認するグループを選択します。メンバーを追加または削除する場合、**[所有者]** 行または **[メンバー]** 行の **[編集]** リンクをクリックします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-p102">Select a group to see its owners and members. To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="00a35-111">次のように Microsoft 365 グループとコミュニケーション サイトを共有します:</span><span class="sxs-lookup"><span data-stu-id="00a35-111">Share a communication site with a Microsoft 365 group:</span></span>
+<span data-ttu-id="2eb0c-111">次のように Microsoft 365 グループとコミュニケーション サイトを共有します:</span><span class="sxs-lookup"><span data-stu-id="2eb0c-111">Share a communication site with a Microsoft 365 group:</span></span>
   
-1. <span data-ttu-id="00a35-112">ブラウザーで対象サイトに移動し、右上にある **[サイトの共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="00a35-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="2eb0c-112">ブラウザーで対象サイトに移動し、右上にある **[サイトの共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="00a35-113">グループ名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。</span><span class="sxs-lookup"><span data-stu-id="00a35-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="2eb0c-113">グループ名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="00a35-114">次のようにクラシック サイトで使用する SharePoint グループを作成します:</span><span class="sxs-lookup"><span data-stu-id="00a35-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="2eb0c-114">次のようにクラシック サイトで使用する SharePoint グループを作成します:</span><span class="sxs-lookup"><span data-stu-id="2eb0c-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="00a35-115">ブラウザーで対象サイトに移動し、右上にある [設定] アイコンをクリックします。</span><span class="sxs-lookup"><span data-stu-id="00a35-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="2eb0c-115">ブラウザーで対象サイトに移動し、右上にある [設定] アイコンをクリックします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="00a35-116">**[サイトの設定]** をクリックし、**[ユーザーと権限]** で **[サイトの権限]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="00a35-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="2eb0c-116">**[サイトの設定]** をクリックし、**[ユーザーと権限]** で **[サイトの権限]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="00a35-117">[アクセス許可] タブで、**[グループの作成]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="00a35-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="2eb0c-117">[アクセス許可] タブで、**[グループの作成]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="2eb0c-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="00a35-118">従来のチーム サイトを新しい Microsoft 365 グループに接続する</span><span class="sxs-lookup"><span data-stu-id="00a35-118">Connect a classic team site to a new Microsoft 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="2eb0c-118">従来のチーム サイトを新しい Microsoft 365 グループに接続する</span><span class="sxs-lookup"><span data-stu-id="2eb0c-118">Connect a classic team site to a new Microsoft 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="00a35-119">SharePoint グループ操作の詳細情報</span><span class="sxs-lookup"><span data-stu-id="00a35-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="2eb0c-119">SharePoint グループ操作の詳細情報</span><span class="sxs-lookup"><span data-stu-id="2eb0c-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/11/2020
 ms.locfileid: "44708606"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a><span data-ttu-id="ca55b-102">SharePoint Online ユーザー プロファイルの同期</span><span class="sxs-lookup"><span data-stu-id="ca55b-102">SharePoint Online User Profile Synchronization</span></span>
+# <a name="sharepoint-online-user-profile-synchronization"></a><span data-ttu-id="034ad-102">SharePoint Online ユーザー プロファイルの同期</span><span class="sxs-lookup"><span data-stu-id="034ad-102">SharePoint Online User Profile Synchronization</span></span>
 
-<span data-ttu-id="ca55b-103">Microsoft SharePoint は、Active Directory 同期ジョブを使用して、ユーザーおよびグループの属性情報をユーザー プロファイル アプリケーション (UPA) にインポートします。</span><span class="sxs-lookup"><span data-stu-id="ca55b-103">Microsoft SharePoint uses the Active Directory synchronization job to import user and group attribute information into the User Profile Application (UPA).</span></span><span data-ttu-id="ca55b-104">詳細については、以下の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ca55b-104"> For more information, please see the article below.</span></span>
+<span data-ttu-id="034ad-103">Microsoft SharePoint は、Active Directory 同期ジョブを使用して、ユーザーおよびグループの属性情報をユーザー プロファイル アプリケーション (UPA) にインポートします。</span><span class="sxs-lookup"><span data-stu-id="034ad-103">Microsoft SharePoint uses the Active Directory synchronization job to import user and group attribute information into the User Profile Application (UPA).</span></span><span data-ttu-id="034ad-104">詳細については、以下の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="034ad-104"> For more information, please see the article below.</span></span>
 
-- [<span data-ttu-id="ca55b-105">SharePoint Online ユーザー プロファイルの同期</span><span class="sxs-lookup"><span data-stu-id="ca55b-105">SharePoint Online User Profile Synchronization</span></span>](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [<span data-ttu-id="034ad-105">SharePoint Online ユーザー プロファイルの同期</span><span class="sxs-lookup"><span data-stu-id="034ad-105">SharePoint Online User Profile Synchronization</span></span>](https://docs.microsoft.com/sharepoint/user-profile-sync)

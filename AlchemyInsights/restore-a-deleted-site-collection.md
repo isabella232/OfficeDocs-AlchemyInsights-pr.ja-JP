@@ -17,16 +17,16 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/05/2020
 ms.locfileid: "44582240"
 ---
-# <a name="restore-a-deleted-site"></a><span data-ttu-id="1e296-102">削除されたサイトを復元する</span><span class="sxs-lookup"><span data-stu-id="1e296-102">Restore a deleted site</span></span>
+# <a name="restore-a-deleted-site"></a><span data-ttu-id="10f71-102">削除されたサイトを復元する</span><span class="sxs-lookup"><span data-stu-id="10f71-102">Restore a deleted site</span></span>
 
-<span data-ttu-id="1e296-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span><span class="sxs-lookup"><span data-stu-id="1e296-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="1e296-104">To restore the site:</span><span class="sxs-lookup"><span data-stu-id="1e296-104">To restore the site:</span></span>
+<span data-ttu-id="10f71-p101">管理者が SharePoint サイトを削除すると、サイト コレクションのごみ箱に入れられ、93 日間保管されてから完全に削除されます。サイトを復元するには、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="10f71-p101">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site:</span></span>
   
-1. <span data-ttu-id="1e296-105">新しい SharePoint Online 管理センター のリボンにある **[ごみ箱]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1e296-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="10f71-105">新しい SharePoint Online 管理センター のリボンにある **[ごみ箱]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="10f71-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="1e296-106">復元するサイト コレクションの横にあるチェック ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="1e296-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="10f71-106">復元するサイト コレクションの横にあるチェック ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="10f71-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="1e296-107">**[削除したアイテムを復元]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="1e296-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="10f71-107">**[削除したアイテムを復元]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="10f71-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="1e296-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span><span class="sxs-lookup"><span data-stu-id="1e296-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="1e296-109">Otherwise, you need to use Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="1e296-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="1e296-110">To restore a site that belongs to a Microsoft 365 group, you need to restore the group in the Exchange admin center.</span><span class="sxs-lookup"><span data-stu-id="1e296-110">To restore a site that belongs to a Microsoft 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="1e296-111">Groups can be restored for 30 days after they're deleted.</span><span class="sxs-lookup"><span data-stu-id="1e296-111">Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="10f71-p102">削除したコミュニケーション サイトを復元する場合は、新しい SharePoint 管理センターを使用できます。それ以外の場合は、Microsoft PowerShell を使用する必要があります。Microsoft 365 グループに属するサイトを復元する場合は、そのグループを Exchange 管理センターで復元する必要があります。グループは、削除後 30 日経過するまで復元可能です。</span><span class="sxs-lookup"><span data-stu-id="10f71-p102">To restore a deleted communication site, you can use the new SharePoint admin center. Otherwise, you need to use Microsoft PowerShell. To restore a site that belongs to a Microsoft 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.</span></span>
   
 
