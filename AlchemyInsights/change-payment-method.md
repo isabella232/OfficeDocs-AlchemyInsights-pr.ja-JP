@@ -2,7 +2,7 @@
 title: 支払い方法を変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221950"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154523"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 
@@ -35,3 +35,5 @@ ms.locfileid: "44221950"
 7. 新しい支払い方法は、ドロップダウン リストで既に選択されています。 **[置換]** を選択します。
 
 詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+
+クレジットカードによる支払いから請求書への支払いに変更する方法については、[クレジットカードまたは銀行口座から請求書に変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)を参照してください。
