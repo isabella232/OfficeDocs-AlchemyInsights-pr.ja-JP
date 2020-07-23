@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 7bb3a74137fd6c08165a882923087aac750c6fe4
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182183"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205272"
 ---
 # <a name="edu-verification"></a>EDU検証
 
-組織の資格が承認されたかどうかを知らせるメールが届きます。
+多くの場合、学業資格申請は24〜48時間以内に処理されます。 一部のリクエストはさらなる審査を必要とし、処理に最大10営業日かかる場合があります。 審査が完了しますと、学校の資格ステータスが記載されたメールを送信します。
 
-DNS 検証が完了するまでに、最大48時間待機する必要がある場合もあります。 [後で確認する] をクリックして、後で戻って Office 365 ポータルにログインします。次に、[**[管理センター](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage)]、[設定**] の順にクリックし、[[ドメイン](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Domains)] をクリックして、ドメインのステータスエントリを確認します。
+**重要**ドメインに入る前に検証ウィザードを終了してしまったとしても、無料試用期間中いつでも[アカデミック検証ウィザードを再開](https://go.microsoft.com/fwlink/p/?linkid=2135255)できます。
 
-承認されている場合は、Microsoft 管理センターの[**[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)**]タブに移動して、サブスクリプションを購入できます。
+[ Microsoft 365管理センター](https://go.microsoft.com/fwlink/p/?linkid=2024339)にアクセスし、ドメインのステータスを確認します。 ホームページを下にスクロールして、[**お支払い**]カードを見つけます。 **お支払い**カードは、確認プロセスのステータス（承認済み、保留中、拒否、またはドメインの追加）を示します。
+
+リクエストが拒否された場合は、「[私の学校は対象外です。どうすればよいですか?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)」を参照してください。
