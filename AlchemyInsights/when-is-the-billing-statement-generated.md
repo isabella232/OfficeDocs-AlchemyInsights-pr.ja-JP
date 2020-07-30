@@ -2,8 +2,8 @@
 title: 請求明細書が生成されるタイミング
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510397"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431222"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>請求明細書が生成されるタイミング
 
-毎月、新しい請求明細書を Microsoft 365 管理センターで入手できることを知らせるメールが届きます。請求書は 2 ページあります。1 ページ目は請求書の概要であり、請求書に関する一般的な情報、注文、請求額、支払い方法、サポートへの連絡方法が記載されています。2 ページ目には、各サブスクリプションの請求アクティビティに関する詳細が記載されています。
+ステートメントの日付は、アカウントが作成された後の月の日付に設定されます。　　 たとえば、1月の20日にアカウントを作成した場合、ステートメントの日付は、以降の各月の21日に設定されます。
+
+アクティブな請求サイクル中に発生する追加料金は、翌月の請求書に含まれます。 各請求書の請求サイクルの開始日と終了日は、請求書の **課金の概要** の一覧に表示されています。　　　
+
+クレジットカードまたは銀行口座 (該当する場合)の支払い は、**請求日**後の日付で決済されます。
   
-課金の概念の詳細については、「[請求書を把握する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)」を参照してください。
+詳細については、[請求書を把握する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)を参照してください。
