@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43413719"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514979"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>コンプライアンスの一般的な問題と解決策
 
@@ -31,5 +31,7 @@ ms.locfileid: "43413719"
 - O365 での監査: [O365 で監査ログを検索](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)します。
 
 - データ損失防止 (DLP) : 詳細については、「[データ損失防止 (DLP) の概要](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)」を参照してください。
+ 
+- 秘密度ラベル: 詳しい手順については、「[秘密度ラベルとそのポリシーを作成し構成する](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)」を参照してください。
 
 **注:** コンプライアンスの問題に関するより具体的な回答をお求めの場合は、質問を簡潔にまとめ、発生しているエラーまたは使用している機能を含めてください。
