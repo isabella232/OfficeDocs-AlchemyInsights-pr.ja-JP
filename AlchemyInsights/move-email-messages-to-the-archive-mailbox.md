@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511045"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522776"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>アーカイブ メールボックスへのメールの移動
+
+下記の設定の自動チェックを実行する場合は、このページの上部にある [戻る <--] ボタンを選択し、メールをアーカイブメールボックスに移動できないユーザーのメールアドレスを入力します。
 
 1. **アーカイブ メールボックス** が有効であることを確認します。 有効でない場合は、[この項目](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) の手順に従いアーカイブ メールボックスを有効にします。
 

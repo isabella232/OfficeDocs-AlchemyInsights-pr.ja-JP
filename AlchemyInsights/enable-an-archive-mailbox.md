@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507031"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522740"
 ---
 # <a name="enable-an-archive-mailbox"></a>アーカイブ メールボックスの有効化
+
+自動チェックを実行してアーカイブメールボックスを設定できるようにする場合は、このページの上部にある [戻る <--] ボタンを選択し、そのアカウントのメールアドレスを入力します。
 
 Microsoft 365 のアーカイブ メールボックス (*オンライン アーカイブ*または*インプレース アーカイブ*とも呼ばれます) は、追加のメール ストレージをユーザーに提供します。 ユーザーは、アイテムをアーカイブ メールボックスに移動したり、コピーしたりできます。管理者は、アイテムを自動的にアーカイブ メールボックスに移動させることができる、アーカイブ ポリシーを作成できます。
   
