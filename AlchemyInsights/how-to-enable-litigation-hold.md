@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495818"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596752"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>メールボックスを訴訟ホールドの状態にする
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495818"
 
 - 1 人のユーザーに対して訴訟ホールドを有効にする場合は、[この手順を実行してください](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)。訴訟ホールドが有効になると、メールボックス内のすべてのコンテンツが保持されます。
 
-- 組織ですべてのメールボックスのコンテンツを保持する場合は、[組織全体の アイテム保持ポリシー](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)を使用します。組織全体のアイテム保持ポリシーの場合は、そのポリシーが新しいユーザーに自動的に割り当てられる点に注意してください。
+- 組織内のすべてのメールボックスのコンテンツを保持するか、他の種類の保持機能を作成するには、アイテム保持ポリシーまたはラベルを使用します。 組織全体のアイテム保持ポリシーでは、新しいユーザーは自動的にポリシーに割り当てられる点に注意してください。 詳細については、[「アイテム保持ポリシーと保持ラベルの詳細」](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) を参照してください。 
