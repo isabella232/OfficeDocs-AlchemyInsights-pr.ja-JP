@@ -12,13 +12,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 415990669bafb2262c558749b64385a91d159226
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493687"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596788"
 ---
-# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="b69cc-102">EWS 調整の設定の変更</span><span class="sxs-lookup"><span data-stu-id="b69cc-102">Changing EWS throttling settings</span></span>
+# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="64829-102">EWS 調整の設定の変更</span><span class="sxs-lookup"><span data-stu-id="64829-102">Changing EWS throttling settings</span></span>
 
-<span data-ttu-id="b69cc-103">移行中に EWS 調整ポリシーを変更できる自動テストを実行してください。</span><span class="sxs-lookup"><span data-stu-id="b69cc-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span>
+<span data-ttu-id="64829-103">移行中に EWS 調整ポリシーを変更できる自動テストを実行してください。</span><span class="sxs-lookup"><span data-stu-id="64829-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span>
+
+<span data-ttu-id="64829-104">EWS 調整ポリシーの変更は、次の移行の種類 (Microsoft ツールを使用) には影響しないことに注意してください： ハイブリッド、カットオーバー/ステージド (RPC/HTTP)、IMAP、G Suite、パブリック フォルダーまたは PST インポート サービス。</span><span class="sxs-lookup"><span data-stu-id="64829-104">Please note that EWS throttling policy changes have no effect on the following migration types (using Microsoft tools): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Public Folder or PST Import Service.</span></span>
