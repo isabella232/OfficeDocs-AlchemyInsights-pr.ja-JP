@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
+ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761531"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616831"
 ---
 # <a name="sync-a-users-profile-picture"></a>ユーザーのプロファイル画像を同期する
 
@@ -20,15 +20,22 @@ Microsoft 365 のプロフィール写真は Office.com ら追加または変更
 
 一般法人向け Microsoft 365 にプロフィール写真を追加するには
 
-- 使用する写真を見つけて、その写真を自分のコンピューターや OneDrive などのアクセスできる場所に保存します。
+1. 使用する写真を見つけて、その写真を自分のコンピューターや OneDrive などのアクセスできる場所に保存します。
 
-- 職場または学校アカウントで Microsoft 365 にサインインします ([office.com](https://www.office.com))。
+2. 職場または学校アカウントで Microsoft 365 にサインインします ([office.com](https://www.office.com))。
 
-- ページの右上隅にある、自分のイニシャルまたは個人アイコンが表示された円を選択します。
+3. ページの右上隅にある、自分のイニシャルまたは個人アイコンが表示された円を選択します。
 
-[アカウント] ウィンドウで、イニシャルまたは個人のアイコンを表示する円を選択します。 表示されるポップアップ ウィンドウで、写真を変更します。
+4. [アカウント] ウィンドウで、イニシャルまたは個人のアイコンを表示する円を選択します。 表示されるポップアップ ウィンドウで、写真を変更します。
 
-注: 既に画像をアップロードしている場合は、SharePoint または OneDrive のタイルをクリックして、その画像を再同期してください。
+**注**: 既に画像をアップロードしている場合は、SharePoint または OneDrive のタイルを選択して、その画像を再同期してください。
 
-詳細については、「[Microsoft 365 のプロフィール画像の同期に関する情報](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)」を参照してください。
+SharePoint のユーザー プロファイルの画像が他の Microsoft アプリケーションと異なる場合は、次の手順を実行する必要があります。
+
+1. プライベート (InPrivate/incognito) ブラウザー セッションを開きます。
+2. [https://www.office.com](https://www.office.com/) に移動します。
+3. SharePoint アイコンを選びます。
+4. ファイルが保存されているサイトまたはページ、あるいはユーザーがユーザー Web パーツに含まれているページに移動します。
+
+詳細については、「[Microsoft 365 のプロファイル画像の同期に関する情報](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)」を参照してください。
 
