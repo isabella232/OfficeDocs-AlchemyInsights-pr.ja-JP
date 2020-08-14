@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440572"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665467"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office アプリの更新プログラム チャネルを変更する
 
@@ -30,9 +30,9 @@ ms.locfileid: "45440572"
 1. [Microsoft ダウンロード センター](https://go.microsoft.com/fwlink/p/?LinkID=626065) から最新バージョンの Office 展開ツール (setup.exe) をダウンロードします。
 2. 切り替えるチャネルの名前を指定します。 詳細については、[「Office 展開ツールの構成オプション」](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element) を参照してください。
 3. 適切なチャネル名 (たとえば、update.xml) を指定する構成 XML ファイルを作成します。  
-    a.  <Configuration>  
-    b.  <Updates **Channel="Monthly"** />  
-    c.  </Configuration>
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
 4. 管理者特権のコマンド プロンプトから、setup.exe が置かれているフォルダーに切り替え、次のコマンドを実行します:  
     a.  setup.exe /configure update.xml
 5. Office アプリケーション (Excel など) を起動し、**[ファイル]** > **[アカウント]** の順に選択します。 [製品情報] セクションで、**[更新オプション]** > **[今すぐ更新]** の順に選択します。
