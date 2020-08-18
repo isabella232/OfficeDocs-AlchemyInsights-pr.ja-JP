@@ -1,7 +1,7 @@
 ---
 title: SharePoint のアクセス許可レベルを操作する
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705486"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786390"
 ---
 # <a name="working-with-sharepoint-permission-levels"></a>SharePoint のアクセス許可レベルを操作する
 

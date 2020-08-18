@@ -1,5 +1,5 @@
 ---
-title: SharePoint サイトを作成する
+title: SharePoint サイトで最新のページを作成および編集する
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,12 +11,12 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: 9cb0597c892d263a1757247e54ce260b6172e4ad
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
-ms.translationtype: HT
+ms.openlocfilehash: 725de4832982cdebbfab76610ced3bee8a24a574
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534815"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786102"
 ---
 # <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>SharePoint サイトで最新のページを作成および編集する
 
