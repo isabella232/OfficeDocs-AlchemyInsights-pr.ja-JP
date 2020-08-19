@@ -1,5 +1,5 @@
 ---
-title: SharePoint サイトでのファイルとフォルダーの共有に関するレポート
+title: SharePoint サイトのファイルとフォルダーの共有に関するレポート
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,7 +19,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/17/2020
 ms.locfileid: "46787218"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>SharePoint サイトでのファイルとフォルダーの共有に関するレポート
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>SharePoint サイトのファイルとフォルダーの共有に関するレポート
 
 特定の SharePoint サイトまたは OneDrive ライブラリのすべての一意のファイル、ユーザー、アクセス許可、リンクの詳細が記載された CSV ファイルを作成できます。 これにより、使用されている共有方法や、ファイルやフォルダーがゲストと共有されているかどうかを理解することができます。
 
