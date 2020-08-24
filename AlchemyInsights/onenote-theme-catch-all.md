@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563587"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852893"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>OneNote の一般的な問題と解決策
 
@@ -24,7 +24,7 @@ OneNote についてよく寄せられるトピックは次の通りです。
 
 - [同期の問題を解決する](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - OneNote の同期に関する最も一般的な問題の解決方法については、「[OneNote を同期できないときの問題を解決する](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)」の手順に従ってください。
 
-- [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) を使用する。**注**: 現在のところ、OneNote in Teams は商用テナントと教育機関テナントでは読み取り専用です。 編集するには、OneNote for the web または OneNote デスクトップ アプリを使用してください。
+- [Teams で OneNote](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) を使用する 
 
 - Teams で Class Notebook を設定する方法について不明な点がある場合は、「[Teams で OneNote Class Notebook を使用する](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440)」をご覧ください。
 

@@ -12,20 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556262"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844565"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>教育機関で会議記録を管理する
+
+**2020 年 8 月 20 日**以降、A1 (A1 Plus を含む) ライセンスを持つユーザーが Teams 会議の記録を開始すると、記録は 21 日間利用できます。
+
+会議を別の場所に保存する方法など、詳細については、「[Microsoft Teams 会議の記録を Stream にアップロードする](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording)」をご覧ください。
 
 教育機関の管理者は、学生と教師の安全性を確保するために、ポリシー パッケージの使用を検討することをお勧めします。 詳細については、以下を参照してください。
 
 - [Microsoft Teams のポリシー パッケージ](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)。  
     
-- [学生の安全を確保するために割り当てるべきポリシー](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)。
+- [学生の安全を保証するために割り当てるべきポリシー](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)。
 
 - [教師向けに割り当てるべきポリシー](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)。
 
