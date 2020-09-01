@@ -1,5 +1,5 @@
 ---
-title: 会議の作成
+title: Teams での会議のスケジュールを設定する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105352"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290060"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Teams での会議のスケジュールを設定する
 
-**重要**: 会議の作成に問題がある場合、または Teams で会議オプションが見つからない場合は、影響を受けるユーザーに [Exchange Online メールボックスのライセンスがあり、メールボックスが有効になっていることを確認してください](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)。
+**重要:** 会議の作成に問題がある場合、または Teams で会議オプションが見つからない場合は、影響を受けるユーザーに Microsoft Teams のサポートされているバージョンで Exchange メールボックスが有効になっていることを確認してください。 Exchange Online が推奨されていますが、Exchange オンプレミス メールボックスは、Exchange Server 2016 CU3 以降でサポートされており、OAuth がオンラインとオンプレミスの間で正常に構成されています。 詳細については、「[Exchange Online でユーザー メールボックスを作成する](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)」および「[オンプレミスでホストされているメールボックスの要件](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)」を参照してください。 
 
-会議のスケジュールの設定には、次の 2 つの方法があります。 
+1. 会議をスケジュールするには、次のように選択します:
 
-- チャットに参加しているユーザーとの会議を予約するには、作成ボックスの下にあるチャットの [**会議のスケジュールの設定**] アイコンを選択します。
-- アプリの左側にある [**予定表**] アイコンを選択し、右上にある [**新しい会議**] を選択します。または予定表で時間の範囲を選択して、スケジュール フォームを開きます。
+    - チャットに参加しているユーザーとの会議を予約するには、作成ボックスの下にあるチャットの **[会議のスケジュールの設定]** アイコンを選択します。
 
-Outlook で会議のスケジュールを設定する場合と同様に、会議にタイトルを付け、ユーザーを招待し、会議の詳細を追加します。
+    - アプリの左側にある **[予定表]** アイコンを選択します。 右上にある **[新しい会議]** を選択します。または予定表で時間の範囲を選択して、スケジュール フォームを開きます。
 
-スケジュールフォームの右側にチャネルや個々のユーザーを追加できます。また、空白のままにしてプライベートな予定を設定することもできます。
+2. Outlook で会議のスケジュールを設定する場合と同様に、会議にタイトルを付け、ユーザーを招待し、会議の詳細を追加します。
 
-- Microsoft Teams で会議を作成および会議のスケジュールを設定する方法の詳細については 「[Teams で会議のスケジュールを設定する](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)」 を参照してください。
+3. スケジュールフォームの右側にチャネルや個々のユーザーを追加できます。また、空白のままにしてプライベートな予定を設定することもできます。
 
-- 会議の制限と仕様については、「[Microsoft Teams の制限事項と仕様](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)」を参照してください。
+Microsoft Teams で会議を作成および会議のスケジュールを設定する方法の詳細については 「[Teams で会議のスケジュールを設定する](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)」 を参照してください。
+
+会議の制限と仕様の詳細については、「[Microsoft Teams の制限事項と仕様](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)」を参照してください。
+
+Teams と Exchange のやり取りのトラブルシューティング、特に委任スケジュールの問題については、「[Microsoft Teams と Exchange Server のやり取りの問題のトラブルシューティング](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)」を参照してください。

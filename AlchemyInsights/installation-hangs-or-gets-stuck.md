@@ -12,12 +12,12 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 272f4d7ccaeb09b241ba1647996d456f6f159576
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763268"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300716"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>Office のインストールが応答を停止するか、処理を停止する
 
@@ -35,5 +35,5 @@ ms.locfileid: "43763268"
 
 - Office を削除して再インストールする
 
-[Office のインストールに時間がかかる](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office のインストールに時間がかかります](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737457"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289988"
 ---
 # <a name="using-teams-shifts"></a>Teams シフトの使用
 
-Teams 用のシフトの詳細については、Microsoft Staffhub からの移行方法を含め、「[Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)」を参照してください。 
+シフトの設定方法、ユーザーのシフトの有効化方法、シフト アプリの管理方法など、シフト アプリの管理については、次を参照してください:
+ 
+- [Microsoft Teams で組織のシフト アプリを管理する](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)。
+- [組織内の特定のユーザーのシフトを有効または無効にする](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)。
 
-Microsoft StaffHub は、2019 年 12 月 31 日に[廃止](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)されます。 
+シフト スケジュールの管理など、Teams のシフトの詳細については、「[Teams のシフト](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)」を参照してください。
+
+**2020 年 6 月 30 日をもって**、Microsoft Staffhub は廃止されました。 詳細については、「[Microsoft StaffHub は廃止されました](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)」を参照してください。
 
