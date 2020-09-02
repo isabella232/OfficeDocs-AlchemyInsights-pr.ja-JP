@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005443"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316204"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Microsoft Teams のプライベート チャネル
 
-プライベート チャネルは、Microsoft Teams の新機能です。 プライベート チャネルは、標準チャネルから変換することも、その逆にすることもできません。
+Microsoft Teams のプライベート チャネルは、チーム内でのコラボレーションのための集中スペースを作成します。 プライベート チャネルの所有者またはメンバーであるチームのユーザーのみがチャネルにアクセスできます。 既にチームのメンバーである限り、ゲストを含む全てのユーザーをプライベート チャネルのメンバーとして追加できます。
 
-[プライベート チャネルの作成とメンバーシップ](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)、[プライベート チャネル SharePoint サイト](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)などのプライベート チャネルの詳細については、「[Microsoft Teams のプライベート チャネル](https://docs.microsoft.com/MicrosoftTeams/private-channels)」を参照してください。 
-
-**注:** プライベート チャネル メッセージの保持の構成はまだサポートされていないため、保持ポリシーが有効になっているテナントでは、既定でプライベート チャネルが有効になりません。 プライベート チャネルは、Teams 管理センターで有効にすることができます。 また、プライベート チャネル メッセージの保持はサポートされていませんが、プライベート チャネルで共有されているファイルの保持はサポートされます。
+詳しくは、「[Microsoft Teams のプライベート チャネル](https://docs.microsoft.com/MicrosoftTeams/private-channels)」から始めてください。 これには、「[プライベート チャネルの作成とメンバーシップ](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership)」、「[プライベート チャネル SharePoint サイト](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)」などの情報が含まれます。
 
 **新しいチーム所有者が必要ですか?**
 
-プライベート チャネルの所有者が退職した場合は、Teams Powershell を使用して新しいチーム所有者を追加することができます。
+プライベート チャネルの所有者が組織を脱退した場合、またはグループから削除された場合、プライベート チャネルのメンバーの 1 人が自動的にプライベート チャネルの所有者に昇格します。
 
-
-- [ここに](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6)移動して、Teams Powershell をインストールします。
-
-必要なコマンドレットを以下に示します。
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Teams Powershell の詳細については、「[Teams での PowerShell の概要](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)」を参照してください。
+管理者は、「[Microsoft Teams でのプライベート チャネルのライフサイクルの管理](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management)」を参照して、プライベート チャネルを作成できるユーザーを管理するポリシーの詳細や、電子情報開示または法的事項のためのクエリの作成を支援する方法についても確認できます。
