@@ -2,7 +2,7 @@
 title: 支払回数を変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939660"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364592"
 ---
 # <a name="change-how-often-you-pay"></a>支払回数を変更する
 
-課金とサブスクリプションの支払いの頻度を変更するには、Microsoft 365 管理センターで次の手順を実行します。 
-1. **[支払い]、[[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。
-2. 変更するサブスクリプションを見つけます。 **[課金情報]** セクションで、**[月単位で課金]** または **[年単位で課金]** の横にある **[編集]** をクリックします。 
-3. 課金頻度のオプションを選択し、**[変更]** をクリックします。
+課金とサブスクリプションの支払いの頻度を変更するには、Microsoft 365 管理センターで次の手順を実行します。
+
+1. **[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
+2. **[製品]** タブで、変更するサブスクリプションを選択します。 
+3. サブスクリプションの詳細ページの **[サブスクリプションと支払い設定]** セクションで、**[請求頻度の編集]** を選択します。
+4. **[請求頻度の編集]** ウィンドウで、請求する頻度のオプションを選択し、**[変更]** を選択します。
 
 **注**: 月単位または年単位の課金のみが可能です。
 
-詳細については、「[支払い頻度を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)」を参照してください。
+詳細については、「[請求頻度を変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)」を参照してください。

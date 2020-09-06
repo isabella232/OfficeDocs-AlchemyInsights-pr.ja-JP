@@ -2,7 +2,7 @@
 title: 一般法人向け Microsoft 365 のサブスクリプションが終了したとき、データとアクセスはどうなりますか?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: faef7409f3ba348de4cb6d16d81c99b55e871b44
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c0b969161acaf1dd815b36b94cf07704e5a87d4c
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511693"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364700"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>一般法人向け Microsoft 365 のサブスクリプションが終了したとき、データとアクセスはどうなりますか?
 
@@ -26,6 +26,6 @@ ms.locfileid: "44511693"
   
 サブスクリプションが実際に有効期限に達する前に、ユーザーには**サブスクリプションの継続請求を管理する**ための選択肢がいくつかあります。
   
-- **継続請求**が既に有効になっている場合は、いかなる手続きも必要ありません。サブスクリプションは**継続請求**日に課金され、現在の支払回数に応じて、追加された年分または月分の料金が課せられます。何らかの理由で**継続請求**を無効にした場合は、いつでも[継続請求](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)を有効にすることができます。
+- **継続請求**が既に有効になっている場合は、いかなる手続きも必要ありません。サブスクリプションは**継続請求**日に課金され、現在の支払回数に応じて、追加された年分または月分の料金が請求されます。何らかの理由で**継続請求**を無効にした場合は、いつでも[継続請求](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)を有効に戻すことができます。
 
 - 1 年間のプリペイド サブスクリプションを利用するオープン ボリューム ライセンス ユーザーの場合は、パートナーに連絡して、新しいプロダクト キーを購入してください。[ボリューム ライセンス サービス センター](https://go.microsoft.com/fwlink/p/?LinkID=282016)でキーをアクティブ化する手順をメールで受け取ります。新しいパートナーまたは以前のパートナーを見つける方法の詳細については、「[Microsoft 365 パートナーまたはリセラーを見つける](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)」を参照してください。
