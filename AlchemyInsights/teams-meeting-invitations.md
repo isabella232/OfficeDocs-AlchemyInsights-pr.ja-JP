@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43559089"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406511"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="9f7b6-102">Teams 会議への招待状</span><span class="sxs-lookup"><span data-stu-id="9f7b6-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="018c4-102">Teams 会議への招待状</span><span class="sxs-lookup"><span data-stu-id="018c4-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="9f7b6-103">[Teams 会議への招待状の作成](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)方法を知りたい場合</span><span class="sxs-lookup"><span data-stu-id="9f7b6-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="018c4-103">組織の Teams 会議出席依頼のカスタマイズについてサポートが必要ですか?</span><span class="sxs-lookup"><span data-stu-id="018c4-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="018c4-104">「[会議出席依頼をカスタマイズする](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)」を確認するようにしてください。</span><span class="sxs-lookup"><span data-stu-id="018c4-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="9f7b6-104">現在、Teams 会議への招待状を**カスタマイズすることはできません**。</span><span class="sxs-lookup"><span data-stu-id="9f7b6-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="9f7b6-105">この問題をロードマップに追加するには、[Teams UserVoice ](https://microsoftteams.uservoice.com/)に投票してください。</span><span class="sxs-lookup"><span data-stu-id="9f7b6-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="018c4-105">詳細については、「 [Microsoft Teams で会議の設定を管理する](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="018c4-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
