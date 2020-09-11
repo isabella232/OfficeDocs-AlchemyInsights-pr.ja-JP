@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42948820"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406403"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Teams ミーティングの計画、展開、管理
 
-次の手順に従って、組織で Microsoft Teams ミーティングを設定して使用します。 
+- Microsoft Teams Rooms を[計画する](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan)。 これには、[ライセンスの更新](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing)、[ハードウェア要件、サポートされているMicrosoft Teams Roomシステム](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements)が含まれます。
+- Microsoft Teams Rooms [のアカウントを構成する](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts)。
+- Teams 管理センターを使用して[デバイスを管理](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)し (Teams サービス管理者またはグローバル管理者の役割が必要)、[既知の問題のリスト](https://docs.microsoft.com/microsoftteams/rooms/known-issues)を確認します。
 
-- [環境を計画し、要件を確認します](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan)。
-
-- [アカウントを構成し、環境に展開します](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy)。
-
-- [管理、トラブルシューティング](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting)を行い、[既知の問題](https://docs.microsoft.com/microsoftteams/rooms/known-issues)を認識します。 
-
-詳細については、「[Microsoft Teams ミーティング](https://docs.microsoft.com/microsoftteams/rooms/)」を参照してください。
+Microsoft Teams Room の計画、展開、および管理の詳細については、[Microsoft Teams Room](https://docs.microsoft.com/microsoftteams/rooms/) を参照してください。
