@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
-ms.translationtype: HT
+ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697634"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory が同期しない
 
