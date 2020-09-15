@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509605"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662213"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint および OneDrive 監査ログ
 

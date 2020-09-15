@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
-ms.translationtype: HT
+ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559486"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653446"
 ---
 # <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApp または Microsoft Flow のサポート依頼を送信する
 

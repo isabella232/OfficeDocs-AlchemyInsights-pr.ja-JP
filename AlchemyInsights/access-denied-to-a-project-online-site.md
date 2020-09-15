@@ -5,18 +5,19 @@ author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050566"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663662"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Project Online でユーザーにアクセスを許可する
 

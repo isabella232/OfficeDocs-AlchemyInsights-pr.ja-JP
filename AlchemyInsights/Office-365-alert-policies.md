@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502432"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664031"
 ---
 # <a name="alert-policies"></a>アラート ポリシー
 

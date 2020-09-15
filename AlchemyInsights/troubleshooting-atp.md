@@ -6,16 +6,17 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658919"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection のトラブルシューティング
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: cfcf7c57cd6e908040cb8865b6929c243f74b063
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
-ms.translationtype: HT
+ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37973188"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657497"
 ---
 # <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>"Word で作業ファイルを作成できませんでした" というエラー メッセージを解決する
 

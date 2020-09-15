@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 3d068a3be12828022cf58a71d114dbabe0978547
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 04f745987f9136412d3b0183520681d1e724faba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662546"
 ---
 # <a name="read-receipts"></a>開封確認
 

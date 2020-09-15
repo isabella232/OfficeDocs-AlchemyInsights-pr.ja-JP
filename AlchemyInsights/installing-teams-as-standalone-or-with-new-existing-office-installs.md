@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 4ccc8a56528b0ca6eb69ccd4b2a9685b9c255c21
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
-ms.translationtype: HT
+ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618174"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663086"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teams をスタンドアロンとして、または新規や既存の Office インストールでの展開
 

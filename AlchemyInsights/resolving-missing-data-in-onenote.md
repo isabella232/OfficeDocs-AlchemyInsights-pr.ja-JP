@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
-ms.translationtype: HT
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35810593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662321"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>OneNote で不足しているデータを解決する
 

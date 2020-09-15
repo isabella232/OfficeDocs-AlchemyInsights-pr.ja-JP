@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 870bf718028832ee36ca1382eb1ac3a05c494f71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43733455"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665147"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune に関する問題のトラブルシューティング
 

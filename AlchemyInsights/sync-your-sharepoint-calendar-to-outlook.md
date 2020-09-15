@@ -6,18 +6,19 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912863"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659171"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>カレンダーとデバイスの同期に関する問題
 

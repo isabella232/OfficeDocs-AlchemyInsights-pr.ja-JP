@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: c5ac824e138332c596399132a8845cf17a652e44
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726181"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653518"
 ---
 # <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Minimal Hybrid を使用して Microsoft 365 に移行する
 
