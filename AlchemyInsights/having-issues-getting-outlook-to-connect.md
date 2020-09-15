@@ -1,19 +1,20 @@
 ---
 title: Outlook の接続に問題がある場合
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 16e16be8ded889347ae4be286edef239fb9283fa
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: b2c9bb76dd19c7e96019f52e1d7201d2ab96601e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499012"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705556"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Outlook の接続に問題がある場合
 
