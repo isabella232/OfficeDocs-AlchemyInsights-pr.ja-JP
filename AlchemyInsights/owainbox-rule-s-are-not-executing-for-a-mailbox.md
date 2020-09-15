@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 9abdcdcb33d39b8b9fe2df80f0c15a8b55e465fd
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: f4d8db9c590abc490f193ef54a8a1dc5afba82b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576565"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721596"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>受信トレイのルールが期待どおりに機能しません
 
