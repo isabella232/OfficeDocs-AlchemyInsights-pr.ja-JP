@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 1648a9287a8ce5464ea8396f2499592bf10d9089
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 699fe660bb1d103b3ae5181ddb2265991c1a691c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736760"
 ---
-# <a name="teams-ediscovery"></a><span data-ttu-id="32583-102">Teams 電子情報開示</span><span class="sxs-lookup"><span data-stu-id="32583-102">Teams eDiscovery</span></span>
+# <a name="teams-ediscovery"></a><span data-ttu-id="66324-102">Teams 電子情報開示</span><span class="sxs-lookup"><span data-stu-id="66324-102">Teams eDiscovery</span></span>
 
-<span data-ttu-id="32583-103">Teams 電子情報開示の詳細については、[こちら](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="32583-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
+<span data-ttu-id="66324-103">Teams 電子情報開示の詳細については、[こちら](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="66324-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
