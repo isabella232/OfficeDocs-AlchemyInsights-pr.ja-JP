@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698831"
 ---
-# <a name="word-crashes-or-doesnt-respond"></a><span data-ttu-id="b1394-102">Word がクラッシュする、または応答しない</span><span class="sxs-lookup"><span data-stu-id="b1394-102">Word crashes or doesn't respond</span></span>
+# <a name="word-crashes-or-doesnt-respond"></a><span data-ttu-id="c0493-102">Word がクラッシュする、または応答しない</span><span class="sxs-lookup"><span data-stu-id="c0493-102">Word crashes or doesn't respond</span></span>
 
-<span data-ttu-id="b1394-103">Word が頻繁にクラッシュする場合は、アドインの欠陥が原因である可能性があります。</span><span class="sxs-lookup"><span data-stu-id="b1394-103">Frequent crashes in Word can be caused by a faulty add-in.</span></span> <span data-ttu-id="b1394-104">次の手順を実行すると、Word アドインを無効にできます。</span><span class="sxs-lookup"><span data-stu-id="b1394-104">You can disable Word add-ins by following these instructions:</span></span>
+<span data-ttu-id="c0493-103">Word が頻繁にクラッシュする場合は、アドインの欠陥が原因である可能性があります。</span><span class="sxs-lookup"><span data-stu-id="c0493-103">Frequent crashes in Word can be caused by a faulty add-in.</span></span> <span data-ttu-id="c0493-104">次の手順を実行すると、Word アドインを無効にできます。</span><span class="sxs-lookup"><span data-stu-id="c0493-104">You can disable Word add-ins by following these instructions:</span></span>
 
-1. <span data-ttu-id="b1394-105">**[ファイル]** > **[オプション]** > **[アドイン]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="b1394-105">Go to **File** > **Options** > **Add-ins**.</span></span>
-2. <span data-ttu-id="b1394-106">**[管理]** リストで、**[COM アドイン]** を選択し、**[移動]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b1394-106">In the **Manage** list, select **COM Add-ins**, and then choose **Go**.</span></span>
-3. <span data-ttu-id="b1394-107">**[使用できるアドイン]** ボックスで、無効にするアドインの横にあるチェック ボックスをオフにして、**[OK]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b1394-107">In the **Add-Ins available** box, clear the check box next to the add-in that you want to disable, and choose **OK**.</span></span>
+1. <span data-ttu-id="c0493-105">**[ファイル]** > **[オプション]** > **[アドイン]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="c0493-105">Go to **File** > **Options** > **Add-ins**.</span></span>
+2. <span data-ttu-id="c0493-106">**[管理]** リストで、**[COM アドイン]** を選択し、**[移動]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c0493-106">In the **Manage** list, select **COM Add-ins**, and then choose **Go**.</span></span>
+3. <span data-ttu-id="c0493-107">**[使用できるアドイン]** ボックスで、無効にするアドインの横にあるチェック ボックスをオフにして、**[OK]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c0493-107">In the **Add-Ins available** box, clear the check box next to the add-in that you want to disable, and choose **OK**.</span></span>
 
-<span data-ttu-id="b1394-108">Word が起動しない場合は、次の操作を行います。</span><span class="sxs-lookup"><span data-stu-id="b1394-108">If Word doesn't start, try the following:</span></span>
+<span data-ttu-id="c0493-108">Word が起動しない場合は、次の操作を行います。</span><span class="sxs-lookup"><span data-stu-id="c0493-108">If Word doesn't start, try the following:</span></span>
 
-1.   <span data-ttu-id="b1394-109">Windows デスクトップで Outlook を終了し、CTRL + ALT + DEL キーを同時に押して、タスク マネージャーを開きます。</span><span class="sxs-lookup"><span data-stu-id="b1394-109">On a Windows desktop, close Outlook and press CTRL+ALT+DEL to open Task Manager.</span></span> 
-2. <span data-ttu-id="b1394-110">**[プロセス]** タブで Word のプロセスが実行されている場合は、それらを選択し、[**タスクの終了**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="b1394-110">On the **Processes** tab, if Word processes are running, select them and choose **End Task**.</span></span> <span data-ttu-id="b1394-111">また、メモリを完全にクリアするために再起動することが推奨されています。</span><span class="sxs-lookup"><span data-stu-id="b1394-111">It is also recommend that you reboot to clear everything from memory.</span></span>
+1.   <span data-ttu-id="c0493-109">Windows デスクトップで Outlook を終了し、CTRL + ALT + DEL キーを同時に押して、タスク マネージャーを開きます。</span><span class="sxs-lookup"><span data-stu-id="c0493-109">On a Windows desktop, close Outlook and press CTRL+ALT+DEL to open Task Manager.</span></span> 
+2. <span data-ttu-id="c0493-110">**[プロセス]** タブで Word のプロセスが実行されている場合は、それらを選択し、[**タスクの終了**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c0493-110">On the **Processes** tab, if Word processes are running, select them and choose **End Task**.</span></span> <span data-ttu-id="c0493-111">また、メモリを完全にクリアするために再起動することが推奨されています。</span><span class="sxs-lookup"><span data-stu-id="c0493-111">It is also recommend that you reboot to clear everything from memory.</span></span>
 
-    <span data-ttu-id="b1394-112">Word の起動中に引き続きクラッシュまたはハングする場合は、セーフ モードで起動するために「[Windows PC 上の Microsoft 365 アプリをセーフ モードで開く](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b1394-112">If Word continues to crash or hang during launch, see [Open Microsoft 365 apps in safe mode on a Windows PC](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) to launch it in Safe mode.</span></span>
+    <span data-ttu-id="c0493-112">Word の起動中に引き続きクラッシュまたはハングする場合は、セーフ モードで起動するために「[Windows PC 上の Microsoft 365 アプリをセーフ モードで開く](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c0493-112">If Word continues to crash or hang during launch, see [Open Microsoft 365 apps in safe mode on a Windows PC](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) to launch it in Safe mode.</span></span>
 
-<span data-ttu-id="b1394-113">それでも問題が発生する場合は、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b1394-113">If you're still having problems, see the following articles:</span></span> 
-- [<span data-ttu-id="b1394-114">PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される</span><span class="sxs-lookup"><span data-stu-id="b1394-114">I get a "stopped working" error when I start Office applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [<span data-ttu-id="b1394-115">最近の Word for Windows の問題に関する修正プログラムと解決策</span><span class="sxs-lookup"><span data-stu-id="b1394-115">Fixes or workarounds for recent issues in Word for Windows</span></span>](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+<span data-ttu-id="c0493-113">それでも問題が発生する場合は、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c0493-113">If you're still having problems, see the following articles:</span></span> 
+- [<span data-ttu-id="c0493-114">PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される</span><span class="sxs-lookup"><span data-stu-id="c0493-114">I get a "stopped working" error when I start Office applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [<span data-ttu-id="c0493-115">最近の Word for Windows の問題に関する修正プログラムと解決策</span><span class="sxs-lookup"><span data-stu-id="c0493-115">Fixes or workarounds for recent issues in Word for Windows</span></span>](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
