@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: 51128c9787a445895398c2ce9b56d87a8a81c51d
-ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
+ms.openlocfilehash: 732cc3f098edf13bdac12fa66927ec19ac5c49c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44282103"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710416"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>OneNote ノートブックを Teams で編集する
 
