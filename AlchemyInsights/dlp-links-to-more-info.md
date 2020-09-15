@@ -5,18 +5,18 @@ author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507555"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679734"
 ---
 # <a name="information-about-dlp-issues"></a>DLP 問題に関する情報
 

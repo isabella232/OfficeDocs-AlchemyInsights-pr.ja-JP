@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: cba1d562a55b4acb7172419ef4b30b5d0c147698
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474520"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679905"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint のルート サイトを削除する
 

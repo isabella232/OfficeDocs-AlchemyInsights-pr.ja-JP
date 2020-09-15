@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002907"
 - "5594"
-ms.openlocfilehash: a18dff401c1bef023fb849e1a1d505c6d574f423
-ms.sourcegitcommit: b7a580178dc38852323dd77cf4dfc833b923d62b
+ms.openlocfilehash: cbed5a3173ac41820fe183d0347eccd9828db79f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182193"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679842"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>ユーザーが悪意のあるメールを受信した場合
 
