@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504448"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697886"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="2373b-102">デバイス ベースのライセンスを使用して Office をライセンス認証する</span><span class="sxs-lookup"><span data-stu-id="2373b-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="1f675-102">デバイス ベースのライセンスを使用して Office をライセンス認証する</span><span class="sxs-lookup"><span data-stu-id="1f675-102">Activating Office using device-based licensing</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="2373b-103">米国の教育機関のお客様向けの Office [デバイス ベース ライセンス認証](https://aka.ms/officedba) は、廃止されました。</span><span class="sxs-lookup"><span data-stu-id="2373b-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="2373b-104">教育機関のお客様の新しい Microsoft 365 Apps for Education (デバイス) ライセンスの計画をお勧めしています。</span><span class="sxs-lookup"><span data-stu-id="2373b-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
+> <span data-ttu-id="1f675-103">米国の教育機関のお客様向けの Office [デバイス ベース ライセンス認証](https://aka.ms/officedba) は、廃止されました。</span><span class="sxs-lookup"><span data-stu-id="1f675-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="1f675-104">教育機関のお客様の新しい Microsoft 365 Apps for Education (デバイス) ライセンスの計画をお勧めしています。</span><span class="sxs-lookup"><span data-stu-id="1f675-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
 
-<span data-ttu-id="2373b-105">デバイス ベースのライセンス認証を使用して Office をライセンス認証するには、教育関係のお客様のみが教育ソリューション加入契約 (EES) を介してのみ利用可能な、教育機関向けの Microsoft 365 Apps for Education (デバイス) アドオン ライセンスが必要です。</span><span class="sxs-lookup"><span data-stu-id="2373b-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="2373b-106">「[Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証の使用に関する要件](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="2373b-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+<span data-ttu-id="1f675-105">デバイス ベースのライセンス認証を使用して Office をライセンス認証するには、教育関係のお客様のみが教育ソリューション加入契約 (EES) を介してのみ利用可能な、教育機関向けの Microsoft 365 Apps for Education (デバイス) アドオン ライセンスが必要です。</span><span class="sxs-lookup"><span data-stu-id="1f675-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="1f675-106">「[Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証の使用に関する要件](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="1f675-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
 
 
-<span data-ttu-id="2373b-107">セットアップの詳細については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2373b-107">For detailed information on setup, see:</span></span>
+<span data-ttu-id="1f675-107">セットアップの詳細については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1f675-107">For detailed information on setup, see:</span></span>
 
-- [<span data-ttu-id="2373b-108">Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証を構成する手順</span><span class="sxs-lookup"><span data-stu-id="2373b-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="2373b-109">デバイスのライセンスを管理する</span><span class="sxs-lookup"><span data-stu-id="2373b-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
+- [<span data-ttu-id="1f675-108">Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証を構成する手順</span><span class="sxs-lookup"><span data-stu-id="1f675-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="1f675-109">デバイスのライセンスを管理する</span><span class="sxs-lookup"><span data-stu-id="1f675-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-<span data-ttu-id="2373b-110">トラブルシューティング ガイダンスについては、「[Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証に関するトラブルシューティング](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2373b-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+<span data-ttu-id="1f675-110">トラブルシューティング ガイダンスについては、「[Microsoft 365 Apps for enterprise のデバイスベース ライセンス認証に関するトラブルシューティング](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1f675-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
