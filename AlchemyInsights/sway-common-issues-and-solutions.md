@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: 52060714b1206918f175178709009e7b073953a6
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 80189dc84f3d2dd826c3cbfe69c6b556cf6cfcf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182184"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700532"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Sway の一般的な問題と解決策
 

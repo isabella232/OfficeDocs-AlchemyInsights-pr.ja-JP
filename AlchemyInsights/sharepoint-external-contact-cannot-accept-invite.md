@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 6f69b57b63e2f1abaa22ef496c2969d45b968802
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 892e06498cea60851f9771e646a6e6dfbec6abdc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40043976"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700604"
 ---
 # <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>外部連絡先は、SharePoint 招待を承諾することができない
 
