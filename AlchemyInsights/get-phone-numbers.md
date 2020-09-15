@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 84dc3cb525ef9695d8cd7caa6007d21dcf663b4e
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: a7b8c6eb170c809b616abf63e2bf3fcd56ebee25
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282045"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707356"
 ---
 # <a name="get-phone-numbers"></a>電話番号のポート
 

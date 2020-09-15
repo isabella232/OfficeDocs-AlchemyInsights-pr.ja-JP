@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 458806ee36efdcab64d7544f0d3b7a7e7d753ee9
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
-ms.translationtype: HT
+ms.openlocfilehash: a98c3bc0290adb64a8f9ce18e2358f2f9386781e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063442"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708652"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>一般法人向け Microsoft 365 の試用期間を延長する
 

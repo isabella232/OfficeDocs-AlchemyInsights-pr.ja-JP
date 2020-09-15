@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: ed88ce1ce99afe0c9ab8ebac7eb0ff8b7e53ea25
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086857"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707644"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Microsoft Bookings へのアクセス
 

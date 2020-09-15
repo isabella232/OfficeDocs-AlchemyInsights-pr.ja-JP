@@ -6,16 +6,17 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: 733b70f50991ba8d73c566e04521aec0d78889b7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: bc0ffa7f014e3a329deb8b56ca73148922c18d72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703395"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709660"
 ---
 # <a name="pop-and-imap4-settings"></a>POP および IMAP4 の設定
 

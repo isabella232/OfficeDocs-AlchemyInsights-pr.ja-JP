@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: 923ac0d0be5d2978a107ce6ce71ab9915a7253d7
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 7abc416b8d4322ed6fdcde9e1943c625f3833363
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282046"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708760"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Excel を使用したデータのエクスポートとインポート
 
