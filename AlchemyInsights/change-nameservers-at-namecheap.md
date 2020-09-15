@@ -6,21 +6,22 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5865"
 - "14"
-ms.openlocfilehash: 39bf44303ae7d659d545363d5ebf396b1ff330a2
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 550cd3a9ec8b6e9f647a423ed35e2a249847a308
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749249"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682237"
 ---
-# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="3a0a8-102">Namecheap でネームサーバーを変更する</span><span class="sxs-lookup"><span data-stu-id="3a0a8-102">Change nameservers at Namecheap</span></span>
+# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="08335-102">Namecheap でネームサーバーを変更する</span><span class="sxs-lookup"><span data-stu-id="08335-102">Change nameservers at Namecheap</span></span>
 
-[<span data-ttu-id="3a0a8-103">Namecheap で Microsoft 365 をセットアップするためにネーム サーバーを変更する</span><span class="sxs-lookup"><span data-stu-id="3a0a8-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
+[<span data-ttu-id="08335-103">Namecheap で Microsoft 365 をセットアップするためにネーム サーバーを変更する</span><span class="sxs-lookup"><span data-stu-id="08335-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
 
-<span data-ttu-id="3a0a8-104">その他のドメインの問題については、[ドメイン FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)をお試しください</span><span class="sxs-lookup"><span data-stu-id="3a0a8-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="08335-104">その他のドメインの問題については、[ドメイン FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)をお試しください</span><span class="sxs-lookup"><span data-stu-id="08335-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
