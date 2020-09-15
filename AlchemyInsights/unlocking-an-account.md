@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799056"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657902"
 ---
 # <a name="unlocking-an-account"></a>アカウントのロックを解除する
 
@@ -40,4 +41,4 @@ ms.locfileid: "43799056"
 
 その他のパスワード再設定シナリオ (セルフサービスによるパスワードのリセットなど) については、「[Microsoft 365 のパスワードをリセットする](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)」を参照してください。
 
-サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。 万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」に記載の手順を実行してください。
+サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。 万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に記載の手順を実行してください。

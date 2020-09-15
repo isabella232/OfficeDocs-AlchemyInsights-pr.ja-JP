@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 0291ef804a7d097632a564c8578564b76e8ad54d
-ms.sourcegitcommit: 172f26bd1eeed5251c22d4e311065cf3284fef4b
+ms.openlocfilehash: 4fbec85abdb2e43dd779a8411706fa3e6bbf8fcf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44404980"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669234"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>ライブラリ内のファイルをチェック アウトまたはチェック インできません
 

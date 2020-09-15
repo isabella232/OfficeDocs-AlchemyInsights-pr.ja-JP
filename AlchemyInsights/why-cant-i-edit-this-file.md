@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: d9c7744a3789f4fe2f8026f2b0f800ee90d3f286
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44282078"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664571"
 ---
 # <a name="why-cant-i-edit-this-file"></a>このファイルを編集できないのはなぜですか?
 

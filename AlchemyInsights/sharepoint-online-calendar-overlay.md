@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 046e9230b162a402c06e432b2b1501490b45161b
-ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
+ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44282104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665507"
 ---
 # <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online 予定表のオーバーレイ
 

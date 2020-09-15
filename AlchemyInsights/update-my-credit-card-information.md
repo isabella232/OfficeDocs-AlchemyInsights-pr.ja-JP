@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 841c06ea5ea3e2d19a6a96671f09075e53342478
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657650"
 ---
 # <a name="update-my-credit-card-information"></a>クレジット カード情報を更新する
 

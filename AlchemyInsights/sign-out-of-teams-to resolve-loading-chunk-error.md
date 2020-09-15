@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: 2f3776e74dc9f42df2ab94843b3a1fd1a113af53
-ms.sourcegitcommit: b7a580178dc38852323dd77cf4dfc833b923d62b
+ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182194"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47661889"
 ---
 # <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Teams からサインアウトしてチャンクの読み込みエラーを解決する
 

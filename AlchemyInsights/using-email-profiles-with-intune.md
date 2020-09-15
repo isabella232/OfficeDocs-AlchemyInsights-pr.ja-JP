@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46556221"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653293"
 ---
 # <a name="using-email-profiles-with-intune"></a>Intune でメール プロファイルを使用する
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
-ms.translationtype: HT
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35810592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667163"
 ---
 # <a name="recover-missing-notebook"></a>見つからないノートを復元する
 

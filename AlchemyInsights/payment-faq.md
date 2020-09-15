@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: f4f8c2370dee390dee5ef0cd7273c9aa72963f74
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: ef147642ac058892fb55e6384c196b24c78c57fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418149"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662393"
 ---
 # <a name="payment-faq"></a>支払いに関するよく寄せられる質問
 

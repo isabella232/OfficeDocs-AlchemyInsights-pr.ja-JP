@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: 32cd346c9af145f733b0a62746a0ee1b632fa5ab
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663158"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: 追跡と取り消しポータル
 
