@@ -6,34 +6,35 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 664c18daca5d8e0ad4a88f41db3ff0dbced606e5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43736163"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669253"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a><span data-ttu-id="4963d-102">Microsoft Intune での iOS デバイスの登録に関する問題のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="4963d-102">Troubleshoot issues with enrolling iOS devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a><span data-ttu-id="e97ce-102">Microsoft Intune での iOS デバイスの登録に関する問題のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="e97ce-102">Troubleshoot issues with enrolling iOS devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="4963d-103">今すぐ問題を解決するには、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="4963d-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="e97ce-103">今すぐ問題を解決するには、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="e97ce-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-<span data-ttu-id="4963d-104">一般的なエラー メッセージと解決手順をいくつか示します。</span><span class="sxs-lookup"><span data-stu-id="4963d-104">Some common error messages and resolution steps:</span></span>
+<span data-ttu-id="e97ce-104">一般的なエラー メッセージと解決手順をいくつか示します。</span><span class="sxs-lookup"><span data-stu-id="e97ce-104">Some common error messages and resolution steps:</span></span>
   
-- <span data-ttu-id="4963d-p101">**デバイスの上限に達しました** ユーザーがデバイスの制限を超える数のデバイスを登録しています。こちらのドキュメントを参照して、[デバイスを削除](https://docs.microsoft.com/intune/devices-wipe)するか、[デバイスの制限を変更](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)してください。</span><span class="sxs-lookup"><span data-stu-id="4963d-p101">**Device Cap Reached** The user has more devices enrolled than the device limit. Review these documents to [remove a device](https://docs.microsoft.com/intune/devices-wipe) or [change the device limit](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).</span></span>
+- <span data-ttu-id="e97ce-p101">**デバイスの上限に達しました** ユーザーがデバイスの制限を超える数のデバイスを登録しています。こちらのドキュメントを参照して、[デバイスを削除](https://docs.microsoft.com/intune/devices-wipe)するか、[デバイスの制限を変更](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)してください。</span><span class="sxs-lookup"><span data-stu-id="e97ce-p101">**Device Cap Reached** The user has more devices enrolled than the device limit. Review these documents to [remove a device](https://docs.microsoft.com/intune/devices-wipe) or [change the device limit](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).</span></span>
     
-- <span data-ttu-id="4963d-p102">**このサービスはサポートされていません。登録ポリシーがありません:** Apple Push Notification Service (APN) を構成するか、更新する必要があります。方法については、[こちらのドキュメント](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="4963d-p102">**This Service is not supported. No Enrollment Policy:** Apple Push Notification Service (APNS) needs to be configured or renewed. Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for instructions on how to do that.</span></span> 
+- <span data-ttu-id="e97ce-p102">**このサービスはサポートされていません。登録ポリシーがありません:** Apple Push Notification Service (APN) を構成するか、更新する必要があります。方法については、[こちらのドキュメント](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="e97ce-p102">**This Service is not supported. No Enrollment Policy:** Apple Push Notification Service (APNS) needs to be configured or renewed. Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for instructions on how to do that.</span></span> 
     
-- <span data-ttu-id="4963d-p103">**ユーザー ライセンスの種類が無効またはユーザー名が認識されません:** ユーザーには、Intune または EMS ライセンスが割り当てられている必要があります。[Office 管理センター](https://docs.microsoft.com/intune/licenses-assign)または [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups) からライセンスを割り当てるには、こちらのドキュメントを確認してください。</span><span class="sxs-lookup"><span data-stu-id="4963d-p103">**User License Type Invalid or User Name Not Recognized:** The user needs to be assigned an Intune or EMS license. Review these documents to assign a license through: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) or [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).</span></span>
+- <span data-ttu-id="e97ce-p103">**ユーザー ライセンスの種類が無効またはユーザー名が認識されません:** ユーザーには、Intune または EMS ライセンスが割り当てられている必要があります。[Office 管理センター](https://docs.microsoft.com/intune/licenses-assign)または [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups) からライセンスを割り当てるには、こちらのドキュメントを確認してください。</span><span class="sxs-lookup"><span data-stu-id="e97ce-p103">**User License Type Invalid or User Name Not Recognized:** The user needs to be assigned an Intune or EMS license. Review these documents to assign a license through: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) or [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).</span></span>
     
-<span data-ttu-id="4963d-111">問題の解決に役立つその他のリソース:</span><span class="sxs-lookup"><span data-stu-id="4963d-111">Additional resources to help resolve your issue:</span></span>
+<span data-ttu-id="e97ce-111">問題の解決に役立つその他のリソース:</span><span class="sxs-lookup"><span data-stu-id="e97ce-111">Additional resources to help resolve your issue:</span></span>
   
-1. <span data-ttu-id="4963d-p104">[Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4963d-p104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+1. <span data-ttu-id="e97ce-p104">[Intune トラブルシューティング ポータル](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e97ce-p104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-2. <span data-ttu-id="4963d-114">登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="4963d-114">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
+2. <span data-ttu-id="e97ce-114">登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e97ce-114">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
     
-3. <span data-ttu-id="4963d-115">[Microsoft Intune で iOS デバイスを登録する方法の詳細をご確認ください](https://docs.microsoft.com/intune/ios-enroll)。</span><span class="sxs-lookup"><span data-stu-id="4963d-115">[Learn how to enroll iOS devices in Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).</span></span>
+3. <span data-ttu-id="e97ce-115">[Microsoft Intune で iOS デバイスを登録する方法の詳細をご確認ください](https://docs.microsoft.com/intune/ios-enroll)。</span><span class="sxs-lookup"><span data-stu-id="e97ce-115">[Learn how to enroll iOS devices in Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).</span></span>
     
 
