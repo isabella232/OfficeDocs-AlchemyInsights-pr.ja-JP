@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: dc531525bd3261d99176deb9787ade4028452f23
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160513"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703719"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>メッセージの閲覧中にアドインを管理する方法
 
