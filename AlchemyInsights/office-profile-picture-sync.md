@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f2f1950f3f0f7b307b0adf50a3cc873f04b66883
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713219"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694787"
 ---
 # <a name="sync-a-users-profile-picture"></a>ユーザーのプロファイル画像を同期する
 

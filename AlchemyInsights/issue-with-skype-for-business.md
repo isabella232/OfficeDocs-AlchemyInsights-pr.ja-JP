@@ -1,21 +1,22 @@
 ---
 title: Skype for Business に関する問題
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: dc12b16364ea157c5862d3e2c9ba9fd9438f1c84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43765850"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695690"
 ---
 # <a name="issue-with-skype-for-business"></a>Skype for Business に関する問題
 
@@ -23,7 +24,7 @@ ms.locfileid: "43765850"
   
 {HealthCheckString}
   
-ドメイン (DNS) レコードの NS、CNAME、または SRV の設定が Skype for Business に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。
+ドメイン (DNS) レコードの NS、CNAME、または SRV の設定が Skype for Business に適した構成になっていません。詳細については、「[任意の DNS ホスティング プロバイダーで DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。
   
 この問題を修正する場合は、Microsoft 365 管理センターの [[ドメイン]](https://admin.microsoft.com/adminportal/home#/Domains) ページに移動して支援を求めてください。
   

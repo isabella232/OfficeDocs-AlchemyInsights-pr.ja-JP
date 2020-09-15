@@ -5,17 +5,18 @@ author: heidip
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737801"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736545"
 ---
 # <a name="id-like-to-sign-up-for-teams-for-free"></a>Teams の無料版にサインアップする
 

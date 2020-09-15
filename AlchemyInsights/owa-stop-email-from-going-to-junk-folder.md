@@ -6,16 +6,17 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68ff66f0f92d84f788963f5f17f8e695813bc3fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721946"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802098"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Outlook on the web の [迷惑メール] フォルダーにメッセージが移動されないようにする
 

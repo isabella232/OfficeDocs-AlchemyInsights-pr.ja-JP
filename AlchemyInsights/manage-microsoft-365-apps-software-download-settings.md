@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: eb82ad160c1b2e51d03a2fea70416cb796d8ae8c
-ms.sourcegitcommit: 172f26bd1eeed5251c22d4e311065cf3284fef4b
+ms.openlocfilehash: 58a13acc6a8ed7ebda1ccece8dca58317eff0b6e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44404978"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694768"
 ---
 # <a name="manage-microsoft-365-apps-software-download-settings"></a>Microsoft 365 アプリ ソフトウェアのダウンロード設定を管理する
 

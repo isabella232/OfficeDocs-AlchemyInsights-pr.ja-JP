@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: 5d0c8fd5d6bb5c9fe0c70f46bc05aec95ef1fdef
-ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
+ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43556984"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802062"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Planner の一般的な問題と解決策
 

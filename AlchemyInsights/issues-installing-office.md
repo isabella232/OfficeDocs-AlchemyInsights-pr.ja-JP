@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 4b309039dc920089d966e3bbe45dcea874668597
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43765814"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695510"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office のインストール時の問題の解決方法
 

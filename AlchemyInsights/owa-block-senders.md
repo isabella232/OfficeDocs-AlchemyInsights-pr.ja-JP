@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720365"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768756"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Outlook on the web で送信者をブロックまたはブロック解除する
 

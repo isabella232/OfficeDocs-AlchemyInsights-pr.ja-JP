@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 6562dfcbbf41014cdf1ae93424616d8ab1288082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "43955530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721155"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint の一般的な問題と解決策
 

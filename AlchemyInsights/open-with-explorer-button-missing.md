@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: dd8d65bc674ae7bcbc8c4b2179adab05856969e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: d5b5e37c7486c218998fd684bebd309c96bbeac2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713075"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694569"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>[エクスプローラー​​で開く] ボタンが表示されない
 

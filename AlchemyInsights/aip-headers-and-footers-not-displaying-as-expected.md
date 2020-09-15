@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493668"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696553"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: ヘッダーとフッターが期待どおりに表示されない
 

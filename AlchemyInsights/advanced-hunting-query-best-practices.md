@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
-ms.translationtype: HT
+ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696662"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>高度な捜索クエリのベスト プラクティス
 

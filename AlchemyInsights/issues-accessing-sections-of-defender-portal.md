@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 553ed0a9416f1bafa6a0c622e5793edf88fe185c
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160518"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695490"
 ---
 # <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Microsoft Defender ATP ポータルのセクションへのアクセスの問題
 

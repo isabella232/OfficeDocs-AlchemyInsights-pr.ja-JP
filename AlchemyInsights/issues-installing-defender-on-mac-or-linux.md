@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 831060bf45bce5ba6ecb95e244dbfe64641d1b2a
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: a8d5ad2246b9b83e1e0a4d5be4dd8bb41c16e734
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695491"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Mac または Linux への Microsoft Defender のインストールに関する問題
 

@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761065"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769008"
 ---
 # <a name="adblock"></a>AdBlock
 
