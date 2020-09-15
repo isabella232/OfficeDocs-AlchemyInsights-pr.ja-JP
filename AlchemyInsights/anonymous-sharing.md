@@ -5,32 +5,33 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708060"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717726"
 ---
-# <a name="anonymous-sharing"></a><span data-ttu-id="b0e2a-102">匿名の共有</span><span class="sxs-lookup"><span data-stu-id="b0e2a-102">Anonymous sharing</span></span>
+# <a name="anonymous-sharing"></a><span data-ttu-id="a302f-102">匿名の共有</span><span class="sxs-lookup"><span data-stu-id="a302f-102">Anonymous sharing</span></span>
 
- <span data-ttu-id="b0e2a-103">**匿名アクセスを有効化する**</span><span class="sxs-lookup"><span data-stu-id="b0e2a-103">**Enable anonymous access**</span></span>
+ <span data-ttu-id="a302f-103">**匿名アクセスを有効化する**</span><span class="sxs-lookup"><span data-stu-id="a302f-103">**Enable anonymous access**</span></span>
   
-<span data-ttu-id="b0e2a-104">新しい SharePoint 管理センターで、左のウィンドウにある **[共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b0e2a-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
+<span data-ttu-id="a302f-104">新しい SharePoint 管理センターで、左のウィンドウにある **[共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="a302f-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
   
-- <span data-ttu-id="b0e2a-105">次のオプションを選択します: **[認証済み外部ユーザーへの共有と匿名アクセスの使用を許可する]** </span><span class="sxs-lookup"><span data-stu-id="b0e2a-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
+- <span data-ttu-id="a302f-105">次のオプションを選択します: **[認証済み外部ユーザーへの共有と匿名アクセスの使用を許可する]** </span><span class="sxs-lookup"><span data-stu-id="a302f-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
   
-<span data-ttu-id="b0e2a-106">(必要に応じて、指定した日数が経過すると有効期限が切れるようにリンクを設定し、受信者によるリンクの使用方法を選択できます)</span><span class="sxs-lookup"><span data-stu-id="b0e2a-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
+<span data-ttu-id="a302f-106">(必要に応じて、指定した日数が経過すると有効期限が切れるようにリンクを設定し、受信者によるリンクの使用方法を選択できます)</span><span class="sxs-lookup"><span data-stu-id="a302f-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
     
- <span data-ttu-id="b0e2a-107">**匿名でファイルまたはフォルダーを共有する**</span><span class="sxs-lookup"><span data-stu-id="b0e2a-107">**Share a file or folder anonymously**</span></span>
+ <span data-ttu-id="a302f-107">**匿名でファイルまたはフォルダーを共有する**</span><span class="sxs-lookup"><span data-stu-id="a302f-107">**Share a file or folder anonymously**</span></span>
   
-- <span data-ttu-id="b0e2a-108">共有するファイルまたはフォルダーを選択して、**[共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b0e2a-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
+- <span data-ttu-id="a302f-108">共有するファイルまたはフォルダーを選択して、**[共有]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="a302f-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
     
-- <span data-ttu-id="b0e2a-109">このリンクを有効にする対象ユーザーには、**[全員]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b0e2a-109">Who would you like this link to work for? click **Anyone.**</span></span>
+- <span data-ttu-id="a302f-109">このリンクを有効にする対象ユーザーには、**[全員]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="a302f-109">Who would you like this link to work for? click **Anyone.**</span></span>
   
- <span data-ttu-id="b0e2a-p101">**注**: **[全員]** 任意のユーザーがドキュメントやフォルダーへのアクセスに使用できるリンクが生成されます。このリンクは、Microsoft 365 または OneDrive にログインしていないユーザーも使用できます。このリンクは社内または社外の誰とでもファイルを共有する際に使用します。また、このリンクは任意のユーザーに転送することもできます。</span><span class="sxs-lookup"><span data-stu-id="b0e2a-p101">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Microsoft 365 or OneDrive. Use this to share with anyone, inside or outside your company. This link can also be forwarded around to anyone.</span></span> 
+ <span data-ttu-id="a302f-p101">**注**: **[全員]** 任意のユーザーがドキュメントやフォルダーへのアクセスに使用できるリンクが生成されます。このリンクは、Microsoft 365 または OneDrive にログインしていないユーザーも使用できます。このリンクは社内または社外の誰とでもファイルを共有する際に使用します。また、このリンクは任意のユーザーに転送することもできます。</span><span class="sxs-lookup"><span data-stu-id="a302f-p101">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Microsoft 365 or OneDrive. Use this to share with anyone, inside or outside your company. This link can also be forwarded around to anyone.</span></span> 
     
 
