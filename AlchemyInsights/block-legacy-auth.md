@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
-ms.translationtype: HT
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079265"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685603"
 ---
 # <a name="blocking-legacy-authentication"></a>レガシ認証のブロック
 

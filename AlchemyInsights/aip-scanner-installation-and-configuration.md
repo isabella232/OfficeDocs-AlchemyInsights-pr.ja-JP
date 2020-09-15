@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: d059d411aef03ca57662b71fbd7d27aecd3e0e57
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: be5b63ffccd5bbd83e7802e4ef5aa657ed921ae6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358754"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686647"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP スキャナー: インストールと構成
 

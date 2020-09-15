@@ -5,6 +5,7 @@ author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: 3162bbd1f86deccfb22be114cdab93b5d5db270b
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: HT
+ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44373076"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684451"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>予定表の共有に関する問題のトラブルシューティング
 

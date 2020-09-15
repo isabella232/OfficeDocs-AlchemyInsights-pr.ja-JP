@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: 7f53d17bead1c45134112f6efa47835ea6ca9abe
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: db34bbf73cead34d533c4654e9bfa8024f5a58f5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44203961"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686251"
 ---
 # <a name="billed-after-canceling-subscription"></a>サブスクリプションをキャンセルした後の請求
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 5bd572311193ed68c5c38973bdbdd5c82523ed99
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
-ms.translationtype: HT
+ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40825892"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685387"
 ---
 # <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth の音質の問題を解決する
 

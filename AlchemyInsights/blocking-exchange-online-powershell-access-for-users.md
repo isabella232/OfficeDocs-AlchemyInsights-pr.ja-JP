@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685531"
 ---
 # <a name="blocking-exchange-online-powershell-access-for-users"></a>ユーザーの Exchange Online PowerShell アクセスのブロック
 管理者はユーザーが Exchange Online PowerShell にアクセスすることをブロックできます。詳細については、次のトピックを参照してください。
