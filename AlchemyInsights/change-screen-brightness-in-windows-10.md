@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 1c3074df1e21e078c0058109a39c23b74b83e876
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: ac9b3b6155713e95d11c2aeab600ad686a5abb20
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44282063"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681985"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Windows 10 で画面の明るさを変更する
 

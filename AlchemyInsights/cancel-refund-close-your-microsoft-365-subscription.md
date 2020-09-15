@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002914"
 - "5614"
-ms.openlocfilehash: 3e37e0d84f2efd942dc5dc066593f8f16baee96b
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 4c9ef57546b2dabecd15f1cad47f918d4a0aeda0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282035"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683551"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションのキャンセル/払い戻し/終了
 

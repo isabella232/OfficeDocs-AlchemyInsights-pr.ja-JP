@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: HT
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683695"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Advanced Threat Protection をキャンセルする
 
