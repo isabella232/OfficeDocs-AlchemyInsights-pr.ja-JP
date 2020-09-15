@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: c1552e262b250d4390ddab36cb181db671f8c481
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702175"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669901"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>匿名ユーザーが Teams 会議に参加することを許可または禁止する
 

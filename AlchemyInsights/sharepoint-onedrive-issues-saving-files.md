@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 437bd2ff2c85a3753c31eb48d844c8b70532138a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 02297639c9fcc16e4e622547ebd3085b1a8f0c15
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053878"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670945"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Office ドキュメントを SharePoint または OneDrive のドキュメント ライブラリに保存できない
 

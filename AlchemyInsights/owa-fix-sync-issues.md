@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: 480984de4ddc7a888de3ea5cfdf5395fb51cb0cd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 18e1e6192cf7c4954d295013fc4f87ee95d20bf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768442"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671017"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Outlook on the web の同期問題の解決方法
 

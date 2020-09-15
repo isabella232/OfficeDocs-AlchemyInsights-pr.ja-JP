@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1328"
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bef4298dfbc3a386ad938d811bd112179f0d1009
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 491fd6fee181a5a1ea30cc7e4a63fb2a9e426738
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723417"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672313"
 ---
 # <a name="error-550553-in-outlookcom"></a>Outlook.com のエラー 550/553
 

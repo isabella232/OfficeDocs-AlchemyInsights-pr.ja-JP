@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: da438ebeb28dbe8419067b5a89143322d29889f6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: f66e1365339d2a6939299b1fe05364a04ccea9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760273"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671835"
 ---
 # <a name="fix-outlookcom-email-sync-issues"></a>Outlook.com のメールの同期に関する問題の解決方法
 

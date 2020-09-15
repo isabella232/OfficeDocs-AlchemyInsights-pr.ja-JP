@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051322"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670909"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>SharePoint から Office ファイルを開くときの問題
 

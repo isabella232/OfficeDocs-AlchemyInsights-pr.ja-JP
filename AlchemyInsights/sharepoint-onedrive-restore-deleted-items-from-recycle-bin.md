@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 3b344e7a4a5f663b15a9f3820d1ff7b28ad61b4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511225"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670657"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で見つからないファイルまたはフォルダーのトラブルシューティング
 

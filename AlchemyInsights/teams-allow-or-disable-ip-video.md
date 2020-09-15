@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 8c2f5007a94fb55122341b4bcfa38806951e4d4b
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282048"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670189"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Teams で IP ビデオを許可または無効にする
 
