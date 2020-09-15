@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 4b194527e48ebe0c2735b0393c9b381e77541dee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43161410"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689707"
 ---
 # <a name="understand-your-bill"></a>請求書の内容を理解する
 
@@ -27,7 +28,7 @@ ms.locfileid: "43161410"
 
 2. ドロップダウンリストから日付の範囲を選択し、確認する注文を選択するか、[**請求書の pdf をダウンロード**] リンクをクリックして請求書のコピーを表示します。
 
-詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)」をご覧ください。
+詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)」をご覧ください。
 
 **課金、請求内容を理解する**
 

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693416"
 ---
 # <a name="microsoft-365-for-education---approved"></a>教育機関向け Microsoft 365 - 承認済み
 

@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,12 +12,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693056"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 ポータル推奨ソリューション
 

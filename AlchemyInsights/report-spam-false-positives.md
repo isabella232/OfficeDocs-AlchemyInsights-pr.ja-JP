@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 169d5c276f56f4941de73925e21cc045a65fd0c1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722707"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692336"
 ---
 # <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>スパムの誤検知を Microsoft に報告しますか?
 

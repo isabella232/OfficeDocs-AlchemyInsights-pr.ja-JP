@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354057"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691112"
 ---
 # <a name="teams-client-crashing"></a>Teams クライアントがクラッシュした場合
 

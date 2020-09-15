@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 1c72edc59b372b2cf0bbe84b2510dd71132e21a3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: HT
+ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628103"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693704"
 ---
 # <a name="cannot-dismiss-reminders"></a>リマインダーが消えない
 

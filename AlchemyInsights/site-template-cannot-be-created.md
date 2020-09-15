@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0b5e5d7cc2ddd939562ac6bb392441120c703515
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 03d2839811dcea6c5fa7a8325d97a8afa20233a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358755"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691544"
 ---
 # <a name="site-template-cannot-be-created"></a>サイト テンプレートを作成できません
 
