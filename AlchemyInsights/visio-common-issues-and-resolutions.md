@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: c15b9f094efae4cfb062c5db659ef261fe7c6b6d
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063946"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699272"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio の一般的な問題と解決策
 
@@ -30,7 +31,7 @@ Microsoft Visio についてよく寄せられるトピックは次の通りで�
 
 **Visio をダウンロード、インストール、ライセンス認証する**
 
-- Visio Online プラン 2 に含まれている Visio デスクトップ アプリをインストールしてライセンス認証するには、まず、ユーザーに [Visio ライセンス](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を割り当てておく必要があります。
+- Visio Online プラン 2 に含まれている Visio デスクトップ アプリをインストールしてライセンス認証するには、まず、ユーザーに [Visio ライセンス](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)を割り当てておく必要があります。
 
 - Visio がまだインストールされていない場合は、[マイ アカウント] ポータルからインストールします。 詳細については、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)」を参照してください。
 
@@ -40,7 +41,7 @@ Microsoft Visio についてよく寄せられるトピックは次の通りで�
 
 **Mac で Visio を使用する**
 
-Mac 用の Visio デスクトップ アプリケーションはありません。 ただし、有効な [Visio Online ライセンス](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)を持っているユーザーは、Web ブラウザーを使用して、Visio Online で[図を表示、作成、編集する](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)ことができます。
+Mac 用の Visio デスクトップ アプリケーションはありません。 ただし、有効な [Visio Online ライセンス](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)を持っているユーザーは、Web ブラウザーを使用して、Visio Online で[図を表示、作成、編集する](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)ことができます。
 
 **図、テンプレート、図形、コネクタ**
 

@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
-ms.translationtype: HT
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700244"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>メールボックスに大量のフィッシングまたはスパムを受信して​​いますか?
 

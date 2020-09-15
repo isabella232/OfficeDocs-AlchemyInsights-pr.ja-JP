@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 8faaa7aedfc19c1e891cd647e753626aba386142
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
-ms.translationtype: HT
+ms.openlocfilehash: 9cb582ab66e6236effbec968a8e7dae54270cfe3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40791268"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698657"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Word の一般的な問題と解決策
 
