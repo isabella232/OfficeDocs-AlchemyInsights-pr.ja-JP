@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 0e26ad75f40724e5e73cf7a55afec62943ba3529
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160520"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713513"
 ---
 # <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Microsoft Defender ATP スキャンの除外の構成
 
