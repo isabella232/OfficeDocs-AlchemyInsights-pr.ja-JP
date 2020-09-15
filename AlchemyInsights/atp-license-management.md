@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: ae2afd87bf1c838e027103a6e012c40b06dcd629
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: HT
+ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708590"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715386"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Advanced Threat Protection のライセンス管理
 
