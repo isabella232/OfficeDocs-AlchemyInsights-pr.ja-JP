@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: b85eb133644b8ec9ab785bf6668a3df59dda30a3
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063406"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676060"
 ---
 # <a name="license-or-account-disabled"></a>ライセンスまたはアカウントが無効になっている
 
@@ -26,7 +27,7 @@ ms.locfileid: "44063406"
 
 1. 管理センターで、[**課金**]  >  [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
 
-2. 再アクティブ化するサブスクリプションを見つけます。
+2. 再度有効にするサブスクリプションを見つけます。
 
 3. **[課金]** セクションで、**[今すぐ再度有効にする]** を選びます。 [**カード**] ビューが表示されている場合、[**名前**] と [**利用可能な数量**] の間にある省略記号をクリックしてから、メニューで [**再度有効にする**] を選択します。
 

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: d2475e98ab8fa9b87e994693222a120714f372d7
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160516"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673664"
 ---
 # <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Microsoft Defender ATP サービスからのマシンのオフボード
 

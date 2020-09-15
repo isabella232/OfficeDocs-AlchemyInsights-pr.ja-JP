@@ -5,18 +5,19 @@ author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912227"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674619"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>パブリック フォルダー データを Microsoft 365 に移行する
 

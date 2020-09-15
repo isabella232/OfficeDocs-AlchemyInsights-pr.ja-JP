@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: d7547e3547bc8f719b09c12debab1ca3ee1ebf21
-ms.sourcegitcommit: bd73b4889510864f4062c56139f14a6792e77b46
+ms.openlocfilehash: 43ded6946336d4bb1209fd7c1a45736de1403fd0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47450140"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674907"
 ---
 # <a name="microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams と Microsoft 365 グループ
 

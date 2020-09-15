@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 92af6c0979945d77aa531a0a405c7bfed8d9bac6
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: b7c45cbad21a3b79ee8467a17434bfb8921151f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182186"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676095"
 ---
 # <a name="license-or-subscription-faq"></a>ライセンスまたはサブスクリプションについてよく寄せられる質問 (FAQ)
 
