@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684595"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="c7874-102">ハイブリッド環境での予定表の空き時間に関する問題</span><span class="sxs-lookup"><span data-stu-id="c7874-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="f9a64-102">ハイブリッド環境での予定表の空き時間に関する問題</span><span class="sxs-lookup"><span data-stu-id="f9a64-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="c7874-p101">ユーザーにハイブリッド環境で予定表の空き時間情報に関する問題が発生している場合は、ハイブリッド構成ウィザードを再実行します。ハイブリッド構成ウィザードの詳細については、「[ハイブリッド構成ウィザード](https://go.microsoft.com/fwlink/p/?linkid=528149)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c7874-p101">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard. For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="f9a64-p101">ユーザーにハイブリッド環境で予定表の空き時間情報に関する問題が発生している場合は、ハイブリッド構成ウィザードを再実行します。ハイブリッド構成ウィザードの詳細については、「[ハイブリッド構成ウィザード](https://go.microsoft.com/fwlink/p/?linkid=528149)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f9a64-p101">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard. For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="c7874-105">ハイブリッド環境でのトラブルシューティングの手順については、「[ハイブリッド展開のトラブルシューティング](https://technet.microsoft.com/library/jj659053.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c7874-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="f9a64-105">ハイブリッド環境でのトラブルシューティングの手順については、「[ハイブリッド展開のトラブルシューティング](https://technet.microsoft.com/library/jj659053.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f9a64-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>

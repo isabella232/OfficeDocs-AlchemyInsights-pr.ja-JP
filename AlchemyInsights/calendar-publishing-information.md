@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506160"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684558"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="69a3e-102">予定表の公開に関する情報</span><span class="sxs-lookup"><span data-stu-id="69a3e-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="c33f8-102">Microsoft 365 管理センターを使用して予定表の共有を有効にする</span><span class="sxs-lookup"><span data-stu-id="c33f8-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="69a3e-p101">Microsoft 365 管理者は、組織の予定表の公開と予定表の共有を、有効または無効にすることができます。詳細については、「[ユーザーが情報を共有できるように、予定表の公開をオンにする](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC)」と「[予定表を外部ユーザーと共有する](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="69a3e-p101">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization. For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="c33f8-103">管理センターで、[**設定**] [組織の設定] に移動   >   **Org Settings**します。</span><span class="sxs-lookup"><span data-stu-id="c33f8-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="c33f8-104">[  **サービス**  ] タブで、[  **カレンダー**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="c33f8-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="c33f8-105">開いた [  **予定表**  ] ページで、Microsoft 365 または Exchange を使用している組織外のユーザーと予定表を共有するかどうかを選択します。</span><span class="sxs-lookup"><span data-stu-id="c33f8-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="c33f8-106">匿名ユーザー (ログオン資格情報を持たないユーザー) が電子メール招待状を使用して予定表にアクセスできるようにするかどうかを選択します。</span><span class="sxs-lookup"><span data-stu-id="c33f8-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="c33f8-107">ユーザーが利用できるようにする予定表の情報の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="c33f8-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="c33f8-108">すべての情報を許可することも、時間、件名、場所のみに制限することもできます。</span><span class="sxs-lookup"><span data-stu-id="c33f8-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="69a3e-p102">Outlook ユーザーは、自分の予定表を他のユーザーと共有できます。詳細については、「[他のユーザーと Outlook 予定表を共有する](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="69a3e-p102">Outlook users can share their own calendars. For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="c33f8-109">詳細情報:[外部ユーザーと予定表を共有](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)する</span><span class="sxs-lookup"><span data-stu-id="c33f8-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
