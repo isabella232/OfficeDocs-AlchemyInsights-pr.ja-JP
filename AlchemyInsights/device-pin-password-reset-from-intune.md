@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: fd3bb957b0da22dfab5a9988a82e398757e12ee5
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440578"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730992"
 ---
 # <a name="device-pinpassword-reset-from-intune"></a>Intune からデバイスの PIN /パスワードをリセットする
 

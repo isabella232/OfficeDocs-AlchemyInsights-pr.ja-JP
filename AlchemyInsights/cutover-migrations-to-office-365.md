@@ -6,17 +6,18 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: 22c91df2ec8ac1af7b6e3eb8c33ab7764c07c344
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 79a2c02429915e1cd9354109cf39bbecb3fec821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43705126"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731748"
 ---
 # <a name="cutover-migrations"></a>一括移行
 

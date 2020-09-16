@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: 7983b4fa0f35d8fce18f0ee485664ddd1634dc42
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: aacc690e174fc9308cb39ed6190fd7d2ef3d25c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282036"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731424"
 ---
 # <a name="dashboard-not-loading"></a>ダッシュボードが読み込まれない
 

@@ -4,18 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: de7d76564cabb0a5dd1a836984df6b1a63b2b218
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
-ms.translationtype: HT
+ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569874"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732180"
 ---
 # <a name="creating-aip-label-policies"></a>AIP ラベル ポリシーを作成する
 
