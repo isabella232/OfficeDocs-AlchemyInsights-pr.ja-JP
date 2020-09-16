@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1872"
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752760"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com からサインアウトできない
 

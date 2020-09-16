@@ -1,22 +1,23 @@
 ---
 title: Outlook.com でメールを受信できない
-ms.author: lpyfer
-author: lpyfer
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: 5271860c99cd4911cf3cce4a3dca6ec725dde86d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: b126b7b266bb50c121130872071e7ce2231df547
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710844"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753300"
 ---
 # <a name="unable-to-receive-email"></a>メールを受信できない
 

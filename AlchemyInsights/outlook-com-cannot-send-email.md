@@ -1,23 +1,24 @@
 ---
 title: Outlook.com でメールを送信できない
-ms.author: lpyfer
-author: lpyfer
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: 5f6dbd98b899ff915a4706c5996c9d3c35be9773
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: adb6dd3cc5a6a526b87dc74a6552759cc8db46ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753264"
 ---
 # <a name="unable-to-send-email-in-outlookcom"></a>Outlook.com でメールを送信できません
 
