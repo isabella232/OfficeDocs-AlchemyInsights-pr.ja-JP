@@ -6,6 +6,7 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: HT
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751248"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a><span data-ttu-id="6dc9a-102">SharePoint のアラート通知が配信されない</span><span class="sxs-lookup"><span data-stu-id="6dc9a-102">SharePoint alert notifications not delivered</span></span>
+# <a name="sharepoint-alert-notifications-not-delivered"></a><span data-ttu-id="bd4e2-102">SharePoint のアラート通知が配信されない</span><span class="sxs-lookup"><span data-stu-id="bd4e2-102">SharePoint alert notifications not delivered</span></span>
 
-<span data-ttu-id="6dc9a-103">アラートはメールの [迷惑メール] フォルダーに移動される場合があるため、このフォルダーを確認してください。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-103">Please check the JUNK folder in your email, as sometimes alerts might go there.</span></span>
+<span data-ttu-id="bd4e2-103">アラートはメールの [迷惑メール] フォルダーに移動される場合があるため、このフォルダーを確認してください。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-103">Please check the JUNK folder in your email, as sometimes alerts might go there.</span></span>
 
-<span data-ttu-id="6dc9a-104">**すべてのアラートが配信されない**のか、特定のファイルまたはライブラリからの**個別のアラートが配信されない**のかを特定します。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-104">Determine if **all alerts are not delivered** or if **an individual alert** from a specific file or library is not delivered.</span></span>
+<span data-ttu-id="bd4e2-104">**すべてのアラートが配信されない**のか、特定のファイルまたはライブラリからの**個別のアラートが配信されない**のかを特定します。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-104">Determine if **all alerts are not delivered** or if **an individual alert** from a specific file or library is not delivered.</span></span>
 
-- <span data-ttu-id="6dc9a-105">**個別のアラートが配信されない場合**: 特定のファイルやライブラリからの個別のアラートが配信されない場合は、アラートを削除してから再作成してみてください。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-105">**Individual alerts are not delivered**: If an individual alert from a specific file or library is not delivered, you can attempt to delete and recreate it.</span></span> <span data-ttu-id="6dc9a-106">詳細については、「[SharePoint アラートの管理、表示、または削除](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-106">See [Manage, view, or delete SharePoint alerts](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
-- <span data-ttu-id="6dc9a-107">**すべてのアラートが配信されない場合**: 複数のファイルやライブラリからのすべてのアラートが配信されない場合は、[[サービス正常性](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)] ダッシュボードにアクセスして、SharePoint または Exchange でインシデントやアドバイザリが発生していないかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-107">**All alerts are not delivered**: If all alerts from multiple files or libraries are not delivered, visit the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span> <span data-ttu-id="6dc9a-108">問題の原因は、SharePoint のアラート機能によるもの、または Exchange 経由のメールの遅延によるものである可能性があります。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-108">The issue could be with the SharePoint alert capability or delays in emails through Exchange.</span></span> <span data-ttu-id="6dc9a-109">また、その他のメールが配信されているかどうかを確認することも重要です。配信されていない場合は、問題の原因が Exchange の遅延である可能性が高くなります。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-109">It will also be important to note whether other email is being delivered, and if not, the issue is likely with Exchange delays.</span></span>
+- <span data-ttu-id="bd4e2-105">**個別のアラートが配信されない場合**: 特定のファイルやライブラリからの個別のアラートが配信されない場合は、アラートを削除してから再作成してみてください。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-105">**Individual alerts are not delivered**: If an individual alert from a specific file or library is not delivered, you can attempt to delete and recreate it.</span></span> <span data-ttu-id="bd4e2-106">詳細については、「[SharePoint アラートの管理、表示、または削除](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-106">See [Manage, view, or delete SharePoint alerts](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
+- <span data-ttu-id="bd4e2-107">**すべてのアラートが配信されない場合**: 複数のファイルやライブラリからのすべてのアラートが配信されない場合は、[[サービス正常性](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)] ダッシュボードにアクセスして、SharePoint または Exchange でインシデントやアドバイザリが発生していないかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-107">**All alerts are not delivered**: If all alerts from multiple files or libraries are not delivered, visit the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span> <span data-ttu-id="bd4e2-108">問題の原因は、SharePoint のアラート機能によるもの、または Exchange 経由のメールの遅延によるものである可能性があります。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-108">The issue could be with the SharePoint alert capability or delays in emails through Exchange.</span></span> <span data-ttu-id="bd4e2-109">また、その他のメールが配信されているかどうかを確認することも重要です。配信されていない場合は、問題の原因が Exchange の遅延である可能性が高くなります。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-109">It will also be important to note whether other email is being delivered, and if not, the issue is likely with Exchange delays.</span></span>
 
-<span data-ttu-id="6dc9a-110">アラートに関する FAQ:</span><span class="sxs-lookup"><span data-stu-id="6dc9a-110">FAQ on alerts:</span></span>
+<span data-ttu-id="bd4e2-110">アラートに関する FAQ:</span><span class="sxs-lookup"><span data-stu-id="bd4e2-110">FAQ on alerts:</span></span>
 
-- <span data-ttu-id="6dc9a-111">配布グループにアラートを送信することはできません。サポートされているのはセキュリティ グループと O365 グループのみです。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-111">It is not possible to send alerts to Distribution Group, only Security and O365 groups are supported.</span></span>
-- <span data-ttu-id="6dc9a-112">アラート メール テンプレートをカスタマイズすることはできません。カスタマイズを行うには、Microsoft FLOW または SharePoint Designer ワークフローを使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-112">You cannot customize alert email templates; you need to use Microsoft FLOW or SharePoint Designer Workflow to achieve those.</span></span>
+- <span data-ttu-id="bd4e2-111">配布グループにアラートを送信することはできません。サポートされているのはセキュリティ グループと O365 グループのみです。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-111">It is not possible to send alerts to Distribution Group, only Security and O365 groups are supported.</span></span>
+- <span data-ttu-id="bd4e2-112">アラート メール テンプレートをカスタマイズすることはできません。カスタマイズを行うには、Microsoft FLOW または SharePoint Designer ワークフローを使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-112">You cannot customize alert email templates; you need to use Microsoft FLOW or SharePoint Designer Workflow to achieve those.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="6dc9a-113">関連項目</span><span class="sxs-lookup"><span data-stu-id="6dc9a-113">Related Topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="bd4e2-113">関連項目</span><span class="sxs-lookup"><span data-stu-id="bd4e2-113">Related Topics</span></span>
 
-<span data-ttu-id="6dc9a-114">SharePoint Online で Microsoft Flow を試す方法。</span><span class="sxs-lookup"><span data-stu-id="6dc9a-114">Want to try Microsoft Flow in SharePoint Online?</span></span>
+<span data-ttu-id="bd4e2-114">SharePoint Online で Microsoft Flow を試す方法。</span><span class="sxs-lookup"><span data-stu-id="bd4e2-114">Want to try Microsoft Flow in SharePoint Online?</span></span>
 
-- [<span data-ttu-id="6dc9a-115">フローを作成する</span><span class="sxs-lookup"><span data-stu-id="6dc9a-115">Create Flow</span></span>](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [<span data-ttu-id="bd4e2-115">フローを作成する</span><span class="sxs-lookup"><span data-stu-id="bd4e2-115">Create Flow</span></span>](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [<span data-ttu-id="6dc9a-116">SharePoint and Flow (SharePoint と Flow)</span><span class="sxs-lookup"><span data-stu-id="6dc9a-116">SharePoint and Flow</span></span>](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [<span data-ttu-id="bd4e2-116">SharePoint and Flow (SharePoint と Flow)</span><span class="sxs-lookup"><span data-stu-id="bd4e2-116">SharePoint and Flow</span></span>](https://flow.microsoft.com//blog/sharepoint-and-flow/)
