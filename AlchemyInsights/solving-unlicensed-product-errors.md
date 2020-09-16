@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582744"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737958"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"ライセンスのない製品" エラーの解決方法の提案
 

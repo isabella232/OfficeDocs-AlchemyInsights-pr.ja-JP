@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739038"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>組織外のユーザーと OneDrive でファイルを共有する
 
@@ -24,7 +25,7 @@ ms.locfileid: "43742336"
     
 2. 共有するファイルまたはフォルダーを選択して、[**共有**] を選択します。 
     
-3. リンクの種類が "\<自分の組織\>のユーザー" に設定されている場合は、下矢印をクリックして次のいずれかを選択します。 
+3. リンクの種類が [ユーザー] に設定されている場合は、 \<your organization\> 下矢印をクリックして、次のいずれかを選択します。 
     
   - **すべてのユーザー**: あなたから直接送信されるか、他のユーザーから転送されるかに関係なく、このリンクを受信するすべてのユーザーにアクセス権が付与されます。これには組織外のユーザーが含まれる場合もあります。 
     
