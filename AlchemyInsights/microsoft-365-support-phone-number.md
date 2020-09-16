@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: 548a0f5181b4cbc5f69ec2996710b508819174ec
-ms.sourcegitcommit: b7a580178dc38852323dd77cf4dfc833b923d62b
+ms.openlocfilehash: 3b9069dd172beb81fdffe2b5a90868376cda9015
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44182195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742640"
 ---
 # <a name="microsoft-365-support-phone-number"></a>Microsoft 365 サポートの電話番号
 

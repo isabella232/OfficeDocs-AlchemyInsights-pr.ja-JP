@@ -1,10 +1,11 @@
 ---
-title: 大量のスパムの送信によってブロックされた送信者
+title: 送信者は過剰なスパムの送信しより制限された
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,20 +13,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a99a0b648ad7bf5217be390113af1351ff329399
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740047"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>大量のスパムの送信によりアカウントがブロックされています
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>大量のスパムの送信によりアカウントが制限されています
 
-Office 365 アカウントがスパムの送信が多すぎるためにブロックされる場合は、送信アカウントが侵害を受けることがあります。 次の操作が必要です。
-  
-1. [アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」の手順を実行します。
+ユーザーの 1 人がメールを送信できなくなっている場合は、**サポート ケースを開かなくても**、管理者が[自分でアカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)できます。 制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。
 
-2. セキュリティ &amp; コンプライアンス センターの [制限されたユーザー] に移動して、**[アカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)** します。この操作を完了すると、*1 時間以内* にメッセージの送信を再開できるようになります。
-
-3. 今後のアカウント侵害を防止するために、「[Office 365 のセキュリティ ロードマップ](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)」の推奨事項に従ってください。
-  
+サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。 万一に備え、そのユーザーに関して、「[セキュリティが侵害された電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に説明されている手順を実行してください。

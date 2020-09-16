@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4981"
 - "9002568"
-ms.openlocfilehash: 4a2c60fa03e0c8b4311055bf70f5f4072d741c68
-ms.sourcegitcommit: 6cffc12f6f7e6e2efee19e05685f8ee10a823dde
+ms.openlocfilehash: 5ed1cfee992f3f60042c6d8ceb884f33a2f2442a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160521"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743451"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 に関する FAQ
 

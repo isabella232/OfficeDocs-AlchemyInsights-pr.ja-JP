@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581416"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697994"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 アプリのライセンス認証
 
@@ -25,6 +26,8 @@ Office のライセンス認証については、次の記事を参照してく�
 - [PC で Office のライセンス認証を行う](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
 - [Office for Mac のライセンス認証](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+
+**注:**(Microsoft 365 Business Standard、Microsoft 365 Apps for business、Microsoft 365 Apps for enterprise など) の[Officeクライアントアプリを含む](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)、Office 365またはMicrosoft 365のサブスクリプションを所有していることをご確認ください。 また、Office アプリへのサインインに使用しているユーザーアカウントに、[ライセンスが割り当てられていること](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)を確認します。
 
 Office のライセンス認証に関する問題の修正については、次の記事を参照してください。
 
