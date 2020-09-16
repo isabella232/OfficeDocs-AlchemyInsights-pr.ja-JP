@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43703323"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784435"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Teams と Office 365 A1 の有効化
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722815"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776384"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>[OneDrive] をクリックした後、Delve にリダイレクトされる
 

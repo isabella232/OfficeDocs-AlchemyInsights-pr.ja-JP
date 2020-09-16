@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: get-started-article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512487"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801045"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook モバイル アプリでメールをセットアップする
 

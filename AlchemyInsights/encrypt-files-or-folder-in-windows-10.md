@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002954"
 - "5656"
-ms.openlocfilehash: 50366ce2300cba6fecc03f7ebadee4c8189339ce
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: c53eb989483cc4ba870df7f804344b12743c06fd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44282109"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784456"
 ---
 # <a name="encrypt-files-or-folder-in-windows-10"></a>Windows 10 でファイルまたはフォルダーを暗号化する
 
