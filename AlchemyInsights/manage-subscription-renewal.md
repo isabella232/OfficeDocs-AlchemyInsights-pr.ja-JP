@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062974"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777868"
 ---
 # <a name="manage-subscription-renewal"></a>サブスクリプションの更新を管理する
 

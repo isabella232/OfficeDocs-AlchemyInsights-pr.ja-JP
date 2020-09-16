@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 76d9113bca6416646c76677ab23e12b0589e8a2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358769"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770052"
 ---
 # <a name="using-mip-skd"></a>MIP SKD の使用
 

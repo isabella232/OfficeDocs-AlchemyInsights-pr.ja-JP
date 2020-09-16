@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: 2c8adbba7117fec22105f28fc74505f0fd9565ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753516"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 

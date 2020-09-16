@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003300"
 - "6211"
-ms.openlocfilehash: db65ce140b04c1736e68cde329fe06968a3c31ef
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: 1136e3cee967dd07ea56cbcb055f3e9344197ba9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46872343"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794303"
 ---
 # <a name="cant-change-background-in-teams-video"></a>Teams のビデオで背景を変更できない
 
