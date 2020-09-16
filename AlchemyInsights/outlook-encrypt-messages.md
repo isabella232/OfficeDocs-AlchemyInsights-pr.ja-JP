@@ -5,16 +5,17 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511513"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772303"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Outlook でメール メッセージを暗号化する
 
