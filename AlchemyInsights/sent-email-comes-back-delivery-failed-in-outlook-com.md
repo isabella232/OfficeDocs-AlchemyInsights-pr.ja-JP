@@ -6,18 +6,19 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 031b9b8af26d6cfcfabb04ff7b3f408b42015b2d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758303"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767878"
 ---
 # <a name="sent-email-comes-back-delivery-failed"></a>送信した電子メールが "配信失敗" として戻ってくる
 
