@@ -6,19 +6,20 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681865"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727644"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="821ed-102">ルールの制限</span><span class="sxs-lookup"><span data-stu-id="821ed-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="4c264-102">ルールの制限</span><span class="sxs-lookup"><span data-stu-id="4c264-102">Rule limits</span></span>
 
-<span data-ttu-id="821ed-p101">ルールの制限はプランのオプションや単体製品のオプションによって異なる場合があります。詳細については、「[ジャーナル、トランスポート、受信トレイのルール上の制限](https://technet.microsoft.com/library/exchange-online-limits.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="821ed-p101">Rule limits might vary across plan options and standalone options. For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="4c264-p101">ルールの制限はプランのオプションや単体製品のオプションによって異なる場合があります。詳細については、「[ジャーナル、トランスポート、受信トレイのルール上の制限](https://technet.microsoft.com/library/exchange-online-limits.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c264-p101">Rule limits might vary across plan options and standalone options. For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
