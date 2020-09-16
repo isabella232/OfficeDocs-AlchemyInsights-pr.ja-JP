@@ -5,19 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 61e8bdf268e6c6c6d537073eab04b1ae37d20526
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764014"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750852"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Office のライセンス認証エラー 0x80070005 を解決する手順
 
