@@ -3,20 +3,21 @@ title: 新しい OneDrive 同期クライアントを使用して SharePoint フ
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 1e622e675b55edbd2a3b381ba3aa529bd84902f7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2250b3a62de885789d5b2e38555359194f44e320
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534208"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737166"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>新しい OneDrive 同期クライアントを使用して SharePoint ファイルを同期する
 
