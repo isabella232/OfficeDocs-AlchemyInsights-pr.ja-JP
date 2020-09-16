@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062253"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745864"
 ---
 # <a name="renewing-your-subscription"></a>サブスクリプションを更新する
 
@@ -26,6 +27,6 @@ ms.locfileid: "44062253"
 
 継続請求を有効にするには、次を実行します: 
 
-1. [ **Billing**  >  **[製品の](https://go.microsoft.com/fwlink/p/?linkid=842054)** 請求] に移動します。
+1. **[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動します。
 2. 継続請求を管理する必要のあるサブスクリプションを選択します。
 3. [**課金**] で、[**編集**] を選択して [**継続請求の設定**] ウィンドウで変更を行います。 
