@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: 7762942632fe8480fa432f5326800e0aa57ab242
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: ba79e98fc6e492b408de298a7a09521672b6ab46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733642"
 ---
 # <a name="change-exchange-online-plans"></a>Exchange Online のプランを変更する
 
