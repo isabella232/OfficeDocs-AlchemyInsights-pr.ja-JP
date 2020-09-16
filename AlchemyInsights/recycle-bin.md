@@ -1,22 +1,23 @@
 ---
 title: ごみ箱
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720214"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740984"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>SharePoint Online でアイテムを復元する
 

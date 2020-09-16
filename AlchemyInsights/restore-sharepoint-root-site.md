@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: fafb2fa3e74951e1716dc3af71f0d4884145bb48
-ms.sourcegitcommit: 172f26bd1eeed5251c22d4e311065cf3284fef4b
+ms.openlocfilehash: 2a2178e704be32eb8cbc35c39e504575b17de371
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44404979"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740821"
 ---
 # <a name="restore-the-sharepoint-root-site"></a>SharePoint のルート サイトを復元する
 

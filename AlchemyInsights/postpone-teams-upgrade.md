@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912516"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741776"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft 主導の Teams アップグレードを延期する方法
 
