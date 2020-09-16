@@ -1,10 +1,11 @@
 ---
-title: 大量のスパムの送信によってブロックされた送信者
+title: 送信者は過剰なスパムの送信しより制限された
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,20 +13,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a99a0b648ad7bf5217be390113af1351ff329399
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740047"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a><span data-ttu-id="17dc8-102">大量のスパムの送信によりアカウントがブロックされています</span><span class="sxs-lookup"><span data-stu-id="17dc8-102">Account is blocked for sending too much spam</span></span>
+# <a name="account-is-restricted-for-sending-too-much-spam"></a><span data-ttu-id="6be62-102">大量のスパムの送信によりアカウントが制限されています</span><span class="sxs-lookup"><span data-stu-id="6be62-102">Account is restricted for sending too much spam</span></span>
 
-<span data-ttu-id="17dc8-103">Office 365 アカウントがスパムの送信が多すぎるためにブロックされる場合は、送信アカウントが侵害を受けることがあります。</span><span class="sxs-lookup"><span data-stu-id="17dc8-103">If an Office 365 account is blocked for sending too much spam, the sending account may be compromised.</span></span> <span data-ttu-id="17dc8-104">次の操作が必要です。</span><span class="sxs-lookup"><span data-stu-id="17dc8-104">You will need:</span></span>
-  
-1. <span data-ttu-id="17dc8-p102">[アカウントが侵害されているかどうかを調べます](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。侵害されている場合は、「[侵害された Office 365 電子メール アカウントへの対応](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)」の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="17dc8-p102">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="6be62-103">ユーザーの 1 人がメールを送信できなくなっている場合は、**サポート ケースを開かなくても**、管理者が[自分でアカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)できます。</span><span class="sxs-lookup"><span data-stu-id="6be62-103">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://protection.office.com/?hash=/restrictedusers) **without opening a support case**.</span></span> <span data-ttu-id="6be62-104">制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。</span><span class="sxs-lookup"><span data-stu-id="6be62-104">The user will be able to send email within an hour after removing the restriction.</span></span>
 
-2. <span data-ttu-id="17dc8-p103">セキュリティ &amp; コンプライアンス センターの [制限されたユーザー] に移動して、**[アカウントのブロックを解除](https://protection.office.com/?hash=/restrictedusers)** します。この操作を完了すると、*1 時間以内* にメッセージの送信を再開できるようになります。</span><span class="sxs-lookup"><span data-stu-id="17dc8-p103">Go to Restricted Users to **[unblock the account](https://protection.office.com/?hash=/restrictedusers)** in Security &amp; Compliance Center. Once done, you should be able to resume sending messages  *within 1 hour*  .</span></span>
-
-3. <span data-ttu-id="17dc8-109">今後のアカウント侵害を防止するために、「[Office 365 のセキュリティ ロードマップ](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)」の推奨事項に従ってください。</span><span class="sxs-lookup"><span data-stu-id="17dc8-109">To help prevent future account compromises, follow the recommendations in [Security best practices for Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).</span></span>
-  
+<span data-ttu-id="6be62-105">サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。</span><span class="sxs-lookup"><span data-stu-id="6be62-105">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="6be62-106">万一に備え、そのユーザーに関して、「[セキュリティが侵害された電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に説明されている手順を実行してください。</span><span class="sxs-lookup"><span data-stu-id="6be62-106">As a precaution, follow the steps in [Responding to a Compromised Email Account](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) for the user.</span></span>
