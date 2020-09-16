@@ -1,23 +1,24 @@
 ---
 title: O365 Business Premium サブスクリプションのセットアップ
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: b3ff5e3c805c4a8eb87fb2805cae26c1bed0cc24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509893"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739758"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="78853-102">O365 Business Premium サブスクリプションのセットアップ</span><span class="sxs-lookup"><span data-stu-id="78853-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="4254b-102">O365 Business Premium サブスクリプションのセットアップ</span><span class="sxs-lookup"><span data-stu-id="4254b-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="78853-103">Microsoft 365 サブスクリプションをセットアップするのにサポートが必要な場合は、[この記事](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)の手順に従って、セットアップを完了します。</span><span class="sxs-lookup"><span data-stu-id="78853-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
+<span data-ttu-id="4254b-103">Microsoft 365 サブスクリプションをセットアップするのにサポートが必要な場合は、[この記事](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)の手順に従って、セットアップを完了します。</span><span class="sxs-lookup"><span data-stu-id="4254b-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   
