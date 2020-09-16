@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
-ms.translationtype: HT
+ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771184"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720318"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online の一般的な問題と解決策
 

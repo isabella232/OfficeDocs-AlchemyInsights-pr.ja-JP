@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
-ms.translationtype: HT
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42592570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719958"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>パスワードを使用しないで Windows 10 にサインインする
 

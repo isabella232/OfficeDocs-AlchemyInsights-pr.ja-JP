@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765670"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721879"
 ---
 # <a name="recover-deleted-email-in-outlook-on-the-web"></a>Outlook on the web で削除済みのメールを復元する
 
