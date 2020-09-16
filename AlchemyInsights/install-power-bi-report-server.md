@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
-ms.translationtype: HT
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35760751"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755100"
 ---
 # <a name="install-power-bi-report-server"></a>Power BI レポート サーバーをインストールする
 

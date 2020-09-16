@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 6d5a3ad2c3f8d3e1f294ddc641716e62fc0ada78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e59912d98125002cf97a6b4a5201c2c73421c98f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713867"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754848"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>「承認済みドメインではありません」というエラーが表示される場合
 
@@ -24,5 +25,5 @@ ms.locfileid: "43713867"
   
 多くの場合、このエラーはドメイン名 *(contoso.com など)* がお客様の組織用に完全に設定されていないために発生します。
   
-「[Microsoft 365 へのドメインの追加](https://docs.microsoft.com/office365/admin/setup/add-domain)」の手順に従って、ドメインが完全に設定されていることを確認してください。
+「[Microsoft 365 へのドメインの追加](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)」の手順に従って、ドメインが完全に設定されていることを確認してください。
   

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 17defa3dedae58d8dfcc09973a8146c3fb4a1c90
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788815"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756324"
 ---
 # <a name="common-password-issues-and-resolutions"></a>一般的なパスワードの問題と解決策
 

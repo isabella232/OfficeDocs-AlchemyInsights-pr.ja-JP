@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 89756a8266ec80766a01bcc2f17d5540b8591de2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "42707448"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756144"
 ---
 # <a name="increase-microsoft-365-security"></a>強化された Microsoft 365 のセキュリティ
 

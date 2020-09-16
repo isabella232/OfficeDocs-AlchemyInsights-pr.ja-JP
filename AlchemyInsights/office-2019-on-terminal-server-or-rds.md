@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
-ms.translationtype: HT
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40825886"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754570"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS、ターミナル サーバー、または VDI で共有するための Office 2019 の導入
 
