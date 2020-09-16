@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: bc987ed2dae64df3341ed1526ef7c070b27b783d
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 9eb1ec0364ce0a3e44dc898464d65d2ef587e9c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44282079"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757710"
 ---
 # <a name="troubleshoot-verification-issues"></a>確認の失敗のトラブルシューティング
 

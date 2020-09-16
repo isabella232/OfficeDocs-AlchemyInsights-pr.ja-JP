@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1277"
 - "6700008"
-ms.openlocfilehash: 16be4e0cd2e47fe5d5888cbbe1380774f859e4d6
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 743b5917c08b0a49a8c5791bdeb59a1672dd0fc7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45424325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757305"
 ---
 # <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Intune を使用して、管理している iOS デバイスのアクティベーション ロックをバイパスする
 

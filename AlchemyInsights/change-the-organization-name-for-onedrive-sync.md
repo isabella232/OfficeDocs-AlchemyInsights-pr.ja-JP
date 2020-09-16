@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 8e474276633bba2895338fd0c0a5903df1ddf637
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708821"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756720"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>OneDrive 同期クライアントの組織名を変更する
 

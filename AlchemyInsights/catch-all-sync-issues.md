@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
-ms.translationtype: HT
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506295"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757053"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>基本的な Outlook 同期のトラブルシューティング
 
