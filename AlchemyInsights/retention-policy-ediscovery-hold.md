@@ -6,29 +6,30 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576889"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727896"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a><span data-ttu-id="3463a-102">SharePoint Online または OneDrive for Business でアイテムを削除できない</span><span class="sxs-lookup"><span data-stu-id="3463a-102">Unable to delete items in SharePoint Online or OneDrive for Business</span></span>
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a><span data-ttu-id="d32b1-102">SharePoint Online または OneDrive for Business でアイテムを削除できない</span><span class="sxs-lookup"><span data-stu-id="d32b1-102">Unable to delete items in SharePoint Online or OneDrive for Business</span></span>
 
-<span data-ttu-id="3463a-103">ユーザーが SharePoint Online または OneDrive for Business のアイテムを削除できない場合があります。これは、アイテム保持ポリシー、保持ラベル、または電子情報開示の保留が OneDrive サイトの SharePoint サイトや特定のアイテムに適用されているためです。</span><span class="sxs-lookup"><span data-stu-id="3463a-103">You or your users may be unable to delete items in SharePoint Online or OneDrive for Business because a retention policy, retention label, or eDiscovery hold is applied to a SharePoint of OneDrive site or to a specific item.</span></span> <span data-ttu-id="3463a-104">この場合、ドキュメント、ドキュメントのバージョン、フォルダー、ドキュメント ライブラリ、リスト、アプリ、サイト、またはサイト コレクションを削除することはできません。</span><span class="sxs-lookup"><span data-stu-id="3463a-104">This includes being unable to delete a document, a document version, a folder, a document library, a list, an app, a site, or a site collection.</span></span> 
+<span data-ttu-id="d32b1-103">ユーザーが SharePoint Online または OneDrive for Business のアイテムを削除できない場合があります。これは、アイテム保持ポリシー、保持ラベル、または電子情報開示の保留が OneDrive サイトの SharePoint サイトや特定のアイテムに適用されているためです。</span><span class="sxs-lookup"><span data-stu-id="d32b1-103">You or your users may be unable to delete items in SharePoint Online or OneDrive for Business because a retention policy, retention label, or eDiscovery hold is applied to a SharePoint of OneDrive site or to a specific item.</span></span> <span data-ttu-id="d32b1-104">この場合、ドキュメント、ドキュメントのバージョン、フォルダー、ドキュメント ライブラリ、リスト、アプリ、サイト、またはサイト コレクションを削除することはできません。</span><span class="sxs-lookup"><span data-stu-id="d32b1-104">This includes being unable to delete a document, a document version, a folder, a document library, a list, an app, a site, or a site collection.</span></span> 
 
-<span data-ttu-id="3463a-105">これらのシナリオでアイテムを削除するには、アイテム保持ポリシー、保持ラベル、または電子情報開示の保留を削除する必要があります (または、サイトをアイテム保持ポリシーから除外する必要があります)。</span><span class="sxs-lookup"><span data-stu-id="3463a-105">To delete items in one of these scenarios, the retention policy, retention label, or eDiscovery hold has to be removed (or a site has to be excluded from a retention policy).</span></span> <span data-ttu-id="3463a-106">この問題の原因となっている保留を無効にするか除外する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3463a-106">You need to either disable or exclude respective hold that's causing this issue.</span></span> <span data-ttu-id="3463a-107">アイテム保持ポリシーまたは保留を削除すると、この変更が反映されるまでに最大で 24 時間かかる場合があります。</span><span class="sxs-lookup"><span data-stu-id="3463a-107">After a retention policy or hold is removed, it may take up to 24 hours for the change to take effect.</span></span> 
+<span data-ttu-id="d32b1-105">これらのシナリオでアイテムを削除するには、アイテム保持ポリシー、保持ラベル、または電子情報開示の保留を削除する必要があります (または、サイトをアイテム保持ポリシーから除外する必要があります)。</span><span class="sxs-lookup"><span data-stu-id="d32b1-105">To delete items in one of these scenarios, the retention policy, retention label, or eDiscovery hold has to be removed (or a site has to be excluded from a retention policy).</span></span> <span data-ttu-id="d32b1-106">この問題の原因となっている保留を無効にするか除外する必要があります。</span><span class="sxs-lookup"><span data-stu-id="d32b1-106">You need to either disable or exclude respective hold that's causing this issue.</span></span> <span data-ttu-id="d32b1-107">アイテム保持ポリシーまたは保留を削除すると、この変更が反映されるまでに最大で 24 時間かかる場合があります。</span><span class="sxs-lookup"><span data-stu-id="d32b1-107">After a retention policy or hold is removed, it may take up to 24 hours for the change to take effect.</span></span> 
 
-<span data-ttu-id="3463a-108">SharePoint サイトや OneDrive アカウントに適用できるさまざまな保持機能と保留機能については、次のいずれかのトピックを参照してください。</span><span class="sxs-lookup"><span data-stu-id="3463a-108">For information about about the different retention and hold features that can be applied to SharePoint sites and OneDrive accounts, see one of the following topics.</span></span>
+<span data-ttu-id="d32b1-108">SharePoint サイトや OneDrive アカウントに適用できるさまざまな保持機能と保留機能については、次のいずれかのトピックを参照してください。</span><span class="sxs-lookup"><span data-stu-id="d32b1-108">For information about about the different retention and hold features that can be applied to SharePoint sites and OneDrive accounts, see one of the following topics.</span></span>
 
-- [<span data-ttu-id="3463a-109">アイテム保持ポリシーの概要</span><span class="sxs-lookup"><span data-stu-id="3463a-109">Overview of retention policies</span></span>](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [<span data-ttu-id="3463a-110">保持ラベルの概要</span><span class="sxs-lookup"><span data-stu-id="3463a-110">Overview of retention labels</span></span>](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [<span data-ttu-id="3463a-111">Advanced eDiscovery の保留を管理する</span><span class="sxs-lookup"><span data-stu-id="3463a-111">Manage holds in Advanced eDiscovery</span></span>](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [<span data-ttu-id="3463a-112">電子情報開示の保留</span><span class="sxs-lookup"><span data-stu-id="3463a-112">eDiscovery holds</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [<span data-ttu-id="3463a-113">従来のサイト クローズと削除のポリシー</span><span class="sxs-lookup"><span data-stu-id="3463a-113">Legacy site closure and deletion policies</span></span>](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [<span data-ttu-id="d32b1-109">アイテム保持ポリシーの概要</span><span class="sxs-lookup"><span data-stu-id="d32b1-109">Overview of retention policies</span></span>](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [<span data-ttu-id="d32b1-110">保持ラベルの概要</span><span class="sxs-lookup"><span data-stu-id="d32b1-110">Overview of retention labels</span></span>](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [<span data-ttu-id="d32b1-111">Advanced eDiscovery の保留を管理する</span><span class="sxs-lookup"><span data-stu-id="d32b1-111">Manage holds in Advanced eDiscovery</span></span>](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [<span data-ttu-id="d32b1-112">電子情報開示の保留</span><span class="sxs-lookup"><span data-stu-id="d32b1-112">eDiscovery holds</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [<span data-ttu-id="d32b1-113">従来のサイト クローズと削除のポリシー</span><span class="sxs-lookup"><span data-stu-id="d32b1-113">Legacy site closure and deletion policies</span></span>](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
