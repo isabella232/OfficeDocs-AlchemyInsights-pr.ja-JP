@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,12 +14,12 @@ ms.custom:
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: d814ccf4392c2a9c5239deae788d4349a793a256
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: b7fa5f4dc709511b6857b12942be2e7fd81ac575
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743674"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723036"
 ---
 # <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a>Microsoft 365 サブスクライバー用の Outlook.com の高度なセキュリティ
 

@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: a2f55cfb3882488b3337369fb32057b8a49dc845
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a8a85a8b65c381b26a97b4460fa5b8d4081f883e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666818"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723288"
 ---
 # <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Outlook.com で Skype をオフにするには、どうすればいいですか。
 

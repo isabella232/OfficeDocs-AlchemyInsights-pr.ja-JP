@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
@@ -13,12 +14,12 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709340"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723684"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>ブロックされた送信者からメールを受信する
 

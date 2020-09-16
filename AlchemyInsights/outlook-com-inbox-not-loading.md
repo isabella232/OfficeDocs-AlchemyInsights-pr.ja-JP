@@ -5,18 +5,19 @@ author: daeite
 manager: joallard
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
-ms.translationtype: HT
+ms.openlocfilehash: 16e349fa06350264f34802aefa9176d742d7a188
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822347"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723828"
 ---
 # <a name="empty-inbox"></a>受信トレイを空にする
 

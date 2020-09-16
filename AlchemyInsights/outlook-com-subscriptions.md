@@ -6,16 +6,17 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722604"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>サブスクリプションと購読解除
 
