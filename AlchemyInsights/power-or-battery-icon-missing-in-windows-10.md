@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: d82994c86126ea9c789e846a74e03794c32c5c3c
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 10213843f8ec5ceeaa191d3373406d767f2bea3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44282125"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771546"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>Windows 10 で電源アイコンまたはバッテリー アイコンが表示されない
 

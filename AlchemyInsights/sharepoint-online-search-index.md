@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
-ms.translationtype: HT
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341115"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770772"
 ---
 # <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online でのコンテンツのクロールとインデックス作成
 
