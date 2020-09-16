@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "44012636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714909"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP クライアントのインストロール
 
@@ -33,4 +34,8 @@ AIP クライアントをインストールする場合は、次のお勧めの�
 
 4. 上記のツールを実行してもクライアント自体のインストールに問題がある場合は、**% temp%** フォルダーを見つけ、Microsoft_Azure_Information_Protection_XXXXXXXXXX で始まるクライアント インストール ログファイルを指定してください。
 
-5. インストールが成功してAIP を使用しても問題が解決しない場合は、関連するソリューションのサポートのトピックを選択してください。
+詳細については、以下を参照してください。
+
+- [Azure Information Protection (AIP) のドキュメント](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)、セットアップ[要件](https://docs.microsoft.com/azure/information-protection/get-started/requirements)、および場所を確認して、[AIP クライアントをダウンロード](https://www.microsoft.com/download/details.aspx?id=53018)します。
+
+- Azure サブスクリプション情報については、「[Azure Information Protection サブスクリプションと機能](https://azure.microsoft.com/pricing/details/information-protection)」を参照してください。

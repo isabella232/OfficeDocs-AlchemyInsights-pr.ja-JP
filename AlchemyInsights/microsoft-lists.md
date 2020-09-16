@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724584"
 ---
 # <a name="microsoft-lists"></a>Microsoft リスト
 
@@ -25,7 +26,7 @@ Microsoft は、Microsoft リストの最初の段階として、Microsoft 365 �
   
 **Timing**  
 
-- 2020年7月下旬には、許可を与えた組織にリリースすることを目標にしています。
+- 対象指定リリースが有効になっている組織のロールアウトが開始されました。
 - 2020年10月中旬に、すべての組織にリリースします。
 
 SharePoint ライセンスを持つユーザーは、リストアイコンにアクセスし、Microsoft リストの使用を開始できます。 管理者は現在、この機能をオフにできません。

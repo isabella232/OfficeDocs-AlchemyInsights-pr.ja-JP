@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43918424"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701076"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Microsoft 365 Education サブスクリプションを設定する
 
@@ -24,6 +25,5 @@ ms.locfileid: "43918424"
 
 **その他の優れたリソース**
 
-- 概要については、「[Office 365 Education テナントをセットアップする](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)」を参照してください。
-- IT 管理者、開発者、パートナーは、「[Microsoft 365 Education の使用を開始する](https://docs.microsoft.com/education/)」を参照してください。 
-- [Microsoft Store アカウントを Intune for Education に関連付ける](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education) 
+- 概要については、「[Office 365 テナント アカウントを作成する](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)」を参照してください。
+- IT 管理者、開発者、パートナーは、「[Microsoft 365 Education の使用を開始する](https://docs.microsoft.com/education/)」を参照してください。
