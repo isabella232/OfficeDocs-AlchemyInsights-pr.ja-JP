@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 21f9ead80336e638a064d16ca14c3ec5c73046c3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
-ms.translationtype: HT
+ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052078"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782908"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>外部連絡先が、共有の招待を承諾することができない
 

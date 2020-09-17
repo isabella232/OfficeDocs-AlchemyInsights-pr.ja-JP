@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 4e31ef80d418dda637f5bf0aef49a0619f92ead5
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 1a73ca8b195cbbd93ba0f58e85a8d348ee6a4552
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44282072"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783196"
 ---
 # <a name="excel-or-word-files-are-locked-for-editing"></a>Excel または Word ファイルが編集中にロックされる
 

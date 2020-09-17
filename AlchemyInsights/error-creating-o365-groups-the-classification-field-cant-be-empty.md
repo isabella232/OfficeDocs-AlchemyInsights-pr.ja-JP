@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: aad87bead9942edce57e30683f5b7acbc750dd75
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cc0aa15f5fd63719f9b041dbf4724238935b2d19
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063082"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783916"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>O365 グループの作成エラー: 分類フィールドを空にすることはできません
 

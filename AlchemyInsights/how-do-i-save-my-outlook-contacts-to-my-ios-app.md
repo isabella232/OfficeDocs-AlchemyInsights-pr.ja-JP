@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 822045496ad5efcc7610fd8a316b8bcd7b38a79f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: HT
+ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627779"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781792"
 ---
 # <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Outlook の連絡先を iOS の連絡先アプリに保存する方法
 

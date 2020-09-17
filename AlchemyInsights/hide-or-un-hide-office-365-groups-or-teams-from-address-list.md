@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: cb3c2819ff7203774511bd0e45633b59a02091ff
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 1204b9f45fe34015f72c559f77674e980d28c822
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44282060"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782332"
 ---
 # <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Office 365 のグループまたはチームをアドレス一覧で非表示にするまたは非表示を解除する
 

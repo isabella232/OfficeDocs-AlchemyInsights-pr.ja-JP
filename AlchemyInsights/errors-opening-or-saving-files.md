@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
-ms.translationtype: HT
+ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600137"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783592"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Word ファイルを開いたり保存したりするときのエラーを解決する
 
@@ -30,7 +31,7 @@ Word 文書を開いたり保存したりするときに問題が発生する場
 次のいずれかのエラーが表示された場合は、「[レジストリ ポリシー設定によってファイルがブロックされた場合の Office でのエラー メッセージ](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)」に記載されている提案を実行します
 
 - レジストリ ポリシー設定によってブロックされているファイルを開こうとしています。
-- セキュリティ センターのファイル制限機能の設定によってブロックされた**\<ファイルの種類\>** のファイルの種類を開こうとしています。
+- トラスト センターのファイル制限機能の設定でブロックされている種類 **\<File Type\>** のファイルを開こうとしています。
 - Microsoft Office の以前のバージョンで作成されたファイルを開こうとしています。 レジストリ ポリシー設定により、このバージョンでは、このファイルの種類を開くことはできません。
 - レジストリ ポリシー設定によってブロックされているファイルを保存しようとしています。
 - セキュリティ センターのファイル制限機能の設定によってブロックされているファイルの種類を保存しようとしています。
