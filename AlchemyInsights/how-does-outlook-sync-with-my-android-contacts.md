@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 8a41923b7c3395c30414cbc39b74011c54267d78
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
-ms.translationtype: HT
+ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42307114"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781360"
 ---
 # <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook の Android の連絡先との同期の仕組みについて。
 

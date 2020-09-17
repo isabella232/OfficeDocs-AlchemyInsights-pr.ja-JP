@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: b17b6f8bb75ac77ae012db70d16b4cc55b553ae5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495956"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781184"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID を追加または編集する方法
 
@@ -35,7 +36,7 @@ ms.locfileid: "44495956"
 
     完了すると、VAT は次の請求書では請求されなくなります。
 
-詳細については、「Microsoft 365 ではどのような税が課せられますか?https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)」を参照してください
+詳細については、「 [Microsoft 365 に対して請求される税金](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)」を参照してください。
 
 **その他のリソース**
 
