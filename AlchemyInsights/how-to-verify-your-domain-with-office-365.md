@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744154"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815538"
 ---
 # <a name="how-to-verify-your-domain"></a>ドメインを確認する場合
 
-ドメインを確認するには、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains/Wizard)に従うか、**[セットアップ]** > **[ドメイン]** > **[ドメインの追加]** の順に手動で進みます。
+ドメインを確認するには、[ドメインの追加ウィザード](https://admin.microsoft.com/Adminportal#/Domains/Wizard)に従うか、**[セットアップ]** > **[ドメイン]** > **[ドメインの追加]** の順に手動で進みます。
 
 ドメインの確認に必要な DNS の変更の詳細については、「[DNS レコードを追加して自分のドメインを接続する](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」の手順をご覧ください。
 

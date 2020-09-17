@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 1c677f6796340061fcdb06ed639cf05cc1266bcd
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1bfe006ff6111581ebf85f0c599e65961e8289c0
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049486"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815646"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive または SharePoint にファイルをアップロードする
 

@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689275"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815826"
 ---
 # <a name="verify-your-domain-with-namecheap"></a>Namecheap でドメインを確認する
 
 ドメインを確認するには、ドメインを所有していることを確認するための TXT レコードをドメイン レジストラーに追加する必要があります。 
 
-最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://portal.office.com/adminportal/home#/Domains)に従います。
+最初に、[**設定**] \> [**ドメイン**] の順に選択し、[**ドメインの追加**] をクリックして、[ドメインの追加ウィザード](https://admin.microsoft.com/Adminportal#/Domains)に従います。
   
 詳しい手順については、「[Namecheap で Microsoft 365 用の DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)」を参照してください。
