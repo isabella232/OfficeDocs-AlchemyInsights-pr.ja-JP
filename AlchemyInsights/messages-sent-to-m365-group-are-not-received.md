@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 2c98841aaa278c1bc18b3ec9007240b1e856f41e
-ms.sourcegitcommit: 743a9e4967993c5463272240280c22e27a8dc5b6
+ms.openlocfilehash: d2f0674f6be135927dc5995575c14f3c2708df49
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45051534"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806152"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Microsoft 365 グループに送信されたメッセージがすべてのメンバによって受信されるわけではありません
 
