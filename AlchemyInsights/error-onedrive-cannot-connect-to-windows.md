@@ -5,20 +5,21 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: b0cf0e7e1a8eb3b80deac47a9639ddd23f1b864d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714299"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783736"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="3edde-102">エラー: OneDrive を Windows に接続できない</span><span class="sxs-lookup"><span data-stu-id="3edde-102">Error: OneDrive cannot connect to Windows</span></span>
+# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="b80d9-102">エラー: OneDrive を Windows に接続できない</span><span class="sxs-lookup"><span data-stu-id="b80d9-102">Error: OneDrive cannot connect to Windows</span></span>
 
-<span data-ttu-id="3edde-103">このエラー メッセージを解決するには、cldflt.sys ファイルを検索し、それが実行されているかどうかを確認します。実行されていない場合は、有効にしてください。</span><span class="sxs-lookup"><span data-stu-id="3edde-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
+<span data-ttu-id="b80d9-103">このエラー メッセージを解決するには、cldflt.sys ファイルを検索し、それが実行されているかどうかを確認します。実行されていない場合は、有効にしてください。</span><span class="sxs-lookup"><span data-stu-id="b80d9-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
   
-<span data-ttu-id="3edde-104">cldflt.sys ファイルを有効にする方法については、「[OneDrive でファイルにアクセスすると、"OneDrive は Windows に接続できません" というエラーが発生する](https://go.microsoft.com/fwlink/?Linkid=2031032)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3edde-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
+<span data-ttu-id="b80d9-104">cldflt.sys ファイルを有効にする方法については、「[OneDrive でファイルにアクセスすると、"OneDrive は Windows に接続できません" というエラーが発生する](https://go.microsoft.com/fwlink/?Linkid=2031032)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b80d9-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
   
 
