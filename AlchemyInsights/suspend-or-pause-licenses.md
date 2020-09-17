@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: e1cbfd5cd7fb5ce4c381975ed816ca27ff677a3a
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282037"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800181"
 ---
 # <a name="suspend-or-pause-licenses"></a>ライセンスを停止、または一時停止する
 

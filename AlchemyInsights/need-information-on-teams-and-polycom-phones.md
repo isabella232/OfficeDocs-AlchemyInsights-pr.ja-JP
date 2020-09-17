@@ -5,18 +5,19 @@ author: microsoftheidi
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1703"
 - "9000170"
-ms.openlocfilehash: 34997edc02b5f222dd6b8e7ed7e5f219af41fac6
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a2796e46a624ed389453789c5a84be8709569891
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "37340534"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799641"
 ---
 # <a name="need-information-on-teams-and-polycom-phones"></a>Teams と Polycom フォンに関する情報が必要ですか?
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: 29c79dbb0c828418251a84d03d9c32b13e21501d
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: ea1b8212a00d8863d55a10d839d0a15c379ab5fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708820"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799677"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>別のクラウド プロバイダーから OneDrive for Business にファイルを移動する
 

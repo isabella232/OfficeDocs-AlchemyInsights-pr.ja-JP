@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 3b1b1586814a8817df24c42f6a80e6dfd5d193a5
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: ebaff37a0f56cc6fb997c9a22df905bd9c8d00f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063766"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799893"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 で Rights Management 保護を使用する
 

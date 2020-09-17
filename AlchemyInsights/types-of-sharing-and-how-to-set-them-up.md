@@ -3,9 +3,10 @@ title: 615 共有の種類とその設定方法。
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -14,18 +15,18 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: e7dc184adbe1fe6345646850906805e28ac4b781
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4becc3d62a98c730f66696d66e69ba77b55eb9b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742414"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800073"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>さまざまな種類の Outlook の共有予定表とその設定方法
 
-- [共有メールボックスを作成する](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [共有メールボックスを作成する](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
-- [会議室メールボックスと備品用メールボックス](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [会議室メールボックスと備品用メールボックス](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
 
 - [予定表グループを作成する](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 

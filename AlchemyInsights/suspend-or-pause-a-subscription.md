@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: af7ac1795e4c98f9ca310bed02197c028e493d5e
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282033"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800145"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>サブスクリプションを停止、または一時停止する
 
