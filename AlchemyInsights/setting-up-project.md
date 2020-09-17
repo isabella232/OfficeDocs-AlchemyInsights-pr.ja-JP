@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,12 +12,12 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: 1 つの記事は 500 語以下でまとめることを目標にします。
-ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
-ms.translationtype: HT
+ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666197"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798777"
 ---
 # <a name="setting-up-project"></a>プロジェクトの設定
 

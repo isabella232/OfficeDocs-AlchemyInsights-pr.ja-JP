@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/17/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6048"
 - "9000755"
-ms.openlocfilehash: a5a182fb229920838b5a3e78842ce5a7ff592e4e
-ms.sourcegitcommit: e5906a10f46be33d46e5d9a30c46ed5f2d88b7f7
+ms.openlocfilehash: aa0cf8136c3fed80a871480d89349f188bf3d742
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2020
-ms.locfileid: "45198667"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797805"
 ---
 # <a name="resolving-issues-sharing-onenote-notebooks"></a>OneNote ノートブックの共有に関する問題の解決
 

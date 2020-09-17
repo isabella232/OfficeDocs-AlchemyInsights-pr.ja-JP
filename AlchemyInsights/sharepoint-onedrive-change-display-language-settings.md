@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: f7f23a05260ff72fe2591ae56dec80e49c02d687
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: dafe6180197559deac9cffcfd75f3ed1c95e791a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758610"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797625"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>SharePoint または OneDrive の表示言語の設定を変更する 
 

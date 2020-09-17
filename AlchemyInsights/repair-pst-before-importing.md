@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720142"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799101"
 ---
 # <a name="repair-pst-file-before-importing"></a>インポート前に .pst ファイルを修復する
 
@@ -25,7 +26,7 @@ ms.locfileid: "43720142"
 
 1. Outlook を終了します。
 
-2. `Scanpst.exe`Office プログラム フォルダー (C:\Program Files (x86)\Microsoft Office\root\Office \<バージョン\>または C:\Program Files\Microsoft Office\root\Office \<バージョン\>) を検索して実行します。
+2. `Scanpst.exe`Office プログラムフォルダー (C:\program files (x86) \Microsoft Office\root\Office または c:\program の Office\root\Office) で検索して実行 \<Version\> \<Version\> します。
 
 3. **Microsoft Outlook 受信トレイ修復ツール**で、**[参照]** をクリックして .pst ファイルを検索します (たとえば、C:\Users\\<username\>\AppData\Local\Microsoft\Outlook)。 .pst ファイルを選択し、**[開く]** をクリックします。
 

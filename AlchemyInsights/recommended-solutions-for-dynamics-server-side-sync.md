@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,12 +12,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745474"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797913"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server 側同期の推奨ソリューション
 
