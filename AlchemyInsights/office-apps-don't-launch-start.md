@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 870e5887c9b98e9716e886cab8e7d99ee6110f57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576853"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803034"
 ---
 # <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 アプリがクラッシュする、応答を停止する、起動しない
 
