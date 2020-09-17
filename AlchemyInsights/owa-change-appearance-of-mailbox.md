@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743134"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795969"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="31688-102">Outlook メールボックスの外観を変更する</span><span class="sxs-lookup"><span data-stu-id="31688-102">Change the look of your Outlook mailbox</span></span>
+# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="b9219-102">Outlook メールボックスの外観を変更する</span><span class="sxs-lookup"><span data-stu-id="b9219-102">Change the look of your Outlook mailbox</span></span>
 
-<span data-ttu-id="31688-103">メッセージ リストと閲覧ウィンドウの外観は、操作感が自分の好みに合うように変更できます。</span><span class="sxs-lookup"><span data-stu-id="31688-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="31688-104">メッセージを個別に表示するかスレッド形式で表示するか、新しいメッセージをメッセージ リストの先頭に表示するか末尾に表示するかなどを選択できます。</span><span class="sxs-lookup"><span data-stu-id="31688-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
+<span data-ttu-id="b9219-103">メッセージ リストと閲覧ウィンドウの外観は、操作感が自分の好みに合うように変更できます。</span><span class="sxs-lookup"><span data-stu-id="b9219-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="b9219-104">メッセージを個別に表示するかスレッド形式で表示するか、新しいメッセージをメッセージ リストの先頭に表示するか末尾に表示するかなどを選択できます。</span><span class="sxs-lookup"><span data-stu-id="b9219-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
 
-1. <span data-ttu-id="31688-105">ページの上部にある</span><span class="sxs-lookup"><span data-stu-id="31688-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="31688-106">歯車アイコンを選択して、[設定] ウィンドウを開きます。</span><span class="sxs-lookup"><span data-stu-id="31688-106">at the top of the page to open the Settings pane.</span></span>
-1. <span data-ttu-id="31688-107">優先受信トレイ、表示間隔、スレッド表示、および閲覧ウィンドウの設定を選択します。</span><span class="sxs-lookup"><span data-stu-id="31688-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
-1. <span data-ttu-id="31688-108">メッセージ リストの上部にある **[フィルター]** > **[並べ替え]** から、電子メールの並べ替え方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="31688-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
+1. <span data-ttu-id="b9219-105">ページの上部にある</span><span class="sxs-lookup"><span data-stu-id="b9219-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="b9219-106">歯車アイコンを選択して、[設定] ウィンドウを開きます。</span><span class="sxs-lookup"><span data-stu-id="b9219-106">at the top of the page to open the Settings pane.</span></span>
+1. <span data-ttu-id="b9219-107">優先受信トレイ、表示間隔、スレッド表示、および閲覧ウィンドウの設定を選択します。</span><span class="sxs-lookup"><span data-stu-id="b9219-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
+1. <span data-ttu-id="b9219-108">メッセージ リストの上部にある **[フィルター]** > **[並べ替え]** から、電子メールの並べ替え方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="b9219-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
 
-<span data-ttu-id="31688-109">詳細については、「[メールボックスの外観を変更する](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="31688-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="b9219-109">詳細については、「[メールボックスの外観を変更する](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b9219-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
