@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: a98a70e88356716cb81cb1c08b15747ef9a74401
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 44fb3dc1fe53f25a9cecec726e12c86b0fc2e5e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712823"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777103"
 ---
 # <a name="permanently-delete-email-in-outlookcom"></a>Outlook.com の電子メールを完全に削除する
 

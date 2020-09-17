@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508777"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778228"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>メールボックス サイズが既に 100 GB の場合の対処方法
 

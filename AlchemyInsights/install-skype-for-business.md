@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 07aef10b2b3c43c3a45e21972bb47b05b975f50b
-ms.sourcegitcommit: 5dcd373dfc4e7e373d7d9ec2321146995e353018
-ms.translationtype: HT
+ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "41264576"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778264"
 ---
 # <a name="install-skype-for-business"></a>Skype for Business をインストールします
 
