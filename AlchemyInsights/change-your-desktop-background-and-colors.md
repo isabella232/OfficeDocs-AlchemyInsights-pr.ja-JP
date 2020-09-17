@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
-ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
-ms.translationtype: HT
+ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42581426"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793691"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>デスクトップの背景と色を変更する
 

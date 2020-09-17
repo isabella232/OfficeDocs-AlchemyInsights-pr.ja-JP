@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 9698aa12ad73a021a3cc12c8517c1712c48d8385
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010872"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794916"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Office 展開ツールの使用 (ODT)
 
@@ -29,17 +30,13 @@ Office 展開ツール (ODT) を使用して Office の Office 365 バージョ�
     **注:** Office のインストールでは、一般的に構成ファイルの構成内容または形式が正しくないことが原因で問題が発生します。このような問題を避けるために、Office カスタマイズ ツールを使用して構成ファイルを作成することをお勧めします。また、Office カスタマイズ ツールに既存の構成ファイルをインポートすることもできます。
 
 3. 管理者特権でのコマンド プロンプトから、setup.exe が置かれている場所に切り替えて、Office 展開ツールをダウンロード モードで実行し、先ほど保存した構成ファイルを指定します。この例では、構成ファイルに Configuration.xml という名前が付けられています。
-    
-  ```
-  setup.exe /download Configuration.xml  
-  ```
 
-4. Office 展開ツールを構成モードで実行して、構成ファイルを指定します。
-    
-  ```
-  setup.exe /configure Configuration.xml
-  ```
+```setup.exe /download Configuration.xml```
 
-    **注:** この手順は、Office をインストールするクライアント コンピューターから実行する必要があります。また、そのコンピューターに対してローカル管理者のアクセス許可を持っている必要があります。
+4. 構成モードで Office 展開ツールを実行し、構成ファイルを指定します。
+
+```setup.exe /configure Configuration.xml```
+
+**注:** この手順は、Office をインストールするクライアント コンピューターから実行する必要があります。また、そのコンピューターに対してローカル管理者のアクセス許可を持っている必要があります。
 
 Microsoft 365 Apps for enterprise の展開シナリオに Office 展開ツールを使用する方法の詳細については、「[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)」を参照してください。Office カスタマイズ ツールの使用方法の詳細については、「[Office カスタマイズ ツールの概要](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)」を参照してください。

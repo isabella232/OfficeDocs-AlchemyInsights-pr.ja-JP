@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: b66ee7019198cefe63fd3fb2a4fc0aa352c82a6e
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 1a92ae582919ddd11b62498d2c91111165e34595
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44282051"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795096"
 ---
 # <a name="use-windows-security-for-virus-and-threat-protection"></a>Windows セキュリティを使用してウイルス対策と脅威対策を行う
 

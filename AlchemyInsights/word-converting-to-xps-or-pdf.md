@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 202d68f3bd1f9b9e5b145a8c4ad8346fa1254d68
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
-ms.translationtype: HT
+ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37042414"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794844"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word 文書を XPS または PDF 形式に変換するときの問題を解決する
 

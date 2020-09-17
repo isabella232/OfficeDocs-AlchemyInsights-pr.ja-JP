@@ -6,15 +6,16 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743134"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795969"
 ---
 # <a name="change-the-look-of-your-outlook-mailbox"></a>Outlook メールボックスの外観を変更する
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 9629c7f94d5223f08466537dec1e2c8624a6d285
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: afadd93fb9ccf6a76a7fa7e6b860212756050c6c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44282092"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795717"
 ---
 # <a name="reset-or-recover-your-pc"></a>PC を初期状態に戻す、または回復する
 
