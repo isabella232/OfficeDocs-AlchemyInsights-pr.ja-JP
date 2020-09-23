@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685459"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219860"
 ---
-# <a name="block-email-forwarding"></a>メールの転送のブロック
+# <a name="blocking-or-unblocking-email-forwarding"></a>メール転送をブロックまたはブロック解除する
 
-特定のメールボックスのメールの転送を無効にするには、「[メール転送を構成する](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)」を参照してください。
+特定のメールボックスの電子メール転送を有効または無効にするには、「 [Configure email 転送](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)」を参照してください。
 
-組織全体のメールの転送をブロックするには、[Exchange Online でメールの自動転送をブロックするさまざまな方法](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)に関するページを参照してください。
+テナントレベルでは、外部転送の制御は送信スパム対策ポリシーを使用して行われます。 Off または Automatic に設定されている場合は、"550 5.7.520 アクセスが拒否されました。組織で外部転送が許可されていません。" エラーが発生すると、電子メールの転送がブロックされることがあります。 その後、転送がブロックされるように設定されている場合、ユーザーに表示されるエラーになります。
+
+転送がブロックされている場合は、ポリシーが外部の Autoforward を有効にするように構成されていることを確認してください。 [セキュリティとコンプライアンスセンター] またはコマンド HostedOutboundSpamFilterPolicy | を実行して、送信スパムフィルターポリシーを確認できます。fl 名、AutoForwardingMode。 Autoforward ブロックを設定する場合は、このコマンドを実行すると、ポリシーの状態が [現在] になります。
+
+注: 既定の送信スパムフィルターポリシーの外部 Autoforward は無効のままにし、ユーザーのためにカスタムポリシーを作成することによって、外部転送を必要とするユーザーに対してのみ有効にすることをお勧めします。 [Office 365 で外部電子メール転送を構成する方法](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)については、「」を参照してください。
