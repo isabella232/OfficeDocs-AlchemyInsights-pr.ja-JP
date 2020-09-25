@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744631"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236094"
 ---
 # <a name="unable-to-activate-office"></a>Office をライセンス認証することができない
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744631"
 - ユーザーが、ライセンスが割り当てられているアカウントと同じアカウントで Office にサインインしていることを確認します。
 - [Office 365 サービス正常性ページ](https://docs.microsoft.com/office365/enterprise/view-service-health)を確認し、サービスに既知の問題があるかどうかを確認します。
 - ファイアウォール、ウイルス対策ソフトウェア、プロキシ設定を確認し、Microsoft 365 アプリがインターネットにアクセスするのをそれらがブロックしていないことを確認します。 詳細については、「[Office 365 の URL と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL および IP アドレス範囲")」を参照してください。
+
+Windows コンピューターについての**ヒント**、Office の一般的なサインインの問題を診断して、自動的に修正することができます。 **[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-OfficeSignInScenario)** をダウンロードして実行し、自動化ツールを使用します。
 
 トラブルシューティングのための次の操作をお試しください。
 
