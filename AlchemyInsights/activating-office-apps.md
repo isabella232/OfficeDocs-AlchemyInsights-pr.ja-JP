@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697994"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236058"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 アプリのライセンス認証
 
@@ -35,6 +35,8 @@ Office のライセンス認証に関する問題の修正については、次�
 - [Office でのライセンスのない製品というエラーとライセンス認証のエラー](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Office for Mac のインストールやライセンス認証ができない場合の対応策](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**ヒント** Windows マシンでは、一般的な Office のサインインに関する問題のいくつかを診断し、自動的に修正することができます。 **[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-OfficeSignInScenario)** をダウンロードして実行し、自動化ツールを使用します。
 
 Microsoft 365 アプリにサインインできない場合は、以下の手順に従ってください。
 

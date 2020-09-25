@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802818"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236022"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 アプリのメッセージ - 申し訳ございません。このコンピューターに、組織内の別のアカウントが既にサインインしています
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802818"
 - **+** アイコンをクリックして、アカウントを追加または接続します。 資格情報を入力し、プロセスが完了するまで待ちます。
 
 - Office アプリを起動し、必要に応じて再度サインインします。 
+
+**ヒント** Windows マシンでは、一般的な Office のサインインに関する問題のいくつかを診断し、自動的に修正することができます。 **[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-OfficeSignInScenario)** をダウンロードして実行し、自動化ツールを使用します。
 
 問題が解決しない場合は、次の手順をお試しください。 
 
