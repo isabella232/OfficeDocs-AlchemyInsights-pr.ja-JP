@@ -2,7 +2,7 @@
 title: サブスクリプション情報
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,29 +14,25 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: dcf016e451cf1d88484578b9bc250fdf2ee11624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737598"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286999"
 ---
-# <a name="subscription-information"></a><span data-ttu-id="95221-102">サブスクリプション情報</span><span class="sxs-lookup"><span data-stu-id="95221-102">Subscription information</span></span>
+# <a name="subscription-information"></a><span data-ttu-id="fc415-102">サブスクリプション情報</span><span class="sxs-lookup"><span data-stu-id="fc415-102">Subscription information</span></span>
 
-<span data-ttu-id="95221-103">所有するサブスクリプションに関する情報については、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="95221-103">For information about the subscriptions you own, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+<span data-ttu-id="fc415-103">所有するサブスクリプションの詳細については、「 **Billing** \> [お客様にご](https://go.microsoft.com/fwlink/p/?linkid=842054)請求ください」ページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="fc415-103">For information about the subscriptions you own, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
   
-<span data-ttu-id="95221-104">各サブスクリプションに関する主要な情報</span><span class="sxs-lookup"><span data-stu-id="95221-104">Key information about each subscription:</span></span>
+<span data-ttu-id="fc415-104">表には、各サブスクリプションに関する以下の重要な情報が示されています。</span><span class="sxs-lookup"><span data-stu-id="fc415-104">The table shows the following key information about each subscription:</span></span>
   
-- <span data-ttu-id="95221-105">それぞれの状態</span><span class="sxs-lookup"><span data-stu-id="95221-105">Status of each</span></span>
-
-- <span data-ttu-id="95221-106">購入したライセンス</span><span class="sxs-lookup"><span data-stu-id="95221-106">Licenses purchased</span></span>
-
-- <span data-ttu-id="95221-107">割り当てられているライセンス</span><span class="sxs-lookup"><span data-stu-id="95221-107">Licenses assigned</span></span>
-
-- <span data-ttu-id="95221-108">継続請求の状態</span><span class="sxs-lookup"><span data-stu-id="95221-108">Recurring billing status</span></span>
-
-- <span data-ttu-id="95221-109">残高</span><span class="sxs-lookup"><span data-stu-id="95221-109">Balance</span></span>
-
-- <span data-ttu-id="95221-110">支払い方法</span><span class="sxs-lookup"><span data-stu-id="95221-110">Payment method</span></span>
-
-- <span data-ttu-id="95221-111">次回の請求または有効期限</span><span class="sxs-lookup"><span data-stu-id="95221-111">Next billing or expiration date</span></span>
+- <span data-ttu-id="fc415-105">製品名</span><span class="sxs-lookup"><span data-stu-id="fc415-105">Product name</span></span>
+- <span data-ttu-id="fc415-106">割り当てられているライセンス</span><span class="sxs-lookup"><span data-stu-id="fc415-106">Licenses assigned</span></span>
+- <span data-ttu-id="fc415-107">購入したライセンス</span><span class="sxs-lookup"><span data-stu-id="fc415-107">Licenses purchased</span></span>
+- <span data-ttu-id="fc415-108">状態</span><span class="sxs-lookup"><span data-stu-id="fc415-108">Status</span></span>
+- <span data-ttu-id="fc415-109">更新または有効期限の日付</span><span class="sxs-lookup"><span data-stu-id="fc415-109">Renewal or expiration date</span></span>
+- <span data-ttu-id="fc415-110">支払い方法</span><span class="sxs-lookup"><span data-stu-id="fc415-110">Payment method</span></span>
+- <span data-ttu-id="fc415-111">課金アカウント (該当する場合)</span><span class="sxs-lookup"><span data-stu-id="fc415-111">Billing account (if applicable)</span></span>
+ 
+<span data-ttu-id="fc415-112">列を追加または削除するには、[ **列の選択**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="fc415-112">To add or remove columns, select **Choose columns**.</span></span>
