@@ -1,8 +1,8 @@
 ---
 title: 製品
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799245"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307023"
 ---
-# <a name="your-products"></a><span data-ttu-id="8727f-102">製品</span><span class="sxs-lookup"><span data-stu-id="8727f-102">Your products</span></span>
+# <a name="your-products"></a><span data-ttu-id="846fd-102">製品</span><span class="sxs-lookup"><span data-stu-id="846fd-102">Your products</span></span>
 
-<span data-ttu-id="8727f-103">お客様の組織が所有しているサブスクリプションは、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページでご確認いただけます。</span><span class="sxs-lookup"><span data-stu-id="8727f-103">You can find the subscriptions owned by your organization on the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="8727f-104">このページの特徴の一部と、各機能に関する詳しい情報のリンクを次に示します。</span><span class="sxs-lookup"><span data-stu-id="8727f-104">Here are some of the highlights of this page along with links for more info on each feature:</span></span>
+<span data-ttu-id="846fd-103">お客様の組織が所有しているサブスクリプションは、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページでご確認いただけます。</span><span class="sxs-lookup"><span data-stu-id="846fd-103">You can find the subscriptions owned by your organization on the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="846fd-104">各機能の詳細については、このページの主な説明とリンクを参照してください。</span><span class="sxs-lookup"><span data-stu-id="846fd-104">Here are some of the highlights of this page along with links for more information about each feature:</span></span>
 
-1. <span data-ttu-id="8727f-105">サブスクリプションごとに購入されているライセンス数と、使用中のライセンス数を管理する。</span><span class="sxs-lookup"><span data-stu-id="8727f-105">Manage the number of licenses that have been purchased for each subscription along with how many are in use.</span></span>  <span data-ttu-id="8727f-106">**注**: 使用していない (ユーザーに割り当てられていない) ライセンスも課金されます。</span><span class="sxs-lookup"><span data-stu-id="8727f-106">**Note**: Licenses that are not in use (not assigned to a user) are still charged.</span></span>  <span data-ttu-id="8727f-107">使用していないライセンスが課金されないようにするには、購入ライセンス数を減らしてください。</span><span class="sxs-lookup"><span data-stu-id="8727f-107">To not be charged for unused licenses, reduce the number of licenses purchased.</span></span> <span data-ttu-id="8727f-108">サブスクリプションにライセンスを追加または削除する方法について詳しくは、「[ライセンスを追加または削除する方法](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8727f-108">For information on how to add or remove licenses from a subscription, see [How to add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).</span></span>
+1. <span data-ttu-id="846fd-105">割り当てられているライセンスの数、および各サブスクリプションに対して購入したライセンスの数を表示します。</span><span class="sxs-lookup"><span data-stu-id="846fd-105">View the number of licenses that are assigned, and how many licenses were purchased for each subscription.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="846fd-106">使用されていない (ユーザーに割り当てられていない) ライセンスを引き続きチャージしています。</span><span class="sxs-lookup"><span data-stu-id="846fd-106">You're still charged for licenses that aren't in use (not assigned to a user).</span></span> <span data-ttu-id="846fd-107">使用していないライセンスが課金されないようにするには、購入ライセンス数を減らしてください。</span><span class="sxs-lookup"><span data-stu-id="846fd-107">To not be charged for unused licenses, reduce the number of licenses purchased.</span></span> <span data-ttu-id="846fd-108">サブスクリプションに対してライセンスを追加または削除する方法については、「 [ライセンスを追加または減らす方法](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="846fd-108">For information about how to add or remove licenses from a subscription, see [How to add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).</span></span>
+2. <span data-ttu-id="846fd-109">各サブスクリプションの状態を表示します。</span><span class="sxs-lookup"><span data-stu-id="846fd-109">View the status of each subscription.</span></span> <span data-ttu-id="846fd-110">サブスクリプションを再アクティブ化する方法については、「 [サブスクリプションを再アクティブ化](reactivate-your-subscription.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="846fd-110">To learn how to reactivate a subscription, see [Reactivate your subscription](reactivate-your-subscription.md).</span></span>
+3. <span data-ttu-id="846fd-111">各サブスクリプションの更新または有効期限を表示します。</span><span class="sxs-lookup"><span data-stu-id="846fd-111">View the renewal or expiration date of each subscription.</span></span> <span data-ttu-id="846fd-112">サブスクリプションを選択し、[ **定期的な請求の編集**] を選択することにより、更新を管理できます。</span><span class="sxs-lookup"><span data-stu-id="846fd-112">You can manage renewal by selecting the subscription, then selecting **Edit recurring billing**.</span></span> <span data-ttu-id="846fd-113">定期的な課金を管理する方法については、「 [定期的な課金を管理](manage-auto-renewal.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="846fd-113">To learn how to manage recurring billing, see [Manage recurring billing](manage-auto-renewal.md).</span></span>
+4. <span data-ttu-id="846fd-114">各サブスクリプションで使用されている支払い方法を表示します。</span><span class="sxs-lookup"><span data-stu-id="846fd-114">View the payment method used for each subscription.</span></span> <span data-ttu-id="846fd-115">支払い方法を変更する方法については、「 [支払い方法の変更](change-payment-method.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="846fd-115">To learn how to change the payment method, see [Change payment method](change-payment-method.md).</span></span>
+5. <span data-ttu-id="846fd-116">[支払いの頻度を変更](change-how-often-you-pay.md)します。</span><span class="sxs-lookup"><span data-stu-id="846fd-116">[Change how often you pay](change-how-often-you-pay.md).</span></span>
+6. <span data-ttu-id="846fd-117">[サブスクリプションをキャンセルする](https://go.microsoft.com/fwlink/?linkid=2119113)。</span><span class="sxs-lookup"><span data-stu-id="846fd-117">[Cancel the subscription](https://go.microsoft.com/fwlink/?linkid=2119113).</span></span>
 
-2. <span data-ttu-id="8727f-109">サブスクリプションの更新日または有効期限を表示する。</span><span class="sxs-lookup"><span data-stu-id="8727f-109">View the renewal or expiration date of the subscription.</span></span>  <span data-ttu-id="8727f-110">**[更新予定日/有効期限]** の日付の横にある **[編集]** リンクをクリックすると、更新を管理できます。</span><span class="sxs-lookup"><span data-stu-id="8727f-110">You can manage renewal by clicking the **edit** link next to the **Renews/expires** on date.</span></span>  <span data-ttu-id="8727f-111">継続請求の管理方法について詳しくは、「[一般法人向け Microsoft 365 サブスクリプションの更新またはライセンスの再認証をする](https://go.microsoft.com/fwlink/?linkid=2119216)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8727f-111">See [Renew Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) for more info on how to manage recurring billing.</span></span>
-
-3. <span data-ttu-id="8727f-112">[期限切れまたは無効になったサブスクリプションを再度有効にする](https://go.microsoft.com/fwlink/?linkid=2117519)。</span><span class="sxs-lookup"><span data-stu-id="8727f-112">[Reactivate an expired or disabled subscription](https://go.microsoft.com/fwlink/?linkid=2117519).</span></span>
-
-4. <span data-ttu-id="8727f-113">[サブスクリプションの支払いに使用する支払い方法を編集する](https://go.microsoft.com/fwlink/?linkid=2117167)。</span><span class="sxs-lookup"><span data-stu-id="8727f-113">[Edit the payment method used to pay for the subscription](https://go.microsoft.com/fwlink/?linkid=2117167).</span></span>
-
-5. <span data-ttu-id="8727f-114">[請求頻度を変更する](https://go.microsoft.com/fwlink/?linkid=2119112)。</span><span class="sxs-lookup"><span data-stu-id="8727f-114">[Change how often you are billed](https://go.microsoft.com/fwlink/?linkid=2119112).</span></span>
-
-6. <span data-ttu-id="8727f-115">[サブスクリプションをキャンセルする](https://go.microsoft.com/fwlink/?linkid=2119113)。</span><span class="sxs-lookup"><span data-stu-id="8727f-115">[Cancel the subscription](https://go.microsoft.com/fwlink/?linkid=2119113).</span></span>
-
-<span data-ttu-id="8727f-116">追加のサブスクリプションは、**[課金]** > [**[サービスを購入する]**](https://go.microsoft.com/fwlink/p/?linkid=868433) ページから購入できます。</span><span class="sxs-lookup"><span data-stu-id="8727f-116">You can purchase additional subscriptions from the **Billing** > [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+<span data-ttu-id="846fd-118">**請求**  >  [書サービス](https://go.microsoft.com/fwlink/p/?linkid=868433)ページから、追加のサブスクリプションを購入することができます。</span><span class="sxs-lookup"><span data-stu-id="846fd-118">You can buy additional subscriptions from the **Billing** > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
