@@ -2,7 +2,7 @@
 title: Microsoft ボリューム ライセンス サブスクリプションをアクティブ化する
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,20 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: aa46285e2439ef6c645c0ae83db6bbd3a2350bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698102"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307182"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft ボリューム ライセンス サブスクリプションをアクティブ化する
 
 1. [ボリューム ライセンス サービス センター (VLSC) ポータル](https://go.microsoft.com/fwlink/p/?LinkId=329762)にサインインします。
-
 2. お使いのサブスクリプションに移動して、**[アクティブ化]** を選択します。
-
-3. 電子メールがオンライン サービス (OLS) の連絡先に送信されます。
-
-4. 電子メールでのアクティブ化には、**サインアップ**と**サインイン**の 2 つのオプションがあります。以前試用版を作成した場合は**サインイン**を選択します。まだ Microsoft 365 テナントを持っていない場合は**サインアップ**を選択します。
-
-5. 既存の管理者の資格情報を使用して、Microsoft 365 管理センター ([https://admin.microsoft.com](https://admin.microsoft.com)) にサインインします。サインインに成功すると、購入を確認するもう 1 通の電子メール メッセージが届きます。
-
-6. サインイン後、[**課金**] \> [[製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページに移動すると、購入したサブスクリプションがテナント内でアクティブ化されていることを確認できます (VLSC の [**サブスクリプション**] タブを選択して、サブスクリプションが入金されていることを確認する詳細を表示することもできます)。
+3. 電子メールは、オンラインサービス (OLS) の連絡先に送信されます。
+4. ライセンス認証の電子メールでは、 **サインアップ**、または **サインイン**の2つのオプションが提供されます。以前に試用版を作成している場合は、[ **サインイン**] を選択します。Microsoft 365 テナントがまだない場合は、[ **サインアップ**] を選択します。
+5. [https://admin.microsoft.com](https://admin.microsoft.com)既存の管理者の資格情報を使用して、Microsoft 365 管理センター () にサインインします。サインインに成功すると、購入を確認する別のメールが届きます。
+6. サインインしたら、[製品の**請求**] ページに移動して、購入した \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)サブスクリプションがアクティブになったことを確認します。 
+    > [!NOTE]
+    > VLSC の [ **サブスクリプション** ] タブを選択して、サブスクリプションがアクティブ化されたことを確認する詳細を表示することもできます。

@@ -2,7 +2,7 @@
 title: 追加のライセンスを購入する
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725556"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307203"
 ---
 # <a name="buy-additional-licenses"></a>追加のライセンスを購入する
 
-1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
+1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
+2. [ **製品** ] タブで、ライセンスを購入または削除するサブスクリプションを検索します。 [ **その他のアクション** (3 つのドット)] を選択し、[ **ライセンスの購入**] を選択します。
+3. ライセンスの数を少なくする場合は、[ **ライセンスの購入** ] ウィンドウの上部にある [ **ライセンスの削除**] を選択します。
+4. ライセンスを購入または削除するには、[**ライセンスの総数**] ボックスに**新しい数量**を入力します。このサブスクリプションに使用するライセンスの合計数を入力します。 たとえば、100ライセンスがあり、さらに25を追加する場合は、「125」と入力します。 25個のライセンスを削除する場合は、75と入力します。
+5. **[保存]** を選択します。
 
-2. ライセンスを追加するサブスクリプションを検索して、[**ライセンスの追加/削除**] を選択します。
-
-    [追加/削除リンクが表示されない場合](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. [**ライセンスの総数**] ボックスにこのサブスクリプション用に必要なライセンスの総数を入力し、[**変更の送信**] を選択します。たとえば、100 個のユーザー ライセンスを持っていて、さらに 5 個のライセンスを追加する場合は、ここに「105」と入力します。
-
-    > [!NOTE]
-    > サブスクリプションの支払いにクレジット カードまたは銀行口座を使用している場合、購入した新しいライセンスは注文確認の受け取り直後に使用可能になります。請求書支払いの場合は、与信審査を待機する必要があり、その後で新しいライセンスが使用可能になります。
-
-詳細については、「[一般法人向け Microsoft 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」を参照してください。  
+詳細については、「[一般法人向け Microsoft 365 サブスクリプションのライセンスを購入する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」を参照してください。
 
 **追加リソース**
 
-- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
