@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812120"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305448"
 ---
 # <a name="configure-endpoint-dlp"></a>エンドポイント DLP を構成する
 
@@ -32,3 +32,13 @@ Microsoft エンドポイント DLP を使用すると、 DLP の保護および
 - 機密アイテムを保護する DLP ポリシーを作成します。 詳細については、「[エンドポイント DLP ポリシーのシナリオ](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)」を参照してください。
 
 Microsoft エンドポイント DLP の詳細については、「[Microsoft 365 エンドポイントのデータ損失防止について学ぶ (プレビュー)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about) 」を参照してください。
+
+**サポートが必要な場合の重要なデータ収集手順:**
+
+1. [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")から MDATP クライアント アナライザ プレビューをダウンロードします
+2. cmd ウィンドウから管理者としてツールを次のように実行します。
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. 「トレースを収集する分数を入力してください:」というプロンプトが表示されたら、シナリオの実行に必要な分数を入力します
+5. シナリオを実行する
+
+サポートエージェントに提供する Zip ファイル出力を収集します。
