@@ -2,8 +2,8 @@
 title: クレジット カードが拒否されました
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 0595b2502619bc59420cc86d276d1a7b872a9a77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e060ffa586d7b2dc6b64d7fcd6a672645e09096
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745950"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416655"
 ---
 # <a name="declined-credit-card"></a>クレジット カードが拒否されました
 
-クレジット カードでの支払いにして、クレジット カードでの支払いが拒否された場合、支払いプロセスが完了できなかったことを通知するメールが送信されます。カード番号、有効期限、クレジット カードの名義、住所 (市町村、都道府県、郵便番号を含む) などの[クレジット カードの詳細](https://go.microsoft.com/fwlink/p/?linkid=842054)が、クレジット カードとクレジット カードの明細に記載されている内容と同じであることを再確認してください。[**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページの [**残高の決済**] オプションを使用すると、クレジット カード情報を更新して、すぐに支払いを申し込むことができます。 
+クレジットカードで支払いを行い、クレジットカードが拒否された場合、支払いを処理できなかったことを知らせる電子メールが送信されます。クレジットカードの[詳細](https://go.microsoft.com/fwlink/p/?linkid=842054)-カード番号、有効期限、クレジットカードの名前、および住所 (市区町村、都道府県、郵便番号を含む) がクレジットカードおよびクレジットカードの明細書とまったく同じように表示されることを確認してください。クレジットカード情報を更新して、[製品の**請求**] ページの [**決済残高**] オプションを使用して、すぐに支払いを送信することができ  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)ます。
 
 詳細については、有効期限が切れ、支払期日を過ぎてしまった場合に関するセクションが記載されている 「[一般法人向け Microsoft 365 サブスクリプションを支払う](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)」を参照してください。
   
