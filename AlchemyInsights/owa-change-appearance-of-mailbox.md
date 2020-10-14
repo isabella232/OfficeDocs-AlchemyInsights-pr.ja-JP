@@ -12,7 +12,7 @@ localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47795969"

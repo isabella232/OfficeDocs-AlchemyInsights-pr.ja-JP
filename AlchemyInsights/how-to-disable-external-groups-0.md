@@ -13,7 +13,7 @@ ms.custom:
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47704170"

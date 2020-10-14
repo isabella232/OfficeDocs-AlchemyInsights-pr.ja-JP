@@ -15,7 +15,7 @@ ms.custom:
 - "2425"
 ms.openlocfilehash: 6c585e62a08a8784f379a9aa3801f49873b14982
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47733944"
@@ -26,7 +26,7 @@ ms.locfileid: "47733944"
 
 ## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
 
-1. [**課金**] > **[[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)]** ページの順に移動し、[**アプリ**] タブを選択します。
+1. [**課金**] > [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページの順に移動し、[**アプリ**] タブを選択します。
 
 2. 管理するアプリを検索して選択します。  
 

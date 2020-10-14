@@ -14,7 +14,7 @@ ms.custom:
 - "2500002"
 ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47749771"

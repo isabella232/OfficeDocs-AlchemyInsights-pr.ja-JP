@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
 ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47750096"

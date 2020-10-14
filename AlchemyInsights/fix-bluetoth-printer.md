@@ -14,7 +14,7 @@ ms.custom:
 - "9001214"
 ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47744919"
@@ -27,7 +27,7 @@ Bluetooth プリンターが動作しない場合、次のトラブルシュー�
 1. Bluetooth が有効になっていることを確認します。
     1. [**スタート**]  >  [**設定**]  >  [**デバイス**]  >  [**Bluetooth とその他のデバイス**] の順に選択します。
     2. Bluetooth のトグルを [**オン**] にします。
-2. Bluetooth のトラブルシューティング ツールを実行します。<br>
+2. Bluetooth のトラブルシューティング ツールを実行します。 <br>
     [**スタート**] を選択し [**トラブルシューティングの設定**] を入力し、[**トラブルシューティングの設定**] オプションを選択します。 メニューから [**Bluetooth**] を選択し、[**トラブルシューティング ツールの実行**] を選択 します。
 
 それでも問題が解決しない場合は、Bluetooth プリンターを削除して再インストールしてみてください。

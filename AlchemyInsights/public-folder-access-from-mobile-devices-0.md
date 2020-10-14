@@ -13,7 +13,7 @@ ms.collection: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
 ms.openlocfilehash: 21811e03024971f7f2a3facf2bf95fb904155055
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47741488"
