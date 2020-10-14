@@ -15,14 +15,14 @@ ms.custom:
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
 ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47679887"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="3b1be-102">ユーザーを削除する</span><span class="sxs-lookup"><span data-stu-id="3b1be-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="ab42c-102">ユーザーを削除する</span><span class="sxs-lookup"><span data-stu-id="ab42c-102">Deleting users</span></span>
 
-<span data-ttu-id="3b1be-103">ユーザーのアクセスを直ちにブロックし、その情報を保持する必要がある場合は、「[元従業員の Microsoft 365 データへのアクセスをブロックする](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3b1be-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Microsoft 365 data](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span></span>
+<span data-ttu-id="ab42c-103">ユーザーのアクセスを直ちにブロックし、その情報を保持する必要がある場合は、「[元従業員の Microsoft 365 データへのアクセスをブロックする](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ab42c-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Microsoft 365 data](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span></span>
   
-<span data-ttu-id="3b1be-p101">単にユーザーを削除し、そのデータには関心がない場合は、[組織からのユーザーの削除](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)に関するページを参照してください。これにより、ライセンスがすぐに削除されます。</span><span class="sxs-lookup"><span data-stu-id="3b1be-p101">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). This will immediately free up their license.</span></span>
+<span data-ttu-id="ab42c-p101">単にユーザーを削除し、そのデータには関心がない場合は、[組織からのユーザーの削除](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)に関するページを参照してください。これにより、ライセンスがすぐに削除されます。</span><span class="sxs-lookup"><span data-stu-id="ab42c-p101">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). This will immediately free up their license.</span></span>
   

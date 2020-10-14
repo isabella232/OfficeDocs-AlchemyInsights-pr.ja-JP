@@ -15,16 +15,16 @@ ms.custom:
 - "9001198"
 ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47672098"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="d3900-102">Facebook からファイルを添付またはアップロードできない</span><span class="sxs-lookup"><span data-stu-id="d3900-102">Unable to attach or upload files from Facebook</span></span>
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="38e55-102">Facebook からファイルを添付またはアップロードできない</span><span class="sxs-lookup"><span data-stu-id="38e55-102">Unable to attach or upload files from Facebook</span></span>
 
-<span data-ttu-id="d3900-103">Facebook の使用条件を変更したため、2019 年 10 月 23 日以降、Facebook から添付ファイルを直接アップロードできなくなりました。Facebook はクラウドの保管場所の一覧に表示されなくなります。</span><span class="sxs-lookup"><span data-stu-id="d3900-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
+<span data-ttu-id="38e55-103">Facebook の使用条件を変更したため、2019 年 10 月 23 日以降、Facebook から添付ファイルを直接アップロードできなくなりました。Facebook はクラウドの保管場所の一覧に表示されなくなります。</span><span class="sxs-lookup"><span data-stu-id="38e55-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
 
-<span data-ttu-id="d3900-104">[ストレージ アカウント](https://go.microsoft.com/fwlink/?linkid=2111075)の他のクラウドの保管場所の一覧を管理できます。</span><span class="sxs-lookup"><span data-stu-id="d3900-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
+<span data-ttu-id="38e55-104">[ストレージ アカウント](https://go.microsoft.com/fwlink/?linkid=2111075)の他のクラウドの保管場所の一覧を管理できます。</span><span class="sxs-lookup"><span data-stu-id="38e55-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
 
-<span data-ttu-id="d3900-105">詳細については、「[ストレージ アカウント](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d3900-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
+<span data-ttu-id="38e55-105">詳細については、「[ストレージ アカウント](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="38e55-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
   

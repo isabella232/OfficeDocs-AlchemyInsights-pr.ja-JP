@@ -12,11 +12,11 @@ ms.custom:
 - "6200013"
 ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47678293"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="4ccd2-102">Dynamics 365 の編集可能グリッドのキーボード ショートカット</span><span class="sxs-lookup"><span data-stu-id="4ccd2-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="84286-102">Dynamics 365 の編集可能グリッドのキーボード ショートカット</span><span class="sxs-lookup"><span data-stu-id="84286-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="4ccd2-103">編集可能グリッドのキーボード ショートカット</span><span class="sxs-lookup"><span data-stu-id="4ccd2-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="84286-103">編集可能グリッドのキーボード ショートカット</span><span class="sxs-lookup"><span data-stu-id="84286-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)

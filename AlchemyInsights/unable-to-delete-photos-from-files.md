@@ -17,18 +17,18 @@ ms.custom:
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
 ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
 ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47653365"
 ---
-# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="e231b-102">ファイルから写真を削除できない</span><span class="sxs-lookup"><span data-stu-id="e231b-102">Unable to delete photos from Files</span></span>
+# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="108a4-102">ファイルから写真を削除できない</span><span class="sxs-lookup"><span data-stu-id="108a4-102">Unable to delete photos from Files</span></span>
 
-<span data-ttu-id="e231b-103">Outlook.com のファイルから写真を削除するには:</span><span class="sxs-lookup"><span data-stu-id="e231b-103">To delete the photos from Files in Outlook.com:</span></span>
+<span data-ttu-id="108a4-103">Outlook.com のファイルから写真を削除するには:</span><span class="sxs-lookup"><span data-stu-id="108a4-103">To delete the photos from Files in Outlook.com:</span></span>
   
-1. <span data-ttu-id="e231b-104">**受信トレイ**か **[送信済みアイテム]** フォルダーに移動し、ファイルや写真が添付されているメール メッセージを削除します。</span><span class="sxs-lookup"><span data-stu-id="e231b-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span>
+1. <span data-ttu-id="108a4-104">**受信トレイ**か **[送信済みアイテム]** フォルダーに移動し、ファイルや写真が添付されているメール メッセージを削除します。</span><span class="sxs-lookup"><span data-stu-id="108a4-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span>
 
-2. <span data-ttu-id="e231b-105">**[削除済みアイテム]** からアイテムを削除します。</span><span class="sxs-lookup"><span data-stu-id="e231b-105">Remove the item(s) from your **Deleted items**.</span></span>
+2. <span data-ttu-id="108a4-105">**[削除済みアイテム]** からアイテムを削除します。</span><span class="sxs-lookup"><span data-stu-id="108a4-105">Remove the item(s) from your **Deleted items**.</span></span>
 
-<span data-ttu-id="e231b-106">詳細については、「[Outlook.com でファイルまたは写真を削除する方法](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e231b-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
+<span data-ttu-id="108a4-106">詳細については、「[Outlook.com でファイルまたは写真を削除する方法](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="108a4-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
   

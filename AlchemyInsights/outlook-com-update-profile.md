@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47662690"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="c0a75-102">Outlook.com で自分のプロフィール画像またはプロファイル名を変更する</span><span class="sxs-lookup"><span data-stu-id="c0a75-102">Change my profile picture or name in Outlook.com</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="549f9-102">Outlook.com で自分のプロフィール画像またはプロファイル名を変更する</span><span class="sxs-lookup"><span data-stu-id="549f9-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="c0a75-103">[[Microsoft アカウント情報]](https://go.microsoft.com/fwlink/p/?linkid=860841) に移動します。</span><span class="sxs-lookup"><span data-stu-id="c0a75-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="c0a75-104">**[名前の編集]** または **[画像の変更]** を変更します。</span><span class="sxs-lookup"><span data-stu-id="c0a75-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="549f9-103">[[Microsoft アカウント情報]](https://go.microsoft.com/fwlink/p/?linkid=860841) に移動します。</span><span class="sxs-lookup"><span data-stu-id="549f9-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="549f9-104">**[名前の編集]** または **[画像の変更]** を変更します。</span><span class="sxs-lookup"><span data-stu-id="549f9-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="c0a75-105">プロファイルの写真や名前の変更が反映されるまでに、最大 24 時間かかります。</span><span class="sxs-lookup"><span data-stu-id="c0a75-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="549f9-105">プロファイルの写真や名前の変更が反映されるまでに、最大 24 時間かかります。</span><span class="sxs-lookup"><span data-stu-id="549f9-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>

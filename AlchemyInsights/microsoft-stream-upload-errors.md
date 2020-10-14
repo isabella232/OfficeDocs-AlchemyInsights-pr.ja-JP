@@ -15,11 +15,11 @@ ms.custom:
 - "5094"
 ms.openlocfilehash: 25adfcf9df258c29b21f78e37ce4247ba5bdc61b
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47675267"
 ---
-# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="e6f9a-102">Microsoft Stream のアップロードエラー</span><span class="sxs-lookup"><span data-stu-id="e6f9a-102">Microsoft Stream upload errors</span></span>
+# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="3678b-102">Microsoft Stream のアップロードエラー</span><span class="sxs-lookup"><span data-stu-id="3678b-102">Microsoft Stream upload errors</span></span>
 
-<span data-ttu-id="e6f9a-103">Microsoft Stream でアップロードエラーが発生している場合は、「[Stream アップロードエラー](https://docs.microsoft.com/stream/portal-understanding-upload-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e6f9a-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span></span>
+<span data-ttu-id="3678b-103">Microsoft Stream でアップロードエラーが発生している場合は、「[Stream アップロードエラー](https://docs.microsoft.com/stream/portal-understanding-upload-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3678b-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span></span>

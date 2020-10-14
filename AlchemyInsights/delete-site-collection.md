@@ -14,15 +14,15 @@ ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: 44f06b429262e754e92cc348a1e58aa4916d10a3
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47679924"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="bea90-102">SharePoint サイトを削除する</span><span class="sxs-lookup"><span data-stu-id="bea90-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="82d4d-102">SharePoint サイトを削除する</span><span class="sxs-lookup"><span data-stu-id="82d4d-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="bea90-103">新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にあるチェック ボックスをクリックします。</span><span class="sxs-lookup"><span data-stu-id="bea90-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="82d4d-103">新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にあるチェック ボックスをクリックします。</span><span class="sxs-lookup"><span data-stu-id="82d4d-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="bea90-104">[リボン] ツールバーで、**[削除]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="bea90-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="82d4d-104">[リボン] ツールバーで、**[削除]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="82d4d-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 
