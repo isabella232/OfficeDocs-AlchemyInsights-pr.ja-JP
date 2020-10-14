@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 20dbb1b07877711dff8e33063e124b17d340ee57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 451695c5dec738503bde15a0dcc4f10bf2c25469
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736104"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451441"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Microsoft Teams での会議とダイヤルイン
 
@@ -24,3 +24,4 @@ Microsoft Teams で[電話会議](https://docs.microsoft.com/microsoftteams/audi
 - ユーザーが電話会議のライセンスを取得しており、既定の有料電話番号を持っていることを確認するには、「[Teams の一般的な問題と解決策](https://docs.microsoft.com/microsoftteams/known-issues)」の「Teams での会議とダイヤルイン」を参照してください。
 
 - 「[Teams での会議ポリシーを管理する](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)」方法を参照してください。 
+
