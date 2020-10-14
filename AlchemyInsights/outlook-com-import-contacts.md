@@ -14,12 +14,12 @@ ms.custom:
 - "278"
 - "8000019"
 ms.assetid: 921c5c7c-9a02-4682-9bd1-03ef9bb0fd6e
-ms.openlocfilehash: 3ba007f265e580196e23cb636cab029784e255d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c6cf2ee9677fdc3b29f1b29a4b29be71bd137a9
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724008"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452017"
 ---
 # <a name="import-contacts"></a>連絡先をインポートする
 
@@ -31,3 +31,4 @@ Outlook.com に連絡先をインポートする前に、他のメール プロ�
 3. [**参照**] を選択し、エクスポートした連絡先を保存したフォルダーに移動し、[**開く**] を選択します。
 
 詳細については、「[Outlook.com に連絡先をインポートする](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
+
