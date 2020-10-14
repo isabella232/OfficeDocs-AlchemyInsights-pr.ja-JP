@@ -16,8 +16,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47811940"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="15a76-102">ファイルのチェックインとチェックアウトに関する質問</span><span class="sxs-lookup"><span data-stu-id="15a76-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="a6428-102">ファイルのチェックインとチェックアウトに関する質問</span><span class="sxs-lookup"><span data-stu-id="a6428-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="15a76-103">SharePoint Online でファイルをチェックインおよびチェックアウトする方法、チェックアウトを破棄する方法など、よく寄せられる質問については、「[チェックアウト、チェックインについてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=2018786)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="15a76-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="a6428-103">SharePoint Online でファイルをチェックインおよびチェックアウトする方法、チェックアウトを破棄する方法など、よく寄せられる質問については、「[チェックアウト、チェックインについてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=2018786)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a6428-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 

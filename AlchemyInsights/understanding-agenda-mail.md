@@ -13,11 +13,11 @@ ms.custom: 413
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
 ms.openlocfilehash: c7861f20a8d014e2276b7cee85a7986e3a1ca518
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47689563"
 ---
-# <a name="understanding-agenda-mail"></a><span data-ttu-id="be88e-102">予定一覧メールについて</span><span class="sxs-lookup"><span data-stu-id="be88e-102">Understanding agenda mail</span></span>
+# <a name="understanding-agenda-mail"></a><span data-ttu-id="5df58-102">予定一覧メールについて</span><span class="sxs-lookup"><span data-stu-id="5df58-102">Understanding agenda mail</span></span>
 
-<span data-ttu-id="be88e-103">詳細については、「[Web 版 Outlook でのカレンダー設定](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="be88e-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
+<span data-ttu-id="5df58-103">詳細については、「[Web 版 Outlook でのカレンダー設定](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5df58-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>

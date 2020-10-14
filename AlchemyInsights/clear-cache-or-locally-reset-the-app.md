@@ -14,13 +14,13 @@ ms.custom:
 - "3060"
 ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47681229"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="bfdc8-102">キャッシュをクリアする、またはアプリをローカルにリセットする</span><span class="sxs-lookup"><span data-stu-id="bfdc8-102">Clear the cache or locally reset the app</span></span>
+# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="d3e18-102">キャッシュをクリアする、またはアプリをローカルにリセットする</span><span class="sxs-lookup"><span data-stu-id="d3e18-102">Clear the cache or locally reset the app</span></span>
 
-<span data-ttu-id="bfdc8-103">不完全または誤ったデータが表示される場合は、アプリを強制的に閉じてから再度開いてください。</span><span class="sxs-lookup"><span data-stu-id="bfdc8-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="bfdc8-104">それでも問題が解決しない場合は、デバイスのアカウントをリセットしてみてください。</span><span class="sxs-lookup"><span data-stu-id="bfdc8-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
+<span data-ttu-id="d3e18-103">不完全または誤ったデータが表示される場合は、アプリを強制的に閉じてから再度開いてください。</span><span class="sxs-lookup"><span data-stu-id="d3e18-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="d3e18-104">それでも問題が解決しない場合は、デバイスのアカウントをリセットしてみてください。</span><span class="sxs-lookup"><span data-stu-id="d3e18-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
 
-<span data-ttu-id="bfdc8-105">**[アプリ]、[設定] の順に開き、メール アカウントを選択して、[アカウントのリセット] を選択します**</span><span class="sxs-lookup"><span data-stu-id="bfdc8-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>
+<span data-ttu-id="d3e18-105">**[アプリ]、[設定] の順に開き、メール アカウントを選択して、[アカウントのリセット] を選択します**</span><span class="sxs-lookup"><span data-stu-id="d3e18-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>

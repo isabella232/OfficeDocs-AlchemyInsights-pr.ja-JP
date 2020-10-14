@@ -14,23 +14,23 @@ ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 5899ba06d0da6141502c09fee1ce0d9c7aad38d9
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47745972"
 ---
-# <a name="delete-items-in-sharepoint"></a><span data-ttu-id="9fe0f-102">SharePoint でアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-102">Delete items in SharePoint</span></span>
+# <a name="delete-items-in-sharepoint"></a><span data-ttu-id="fd8ff-102">SharePoint でアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-102">Delete items in SharePoint</span></span>
 
-[<span data-ttu-id="9fe0f-103">リストを削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-103">Delete a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869393)
+[<span data-ttu-id="fd8ff-103">リストを削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-103">Delete a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[<span data-ttu-id="9fe0f-104">ドキュメント ライブラリを削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-104">Delete a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869392)
+[<span data-ttu-id="fd8ff-104">ドキュメント ライブラリを削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-104">Delete a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[<span data-ttu-id="9fe0f-105">リストからアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-105">Delete items from a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869397)
+[<span data-ttu-id="fd8ff-105">リストからアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-105">Delete items from a list</span></span>](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[<span data-ttu-id="9fe0f-106">ドキュメント ライブラリからアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-106">Delete items from a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869399)
+[<span data-ttu-id="fd8ff-106">ドキュメント ライブラリからアイテムを削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-106">Delete items from a document library</span></span>](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[<span data-ttu-id="9fe0f-107">ページの列を削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-107">Delete a column on a page</span></span>](https://go.microsoft.com/fwlink/?linkid=869394)
+[<span data-ttu-id="fd8ff-107">ページの列を削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-107">Delete a column on a page</span></span>](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[<span data-ttu-id="9fe0f-108">リストまたはライブラリで列を削除する</span><span class="sxs-lookup"><span data-stu-id="9fe0f-108">Delete a column in a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=869396)
+[<span data-ttu-id="fd8ff-108">リストまたはライブラリで列を削除する</span><span class="sxs-lookup"><span data-stu-id="fd8ff-108">Delete a column in a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

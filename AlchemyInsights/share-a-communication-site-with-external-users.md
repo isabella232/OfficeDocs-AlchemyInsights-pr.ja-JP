@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47739434"
 ---
-# <a name="share-a-communication-site-with-external-users"></a><span data-ttu-id="5dea5-102">外部ユーザーとコミュニケーション サイトを共有する</span><span class="sxs-lookup"><span data-stu-id="5dea5-102">Share a Communication Site with External Users</span></span>
+# <a name="share-a-communication-site-with-external-users"></a><span data-ttu-id="6c2e2-102">外部ユーザーとコミュニケーション サイトを共有する</span><span class="sxs-lookup"><span data-stu-id="6c2e2-102">Share a Communication Site with External Users</span></span>
 
-<span data-ttu-id="5dea5-103">コミュニケーション サイトに対して外部ユーザー共有を有効にするには、次の手順を行います。</span><span class="sxs-lookup"><span data-stu-id="5dea5-103">To turn on external user sharing for Communication sites, follow these steps:</span></span> 
+<span data-ttu-id="6c2e2-103">コミュニケーション サイトに対して外部ユーザー共有を有効にするには、次の手順を行います。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-103">To turn on external user sharing for Communication sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="5dea5-p101">**最新の管理センター**を開きます。従来の管理センターを使用している場合は、右上に [**今すぐ試す**] または **[プレビューを試す]** ボタンがあります。このボタンを使用すると、最新の管理センターに移動できます。</span><span class="sxs-lookup"><span data-stu-id="5dea5-p101">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or \*\* Try the preview \*\* button from the top right. This will take you to the Modern Admin Center.</span></span> 
+1. <span data-ttu-id="6c2e2-p101">**最新の管理センター**を開きます。従来の管理センターを使用している場合は、右上に [**今すぐ試す**] または **[プレビューを試す]** ボタンがあります。このボタンを使用すると、最新の管理センターに移動できます。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-p101">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or \*\* Try the preview \*\* button from the top right. This will take you to the Modern Admin Center.</span></span> 
   
-2. <span data-ttu-id="5dea5-106">[**アクティブなサイト**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="5dea5-106">Select **Active Sites.**</span></span>
+2. <span data-ttu-id="6c2e2-106">[**アクティブなサイト**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-106">Select **Active Sites.**</span></span>
   
-3. <span data-ttu-id="5dea5-107">**コミュニケーション サイト** テンプレートがあるサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="5dea5-107">Select a site that has a **Communication Site template**.</span></span> 
+3. <span data-ttu-id="6c2e2-107">**コミュニケーション サイト** テンプレートがあるサイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-107">Select a site that has a **Communication Site template**.</span></span> 
   
-4. <span data-ttu-id="5dea5-108">トップ メニューから [**共有**] ボタンを選択します。</span><span class="sxs-lookup"><span data-stu-id="5dea5-108">Select the **Sharing** button from the top menu.</span></span> 
+4. <span data-ttu-id="6c2e2-108">トップ メニューから [**共有**] ボタンを選択します。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-108">Select the **Sharing** button from the top menu.</span></span> 
   
- <span data-ttu-id="5dea5-p102">**注:** 複数のサイトを選択していると、[**共有**] ボタンが無効表示になります。1 つのサイトのみを選択してください。</span><span class="sxs-lookup"><span data-stu-id="5dea5-p102">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled. Select only one site.</span></span> 
+ <span data-ttu-id="6c2e2-p102">**注:** 複数のサイトを選択していると、[**共有**] ボタンが無効表示になります。1 つのサイトのみを選択してください。</span><span class="sxs-lookup"><span data-stu-id="6c2e2-p102">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled. Select only one site.</span></span> 
   
 

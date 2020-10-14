@@ -15,12 +15,12 @@ ms.custom:
 ms.assetid: 9b130870-ce56-4505-b93b-d1f0d4e52b3c
 ms.openlocfilehash: 909410a7e95f4f5a39bc1dbbc8cb83eed8056458
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47687079"
 ---
-# <a name="add-your-outlookcom-account-to-another-mail-app"></a><span data-ttu-id="3a24e-102">Outlook.com アカウントを別のメール アプリに追加する</span><span class="sxs-lookup"><span data-stu-id="3a24e-102">Add your Outlook.com account to another mail app</span></span>
+# <a name="add-your-outlookcom-account-to-another-mail-app"></a><span data-ttu-id="bd85c-102">Outlook.com アカウントを別のメール アプリに追加する</span><span class="sxs-lookup"><span data-stu-id="bd85c-102">Add your Outlook.com account to another mail app</span></span>
 
-<span data-ttu-id="3a24e-103">PC、Mac、またはモバイル デバイス上の Outlook に Outlook.com アカウントを追加する方法については、「[Outlook.com アカウントを別のメール アプリに追加する](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3a24e-103">To learn how to add your Outlook.com account to Outlook on your PC, Mac, or mobile device, see [Add your Outlook.com account to another mail app](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="bd85c-103">PC、Mac、またはモバイル デバイス上の Outlook に Outlook.com アカウントを追加する方法については、「[Outlook.com アカウントを別のメール アプリに追加する](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bd85c-103">To learn how to add your Outlook.com account to Outlook on your PC, Mac, or mobile device, see [Add your Outlook.com account to another mail app](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47713532"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="cd471-102">条件付きアクセス</span><span class="sxs-lookup"><span data-stu-id="cd471-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="3d00b-102">条件付きアクセス</span><span class="sxs-lookup"><span data-stu-id="3d00b-102">Conditional Access</span></span>
 
-<span data-ttu-id="cd471-103">条件付きアクセスは、Azure Active Directory の機能です。</span><span class="sxs-lookup"><span data-stu-id="cd471-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="cd471-104">条件付きアクセスを使用すると、クラウド アプリへのアクセスを許可するかどうかの判断を各種の条件に基づいて自動的に行うアクセスの制御を実装できます。</span><span class="sxs-lookup"><span data-stu-id="cd471-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="cd471-105">詳細については、「[場所に基づくポリシーの構成](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="cd471-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="3d00b-103">条件付きアクセスは、Azure Active Directory の機能です。</span><span class="sxs-lookup"><span data-stu-id="3d00b-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="3d00b-104">条件付きアクセスを使用すると、クラウド アプリへのアクセスを許可するかどうかの判断を各種の条件に基づいて自動的に行うアクセスの制御を実装できます。</span><span class="sxs-lookup"><span data-stu-id="3d00b-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="3d00b-105">詳細については、「[場所に基づくポリシーの構成](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3d00b-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="cd471-106">IT 管理者は、定義されたネットワークの場所や信頼できるデバイスに基づいて、SharePoint と OneDrive のリソースへのアクセスも制御できます。</span><span class="sxs-lookup"><span data-stu-id="cd471-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="cd471-107">詳細については、次のリンク先を参照してください。</span><span class="sxs-lookup"><span data-stu-id="cd471-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="3d00b-106">IT 管理者は、定義されたネットワークの場所や信頼できるデバイスに基づいて、SharePoint と OneDrive のリソースへのアクセスも制御できます。</span><span class="sxs-lookup"><span data-stu-id="3d00b-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="3d00b-107">詳細については、次のリンク先を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3d00b-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="cd471-108">ネットワークの場所に基づいて SharePoint Online と OneDrive のデータへのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="cd471-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="3d00b-108">ネットワークの場所に基づいて SharePoint Online と OneDrive のデータへのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="3d00b-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="cd471-109">非管理対象デバイスからのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="cd471-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="3d00b-109">非管理対象デバイスからのアクセスを制御する</span><span class="sxs-lookup"><span data-stu-id="3d00b-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

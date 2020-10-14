@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
 ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47779776"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="75304-102">非営利団体向け Microsoft 365 - 拒否</span><span class="sxs-lookup"><span data-stu-id="75304-102">Microsoft 365 for nonprofits - declined</span></span>
+# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="26576-102">非営利団体向け Microsoft 365 - 拒否</span><span class="sxs-lookup"><span data-stu-id="26576-102">Microsoft 365 for nonprofits - declined</span></span>
 
-<span data-ttu-id="75304-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="75304-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="26576-103">お客様のリクエストを確認したところ、当該組織は Microsoft 認定非営利団体の対象ではないと判断されました。</span><span class="sxs-lookup"><span data-stu-id="26576-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="75304-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="75304-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="26576-104">Office 365 製品版を購入するには、[利用可能なプラン](https://portal.office.com/AdminPortal/Home)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="26576-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

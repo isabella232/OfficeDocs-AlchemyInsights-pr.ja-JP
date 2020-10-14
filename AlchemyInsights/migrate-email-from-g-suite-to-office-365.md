@@ -16,12 +16,12 @@ ms.custom:
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
 ms.openlocfilehash: bb550e259d2acb3456d32f496e678ec6ac071e63
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47754884"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a><span data-ttu-id="77732-102">G Suite から Microsoft 365 に電子メールを移行する</span><span class="sxs-lookup"><span data-stu-id="77732-102">Migrate email from G Suite to Microsoft 365</span></span>
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a><span data-ttu-id="cff6f-102">G Suite から Microsoft 365 に電子メールを移行する</span><span class="sxs-lookup"><span data-stu-id="cff6f-102">Migrate email from G Suite to Microsoft 365</span></span>
 
-<span data-ttu-id="77732-103">メールを G Suite から Microsoft 365 に移行するには、移行ツールを使って、メール、予定表、連絡先を移行します: [G Suite の移行を実行する](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。</span><span class="sxs-lookup"><span data-stu-id="77732-103">To migrate email from G Suite to Microsoft 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="cff6f-103">メールを G Suite から Microsoft 365 に移行するには、移行ツールを使って、メール、予定表、連絡先を移行します: [G Suite の移行を実行する](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。</span><span class="sxs-lookup"><span data-stu-id="cff6f-103">To migrate email from G Suite to Microsoft 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   

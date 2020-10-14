@@ -13,17 +13,17 @@ ms.custom:
 - "4000003"
 ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47712153"
 ---
-# <a name="port-existing-numbers-to-teams"></a><span data-ttu-id="f636b-102">既存の番号を Teams に移行する</span><span class="sxs-lookup"><span data-stu-id="f636b-102">Port existing numbers to Teams</span></span>
+# <a name="port-existing-numbers-to-teams"></a><span data-ttu-id="3b74f-102">既存の番号を Teams に移行する</span><span class="sxs-lookup"><span data-stu-id="3b74f-102">Port existing numbers to Teams</span></span>
 
-<span data-ttu-id="f636b-103">現在電話サービス プロバイダーまたは通信事業者がいて、ユーザーまたはサービスの電話番号が既にある場合は、「番号移行注文」を作成して、それらの電話番号を Microsoft Teams に転送する必要があります。</span><span class="sxs-lookup"><span data-stu-id="f636b-103">If you currently have a phone service provider or carrier and already have phone numbers for your users or services, you need to create a "port order" to transfer those phone numbers to Microsoft Teams.</span></span>
+<span data-ttu-id="3b74f-103">現在電話サービス プロバイダーまたは通信事業者がいて、ユーザーまたはサービスの電話番号が既にある場合は、「番号移行注文」を作成して、それらの電話番号を Microsoft Teams に転送する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3b74f-103">If you currently have a phone service provider or carrier and already have phone numbers for your users or services, you need to create a "port order" to transfer those phone numbers to Microsoft Teams.</span></span>
 
-- <span data-ttu-id="f636b-104">移行を完了する方法については、「[Teams に電話番号を転送する](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f636b-104">See [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) to learn how to complete the port.</span></span> 
+- <span data-ttu-id="3b74f-104">移行を完了する方法については、「[Teams に電話番号を転送する](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3b74f-104">See [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) to learn how to complete the port.</span></span> 
 
-- <span data-ttu-id="f636b-105">電話番号の管理に関するガイダンスについては、「[組織の電話番号を管理する](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f636b-105">See [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) to guidance around phone number management.</span></span> 
+- <span data-ttu-id="3b74f-105">電話番号の管理に関するガイダンスについては、「[組織の電話番号を管理する](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3b74f-105">See [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) to guidance around phone number management.</span></span> 
 
-<span data-ttu-id="f636b-106">詳細については、「[番号移行注文の概要](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f636b-106">For more info, see the [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>  
+<span data-ttu-id="3b74f-106">詳細については、「[番号移行注文の概要](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3b74f-106">For more info, see the [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>  

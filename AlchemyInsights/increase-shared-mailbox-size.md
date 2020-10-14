@@ -13,11 +13,11 @@ ms.custom: 1815
 ms.assetid: ''
 ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47755892"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="3b04d-102">共有メールボックスのサイズを拡大する</span><span class="sxs-lookup"><span data-stu-id="3b04d-102">Increase the size of a shared mailbox</span></span>
+# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="52429-102">共有メールボックスのサイズを拡大する</span><span class="sxs-lookup"><span data-stu-id="52429-102">Increase the size of a shared mailbox</span></span>
 
-<span data-ttu-id="3b04d-103">共有メールボックスは、Exchange Online P2 ライセンスを割り当てることで、既定の 50 GB から 100 GB にサイズを拡大できます (このライセンスは E3 および E5 ライセンスに含まれています)。</span><span class="sxs-lookup"><span data-stu-id="3b04d-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="3b04d-104">[[アクティブなユーザー]](https://portal.office.com/adminportal/home) でメールボックスに P2 ライセンスを割り当てると、15 分以内に自動的にサイズが拡大されます。</span><span class="sxs-lookup"><span data-stu-id="3b04d-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>
+<span data-ttu-id="52429-103">共有メールボックスは、Exchange Online P2 ライセンスを割り当てることで、既定の 50 GB から 100 GB にサイズを拡大できます (このライセンスは E3 および E5 ライセンスに含まれています)。</span><span class="sxs-lookup"><span data-stu-id="52429-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="52429-104">[[アクティブなユーザー]](https://portal.office.com/adminportal/home) でメールボックスに P2 ライセンスを割り当てると、15 分以内に自動的にサイズが拡大されます。</span><span class="sxs-lookup"><span data-stu-id="52429-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>

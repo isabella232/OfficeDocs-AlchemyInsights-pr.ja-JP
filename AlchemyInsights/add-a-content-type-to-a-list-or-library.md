@@ -14,17 +14,17 @@ ms.custom:
 - "5791"
 ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47697382"
 ---
-# <a name="add-a-content-type-to-a-list-or-library"></a><span data-ttu-id="1d729-102">リストまたはライブラリにコンテンツ タイプを追加する</span><span class="sxs-lookup"><span data-stu-id="1d729-102">Add a content type to a list or library</span></span>
+# <a name="add-a-content-type-to-a-list-or-library"></a><span data-ttu-id="1191a-102">リストまたはライブラリにコンテンツ タイプを追加する</span><span class="sxs-lookup"><span data-stu-id="1191a-102">Add a content type to a list or library</span></span>
 
-1. <span data-ttu-id="1d729-103">[リストまたはライブラリの設定](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)に移動します。</span><span class="sxs-lookup"><span data-stu-id="1d729-103">Go to the  [settings for the list or library](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f).</span></span>
-2. <span data-ttu-id="1d729-104">[**コンテンツ タイプ**] で、[**既存のサイト コンテンツ タイプから追加**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1d729-104">Under  **Content Types**, select  **Add from existing site content types**.</span></span> <span data-ttu-id="1d729-105">[**コンテンツ タイプ**] が表示されない場合は、[**詳細設定**] を選択してください。</span><span class="sxs-lookup"><span data-stu-id="1d729-105">If  **Content Types**  doesn't appear, select  **Advanced settings**.</span></span>
-3. <span data-ttu-id="1d729-106">リストから [**サイト コンテンツ タイプの選択**] から選択します。</span><span class="sxs-lookup"><span data-stu-id="1d729-106">Select from the  **Select Site content types**  from list.</span></span>
-4. <span data-ttu-id="1d729-107">[利用可能なサイト コンテンツ タイプ] リストでコンテンツ タイプの名前を選択し、選んだコンテンツ タイプを [追加するコンテンツ タイプ] リストに移動して、[追加] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1d729-107">In the Available Site Content Types list, select the name of the content type that you want, and move the selected content type to the Content types to add list, select Add.</span></span>
-5. <span data-ttu-id="1d729-108">追加のコンテンツ タイプについて手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="1d729-108">Repeat steps for additional content types.</span></span>
+1. <span data-ttu-id="1191a-103">[リストまたはライブラリの設定](https://support.microsoft.com/ja-JP/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)に移動します。</span><span class="sxs-lookup"><span data-stu-id="1191a-103">Go to the  [settings for the list or library](https://support.microsoft.com/ja-JP/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f).</span></span>
+2. <span data-ttu-id="1191a-104">[**コンテンツ タイプ**] で、[**既存のサイト コンテンツ タイプから追加**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1191a-104">Under  **Content Types**, select  **Add from existing site content types**.</span></span> <span data-ttu-id="1191a-105">[**コンテンツ タイプ**] が表示されない場合は、[**詳細設定**] を選択してください。</span><span class="sxs-lookup"><span data-stu-id="1191a-105">If  **Content Types**  doesn't appear, select  **Advanced settings**.</span></span>
+3. <span data-ttu-id="1191a-106">リストから [**サイト コンテンツ タイプの選択**] から選択します。</span><span class="sxs-lookup"><span data-stu-id="1191a-106">Select from the  **Select Site content types**  from list.</span></span>
+4. <span data-ttu-id="1191a-107">[利用可能なサイト コンテンツ タイプ] リストでコンテンツ タイプの名前を選択し、選んだコンテンツ タイプを [追加するコンテンツ タイプ] リストに移動して、[追加] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1191a-107">In the Available Site Content Types list, select the name of the content type that you want, and move the selected content type to the Content types to add list, select Add.</span></span>
+5. <span data-ttu-id="1191a-108">追加のコンテンツ タイプについて手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="1191a-108">Repeat steps for additional content types.</span></span>
 
-<span data-ttu-id="1d729-109">詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1d729-109">For more info, see  [Add a content type to a list or library](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60).</span></span>
+<span data-ttu-id="1191a-109">詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://support.microsoft.com/ja-JP/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="1191a-109">For more info, see  [Add a content type to a list or library](https://support.microsoft.com/ja-JP/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60).</span></span>

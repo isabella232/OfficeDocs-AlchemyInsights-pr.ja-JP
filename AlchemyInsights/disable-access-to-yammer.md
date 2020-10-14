@@ -14,13 +14,13 @@ ms.custom:
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
 ms.openlocfilehash: 088b3abf4b46b4a3f0424bae1d5549c6ab50963b
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47730560"
 ---
-# <a name="disable-access-to-yammer"></a><span data-ttu-id="23b9a-102">Yammer へのアクセスを無効にする</span><span class="sxs-lookup"><span data-stu-id="23b9a-102">Disable access to Yammer</span></span>
+# <a name="disable-access-to-yammer"></a><span data-ttu-id="b8ec0-102">Yammer へのアクセスを無効にする</span><span class="sxs-lookup"><span data-stu-id="b8ec0-102">Disable access to Yammer</span></span>
 
-<span data-ttu-id="23b9a-p101">Yammer へのアクセスを無効にするためのソリューションは、組織内のユーザーの Yammer ライセンスをブロックし、割り当てを解除することです。詳細については、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="23b9a-p101">The solution to disable Yammer access is to block and unassign Yammer licenses for users in your organization. Please refer to the following article for more information.</span></span>
+<span data-ttu-id="b8ec0-p101">Yammer へのアクセスを無効にするためのソリューションは、組織内のユーザーの Yammer ライセンスをブロックし、割り当てを解除することです。詳細については、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b8ec0-p101">The solution to disable Yammer access is to block and unassign Yammer licenses for users in your organization. Please refer to the following article for more information.</span></span>
   
-- [<span data-ttu-id="23b9a-105">Yammer へのアクセスをオフにする</span><span class="sxs-lookup"><span data-stu-id="23b9a-105">Turn off Yammer access</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [<span data-ttu-id="b8ec0-105">Yammer へのアクセスをオフにする</span><span class="sxs-lookup"><span data-stu-id="b8ec0-105">Turn off Yammer access</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

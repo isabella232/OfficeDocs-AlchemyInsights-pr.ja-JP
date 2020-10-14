@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
 ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47727644"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="4c264-102">ルールの制限</span><span class="sxs-lookup"><span data-stu-id="4c264-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="a6c1c-102">ルールの制限</span><span class="sxs-lookup"><span data-stu-id="a6c1c-102">Rule limits</span></span>
 
-<span data-ttu-id="4c264-p101">ルールの制限はプランのオプションや単体製品のオプションによって異なる場合があります。詳細については、「[ジャーナル、トランスポート、受信トレイのルール上の制限](https://technet.microsoft.com/library/exchange-online-limits.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c264-p101">Rule limits might vary across plan options and standalone options. For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="a6c1c-p101">ルールの制限はプランのオプションや単体製品のオプションによって異なる場合があります。詳細については、「[ジャーナル、トランスポート、受信トレイのルール上の制限](https://technet.microsoft.com/library/exchange-online-limits.aspx)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a6c1c-p101">Rule limits might vary across plan options and standalone options. For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>

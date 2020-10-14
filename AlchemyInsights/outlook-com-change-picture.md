@@ -20,12 +20,12 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47802458"
 ---
-# <a name="change-your-microsoft-account-picture"></a><span data-ttu-id="dcddc-102">Microsoft アカウントの画像を変更する</span><span class="sxs-lookup"><span data-stu-id="dcddc-102">Change your Microsoft account picture</span></span>
+# <a name="change-your-microsoft-account-picture"></a><span data-ttu-id="e0f70-102">Microsoft アカウントの画像を変更する</span><span class="sxs-lookup"><span data-stu-id="e0f70-102">Change your Microsoft account picture</span></span>
 
-1. <span data-ttu-id="dcddc-103">[[Microsoft アカウント情報]](https://go.microsoft.com/fwlink/p/?linkid=860841) に移動します。</span><span class="sxs-lookup"><span data-stu-id="dcddc-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="dcddc-104">**[画像の変更]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="dcddc-104">Select **Change picture**.</span></span>
-3. <span data-ttu-id="dcddc-105">**[新しい画像]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="dcddc-105">Select **New picture**.</span></span>
-4. <span data-ttu-id="dcddc-106">使用する画像を選んで **[開く]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="dcddc-106">Choose the picture you want to use and select **Open**.</span></span>
-5. <span data-ttu-id="dcddc-107">画像ボックスをドラッグまたはサイズ変更して **[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="dcddc-107">Drag or resize the image box and select **Save**.</span></span>
+1. <span data-ttu-id="e0f70-103">[[Microsoft アカウント情報]](https://go.microsoft.com/fwlink/p/?linkid=860841) に移動します。</span><span class="sxs-lookup"><span data-stu-id="e0f70-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="e0f70-104">**[画像の変更]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e0f70-104">Select **Change picture**.</span></span>
+3. <span data-ttu-id="e0f70-105">**[新しい画像]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e0f70-105">Select **New picture**.</span></span>
+4. <span data-ttu-id="e0f70-106">使用する画像を選んで **[開く]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e0f70-106">Choose the picture you want to use and select **Open**.</span></span>
+5. <span data-ttu-id="e0f70-107">画像ボックスをドラッグまたはサイズ変更して **[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e0f70-107">Drag or resize the image box and select **Save**.</span></span>
 
-<span data-ttu-id="dcddc-108">プロフィールの写真の変更が反映されるまでに、最大 24 時間かかります。</span><span class="sxs-lookup"><span data-stu-id="dcddc-108">Please allow up to 24 hours for changes to your profile photo to go into effect.</span></span>
+<span data-ttu-id="e0f70-108">プロフィールの写真の変更が反映されるまでに、最大 24 時間かかります。</span><span class="sxs-lookup"><span data-stu-id="e0f70-108">Please allow up to 24 hours for changes to your profile photo to go into effect.</span></span>

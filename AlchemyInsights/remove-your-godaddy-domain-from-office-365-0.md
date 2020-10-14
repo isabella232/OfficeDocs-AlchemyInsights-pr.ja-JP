@@ -14,12 +14,12 @@ ms.custom:
 - "11"
 ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47701504"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="1652d-102">Microsoft 365 から GoDaddy ドメインを削除する</span><span class="sxs-lookup"><span data-stu-id="1652d-102">Remove your GoDaddy domain from Microsoft 365</span></span>
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="4f58d-102">Microsoft 365 から GoDaddy ドメインを削除する</span><span class="sxs-lookup"><span data-stu-id="4f58d-102">Remove your GoDaddy domain from Microsoft 365</span></span>
 
-<span data-ttu-id="1652d-p101">Microsoft では、GoDaddy ドメインを Microsoft 365 から削除することはできません。[GoDaddy のカスタマー サービス](https://aka.ms/contact-godaddy) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="1652d-p101">We can't remove your GoDaddy domain from Microsoft 365 for you. Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="4f58d-p101">Microsoft では、GoDaddy ドメインを Microsoft 365 から削除することはできません。[GoDaddy のカスタマー サービス](https://aka.ms/contact-godaddy) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="4f58d-p101">We can't remove your GoDaddy domain from Microsoft 365 for you. Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   

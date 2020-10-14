@@ -12,11 +12,11 @@ ms.custom:
 - "6200014"
 ms.openlocfilehash: d8160ba67ea87e112c377fcd1501a2fda44815fa
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47712009"
 ---
-# <a name="dynamics-365-form-selector"></a><span data-ttu-id="ad6a8-102">Dynamics 365 フォーム セレクター</span><span class="sxs-lookup"><span data-stu-id="ad6a8-102">Dynamics 365 form selector</span></span>
+# <a name="dynamics-365-form-selector"></a><span data-ttu-id="085a5-102">Dynamics 365 フォーム セレクター</span><span class="sxs-lookup"><span data-stu-id="085a5-102">Dynamics 365 form selector</span></span>
 
-* [<span data-ttu-id="ad6a8-103">フォームへのアクセス制御について</span><span class="sxs-lookup"><span data-stu-id="ad6a8-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="085a5-103">フォームへのアクセス制御について</span><span class="sxs-lookup"><span data-stu-id="085a5-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)

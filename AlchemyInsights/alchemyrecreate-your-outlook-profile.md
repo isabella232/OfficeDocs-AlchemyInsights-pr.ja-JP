@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
 ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47718374"
 ---
-# <a name="create-an-outlook-profile"></a><span data-ttu-id="d5e64-102">Outlook プロファイルを作成する</span><span class="sxs-lookup"><span data-stu-id="d5e64-102">Create an Outlook Profile</span></span>
+# <a name="create-an-outlook-profile"></a><span data-ttu-id="a2342-102">Outlook プロファイルを作成する</span><span class="sxs-lookup"><span data-stu-id="a2342-102">Create an Outlook Profile</span></span>
 
-<span data-ttu-id="d5e64-103">Outlook プロファイルを作成または再作成するには、影響を受けているマシンで [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy)を実行します。</span><span class="sxs-lookup"><span data-stu-id="d5e64-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
+<span data-ttu-id="a2342-103">Outlook プロファイルを作成または再作成するには、影響を受けているマシンで [Outlook プロファイル ツール](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy)を実行します。</span><span class="sxs-lookup"><span data-stu-id="a2342-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
 
-<span data-ttu-id="d5e64-104">このツールではさまざまなチェックが実行され、準備が整ったらお客様のメール アドレスを使用して Outlook プロファイルが作成されます。</span><span class="sxs-lookup"><span data-stu-id="d5e64-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
+<span data-ttu-id="a2342-104">このツールではさまざまなチェックが実行され、準備が整ったらお客様のメール アドレスを使用して Outlook プロファイルが作成されます。</span><span class="sxs-lookup"><span data-stu-id="a2342-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>

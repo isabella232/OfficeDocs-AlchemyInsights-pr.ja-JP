@@ -15,21 +15,21 @@ ms.custom:
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
 ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47806044"
 ---
-# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="ab6fe-102">Azure AD Connect をアップグレードする</span><span class="sxs-lookup"><span data-stu-id="ab6fe-102">Upgrade Azure AD Connect</span></span>
+# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="bd6e6-102">Azure AD Connect をアップグレードする</span><span class="sxs-lookup"><span data-stu-id="bd6e6-102">Upgrade Azure AD Connect</span></span>
 
-<span data-ttu-id="ab6fe-p101">既定では、Azure AD Connect の自動アップグレードが有効になっています。これはユーザーが確実に最新バージョンを実行するために役立ちます。自動アップグレードの設定を確認するには、Azure AD PowerShell で **Get-ADSyncAutoUpgrade** コマンドレットを使用します。コマンドレットは次のいずれかの値を返します。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-p101">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version. To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell. The cmdlet will return one of following values:</span></span>
+<span data-ttu-id="bd6e6-p101">既定では、Azure AD Connect の自動アップグレードが有効になっています。これはユーザーが確実に最新バージョンを実行するために役立ちます。自動アップグレードの設定を確認するには、Azure AD PowerShell で **Get-ADSyncAutoUpgrade** コマンドレットを使用します。コマンドレットは次のいずれかの値を返します。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-p101">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version. To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell. The cmdlet will return one of following values:</span></span>
 
-- <span data-ttu-id="ab6fe-106">**Enabled**: 自動アップグレードが有効になっています。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-106">**Enabled**: Automatic upgrade is enabled.</span></span>
+- <span data-ttu-id="bd6e6-106">**Enabled**: 自動アップグレードが有効になっています。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-106">**Enabled**: Automatic upgrade is enabled.</span></span>
 
-- <span data-ttu-id="ab6fe-107">**Disabled**: 自動アップグレードが無効になっています。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-107">**Disabled**: Automatic upgrade is disabled.</span></span>
+- <span data-ttu-id="bd6e6-107">**Disabled**: 自動アップグレードが無効になっています。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-107">**Disabled**: Automatic upgrade is disabled.</span></span>
 
-- <span data-ttu-id="ab6fe-p102">**Suspended**: システムが自動アップグレードの受信に対して不適格になっています。この値はシステムによって設定されます。ユーザーが設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-p102">**Suspended**: The system is no longer eligible to receive automatic upgrades. You can't configure this value; it's set by the system.</span></span>
+- <span data-ttu-id="bd6e6-p102">**Suspended**: システムが自動アップグレードの受信に対して不適格になっています。この値はシステムによって設定されます。ユーザーが設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-p102">**Suspended**: The system is no longer eligible to receive automatic upgrades. You can't configure this value; it's set by the system.</span></span>
 
-<span data-ttu-id="ab6fe-110">詳細については、「[自動アップグレード](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
+<span data-ttu-id="bd6e6-110">詳細については、「[自動アップグレード](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
 
-<span data-ttu-id="ab6fe-111">最新バージョンの Azure AD Connect をダウンロードするには、[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) に移動します。</span><span class="sxs-lookup"><span data-stu-id="ab6fe-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>
+<span data-ttu-id="bd6e6-111">最新バージョンの Azure AD Connect をダウンロードするには、[https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) に移動します。</span><span class="sxs-lookup"><span data-stu-id="bd6e6-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>

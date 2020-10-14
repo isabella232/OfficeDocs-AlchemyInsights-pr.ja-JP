@@ -15,13 +15,13 @@ ms.custom:
 - "5093"
 ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47811884"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="00dd9-102">Microsoft Stream にビデオをアップロードする</span><span class="sxs-lookup"><span data-stu-id="00dd9-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="9190d-102">Microsoft Stream にビデオをアップロードする</span><span class="sxs-lookup"><span data-stu-id="9190d-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="00dd9-103">Microsoft Stream では、誰でも簡単にビデオをアップロードできます。</span><span class="sxs-lookup"><span data-stu-id="00dd9-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="9190d-103">Microsoft Stream では、誰でも簡単にビデオをアップロードできます。</span><span class="sxs-lookup"><span data-stu-id="9190d-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="00dd9-104">ビデオをアップロードする</span><span class="sxs-lookup"><span data-stu-id="00dd9-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="9190d-104">ビデオをアップロードする</span><span class="sxs-lookup"><span data-stu-id="9190d-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)

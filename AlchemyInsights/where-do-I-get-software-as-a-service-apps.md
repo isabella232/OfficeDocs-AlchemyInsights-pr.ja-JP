@@ -15,11 +15,11 @@ ms.custom:
 - "2421"
 ms.openlocfilehash: 0018788b28f201bcd050a14ae45c962c1cbf5a5d
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47719166"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="ce508-102">Microsoft パートナーからの Saas (サービスとしてのソフトウェア) アプリはどこで入手できますか?</span><span class="sxs-lookup"><span data-stu-id="ce508-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="270fa-102">Microsoft パートナーからの Saas (サービスとしてのソフトウェア) アプリはどこで入手できますか?</span><span class="sxs-lookup"><span data-stu-id="270fa-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="ce508-103">[AppSource](https://www.appsource.com/) から SaaS アプリを検索、リサーチ、購入できます。</span><span class="sxs-lookup"><span data-stu-id="ce508-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>
+<span data-ttu-id="270fa-103">[AppSource](https://www.appsource.com/) から SaaS アプリを検索、リサーチ、購入できます。</span><span class="sxs-lookup"><span data-stu-id="270fa-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>

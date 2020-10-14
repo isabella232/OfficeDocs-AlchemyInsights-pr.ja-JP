@@ -15,13 +15,13 @@ ms.custom:
 - "5096"
 ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47740840"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="9aa3a-102">Stream にアップロードできるユーザーを制限する</span><span class="sxs-lookup"><span data-stu-id="9aa3a-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="33344-102">Stream にアップロードできるユーザーを制限する</span><span class="sxs-lookup"><span data-stu-id="33344-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="9aa3a-103">組織は、ビデオをアップロードできる従業員を制限しなければならない場合があります。</span><span class="sxs-lookup"><span data-stu-id="9aa3a-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="9aa3a-104">既定では、組織内のすべてのユーザーがビデオをアップロードできます。</span><span class="sxs-lookup"><span data-stu-id="9aa3a-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="33344-103">組織は、ビデオをアップロードできる従業員を制限しなければならない場合があります。</span><span class="sxs-lookup"><span data-stu-id="33344-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="33344-104">既定では、組織内のすべてのユーザーがビデオをアップロードできます。</span><span class="sxs-lookup"><span data-stu-id="33344-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="9aa3a-105">Microsoft Stream でコンテンツを作成できる従業員を制限する</span><span class="sxs-lookup"><span data-stu-id="9aa3a-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="33344-105">Microsoft Stream でコンテンツを作成できる従業員を制限する</span><span class="sxs-lookup"><span data-stu-id="33344-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)

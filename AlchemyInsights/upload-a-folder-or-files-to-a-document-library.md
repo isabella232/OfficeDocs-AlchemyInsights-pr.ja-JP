@@ -14,21 +14,21 @@ ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47805828"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="f2ba3-102">SharePoint ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="f2ba3-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="0c559-102">SharePoint ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="0c559-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="f2ba3-p101">フォルダーをアップロードするには、Microsoft Edge、Google Chrome、または Mozilla FireFox を使用する必要があります。クラシック ライブラリ エクスペリエンスで、または Internet Explorer 10 または 11 を使用してフォルダーをアップロードすることはできません。</span><span class="sxs-lookup"><span data-stu-id="f2ba3-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="0c559-p101">フォルダーをアップロードするには、Microsoft Edge、Google Chrome、または Mozilla FireFox を使用する必要があります。クラシック ライブラリ エクスペリエンスで、または Internet Explorer 10 または 11 を使用してフォルダーをアップロードすることはできません。</span><span class="sxs-lookup"><span data-stu-id="0c559-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="f2ba3-105">フォルダーまたはファイルをアップロードするドキュメント ライブラリを開きます。</span><span class="sxs-lookup"><span data-stu-id="f2ba3-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="0c559-105">フォルダーまたはファイルをアップロードするドキュメント ライブラリを開きます。</span><span class="sxs-lookup"><span data-stu-id="0c559-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="f2ba3-106">コンピューターでエクスプローラーを開き、アップロードするフォルダーまたはファイルを参照します。</span><span class="sxs-lookup"><span data-stu-id="f2ba3-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="0c559-106">コンピューターでエクスプローラーを開き、アップロードするフォルダーまたはファイルを参照します。</span><span class="sxs-lookup"><span data-stu-id="0c559-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="f2ba3-p102">フォルダーまたはファイルをドキュメント ライブラリにドラッグします。アップロードしたアイテムがライブラリに表示されない場合は、ページを更新します。</span><span class="sxs-lookup"><span data-stu-id="f2ba3-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="0c559-p102">フォルダーまたはファイルをドキュメント ライブラリにドラッグします。アップロードしたアイテムがライブラリに表示されない場合は、ページを更新します。</span><span class="sxs-lookup"><span data-stu-id="0c559-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="f2ba3-109">ウィンドウ間でアイテムをドラッグしてアップロードしたくない場合は、ドキュメント ライブラリの [**アップロード**] ボタンを使用して、アップロードするフォルダーまたはファイルを選択することもできます。</span><span class="sxs-lookup"><span data-stu-id="f2ba3-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="0c559-109">ウィンドウ間でアイテムをドラッグしてアップロードしたくない場合は、ドキュメント ライブラリの [**アップロード**] ボタンを使用して、アップロードするフォルダーまたはファイルを選択することもできます。</span><span class="sxs-lookup"><span data-stu-id="0c559-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 

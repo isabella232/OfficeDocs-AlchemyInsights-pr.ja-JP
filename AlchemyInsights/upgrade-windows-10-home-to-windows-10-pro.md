@@ -19,21 +19,21 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47811890"
 ---
-# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a><span data-ttu-id="12ca9-102">プロダクト キーまたはデジタル ライセンスのいずれかを使用してアップグレードする</span><span class="sxs-lookup"><span data-stu-id="12ca9-102">Upgrade using either a product key or a digital license</span></span>
+# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a><span data-ttu-id="11280-102">プロダクト キーまたはデジタル ライセンスのいずれかを使用してアップグレードする</span><span class="sxs-lookup"><span data-stu-id="11280-102">Upgrade using either a product key or a digital license</span></span>
 
-<span data-ttu-id="12ca9-103">**プロダクト キーを使用して Windows 10 Pro にアップグレードする**</span><span class="sxs-lookup"><span data-stu-id="12ca9-103">**Upgrade to Windows 10 Pro using a product key**</span></span>
+<span data-ttu-id="11280-103">**プロダクト キーを使用して Windows 10 Pro にアップグレードする**</span><span class="sxs-lookup"><span data-stu-id="11280-103">**Upgrade to Windows 10 Pro using a product key**</span></span>
 
-1. <span data-ttu-id="12ca9-104">[**スタート**] >  [**設定**] >  [**更新/セキュリティ**] >  [**ライセンス認証**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="12ca9-104">Select **Start** > **Settings** > **Update & security** > **Activation**.</span></span>
-2. <span data-ttu-id="12ca9-105">[**プロダクト キーの変更**] を選択し、25 文字の Windows 10 Pro のプロダクト キーを入力します。</span><span class="sxs-lookup"><span data-stu-id="12ca9-105">Select **Change product key**, and then enter the 25-character Windows 10 Pro product key.</span></span>
-3. <span data-ttu-id="12ca9-106">[**次へ**] を選択して、Windows 10 Pro へのアップグレードを開始します。</span><span class="sxs-lookup"><span data-stu-id="12ca9-106">Select **Next** to start the upgrade to Windows 10 Pro.</span></span>
+1. <span data-ttu-id="11280-104">[**スタート**] >  [**設定**] >  [**更新/セキュリティ**] >  [**ライセンス認証**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="11280-104">Select **Start** > **Settings** > **Update & security** > **Activation**.</span></span>
+2. <span data-ttu-id="11280-105">[**プロダクト キーの変更**] を選択し、25 文字の Windows 10 Pro のプロダクト キーを入力します。</span><span class="sxs-lookup"><span data-stu-id="11280-105">Select **Change product key**, and then enter the 25-character Windows 10 Pro product key.</span></span>
+3. <span data-ttu-id="11280-106">[**次へ**] を選択して、Windows 10 Pro へのアップグレードを開始します。</span><span class="sxs-lookup"><span data-stu-id="11280-106">Select **Next** to start the upgrade to Windows 10 Pro.</span></span>
 
-<span data-ttu-id="12ca9-107">**デジタル ライセンスを使用して Windows 10 Pro にアップグレードする**</span><span class="sxs-lookup"><span data-stu-id="12ca9-107">**Upgrade to Windows 10 Pro using a digital license**</span></span>
+<span data-ttu-id="11280-107">**デジタル ライセンスを使用して Windows 10 Pro にアップグレードする**</span><span class="sxs-lookup"><span data-stu-id="11280-107">**Upgrade to Windows 10 Pro using a digital license**</span></span>
 
-<span data-ttu-id="12ca9-108">デバイスに既に Windows 10 Pro をインストールしてライセンス認証をした場合、デジタル ライセンスを使用してプロダクト キーなしで Windows 10 Home から Windows 10 Pro にアップグレードできます。</span><span class="sxs-lookup"><span data-stu-id="12ca9-108">If you already installed and activated Windows 10 Pro on your device, you’ll have a digital license that lets you upgrade from Windows 10 Home to Windows 10 Pro without a product key.</span></span>
+<span data-ttu-id="11280-108">デバイスに既に Windows 10 Pro をインストールしてライセンス認証をした場合、デジタル ライセンスを使用してプロダクト キーなしで Windows 10 Home から Windows 10 Pro にアップグレードできます。</span><span class="sxs-lookup"><span data-stu-id="11280-108">If you already installed and activated Windows 10 Pro on your device, you’ll have a digital license that lets you upgrade from Windows 10 Home to Windows 10 Pro without a product key.</span></span>
 
-<span data-ttu-id="12ca9-109">[**スタート**] >  [**設定**] >  [**更新/セキュリティ**] >  [**ライセンス認証**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="12ca9-109">Select **Start** > **Settings** > **Update & security** > **Activation**.</span></span>
+<span data-ttu-id="11280-109">[**スタート**] >  [**設定**] >  [**更新/セキュリティ**] >  [**ライセンス認証**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="11280-109">Select **Start** > **Settings** > **Update & security** > **Activation**.</span></span>
 
-- <span data-ttu-id="12ca9-110">Windows 10 Pro のデジタル ライセンスがあり、デバイスで Windows 10 Home が現在アクティブになっている場合、[**Microsoft Store に移動**] を選択すると、無料で Windows 10 Pro にアップグレードするように求められます。</span><span class="sxs-lookup"><span data-stu-id="12ca9-110">If you have a digital license for Windows 10 Pro, and Windows 10 Home is currently activated on your device, select **Go to Microsoft Store** and you'll be prompted to upgrade to Windows 10 Pro for free.</span></span>
-- <span data-ttu-id="12ca9-111">Windows 10 Pro のデジタル ライセンスがあり、デバイスで Windows 10 Home がアクティブになっていない場合には、[**トラブルシューティング**] を選択し、手順に従って Windows 10 Pro にアップグレードします。</span><span class="sxs-lookup"><span data-stu-id="12ca9-111">If you have a digital license for Windows 10 Pro, and Windows 10 Home isn't activated on your device, select **Troubleshoot**, and then follow the steps to upgrade to Windows 10 Pro.</span></span>
+- <span data-ttu-id="11280-110">Windows 10 Pro のデジタル ライセンスがあり、デバイスで Windows 10 Home が現在アクティブになっている場合、[**Microsoft Store に移動**] を選択すると、無料で Windows 10 Pro にアップグレードするように求められます。</span><span class="sxs-lookup"><span data-stu-id="11280-110">If you have a digital license for Windows 10 Pro, and Windows 10 Home is currently activated on your device, select **Go to Microsoft Store** and you'll be prompted to upgrade to Windows 10 Pro for free.</span></span>
+- <span data-ttu-id="11280-111">Windows 10 Pro のデジタル ライセンスがあり、デバイスで Windows 10 Home がアクティブになっていない場合には、[**トラブルシューティング**] を選択し、手順に従って Windows 10 Pro にアップグレードします。</span><span class="sxs-lookup"><span data-stu-id="11280-111">If you have a digital license for Windows 10 Pro, and Windows 10 Home isn't activated on your device, select **Troubleshoot**, and then follow the steps to upgrade to Windows 10 Pro.</span></span>
 
-[<span data-ttu-id="12ca9-112">Windows 10 のライセンス認証の詳細</span><span class="sxs-lookup"><span data-stu-id="12ca9-112">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)
+[<span data-ttu-id="11280-112">Windows 10 のライセンス認証の詳細</span><span class="sxs-lookup"><span data-stu-id="11280-112">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)

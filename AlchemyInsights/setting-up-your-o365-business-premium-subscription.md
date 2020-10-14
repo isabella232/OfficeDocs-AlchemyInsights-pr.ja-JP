@@ -13,12 +13,12 @@ ms.custom:
 - "1600002"
 ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47739758"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="4254b-102">O365 Business Premium サブスクリプションのセットアップ</span><span class="sxs-lookup"><span data-stu-id="4254b-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="c3537-102">O365 Business Premium サブスクリプションのセットアップ</span><span class="sxs-lookup"><span data-stu-id="c3537-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="4254b-103">Microsoft 365 サブスクリプションをセットアップするのにサポートが必要な場合は、[この記事](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)の手順に従って、セットアップを完了します。</span><span class="sxs-lookup"><span data-stu-id="4254b-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
+<span data-ttu-id="c3537-103">Microsoft 365 サブスクリプションをセットアップするのにサポートが必要な場合は、[この記事](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)の手順に従って、セットアップを完了します。</span><span class="sxs-lookup"><span data-stu-id="c3537-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   

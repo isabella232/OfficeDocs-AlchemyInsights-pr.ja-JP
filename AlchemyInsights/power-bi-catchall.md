@@ -14,11 +14,11 @@ ms.custom:
 - "9000775"
 ms.openlocfilehash: 1ad31a87c1646f8c76b7da6fe32433ef0ff393b1
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47741632"
 ---
-# <a name="power-bi-troubleshooting"></a><span data-ttu-id="71a85-102">Power BI のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="71a85-102">Power BI troubleshooting</span></span>
+# <a name="power-bi-troubleshooting"></a><span data-ttu-id="bc054-102">Power BI のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="bc054-102">Power BI troubleshooting</span></span>
 
-<span data-ttu-id="71a85-103">Power BI のトラブルシューティングのコンテンツについては、https://powerbi.microsoft.com/support/を参照してください。</span><span class="sxs-lookup"><span data-stu-id="71a85-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>
+<span data-ttu-id="bc054-103">Power BI のトラブルシューティングのコンテンツについては、https://powerbi.microsoft.com/support/を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bc054-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>

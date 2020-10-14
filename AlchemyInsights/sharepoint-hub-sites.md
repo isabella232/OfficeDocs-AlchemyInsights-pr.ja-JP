@@ -18,20 +18,20 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47800793"
 ---
-# <a name="sharepoint-hub-sites-overview"></a><span data-ttu-id="84d9b-102">SharePoint ハブ サイトの概要</span><span class="sxs-lookup"><span data-stu-id="84d9b-102">SharePoint hub sites overview</span></span>
+# <a name="sharepoint-hub-sites-overview"></a><span data-ttu-id="50e47-102">SharePoint ハブ サイトの概要</span><span class="sxs-lookup"><span data-stu-id="50e47-102">SharePoint hub sites overview</span></span>
 
-<span data-ttu-id="84d9b-103">SharePoint ハブ サイトを使用すると、プロジェクト、部門、部署、地域などに基づいてサイトを接続して整理し、組織のニーズを満たすことができます。</span><span class="sxs-lookup"><span data-stu-id="84d9b-103">SharePoint hub sites help you meet the needs of your organization by connecting and organizing sites based on project, department, division, region, etc. making it easier to:</span></span>
+<span data-ttu-id="50e47-103">SharePoint ハブ サイトを使用すると、プロジェクト、部門、部署、地域などに基づいてサイトを接続して整理し、組織のニーズを満たすことができます。</span><span class="sxs-lookup"><span data-stu-id="50e47-103">SharePoint hub sites help you meet the needs of your organization by connecting and organizing sites based on project, department, division, region, etc. making it easier to:</span></span>
 
-- <span data-ttu-id="84d9b-104">ニュースや他のサイト活動などの関連コンテンツを発見します。</span><span class="sxs-lookup"><span data-stu-id="84d9b-104">Discover related content such as news and other site activities.</span></span>
+- <span data-ttu-id="50e47-104">ニュースや他のサイト活動などの関連コンテンツを発見します。</span><span class="sxs-lookup"><span data-stu-id="50e47-104">Discover related content such as news and other site activities.</span></span>
 
-- <span data-ttu-id="84d9b-105">関連サイト間で共通のナビゲーションとブランド設定を適用します。</span><span class="sxs-lookup"><span data-stu-id="84d9b-105">Apply common navigation and branding across associated sites.</span></span> 
+- <span data-ttu-id="50e47-105">関連サイト間で共通のナビゲーションとブランド設定を適用します。</span><span class="sxs-lookup"><span data-stu-id="50e47-105">Apply common navigation and branding across associated sites.</span></span> 
 
-- <span data-ttu-id="84d9b-106">すべての関連サイトを検索します。</span><span class="sxs-lookup"><span data-stu-id="84d9b-106">Search across all associated sites.</span></span>
+- <span data-ttu-id="50e47-106">すべての関連サイトを検索します。</span><span class="sxs-lookup"><span data-stu-id="50e47-106">Search across all associated sites.</span></span>
 
-<span data-ttu-id="84d9b-107">ハブ サイトの詳細については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="84d9b-107">See the following for more information about hub sites:</span></span>
-- <span data-ttu-id="84d9b-108">[SharePoint Online でハブ サイトを作成する](https://docs.microsoft.com/sharepoint/create-hub-site): 新しい管理センターまたは PowerShell からハブ サイトを作成する方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="84d9b-108">[Create a hub site in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Learn how to create a hub site from the new Admin Center or PowerShell.</span></span>
+<span data-ttu-id="50e47-107">ハブ サイトの詳細については、以下を参照してください。</span><span class="sxs-lookup"><span data-stu-id="50e47-107">See the following for more information about hub sites:</span></span>
+- <span data-ttu-id="50e47-108">[SharePoint Online でハブ サイトを作成する](https://docs.microsoft.com/sharepoint/create-hub-site): 新しい管理センターまたは PowerShell からハブ サイトを作成する方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="50e47-108">[Create a hub site in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Learn how to create a hub site from the new Admin Center or PowerShell.</span></span>
 
-- <span data-ttu-id="84d9b-109">[SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): 新しい管理センターまたは PowerShell から既存のサイトをハブ サイトに関連付ける方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="84d9b-109">[Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Learn about associating existing sites to a hub site from the new Admin Center or PowerShell.</span></span>
+- <span data-ttu-id="50e47-109">[SharePoint サイトをハブ サイトと関連付ける](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): 新しい管理センターまたは PowerShell から既存のサイトをハブ サイトに関連付ける方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="50e47-109">[Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Learn about associating existing sites to a hub site from the new Admin Center or PowerShell.</span></span>
 
-- <span data-ttu-id="84d9b-110">[ハブ サイトを削除する](https://docs.microsoft.com/sharepoint/remove-hub-site): 新しい管理センターまたは PowerShell から既存のハブ サイトを削除する方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="84d9b-110">[Remove a hub site](https://docs.microsoft.com/sharepoint/remove-hub-site): Learn how to remove an existing hub site in the new Admin Center or PowerShell.</span></span>
+- <span data-ttu-id="50e47-110">[ハブ サイトを削除する](https://docs.microsoft.com/sharepoint/remove-hub-site): 新しい管理センターまたは PowerShell から既存のハブ サイトを削除する方法の詳細については、こちらを参照してください。</span><span class="sxs-lookup"><span data-stu-id="50e47-110">[Remove a hub site](https://docs.microsoft.com/sharepoint/remove-hub-site): Learn how to remove an existing hub site in the new Admin Center or PowerShell.</span></span>
 

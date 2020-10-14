@@ -14,21 +14,21 @@ ms.custom:
 - "1885"
 ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47700892"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="6aba1-102">SharePoint Online へのデータ移行中の問題</span><span class="sxs-lookup"><span data-stu-id="6aba1-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="a2aa5-102">SharePoint Online へのデータ移行中の問題</span><span class="sxs-lookup"><span data-stu-id="a2aa5-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="6aba1-103">**100 TB を超えるデータの移行**</span><span class="sxs-lookup"><span data-stu-id="6aba1-103">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="a2aa5-103">**100 TB を超えるデータの移行**</span><span class="sxs-lookup"><span data-stu-id="a2aa5-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="6aba1-104">100 TB を超えるデータを SharePoint Online に移行しているようです。</span><span class="sxs-lookup"><span data-stu-id="6aba1-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="6aba1-105">できるだけ早くサポートできるように、以下の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="6aba1-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="a2aa5-104">100 TB を超えるデータを SharePoint Online に移行しているようです。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="a2aa5-105">できるだけ早くサポートできるように、以下の手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="6aba1-106">[**新規お問い合わせ**] を選択し、[**新規お問い合わせ**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="6aba1-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="6aba1-107">タイトルと説明に「**100 TB を超える SharePoint 移行**」と入力します。</span><span class="sxs-lookup"><span data-stu-id="6aba1-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="6aba1-108">チケットが発行されたら、次の情報でチケットを更新してください。</span><span class="sxs-lookup"><span data-stu-id="6aba1-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="a2aa5-106">[**新規お問い合わせ**] を選択し、[**新規お問い合わせ**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="a2aa5-107">タイトルと説明に「**100 TB を超える SharePoint 移行**」と入力します。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="a2aa5-108">チケットが発行されたら、次の情報でチケットを更新してください。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="6aba1-109">予想される移行サイズ。</span><span class="sxs-lookup"><span data-stu-id="6aba1-109">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="6aba1-110">ご希望の移行開始および完了日時。</span><span class="sxs-lookup"><span data-stu-id="6aba1-110">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="6aba1-111">SharePoint Server、Box、GDrive、ファイル共有など、コンテンツの移行元。</span><span class="sxs-lookup"><span data-stu-id="6aba1-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="a2aa5-109">予想される移行サイズ。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="a2aa5-110">ご希望の移行開始および完了日時。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="a2aa5-111">SharePoint Server、Box、GDrive、ファイル共有など、コンテンツの移行元。</span><span class="sxs-lookup"><span data-stu-id="a2aa5-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
