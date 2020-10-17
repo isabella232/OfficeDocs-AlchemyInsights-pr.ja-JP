@@ -1,5 +1,5 @@
 ---
-title: OneDrive へのファイルとフォルダーの保存
+title: OneDrive にファイルやフォルダーを保存する
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "5903"
 ms.openlocfilehash: 1c612a91cc2674e097f108a3d57898e2b24e901b
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47774248"
 ---
-# <a name="saving-files-and-folders-to-onedrive"></a>OneDrive へのファイルとフォルダーの保存
+# <a name="saving-files-and-folders-to-onedrive"></a>OneDrive にファイルやフォルダーを保存する
 
-ファイルを保存して OneDrive に保存するには、さまざまな方法があります。 OneDrive にファイルを保存するときに問題が発生した場合は、次の操作を行います。
+ファイルの保存や OneDrive へのファイルの保存には、さまざまな方法があります。 OneDrive にファイルを保存するときに問題が発生する場合は、以下をお試しください。
 
-- タスクバーで青いクラウドを選択し、ポップアップウィンドウに表示されるエラーを修正します。
-- OneDrive フォルダー以外の場所にファイルを保存してから、ファイルを OneDrive フォルダーに戻してください。
-- コンピューターを再起動し、もう一度保存を試行します。 多くの場合、アプリケーションでファイルが開かれていると、OneDrive はアプリケーションで使用されなくなるまでファイルを同期できません。    
-- タスクバーの青色の onedrive アイコンを選択して、リンクを解除して、onedrive を再リンクしてみてください。 > **Help & 設定**  >  **アカウント**は  >  **この PC のリンクを解除**します。 タスクバーの青い OneDrive アイコンをもう一度選択し、サインインします。
-- ストレージの問題が発生している場合は、「 [OneDrive For business または学校のストレージを管理](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)する」を参照してください。
-- トラブルシューティングの詳細については、「 [OneDrive 同期の問題を修正](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)する」を参照してください。  
+- タスク バーにある青い雲を選択し、ポップアップ ウィンドウに表示されるエラーを修正します。
+- ファイルを OneDrive フォルダー以外の場所に保存してから、OneDrive フォルダーにファイルを戻してみます。
+- コンピューターを再起動し、もう一度保存してみます。 多くの場合、アプリケーションがファイルを開いている場合、アプリケーションによる使用が終了するまで OneDrive はファイルを同期できません。    
+- タスク バー > **[ヘルプと設定]**  >  **[アカウント]**  >  **[この PC のリンク解除]** の順に移動した先にある青い OneDrive アイコンを選択し、OneDrive のリンク解除と再リンクを試してみてください。 タスク バーにある青い OneDrive アイコンをもう一度選択し、サインインします。
+- 記憶域の問題が発生している場合は、「[Manage your OneDrive for work or school storage (職場または学校のストレージ用の OneDrive を管理する)](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)」を参照してください。
+- トラブルシューティングの情報については、「[OneDrive の同期に関する問題を解決する](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)」を参照してください。  
 
-Office と OneDrive を使用して保存の手順をカスタマイズする場合は、「 [office の保存環境をカスタマイズ](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)する」を参照してください。
+Office と OneDrive を使用して保存エクスペリエンスをカスタマイズする場合は、「[Customize the save experience in Office (Office での保存エクスペリエンスをカスタマイズする)](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)」を参照してください。
