@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724584"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466009"
 ---
-# <a name="microsoft-lists"></a><span data-ttu-id="269be-102">Microsoft リスト</span><span class="sxs-lookup"><span data-stu-id="269be-102">Microsoft Lists</span></span>
+# <a name="microsoft-lists"></a><span data-ttu-id="a5d7b-102">Microsoft リスト</span><span class="sxs-lookup"><span data-stu-id="a5d7b-102">Microsoft Lists</span></span>
 
-<span data-ttu-id="269be-103">Microsoft は、Microsoft リストの最初の段階として、Microsoft 365 アプリを発売しています。</span><span class="sxs-lookup"><span data-stu-id="269be-103">Microsoft is launching the first stage of Microsoft Lists, a Microsoft 365 app.</span></span> <span data-ttu-id="269be-104">Microsoft リストは 全てのリストを表示して、管理できる主要なツールです。</span><span class="sxs-lookup"><span data-stu-id="269be-104">Microsoft Lists is the central place to see and manage all of your lists.</span></span>  
+<span data-ttu-id="a5d7b-103">Microsoft は、Microsoft リストの最初の段階として、Microsoft 365 アプリを発売しています。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-103">Microsoft is launching the first stage of Microsoft Lists, a Microsoft 365 app.</span></span> <span data-ttu-id="a5d7b-104">Microsoft リストは 全てのリストを表示して、管理できる主要なツールです。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-104">Microsoft Lists is the central place to see and manage all of your lists.</span></span>  
   
-<span data-ttu-id="269be-105">**Timing**</span><span class="sxs-lookup"><span data-stu-id="269be-105">**Timing**</span></span>  
+<span data-ttu-id="a5d7b-105">**Timing**</span><span class="sxs-lookup"><span data-stu-id="a5d7b-105">**Timing**</span></span>  
 
-- <span data-ttu-id="269be-106">対象指定リリースが有効になっている組織のロールアウトが開始されました。</span><span class="sxs-lookup"><span data-stu-id="269be-106">Roll out has begun for organizations enabled for targeted release.</span></span>
-- <span data-ttu-id="269be-107">2020年10月中旬に、すべての組織にリリースします。</span><span class="sxs-lookup"><span data-stu-id="269be-107">Release to all organizations by mid-October 2020.</span></span>
+- <span data-ttu-id="a5d7b-106">対象指定リリースが有効化されている組織のロール アウトが完了しました。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-106">Roll out is complete for organizations enabled for Targeted release.</span></span>
+- <span data-ttu-id="a5d7b-107">組織が開始した標準リリースのロール アウトは、2020 年 11 月末に完了します。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-107">Rollout for Standard release organizations has started and will complete end of November 2020.</span></span>
 
-<span data-ttu-id="269be-108">SharePoint ライセンスを持つユーザーは、リストアイコンにアクセスし、Microsoft リストの使用を開始できます。</span><span class="sxs-lookup"><span data-stu-id="269be-108">Any user with a SharePoint license can access the Lists icon and start using Microsoft Lists.</span></span> <span data-ttu-id="269be-109">管理者は現在、この機能をオフにできません。</span><span class="sxs-lookup"><span data-stu-id="269be-109">Admins can't currently turn off the feature.</span></span>
- 
-<span data-ttu-id="269be-110">Microsoft 365 アプリ起動ツールで、リストアイコンを選択します。</span><span class="sxs-lookup"><span data-stu-id="269be-110">In the Microsoft 365 app launcher, select the Lists icon.</span></span> <span data-ttu-id="269be-111">最初から、または既成のテンプレートを使用して、リストを作成します。</span><span class="sxs-lookup"><span data-stu-id="269be-111">Start a list from scratch or with pre-built templates.</span></span> <span data-ttu-id="269be-112">さらに、既存のリストから新しいリストを作成したり、Excel データをインポートしてリストを作成したりできます。</span><span class="sxs-lookup"><span data-stu-id="269be-112">In addition, you can create new lists from existing lists or by importing Excel data to create a list.</span></span> <span data-ttu-id="269be-113">ユーザーが所有している、またはユーザーと共有中のリストを含む、お気に入りおよび最新のリストを表示します。</span><span class="sxs-lookup"><span data-stu-id="269be-113">View favorite and recent lists, including lists that you own or that have been shared with you.</span></span> <span data-ttu-id="269be-114">個人リストとチームリストを作成できます。</span><span class="sxs-lookup"><span data-stu-id="269be-114">You can create both personal lists and team lists.</span></span>  
+<span data-ttu-id="a5d7b-108">SharePoint ライセンスを持つユーザーは、Lists のアイコンにアクセスし、Microsoft Lists を使用できます。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-108">Any user with a SharePoint license can access the Lists icon and start using Microsoft Lists.</span></span>
 
-<span data-ttu-id="269be-115">詳しくは、[Microsoft リスト](https://aka.ms/microsoftlists) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="269be-115">For more info, see [Microsoft Lists](https://aka.ms/microsoftlists).</span></span>
+<span data-ttu-id="a5d7b-109">Microsoft 365 のグローバル管理者または SharePoint 管理者として、Microsoft Lists の設定を制御できます。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-109">As a global or SharePoint admin in Microsoft 365, you can control settings for Microsoft Lists.</span></span> <span data-ttu-id="a5d7b-110">次の操作を行うことができます:</span><span class="sxs-lookup"><span data-stu-id="a5d7b-110">You can:</span></span>
+
+<span data-ttu-id="a5d7b-111">個人用リストを作成されないようにする (ユーザーが新しいリストを [個人用リスト] に保存できないようにする)。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-111">Disable the creation of personal lists (prevent users from saving new lists to "My lists").</span></span>
+<span data-ttu-id="a5d7b-112">組織に関連しない組み込みのリスト テンプレートを無効にする。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-112">Disable built-in list templates that aren't relevant for your organization.</span></span>
+<span data-ttu-id="a5d7b-113">[制御リスト](https://docs.microsoft.com/sharepoint/control-lists) を参照</span><span class="sxs-lookup"><span data-stu-id="a5d7b-113">See [Control Lists](https://docs.microsoft.com/sharepoint/control-lists)</span></span>
+
+<span data-ttu-id="a5d7b-114">詳しくは、[Microsoft リスト](https://aka.ms/microsoftlists) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a5d7b-114">For more info, see [Microsoft Lists](https://aka.ms/microsoftlists).</span></span>

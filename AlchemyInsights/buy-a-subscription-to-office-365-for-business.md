@@ -15,28 +15,28 @@ ms.custom:
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
 ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416206"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a><span data-ttu-id="6911e-102">無料試用版から Microsoft 365 のサブスクリプションを購入する</span><span class="sxs-lookup"><span data-stu-id="6911e-102">Buy a subscription to Microsoft 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a><span data-ttu-id="5477a-102">無料試用版から Microsoft 365 のサブスクリプションを購入する</span><span class="sxs-lookup"><span data-stu-id="5477a-102">Buy a subscription to Microsoft 365 from your free trial</span></span>
 
-<span data-ttu-id="6911e-103">Microsoft 365 を試したので、購入する準備が整いました。</span><span class="sxs-lookup"><span data-stu-id="6911e-103">You've tried Microsoft 365, and now you're ready to buy.</span></span> <span data-ttu-id="6911e-104">試用版から Microsoft 365 を購入する場合、2 つのオプションがあります。</span><span class="sxs-lookup"><span data-stu-id="6911e-104">You have two options when buying Microsoft 365 from your trial version:</span></span>
+<span data-ttu-id="5477a-103">Microsoft 365 を試したので、購入する準備が整いました。</span><span class="sxs-lookup"><span data-stu-id="5477a-103">You've tried Microsoft 365, and now you're ready to buy.</span></span> <span data-ttu-id="5477a-104">試用版から Microsoft 365 を購入する場合、2 つのオプションがあります。</span><span class="sxs-lookup"><span data-stu-id="5477a-104">You have two options when buying Microsoft 365 from your trial version:</span></span>
   
- <span data-ttu-id="6911e-105">**試用版と同じプランを購入する**</span><span class="sxs-lookup"><span data-stu-id="6911e-105">**Buy the same plan as your trial**</span></span>
+ <span data-ttu-id="5477a-105">**試用版と同じプランを購入する**</span><span class="sxs-lookup"><span data-stu-id="5477a-105">**Buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="6911e-106">管理センターで、[**課金**] \> [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="6911e-106">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="6911e-107">[ **製品** ] タブで、購入するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="6911e-107">On the **Products** tab, select the subscription that you want to buy.</span></span>
-3. <span data-ttu-id="6911e-108">[サブスクリプションの詳細] ページの [ **ライセンス** ] セクションで、[ **今すぐ有料サブスクリプションを購入**する] を選択し、確認の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="6911e-108">On the subscription details page, in the **License** section, select **Buy paid subscription now**, and follow the steps to check out.</span></span>
+1. <span data-ttu-id="5477a-106">管理センターで、[**課金**] \> [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="5477a-106">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="5477a-107">**[製品]** タブで、購入するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="5477a-107">On the **Products** tab, select the subscription that you want to buy.</span></span>
+3. <span data-ttu-id="5477a-108">[サブスクリプションの詳細] ページの **[ライセンス]** セクションで、**[Buy paid subscription now]** (有料版サブスクリプションを今すぐ購入) を選択し、手順に従ってチェックアウトします。</span><span class="sxs-lookup"><span data-stu-id="5477a-108">On the subscription details page, in the **License** section, select **Buy paid subscription now**, and follow the steps to check out.</span></span>
  
-<span data-ttu-id="6911e-109">**別のサブスクリプションを購入する**</span><span class="sxs-lookup"><span data-stu-id="6911e-109">**Buy a different subscription**</span></span>
+<span data-ttu-id="5477a-109">**別のサブスクリプションを購入する**</span><span class="sxs-lookup"><span data-stu-id="5477a-109">**Buy a different subscription**</span></span>
   
-1. <span data-ttu-id="6911e-110">管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="6911e-110">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
-2. <span data-ttu-id="6911e-111">購入するサブスクリプションを検索して、[**購入**] を選択し、手順に従ってチェックアウトします。</span><span class="sxs-lookup"><span data-stu-id="6911e-111">Find the subscription that you want to buy, select **Buy**, and follow the steps to check out.</span></span>
+1. <span data-ttu-id="5477a-110">管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="5477a-110">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+2. <span data-ttu-id="5477a-111">購入するサブスクリプションを検索して、[**購入**] を選択し、手順に従ってチェックアウトします。</span><span class="sxs-lookup"><span data-stu-id="5477a-111">Find the subscription that you want to buy, select **Buy**, and follow the steps to check out.</span></span>
 
-<span data-ttu-id="6911e-112">詳細については、「 [無料試用版からサブスクリプションを購入](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6911e-112">To learn more, see [Buy a subscription from your free trial](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span></span>
+<span data-ttu-id="5477a-112">詳細については、「[無料試用版からサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5477a-112">To learn more, see [Buy a subscription from your free trial](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span></span>
 
-<span data-ttu-id="6911e-113">**トラブルシューティング**</span><span class="sxs-lookup"><span data-stu-id="6911e-113">**Troubleshooting**</span></span>
+<span data-ttu-id="5477a-113">**トラブルシューティング**</span><span class="sxs-lookup"><span data-stu-id="5477a-113">**Troubleshooting**</span></span>
 
-<span data-ttu-id="6911e-114">ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。</span><span class="sxs-lookup"><span data-stu-id="6911e-114">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
+<span data-ttu-id="5477a-114">ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。</span><span class="sxs-lookup"><span data-stu-id="5477a-114">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
