@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47799101"
@@ -26,7 +26,7 @@ ms.locfileid: "47799101"
 
 1. Outlook を終了します。
 
-2. `Scanpst.exe`Office プログラムフォルダー (C:\program files (x86) \Microsoft Office\root\Office または c:\program の Office\root\Office) で検索して実行 \<Version\> \<Version\> します。
+2. Office プログラム フォルダー (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> または C:\Program Files\Microsoft Office\root\Office\<Version\>) にある `Scanpst.exe` を検索して実行します。
 
 3. **Microsoft Outlook 受信トレイ修復ツール**で、**[参照]** をクリックして .pst ファイルを検索します (たとえば、C:\Users\\<username\>\AppData\Local\Microsoft\Outlook)。 .pst ファイルを選択し、**[開く]** をクリックします。
 

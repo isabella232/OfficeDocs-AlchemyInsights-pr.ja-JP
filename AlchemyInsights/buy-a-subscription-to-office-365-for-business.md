@@ -15,7 +15,7 @@ ms.custom:
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
 ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416206"
@@ -27,15 +27,15 @@ Microsoft 365 を試したので、購入する準備が整いました。 試�
  **試用版と同じプランを購入する**
   
 1. 管理センターで、[**課金**] \> [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。
-2. [ **製品** ] タブで、購入するサブスクリプションを選択します。
-3. [サブスクリプションの詳細] ページの [ **ライセンス** ] セクションで、[ **今すぐ有料サブスクリプションを購入**する] を選択し、確認の手順に従います。
+2. **[製品]** タブで、購入するサブスクリプションを選択します。
+3. [サブスクリプションの詳細] ページの **[ライセンス]** セクションで、**[Buy paid subscription now]** (有料版サブスクリプションを今すぐ購入) を選択し、手順に従ってチェックアウトします。
  
 **別のサブスクリプションを購入する**
   
 1. 管理センターで、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動します。
 2. 購入するサブスクリプションを検索して、[**購入**] を選択し、手順に従ってチェックアウトします。
 
-詳細については、「 [無料試用版からサブスクリプションを購入](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)する」を参照してください。
+詳細については、「[無料試用版からサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)」を参照してください。
 
 **トラブルシューティング**
 

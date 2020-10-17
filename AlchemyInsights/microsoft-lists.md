@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724584"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466009"
 ---
 # <a name="microsoft-lists"></a>Microsoft リスト
 
@@ -26,11 +26,15 @@ Microsoft は、Microsoft リストの最初の段階として、Microsoft 365 �
   
 **Timing**  
 
-- 対象指定リリースが有効になっている組織のロールアウトが開始されました。
-- 2020年10月中旬に、すべての組織にリリースします。
+- 対象指定リリースが有効化されている組織のロール アウトが完了しました。
+- 組織が開始した標準リリースのロール アウトは、2020 年 11 月末に完了します。
 
-SharePoint ライセンスを持つユーザーは、リストアイコンにアクセスし、Microsoft リストの使用を開始できます。 管理者は現在、この機能をオフにできません。
- 
-Microsoft 365 アプリ起動ツールで、リストアイコンを選択します。 最初から、または既成のテンプレートを使用して、リストを作成します。 さらに、既存のリストから新しいリストを作成したり、Excel データをインポートしてリストを作成したりできます。 ユーザーが所有している、またはユーザーと共有中のリストを含む、お気に入りおよび最新のリストを表示します。 個人リストとチームリストを作成できます。  
+SharePoint ライセンスを持つユーザーは、Lists のアイコンにアクセスし、Microsoft Lists を使用できます。
+
+Microsoft 365 のグローバル管理者または SharePoint 管理者として、Microsoft Lists の設定を制御できます。 次の操作を行うことができます:
+
+個人用リストを作成されないようにする (ユーザーが新しいリストを [個人用リスト] に保存できないようにする)。
+組織に関連しない組み込みのリスト テンプレートを無効にする。
+[制御リスト](https://docs.microsoft.com/sharepoint/control-lists) を参照
 
 詳しくは、[Microsoft リスト](https://aka.ms/microsoftlists) を参照してください。

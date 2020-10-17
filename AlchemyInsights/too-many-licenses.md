@@ -16,7 +16,7 @@ ms.custom:
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
 ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
 ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/29/2020
 ms.locfileid: "48307239"
@@ -29,8 +29,8 @@ ms.locfileid: "48307239"
   
 1. 管理センターで、**[課金]** \> **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 2. **[製品]** タブで、変更するサブスクリプションを選択します。
-3. [サブスクリプションの詳細] ページで、[ **ライセンスの削除**] を選択します。
-4. [**ライセンスの削除**] ウィンドウで、[ライセンスの**合計**数] ボックスに**新しい数量**を入力します。このサブスクリプションに使用するライセンスの総数を入力します。 たとえば、100ライセンスを所有していて、25個のライセンスを削除する場合は、「75」と入力します。
+3. [サブスクリプションの詳細] ページで、**[ライセンスの削除]** を選択します。
+4. **[ライセンスの削除]** ウィンドウで、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。 たとえば、100 個のライセンスがあり、そのうち 25 個を削除する場合は、75 と入力します。
 5. **[保存]** を選択します。
 
-詳細については、「 [サブスクリプションライセンスを購入または削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)する」を参照してください。
+詳細については、「[サブスクリプション ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」を参照してください。

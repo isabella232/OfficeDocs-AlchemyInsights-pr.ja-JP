@@ -14,7 +14,7 @@ ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47739038"
@@ -25,7 +25,7 @@ ms.locfileid: "47739038"
     
 2. 共有するファイルまたはフォルダーを選択して、[**共有**] を選択します。 
     
-3. リンクの種類が [ユーザー] に設定されている場合は、 \<your organization\> 下矢印をクリックして、次のいずれかを選択します。 
+3. リンクの種類が "\<your organization\> のユーザー" に設定されている場合は、↓キーをクリックして次のいずれかを選択します。 
     
   - **すべてのユーザー**: あなたから直接送信されるか、他のユーザーから転送されるかに関係なく、このリンクを受信するすべてのユーザーにアクセス権が付与されます。これには組織外のユーザーが含まれる場合もあります。 
     

@@ -17,7 +17,7 @@ ms.custom:
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
 ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
 ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/25/2020
 ms.locfileid: "48277951"
@@ -48,4 +48,4 @@ ms.locfileid: "48277951"
 
 詳細については、「[コンテンツ検索の結果をエクスポートする](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)」を参照してください。
 
-10万を超えるメールボックスをエクスポートする場合は、次の Powershell を使用してエクスポート結果をダウンロードする必要があります。  [10 万を超えるメールボックスから結果をエクスポート](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)します。
+10 万個以上のメールボックスをエクスポートする場合は、次の Powershell を使用し、エクスポート結果をダウンロードする必要があります: 「[10 万個以上のメールボックスから結果をエクスポートする](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)」。

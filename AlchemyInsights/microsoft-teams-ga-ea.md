@@ -13,7 +13,7 @@ ms.custom:
 - "6500001"
 ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
 ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/13/2020
 ms.locfileid: "48452233"
@@ -24,7 +24,7 @@ Teams で組織外のユーザーとの通信に関するサポートが必要�
 
 必ず[相違点を確認](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)して、それぞれについて利用可能な機能をご確認ください。  たとえば、外部アクセス (フェデレーション) では、チャットやプレゼンスなどの 1 対 1 の通信が可能です。  ただし、フェデレーション ユーザーは Teams のコラボレーションに参加できません。  外部ユーザーが Teams チャネルの会話やファイルの共有に参加するには、ゲスト アクセスを有効にする必要があります。
 
-**オプション 1: ゲストアクセスを有効にする** Teams 管理センターで、[ [組織全体の設定 > ゲストアクセス](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ] に移動し、[teams でのゲストアクセスを許可する] をオンにします。  それ以外はすべての既定の設定を使用しているテナントの場合、この操作を実行するだけです。  ゲスト アクセスの構成をカスタマイズするには、「[ゲスト アクセスのチェックリスト](https://docs.microsoft.com/microsoftteams/guest-access-checklist)」のすべての手順に従ってください。 手順をすべて実行したら、設定が有効になるまで[最大で 24 時間待つ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies)必要があります。
+**オプション 1: ゲストのアクセスをオンにする** [Teams 管理センター] で、[[組織全体の設定]、[ゲスト アクセス]](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) の順に移動して、[Teams でのゲスト アクセスを許可する] を有効にします。  それ以外はすべての既定の設定を使用しているテナントの場合、この操作を実行するだけです。  ゲスト アクセスの構成をカスタマイズするには、「[ゲスト アクセスのチェックリスト](https://docs.microsoft.com/microsoftteams/guest-access-checklist)」のすべての手順に従ってください。 手順をすべて実行したら、設定が有効になるまで[最大で 24 時間待つ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies)必要があります。
 
 チェックリストのすべての手順が確実に完了されており、24 時間以上経過した場合、[ゲストをチームに追加](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)します。
 

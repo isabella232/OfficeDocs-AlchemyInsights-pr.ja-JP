@@ -1,5 +1,5 @@
 ---
-title: 請求先住所または請求書の電子メール通知を変更する
+title: 請求先住所や請求のメール通知の変更
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -15,12 +15,12 @@ ms.custom:
 - "4716"
 ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47793547"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>請求先住所または請求書の電子メール通知を変更する
+# <a name="change-billing-address-or-billing-email-notifications"></a>請求先住所や請求のメール通知の変更
 
 **請求先住所を変更する**
 
@@ -32,14 +32,14 @@ ms.locfileid: "47793547"
 
 4. 請求先住所を更新し、**[保存]、[完了]** の順にクリックします。
 
-**請求通知の送り先である連絡用電子メール アドレスを変更する** 
+**請求通知の送り先である連絡用メール アドレスを変更する** 
 
-1. **ユーザーアイコン**をクリックし、[**アカウント**] をクリックします。
+1. [**ユーザー アイコン**] をクリックし、[**マイ アカウント**] をクリックします。
 
-2. [ **個人情報**] をクリックします。
+2. [**個人情報**] をクリックします。
 
-3. [ **連絡先の詳細** ] ボックスで、[ **編集**] をクリックします。
+3. [**連絡先の詳細**] ボックスで [**編集**] をクリックします。
 
-4. [ **連絡用メール** ] ボックスに、使用する連絡用メールアドレスを入力し、[ **保存**] をクリックします。
+4. [**連絡用メール アドレス**] ボックスに使用する連絡用メール アドレスを入力し、[**保存**] をクリックします。
 
-アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」をご覧ください。
+アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)」を参照してください。

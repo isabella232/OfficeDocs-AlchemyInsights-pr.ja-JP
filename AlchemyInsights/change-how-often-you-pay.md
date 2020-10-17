@@ -17,7 +17,7 @@ ms.custom:
 - "1500025"
 ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
 ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/29/2020
 ms.locfileid: "48307347"
@@ -29,9 +29,9 @@ ms.locfileid: "48307347"
 1. **[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 2. **[製品]** タブで、変更するサブスクリプションを選択します。
 3. サブスクリプションの詳細ページの **[サブスクリプションと支払い設定]** セクションで、**[請求頻度の編集]** を選択します。
-4. [ **課金頻度の編集** ] ウィンドウで、請求する頻度のオプションを選択し、[ **変更**] を選択します。
+4. **[請求頻度の編集]** ウィンドウで、請求する頻度のオプションを選択し、**[変更]** を選択します。
 
 > [!NOTE]
-> 月次または年次の請求書は、唯一のオプションです。
+> 月単位または年単位の課金のみが可能です。
 
 詳細については、「[請求頻度を変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)」を参照してください。

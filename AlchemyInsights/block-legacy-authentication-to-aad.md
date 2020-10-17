@@ -14,14 +14,14 @@ ms.custom:
 - "9003122"
 ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47685495"
 ---
 # <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>条件付きアクセスを使用して Azure AD への従来の認証をブロックする
 
-推奨ドキュメント:
+推奨されるドキュメント
 
 - [条件付きアクセスを使用して Azure AD への従来の認証をブロックする](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [Azure Active Directory の条件付きアクセスでセッションリスクが検出されたときにアクセスをブロックする](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [セッションのリスクが検出された場合に、Azure Active Directory の条件付きアクセスを使用してアクセスをブロックする](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)

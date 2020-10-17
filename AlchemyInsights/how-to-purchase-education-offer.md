@@ -2,8 +2,8 @@
 title: 教育機関向けプランの購入方法
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703665"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489282"
 ---
-# <a name="how-to-purchase-education-offer"></a>教育機関向けプランの購入方法
+# <a name="how-to-purchase-an-education-offer"></a>教育機関向けプランの購入方法
 
 Office 365 Education の利用が承認されました。購入するには、次の手順に従ってください。
   
-1. 管理センターで、[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。
-
-2. **学生または教職員**向けの試用版を選択します。
-
-3. [**ライセンス**] セクションで、[**サブスクリプションの購入**] を選択します。
-
+1. 管理センターで、**[課金]** \> [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。
+2. **[製品]** タブで、**[学生または教職員]** 用の試用版を選択します。
+3. [サブスクリプションの詳細] ページの **[ライセンス]** セクションで、**[有料版サブスクリプションを今すぐ購入]** を選択します。
 4. 残りの手順に従って、チェック アウトします。
 
-試用版以外のサブスクリプションを購入する場合は、[**課金**] \> [[サービスを購入する](https://go.microsoft.com/fwlink/p/?linkid=868433)] ページに移動して、[**教育機関向けプラン**] の下のリストからプランを選択します。
+試用版サブスクリプションとは別のサブスクリプションを購入する場合は、 **[課金]** \> [購入サービス](https://go.microsoft.com/fwlink/p/?linkid=868433) ページの順に移動します。 **[教育機関向けプラン]** で、使用するプランを選択します。
 
-詳細については、「[試用版と同じプランを購入する](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)」を参照してください。
+詳細については、「[無料試用版からサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)」を参照してください。

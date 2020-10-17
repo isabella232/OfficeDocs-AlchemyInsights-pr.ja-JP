@@ -2,8 +2,8 @@
 title: アプリをキャンセルする方法
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781000"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488850"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>サービスとしてのソフトウェア アプリをキャンセルする方法 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>サービスとしてのソフトウェア アプリをキャンセルする方法
 
-1. Microsoft 365 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動し、**[アプリ]** タブを選択します。
-
-2. 管理するアプリを検索して選択します。
-
-3. [**設定とアクション**] の下で、[**サブスクリプションのキャンセル**] を選択します。
+1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
+2. **[製品]** ページで、**[アプリ]** セクションまで下方向にスクロールし、キャンセルしたいサブスクリプションを見つけます。 
+3. **その他の操作** (3 つのドット) を選択してから、**[このサブスクリプションをキャンセルする]** を選択します。
+4. **[サブスクリプションのキャンセル]** ウィンドウで、キャンセルする理由を選択します。 必要に応じて、フィードバックを提供します。
+5. **[保存]** を選択します。

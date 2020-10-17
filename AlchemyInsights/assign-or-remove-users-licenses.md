@@ -1,5 +1,5 @@
 ---
-title: ユーザーライセンスを割り当てる、または削除する
+title: ユーザー ライセンスの割り当てまたは削除
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
 ms.openlocfilehash: ebd9b19e7e097e8bb7ce550a3261a50ebf527468
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47716070"
 ---
-# <a name="assign-or-remove-user-licenses"></a>ユーザーライセンスを割り当てる、または削除する
+# <a name="assign-or-remove-user-licenses"></a>ユーザー ライセンスの割り当てまたは削除
 
-管理者は、必要に応じてユーザーのライセンスを調整することができます。これらの記事では、ユーザーライセンスを管理する方法について説明します。
+管理者は、必要に応じてユーザーのライセンスを調整できます。これらの記事では、ユーザー ライセンスを管理する方法について説明しています。
   
 - [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 

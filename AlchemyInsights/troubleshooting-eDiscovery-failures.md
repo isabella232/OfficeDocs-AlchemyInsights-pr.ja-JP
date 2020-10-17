@@ -16,7 +16,7 @@ ms.custom:
 ms.assetid: ''
 ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
 ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/25/2020
 ms.locfileid: "48277823"
@@ -37,4 +37,4 @@ ms.locfileid: "48277823"
 
 このようなエラーの場合は、失敗したコンテンツの場所の検索を再試行してください。詳細については、[この記事](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)を参照してください。
 
-10万を超えるメールボックスをエクスポートする場合は、次の Powershell を使用してエクスポート結果をダウンロードする必要があります。  [10 万を超えるメールボックスから結果をエクスポート](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)します。
+10 万個以上のメールボックスをエクスポートする場合は、次の Powershell を使用し、エクスポート結果をダウンロードする必要があります: 「[10 万個以上のメールボックスから結果をエクスポートする](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)」。

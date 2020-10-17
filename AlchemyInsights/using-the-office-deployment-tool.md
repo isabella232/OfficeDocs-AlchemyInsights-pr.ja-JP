@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
 ms.openlocfilehash: 9698aa12ad73a021a3cc12c8517c1712c48d8385
 ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/15/2020
 ms.locfileid: "47794916"
@@ -33,7 +33,7 @@ Office 展開ツール (ODT) を使用して Office の Office 365 バージョ�
 
 ```setup.exe /download Configuration.xml```
 
-4. 構成モードで Office 展開ツールを実行し、構成ファイルを指定します。
+4. Office 展開ツールを構成モードで実行して、構成ファイルを指定します。
 
 ```setup.exe /configure Configuration.xml```
 
