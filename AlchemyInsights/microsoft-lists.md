@@ -27,14 +27,14 @@ Microsoft は、Microsoft リストの最初の段階として、Microsoft 365 �
 **Timing**  
 
 - 対象指定リリースが有効化されている組織のロール アウトが完了しました。
-- 組織が開始した標準リリースのロール アウトは、2020 年 11 月末に完了します。
+- 組織が開始した標準リリースのロールアウトは、2020 年 11 月末に完了します。
 
-SharePoint ライセンスを持つユーザーは、Lists のアイコンにアクセスし、Microsoft Lists を使用できます。
+SharePoint ライセンスを持つユーザーは、Lists アイコンにアクセスし、Microsoft Lists の使用を開始できます。
 
 Microsoft 365 のグローバル管理者または SharePoint 管理者として、Microsoft Lists の設定を制御できます。 次の操作を行うことができます:
 
-個人用リストを作成されないようにする (ユーザーが新しいリストを [個人用リスト] に保存できないようにする)。
+個人用リストの作成を無効にする (ユーザーが新しいリストを [マイ リスト] に保存できないようにする)。
 組織に関連しない組み込みのリスト テンプレートを無効にする。
-[制御リスト](https://docs.microsoft.com/sharepoint/control-lists) を参照
+「[Lists を制御する](https://docs.microsoft.com/sharepoint/control-lists)」 を参照してください
 
 詳しくは、[Microsoft リスト](https://aka.ms/microsoftlists) を参照してください。
