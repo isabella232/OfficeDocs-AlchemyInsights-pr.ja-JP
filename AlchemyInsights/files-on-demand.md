@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804419"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791299"
 ---
 # <a name="configure-files-on-demand"></a>ファイル オンデマンドを構成する
+
+OneDrive のファイルオンデマンドには [Windows 10秋クリエーターアップデート](https://go.microsoft.com/fwlink/p/?linkid=859040) (バージョン1709以降) または Windows Server 2019 および OneDrive ビルド17.3.7064.1005 以降が必要です。
 
 OneDrive ファイル オンデマンド機能を利用すれば、OneDrive のファイルをすべてダウンロードし、デバイス上の記憶域を使用することなく、すべてのファイルにアクセスできるようになります。
 
 PC でファイル オンデマンドを構成するには:
 
-1. Windows タスク バーの通知領域で、白または青の **OneDrive** クラウドのアイコンを選択します。 [**ヘルプと設定**] の歯車アイコン、[**設定**] の順に選択します。
-2. [**設定**] タブで、[**容量を節約し、ファイルを使用するときにダウンロード**] ボックスをオンにします。  
+1. Windows タスク バーの通知領域で、白または青の **OneDrive** クラウドのアイコンを選択します。 [ **ヘルプと設定** ] の歯車アイコン、[ **設定** ] の順に選択します。
+2. [ **設定** ] タブで、[ **容量を節約し、ファイルを使用するときにダウンロード** ] ボックスをオンにします。  
 
 レジストリを使用してファイル オンデマンドを構成することもできます。
 

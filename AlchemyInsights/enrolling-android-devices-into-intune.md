@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784312"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791263"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Android デバイスを Intune に登録する
 
-Intune は、次の Android デバイスの登録をサポートしています。
-- Samsung Knox および Samsung Zebra
-- Android Enterprise の作業プロフィール
-- Android Enterprise 専用
-- 完全に管理されている Android Enterprise
+Android デバイスの管理者登録から Android Enterprise にユーザーを移行する場合は、次のことを確認してください。[ Android デバイスを管理者から 、作業プロファイル管理に移動](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)。
 
-Android デバイスの登録をセットアップする前に、[前提条件を確認してください] (https://docs.microsoft.com/intune/enrollment/android-enroll)。
+Intune は、次の Android デバイスの登録をサポートしています。  
 
-デバイス登録のトラブルシューティング全般および Android 登録のエラーについては、「[Microsoft Intune でデバイス登録のトラブルシューティングを行う](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)」を参照してください。
+- [Samsung Knox, Zebra, Device 管理者](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise の作業プロフィール](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise 専用](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [完全に管理されている Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-ユーザーに発生している登録に関する問題は、[Intune のトラブルシューティング ブレードに関する説明](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)を使用して特定することもできます。
+Android デバイスの登録をセットアップする前に、[[前提条件を確認してください](https://docs.microsoft.com/intune/enrollment/android-enroll)]。  
 
+デバイス登録のトラブルシューティング全般および Android 登録のエラーについては、「[Microsoft Intune でデバイス登録のトラブルシューティングを行う](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)」を参照してください。
 
-
-
-
+ユーザーに発生している登録に関する問題は、Intune のトラブルシューティング ブレードに関する説明を使用して特定することもできます。
