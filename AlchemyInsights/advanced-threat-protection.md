@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696626"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801232"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- 安全な添付ファイル、安全なリンク、およびフィッシング詐欺対策は、Office 365 Advanced Threat Protection (ATP) の一部です。 Enterprise E5、Education A5、および Microsoft 365 Business Premium には ATP が含まれています。 それ以外のすべてのプランには、アドオンの ATP サブスクリプションが必要です。
+- 安全な添付ファイル、安全なリンク、およびフィッシング詐欺対策は、Microsoft Defender for Office 365 (ATP) の一部です。 Enterprise E5、Education A5、および Microsoft 365 Business Premium には ATP が含まれています。 それ以外のすべてのプランには、アドオンの ATP サブスクリプションが必要です。
 
 - Office 365 ATP でユーザーを保護するには、適切なライセンスを割り当てる必要があります。 ユーザーにライセンスを一括適用する方法については、[このトピック](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)を参照してください。
 
