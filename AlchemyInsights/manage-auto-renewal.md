@@ -25,10 +25,10 @@ ms.locfileid: "48488814"
 
 Microsoft 365 管理センターで継続請求を有効または無効にできます。
   
-1. 管理センターで、[**課金**] \> [[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。
+1. 管理センターで、[ **課金** ] \> [ [お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)] ページの順に移動します。
 2. **[製品]** タブで、変更するサブスクリプションを選択します。
-3. サブスクリプションの詳細情報ページの **[Subscription and payment settings]** (サブスクリプションと支払い設定) の下で、**[Edit recurring billing]** (継続請求の編集) を選択します。
-4. **[Edit recurring billing settings]** (継続請求の設定の編集) ウィンドウで、**[オン]**、**[オン、ただし一度更新]**、または **[オフにする]** を選択します。
+3. サブスクリプションの詳細情報ページの **[Subscription and payment settings]** (サブスクリプションと支払い設定) の下で、 **[Edit recurring billing]** (継続請求の編集) を選択します。
+4. **[Edit recurring billing settings]** (継続請求の設定の編集) ウィンドウで、 **[オン]** 、 **[オン、ただし一度更新]** 、または **[オフにする]** を選択します。
 5. **[保存]** を選択します。
 
 詳細については、[「継続請求をオフまたはオンにする」](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。
