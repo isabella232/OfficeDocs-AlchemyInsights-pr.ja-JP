@@ -12,16 +12,16 @@ ms.custom:
 - "6015"
 ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
 ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/30/2020
 ms.locfileid: "48815943"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do のクロス テナント共有
 
-Microsoft では、個人と職場のアカウント間でのリスト共有をサポートしています。 これにより、組織内のユーザーが
+Microsoft To Do は、個人と職場のアカウントの間のリストの共有をサポートしています。 ユーザーを組織に参加させます
 
-個人の Microsoft アカウントによって所有されるリストに対して、データの結合、表示、変更、追加を行います。
+個人用の Microsoft アカウントのリストで、データの結合、表示、変更、追加を行います。
 
 管理者は、オプションをオフにすることでこの機能を無効にできる新しい管理者設定を利用できます。
 
