@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720066"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947453"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>503 エラーによる SharePoint の移行のスロットル
 
-**重要**: これらの前例のない時期にも、SharePoint Online および OneDrive サービスの可用性を維持するための措置を講じています。詳細については、「[SharePoint Online の一時的な機能調整](https://aka.ms/ODSPAdjustments)」を参照してください。
+SharePoint Online への移行中に 503 エラーが発生しているようです。 Microsoft ができるだけ早くサポートをご提供できるよう、次の手順を実行してください。
 
-**SharePoint Online への移行時の 503 エラー**
-
-SharePoint Online への移行中に 503 エラーが発生しているようです。 Microsoft ができるだけ早くサポートをご提供できるよう、次の手順を実行してください。 
-
-1. [**サポートへのお問い合わせ**] をクリックし、[**新しいお問い合わせ**] をクリックします。
-2. 題名と説明には、「**503 による SharePoint の移行のスロットル**」と入力します。
-3. チケットが送信されたら、チケットで次の情報を更新してください。
-    - 移行の残量 (TB の数など)。
+1. [ **サポートへのお問い合わせ** ] をクリックし、[ **新しいお問い合わせ** ] をクリックします。
+2. 題名と説明には、「 **503 による SharePoint の移行のスロットル** 」と入力します。
+3. チケットが発行されたら、次の情報でチケットを更新してください:
+    - まだ残っている移行の量はどのくらいですか (例えば、TBの数など)?
     - 移行の開始日と終了日。
-    - コンテンツの移行元 (SharePoint Server、Box、GDrive、ファイル共有など) の説明。
-    - スロットル エラーの推定数 (例: 1 時間あたり x 回のスロットル) およびスロットルが発生したタイミング。
-    - 使用している移行ツール (SPMT、Sharepoint Gate など)。
-
-
+    - SharePoint Server、Box、GDrive、ファイル共有など、コンテンツの移行元について説明してください。
+    - スロットル エラーの推定数 (例: 1 時間あたり x 回のスロットル) はどのくらいですか、またスロットルはいつ発生しましたか。
+    - 移行ツールは何を (たとえば、SPMT、Sharepoint Gate)利用していますか?
