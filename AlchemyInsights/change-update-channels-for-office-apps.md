@@ -13,33 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756504"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949714"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office アプリの更新プログラム チャネルを変更する
 
-新しい Office をインストールする場合は、Office ソフトウェアのダウンロード設定を使用して目的の更新プログラム チャネルを選び、Office アプリをインストール (または再インストール) します。 詳細については、[「Office 365 のソフトウェア ダウンロードの設定を管理する」](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365) をご覧ください。 
+管理ポータルを使用して Microsoft 365 アプリの更新プログラムチャネルを管理する場合は、Office アプリをインストールする前に、 **Office インストール オプションを使用して、必要な更新プログラムチャネルを選択** します。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
 
-**注** Office のソフトウェア ダウンロードの設定を使用して選択された更新プログラム チャネルは、O365 ポータルを使用して新しいインストールを実行しているすべてのユーザーに適用されます。 詳細については、[「Microsoft 365 または Office 2019 を PC または Mac にダウンロードしてインストールまたは再インストールする」](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) を参照してください。   
+**注:** [ **Office のインストール オプション** ] を使用して選択された更新プログラム チャネルは、新しいインストールを実行しているすべてのユーザーに適用されることに注意してください (場合によっては既存のインストールも)。 管理下のユーザーが機能の更新プログラムを取得する方法を管理するために、Office 展開ツール (ODT)、グループ ポリシー (GPO) や Microsoft エンドポイント構成マネージャー (MECM) などの他の方法を既に使用している場合、Microsoft 365 管理センターで選択した設定は適用されません。
 
-既存の Office インストールの場合、Office 展開ツール (ODT) を使用して別の更新プログラム チャネルに切り替えます:  
+上記に記載されている他の管理オプションを使用して Microsoft 365 アプリの更新プログラム チャネルを管理している場合は、「[既存の Office アプリの更新プログラム チャネルを切り替える方法](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)」を参照してください。
 
-1. [Microsoft ダウンロード センター](https://go.microsoft.com/fwlink/p/?LinkID=626065) から最新バージョンの Office 展開ツール (setup.exe) をダウンロードします。
-2. 切り替えるチャネルの名前を指定します。 詳細については、[「Office 展開ツールの構成オプション」](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element) を参照してください。
-3. 適切なチャネル名 (たとえば、update.xml) を指定する構成 XML ファイルを作成します。  
-
-`<Configuration>`<br>
-`<Updates Channel="Current"/>`<br>
-`</Configuration>`<br>
-
-4. 管理者特権のコマンド プロンプトから、setup.exe が置かれているフォルダーに切り替え、次のコマンドを実行します:  
-    a.  setup.exe /configure update.xml
-5. Office アプリケーション (Excel など) を起動し、**[ファイル]** > **[アカウント]** の順に選択します。 [製品情報] セクションで、**[更新オプション]** > **[今すぐ更新]** の順に選択します。
-
-詳細については、[「既存の Office アプリの更新プログラム チャネルを切り替える方法」](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel) を参照してください。 
-
-選択したユーザーのグループまたは構成マネージャー (SCCM) を使用して更新プログラム チャネルを切り替えるには、GPO を使用して更新プログラム チャネルの設定を構成します。 詳細については、[「Microsoft 365 アプリの更新プログラム チャネルの概要」](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy) を参照してください。 詳細については、[「IT 担当者向け Office 365 ProPlus チャネルを管理する方法」](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)、[「Microsoft Endpoint Configuration Manager を使用して Microsoft 365 アプリの更新を管理する」](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager) を参照してください。
+詳細については、次を参照してください:  
+「[IT 担当者向け Office 365 ProPlus Channels を管理する方法](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)」  
+「[Microsoft Endpoint Configuration Manager を使用して Microsoft 365 Apps の更新プログラムを管理する](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)」
