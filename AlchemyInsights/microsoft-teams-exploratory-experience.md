@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674943"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019552"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Exploratory エクスペリエンス
 
-Microsoft Teams Exploratory エクスペリエンスを使用すると、Azure Active Directory (AAD) を持ち、Teams のライセンスを取得していない組織内のユーザーは、Teams の Exploratory エクスペリエンスを開始できます。 管理者は組織内のユーザーに対して、この機能をオンまたはオフに切り替えることができます。 (以前の Microsoft の商用クラウドの試用版は、Teams Exploratory エクスペリエンスと呼ばれています。)
-
-Microsoft Teams Exploratory エクスペリエンスは、次のエンタープライズ契約日、または 2021 年 1 月以降の更新日まで追加料金なしで利用可能です。 この時点で、Microsoft Exploratory エクスペリエンス ライセンスのエンド ユーザーは、Teams を含む有料のライセンスに移行する必要があります。
-
-詳細については、「[Microsoft Teams Exploratory ライセンスの管理](https://docs.microsoft.com/microsoftteams/teams-exploratory/)」を参照してください。
+- [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory) とは Microsoft Teams Exploratory エクスペリエンスを利用すると、組織内のユーザーのうち Teams のライセンスを保有していない人が、Teams でできることを知るための試用を開始することができます。 詳細については、「[Teams Exploratory エクスペリエンスでできること](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)」を参照してください。
+- [ライセンスの有効期限はいつですか](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsoft Teams Exploratory エクスペリエンスは、次の契約応当日、または 2021 年 1 月以降の更新日まで追加料金なしで利用可能です。
+- 管理者は、Teams を含むサブスクリプションを購入し、ユーザーから Teams Exploratory サブスクリプションを削除し、新しく購入したライセンスを割り当てることで、[Teams Exploratory ライセンスからユーザーをアップグレード](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license)できます。
+- 詳細については、「[Microsoft Teams Exploratory ライセンスを管理する](https://docs.microsoft.com/microsoftteams/teams-exploratory)」を参照してください。
