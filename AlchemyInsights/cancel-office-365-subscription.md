@@ -2,8 +2,7 @@
 title: Microsoft 365 サブスクリプションをキャンセルする
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811862"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348634"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a><span data-ttu-id="e6ba0-102">Microsoft 365 サブスクリプションをキャンセルしますか?</span><span class="sxs-lookup"><span data-stu-id="e6ba0-102">Cancelling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="92c81-102">Microsoft 365 サブスクリプションをキャンセルしますか?</span><span class="sxs-lookup"><span data-stu-id="92c81-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="e6ba0-103">残念なことですが、ここでは、サブスクリプションをキャンセルするためのオプションを紹介します。</span><span class="sxs-lookup"><span data-stu-id="e6ba0-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="92c81-103">誠に残念ですが、サブスクリプションをキャンセルする場合は、以下のオプションから選択します。</span><span class="sxs-lookup"><span data-stu-id="92c81-103">We're sorry to see you go, but if you want to cancel your subscription, here are your options:</span></span>
   
-- <span data-ttu-id="e6ba0-p101">試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。</span><span class="sxs-lookup"><span data-stu-id="e6ba0-p101">If you are a trial customer, there is nothing to cancel. Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="92c81-p101">試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。</span><span class="sxs-lookup"><span data-stu-id="92c81-p101">If you're a trial customer, there's nothing to cancel. Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="92c81-106">割り当て済みのライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。</span><span class="sxs-lookup"><span data-stu-id="92c81-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="92c81-107">**[課金]** \> [[お使いの製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動して、キャンセルするサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="92c81-107">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and find the subscription that you want to cancel.</span></span> <span data-ttu-id="92c81-108">**[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションをキャンセルする]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="92c81-108">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+- <span data-ttu-id="92c81-109">ユーザーに割り当てられたライセンスが 25 よりも多い場合は、[サポートを呼び出してサブスクリプションをキャンセルします](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="92c81-109">If you have more than 25 licenses assigned to users, [call support to cancel your subscription](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).</span></span>
 
-- <span data-ttu-id="e6ba0-p102">割り当てられているライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。[**課金**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページに移動します。[**設定とアクション**] セクションで、[**サブスクリプションのキャンセル**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="e6ba0-p102">If you have fewer than 25 assigned licenses, you can cancel your subscription online. Go to **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**. In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="92c81-110">**返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。**</span><span class="sxs-lookup"><span data-stu-id="92c81-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-- <span data-ttu-id="e6ba0-109">割り当てられているライセンス数が 25 以上の場合は、25 未満になるまでユーザーを削除するか、[電話でのサポートを希望] オプションを使用して、サポート エンジニアに連絡することができます。</span><span class="sxs-lookup"><span data-stu-id="e6ba0-109">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+> [!NOTE]
+> <span data-ttu-id="92c81-111">キャンセルを行うためのオプションが表示されない場合は、サブスクリプションを選択して詳細ページを表示します。</span><span class="sxs-lookup"><span data-stu-id="92c81-111">If you don't see the option to cancel, select the subscription to view the details page.</span></span> <span data-ttu-id="92c81-112">**[Subscription and payment settings]** (サブスクリプションと支払設定) セクションで、**[サブスクリプションのキャンセル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="92c81-112">In the **Subscription and payment settings** section, select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="e6ba0-110">詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e6ba0-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="92c81-113">詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="92c81-113">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
