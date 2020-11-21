@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685747"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353475"
 ---
 # <a name="block-download-on-sharing-links"></a>共有リンクのダウンロードを禁止する
 
-Office ドキュメントの**表示専用リンク**に対し、**ダウンロードの禁止**を設定できます。 このオプションを選択すると、作成したリンクを介してファイルにアクセスできるユーザーに、ファイルをダウンロード、印刷、またはコピーするオプションが表示されません。
+OneDrive または SharePoint で他のユーザーとアイテムを共有する場合、ページを表示するアクセス権をそのユーザーに付与できますが、ダウンロードする権限は付与できません。
 
-管理者は、[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps)または[Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell コマンドレットの `BlockDownloadLinksFileType` 設定を変更することで、Office ファイルに対してのみ「ダウンロード禁止」設定を表示するかどうかを制御できます。
+詳細については、「[SharePoint および OneDrive の表示専用ファイルのダウンロードを禁止する](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)」を参照してください。
