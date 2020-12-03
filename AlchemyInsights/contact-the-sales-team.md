@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733296"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529023"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="c9ead-102">営業チームに問い合わせる</span><span class="sxs-lookup"><span data-stu-id="c9ead-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="f52c4-102">営業チームに問い合わせる</span><span class="sxs-lookup"><span data-stu-id="f52c4-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="c9ead-103">Microsoft Graph コネクタを使用すると、サードパーティーデータのインデックスを作成して、Microsoft の検索結果に表示することができます。</span><span class="sxs-lookup"><span data-stu-id="c9ead-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="f52c4-103">Microsoft 365 の営業チームに問い合わせるには様々な方法があります。</span><span class="sxs-lookup"><span data-stu-id="f52c4-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="c9ead-104">Microsoft 提供のコネクター</span><span class="sxs-lookup"><span data-stu-id="c9ead-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="c9ead-105">パートナーが提供するコネクター</span><span class="sxs-lookup"><span data-stu-id="c9ead-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="c9ead-106">詳細については、[Microsoft Graph コネクタの概要](https://docs.microsoft.com/microsoftsearch/connectors-overview)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c9ead-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="f52c4-104">[お問い合わせ](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) フォームを使用して、Microsoft 365 の営業エキスパートに連絡してください。</span><span class="sxs-lookup"><span data-stu-id="f52c4-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="f52c4-105">Enterprise Agreement ボリュームライセンスのエキスパートに問い合わせるには、[ボリューム ライセンス サービスセンター](https://go.microsoft.com/fwlink/p/?LinkId=329762) ポータルをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f52c4-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
