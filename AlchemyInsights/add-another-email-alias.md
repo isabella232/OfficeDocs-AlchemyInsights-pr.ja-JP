@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688483"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571670"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 
 ユーザーに対してメール エイリアスを作成したり、その他のメール アドレスを追加したりする必要がある場合、次の手順に従ってください。
   
-1. Microsoft 365 管理センターで、[[ユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) ページにアクセスするか、**[ユーザー]** \> **[アクティブなユーザー]** の順に選択します。
+1. Microsoft 365 管理センターで、[[ユーザー]](https://go.microsoft.com/fwlink/p/?linkid=834822) ページにアクセスするか、**[ユーザー]**  >  **[アクティブなユーザー]** の順に選択します。
     
-2. [ **アクティブなユーザー**] ページで、編集するユーザー名を選びます。 
+2. [**アクティブなユーザー**] ページで、編集するユーザー名を選びます。 
     
 3. 右側の [ **ユーザー名 / メール エイリアス**] 行で、[ **編集**] を選びます。
     
