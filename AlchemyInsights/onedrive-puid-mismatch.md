@@ -13,18 +13,18 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569172"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605714"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID の不一致
 
-OneDrive for Business で [PUID の不一致](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)が発生しているようです。 Microsoft ができるだけ早くサポートをご提供できるよう、次の手順を実行してください:
+OneDrive for Business で [ID の不一致](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)が発生しているようです。 早い段階でお客様を支援するために、次の手順を実行してください。
 
-1. [**サポートへのお問い合わせ**] をクリックし、[**新しいお問い合わせ**] をクリックします。
+1. **サポートへのお問い合わせ** をクリックし、**新しいお問い合わせ** をクリックします。
 2. タイトルと説明は、**OneDrive サイトのユーザー ID の不一致** のままにします。
 3. チケットが発行されたら、次の情報でチケットを更新してください:
     - 影響を受ける OneDrive サイトの URL。
