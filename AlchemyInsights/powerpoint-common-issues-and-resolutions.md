@@ -12,25 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c43896cd78e46a80ce5751685877ee1aae4ab503
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721155"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576292"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint の一般的な問題と解決策
 
 PowerPoint についてよく寄せられるトピックは次の通りです。
 
+1. **Microsoft Teams での PowerPoint の使用**: [Teams での会議中に PowerPoint スライドを共有](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#ID0EABAAA=Desktop)したり、Microsoft Teams のファイルで共同作業を行ったりする。
 1. [PowerPoint が応答しない、ハングする、またはフリーズする](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d)。
-
-2. [PowerPoint で、選択したファイルからビデオを挿入できない](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c)。
-
-3. **ビデオ**: [コンピューターからビデオ ファイルを挿入](https://support.office.com/article/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02)するか、[YouTube のビデオを挿入](https://support.office.com/article/Insert-a-video-from-YouTube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)します。[PowerPoint でサポートされているビデオおよびオーディオ ファイル形式](https://support.office.com/article/video-and-audio-file-formats-supported-in-powerpoint-d8b12450-26db-4c7b-a5c1-593d3418fb59)を使用します。
-
-4. **印刷**: 印刷に関するベスト プラクティスと問題については、「[PowerPoint のスライドとメモの印刷](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)」の情報を参照してください。 
-
-5. **フォント**: プレゼンテーションでフォントを共有するには、「[Word または PowerPoint でフォントを埋め込む](https://support.office.com/article/Embed-fonts-in-Word-or-PowerPoint-cb3982aa-ea76-4323-b008-86670f222dbc)」をお読みください。
-
-6. **機能**: Windows、Mac、Web、モバイル プラットフォーム全体における [PowerPoint の機能を比較](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11)します。
+1. **Web ベースの PowerPoint**: [特定の機能が、Web ベースの PowerPoint でどのように動作するか。](https://support.microsoft.com/office/how-certain-features-behave-in-web-based-powerpoint-a931f0c8-1305-4428-8f7c-9cfa00ef28c5)
+1. [PowerPoint で、選択したファイルからビデオを挿入できない](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c)。
+1. **印刷**: 印刷に関するベスト プラクティスと問題については、「[PowerPoint のスライドとメモの印刷](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)」の情報を参照してください。 
+1. **機能**: Windows、Mac、Web、モバイル プラットフォーム全体における [PowerPoint の機能を比較](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11)します。
