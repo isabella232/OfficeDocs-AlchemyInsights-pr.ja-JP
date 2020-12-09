@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams を初めて使用する場合
+title: Microsoft Teams のセットアップ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750420"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576256"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="224ef-102">Microsoft Teams を初めて使用する場合</span><span class="sxs-lookup"><span data-stu-id="224ef-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="365b9-102">Microsoft Teams のセットアップ</span><span class="sxs-lookup"><span data-stu-id="365b9-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="224ef-103">「 [Microsoft Teams の使用を開始する](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="224ef-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="224ef-104">Microsoft Teams IT 管理者トレーニング ビデオ、デッキ、その他の詳細情報を、忘れずにご確認ください。</span><span class="sxs-lookup"><span data-stu-id="224ef-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="365b9-103">[Microsoft Teams セットアップ ガイド](https://aka.ms/teamsguidance)では、メッセージング、通話、オーディオまたはビデオ会議を介してリアルタイムで会話を行うチームのワークスペースをセットアップするためのガイダンスを組織に提供しています。</span><span class="sxs-lookup"><span data-stu-id="365b9-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="365b9-104">Teams 管理センター内のネットワーク プランナー ツールと Teams アドバイザーを利用して、組織のネットワーク要件を決定する方法についての説明を確認できます。</span><span class="sxs-lookup"><span data-stu-id="365b9-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="365b9-105">展開が完了した後も、ガイドには Teams の使用開始に役立つリソースが含まれています。</span><span class="sxs-lookup"><span data-stu-id="365b9-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="224ef-105">COVID-19 の影響により、リモート ワーカー (WFH) をサポートするために Teams の展開に関してサポートが必要な場合は、「[Microsoft Teams を使用してリモート ワーカーをサポートする](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="224ef-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="224ef-106">また、Microsoft 365 FastTrack プログラムから展開についてのサポートを受けることもできます。リクエストを送信する方法については、[FastTrack センター](https://www.microsoft.com/fasttrack)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="224ef-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="224ef-107">**重要**: Teams の使用数が最近増加したため、Teams ライセンスをユーザーに割り当てると、完全にセットアップされるまでに約 24 時間かかることがあります。</span><span class="sxs-lookup"><span data-stu-id="224ef-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="224ef-108">それまでの間、Teams ポリシーの割り当てを行うことはできません。また、通話や電話会議など一部の Teams 機能を利用できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="224ef-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="365b9-106">その他の詳細情報については、「[Microsoft Teams の使用を開始する](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="365b9-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
