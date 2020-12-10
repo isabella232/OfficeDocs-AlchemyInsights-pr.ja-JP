@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 27cc744bc57f1c18649e05c5b0df3b315c9c0201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
+ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727248"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599857"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint および OneDrive のアラートの受信の遅延
 
+- **複数のファイルまたはライブラリからのすべてのアラートの配信に遅延がある** 場合は、[ サービス正常性ダッシュボード](https://portal.office.com/adminportal/home?ref=/servicehealth) にアクセスして SharePoint または Exchange で発生している可能性のあるアドバイザリやインシデントを確認します。
+- **特定のファイルまたはライブラリからの個別のアラートが配信されない** 場合には、削除して再作成してみてください。 詳細については、「[ SharePoint アラートの管理、表示、または削除 ](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 」を参照してください。
 - まずは、メールの迷惑メール フォルダーまたはスパム フォルダーを確認します。
-- **複数のファイルまたはライブラリからのすべてのアラートの配信に遅延がある**場合は、[サービス正常性ダッシュボード](https://portal.office.com/adminportal/home?ref=/servicehealth)にアクセスして SharePoint または Exchange で発生している可能性のあるアドバイザリやインシデントを確認します。 問題は、SharePoint のアラート機能または Exchange を介したメールの遅延にある可能性があります。 また、他のメールが配信されているかどうかにも注意してください。もしも配信されていない場合には、おそらく問題は Exchange の遅延にあります。
-- **特定のファイルまたはライブラリからの個別のアラートが配信されない**場合には、削除して再作成してみてください。 詳細については、「[SharePoint アラートの管理、表示、または削除](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)」を参照してください。
 
 > [!NOTE]
 > - アラートを配布グループに送信することはできません。 セキュリティおよび O365 グループのみがサポートされています。
