@@ -22,9 +22,9 @@ ms.locfileid: "49605714"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID の不一致
 
-OneDrive for Business で [ID の不一致](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)が発生しているようです。 早い段階でお客様を支援するために、次の手順を実行してください。
+OneDrive for Business で [ID の不一致](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site)が発生しているようです。 早い段階でお客様を支援できるように、次の手順を実行してください。
 
-1. **サポートへのお問い合わせ** をクリックし、**新しいお問い合わせ** をクリックします。
+1. **[サポートへのお問い合わせ]** をクリックし、**[新しいお問い合わせ]** をクリックします。
 2. タイトルと説明は、**OneDrive サイトのユーザー ID の不一致** のままにします。
 3. チケットが発行されたら、次の情報でチケットを更新してください:
     - 影響を受ける OneDrive サイトの URL。
