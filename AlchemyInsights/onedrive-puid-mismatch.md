@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605714"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653265"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID の不一致
 
@@ -26,6 +26,6 @@ OneDrive for Business で [ID の不一致](https://docs.microsoft.com/sharepoin
 
 1. **[サポートへのお問い合わせ]** をクリックし、**[新しいお問い合わせ]** をクリックします。
 2. タイトルと説明は、**OneDrive サイトのユーザー ID の不一致** のままにします。
-3. チケットが発行されたら、次の情報でチケットを更新してください:
+3. チケットが発行されたら、次の情報でチケットを更新します:
     - 影響を受ける OneDrive サイトの URL。
     - 影響を受けるユーザーのユーザー プリンシパル名 (UPN)。
