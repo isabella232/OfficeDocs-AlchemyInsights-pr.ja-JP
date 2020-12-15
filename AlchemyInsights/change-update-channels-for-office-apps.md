@@ -22,9 +22,9 @@ ms.locfileid: "48949714"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office アプリの更新プログラム チャネルを変更する
 
-管理ポータルを使用して Microsoft 365 アプリの更新プログラムチャネルを管理する場合は、Office アプリをインストールする前に、 **Office インストール オプションを使用して、必要な更新プログラムチャネルを選択** します。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
+管理ポータルを使用して Microsoft 365 アプリの更新プログラムチャネルを管理する場合は、Office アプリをインストールする前に、**Office インストール オプションを使用して、必要な更新プログラムチャネルを選択** します。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
 
-**注:** [ **Office のインストール オプション** ] を使用して選択された更新プログラム チャネルは、新しいインストールを実行しているすべてのユーザーに適用されることに注意してください (場合によっては既存のインストールも)。 管理下のユーザーが機能の更新プログラムを取得する方法を管理するために、Office 展開ツール (ODT)、グループ ポリシー (GPO) や Microsoft エンドポイント構成マネージャー (MECM) などの他の方法を既に使用している場合、Microsoft 365 管理センターで選択した設定は適用されません。
+**注:**[**Office のインストール オプション**] を使用して選択された更新プログラム チャネルは、新しいインストールを実行しているすべてのユーザーに適用されることに注意してください (場合によっては既存のインストールも)。 管理下のユーザーが機能の更新プログラムを取得する方法を管理するために、Office 展開ツール (ODT)、グループ ポリシー (GPO) や Microsoft エンドポイント構成マネージャー (MECM) などの他の方法を既に使用している場合、Microsoft 365 管理センターで選択した設定は適用されません。
 
 上記に記載されている他の管理オプションを使用して Microsoft 365 アプリの更新プログラム チャネルを管理している場合は、「[既存の Office アプリの更新プログラム チャネルを切り替える方法](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)」を参照してください。
 

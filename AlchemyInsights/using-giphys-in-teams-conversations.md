@@ -21,14 +21,14 @@ ms.locfileid: "48982627"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Teams 会話での Giphy の使用
 
-Teams チャットの Giphy アクセスは、既定で有効になっています。 管理者は、 [メッセージング ポリシーを設定](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)し、 **[会話で Giphy を使用する]** が **[オン]** であることを確認することで、ユーザーが Giphy を使用できるかどうかを制御できます。
+Teams チャットの Giphy アクセスは、既定で有効になっています。 管理者は、[メッセージング ポリシーを設定](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)し、**[会話で Giphy を使用する]** が **[オン]** であることを確認することで、ユーザーが Giphy を使用できるかどうかを制御できます。
 
 GIF が Teams 会話で期待どおりに動作しない場合は、次のことを確認します。
 
 [メッセージング ポリシー](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)で Giphy を許可する必要があります。 PowerShell コマンドレットを使用して確認するには、次の手順に従います。
 
 - [PowerShell を使用して Teams を管理](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)できることを確認します。
-- PowerShell コマンド [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) を実行して、 **AllowGiphy** が **TRUE** に設定されていることを確認します。
+- PowerShell コマンド [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) を実行して、**AllowGiphy** が **TRUE** に設定されていることを確認します。
 - **AllowGiphy** が **FALSE** に設定されている場合、次の PowerShell コマンド [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps) を実行します。
 
 [オプションの接続エクスペリエンス](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences)を使用するように設定して、Giphy URL にアクセスする必要があります。

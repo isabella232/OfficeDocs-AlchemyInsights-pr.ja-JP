@@ -21,4 +21,4 @@ ms.locfileid: "48949659"
 ---
 # <a name="manage-office-installation-options"></a>Office のインストール オプションを管理する
 
-Office 365 の管理者は、ユーザーが Office 365 からどのOffice ソフトウェアをダウンロードしてインストールできるかコントロールできます。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
+Office 365 の管理者は、ユーザーがどの Office 365 ソフトウェアを Office 365 からダウンロードしてインストールできるかコントロールできます。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
