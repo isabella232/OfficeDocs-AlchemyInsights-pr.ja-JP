@@ -19,13 +19,13 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416448"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="2902d-102">Microsoft サブスクリプションをキャンセルする</span><span class="sxs-lookup"><span data-stu-id="2902d-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="7bd0c-102">Microsoft サブスクリプションをキャンセルする</span><span class="sxs-lookup"><span data-stu-id="7bd0c-102">Cancel your Microsoft subscription</span></span>
 
-<span data-ttu-id="2902d-103">管理者は Microsoft 365 管理センターで組織のサブスクリプションをキャンセルできます。</span><span class="sxs-lookup"><span data-stu-id="2902d-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="7bd0c-103">管理者は Microsoft 365 管理センターで組織のサブスクリプションをキャンセルできます。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="2902d-104">**[課金]** \> [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="2902d-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="2902d-105">**[製品]** タブで、キャンセルするサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="2902d-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="2902d-106">**その他の操作** (3 つのドット) を選択してから、**[このサブスクリプションをキャンセルする]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2902d-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="2902d-107">**[サブスクリプションのキャンセル]** ウィンドウで、キャンセルする理由を選択します。</span><span class="sxs-lookup"><span data-stu-id="2902d-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="2902d-108">必要に応じて、フィードバックを提供します。</span><span class="sxs-lookup"><span data-stu-id="2902d-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="2902d-109">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2902d-109">Select **Save**.</span></span>
+1. <span data-ttu-id="7bd0c-104">**[課金]** \> [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="7bd0c-105">**[製品]** タブで、キャンセルするサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="7bd0c-106">**[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションのキャンセル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="7bd0c-107">**[サブスクリプションのキャンセル]** ウィンドウで、キャンセルする理由を選択します。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="7bd0c-108">必要に応じて、フィードバックを提供します。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="7bd0c-109">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-109">Select **Save**.</span></span>
 
-<span data-ttu-id="2902d-110">**返金**: 日割り計算された残高は、次の請求サイクルの間に返金されます。</span><span class="sxs-lookup"><span data-stu-id="2902d-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="7bd0c-110">**返金**: 日割り計算された残高は、次の請求サイクルの間に返金されます。</span><span class="sxs-lookup"><span data-stu-id="7bd0c-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
