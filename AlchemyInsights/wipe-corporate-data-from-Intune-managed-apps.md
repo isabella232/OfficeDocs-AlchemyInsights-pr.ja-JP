@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/17/2020
 ms.locfileid: "49089247"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a><span data-ttu-id="b31c1-102">Intune が管理するアプリから企業データを削除する</span><span class="sxs-lookup"><span data-stu-id="b31c1-102">Wipe corporate data from Intune-managed apps</span></span>
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a><span data-ttu-id="0bc2e-102">Intune が管理するアプリから企業データを削除する</span><span class="sxs-lookup"><span data-stu-id="0bc2e-102">Wipe corporate data from Intune-managed apps</span></span>
 
-<span data-ttu-id="b31c1-103">Intune は、アプリケーション保護ポリシー (APP) で管理されているアプリケーションからの企業データの削除をサポートしています。</span><span class="sxs-lookup"><span data-stu-id="b31c1-103">Intune supports the removal of corporate data from Application Protection Policy (APP) managed applications.</span></span> 
+<span data-ttu-id="0bc2e-103">Intune は、アプリケーション保護ポリシー (APP) で管理されているアプリケーションからの企業データの削除をサポートしています。</span><span class="sxs-lookup"><span data-stu-id="0bc2e-103">Intune supports the removal of corporate data from Application Protection Policy (APP) managed applications.</span></span> 
 
-<span data-ttu-id="b31c1-104">これらのアプリから企業データをワイプ、削除、または削除する方法の詳細については、「[Intune で管理されているアプリから会社のデータのみをワイプする方法](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b31c1-104">To learn more about wiping, deleting, or removing corporate data from these apps, see [How to wipe only corporate data from Intune-managed apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).</span></span>
+<span data-ttu-id="0bc2e-104">これらのアプリから企業データをワイプ、削除、または削除する方法の詳細については、「[Intune で管理されているアプリから会社のデータのみをワイプする方法](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0bc2e-104">To learn more about wiping, deleting, or removing corporate data from these apps, see [How to wipe only corporate data from Intune-managed apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).</span></span>
