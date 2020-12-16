@@ -12,24 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75da75da95d87c93bda84be0ed6be2f8c4a483fe
+ms.sourcegitcommit: bca3d6d885bf7fdba5605541f60a824f4a5028b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669180"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49671148"
 ---
 # <a name="unable-to-download-files"></a>ファイルをダウンロードできない
 
-- ダウンロードの制限は次のとおりです。各ファイルのサイズの上限 : 10 GB、zip ファイルの合計サイズの上限 : 20 GB、ファイルの合計数の上限 : 10,000、フォルダーサイズの制限：200ファイル。
-- ファイル名またはフォルダ名にハッシュタグ (＃) を含むファイルまたはフォルダは、.zipファイルに追加できません。  
-    
-- OneNote ノートブックはダウンロードできません。 OneNote ノートブックを含むフォルダーをダウンロードすると、.zip ファイルに .txt ファイルの形式のエラーメッセージが表示されます。  
-    
-- [**共有**] ビューからファイルを直接ダウンロードすることはできません。 ファイルを開き、選択した場所にコピーを保存します。  
-    
-- OneDrive for Business では、Internet Explorer を使用して、フォルダーまたは複数のファイルをダウンロードすることはできません。 フォルダーまたは複数のファイルをダウンロードするには、Microsoft Edge または Google Chrome を使用します。  
-    
-- フォルダーを調べているときに Web ページを更新すると、[**ダウンロード**] ボタンが表示されなくなることがあります。 この問題を回避するには、1 つ上のフォルダー ディレクトリに移動して元のフォルダーに戻るか、ブラウザーのそのタブを閉じて、もう一度元のフォルダーにアクセスします。  
-    
+SharePoint からファイルまたはフォルダーをダウンロードできない場合は、制限を必ず確認してください。
+
 詳細については、「[OneDrive または SharePoint からファイルとフォルダーをダウンロードする](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)」を参照してください。
