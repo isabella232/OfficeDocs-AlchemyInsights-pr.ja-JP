@@ -1,5 +1,5 @@
 ---
-title: ユーザー名とメール アドレスを変更する
+title: 名前とメール アドレスを変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756936"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683907"
 ---
-# <a name="change-a-users-name-and-email-address"></a>ユーザー名とメール アドレスを変更する
+# <a name="change-a-name-and-email-address"></a>名前とメール アドレスを変更する
 
 Microsoft 365 でユーザー名とメール アドレスを変更するのは簡単です。 [**ユーザー**]\>[[アクティブなユーザー](https://go.microsoft.com/fwlink/p/?linkid=834822)] ページの順に移動し、情報を編集するユーザーを選択します。 詳しい手順については、次の記事も使用できます。
   
