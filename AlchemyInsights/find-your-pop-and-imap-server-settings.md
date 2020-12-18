@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/02/2020
 ms.locfileid: "49560481"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="930d3-102">POP または IMAP サーバー設定を見つける</span><span class="sxs-lookup"><span data-stu-id="930d3-102">Find your POP or IMAP server settings</span></span>
+# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="faa00-102">POP または IMAP サーバー設定を見つける</span><span class="sxs-lookup"><span data-stu-id="faa00-102">Find your POP or IMAP server settings</span></span>
 
-<span data-ttu-id="930d3-103">Outlook に対して追加が必要な POP または IMAP アカウントの設定がわからない場合、「[Outlook 向けの POP および IMAP のメール設定](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)」で確認することができます。</span><span class="sxs-lookup"><span data-stu-id="930d3-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="faa00-103">Outlook に対して追加が必要な POP または IMAP アカウントの設定がわからない場合、「[Outlook 向けの POP および IMAP のメール設定](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)」で確認することができます。</span><span class="sxs-lookup"><span data-stu-id="faa00-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
   
  

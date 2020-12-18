@@ -17,6 +17,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/14/2020
 ms.locfileid: "49668483"
 ---
-# <a name="ose-sharing-errors"></a><span data-ttu-id="45f82-102">OSE 共有エラー</span><span class="sxs-lookup"><span data-stu-id="45f82-102">OSE Sharing errors</span></span>
+# <a name="ose-sharing-errors"></a><span data-ttu-id="47e00-102">OSE 共有エラー</span><span class="sxs-lookup"><span data-stu-id="47e00-102">OSE Sharing errors</span></span>
 
-<span data-ttu-id="45f82-103">OSE のエラー コードの詳細については、「[SharePoint と OneDrive での共有エラー](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="45f82-103">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
+<span data-ttu-id="47e00-103">OSE のエラー コードの詳細については、「[SharePoint と OneDrive での共有エラー](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="47e00-103">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>

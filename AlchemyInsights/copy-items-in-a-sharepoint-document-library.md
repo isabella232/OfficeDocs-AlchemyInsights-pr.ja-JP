@@ -21,11 +21,11 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/15/2020
 ms.locfileid: "49683835"
 ---
-# <a name="copy-files-in-sharepoint-and-onedrive"></a><span data-ttu-id="a11c8-102">SharePoint と OneDrive でファイルをコピーする</span><span class="sxs-lookup"><span data-stu-id="a11c8-102">Copy files in SharePoint and OneDrive</span></span>
+# <a name="copy-files-in-sharepoint-and-onedrive"></a><span data-ttu-id="bfa56-102">SharePoint と OneDrive でファイルをコピーする</span><span class="sxs-lookup"><span data-stu-id="bfa56-102">Copy files in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="a11c8-103">ファイルを Web ブラウザーから SharePoint および OneDrive 内のさまざまな場所にコピーできます。</span><span class="sxs-lookup"><span data-stu-id="a11c8-103">You can copy files from web browser to different locations within SharePoint and OneDrive.</span></span>
+<span data-ttu-id="bfa56-103">ファイルを Web ブラウザーから SharePoint および OneDrive 内のさまざまな場所にコピーできます。</span><span class="sxs-lookup"><span data-stu-id="bfa56-103">You can copy files from web browser to different locations within SharePoint and OneDrive.</span></span>
 
-<span data-ttu-id="a11c8-104">詳細については、「[移動またはコピーする](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a11c8-104">For more information, see [Move or Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span></span>
+<span data-ttu-id="bfa56-104">詳細については、「[移動またはコピーする](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bfa56-104">For more information, see [Move or Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="a11c8-105">SharePoint Online のクラシック環境を使用している場合、[**コピー先**] は使用できません。</span><span class="sxs-lookup"><span data-stu-id="a11c8-105">**Copy to** isn't available if you are using the classic experience of SharePoint Online.</span></span>
+> <span data-ttu-id="bfa56-105">SharePoint Online のクラシック環境を使用している場合、[**コピー先**] は使用できません。</span><span class="sxs-lookup"><span data-stu-id="bfa56-105">**Copy to** isn't available if you are using the classic experience of SharePoint Online.</span></span>
