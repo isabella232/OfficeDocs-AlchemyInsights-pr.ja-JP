@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
-ms.translationtype: HT
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680577"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727228"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>コンテンツ検索/エクスポート中に結果が返されない
 
@@ -26,7 +26,7 @@ ms.locfileid: "49680577"
 - コンテンツ検索/エクスポートは、データを返さないか、期待外のデータを返します。
 - 電子情報開示の検索またはエクスポートが失敗する
 
-特定の管理者によってセットアップされ、すべての管理者に通知されなかった特定のコンプライアンス セキュリティ フィルターが原因で、この問題が発生することがあります。
+これは、特定の管理者によってセットアップされ、すべての管理者に伝達されていない特定のコンプライアンス セキュリティ フィルターが原因である可能性があります。
 
 この問題を解決するには、原因となっている可能性があるコンプライアンス セキュリティ フィルターがないかどうかを確認します。
 
