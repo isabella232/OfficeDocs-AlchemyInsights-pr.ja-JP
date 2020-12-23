@@ -1,5 +1,5 @@
 ---
-title: 削除されたチームまたはチャネルを復元するにはどうすればよいですか
+title: 削除されたチームまたはチャネルを復元する方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,14 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705016"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726429"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>削除されたチームまたはチャネルを復元する方法
-
-詳細については、「[Microsoft Teams で削除されたチームを復元する](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)」を参照してください。
 
 チーム内で削除されたチャネルは、チャンネルが削除されてから最大 21 日間の間であれば復元できます。
 
@@ -31,4 +29,4 @@ ms.locfileid: "47705016"
 1. チーム名の右側にある 3 つのドットを選択して、チーム設定を開きます。
 2. [**チームの管理**] >  [**チャネル**] >  [**削除済み**] の順に選択し、右側の [**復元**] を選択します。
 
-詳細については、「[Microsoft Teams で削除されたチームを復元する](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)」を参照してください。
+チームの復元に関する詳細については、「[Microsoft Teams でチームをアーカイブまたは削除する - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)」を参照してください。
