@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/04/2020
 ms.locfileid: "49584198"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="845e9-102">Microsoft Edge のグループ ポリシー</span><span class="sxs-lookup"><span data-stu-id="845e9-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="64ac3-102">Microsoft Edge のグループ ポリシー</span><span class="sxs-lookup"><span data-stu-id="64ac3-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="845e9-103">Microsoft Edge (バージョン77以降) で使用可能な[グループ ポリシー](https://go.microsoft.com/fwlink/?linkid=2134623)を使用して、組織でのブラウザーの実行方法を指定します。</span><span class="sxs-lookup"><span data-stu-id="845e9-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="64ac3-103">Microsoft Edge (バージョン77以降) で使用可能な[グループ ポリシー](https://go.microsoft.com/fwlink/?linkid=2134623)を使用して、組織でのブラウザーの実行方法を指定します。</span><span class="sxs-lookup"><span data-stu-id="64ac3-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>

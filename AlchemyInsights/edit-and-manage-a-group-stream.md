@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/23/2020
 ms.locfileid: "48275070"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="903b4-102">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="903b4-102">Edit and manage a group in Microsoft Stream</span></span>
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="0c377-102">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="0c377-102">Edit and manage a group in Microsoft Stream</span></span>
 
-<span data-ttu-id="903b4-103">Microsoft Stream のグループ設定は、グループの所有者が Stream で変更できます。</span><span class="sxs-lookup"><span data-stu-id="903b4-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
+<span data-ttu-id="0c377-103">Microsoft Stream のグループ設定は、グループの所有者が Stream で変更できます。</span><span class="sxs-lookup"><span data-stu-id="0c377-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
 
-- [<span data-ttu-id="903b4-104">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="903b4-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
+- [<span data-ttu-id="0c377-104">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="0c377-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)

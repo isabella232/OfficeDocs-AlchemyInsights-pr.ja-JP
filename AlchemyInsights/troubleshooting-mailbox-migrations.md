@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47749825"
 ---
-# <a name="troubleshooting-mailbox-migrations"></a><span data-ttu-id="571e9-102">メールボックスの移行のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="571e9-102">Troubleshooting mailbox migrations</span></span>
+# <a name="troubleshooting-mailbox-migrations"></a><span data-ttu-id="d16df-102">メールボックスの移行のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="d16df-102">Troubleshooting mailbox migrations</span></span>
 
-<span data-ttu-id="571e9-103">メールボックスの移行のトラブルシューティングについては、[「Exchange ハイブリッド環境での移行に関する問題のトラブルシューティング」](https://support.microsoft.com/help/10094/troubleshooting-migration-issues-in-exchange-hybrid-environment) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="571e9-103">To troubleshoot a mailbox migration, see [Troubleshooting migration issues in Exchange hybrid environment](https://support.microsoft.com/help/10094/troubleshooting-migration-issues-in-exchange-hybrid-environment).</span></span>
+<span data-ttu-id="d16df-103">メールボックスの移行のトラブルシューティングについては、[「Exchange ハイブリッド環境での移行に関する問題のトラブルシューティング」](https://support.microsoft.com/help/10094/troubleshooting-migration-issues-in-exchange-hybrid-environment) を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d16df-103">To troubleshoot a mailbox migration, see [Troubleshooting migration issues in Exchange hybrid environment](https://support.microsoft.com/help/10094/troubleshooting-migration-issues-in-exchange-hybrid-environment).</span></span>

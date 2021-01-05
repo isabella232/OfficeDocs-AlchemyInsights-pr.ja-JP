@@ -20,7 +20,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47804413"
 ---
-# <a name="automatic-replies-in-outlookcom"></a><span data-ttu-id="91398-102">Outlook.com で自動応答</span><span class="sxs-lookup"><span data-stu-id="91398-102">Automatic replies in Outlook.com</span></span>
+# <a name="automatic-replies-in-outlookcom"></a><span data-ttu-id="7c969-102">Outlook.com で自動応答</span><span class="sxs-lookup"><span data-stu-id="7c969-102">Automatic replies in Outlook.com</span></span>
 
-1. <span data-ttu-id="91398-103">[自動応答](https://go.microsoft.com/fwlink/?linkid=2143007)を開きます。</span><span class="sxs-lookup"><span data-stu-id="91398-103">Open your [Automatic replies](https://go.microsoft.com/fwlink/?linkid=2143007).</span></span>
-2. <span data-ttu-id="91398-104">**[自動応答の有効化]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="91398-104">Select the **Turn on automatic replies** toggle.</span></span>
+1. <span data-ttu-id="7c969-103">[自動応答](https://go.microsoft.com/fwlink/?linkid=2143007)を開きます。</span><span class="sxs-lookup"><span data-stu-id="7c969-103">Open your [Automatic replies](https://go.microsoft.com/fwlink/?linkid=2143007).</span></span>
+2. <span data-ttu-id="7c969-104">**[自動応答の有効化]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="7c969-104">Select the **Turn on automatic replies** toggle.</span></span>

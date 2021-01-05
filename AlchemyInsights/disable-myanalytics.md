@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/16/2020
 ms.locfileid: "48194321"
 ---
-# <a name="disable-myanalytics"></a><span data-ttu-id="71b3f-102">MyAnalytics を無効にする</span><span class="sxs-lookup"><span data-stu-id="71b3f-102">Disable MyAnalytics</span></span>
+# <a name="disable-myanalytics"></a><span data-ttu-id="840d7-102">MyAnalytics を無効にする</span><span class="sxs-lookup"><span data-stu-id="840d7-102">Disable MyAnalytics</span></span>
 
-<span data-ttu-id="71b3f-103">MyAnalytics を無効にするには、「[MyAnalytics のオプトアウト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="71b3f-103">To disable MyAnalytics see [Opt out of MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya).</span></span> 
+<span data-ttu-id="840d7-103">MyAnalytics を無効にするには、「[MyAnalytics のオプトアウト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="840d7-103">To disable MyAnalytics see [Opt out of MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya).</span></span> 
 
-<span data-ttu-id="71b3f-104">MyAnalytics の詳細については、「[MyAnalytics の概要](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="71b3f-104">For additional information about MyAnalytics see [MyAnalytics introduction](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).</span></span>
+<span data-ttu-id="840d7-104">MyAnalytics の詳細については、「[MyAnalytics の概要](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="840d7-104">For additional information about MyAnalytics see [MyAnalytics introduction](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).</span></span>

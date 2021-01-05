@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/28/2020
 ms.locfileid: "48300135"
 ---
-# <a name="asms-test-solution"></a><span data-ttu-id="28fd2-102">ASM テストソリューション</span><span class="sxs-lookup"><span data-stu-id="28fd2-102">ASMS Test Solution</span></span>
+# <a name="asms-test-solution"></a><span data-ttu-id="db30c-102">ASM テストソリューション</span><span class="sxs-lookup"><span data-stu-id="db30c-102">ASMS Test Solution</span></span>
 
-<span data-ttu-id="28fd2-103">Azure Enterprise Agreement (EA)、Microsoft カスタマーアグリーメント (MCA)、または Microsoft パートナーアグリーメント (MPA) をご利用のAzureのお客様は、Azure ポータルで価格を表示およびダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="28fd2-103">Azure customers with an Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA), or Microsoft Partner Agreement (MPA) may view and download their pricing in the Azure portal.</span></span>
+<span data-ttu-id="db30c-103">Azure Enterprise Agreement (EA)、Microsoft カスタマーアグリーメント (MCA)、または Microsoft パートナーアグリーメント (MPA) をご利用のAzureのお客様は、Azure ポータルで価格を表示およびダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="db30c-103">Azure customers with an Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA), or Microsoft Partner Agreement (MPA) may view and download their pricing in the Azure portal.</span></span>

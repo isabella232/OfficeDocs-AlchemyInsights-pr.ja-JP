@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/28/2020
 ms.locfileid: "48808213"
 ---
-# <a name="assign-unique-permissions-in-sharepoint"></a><span data-ttu-id="38fe9-102">SharePoint で固有の権限を割り当てる</span><span class="sxs-lookup"><span data-stu-id="38fe9-102">Assign unique permissions in SharePoint</span></span>
+# <a name="assign-unique-permissions-in-sharepoint"></a><span data-ttu-id="4e12e-102">SharePoint で固有の権限を割り当てる</span><span class="sxs-lookup"><span data-stu-id="4e12e-102">Assign unique permissions in SharePoint</span></span>
 
-<span data-ttu-id="38fe9-103">リスト、ライブラリ、または調査のアクセス許可の継承を解除してから、新しいアクセス許可設定を定義すると、リスト (またはライブラリ) がその中のアイテムの親になります。</span><span class="sxs-lookup"><span data-stu-id="38fe9-103">When you break permissions inheritance for a list, library, or survey and then define new permission settings, the list (or library) becomes a parent for items in it.</span></span>  
+<span data-ttu-id="4e12e-103">リスト、ライブラリ、または調査のアクセス許可の継承を解除してから、新しいアクセス許可設定を定義すると、リスト (またはライブラリ) がその中のアイテムの親になります。</span><span class="sxs-lookup"><span data-stu-id="4e12e-103">When you break permissions inheritance for a list, library, or survey and then define new permission settings, the list (or library) becomes a parent for items in it.</span></span>  
 
-<span data-ttu-id="38fe9-104">継承を解除し、固有の権限を割り当てるには、「[SharePoint で固有の権限を割り当てる](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break)」の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="38fe9-104">To break inheritance and assign unique permissions, follow these steps: [Assign unique permissions in SharePoint](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break).</span></span>
+<span data-ttu-id="4e12e-104">継承を解除し、固有の権限を割り当てるには、「[SharePoint で固有の権限を割り当てる](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break)」の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="4e12e-104">To break inheritance and assign unique permissions, follow these steps: [Assign unique permissions in SharePoint](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break).</span></span>

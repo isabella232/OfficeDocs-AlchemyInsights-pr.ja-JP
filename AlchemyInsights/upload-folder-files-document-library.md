@@ -21,9 +21,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/25/2020
 ms.locfileid: "48300123"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="6fffe-102">ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="6fffe-102">Upload a folder or files to a document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="b89e3-102">ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="b89e3-102">Upload a folder or files to a document library</span></span>
 
-<span data-ttu-id="6fffe-103">ファイルは SharePoint のドキュメント ライブラリに簡単にアップロードできます。アップロードするファイルをコンピューターからドラッグして、ドキュメント ライブラリにドロップします。</span><span class="sxs-lookup"><span data-stu-id="6fffe-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
+<span data-ttu-id="b89e3-103">ファイルは SharePoint のドキュメント ライブラリに簡単にアップロードできます。アップロードするファイルをコンピューターからドラッグして、ドキュメント ライブラリにドロップします。</span><span class="sxs-lookup"><span data-stu-id="b89e3-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
 
-* [<span data-ttu-id="6fffe-104">ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="6fffe-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [<span data-ttu-id="6fffe-105">OneDrive 同期を使用してアップロードする</span><span class="sxs-lookup"><span data-stu-id="6fffe-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [<span data-ttu-id="b89e3-104">ドキュメント ライブラリにフォルダーまたはファイルをアップロードする</span><span class="sxs-lookup"><span data-stu-id="b89e3-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [<span data-ttu-id="b89e3-105">OneDrive 同期を使用してアップロードする</span><span class="sxs-lookup"><span data-stu-id="b89e3-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

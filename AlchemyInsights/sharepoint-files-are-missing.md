@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/14/2020
 ms.locfileid: "49680562"
 ---
-# <a name="sharepoint-files-are-missing"></a><span data-ttu-id="0950e-102">SharePoint ファイルがありません</span><span class="sxs-lookup"><span data-stu-id="0950e-102">SharePoint files are missing</span></span>
+# <a name="sharepoint-files-are-missing"></a><span data-ttu-id="673e7-102">SharePoint ファイルがありません</span><span class="sxs-lookup"><span data-stu-id="673e7-102">SharePoint files are missing</span></span>
 
-<span data-ttu-id="0950e-103">OneDrive または SharePoint ファイルの多くがマルウェアによって削除、上書き、破損、または感染した場合、Microsoft はユーザーに回復プロセスを支援するさまざまなオプションを提供します。</span><span class="sxs-lookup"><span data-stu-id="0950e-103">If lots of your OneDrive or SharePoint files get deleted, overwritten, corrupted, or infected by malware we give users a variety of options to assist in the recovery process.</span></span>
+<span data-ttu-id="673e7-103">OneDrive または SharePoint ファイルの多くがマルウェアによって削除、上書き、破損、または感染した場合、Microsoft はユーザーに回復プロセスを支援するさまざまなオプションを提供します。</span><span class="sxs-lookup"><span data-stu-id="673e7-103">If lots of your OneDrive or SharePoint files get deleted, overwritten, corrupted, or infected by malware we give users a variety of options to assist in the recovery process.</span></span>
 
-<span data-ttu-id="0950e-104">詳細については、「[SharePoint Online および OneDrive for Business で欠落、削除、または破損したアイテムを回復する方法](https://go.microsoft.com/fwlink/?linkid=2110774)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0950e-104">For more information, see [How to recover missing, deleted or corrupted items in SharePoint Online and OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=2110774).</span></span>
+<span data-ttu-id="673e7-104">詳細については、「[SharePoint Online および OneDrive for Business で欠落、削除、または破損したアイテムを回復する方法](https://go.microsoft.com/fwlink/?linkid=2110774)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="673e7-104">For more information, see [How to recover missing, deleted or corrupted items in SharePoint Online and OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=2110774).</span></span>

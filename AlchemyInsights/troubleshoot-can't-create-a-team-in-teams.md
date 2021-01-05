@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/16/2020
 ms.locfileid: "49706938"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a><span data-ttu-id="ca386-102">Microsoft Teams でチームを作成できない場合の対処方法</span><span class="sxs-lookup"><span data-stu-id="ca386-102">What to do if you can't create a team in Microsoft Teams</span></span>
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a><span data-ttu-id="ac529-102">Microsoft Teams でチームを作成できない場合の対処方法</span><span class="sxs-lookup"><span data-stu-id="ac529-102">What to do if you can't create a team in Microsoft Teams</span></span>
 
-<span data-ttu-id="ca386-103">Teams 管理者に次のことをお問い合わせください:</span><span class="sxs-lookup"><span data-stu-id="ca386-103">Ask your Teams admin to do the following:</span></span>
+<span data-ttu-id="ac529-103">Teams 管理者に次のことをお問い合わせください:</span><span class="sxs-lookup"><span data-stu-id="ac529-103">Ask your Teams admin to do the following:</span></span>
 
-1. <span data-ttu-id="ca386-104">Microsoft 365 で組織のセキュリティ グループの設定を作成または変更します。</span><span class="sxs-lookup"><span data-stu-id="ca386-104">Create or change the organization’s security group settings in Microsoft 365.</span></span>
-2. <span data-ttu-id="ca386-105">そのセキュリティ グループにあなたを追加します。</span><span class="sxs-lookup"><span data-stu-id="ca386-105">Add you to that security group.</span></span>
+1. <span data-ttu-id="ac529-104">Microsoft 365 で組織のセキュリティ グループの設定を作成または変更します。</span><span class="sxs-lookup"><span data-stu-id="ac529-104">Create or change the organization’s security group settings in Microsoft 365.</span></span>
+2. <span data-ttu-id="ac529-105">そのセキュリティ グループにあなたを追加します。</span><span class="sxs-lookup"><span data-stu-id="ac529-105">Add you to that security group.</span></span>

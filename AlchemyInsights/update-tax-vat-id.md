@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/10/2020
 ms.locfileid: "49680518"
 ---
-# <a name="update-taxvat-id"></a><span data-ttu-id="53b34-102">税 ID または VAT ID を更新する</span><span class="sxs-lookup"><span data-stu-id="53b34-102">Update Tax/VAT ID</span></span>
+# <a name="update-taxvat-id"></a><span data-ttu-id="f8d0b-102">税 ID または VAT ID を更新する</span><span class="sxs-lookup"><span data-stu-id="f8d0b-102">Update Tax/VAT ID</span></span>
 
-<span data-ttu-id="53b34-103">税 ID または VAT ID に関連する問題がある場合は、Microsoft のライセンスパートナー (パートナーまたはソフトウェア アドバイザー) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="53b34-103">If you have any issues related to your TAX/VAT ID, contact your Microsoft Licensing Partner (Partner or Software Advisor).</span></span> <span data-ttu-id="53b34-104">お客様の税 ID または VAT ID に関連する問題は、地域オペレーション センター (ROC) に連絡されます。</span><span class="sxs-lookup"><span data-stu-id="53b34-104">They'll contact Regional Operations Center (ROC) for questions regarding your TAX/VAT ID.</span></span> 
+<span data-ttu-id="f8d0b-103">税 ID または VAT ID に関連する問題がある場合は、Microsoft のライセンスパートナー (パートナーまたはソフトウェア アドバイザー) にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="f8d0b-103">If you have any issues related to your TAX/VAT ID, contact your Microsoft Licensing Partner (Partner or Software Advisor).</span></span> <span data-ttu-id="f8d0b-104">お客様の税 ID または VAT ID に関連する問題は、地域オペレーション センター (ROC) に連絡されます。</span><span class="sxs-lookup"><span data-stu-id="f8d0b-104">They'll contact Regional Operations Center (ROC) for questions regarding your TAX/VAT ID.</span></span> 

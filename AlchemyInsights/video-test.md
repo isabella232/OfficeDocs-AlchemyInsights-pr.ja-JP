@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/16/2020
 ms.locfileid: "48194322"
 ---
-# <a name="video-test"></a><span data-ttu-id="31d53-102">ビデオ テスト</span><span class="sxs-lookup"><span data-stu-id="31d53-102">Video test</span></span>
+# <a name="video-test"></a><span data-ttu-id="33107-102">ビデオ テスト</span><span class="sxs-lookup"><span data-stu-id="33107-102">Video test</span></span>
 
-<span data-ttu-id="31d53-103">ここに役立つビデオがあります:</span><span class="sxs-lookup"><span data-stu-id="31d53-103">Here we have a helpful video:</span></span>
+<span data-ttu-id="33107-103">ここに役立つビデオがあります:</span><span class="sxs-lookup"><span data-stu-id="33107-103">Here we have a helpful video:</span></span>
 
 >[!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
 
-<span data-ttu-id="31d53-104">ここにいくつかのテキストがあります。</span><span class="sxs-lookup"><span data-stu-id="31d53-104">Here is some more text.</span></span>
+<span data-ttu-id="33107-104">ここにいくつかのテキストがあります。</span><span class="sxs-lookup"><span data-stu-id="33107-104">Here is some more text.</span></span>

@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/04/2020
 ms.locfileid: "49573946"
 ---
-# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="edd58-102">Microsoft Edge DevTools を開く</span><span class="sxs-lookup"><span data-stu-id="edd58-102">Open Microsoft Edge DevTools</span></span>
+# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="669d5-102">Microsoft Edge DevTools を開く</span><span class="sxs-lookup"><span data-stu-id="669d5-102">Open Microsoft Edge DevTools</span></span>
 
-<span data-ttu-id="edd58-103">ユーザーが DevTools UI のさまざまな部分にすばやくアクセスする場合には、[Microsoft Edge DevTools を開く](https://go.microsoft.com/fwlink/?linkid=2135152)さまざまな方法があります。</span><span class="sxs-lookup"><span data-stu-id="edd58-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>
+<span data-ttu-id="669d5-103">ユーザーが DevTools UI のさまざまな部分にすばやくアクセスする場合には、[Microsoft Edge DevTools を開く](https://go.microsoft.com/fwlink/?linkid=2135152)さまざまな方法があります。</span><span class="sxs-lookup"><span data-stu-id="669d5-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>

@@ -19,9 +19,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/16/2020
 ms.locfileid: "48194317"
 ---
-# <a name="overview-of-microsoft-search"></a><span data-ttu-id="e8173-102">Microsoft Search の概要</span><span class="sxs-lookup"><span data-stu-id="e8173-102">Overview of Microsoft Search</span></span>
+# <a name="overview-of-microsoft-search"></a><span data-ttu-id="cf055-102">Microsoft Search の概要</span><span class="sxs-lookup"><span data-stu-id="cf055-102">Overview of Microsoft Search</span></span>
 
-<span data-ttu-id="e8173-103">Microsoft Search を計画するには、「[Microsoft Search の概要](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e8173-103">To plan for Microsoft Search see [Overview of Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).</span></span>
+<span data-ttu-id="cf055-103">Microsoft Search を計画するには、「[Microsoft Search の概要](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="cf055-103">To plan for Microsoft Search see [Overview of Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).</span></span>
 
-- [<span data-ttu-id="e8173-104">Microsoft Search を設定する</span><span class="sxs-lookup"><span data-stu-id="e8173-104">Set Microsoft Search</span></span>](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- <span data-ttu-id="e8173-105">Microsoft Search の[よく寄せられる質問](https://docs.microsoft.com/microsoftsearch/faqs)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e8173-105">Discover Microsoft Search [Frequently Asked Questions](https://docs.microsoft.com/microsoftsearch/faqs).</span></span>
+- [<span data-ttu-id="cf055-104">Microsoft Search を設定する</span><span class="sxs-lookup"><span data-stu-id="cf055-104">Set Microsoft Search</span></span>](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- <span data-ttu-id="cf055-105">Microsoft Search の[よく寄せられる質問](https://docs.microsoft.com/microsoftsearch/faqs)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="cf055-105">Discover Microsoft Search [Frequently Asked Questions](https://docs.microsoft.com/microsoftsearch/faqs).</span></span>

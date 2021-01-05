@@ -20,8 +20,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/08/2020
 ms.locfileid: "49680451"
 ---
-# <a name="block-pop-up-windows-in-microsoft-edge"></a><span data-ttu-id="acd53-102">Microsoft Edge でポップアップ ウィンドウをブロックする</span><span class="sxs-lookup"><span data-stu-id="acd53-102">Block pop-up windows in Microsoft Edge</span></span>
+# <a name="block-pop-up-windows-in-microsoft-edge"></a><span data-ttu-id="2f670-102">Microsoft Edge でポップアップ ウィンドウをブロックする</span><span class="sxs-lookup"><span data-stu-id="2f670-102">Block pop-up windows in Microsoft Edge</span></span>
 
-1. <span data-ttu-id="acd53-103">**[... (設定など)]** > **[設定]** > **[サイトのアクセス許可]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="acd53-103">Go to **... (Settings and more)** > **Settings** > **Site permissions**.</span></span>
-2. <span data-ttu-id="acd53-104">**[ポップアップとリダイレクト]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="acd53-104">Select **Pop-ups and redirects**.</span></span>
-3. <span data-ttu-id="acd53-105">**[ブロック]** をオンにします。</span><span class="sxs-lookup"><span data-stu-id="acd53-105">Turn on **Block**.</span></span>
+1. <span data-ttu-id="2f670-103">**[... (設定など)]** > **[設定]** > **[サイトのアクセス許可]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="2f670-103">Go to **... (Settings and more)** > **Settings** > **Site permissions**.</span></span>
+2. <span data-ttu-id="2f670-104">**[ポップアップとリダイレクト]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="2f670-104">Select **Pop-ups and redirects**.</span></span>
+3. <span data-ttu-id="2f670-105">**[ブロック]** をオンにします。</span><span class="sxs-lookup"><span data-stu-id="2f670-105">Turn on **Block**.</span></span>

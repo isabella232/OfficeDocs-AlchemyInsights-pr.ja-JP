@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/09/2020
 ms.locfileid: "49680496"
 ---
-# <a name="use-jamf-to-deploy-microsoft-edge-to-macos"></a><span data-ttu-id="a8af7-102">Jamf を使用して Microsoft Edge を macOS に展開する</span><span class="sxs-lookup"><span data-stu-id="a8af7-102">Use Jamf to deploy Microsoft Edge to macOS</span></span>
+# <a name="use-jamf-to-deploy-microsoft-edge-to-macos"></a><span data-ttu-id="07ea7-102">Jamf を使用して Microsoft Edge を macOS に展開する</span><span class="sxs-lookup"><span data-stu-id="07ea7-102">Use Jamf to deploy Microsoft Edge to macOS</span></span>
 
-<span data-ttu-id="a8af7-103">前提条件と手順については、「[Jamf を使用して macOS に展開する](https://go.microsoft.com/fwlink/?linkid=2135109)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a8af7-103">For prerequisites and instructions, see [Deploy to macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2135109).</span></span>
+<span data-ttu-id="07ea7-103">前提条件と手順については、「[Jamf を使用して macOS に展開する](https://go.microsoft.com/fwlink/?linkid=2135109)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="07ea7-103">For prerequisites and instructions, see [Deploy to macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2135109).</span></span>

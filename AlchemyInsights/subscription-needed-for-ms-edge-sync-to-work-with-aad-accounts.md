@@ -20,17 +20,17 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/04/2020
 ms.locfileid: "49573959"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a><span data-ttu-id="24cdc-102">Azure Active Directory アカウントを操作するために、Microsoft Edge の同期に必要なサブスクリプション</span><span class="sxs-lookup"><span data-stu-id="24cdc-102">Subscription needed for Microsoft Edge sync to work with Azure Active Directory accounts</span></span>
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a><span data-ttu-id="fc542-102">Azure Active Directory アカウントを操作するために、Microsoft Edge の同期に必要なサブスクリプション</span><span class="sxs-lookup"><span data-stu-id="fc542-102">Subscription needed for Microsoft Edge sync to work with Azure Active Directory accounts</span></span>
 
-<span data-ttu-id="24cdc-103">同期は、次のいずれかのサブスクリプションで動作します。</span><span class="sxs-lookup"><span data-stu-id="24cdc-103">Sync will work with any one of the following subscriptions:</span></span>
+<span data-ttu-id="fc542-103">同期は、次のいずれかのサブスクリプションで動作します。</span><span class="sxs-lookup"><span data-stu-id="fc542-103">Sync will work with any one of the following subscriptions:</span></span>
 
-1. <span data-ttu-id="24cdc-104">Azure Active Directory Premium (P1 および P2)</span><span class="sxs-lookup"><span data-stu-id="24cdc-104">Azure Active Directory Premium (P1 and P2)</span></span>
-1. <span data-ttu-id="24cdc-105">Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="24cdc-105">Microsoft 365 Business Premium</span></span>
-1. <span data-ttu-id="24cdc-106">Office 365 E3 以上</span><span class="sxs-lookup"><span data-stu-id="24cdc-106">Office 365 E3 and above</span></span>
-1. <span data-ttu-id="24cdc-107">Azure Information Protection (P1 および P2)</span><span class="sxs-lookup"><span data-stu-id="24cdc-107">Azure Information Protection (P1 and P2)</span></span>
-1. <span data-ttu-id="24cdc-108">すべての Office 365 Education サブスクリプション:</span><span class="sxs-lookup"><span data-stu-id="24cdc-108">All Office 365 Education subscriptions:</span></span>
-    - <span data-ttu-id="24cdc-109">Microsoft apps for students または faculty</span><span class="sxs-lookup"><span data-stu-id="24cdc-109">Microsoft apps for students or faculty</span></span>
-    - <span data-ttu-id="24cdc-110">Exchange Online for students または faculty</span><span class="sxs-lookup"><span data-stu-id="24cdc-110">Exchange Online for Students or Faculty</span></span>
-    - <span data-ttu-id="24cdc-111">Office 365 A1 以上</span><span class="sxs-lookup"><span data-stu-id="24cdc-111">Office 365 A1 or above</span></span>
-    - <span data-ttu-id="24cdc-112">Microsoft 365 A1 以上</span><span class="sxs-lookup"><span data-stu-id="24cdc-112">Microsoft 365 A1 or above</span></span>
-    - <span data-ttu-id="24cdc-113">Azure Information Protection P1 または P2、for students または faculty</span><span class="sxs-lookup"><span data-stu-id="24cdc-113">Azure Information Protection P1 or P2, for Students or Faculty</span></span>
+1. <span data-ttu-id="fc542-104">Azure Active Directory Premium (P1 および P2)</span><span class="sxs-lookup"><span data-stu-id="fc542-104">Azure Active Directory Premium (P1 and P2)</span></span>
+1. <span data-ttu-id="fc542-105">Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="fc542-105">Microsoft 365 Business Premium</span></span>
+1. <span data-ttu-id="fc542-106">Office 365 E3 以上</span><span class="sxs-lookup"><span data-stu-id="fc542-106">Office 365 E3 and above</span></span>
+1. <span data-ttu-id="fc542-107">Azure Information Protection (P1 および P2)</span><span class="sxs-lookup"><span data-stu-id="fc542-107">Azure Information Protection (P1 and P2)</span></span>
+1. <span data-ttu-id="fc542-108">すべての Office 365 Education サブスクリプション:</span><span class="sxs-lookup"><span data-stu-id="fc542-108">All Office 365 Education subscriptions:</span></span>
+    - <span data-ttu-id="fc542-109">Microsoft apps for students または faculty</span><span class="sxs-lookup"><span data-stu-id="fc542-109">Microsoft apps for students or faculty</span></span>
+    - <span data-ttu-id="fc542-110">Exchange Online for students または faculty</span><span class="sxs-lookup"><span data-stu-id="fc542-110">Exchange Online for Students or Faculty</span></span>
+    - <span data-ttu-id="fc542-111">Office 365 A1 以上</span><span class="sxs-lookup"><span data-stu-id="fc542-111">Office 365 A1 or above</span></span>
+    - <span data-ttu-id="fc542-112">Microsoft 365 A1 以上</span><span class="sxs-lookup"><span data-stu-id="fc542-112">Microsoft 365 A1 or above</span></span>
+    - <span data-ttu-id="fc542-113">Azure Information Protection P1 または P2、for students または faculty</span><span class="sxs-lookup"><span data-stu-id="fc542-113">Azure Information Protection P1 or P2, for Students or Faculty</span></span>

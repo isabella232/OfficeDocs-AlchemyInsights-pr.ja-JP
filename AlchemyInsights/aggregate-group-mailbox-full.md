@@ -20,14 +20,14 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/18/2020
 ms.locfileid: "49722213"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a><span data-ttu-id="db45f-102">Microsoft 365 グループに送信されたメールに対して受信した AggregateGroupMailbox の完全な NDR</span><span class="sxs-lookup"><span data-stu-id="db45f-102">AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group</span></span>
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a><span data-ttu-id="cd90f-102">Microsoft 365 グループに送信されたメールに対して受信した AggregateGroupMailbox の完全な NDR</span><span class="sxs-lookup"><span data-stu-id="cd90f-102">AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group</span></span>
 
-<span data-ttu-id="db45f-103">次の EXO シェル コマンドを使用して、Exchange トランスポート ルールを作成し、集約グループのメールボックスに送信されたメールをサイレントにドロップします。</span><span class="sxs-lookup"><span data-stu-id="db45f-103">Use the following EXO Shell command to create an Exchange transport rule to silently drop emails sent to aggregate group mailbox:</span></span>
+<span data-ttu-id="cd90f-103">次の EXO シェル コマンドを使用して、Exchange トランスポート ルールを作成し、集約グループのメールボックスに送信されたメールをサイレントにドロップします。</span><span class="sxs-lookup"><span data-stu-id="cd90f-103">Use the following EXO Shell command to create an Exchange transport rule to silently drop emails sent to aggregate group mailbox:</span></span>
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> <span data-ttu-id="db45f-104">**-SentTo** の SMTP アドレスを、テナントの集約グループのメールボックスの SMTP アドレスに置き換えます。</span><span class="sxs-lookup"><span data-stu-id="db45f-104">Replace the SMTP address in **-SentTo** with SMTP address of aggregate group mailbox in your tenant.</span></span> <span data-ttu-id="db45f-105">受信した NDR から集約グループのメールボックスの SMTP アドレスを取得できます。</span><span class="sxs-lookup"><span data-stu-id="db45f-105">You can get the SMTP address of aggregate group mailbox from the NDR received.</span></span>
+> <span data-ttu-id="cd90f-104">**-SentTo** の SMTP アドレスを、テナントの集約グループのメールボックスの SMTP アドレスに置き換えます。</span><span class="sxs-lookup"><span data-stu-id="cd90f-104">Replace the SMTP address in **-SentTo** with SMTP address of aggregate group mailbox in your tenant.</span></span> <span data-ttu-id="cd90f-105">受信した NDR から集約グループのメールボックスの SMTP アドレスを取得できます。</span><span class="sxs-lookup"><span data-stu-id="cd90f-105">You can get the SMTP address of aggregate group mailbox from the NDR received.</span></span>
 
 
 

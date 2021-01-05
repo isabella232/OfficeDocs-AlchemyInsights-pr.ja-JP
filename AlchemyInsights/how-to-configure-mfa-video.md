@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/15/2020
 ms.locfileid: "49692497"
 ---
-# <a name="configure-mfa"></a><span data-ttu-id="3a22c-102">MFA を構成する</span><span class="sxs-lookup"><span data-stu-id="3a22c-102">Configure MFA</span></span>
+# <a name="configure-mfa"></a><span data-ttu-id="317f9-102">MFA を構成する</span><span class="sxs-lookup"><span data-stu-id="317f9-102">Configure MFA</span></span>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2MuO3?autoplay=false]
 
-<span data-ttu-id="3a22c-103">MFA を構成するには、「[多要素認証を設定する](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3a22c-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="317f9-103">MFA を構成するには、「[多要素認証を設定する](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="317f9-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="3a22c-104">MFA を有効にして構成するには、グローバル管理者である必要があります。</span><span class="sxs-lookup"><span data-stu-id="3a22c-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="317f9-104">MFA を有効にして構成するには、グローバル管理者である必要があります。</span><span class="sxs-lookup"><span data-stu-id="317f9-104">Note that you need to be a global admin to enable and configure MFA.</span></span>

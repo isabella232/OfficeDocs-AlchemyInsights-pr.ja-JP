@@ -20,9 +20,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/01/2020
 ms.locfileid: "48365344"
 ---
-# <a name="add-contacts-to-speed-dial"></a><span data-ttu-id="30311-102">連絡先を短縮ダイヤルに追加する</span><span class="sxs-lookup"><span data-stu-id="30311-102">Add contacts to speed dial</span></span>
+# <a name="add-contacts-to-speed-dial"></a><span data-ttu-id="39218-102">連絡先を短縮ダイヤルに追加する</span><span class="sxs-lookup"><span data-stu-id="39218-102">Add contacts to speed dial</span></span>
 
-1. <span data-ttu-id="30311-103">**通話**の [  **連絡先**] に移動します。</span><span class="sxs-lookup"><span data-stu-id="30311-103">In  **Calls**, go to  **Contacts**.</span></span>
-2. <span data-ttu-id="30311-104">ユーザーが短縮ダイヤルを追加する必要がある人のカードが表示されている場合は、カードで**その他のオプション** (3 つの点) を選択し、[**短縮ダイヤルに追加する**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="30311-104">If you see a card for the person you want to add to speed dial, select  **More options**  (three dots) on their card and select  **Add to speed dial**.</span></span>
+1. <span data-ttu-id="39218-103">**通話** の [  **連絡先**] に移動します。</span><span class="sxs-lookup"><span data-stu-id="39218-103">In  **Calls**, go to  **Contacts**.</span></span>
+2. <span data-ttu-id="39218-104">ユーザーが短縮ダイヤルを追加する必要がある人のカードが表示されている場合は、カードで **その他のオプション** (3 つの点) を選択し、[**短縮ダイヤルに追加する**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="39218-104">If you see a card for the person you want to add to speed dial, select  **More options**  (three dots) on their card and select  **Add to speed dial**.</span></span>
 
-<span data-ttu-id="30311-105">追加したい人が表示されない場合は、画面の右上にある\*\*短縮ダイヤルの追加  \*\*  を選択して、その人たちの名前を入力し、ユーザーを選び、[  **追加**] を選びます。</span><span class="sxs-lookup"><span data-stu-id="30311-105">If you don’t see the person, select  **Add speed dial**  at the top right of the screen, start typing their name, select the person, and then select  **Add**.</span></span>
+<span data-ttu-id="39218-105">追加したい人が表示されない場合は、画面の右上にある **短縮ダイヤルの追加**  を選択して、その人たちの名前を入力し、ユーザーを選び、[  **追加**] を選びます。</span><span class="sxs-lookup"><span data-stu-id="39218-105">If you don’t see the person, select  **Add speed dial**  at the top right of the screen, start typing their name, select the person, and then select  **Add**.</span></span>

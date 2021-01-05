@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/14/2020
 ms.locfileid: "49680573"
 ---
-# <a name="deploy-azure-ad-privileged-identity-management-pim"></a><span data-ttu-id="11666-102">Azure AD Privileged Identity Management (PIM)の展開</span><span class="sxs-lookup"><span data-stu-id="11666-102">Deploy Azure AD Privileged Identity Management (PIM)</span></span>
+# <a name="deploy-azure-ad-privileged-identity-management-pim"></a><span data-ttu-id="43c7a-102">Azure AD Privileged Identity Management (PIM)の展開</span><span class="sxs-lookup"><span data-stu-id="43c7a-102">Deploy Azure AD Privileged Identity Management (PIM)</span></span>
 
-<span data-ttu-id="11666-103">Azure Active Directory (Azure AD) 組織にPrivileged Identity Management (PIM) の展開を計画する方法の詳細については、「[Azure AD Privileged Identity Management (PIM) の展開](https://go.microsoft.com/fwlink/?linkid=2132095)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="11666-103">To learn how to plan the deployment of Privileged Identity Management (PIM) in your Azure Active Directory (Azure AD) organization, see [Deploy Azure AD Privileged Identity Management (PIM)](https://go.microsoft.com/fwlink/?linkid=2132095).</span></span>
+<span data-ttu-id="43c7a-103">Azure Active Directory (Azure AD) 組織にPrivileged Identity Management (PIM) の展開を計画する方法の詳細については、「[Azure AD Privileged Identity Management (PIM) の展開](https://go.microsoft.com/fwlink/?linkid=2132095)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="43c7a-103">To learn how to plan the deployment of Privileged Identity Management (PIM) in your Azure Active Directory (Azure AD) organization, see [Deploy Azure AD Privileged Identity Management (PIM)](https://go.microsoft.com/fwlink/?linkid=2132095).</span></span>

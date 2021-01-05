@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 12/02/2020
 ms.locfileid: "49565252"
 ---
-# <a name="do-you-need-instructions-for-another-version-of-outlook"></a><span data-ttu-id="a9dbe-102">別のバージョンの Outlook の手順が必要な場合</span><span class="sxs-lookup"><span data-stu-id="a9dbe-102">Do you need instructions for another version of Outlook?</span></span>
+# <a name="do-you-need-instructions-for-another-version-of-outlook"></a><span data-ttu-id="611b2-102">別のバージョンの Outlook の手順が必要な場合</span><span class="sxs-lookup"><span data-stu-id="611b2-102">Do you need instructions for another version of Outlook?</span></span>
 
-- [<span data-ttu-id="a9dbe-103">削除されたメール メッセージを Outlook.com で復元する</span><span class="sxs-lookup"><span data-stu-id="a9dbe-103">Restore deleted email messages in Outlook.com</span></span>](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
+- [<span data-ttu-id="611b2-103">削除されたメール メッセージを Outlook.com で復元する</span><span class="sxs-lookup"><span data-stu-id="611b2-103">Restore deleted email messages in Outlook.com</span></span>](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
 
-- [<span data-ttu-id="a9dbe-104">Outlook on the web で削除されたメール メッセージを復元する</span><span class="sxs-lookup"><span data-stu-id="a9dbe-104">Recover deleted email messages in Outlook on the web</span></span>](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+- [<span data-ttu-id="611b2-104">Outlook on the web で削除されたメール メッセージを復元する</span><span class="sxs-lookup"><span data-stu-id="611b2-104">Recover deleted email messages in Outlook on the web</span></span>](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
 
-- [<span data-ttu-id="a9dbe-105">Windows 版 Outlook で削除済みのアイテムを復元する</span><span class="sxs-lookup"><span data-stu-id="a9dbe-105">Recover deleted items in Outlook for Windows</span></span>](https://support.microsoft.com/office/recover-deleted-items-in-outlook-for-windows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [<span data-ttu-id="611b2-105">Windows 版 Outlook で削除済みのアイテムを復元する</span><span class="sxs-lookup"><span data-stu-id="611b2-105">Recover deleted items in Outlook for Windows</span></span>](https://support.microsoft.com/office/recover-deleted-items-in-outlook-for-windows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

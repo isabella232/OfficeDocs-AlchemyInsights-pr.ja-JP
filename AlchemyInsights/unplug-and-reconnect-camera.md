@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/01/2020
 ms.locfileid: "48365364"
 ---
-# <a name="unplug-and-reconnect-camera"></a><span data-ttu-id="e8dd5-102">カメラのプラグを抜いて再接続する</span><span class="sxs-lookup"><span data-stu-id="e8dd5-102">Unplug and reconnect camera</span></span>
+# <a name="unplug-and-reconnect-camera"></a><span data-ttu-id="9294d-102">カメラのプラグを抜いて再接続する</span><span class="sxs-lookup"><span data-stu-id="9294d-102">Unplug and reconnect camera</span></span>
 
-<span data-ttu-id="e8dd5-103">申し訳ありませんが、うまくいきませんでした。カメラが外部カメラの場合は、デバイスのプラグを抜いてから再接続すると役立つ場合があります。</span><span class="sxs-lookup"><span data-stu-id="e8dd5-103">Sorry that didn’t work out. If the camera is an external camera, unplugging the device and reconnect again might help.</span></span>
+<span data-ttu-id="9294d-103">申し訳ありませんが、うまくいきませんでした。カメラが外部カメラの場合は、デバイスのプラグを抜いてから再接続すると役立つ場合があります。</span><span class="sxs-lookup"><span data-stu-id="9294d-103">Sorry that didn’t work out. If the camera is an external camera, unplugging the device and reconnect again might help.</span></span>
 
-<span data-ttu-id="e8dd5-104">これが内蔵カメラの場合は、コンピューターを再起動すると役立つ場合があります。</span><span class="sxs-lookup"><span data-stu-id="e8dd5-104">If this is a built-in camera, restarting your computer might help.</span></span>
+<span data-ttu-id="9294d-104">これが内蔵カメラの場合は、コンピューターを再起動すると役立つ場合があります。</span><span class="sxs-lookup"><span data-stu-id="9294d-104">If this is a built-in camera, restarting your computer might help.</span></span>

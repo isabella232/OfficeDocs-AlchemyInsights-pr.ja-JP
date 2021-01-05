@@ -19,6 +19,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47677626"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a><span data-ttu-id="e3d2f-102">SharePoint での OneDrive 同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="e3d2f-102">Fix OneDrive sync issues with SharePoint</span></span>
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a><span data-ttu-id="af686-102">SharePoint での OneDrive 同期の問題を修正する</span><span class="sxs-lookup"><span data-stu-id="af686-102">Fix OneDrive sync issues with SharePoint</span></span>
 
-<span data-ttu-id="e3d2f-103">OneDrive が SharePoint と期待どおりに同期しない場合は、「[SharePoint Online の同期の問題を解決する](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US)」を参照してトラブルシューティングを行ってください。</span><span class="sxs-lookup"><span data-stu-id="e3d2f-103">If OneDrive isn't syncing with SharePoint the way you or your users expect, refer to [Fix SharePoint Online sync problems](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) to troubleshoot.</span></span>
+<span data-ttu-id="af686-103">OneDrive が SharePoint と期待どおりに同期しない場合は、「[SharePoint Online の同期の問題を解決する](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US)」を参照してトラブルシューティングを行ってください。</span><span class="sxs-lookup"><span data-stu-id="af686-103">If OneDrive isn't syncing with SharePoint the way you or your users expect, refer to [Fix SharePoint Online sync problems](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) to troubleshoot.</span></span>

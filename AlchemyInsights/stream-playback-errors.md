@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/25/2020
 ms.locfileid: "48300124"
 ---
-# <a name="microsoft-stream-playback-errors"></a><span data-ttu-id="f8fea-102">Microsoft Stream 再生エラー</span><span class="sxs-lookup"><span data-stu-id="f8fea-102">Microsoft Stream playback errors</span></span>
+# <a name="microsoft-stream-playback-errors"></a><span data-ttu-id="853f6-102">Microsoft Stream 再生エラー</span><span class="sxs-lookup"><span data-stu-id="853f6-102">Microsoft Stream playback errors</span></span>
 
-<span data-ttu-id="f8fea-103">Microsoft stream でビデオを再生するときにエラーが発生した場合は、「[Microsoft Stream 再生のエラー](https://docs.microsoft.com/stream/portal-understanding-playback-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f8fea-103">If you are experiencing an error while playing a video in Microsoft stream, see [Microsoft Stream playback errors](https://docs.microsoft.com/stream/portal-understanding-playback-errors)</span></span>
+<span data-ttu-id="853f6-103">Microsoft stream でビデオを再生するときにエラーが発生した場合は、「[Microsoft Stream 再生のエラー](https://docs.microsoft.com/stream/portal-understanding-playback-errors)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="853f6-103">If you are experiencing an error while playing a video in Microsoft stream, see [Microsoft Stream playback errors](https://docs.microsoft.com/stream/portal-understanding-playback-errors)</span></span>

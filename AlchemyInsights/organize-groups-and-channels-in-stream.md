@@ -19,8 +19,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/23/2020
 ms.locfileid: "48275068"
 ---
-# <a name="organize-groups-and-channels-in-microsoft-stream"></a><span data-ttu-id="59ebc-102">Microsoft Stream のグループとチャネルを整理する</span><span class="sxs-lookup"><span data-stu-id="59ebc-102">Organize groups and channels in Microsoft Stream</span></span>
+# <a name="organize-groups-and-channels-in-microsoft-stream"></a><span data-ttu-id="1a985-102">Microsoft Stream のグループとチャネルを整理する</span><span class="sxs-lookup"><span data-stu-id="1a985-102">Organize groups and channels in Microsoft Stream</span></span>
 
-<span data-ttu-id="59ebc-103">Microsoft Stream では、組織全体のチャネルとグループが組み合わされているので、ニーズに合わせてビデオを整理し、許可する領域を設定できます。</span><span class="sxs-lookup"><span data-stu-id="59ebc-103">With the combination of organization-wide channels and groups in Microsoft Stream, you can set up an area to organize and permission your videos to match your needs.</span></span>  
+<span data-ttu-id="1a985-103">Microsoft Stream では、組織全体のチャネルとグループが組み合わされているので、ニーズに合わせてビデオを整理し、許可する領域を設定できます。</span><span class="sxs-lookup"><span data-stu-id="1a985-103">With the combination of organization-wide channels and groups in Microsoft Stream, you can set up an area to organize and permission your videos to match your needs.</span></span>  
 
-- [<span data-ttu-id="59ebc-104">Microsoft Stream のグループとチャネルを整理する方法</span><span class="sxs-lookup"><span data-stu-id="59ebc-104">How to organize groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
+- [<span data-ttu-id="1a985-104">Microsoft Stream のグループとチャネルを整理する方法</span><span class="sxs-lookup"><span data-stu-id="1a985-104">How to organize groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)

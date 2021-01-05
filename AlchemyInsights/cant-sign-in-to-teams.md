@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 10/01/2020
 ms.locfileid: "48365348"
 ---
-# <a name="cant-sign-in-to-teams"></a><span data-ttu-id="ad22c-102">Teamsにサインインできません。</span><span class="sxs-lookup"><span data-stu-id="ad22c-102">Can’t sign in to Teams</span></span>
+# <a name="cant-sign-in-to-teams"></a><span data-ttu-id="1c9ea-102">Teamsにサインインできません。</span><span class="sxs-lookup"><span data-stu-id="1c9ea-102">Can’t sign in to Teams</span></span>
 
-<span data-ttu-id="ad22c-103">次の記事では、既知の問題とトラブルシューティングの提案について説明します。[Microsoft Teams へのサインインで問題が発生する理由は何でしょうか?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)</span><span class="sxs-lookup"><span data-stu-id="ad22c-103">The following article contains known issues and troubleshooting suggestions: [Why am I having trouble signing in to Microsoft Teams?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)</span></span>
+<span data-ttu-id="1c9ea-103">次の記事では、既知の問題とトラブルシューティングの提案について説明します。[Microsoft Teams へのサインインで問題が発生する理由は何でしょうか?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)</span><span class="sxs-lookup"><span data-stu-id="1c9ea-103">The following article contains known issues and troubleshooting suggestions: [Why am I having trouble signing in to Microsoft Teams?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)</span></span>
