@@ -25,18 +25,18 @@ Azure portal では、アカウント管理者として、新しいクレジッ�
 
 **Azure サブスクリプションに新しいクレジット カードまたはデビット カードを追加する**
 
-1. [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。" **コスト管理 + 請求** " を検索します
+1. [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。"**コスト管理 + 請求**" を検索します
 2. クレジット カードまたはデビット カードを追加するサブスクリプションを選択します。 **支払方法** を選択します
-3. 左上隅で、[+] を選択してカードを追加します。 クレジット カードのフォームが右側に表示されます。 クレジット カードまたはデビット カードの詳細を入力します 4. このカードをアクティブな支払い方法にするには、フォームの上にある [これをアクティブな支払い方法にする] の横のチェック ボックスをオンにします。 選択したサブスクリプションと同じカードを使用しているすべてのサブスクリプションで、このカードがアクティブな支払い方法になります。 [ **次へ** ] を選択します 5. **別のクレジット カードを使用** するには、 [このカードをアクティブな支払い方法にする] の横のチェック ボックスをオンにします。
-6. [ **アクティブに設定** ] をクリックします
+3. 左上隅で、[+] を選択してカードを追加します。 クレジット カードのフォームが右側に表示されます。 クレジット カードまたはデビット カードの詳細を入力します 4. このカードをアクティブな支払い方法にするには、フォームの上にある [これをアクティブな支払い方法にする] の横のチェック ボックスをオンにします。 選択したサブスクリプションと同じカードを使用しているすべてのサブスクリプションで、このカードがアクティブな支払い方法になります。 [**次へ**] を選択します 5. **別のクレジット カードを使用** するには、 [このカードをアクティブな支払い方法にする] の横のチェック ボックスをオンにします。
+6. [**アクティブに設定**] をクリックします
 
 **既存のクレジット カードまたはデビット カードを更新、変更、削除する**
 
-1. [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。" **コスト管理 + 請求** " を検索します。
+1. [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。"**コスト管理 + 請求**" を検索します。
 2. **支払方法** を選択します。 使用するクレジット カードまたはデビット カードをクリックして編集します。 クレジットカードのフォームが右側に表示されます。3. クレジット カードまたはデビット カードの詳細を更新します。 **[保存]** を選択します。
 4. **削除** するには、削除するカードのチェックボックスをオンにします。5. **[削除]** をクリックします
 
-_注_ : 他のアクティブな Microsoft サブスクリプションに関連付けられている場合は、お使いのクレジット カードを削除できません。 Microsoft で使用しているすべてのアクティブなサブスクリプションのクレジット カードを削除して、もう一度お試しください。
+_注_: 他のアクティブな Microsoft サブスクリプションに関連付けられている場合は、お使いのクレジット カードを削除できません。 Microsoft で使用しているすべてのアクティブなサブスクリプションのクレジット カードを削除して、もう一度お試しください。
 
 詳細情報: [支払い方法の更新、変更、削除を行う](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 

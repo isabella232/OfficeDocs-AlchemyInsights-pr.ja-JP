@@ -23,7 +23,7 @@ ms.locfileid: "48758621"
 
 お使いのクレジットの有効期限が切れている、支出制限に達した、請求が期限切れになった、クレジット カードの限度額に達した、またはアカウント管理者にサブスクリプションをキャンセルされたなどの理由により、Azure サブスクリプションが無効になっている可能性があります。 サブスクリプションを再び有効にする方法については、以下を参照してください。 詳細情報: [Azure サブスクリプションを再度有効にする](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Azure サブスクリプションをもう一度有効にします (サブスクリプションが偶発的にキャンセルされた場合)** 。[アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) は、アカウント センターでキャンセルされた従量課金制のサブスクリプションを再アクティブ化できます。
+**Azure サブスクリプションをもう一度有効にします (サブスクリプションが偶発的にキャンセルされた場合)**。[アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) は、アカウント センターでキャンセルされた従量課金制のサブスクリプションを再アクティブ化できます。
 
 1. [アカウント センター](https://account.windowsazure.com/Subscriptions)にサインインします。
 2. キャンセルされたサブスクリプションを選択します。 **再アクティブ化** をクリックします。
@@ -37,7 +37,7 @@ ms.locfileid: "48758621"
 
 **支出制限に達しました**
 
-使用量が支出制限に達すると、Azure はその課金期間の残りの部分のサブスクリプションを無効にします。 お客様のサブスクリプションが無効化されるのは、お使いのサブスクリプションを含むクレジットの使用量以外に誤って利用料金が発生することを防ぐためです。 支出制限を削除するには、「[Azure の支出制限](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)」を参照してください。  
+使用量が支出制限に達すると、Azure はその課金期間の残りの期間のサブスクリプションを無効にします。 お客様のサブスクリプションが無効化されるのは、お使いのサブスクリプションを含むクレジットの使用量以外に誤って利用料金が発生することを防ぐためです。 支出制限を削除するには、「[Azure の支出制限](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)」を参照してください。  
 詳細情報: [支出制限に達した場合](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
 **請求書の期限切れ**
@@ -48,7 +48,7 @@ ms.locfileid: "48758621"
 
 この問題を解決するには、[別のクレジット カードに切り替えます](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)。 または、ビジネスで使用する場合は、[請求書による支払いに切り替える](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)ことができます。
 
-**注** : 再び有効になったサブスクリプションには、新しいサブスクリプション記念日 (SA) が割り当てられます。 サブスクリプションを中断した日数 (間隔) は、元のサブスクリプション記念日に追加されます。 記念日が29日、30日、または31日の場合、SA の日付は次の月の最初の日付に設定されます。  
+**注**: 再び有効になったサブスクリプションには、新しいサブスクリプション記念日 (SA) が割り当てられます。 サブスクリプションを中断した日数 (間隔) は、元のサブスクリプション記念日に追加されます。 記念日が29日、30日、または31日の場合、SA の日付は次の月の最初の日付に設定されます。  
 例: 
 
 - 元のサブスクリプション記念日が 25 日の場合は、以下のようになります。
@@ -56,7 +56,7 @@ ms.locfileid: "48758621"
 - サブスクリプションは 6 日間無効でした (間隔は 6)。
 - その間隔が元のサブスクリプション記念日に追加され、その合計 (25 + 6 = 31) が新しいサブスクリプション記念日になります。 
 
-**注** : この例では、SA の日付が 28 を超えているため、新しい SA の日付が次の月の最初の日付になります。
+**注**: この例では、SA の日付が 28 を超えているため、新しい SA の日付が次の月の最初の日付になります。
 
 **おすすめのドキュメント**
 

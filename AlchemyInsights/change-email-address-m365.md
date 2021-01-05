@@ -27,6 +27,6 @@ ms.locfileid: "48462097"
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-例: 
+例:
 
 `et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`

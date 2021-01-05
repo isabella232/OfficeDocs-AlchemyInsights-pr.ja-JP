@@ -25,8 +25,8 @@ ms.locfileid: "48922246"
 
 **Azure 請求書 (.pdf) をダウンロードする**
 
-1. [請求書にアクセスできるユーザー](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)として Azure ポータルの [[サブスクリプション ページ]](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) からサブスクリプションを選択し、 **[請求書]** を選択します
-2. PDF請求書のコピーを表示するには、 **[請求書のダウンロード]** をクリックします。 「 **利用できません** 」と表示されている場合は、「 [前回の請求期間の請求書が表示されない理由](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)」を参照してください。
+1. [請求書にアクセスできるユーザー](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)として Azure ポータルの [[サブスクリプション ページ]](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) からサブスクリプションを選択し、**[請求書]** を選択します
+2. PDF請求書のコピーを表示するには、**[請求書のダウンロード]** をクリックします。 「**利用できません**」と表示されている場合は、「[前回の請求期間の請求書が表示されない理由](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)」を参照してください。
 3. 請求期間をクリックして、請求書の PDF と詳細な日次利用状況ファイル (.CSV) のコピーを取得することにより、1 日の使用量を表示することもできます。[請求書と使用状況データを取得する](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **サブスクリプションの請求書のダウンロードを他のユーザーに許可する**
@@ -34,5 +34,5 @@ ms.locfileid: "48922246"
 1. サブスクリプションのアカウント管理者として [Azure ポータル](https://portal.azure.com/)にサインインします。
 2. コストの管理と課金で検索します。
 3. 左側にある **[請求書]** を選択します。
-4. Azure サブスクリプションを選択し、 **[Allow others to download invoice]** (他のユーザーによる請求書のダウンロードを許可) をクリックします。
-5. **[オン]** を選択し、次にページの上部にある **[保存]** を選択します。
+4. Azure サブスクリプションを選択し、[**Allow others to download invoice**] (他のユーザーによる請求書のダウンロードを許可) をクリックします。
+5. [**オン**] を選択し、次にページの上部にある [**保存**] を選択します。

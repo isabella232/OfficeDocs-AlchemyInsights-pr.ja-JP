@@ -21,7 +21,7 @@ ms.locfileid: "47679905"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint のルート サイトを削除する
 
-SharePoint のルートサイトの削除は**サポートされていません。**
+SharePoint のルートサイトの削除は **サポートされていません。**
 
 1.  ルート サイトが既に削除されている場合、ユーザーがサイトにアクセスしようとすると「404 ファイルが見つかりません」エラーが発生します。
 2.  解決するには、新しい SharePoint 管理センターから [[削除されたサイト](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)] ページに移動してサイトを復元し、ルート サイトを選択して [復元] をクリックします。

@@ -28,13 +28,13 @@ ms.locfileid: "48823249"
 
 **予約のキャンセル**
 
-- **セルフサービス** : [Azure ポータル](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)を使用して、予約済みインスタンスを自分でキャンセルまたは交換できます。 予約を選択し、[返金] または [交換] をクリックします。 交換または返金するには、予約注文の所有者アクセス権が必要です。 予約のみにアクセスしても、返金や交換はできません。 予約注文の所有者に、予約注文へのアクセスを許可するよう依頼してください
-- **交換ポリシー:** 予約を同じタイプの別の予約と交換できます。予約交換に **ペナルティはありません** 。 新規予約の合計コミットメントは、交換された予約の払い戻し額と将来の毎月の支払い (該当する場合) の合計よりも大きくする必要があります
-- **払い戻しポリシー** : 払い戻しとキャンセルされた将来の支払いの合計は、12 か月のローリングウィンドウで 50,000 米ドルを超えることはできません。 **現在、払い戻しにはペナルティを課していません** が、将来の払い戻しに課す可能性があります
+- **セルフサービス**: [Azure ポータル](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)を使用して、予約済みインスタンスを自分でキャンセルまたは交換できます。 予約を選択し、[返金] または [交換] をクリックします。 交換または返金するには、予約注文の所有者アクセス権が必要です。 予約のみにアクセスしても、返金や交換はできません。 予約注文の所有者に、予約注文へのアクセスを許可するよう依頼してください
+- **交換ポリシー:** 予約を同じタイプの別の予約と交換できます。予約交換に **ペナルティはありません**。 新規予約の合計コミットメントは、交換された予約の払い戻し額と将来の毎月の支払い (該当する場合) の合計よりも大きくする必要があります
+- **払い戻しポリシー**: 払い戻しとキャンセルされた将来の支払いの合計は、12 か月のローリングウィンドウで 50,000 米ドルを超えることはできません。 **現在、払い戻しにはペナルティを課していません** が、将来の払い戻しに課す可能性があります
 
 **例外:** セルフサービスの交換およびキャンセル機能は、米国政府のエンタープライズ契約のお客様にはご利用いただけません
 
-- **API / PS / CLI** サポートは、 [Azure予約のキャンセルと払い戻し、セルフサービス交換と払い戻し](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)には利用できません。
+- **API / PS / CLI** サポートは、[Azure予約のキャンセルと払い戻し、セルフサービス交換と払い戻し](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)には利用できません。
 - セルフサービスの交換およびキャンセル機能は、米国政府のエンタープライズ契約のお客様にはご利用いただけません。 Pay-As-You-Go や CSP などの他の米国政府のサブスクリプション タイプがサポートされています
 
 詳細については、次の「 [交換と払い戻しのトランザクションの処理方法](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) 」を参照してください。詳細については、次の「[交換と払い戻しのポリシー](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)」を参照してください。その他の質問については、次の「[予約インスタンスの文書を見る](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)」を参照してください
@@ -45,12 +45,12 @@ ms.locfileid: "48823249"
 
 トランザクションを完了する方法については、次の手順を参照してください。
 
-1. [Azure ポータル](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)にサインインします。 返金する予約を選択し、 **[交換]** をクリックします。 2. 購入する VM 製品を選び、数量を入力します。 新規購入の合計金額が返品の合計金額よりも多いことを確認します[購入する前に適切なサイズを決定する](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)。
+1. [Azure ポータル](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)にサインインします。 返金する予約を選択し、**[交換]** をクリックします。 2. 購入する VM 製品を選び、数量を入力します。 新規購入の合計金額が返品の合計金額よりも多いことを確認します[購入する前に適切なサイズを決定する](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)。
 3. トランザクションを確認して完了します
 
 **予約済みインスタンスの払い戻し**
 
-予約を返金するには、 **[予約の詳細]** に移動し、 **[返金]** をクリックします
+予約を返金するには、**[予約の詳細]** に移動し、**[返金]** をクリックします
 
 **比例配分された払い戻し:**
 
@@ -84,7 +84,7 @@ ms.locfileid: "48823249"
 
 - [請求書にアクセスできるユーザー](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)として、Azure ポータルの [[サブスクリプション]](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)ページからサブスクリプションを選択します
 - **[請求書]** を選択します
-- PDF請求書のコピーを表示するには、 **[請求書のダウンロード]** をクリックします。 「 **利用できません** 」と表示されている場合は、「 [前回の請求期間の請求書が表示されない理由](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)」を参照してください。
+- PDF請求書のコピーを表示するには、**[請求書のダウンロード]** をクリックします。 「**利用できません**」と表示されている場合は、「[前回の請求期間の請求書が表示されない理由](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)」を参照してください。
 
 **請求書をメールで受信します (.pdf)**
 

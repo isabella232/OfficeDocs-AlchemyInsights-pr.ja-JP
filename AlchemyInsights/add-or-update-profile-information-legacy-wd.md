@@ -26,7 +26,7 @@ ms.locfileid: "49680537"
 
 **請求先住所**: 請求先住所は、課金アカウントに対して生成された請求書の責任者である組織または個人の住所および連絡先情報です。 [Microsoft Online Service Program (MOSP) の課金アカウント](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)の場合、アカウントに対して生成されたすべての請求書に表示される 1 つの請求先住所があります。 
 
-**サービスおよびマーケティング メール用の連絡先メール アドレス**: サインインに使用するメール アドレスとは異なる[メール アドレスを指定して](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address)、ご利用の Azure アカウントに関する重要な請求関連、サービス関連、および推奨関連の通知を受け取ることができます。  アカウントで使用されているサービスに対する緊急のセキュリティ問題、価格変更、重大な変更などのサービス通知メールは、常にサインインアドレスに送信されます。
+**サービスおよびマーケティング メール用の連絡先メール アドレス**: サインインに使用するメール アドレスとは異なる [メール アドレスを指定して](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address)、ご利用の Azure アカウントに関する重要な請求関連、サービス関連、および推奨関連の通知を受け取ることができます。  アカウントで使用されているサービスに対する緊急のセキュリティ問題、価格変更、重大な変更などのサービス通知メールは、常にサインインアドレスに送信されます。
 
 MOSP 課金アカウントの住所を更新するには、次の手順を実行します。
 1. 対象のアカウントでアカウント管理者のアクセス許可を持つメール アドレスを使用して、Azure portal にサインインします。

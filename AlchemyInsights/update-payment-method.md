@@ -25,13 +25,13 @@ Azure portal では、アカウント管理者として、新しいクレジッ�
 
 **既存のクレジット カードまたはデビット カードを更新、変更、削除する**
 
-1.  [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。「 **コストの管理と課金** 」を検索します。
+1.  [アカウント管理者](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)として [Azure portal](https://portal.azure.com/) にサインインします。「**コストの管理と課金**」を検索します。
 2.  **支払方法** を選択します。 使用するクレジット カードまたはデビット カードをクリックして編集します。 右側にクレジット カード フォームが表示されます。
 3.  クレジット カードまたはデビット カードの詳細を更新します。 **[保存]** を選択します。
 4.  **削除** するには、削除するカードのチェックボックスをオンにします。
 5.  **[削除]** をクリックします。
 
-**注** : 他のアクティブな Microsoft サブスクリプションに関連付けられている場合は、お使いのクレジット カードを削除できません。 Microsoft で使用しているすべてのアクティブなサブスクリプションのクレジット カードを削除して、もう一度お試しください。
+**注**: 他のアクティブな Microsoft サブスクリプションに関連付けられている場合は、お使いのクレジット カードを削除できません。 Microsoft で使用しているすべてのアクティブなサブスクリプションのクレジット カードを削除して、もう一度お試しください。
 
 詳細情報: [支払い方法の更新、変更、削除を行う](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
