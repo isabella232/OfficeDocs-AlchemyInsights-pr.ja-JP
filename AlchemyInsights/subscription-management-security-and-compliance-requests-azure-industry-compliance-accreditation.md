@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598851"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755588"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>サブスクリプションの管理 - セキュリティおよびコンプライアンスの要求 - azure の業界コンプライアンス認定
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 - **ポリシー**: Microsoft コンプライアンス ドキュメントに関する質問については、[Azure トラスト センター コンプライアンス](https://docs.microsoft.com/compliance/regulatory/offering-SOC)を参照してください。
 

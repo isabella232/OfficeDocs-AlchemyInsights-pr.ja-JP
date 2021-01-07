@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715075"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755624"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure ポータルでの請求書の支払い-推奨される手順
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 Azure ポータルで請求書を支払うには、課金アカウント管理者である必要があります。 課金アカウント管理者は、Microsoft の顧客契約アカウントに最初にサインアップしたユーザーです。 
 

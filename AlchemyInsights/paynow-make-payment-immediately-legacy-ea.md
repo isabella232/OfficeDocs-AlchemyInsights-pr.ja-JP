@@ -1,5 +1,5 @@
 ---
-title: PayNow/すぐに支払いを行う - レガシ EA
+title: PayNow/すぐに支払いを行う
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692507"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755696"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/すぐに支払いを行う - レガシ EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/すぐに支払いを行う
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 Azure エンタープライズ契約のサブスクリプションの場合、支払い方法の追加/更新/変更はサポートされていません。 既存の請求書の住所を変更する場合は、Microsoft の担当者にお問い合わせください。
 

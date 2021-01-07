@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715068"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755804"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>即時支払い - おすすめの手順
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 即時支払いを行うには、延滞している残高がないことを確認します。 お支払いを受け取られない場合、またはお支払いを処理できない場合は、アカウント センターまたは Azure portal にメールが届くか、延滞残高通知アラートが表示されることがあります。 
 

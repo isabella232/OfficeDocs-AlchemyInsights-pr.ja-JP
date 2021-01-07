@@ -1,5 +1,5 @@
 ---
-title: 請求書による支払いへの切り替え (小切手/電信送金) - 従来の WD
+title: 請求書での支払いに切り替える (小切手/電信送金)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726181"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755408"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>請求書による支払いへの切り替え (小切手/電信送金) - 従来の WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>請求書での支払いに切り替える (小切手/電信送金)
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 請求書による支払いに切り替えると、請求書の日付から 30 日以内に請求書を支払うことになります。 請求書で Azure サブスクリプションの支払いを受ける資格を得るには、Azure サポートにリクエストを送信してください。 リクエストが承認されると、 [Azure portal](https://portal.azure.com/) でサブスクリプションを請求書による支払いに切り替えることができます。
 

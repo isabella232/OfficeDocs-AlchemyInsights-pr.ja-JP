@@ -1,5 +1,5 @@
 ---
-title: 管理者を追加および管理する方法 - MCA FL/CL
+title: 管理者を追加および管理する方法
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692499"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755500"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>管理者を追加および管理する方法 - MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>管理者を追加および管理する方法
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 Microsoft 顧客契約 (MCA) の請求先アカウントを管理するために、必要なレベルのアクセス権を持つさまざまなロールを使用できます。 これらのロールは、リソースの制御に役立つ組み込みの Azure サービスのロールに追加されます。
 

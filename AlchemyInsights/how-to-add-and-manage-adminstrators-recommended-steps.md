@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49680454"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755840"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>管理者の追加および管理方法 - 推奨される手順
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>管理者の追加および管理方法 - 推奨される手順
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 **サブスクリプション管理者または共同管理者を編集する**
 

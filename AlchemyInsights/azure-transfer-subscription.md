@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736883"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755552"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Azure の請求の所有権を譲渡する
 
 譲渡するサブスクリプションを所有する課金アカウントの管理者として [Azure portal](https://portal.azure.com/)にサインインします。 自分が管理者かどうかわからない場合、または管理者を特定する必要がある場合は、「[アカウントの課金管理者を特定する](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa)」を参照してください。
 
-1. _コストの管理と請求_ で検索します。
+1. _コストの管理と課金_ を検索します。
 1. 左側のウィンドウから **[サブスクリプション]** を選択します。 アクセス権によっては、課金スコープを選択してから **[サブスクリプション]** または **[Azure サブスクリプション]** を選択する必要がある場合があります。
 1. 譲渡するサブスクリプションの **[課金所有権の譲渡]** を選択します。
 1. サブスクリプションの新しい所有者となるアカウントの課金管理者であるユーザーのメール アドレスを入力し、**[譲渡要求の送信]** を選択します。

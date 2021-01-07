@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 436914e63e7fe28af371d1d50ff22a5e1b9d8b82
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715074"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755480"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>別のエンタープライズ管理者を追加する - おすすめの手順
+
+お客様の問題の説明に基づいて、解決方法を見つけました。 ほとんどのお客様は、ドキュメントに従って、自分で問題を解決できました。
 
 エンタープライズ登録には、複数のエンタープライズ管理者を含めることができます。
 
