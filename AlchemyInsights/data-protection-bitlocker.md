@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731244"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768822"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune で Bitlocker 暗号化を有効にする
 
@@ -30,10 +30,12 @@ Bitlocker の問題のトラブルシューティングについては、「[Mic
  
 **FAQ**
 
- Q: エンドポイント保護ポリシーを使用するデバイスの暗号化をサポートする Windows のエディションはどれですか?<br>
- A: Intune エンドポイント保護ポリシーの設定は、[Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) を使用して実装されています。 すべての Windows のエディションまたはビルドで Bitlocker CSP をサポートしているわけではありません。 <br><br>
-      現時点では、次の Windows エディションがサポートされています。Enterprise、Education、Mobile、Mobile Enterprise および Professional (ビルド 1809 以降)。
- 
+Q: エンドポイント保護ポリシーを使用するデバイスの暗号化をサポートする Windows のエディションはどれですか?<br>
+A: Intune Endpoint Protectionポリシーの設定は、[Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) を使用して実装されています。 すべての Windows のエディションまたはビルドで Bitlocker CSP をサポートしているわけではありません。 <br><br>
+
+Q: エンド ユーザーの操作を必要とせずに、デバイスで Bitlocker を有効にするにはどうすればよいですか?<br>
+A: 必要な前提条件が満たされている限り、Intune を使用して Bitlocker の "Silent Encryption" を有効にできます。 デバイス要件およびサイレント暗号化を有効にするためのポリシー設定の例についての詳細は、次のドキュメント: 「[Bitlocker 暗号化を静かに有効化する](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)」をご参照ください。 <br><br>
+
 Q: デバイスが、暗号化方法と暗号強度 (XTS-AES-128) に対する OS の既定の設定を使用している Bitlocker で暗号化されている場合、新しい設定を使用してドライブの再暗号化を自動でトリガーできる、設定の異なるポリシーを適用することはできますか?<br>
 A: いいえ。 新しい暗号の設定を適用するには、ドライブの暗号化を最初に解除する必要があります。<br><br>
 **注**: OOBE 中に行われる Autopilot の自動暗号化を使用してデバイスが登録されている場合は、OS の既定値の代わりに使用されるポリシー ベースの設定を許可する Intune ポリシーが評価されるまで、トリガーされません。
