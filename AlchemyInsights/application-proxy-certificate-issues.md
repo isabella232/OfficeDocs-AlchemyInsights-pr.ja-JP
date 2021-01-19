@@ -20,13 +20,13 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 01/15/2021
 ms.locfileid: "49875108"
 ---
-# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="ab24f-102">アプリケーション プロキシと証明書の問題</span><span class="sxs-lookup"><span data-stu-id="ab24f-102">Application proxy and certificate issues</span></span>
+# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="f20be-102">アプリケーション プロキシと証明書の問題</span><span class="sxs-lookup"><span data-stu-id="f20be-102">Application proxy and certificate issues</span></span>
 
-<span data-ttu-id="ab24f-103">アプリケーション プロキシと証明書の問題を解決するには、以下のドキュメントを参照してください:</span><span class="sxs-lookup"><span data-stu-id="ab24f-103">To resolve application proxy and certificate issues, see the below documents:</span></span>
+<span data-ttu-id="f20be-103">アプリケーション プロキシと証明書の問題を解決するには、以下のドキュメントを参照してください。</span><span class="sxs-lookup"><span data-stu-id="f20be-103">To resolve application proxy and certificate issues, see the below documents:</span></span>
 
-<span data-ttu-id="ab24f-104">**おすすめのドキュメント**</span><span class="sxs-lookup"><span data-stu-id="ab24f-104">**Recommended documents**</span></span>
+<span data-ttu-id="f20be-104">**推奨されるドキュメント**</span><span class="sxs-lookup"><span data-stu-id="f20be-104">**Recommended documents**</span></span>
 
-- [<span data-ttu-id="ab24f-105">カスタム ドメインの証明書</span><span class="sxs-lookup"><span data-stu-id="ab24f-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
-- [<span data-ttu-id="ab24f-106">Windows Server 2016 の AD FS と WAP で SSL 証明書を管理する</span><span class="sxs-lookup"><span data-stu-id="ab24f-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
+- [<span data-ttu-id="f20be-105">カスタム ドメインの証明書</span><span class="sxs-lookup"><span data-stu-id="f20be-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
+- [<span data-ttu-id="f20be-106">Windows Server 2016 の AD FS と WAP で SSL 証明書を管理する</span><span class="sxs-lookup"><span data-stu-id="f20be-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
 
 
