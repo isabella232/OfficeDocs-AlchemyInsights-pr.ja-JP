@@ -22,9 +22,9 @@ ms.locfileid: "49875108"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>アプリケーション プロキシと証明書の問題
 
-アプリケーション プロキシと証明書の問題を解決するには、以下のドキュメントを参照してください:
+アプリケーション プロキシと証明書の問題を解決するには、以下のドキュメントを参照してください。
 
-**おすすめのドキュメント**
+**推奨されるドキュメント**
 
 - [カスタム ドメインの証明書](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
 - [Windows Server 2016 の AD FS と WAP で SSL 証明書を管理する](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
