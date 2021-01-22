@@ -1,0 +1,43 @@
+---
+title: Oアプリケーションへのサインインに関する問題
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 01/16/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "7788"
+- "9004355"
+ms.openlocfilehash: 2d073367dc1c3e8e117c0b68e205297a65024872
+ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "49901721"
+---
+# <a name="issues-signing-in-to-applications"></a><span data-ttu-id="2b5ae-102">Oアプリケーションへのサインインに関する問題</span><span class="sxs-lookup"><span data-stu-id="2b5ae-102">Issues signing in to applications</span></span>
+
+<span data-ttu-id="2b5ae-103">ユーザーのサインインに関連する原因を検出する、または問題を診断するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-103">To detect the cause or diagnose problems related to user sign-in, perform the following steps:</span></span>
+
+1. <span data-ttu-id="2b5ae-104">[[サインイン診断]](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom) を起動します。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-104">Launch the [Sign-in Diagnostic](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).</span></span>
+2. <span data-ttu-id="2b5ae-105">ユーザー、アプリケーション、サインイン時間、リクエスト ID、または相関 ID に関する詳細を入力して、分析するイベントを見つけます。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-105">Find the event to analyze by entering the details you have about the user, application, time of sign in, request Id, or correlation Id.</span></span>
+3. <span data-ttu-id="2b5ae-106">何が起こったかの詳細と、変更が必要な場合に変更を加えるために実行できるアクションを示す診断結果を確認します。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-106">Review the diagnostic results showing the details of what happened and what actions you can take to make changes, if any changes are needed.</span></span>
+
+<span data-ttu-id="2b5ae-107">以下は、アプリケーションにサインインするときに発生する可能性のある一般的な問題です。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-107">The following are some common issues you may experience when signing in to applications:</span></span>
+
+1. <span data-ttu-id="2b5ae-108">自分またはユーザーが **Azure AD のサインインを完了したが、予期しないプロンプトが表示される** - 記事「[アプリケーションにサインインするときに、予期しない同意プロンプトが表示される](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)」と、「[アプリケーションに同意すると、予期しないエラーが発生する](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-108">You or the user **has complete an Azure AD sign in, but are seeing an unexpected prompt** - See the articles [Unexpected consent prompt when signing in to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) and [Unexpected error when performing consent to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).</span></span>
+2. <span data-ttu-id="2b5ae-109">自分またはユーザーが、**アプリケーションに直接サインインしたが、カスタム ポータルまたはアクセス パネルのディープ リンクからアプリケーションにサインインできない**: 「[Azure AD マイ アプリからのアプリケーションへのサインインに関する問題のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-109">You or a user **has signed in to an application directly, but can't sign in to it from a deeplink on the custom portal or the access panel**: See [Troubleshoot problems signing in to an application from Azure AD My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel).</span></span>
+3. <span data-ttu-id="2b5ae-110">自分またはユーザーが **Azure AD のサインインを完了したが、アプリケーションにエラーメッセージが表示され、ユーザーはサインイン フローを完了できない**: アプリが Azure AD が発行した応答を受け入れなかったことが原因です。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-110">You or a user **has completed an Azure AD sign in, but the application displays an error message and doesn't let the user finish the sign-in flow**: The problem is that the app didn't accept the response that Azure AD issued.</span></span> <span data-ttu-id="2b5ae-111">[以下の手順](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error)に従ってトラブルシューティングします。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-111">Follow [these steps](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error) to troubleshoot.</span></span>
+4. <span data-ttu-id="2b5ae-112">自分またはユーザーが、**パスワード シングル サインオン用に構成されたギャラリー以外のアプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)のガイダンスに従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-112">You or a user **can’t sign in to a non-gallery application configured for password single sign-on**: Follow the guidance in [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) to troubleshoot.</span></span>
+5. <span data-ttu-id="2b5ae-113">自分またはユーザーが、**パスワード シングル サインオン用に構成された Azure AD ギャラリー アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)のガイダンスに従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-113">You or a user **can’t sign in to an Azure AD Gallery application configured for password single sign-on**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) to troubleshoot.</span></span>
+6. <span data-ttu-id="2b5ae-114">自分またはユーザーが **Microsoft アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)に従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-114">You or a user **can't sign in to a Microsoft application**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) to troubleshoot.</span></span>
+7. <span data-ttu-id="2b5ae-115">自分またはユーザーが、**フェデレーション シングル サインオン用に構成されたギャラリー以外のアプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-federated-sso-non-gallery)のガイダンスに従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-115">You or a user **can't sign in to a non-gallery application configured for federated single sign-on**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-federated-sso-non-gallery) to troubleshoot.</span></span>
+8. <span data-ttu-id="2b5ae-116">自分またはユーザーが、**フェデレーション シングル サインオン用に構成された Azure AD ギャラリー アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)のガイダンスに従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-116">You or a user **can't sign in to an Azure AD Gallery application configured for federated single sign-on**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) to troubleshoot.</span></span>
+9. <span data-ttu-id="2b5ae-117">自分またはユーザーが **カスタム開発されたアプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)に従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-117">You or a user **can't sign in to a custom-developed application**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) to troubleshoot.</span></span>
+10. <span data-ttu-id="2b5ae-118">自分またはユーザーが **Azure AD アプリケーション プロキシを使用してオンプレミス アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-on-premises-application-proxy)に従ってください。</span><span class="sxs-lookup"><span data-stu-id="2b5ae-118">You or a user **can't sign in to an on-premises application using the Azure AD application proxy**: Follow [these steps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-on-premises-application-proxy) to troubleshoot.</span></span>
+
