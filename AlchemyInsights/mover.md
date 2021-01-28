@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702764"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986303"
 ---
-# <a name="mover"></a><span data-ttu-id="23170-102">Mover</span><span class="sxs-lookup"><span data-stu-id="23170-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="bf2e9-102">Mover</span><span class="sxs-lookup"><span data-stu-id="bf2e9-102">Mover</span></span>
 
-<span data-ttu-id="23170-103">2019 年 10 月 21 日に、Microsoft は、クラウド ファイル移行の大手プロバイダーである **Mover** を買収しました。</span><span class="sxs-lookup"><span data-stu-id="23170-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="bf2e9-103">Mover について詳しくは、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bf2e9-103">For information on Mover, please see the following articles:</span></span>
 
-<span data-ttu-id="23170-104">現時点では、[サポートリクエスト](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)は[**こちら**からお送りください。](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="23170-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
-
-<span data-ttu-id="23170-105">Mover について詳しくは、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="23170-105">For more information on Mover, please reference the following articles:</span></span>
-
-- [<span data-ttu-id="23170-106">Mover 移行ガイド</span><span class="sxs-lookup"><span data-stu-id="23170-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="23170-107">一般的な移行に関する FAQ</span><span class="sxs-lookup"><span data-stu-id="23170-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
+- [<span data-ttu-id="bf2e9-104">Mover を使用した移行を計画する</span><span class="sxs-lookup"><span data-stu-id="bf2e9-104">Plan your Migration with Mover</span></span>](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [<span data-ttu-id="bf2e9-105">コネクタの管理</span><span class="sxs-lookup"><span data-stu-id="bf2e9-105">Manage Connectors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [<span data-ttu-id="bf2e9-106">Mover 移行の実行</span><span class="sxs-lookup"><span data-stu-id="bf2e9-106">Running the Mover migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
