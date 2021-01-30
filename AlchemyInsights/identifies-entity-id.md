@@ -22,4 +22,4 @@ ms.locfileid: "49975114"
 ---
 # <a name="identifiers-entity-id"></a>識別子 (エンティティ ID)
 
-SAML トークンでアプリケーションに対して発行されたクレームを表示または編集するには、Azure portal でアプリケーションを開きます。 次に、**[ユーザー属性とクレーム]** セクションを開きます。 詳細については、「[SAML トークンで発行されたクレームをエンタープライズ アプリケーション用にカスタマイズする](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)」を参照してください。
+SAML トークンでアプリケーションに対して発行された要求を表示または編集するには、Azure portal でアプリケーションを開きます。 次に、**[ユーザー属性と要求]** セクションを開きます。 詳細については、「[エンタープライズ アプリケーションの SAML トークンで発行された要求のカスタマイズ](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)」を参照してください。
