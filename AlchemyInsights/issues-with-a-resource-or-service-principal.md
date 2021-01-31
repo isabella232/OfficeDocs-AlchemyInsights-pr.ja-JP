@@ -1,0 +1,34 @@
+---
+title: リソースまたはサービス プリンシパルに関する問題
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004336"
+- "7741"
+ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
+ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50035755"
+---
+# <a name="issues-with-a-resource-or-service-principal"></a><span data-ttu-id="3436d-102">リソースまたはサービス プリンシパルに関する問題</span><span class="sxs-lookup"><span data-stu-id="3436d-102">Issues with a Resource or Service Principal</span></span>
+
+1. <span data-ttu-id="3436d-103">まだ使用を開始したばかりのユーザーには、「[Azure Active Directory のアプリケーション オブジェクトとサービス プリンシパル オブジェクト](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)」で、Azure Active Directory でのアプリケーションの登録、アプリケーション オブジェクト、およびサービス プリンシパルについて、それらが何であるか、どのように使用されるか、お互いがどのように関連しているかについて説明しています。</span><span class="sxs-lookup"><span data-stu-id="3436d-103">If you are just getting started, [Application and service principal objects in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) describes application registration, application objects, and service principals in Azure Active Directory: what they are, how they are used, and how they are related to each other.</span></span> <span data-ttu-id="3436d-104">また、アプリケーションのアプリケーション オブジェクトと対応するサービス プリンシパル オブジェクトとの関係を説明するために、マルチテナントのサンプル シナリオが提示されています。</span><span class="sxs-lookup"><span data-stu-id="3436d-104">A multi-tenant example scenario is also presented to illustrate the relationship between an application's application object and corresponding service principal objects.</span></span>
+2. <span data-ttu-id="3436d-105">アプリケーションとサービス プリンシパルの関係の詳細については、「[Azure Active Directory のアプリケーションとサービス プリンシパル オブジェクト](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)」をお読みください。</span><span class="sxs-lookup"><span data-stu-id="3436d-105">You can learn more about the relationship between applications and service principals by reading [applications and service principal objects in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).</span></span>
+3. <span data-ttu-id="3436d-106">「[方法: ポータルを使用して、リソースにアクセスできる Azure AD アプリケーションとサービス プリンシパルを作成する](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal)」では、役割ベースのアクセス制御で使用できる新しい Azure Active Directory (Azure AD) アプリケーションとサービス プリンシパルを作成する方法が示されています。</span><span class="sxs-lookup"><span data-stu-id="3436d-106">[How to: Use the portal to create an Azure AD application and service principal that can access resources](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) shows you how to create a new Azure Active Directory (Azure AD) application and service principal that can be used with the role-based access control.</span></span>
+4. <span data-ttu-id="3436d-107">[サービス プリンシパル API](https://docs.microsoft.com/graph/api/resources/serviceprincipal) を使用すると、アプリケーションのインスタンスをプログラムで管理し、テナント内でアプリケーションが実行できることを制御できます。</span><span class="sxs-lookup"><span data-stu-id="3436d-107">With the [service principal API](https://docs.microsoft.com/graph/api/resources/serviceprincipal), you can programmatically manage instances of applications and control what an application can do within your tenant.</span></span>
+5. <span data-ttu-id="3436d-108">「[servicePrincipal リソースの種類](https://docs.microsoft.com/graph/api/resources/serviceprincipal)」では、servicePrincipal リソースの種類のすべてのプロパティとメソッドが一覧表示されています。</span><span class="sxs-lookup"><span data-stu-id="3436d-108">[servicePrincipal resource type](https://docs.microsoft.com/graph/api/resources/serviceprincipal) lists all properties and methods for the servicePrincipal resource type.</span></span>
+6. <span data-ttu-id="3436d-109">「[Azure AD Graph と Microsoft Graph のリソースの種類の違い](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)」では、Azure AD Graph と Microsoft Graph リソースの違いに焦点を当てています。</span><span class="sxs-lookup"><span data-stu-id="3436d-109">[Resource type differences between Azure AD Graph and Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) highlights differences between Azure AD Graph and Microsoft Graph resources.</span></span> <span data-ttu-id="3436d-110">異なる名前を持つリソースや、利用できないリソースを紹介し、また、Microsoft Graph のベータ版では利用できるものの、v1.0 バージョンでは利用できないリソースにも焦点を当てています。</span><span class="sxs-lookup"><span data-stu-id="3436d-110">It shows resources that have different names or are not available; it also highlights resources available in the beta version of Microsoft Graph but not in the v1.0 version.</span></span>
+
+<span data-ttu-id="3436d-111">**ゲスト ユーザーに関する問題**</span><span class="sxs-lookup"><span data-stu-id="3436d-111">**Issues with Guest Users**</span></span>
+
+- <span data-ttu-id="3436d-112">「[クイックスタート: Azure portal のディレクトリにゲストユーザーを追加する](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites)」では、Azure portal を介して新しいゲストユーザーを Azure AD ディレクトリに追加し、招待状を送信し、ゲスト ユーザーの招待状の引き換えプロセスがどのようになるかを確認する方法が示されています。</span><span class="sxs-lookup"><span data-stu-id="3436d-112">[Quickstart: Add guest users to your directory in the Azure portal](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) shows you how to add a new guest user to your Azure AD directory via the Azure portal, send an invitation, and see what the guest user's invitation redemption process looks like.</span></span>
+- <span data-ttu-id="3436d-113">「[チュートリアル: Azure Active Directory B2C でユーザー フローを作成する](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows)」では、Azure portal を使用して、いくつかの推奨ユーザー フローを作成する方法を示しています。</span><span class="sxs-lookup"><span data-stu-id="3436d-113">[Tutorial: Create user flows in Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) shows you how to create some recommended user flows by using the Azure portal.</span></span> <span data-ttu-id="3436d-114">アプリケーションでリソース所有者のパスワード資格情報 (ROPC) フローをセットアップする方法については、「Configure the resource owner password credentials flow in Azure AD B2C (Azure AD B2C でリソース所有者のパスワード資格情報フローを構成する)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3436d-114">If you are looking for information about how to set up a resource owner password credentials (ROPC) flow in your application, see Configure the resource owner password credentials flow in Azure AD B2C.</span></span>
