@@ -3,35 +3,33 @@ title: 支払いをクレジット カードから請求書に変更する方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286739"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152311"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>支払いをクレジット カードから請求書に変更する方法
 
 > [!NOTE]
-> 請求書で支払うオプションは、サブスクリプションの料金が一定の金額を超えた場合に限られます (サービスの提供場所によって異なります)。請求書支払いの金額が大きい場合、与信審査が必要になることがあります。詳細については、「[サブスクリプションを支払う方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。
+> サブスクリプションの費用が特定の金額を超えている場合にのみ、請求書による支払いに変更できます。 請求書による支払いに変更する前に、まずクレジット カード、デビット カード、または銀行口座の未払い分を支払う必要があります。
 
 1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
-2. 変更するサブスクリプションを見つけます。 [**請求**] の下で支払い方法の横にある [**編集**] を選択します。
-3. 既存の支払い方法の横にある [**変更**] を選択します。
-4. ドロップダウン メニューで、[**請求書または電信送金**] を選択します。
-5. ご自分の名前、住所、電話番号を入力します。 請求書に表示する発注書番を追加することもできます。
-6. 完了したら、[**保存**] を選択します。
-7. 選択した支払い方法が正しいことを確認し、[**保存**] を選択します。
+2. **[製品]** タブで、別の支払い方法で支払いたいサブスクリプションを見つけます。
+3. **[その他の操作]** (3 つのドット) を選択してから、**[お支払い方法を置換]** を選択します。
+4. **[お支払い方法を置換]** ウィンドウで、**[支払方法の追加]** を選択します。
+5. **[支払方法の追加]** ウィンドウで、**[請求書または電信送金]** を選択します。
+6. ご自分の名前、住所、電話番号を入力します。 請求書に表示する発注書番を追加することもできます。
+7. 完了したら、[**保存**] を選択します。
 
-詳細については、「[支払方法を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)」を参照してください。
+詳細については、「[サブスクリプションの支払い方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。
