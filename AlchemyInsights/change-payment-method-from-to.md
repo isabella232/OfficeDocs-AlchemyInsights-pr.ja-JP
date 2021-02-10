@@ -1,31 +1,29 @@
 ---
 title: 支払い方法を変更する
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681768"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152599"
 ---
 # <a name="change-payment-method-fromto"></a>支払い方法を変更する
 
 1. **請求書からクレジット カードに変更する**
 
-    - 請求書払いからクレジット カードまたは銀行口座払いに変更すると、自動的に新しいサブスクリプションが作成され、ユーザーが新しいサブスクリプションに移動します。その後、古いサブスクリプションが無効になります。 ユーザーはサービスの中断に気付かないので、心配は無用です。すべての情報は新しいサブスクリプションで利用できます。 
-
-    - 「[請求書からクレジット カードまたは銀行口座に変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account)」に記載された手順に従ってください。
+    - 請求書による支払いから別の支払い方法による支払いに自動的に変更することはできません。 代わりに、クレジット カード、デビット カード、または銀行口座引き落としで支払われた[別のサブスクリプションを購入](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)し、[すべてのユーザーを新しいサブスクリプションに移動](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)してから、[以前のサブスクリプションをキャンセル](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)する必要があります。
 
 2. **クレジット カードまたは銀行口座から請求書に変更する**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681768"
 
     - 注文数量が多すぎる場合は、与信審査が必要になることがあります。 この場合、「請求書に変更する対象ではないです。 ご注文には与信審査が必要です」 この場合、請求書の手動での支払いに変更します。
 
-    - 「[クレジット カードまたは銀行口座から請求書に変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice)」に記載された手順に従ってください。
+    - 「[支払いをレジット カードから請求書に変更する方法](how-do-i-change-from-credit-card-payments-to-invoice.md)」の手順に従って、手動で変更を完了してください。
 
-詳細については、「[支払い方法を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)」を参照してください。
+詳細については、「[サブスクリプションの支払い方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。

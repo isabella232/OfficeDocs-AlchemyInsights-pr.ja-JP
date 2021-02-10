@@ -2,43 +2,39 @@
 title: 支払いオプション
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: cafaf2aa60e408c56a46aea63911b62e622c979b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768684"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152563"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 for business サブスクリプションの支払いオプション
   
-クレジットカード、銀行口座 (口座振替)、および請求書 (小切手または電子決済) はすべて、Microsoft 365 for business のサブスクリプションの支払いオプションです。
+クレジット カード、デビット カード、銀行口座 (口座振替)、および請求書 (小切手または電子決済 (EFT)) はすべて、Microsoft 365 for business のサブスクリプションの支払いオプションです。
   
-**クレジット カードまたは銀行口座引き落としで支払う**
+**クレジット カード、デビット カード、または銀行口座引き落としで支払う**
   
-クレジット カードまたは銀行口座引き落としで支払う場合、請求日の翌日からサブスクリプション有効期限の最終日まで、サブスクリプションの費用が自動請求されます。 いつでも必要なときに[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)ことができます。 また、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) こともできます。
-  
-ご利用のクレジット カードが拒否された場合、またはお支払い期限を過ぎている場合は、[**課金情報**] \> [**[お使いの製品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] ページで [**残高の決済**] オプションを選択することができます。
-  
+サブスクリプションはクレジット カード、デビット カード、または銀行口座引き落としでお支払いいただけます。 これらの支払い方法のいずれかでお支払いの場合、サブスクリプションの有効期限が切れるまで、またはキャンセルされるまで、その支払い方法に引き続き請求されます。 いつでも必要なときに[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)ことができます。 また、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email) こともできます。
+
+お客様のクレジット カードがご利用いただけないというメッセージが表示された場合、または延滞残高があり、延滞金額の支払い方法を個人的に追加した場合は、**決済残高** を使用して支払いを行うことができます。 延滞金額の支払いに使用する支払い方法は、拒否された支払い方法を使用したすべてのサブスクリプションの新しい支払い方法になります。 詳細については、「[未払額ある場合、どうなりますか?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)」を参照してください。
+
 **請求書による支払い (小切手または電子決済)**
   
-ご利用のサブスクリプション コストが一定金額を超える場合 (金額はサービスの提供場所によって異なります)、請求書でのお支払い方法が選べます。お支払いは、小切手または EFT になります。請求書によるお支払い金額が高額の場合、与信審査が必要になることがあります。与信審査が必要な場合、サブスクリプションを購入したときに通知を受け取ります。また、Microsoft から連絡することをご了承いただいた場合は、メールが届きます。メールには、クレジットの承認を申請するための詳細な情報が含まれます。与信審査は、通常 2 営業日内に完了します。
-  
-サブスクリプションを請求書でお支払いになる場合、請求明細書が閲覧できるようになったことを通知する電子メールが届きます。このメールには、請求明細書のコピーは含まれません。しかし、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)ことを選択することもできます。請求明細書には、支払いに関するオプションの詳細が記載されています。サブスクリプションを購入するときに発注書番号 (PO) を入力した場合、請求明細書にその番号が表示されます。請求明細書にアクセスする詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)」を参照してください。
-  
-**支払い方法の変更**
-  
-現在のサブスクリプションに対する支払い方法を変更する場合は、[ここ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)の手順に従ってください。
+サブスクリプション コストが一定金額を超える場合 (金額はサービスの提供場所によって異なります)、請求書でのお支払い方法が選べます。お支払いは、小切手または EFT になります。 請求書によるお支払い金額が多額の場合、与信審査が必要になることがあります。 与信審査が必要な場合、サブスクリプションを購入したときに通知を受け取ります。 Microsoft から連絡することをご了承いただいた場合、メールを受信します。メールには、クレジットの承認を申請するうえで詳細な情報が含まれます。 与信審査は、通常 2 営業日内に完了します。
+
+サブスクリプションを請求書でお支払いになる場合、請求明細書が閲覧できるようになったときにメールを受信します。 このメールには、請求明細書のコピーは含まれません。 ただし、[請求明細書のコピーをメールで受け取る](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email) ことを選択できます。 請求明細書には、支払いに関するオプションとその送付先の詳細が記載されています。 サブスクリプションを購入するときに発注書番号 (PO) を入力した場合、請求明細書にその番号が表示されます。 請求明細書へのアクセスの詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)」を参照してください。
   
 **追加情報**
   
-[一般法人向け Microsoft 365 サブスクリプションを支払う](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Microsoft 365 for business サブスクリプションの支払い方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
