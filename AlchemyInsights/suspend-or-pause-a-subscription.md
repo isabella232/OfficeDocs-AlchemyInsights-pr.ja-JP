@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488958"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231904"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>サブスクリプションを停止、または一時停止する
 
 サブスクリプションを一時的に停止、または一時停止するには、Microsoft 365 管理センターでサブスクリプションをキャンセルすることができます。
 
-1. 管理センターで、**[課金]** > [[お使いの製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
-2. **[製品]** タブで、キャンセルするサブスクリプションを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションをキャンセルする]** を選択します。
+1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
+2. **[製品]** タブで、キャンセルするサブスクリプションを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションのキャンセル]** を選択します。
 3. サブスクリプションの状態が **[無効]** として表示され、サブスクリプションがキャンセルされた日付が表示されます。 サブスクリプションは90 日間無効な状態のまま残り、削除されるか[再アクティブ化](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) されるまで機能が制限されます。
 
 詳細については、「[サブスクリプションをキャンセルした場合](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)」と「[データを保存する](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)」をご覧ください。
