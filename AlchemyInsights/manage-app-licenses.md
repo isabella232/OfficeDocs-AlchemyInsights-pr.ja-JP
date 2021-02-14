@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232408"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237573"
 ---
 # <a name="manage-app-licenses"></a>アプリ ライセンスを管理する
 
 ## <a name="to-change-license-quantity"></a>ライセンス数を変更するには
+
+これを行う方法を示す **ビデオを見る**: [新しいライセンスを購入する](https://go.microsoft.com/fwlink/p/?linkid=2154857)か、[既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します
 
 1. **[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。
 2. **[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[ライセンスの購入]** を選択します。
