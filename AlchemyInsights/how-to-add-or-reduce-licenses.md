@@ -12,28 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307275"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232444"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="9e293-102">サブスクリプションのライセンスを購入または削除する</span><span class="sxs-lookup"><span data-stu-id="9e293-102">Add or remove licenses for your subscription</span></span>
+# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="c100f-102">サブスクリプションのライセンスを購入または削除する</span><span class="sxs-lookup"><span data-stu-id="c100f-102">Add or remove licenses for your subscription</span></span>
 
-<span data-ttu-id="9e293-103">ここでは、ライセンスを追加または削除する方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="9e293-103">Here's how to add or remove licenses.</span></span>
+<span data-ttu-id="c100f-103">これを行う方法を示す **ビデオを見る**: [新しいライセンスを購入する](https://go.microsoft.com/fwlink/p/?linkid=2154857)か、[既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します</span><span class="sxs-lookup"><span data-stu-id="c100f-103">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span></span>
+
+1. <span data-ttu-id="c100f-104">管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="c100f-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="c100f-105">**[製品]** タブで、ライセンスを購入または削除するサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="c100f-105">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="c100f-106">**[その他の操作]** (3 つのドット) を選択してから、**[ライセンスの購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c100f-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="c100f-107">ライセンスを数を減らす場合は、**[ライセンスの購入]** ウィンドウの上部で、**[ライセンスの削除]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c100f-107">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="c100f-108">ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。</span><span class="sxs-lookup"><span data-stu-id="c100f-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="c100f-109">たとえば、100 個のライセンスがあり、さらに 25 個を追加する場合は、125 と入力します。</span><span class="sxs-lookup"><span data-stu-id="c100f-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="c100f-110">ライセンスを 25 個削除する場合は、75 と入力します。</span><span class="sxs-lookup"><span data-stu-id="c100f-110">If you want to remove 25 licenses, enter 75.</span></span>
+5. <span data-ttu-id="c100f-111">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c100f-111">Select **Save**.</span></span>
+
+<span data-ttu-id="c100f-112">ライセンスを割り当てる方法の詳細については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="c100f-112">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+
+<span data-ttu-id="c100f-113">**参照資料**</span><span class="sxs-lookup"><span data-stu-id="c100f-113">**Resources**</span></span>
   
-1. <span data-ttu-id="9e293-104">管理センターで、**[課金]** > [[お使いの製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。</span><span class="sxs-lookup"><span data-stu-id="9e293-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="9e293-105">**[製品]** タブで、ライセンスを購入または削除するサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="9e293-105">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="9e293-106">**[その他の操作]** (3 つのドット) を選択してから、**[ライセンスの購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="9e293-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
-3. <span data-ttu-id="9e293-107">ライセンスを数を減らす場合は、**[ライセンスの購入]** ウィンドウの上部で、**[ライセンスの削除]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="9e293-107">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
-4. <span data-ttu-id="9e293-108">ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。</span><span class="sxs-lookup"><span data-stu-id="9e293-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="9e293-109">たとえば、100 個のライセンスがあり、さらに 25 個を追加する場合は、125 と入力します。</span><span class="sxs-lookup"><span data-stu-id="9e293-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="9e293-110">ライセンスを 25 個削除する場合は、75 と入力します。</span><span class="sxs-lookup"><span data-stu-id="9e293-110">If you want to remove 25 licenses, enter 75.</span></span>
-5. <span data-ttu-id="9e293-111">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="9e293-111">Select **Save**.</span></span>
-
-<span data-ttu-id="9e293-112">ライセンスを割り当てる方法の詳細については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="9e293-112">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
-
-<span data-ttu-id="9e293-113">**Resources**</span><span class="sxs-lookup"><span data-stu-id="9e293-113">**Resources**</span></span>
-  
-- [<span data-ttu-id="9e293-114">サブスクリプション ライセンスを購入または削除する</span><span class="sxs-lookup"><span data-stu-id="9e293-114">Buy or remove subscription licenses</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [<span data-ttu-id="9e293-115">一般法人向け Microsoft 365 をキャンセルする</span><span class="sxs-lookup"><span data-stu-id="9e293-115">Cancel Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [<span data-ttu-id="9e293-116">一般法人向け Microsoft 365 サブスクリプションを試用する/購入する</span><span class="sxs-lookup"><span data-stu-id="9e293-116">Try or buy a Microsoft 365 for business subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- <span data-ttu-id="c100f-114">「[ライセンスの購入または削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」</span><span class="sxs-lookup"><span data-stu-id="c100f-114">[Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span></span>
+- [<span data-ttu-id="c100f-115">一般法人向け Microsoft 365 をキャンセルする</span><span class="sxs-lookup"><span data-stu-id="c100f-115">Cancel Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [<span data-ttu-id="c100f-116">一般法人向け Microsoft 365 サブスクリプションを試用する/購入する</span><span class="sxs-lookup"><span data-stu-id="c100f-116">Try or buy a Microsoft 365 for business subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
