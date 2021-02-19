@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277904"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291725"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Microsoft Teams でのプレゼンスに関するヘルプ
 
-プレゼンスは、Microsoft Teams (および Microsoft365 または Office365 全体) のユーザー プロフィールの一部です。 Teams は自分の状態 (連絡可能、退席中、取り込み中、会議中、応答不可) を自動検出し、プレゼンス情報を調整します。 既定では、組織内で Teams を使用しているすべてのユーザーは、他のユーザーがオンラインの場合、(ほぼリアルタイムで) 確認できます。
+プレゼンスは、Microsoft Teams (および Microsoft365 または Office365 全体) のユーザー プロフィールの一部です。 
 
-コンピューターをロックするか、コンピューターがアイドル モードまたはスリープ モードに入ると、現在のプレゼンス状態が **[退席中]** に変わります。 モバイルでは、Teams アプリがバックグラウンドにあるときはいつでも、プレゼンス状態が **[退席中]** に変わります。
+コンピューターをロックするか、コンピューターがアイドル モードまたはスリープ モードに入ると、現在のプレゼンス状態が **[退席中]** に変わります。 モバイルでは、Teams アプリがバックグラウンドにあるときはいつでも、プレゼンス状態が **[退席中]** に変わります。 アイドル状態から復帰した後、プレゼンス状態が Teams に反映されない場合は、最新バージョンの Teams を使用していることと、状態が更新されるまで 3 分間待ったかどうかを確認してください。 詳細については、「[実際のプレゼンス状態が Teams に反映されない](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)」を参照してください。
 
+連絡先の状態が不明と表示された場合は、https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown の手順に従って問題を解決してください。
 プレゼンス状態の詳細については、「[Teams 内のユーザー プレゼンス](https://docs.microsoft.com/microsoftteams/presence-admins)」を参照してください。
 
-Microsoft は、Microsoft Teams のプレゼンスに関する[重要な更新プログラムをロールアウト](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence)しています。 プレゼンス インジケーターの信頼性を高めるために、リアルタイムの更新をサポートできるようにプレゼンスを再設計しました。
