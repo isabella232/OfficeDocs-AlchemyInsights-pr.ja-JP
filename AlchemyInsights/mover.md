@@ -19,10 +19,10 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 01/26/2021
 ms.locfileid: "49986303"
 ---
-# <a name="mover"></a><span data-ttu-id="bf2e9-102">Mover</span><span class="sxs-lookup"><span data-stu-id="bf2e9-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="fbfc0-102">Mover</span><span class="sxs-lookup"><span data-stu-id="fbfc0-102">Mover</span></span>
 
-<span data-ttu-id="bf2e9-103">Mover について詳しくは、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="bf2e9-103">For information on Mover, please see the following articles:</span></span>
+<span data-ttu-id="fbfc0-103">Mover について詳しくは、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fbfc0-103">For information on Mover, please see the following articles:</span></span>
 
-- [<span data-ttu-id="bf2e9-104">Mover を使用した移行を計画する</span><span class="sxs-lookup"><span data-stu-id="bf2e9-104">Plan your Migration with Mover</span></span>](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
-- [<span data-ttu-id="bf2e9-105">コネクタの管理</span><span class="sxs-lookup"><span data-stu-id="bf2e9-105">Manage Connectors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
-- [<span data-ttu-id="bf2e9-106">Mover 移行の実行</span><span class="sxs-lookup"><span data-stu-id="bf2e9-106">Running the Mover migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
+- [<span data-ttu-id="fbfc0-104">Mover を使用した移行を計画する</span><span class="sxs-lookup"><span data-stu-id="fbfc0-104">Plan your Migration with Mover</span></span>](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [<span data-ttu-id="fbfc0-105">コネクタの管理</span><span class="sxs-lookup"><span data-stu-id="fbfc0-105">Manage Connectors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [<span data-ttu-id="fbfc0-106">Mover 移行の実行</span><span class="sxs-lookup"><span data-stu-id="fbfc0-106">Running the Mover migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
