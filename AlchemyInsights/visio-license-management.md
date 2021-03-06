@@ -1,8 +1,8 @@
 ---
 title: Visio ライセンス管理
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: 870d25d054e4bba3641e27bed49c94c53220027c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726204"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468839"
 ---
 # <a name="visio-license-management"></a>Visio ライセンス管理
 
-Visioライセンス管理は **Microsoft 365 アドミンセンター**で行うことができます。
+Visioライセンス管理は **Microsoft 365 アドミンセンター** で行うことができます。
 
-- **プランを切り替える**方法については、「[一般法人向け Microsoft 365 のプランを手動で切り替える](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)」をご覧ください。
-- Visio を**購入**するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。 検索ボックスを使用して「Visio」で検索し、プランとユーザー数を選択します。 詳細については、「[購入サブスクリプション](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)」をご覧ください。
-- Visioライセンスを**割り当てる**には、**[課金] > [[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** を選択します。 詳細については、「[ライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)」をご覧ください。
-- ライセンスの**追加/削除**については、**[課金]>[[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。 詳細については、「[ライセンスの追加/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
-- Visioライセンスの**キャンセル**は、**[課金] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動し、**[設定/アクション]** を選択して、**[サブスクリプションのキャンセル]** をクリックします。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
-- Visio プラン1 と Visio プラン2 の違いの詳細については、「[Visio のオプションを比較する](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options)」を参照してください。
+- Visio プラン1 と Visio プラン2 の違いの詳細については、「[Visio のオプションを比較する](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1)」を参照してください。
+- **プラン変更** をするには、「[別のプランにアップグレードする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)」を参照してください。
+- Visio を **購入** するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。 検索ボックスを使用して「Visio」で検索し、プランとユーザー数を選択します。 詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)」をご覧ください。
+- Visioライセンスを **割り当てる** には、**[課金]、[[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** を選択します。 詳細については、[「ユーザーにライセンスを割り当てる」](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) をご覧ください。
+- Visio ライセンスを **購入または削除** するには、**[課金]、[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。 詳細については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+- Visio サブスクリプションを **キャンセル** するには、**[課金]、[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動し、Visio サブスクリプションを選択してから、**[サブスクリプションと支払い設定]** セクションで **[サブスクリプションをキャンセル]** 選択します。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
 
-詳細については、「[サブスクリプション ライセンスを管理する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+詳細については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

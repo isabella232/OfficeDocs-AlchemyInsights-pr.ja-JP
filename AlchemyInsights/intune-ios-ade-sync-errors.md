@@ -3,7 +3,7 @@ title: Apple デバイスの自動登録同期エラー
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: d7a9398046a1073e30fdbe2950f750bb55d4fa2f
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715069"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448927"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple デバイスの自動登録同期エラー
 
-「エラー状態にある 1 つまたは複数の ADE/DEP トークンがあることを検出しました。 影響を受ける各トークンについてエラーの状態が解決されるまで、ADE 機能は同様に使用できません。」
+「エラー状態にある 1 つまたは複数の ADE/DEP トークンがあることを検出しました。 影響を受ける各トークンについてエラーの状態が解決されるまで、ADE 機能は期待どおりに使用できません。」
 
 このエラーは、次のような場合に表示されることがあります。
 
@@ -29,6 +29,22 @@ ms.locfileid: "49715069"
 2. 登録プロファイルの割り当てが失敗した可能性がある
 3. デバイスが ADE 登録を正常に完了しないことがある
 
-**[デバイス]、 [デバイスの登録]、[ Apple の登録]、 [登録プログラムのトークン]** の順に Intune コンソールに報告された同期エラーがあるか確認して、可能性のある改善策を以下のドキュメントを参照し確認します。
+**[デバイス]、[デバイスの登録]、[Apple の登録]、[登録プログラムのトークン]** の順に Intune コンソールに報告された同期エラーがあるか確認します。
+
+同期エラーの最も一般的な原因の 1 つは、現在のトークンの有効期限です。 多くの場合、影響を受けるトークンを更新すると問題が解決します。
+
+1 つ以上のトークンの有効期限が切れている場合は、次のドキュメントを参照して必要に応じてトークンを更新します。
+
+[自動デバイス登録トークンを更新する](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+
+さらに、次のドキュメントを参照して、トークンの同期エラーの原因となる他のエラーの潜在的な修正を確認できます。
+
+[IOS/iPadOS および macOS の自動デバイスの登録トークンの ABM/ASM 同期エラー](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+
+
+
+
+
+
 
 [IOS/iPadOS および macOS の自動デバイスの登録トークンの ABM/ASM 同期エラー](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

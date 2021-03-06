@@ -1,8 +1,8 @@
 ---
 title: ユーザーに Power BI を割り当てる
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-ms.openlocfilehash: b12657bd21fbcd78010aba4647158e3bf54f66e8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715998"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469559"
 ---
 # <a name="assign-power-bi-to-users"></a>ユーザーに Power BI を割り当てる
 
-Power BI は、**Microsoft 365 管理センター**でユーザーに割り当てることができます。  
+Power BI は、**Microsoft 365 管理センター** でユーザーに割り当てることができます。  
 
 1. **[課金]、[[ライセンス](https://go.microsoft.com/fwlink/p/?linkid=842264)]** の順にアクセスします。
 2. ライセンスを割り当てる製品を選択します。
@@ -30,4 +31,4 @@ Power BI は、**Microsoft 365 管理センター**でユーザーに割り当�
 5. 割り当てまたは削除するには、[**アプリとサービスをオンまたはオフにする**] をクリックします。
 6. **[割り当て]**、**[閉じる]** の順にクリックします。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[サブスクリプションのライセンスの追加/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

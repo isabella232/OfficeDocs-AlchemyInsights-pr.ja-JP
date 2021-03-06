@@ -1,8 +1,8 @@
 ---
 title: 一般法人向けサブスクリプションについてよく寄せられる質問
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 4bcb865a0a54e8d9693314ae3bf14fe0d0ac27cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685171"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469055"
 ---
 # <a name="business-subscription-faq"></a>一般法人向けサブスクリプションについてよく寄せられる質問
 
 - 一般法人向け Microsoft 365 のオプションを確認するには、「[一般法人向けプランを比較する](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)」をご覧ください。 詳細については、営業担当者に電話 (1-855-270-0615) でお問い合わせください。
-- プランを**購入**するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** に移動します。 プランとユーザー数を選択します。 詳細については、「[購入サブスクリプション](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)」をご覧ください。
-- **プランを切り替える**方法については、「[一般法人向け Microsoft 365 のプランを手動で切り替える](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)」をご覧ください。
-- ライセンスを**ユーザーに割り当てる**には、**[課金] > [[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** に移動します。 詳細については、「[ライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)」をご覧ください。
-- **ライセンスを追加/削除**するには、**[課金] > [[製品/サービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動し、**[ライセンスの追加/削除]** を選択します。 詳細については、「[ライセンスの追加/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
-- ライセンスを**キャンセル**するには、**[課金] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** に移動し、**[設定/アクション]** を選択して、**[サブスクリプションのキャンセル]** をクリックします。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
-- サブスクリプションの**ライセンス認証を行う**する方法について、「[サブスクリプションのライセンス認証を行う](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)」をご覧ください。
-- **期限切れのサブスクリプションのライセンスを再度認証**する方法については、「[サブスクリプションのライセンスを再度認証する](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)」をご覧ください。
-- **試用期間を延長**する方法については、「[試用期間を延長する](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)」をご覧ください。
+- プランを **購入** するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** に移動します。 プランとユーザー数を選択します。 詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)」をご覧ください。
+- **プラン変更** をするには、「[別のプランにアップグレードする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)」を参照してください。
+- ライセンスをユーザーに **割り当てる** には、**[課金]、[[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** の順に移動します。 詳細については、[「ユーザーにライセンスを割り当てる」](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) をご覧ください。
+- ライセンスを **購入または削除** するには、**[課金]、[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。 詳細については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+- サブスクリプションを **キャンセル** するには、**[課金]、[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動し、サブスクリプションを選択してから、**[サブスクリプションと支払い設定]** セクションで **[サブスクリプションをキャンセル]** 選択します。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
+- サブスクリプションの **ライセンス認証を行う** する方法について、「[サブスクリプションのライセンス認証を行う](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)」をご覧ください。
+- サブスクリプションの **ライセンス認証を再度行う** には、「[サブスクリプションのライセンス認証を再度行う](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)」をご覧ください。
+- **試用期間を延長** する方法については、「[試用期間を延長する](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)」をご覧ください。
 
-詳細については、「[サブスクリプション ライセンスを管理する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+詳細については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

@@ -1,8 +1,8 @@
 ---
 title: プロジェクトをユーザーに割り当てる
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5103"
-ms.openlocfilehash: 3d5526bfb3da1237cf4ffcdde791a56b30bed5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 6c6baa48ffa0d429cd63fd21915da6cf3229aeca
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715890"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469523"
 ---
 # <a name="assign-project-to-users"></a>プロジェクトをユーザーに割り当てる
 
-プロジェクトは、**Microsoft 365 アドミンセンター**でユーザーに割り当てることができます。
+プロジェクトは、**Microsoft 365 アドミンセンター** でユーザーに割り当てることができます。
 
 1. **[課金]、[[ライセンス](https://go.microsoft.com/fwlink/p/?linkid=842264)]** の順にアクセスします。
 2. ライセンスを割り当てる製品を選択します。
@@ -30,4 +31,4 @@ ms.locfileid: "47715890"
 5. 割り当てまたは削除するには、[**アプリとサービスをオンまたはオフにする**] をクリックします。
 6. **[割り当て]**、**[閉じる]** の順にクリックします。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[サブスクリプションのライセンスの追加/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

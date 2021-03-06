@@ -12,14 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488922"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50470011"
 ---
 # <a name="suspend-or-pause-licenses"></a>ライセンスを停止、または一時停止する
+
+これを行う方法を示す **ビデオを見る**: [既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します
 
 ライセンス使用を一時的に停止、または一時停止するには、Microsoft 365 管理センター からライセンスを削除し、後で追加し直すことができます。
 
@@ -29,4 +32,4 @@ ms.locfileid: "48488922"
 4. [サブスクリプションの詳細] ページで、**[ライセンスの削除]** を選択します。
 5. **[ライセンスの削除]** ウィンドウで、**[ライセンスの総数]** ボックスにこのサブスクリプションに必要なライセンスの総数を入力し、それから **[保存]** を選択します。 たとえば、100 個のライセンスを持っていて、25 個を一時的に停止、または一時停止する場合は、サブスクリプションの合計ライセンス数として 75 を入力します。
 
-詳細については、「[サブスクリプション ライセンスを管理する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+詳細については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

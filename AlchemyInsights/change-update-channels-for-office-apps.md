@@ -4,7 +4,7 @@ ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 4239875c5d75b75787f9b93316f3153c94806b16
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949714"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448612"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Office アプリの更新プログラム チャネルを変更する
 
 管理ポータルを使用して Microsoft 365 アプリの更新プログラムチャネルを管理する場合は、Office アプリをインストールする前に、**Office インストール オプションを使用して、必要な更新プログラムチャネルを選択** します。 詳細については、「[Microsoft 365 管理センターで Office インストール オプションを 管理する](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)」を参照してください。
 
-**注:**[**Office のインストール オプション**] を使用して選択された更新プログラム チャネルは、新しいインストールを実行しているすべてのユーザーに適用されることに注意してください (場合によっては既存のインストールも)。 管理下のユーザーが機能の更新プログラムを取得する方法を管理するために、Office 展開ツール (ODT)、グループ ポリシー (GPO) や Microsoft エンドポイント構成マネージャー (MECM) などの他の方法を既に使用している場合、Microsoft 365 管理センターで選択した設定は適用されません。
+**注:**[**Office のインストール オプション**] を使用して選択された更新プログラム チャネルは、新しいインストールを実行しているすべてのユーザーに適用されることに注意してください (場合によっては既存のインストールも)。 管理下のユーザーが機能の更新プログラムを取得する方法を管理するために、グループ ポリシー (GPO) や Microsoft Endpoint Configuration Manager (MECM) を既に使用している場合、Microsoft 365 管理センターで選択した設定は適用されません。
 
 上記に記載されている他の管理オプションを使用して Microsoft 365 アプリの更新プログラム チャネルを管理している場合は、「[既存の Office アプリの更新プログラム チャネルを切り替える方法](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)」を参照してください。
 
