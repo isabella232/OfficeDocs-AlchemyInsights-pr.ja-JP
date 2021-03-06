@@ -1,8 +1,8 @@
 ---
 title: Microsoft 365 E1 サブスクリプションについてよく寄せられる質問
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002870"
 - "5407"
-ms.openlocfilehash: badab5aca2276d0542562c87740b40c5b98e0c3e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: ba8df2816f8e8a65be7af528a7e5b2e823312e04
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743542"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469681"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Microsoft 365 E1 サブスクリプションとライセンス管理についてよく寄せられる質問
 
 - Microsoft 365 E1、E3、E5 を比較するには、「[Office 365 Enterprise プランの比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)」をご覧ください。
-- E1 を**購入**するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。 検索ボックスを使用して「E1」で検索し、プランとユーザー数を選択します。 詳細については、「[購入サブスクリプション](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)」をご覧ください。
-- **プランを切り替える**方法については、「[一般法人向け Microsoft 365 のプランを手動で切り替える](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)」をご覧ください。
-- E1 ライセンスをユーザーに**割り当てる**には、**[課金] > [[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** の順に移動します。 詳細については、「[ライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)」をご覧ください。
-- E1 ライセンスを**追加/削除**するには、**[課金] > [[製品/サービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動し、**[ライセンスの追加/削除]** を選択します。 詳細については、「[ライセンスの追加/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。 
-- E1 ライセンスを**キャンセル**するには、**[課金] > [[製品/サービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動し、**[設定/アクション]** を選択して、**[サブスクリプションのキャンセル]** をクリックします。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
-- E1 サブスクリプションの**ライセンス認証を行う**には、「[サブスクリプションのライセンス認証を行う](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)」をご覧ください。
-- E1 サブスクリプションの**ライセンス認証を再度行う**には、「[サブスクリプションのライセンス認証を再度行う](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)」をご覧ください。
-- E1 の試用期間を延長するには、「[試用期間を延長する](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)」をご覧ください。
+- E1 を **購入** するには、**[課金] > [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。 検索ボックスを使用して「E1」で検索し、プランとユーザー数を選択します。 [別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)。
+- **プラン変更** をするには、「[別のプランにアップグレードする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)」を参照してください。
+- E1 ライセンスをユーザーに **割り当てる** には、**[課金] > [[ライセンス]](https://go.microsoft.com/fwlink/p/?linkid=842264)** の順に移動します。 詳細については、[「ユーザーにライセンスを割り当てる」](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) をご覧ください。
+- E1 ライセンスを **購入または削除** するには、**[課金] > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。 詳細については、「[ライセンスの購入/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+- E1 サブスクリプション **[キャンセル]** するには、**[課金] > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動し、サブスクリプションを選択してから、**[サブスクリプションと支払い設定]** セクションで **[サブスクリプションをキャンセル]** 選択します。 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」をご覧ください。
+- E1 サブスクリプションの **ライセンス認証を行う** には、「[サブスクリプションのライセンス認証を行う](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)」をご覧ください。
+- E1 サブスクリプションの **ライセンス認証を再度行う** には、「[サブスクリプションのライセンス認証を再度行う](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)」をご覧ください。
+- E1 の試用期間を **延長** するには、「[試用期間を延長する](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)」をご覧ください。
 
-詳細については、「[サブスクリプション ライセンスを管理する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+詳細については、「[ライセンスの購入/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
