@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004400"
+- "9004395"
 - "8265"
-ms.openlocfilehash: 7b6d614fddfcb5722e426b520f1c0d6c539c7f33
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+- "9276"
+ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
+ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50254941"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50696819"
 ---
 # <a name="replica-set"></a>レプリカ セット
 

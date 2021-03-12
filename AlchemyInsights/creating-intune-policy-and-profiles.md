@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746764"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704647"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Intune ポリシーおよびプロフィールの作成
 
@@ -43,4 +43,4 @@ Intune では、異なる使用目的のためにポリシーおよびプロフ�
 
 - [Microsoft Intune でのデバイス ポリシーとプロファイルの一般的な質問、問題と解決策](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Intune でのポリシーとプロファイルのトラブルシューティング](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intune でのポリシーとプロファイルのトラブルシューティング](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
