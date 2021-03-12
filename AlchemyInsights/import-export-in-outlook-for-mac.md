@@ -14,12 +14,12 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667919"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708103"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Outlook for Mac でのインポート/エクスポート 
 
@@ -37,4 +37,4 @@ ms.locfileid: "47667919"
 
 Outlook for Mac のインポートおよびエクスポートの詳細な手順については、「[Outlook のメール、連絡先、予定表をインポートおよびエクスポートする](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)」を参照してください。 
 
-Outlook for Mac の問題についてアプリ内でサポートを受けるには、Outlook を開いて **[ヘルプ]** > **[サポートに問い合わせる]** を選択します。 質問を入力すると、Outlook for Mac サポート チームのメンバーからの連絡があります。 [Outlook for Mac のサポート問い合わせ](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Outlook for Mac の問題についてアプリ内でサポートを受けるには、Outlook を開いて **[ヘルプ]** > **[サポートに問い合わせる]** を選択します。 質問を入力すると、Outlook for Mac サポート チームのメンバーからの連絡があります。 [Outlook for Mac のサポート問い合わせ](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

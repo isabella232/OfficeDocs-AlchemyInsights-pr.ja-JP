@@ -3,7 +3,7 @@ title: リンクおよび URL に関する問題
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975093"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707887"
 ---
 # <a name="issues-with-links-and-urls"></a>リンクおよび URL に関する問題
 
@@ -31,7 +31,7 @@ ms.locfileid: "49975093"
 
 開発中のアプリケーションでサインインするときに、サインイン ダイアログに **AADSTS50011 と表示される場合: 要求で指定された応答 URL がアプリケーション <your app ID>** に構成された応答 URL と一致しません。アプリケーション登録に、Microsoft ID プラットフォームへのトークン要求で使用したコードのリダイレクト URI を追加する必要があります。
 
-応答 URL を追加するには、Azure portal の **アプリケーション登録** ページの **[認証]** タブに移動し、**リダイレクト URI** セクションにエントリを追加します。 リダイレクト URI は入力されます (Web またはモバイル/デスクトップ)。 入力する必要がある値は、次に説明するように、作成するアプリケーションの種類によって異なります。
+応答 URL を追加するには、Azure portal の **アプリケーション登録** ページの **[認証]** タブに移動し、**リダイレクト URI** セクションにエントリを追加します。 入力する必要がある値は、次に説明するように、作成するアプリケーションの種類によって異なります。
 
 - シングルページ アプリケーションおよび Web アプリの場合、応答 URL はアプリケーション内の URL です。 「[シングルページのアプリケーション登録](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri)」または「[Azure portal を使用した Web アプリの登録](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)」を参照
 - デスクトップ アプリの場合、選択する必要がある値は次の条件によって異なります。

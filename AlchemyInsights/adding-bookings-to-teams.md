@@ -14,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697094"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707275"
 ---
 # <a name="adding-bookings-to-teams"></a>Teams に予約を追加する
 
 Microsoft Bookings は予約、スタッフ、顧客を追跡するのに役立つ予定スケジューリング アプリです。 管理者は、[Microsoft Teams でのアプリ セットアップ ポリシーの管理](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)により、ユーザーの Microsoft Teams アプリ バーにアプリとして予約を追加できます。
 
-Bookings アプリに関する情報やトラブルシューティングについては、「[Bookings に関する記事](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)」を参照してください。
+Bookings アプリに関する情報やトラブルシューティングについては、「[Bookings に関する記事](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq)」を参照してください。

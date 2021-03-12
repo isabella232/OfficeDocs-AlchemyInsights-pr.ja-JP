@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715170"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707239"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自動適用の機密度ラベル
 
@@ -37,4 +37,4 @@ Azure Information Protection 統合ラベル付けクライアントが不要に
 機密度ラベルの詳細とコンテンツへの自動適用の方法については、次を参照してください。
 
 - [機密ラベルの概要](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [機密ラベルをコンテンツに自動的に適用する](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [機密ラベルをコンテンツに自動的に適用する](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
