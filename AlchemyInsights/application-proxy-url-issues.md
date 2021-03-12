@@ -3,8 +3,8 @@ title: アプリケーション プロキシ URL の問題
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50036137"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641487"
 ---
 # <a name="application-proxy-url-issues"></a>アプリケーション プロキシ URL の問題
 
@@ -29,4 +31,9 @@ ms.locfileid: "50036137"
 - 「[Azure AD アプリケーション プロキシでカスタム ドメインを構成する](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)」- ユーザーの外部 URL を作成する方法に関する情報。
 
 - 「[Redirect hard-coded links for apps published with Azure AD Application ProxyAzure AD (アプリケーション プロキシを使用して公開されているアプリのハードコードされたリンクをリダイレクトする)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)」- インライン URL の翻訳に関する情報
+
+- 「[Set a custom home page for published apps by using Azure AD Application Proxy (Azure AD アプリケーション プロキシを使用して、公開済みアプリのカスタム ホーム ページを設定する)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - アプリケーション プロキシを使用してアプリを公開する場合、内部 URL を設定しますが、ユーザーに最初に表示されるページではない場合があります。 ユーザーがアプリにアクセスするときに適切なページにアクセスできるように、カスタム ホーム ページを設定します。 ユーザーには、Azure Active Directory マイ アプリ からアプリにアクセスするか、Microsoft 365 アプリ起動ツールからアプリにアクセスするかにかかわらず、設定したカスタム ホーム ページが表示されます。
+
+- アプリ プロキシ URL の構成について質問がある場合 「[Add an on-premise app to Azure AD (オンプレミス アプリを Azure AD に追加する)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad)」を参照してください。
+ 
 

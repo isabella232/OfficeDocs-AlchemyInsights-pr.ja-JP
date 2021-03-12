@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693416"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708787"
 ---
 # <a name="microsoft-365-for-education---approved"></a>教育機関向け Microsoft 365 - 承認済み
 
@@ -30,7 +30,7 @@ ms.locfileid: "47693416"
 
 3. 購入するサブスクリプションをポイントして、**[今すぐ購入]** をクリックします。
 
-4. [教育機関向け Microsoft 365 テナントをセットアップ](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)。
+4. [教育機関向け Microsoft 365 テナントをセットアップ](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)。
 
 **Teams を有効にする**
 

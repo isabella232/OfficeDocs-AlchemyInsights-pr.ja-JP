@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708544"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708427"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive または SharePoint で消失したまたは不明なファイルを探す
 
@@ -25,7 +25,7 @@ ms.locfileid: "47708544"
     
 - コンピューター上のファイルを同期している場合は、コンピューター上のごみ箱を確認します。 
     
-- 探しているアイテムが表示されず、最近削除されたばかりの場合は、サイト コレクションの管理者がサイト コレクションのごみ箱からそのアイテムを復元できる可能性があります。サイト コレクションの管理者は、「[サイト コレクションのごみ箱から、削除したアイテムを復元する](https://go.microsoft.com/fwlink/?linkid=866439)」を参照してください。
+- 探しているアイテムが表示されず、最近削除されたばかりの場合は、サイト コレクションの管理者がサイト コレクションのごみ箱からそのアイテムを復元できる可能性があります。サイト コレクションの管理者は、「[サイト コレクションのごみ箱から、削除したアイテムを復元する](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)」を参照してください。
     
 [OneDrive での削除したファイルおよびフォルダーの復元を支援する](https://go.microsoft.com/fwlink/?linkid=872872)
   

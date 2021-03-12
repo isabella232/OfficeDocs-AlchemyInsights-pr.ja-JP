@@ -13,12 +13,12 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 15b843bdf4a2152c2ddd5d25b623d36734bdf4a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e375d1ae3f6bfa56c4c050a296a0ae9b0ce05f9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665219"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708607"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intune の登録オプションに関する問題のトラブルシューティング
 
@@ -28,6 +28,6 @@ ms.locfileid: "47665219"
 
 - [Intune トラブルシューティング ポータル](https://aka.ms/intunetroubleshooting)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。
 
-- 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)を参照してください。
+- 登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)を参照してください。
 
 - [Microsoft Intune の登録オプションの説明](https://docs.microsoft.com/intune/enrollment-options)。

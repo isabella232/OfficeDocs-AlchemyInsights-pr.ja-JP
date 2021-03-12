@@ -15,28 +15,21 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 87a5cf1ac4dfb96a5406f6b1431adb6ead074fd6
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: HT
+ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
+ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50484072"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726532"
 ---
 # <a name="about-exchange-server-security-updates"></a>Exchange Server のセキュリティ更新プログラムについて
 
 マイクロソフトは、オンプレミスの Exchange Server 用の一連の重要なセキュリティ更新プログラムをリリースしました。 影響を受けるサーバーのバージョンは、Exchange Server 2010、2013、2016、および 2019 の更新レベルです。 Exchange Online は影響を受けませんが、ハイブリッド構成のためにオンプレミスの Exchange サーバーがある場合、それらは潜在的に脆弱です。
 
-オンプレミス サーバーを更新するには、少なくとも次のバージョンの Exchange を実行している必要があります。
-
-- Exchange 2010 Service Pack 3
-- Exchange Server 2013 CU 23
-- Exchange Server 2016 CU 19 または CU 18
-- Exchange Server 2019 CU 8 または CU 7
-
 修正の場所については、次の発表を参照してください。[リリース: 2021 年 3 月 Exchange Server セキュリティ アップデート](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
 
 **重要な注意点:**
 
-上記のリストのように、オンプレミス サーバーで必要な Exchange バージョンが実行されていない場合、更新プログラムのインストールは機能しません。
-
 アップデートを手動でインストールする場合、重要な情報については、アップデート KB の記事の「既知の問題」セクションをお読みください。 セキュリティ更新プログラムは、昇格した CMD/PowerShell プロンプトから実行する必要があります。
+
+更新のトラブルシューティング情報については、 [こちらを参照してください](https://aka.ms/exupdatefaq)。

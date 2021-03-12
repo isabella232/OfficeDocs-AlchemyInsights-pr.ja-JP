@@ -13,12 +13,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674115"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709435"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>無料の Minecraft Edition と Office 365 Education
 
@@ -30,7 +30,7 @@ ms.locfileid: "47674115"
 
   - 学校が Azure AD テナントを所有していない場合は、**Minecraft: Education Edition** を入手するプロセスの一環として、[IT 管理者はテナントを設定することができます](https://docs.microsoft.com/education/windows/school-get-minecraft)。
 
-  - 教師と学生は、オンライン バージョンの Microsoft 365 アプリと 1 TB のオンライン ストレージを含む、Office 365 Education を無料で利用できます。[Office 365 Education に自分の学校をサインアップします](https://products.office.com/academic/office-365-education-plan)。
+  - 教師と学生は、オンライン バージョンの Microsoft 365 アプリと 1 TB のオンライン ストレージを含む、Office 365 Education を無料で利用できます。[Office 365 Education に自分の学校をサインアップします](https://www.microsoft.com/education/products/office)。
 
   - 学校で Office 365 Education サブスクリプションを利用している場合は、無料の Azure AD サブスクリプションが含まれています。[無料の Azure AD サブスクリプションを登録します](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)。
 

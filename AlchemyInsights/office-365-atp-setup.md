@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801080"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708643"
 ---
 # <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender for Office 365 (ATP)
 
@@ -26,5 +26,5 @@ ATP は、Office 365 Enterprise E5、Office 365 Education A5、およびMicrosof
 
 ## <a name="set-up-office-365-atp"></a>Office 365 の ATP を設定します。
 
-ATP 保護を有効にするには、ポリシーを設定する必要があります。 「[クイック スタート ガイド: Microsoft Defender for Office 365 のセットアップ](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup)」を参照してください。
+ATP 保護を有効にするには、ポリシーを設定する必要があります。 「[クイック スタート ガイド: Microsoft Defender for Office 365 のセットアップ](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。
 

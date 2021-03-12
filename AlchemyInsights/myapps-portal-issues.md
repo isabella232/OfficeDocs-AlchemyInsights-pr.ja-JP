@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917281"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708571"
 ---
 # <a name="myapps-portal-issues"></a>MyApp ポータルに関する問題
 
@@ -28,9 +28,9 @@ My Apps ポータルにサインインするとき、または My Apps ポータ
 
 予期するアプリケーションがアプリケーション アクセス パネルに表示されない理由については、以下を参照してください。
 
-- [割り当てたアプリケーションがアクセス パネルに表示されない理由がわかりません](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [割り当てたアプリケーションがアクセス パネルに表示されない理由がわかりません](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [アプリケーションがアクセス パネルに表示される理由がわかりません](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [アプリケーションがアクセス パネルに表示される理由がわかりません](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **アプリケーション アクセス パネルへのサインインに問題が発生しました**
 

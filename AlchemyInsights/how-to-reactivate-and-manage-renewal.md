@@ -14,23 +14,23 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 9d5a05387a686b4e49c9ca14c7f5c6a76913fd23
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307059"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709147"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>サブスクリプションを再アクティブ化し、継続請求を管理する方法
 
-期限切れのサブスクリプションがあるようです。サブスクリプションを再アクティブ化する手順を次に示します。
+期限切れのサブスクリプションがあるようです。 再アクティブ化する場合は、次の方法を実行します。
   
 1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 2. **[製品]** タブで、再アクティブにするサブスクリプションを見つけます。 **その他の操作** (3 つのドット) を選択してから、**[このサブスクリプションを再アクティブ化する]** を選択します。
 3. **[このサブスクリプションを再アクティブ化する]** ウィンドウで、ドロップダウン リストから支払い方法を選択するか、**[支払い方法を追加する]** を選択します。
 4. **[保存]** を選択します。
 
-詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
 
 月次請求または年次請求を管理する場合は、**[継続請求]** の有効/無効を切り替えます。
   
