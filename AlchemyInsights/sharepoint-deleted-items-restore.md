@@ -13,18 +13,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700748"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708283"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>SharePoint から削除したアイテムを回復する
 
 SharePoint からアイテムまたはサイトを削除した時点で、それらがすぐに消去されることはありません。 削除したアイテムは、一定の期間 [ごみ箱] に移動されます。 その間は、削除したアイテムを元の場所に復元できます。 詳細については、次のリンク先を参照してください。
 
-- [SharePoint サイトのごみ箱のアイテムを復元する](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [SharePoint サイトのごみ箱のアイテムを復元する](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 - [OneDrive で削除したファイルまたはフォルダーを復元する](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

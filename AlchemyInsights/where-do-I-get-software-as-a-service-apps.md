@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 0018788b28f201bcd050a14ae45c962c1cbf5a5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20914f85e964d5aea0409e70e12fe29416664787
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719166"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708175"
 ---
 # <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Microsoft パートナーからの Saas (サービスとしてのソフトウェア) アプリはどこで入手できますか?
 
-[AppSource](https://www.appsource.com/) から SaaS アプリを検索、リサーチ、購入できます。
+[AppSource](https://appsource.microsoft.com) から SaaS アプリを検索、リサーチ、購入できます。
