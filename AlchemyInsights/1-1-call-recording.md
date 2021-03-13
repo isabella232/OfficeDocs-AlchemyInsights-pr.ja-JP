@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722216"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733854"
 ---
 # <a name="11-call-recording"></a>1 対 1 通話のレコーディング
 
-Teams での 1 対 1 通話のレコーディング ポリシーの変更が間もなく公開されます。 詳細については、次のメッセージ センターの投稿をご覧ください。
+管理者は、ユーザーが 1 対 1 通話を録音できるようにするため、今すぐアクションを実行する必要があります。
+ 
+2021 年 4 月 12 日から、新しい Teams 通話ポリシー オプション *AllowCloudRecordingForCalls* の適用を開始します。 
 
-「[1:1 Call Recording Policy Introduction](https://admin.microsoft.com/AdminPortal/Home) (1 対 1 通話のレコーディング ポリシーの概要)」
+現在、1 対 1 通話のレコーディング機能は、Teams 会議ポリシーの *AllowCloudRecording* オプションによって制御されています。 ユーザーが Teams 会議の録音を許可されている場合は、1 対 1 通話を録音することもできます。
+
+すべてのユーザーに 1 対 1 通話の録音を禁止する場合は、何もする必要はありません。 *AllowCloudRecordingForCalls* 通話ポリシー オプションは、既定で $False になります。
+
+この変更は、次のメッセージ センターの投稿に記載されています: [(更新) 1 対 1 通話のレコーディング ポリシーの概要](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Teams 通話ポリシー オプションを設定するには、[Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) を使用する必要があります。
+
+**1 対 1 通話で通話レコーディングを有効にするには:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**1 対 1 通話で通話レコーディングを無効にするには:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+
