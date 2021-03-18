@@ -2,9 +2,9 @@
 title: Microsoft 365 サブスクリプションをキャンセルしますか?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757233"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837423"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションをキャンセルしますか?
 
-残念なことですが、ここでは、サブスクリプションをキャンセルするためのオプションを紹介します。
-  
-- **組織のデータに基づくと、現在のサブスクリプションはすべて試用版サブスクリプションであると思われます。試用版サブスクリプションの場合、支払の必要がなく、試用後に何の義務もないため、明示的にキャンセルする必要がありません。**
+ご満足いただけず申し訳ございません。こちらでは、サブスクリプションをキャンセルする手順についてご紹介しています。
 
-- サブスクリプションのキャンセルに関する詳細または詳しい手順については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」の記事を参照してください。
+1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動し、**[製品]** タブを選択します。
+2. キャンセルするサブスクリプションを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションのキャンセル]** を選択します。
+3. **[サブスクリプションのキャンセル]** ウィンドウで、キャンセルする理由を選択します。 必要に応じて、フィードバックを提供します。
+4. **[保存]** を選択します。
+
+サブスクリプションのキャンセルに関する詳細またはオプションについては、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」の記事を参照してください。
