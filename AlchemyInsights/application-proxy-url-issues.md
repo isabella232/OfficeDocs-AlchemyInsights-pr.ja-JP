@@ -32,7 +32,7 @@ ms.locfileid: "50641487"
 
 - 「[Redirect hard-coded links for apps published with Azure AD Application ProxyAzure AD (アプリケーション プロキシを使用して公開されているアプリのハードコードされたリンクをリダイレクトする)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)」- インライン URL の翻訳に関する情報
 
-- 「[Set a custom home page for published apps by using Azure AD Application Proxy (Azure AD アプリケーション プロキシを使用して、公開済みアプリのカスタム ホーム ページを設定する)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - アプリケーション プロキシを使用してアプリを公開する場合、内部 URL を設定しますが、ユーザーに最初に表示されるページではない場合があります。 ユーザーがアプリにアクセスするときに適切なページにアクセスできるように、カスタム ホーム ページを設定します。 ユーザーには、Azure Active Directory マイ アプリ からアプリにアクセスするか、Microsoft 365 アプリ起動ツールからアプリにアクセスするかにかかわらず、設定したカスタム ホーム ページが表示されます。
+- 「[Azure AD アプリケーション プロキシを使用して、発行されたアプリのカスタム ホーム ページを設定する](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal)」- アプリケーション プロキシを使用してアプリを発行する場合、内部 URL を設定しますが、それが、最初にユーザーに対して表示すべきページでない場合があります。 ユーザーがアプリにアクセスしたときに適切なページが表示されるように、カスタム ホーム ページを設定します。 ユーザーには、Azure Active Directory マイ アプリ からアプリにアクセスするか、Microsoft 365 アプリ起動ツールからアプリにアクセスするかにかかわらず、設定したカスタム ホーム ページが表示されます。
 
 - アプリ プロキシ URL の構成について質問がある場合 「[Add an on-premise app to Azure AD (オンプレミス アプリを Azure AD に追加する)](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad)」を参照してください。
  

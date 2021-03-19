@@ -23,9 +23,9 @@ ms.locfileid: "50696549"
 
 アプリを管理するには:
 
-- まず、Microsoft Teams 管理センターの[Manage apps （アプリの管理）](https://admin.teams.microsoft.com/policies/manage-apps)から始めて、組織のアプリを追加します。
-- Microsoft Teams 管理センター [app permission policies (アプリのアクセス許可ポリシー)](https://admin.teams.microsoft.com/policies/app-permission) を使用して、アプリを許可またはブロックし、ユーザーに割り当てすることができます。
-- アプリがユーザーに表示される順序を変更したり、アプリをピン留めしたりするには、Microsoft Teams 管理センターで [app setup policies (アプリ セットアップ ポリシー)](https://admin.teams.microsoft.com/policies/app-setup) を使用します。
+- Microsoft Teams 管理センターの [[アプリの管理]](https://admin.teams.microsoft.com/policies/manage-apps) から、組織のアプリを追加することができます。
+- Microsoft Teams 管理センターで、[アプリのアクセス許可ポリシー](https://admin.teams.microsoft.com/policies/app-permission)を使用してアプリを許可またはブロックし、ユーザーに割り当てることができます。
+- アプリをユーザーに表示する順序を変更したり、アプリをピン留めしたりするには、Microsoft Teams 管理センターで[アプリのセットアップ ポリシー](https://admin.teams.microsoft.com/policies/app-setup) を使用します。
 
 組織のアプリ ポリシーの作成については、以下を参照してください。
 

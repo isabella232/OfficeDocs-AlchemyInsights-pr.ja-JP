@@ -30,9 +30,9 @@ ms.locfileid: "50641523"
 
 2. **[ライセンスとアプリ]** タブで、Exchange Online ライセンスを割り当て、**[変更の保存]** を選択します。
 
-共有メールボックスまたは削除されたユーザーを復元しようとしている場合も、復元可能な期間は 30 日間です。 **ユーザー** \> **削除されたユーザー** で確認できます; 共有メールボックスにライセンスは必要ありません。 「[Restore a user (ユーザー アカウント復元する方法)](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)」を参照してください。
+削除された共有メールボックスまたはユーザーを復元しようとしている場合も、復元可能な期間は 30 日間です。 **[ユーザー]** \> **[削除済みのユーザー]** の順に選択して確認できます。共有メールボックスにライセンスは必要ありません。 「[ユーザーを復元する](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)」を参照してください。
 
-ユーザーのメールボックスからのメールを復元するには、管理者が [ new Exchange Admin Center (新しい Exchange 管理センター) ](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)に移動して行うことができます。
+ユーザーのメールボックスからのメールの復元は、管理者が[新しい Exchange 管理センター](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)に移動することにより行うことができます。
 
-最後に、非アクティブなメールボックスを復元する場合は、 [こちらの手順に従ってください](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)。
+最後に、非アクティブなメールボックスを復元する場合は、[こちらの手順に従ってください](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)。
   
