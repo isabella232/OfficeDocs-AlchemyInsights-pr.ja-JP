@@ -1,5 +1,5 @@
 ---
-title: マシンのオンボードの問題
+title: Microsoft Defender for Endpoints へのマシンのオンボードに関する問題
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676887"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901572"
 ---
-# <a name="issues-with-onboarding-machines"></a>マシンのオンボードの問題
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Microsoft Defender for Endpoints へのマシンのオンボードに関する問題
 
-MDATP サービスへのマシンのオンボードに問題がある可能性があります。 エンド ユーザーのマシンにアクセスできる場合は、次の手順を実行します。
+MDE サービスへのマシンのオンボードに問題がある可能性があります。 エンド ユーザーのマシンにアクセスできる場合は、次の手順を実行します。
 
-1. [クライアント接続アナライザー](https://aka.ms/mdatpanalyzer)の診断ツールをダウンロードします。
-2. 展開し、MDATPAnalyzer.cmd を実行します。
-3. MDATPClientAnalyzerResult というフォルダーにある診断ログを見つけます。これは、アナライザー ツールがダウンロードされたフォルダーと同じです。
-4. ログ ファイル (MDATPClientAnalyzer.txt) を確認して、接続またはインターネット プロキシ設定の問題を見つけます。
+1. [MDE クライアント アナライザー](https://aka.ms/betamdeanalyzer)診断ツールの最新のプレビュー バージョンをダウンロードします。
+2. **MDEClientAnalyzer.cmd** を右クリックし、[管理者として実行] を選択します。
+3. **MDEClientAnalyzer.htm** で提案されているガイダンスに従ってください。
+4. より詳細なログについては、**MDEClientAnalyzerResult** という名前の作成されたサブフォルダーを確認してください。
+5. 追加のガイダンスが必要な場合は、[Microsoft Defender for Endpoint のサポート](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support)に連絡し、分析のために結果の MDEClientAnalyzerResult.zip ファイルを提供してください。
