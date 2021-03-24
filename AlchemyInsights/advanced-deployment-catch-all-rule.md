@@ -13,19 +13,19 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 305fe22b71e0f0aa149837a7b3da0e8283603bb2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901536"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122992"
 ---
 # <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Microsoft 365 Apps 展開アドバイザーで Office をインストール
 
-[Microsoft 365 Apps 展開アドバイザー](https://admin.microsoft.com/adminportal/home) を利用すると、Word、Excel、PowerPoint、OneNote などの Office 製品の最新バージョンをユーザーのデバイスで実行することができます。
-
+[Microsoft 365 Apps 展開アドバイザー](https://go.microsoft.com/fwlink/?linkid=2145748) を利用すると、Word、Excel、PowerPoint、OneNote などの Office 製品の最新バージョンをユーザーのデバイスで実行することができます。
+  
 簡単なセルフ インストールや管理ツールを使用したエンタープライズ展開など、さまざまな展開方法に関するガイダンスが提供されます。 この手順ではユーザーの環境評価、特定の展開要件の把握、必要なサポート ツールの実装を行うことができ、インストールを正常に完了できます。
-
+  
 Microsoft 365 のセットアップ、および Microsoft 365 および Office 365 サービス用の環境の準備については、以下を参照してください。
 
 - [環境を準備するガイド](https://go.microsoft.com/fwlink/?linkid=2005213)
