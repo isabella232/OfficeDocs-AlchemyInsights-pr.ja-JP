@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49680449"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398734"
 ---
 # <a name="sign-in-to-microsoft-edge-automatically"></a>自動で Microsoft Edge にサインインする
 
-Microsoft Edge は、OS の既定のアカウントを使用して、ユーザーのデバイス構成に従ってユーザーを自動的にサインインします。 
+Microsoft Edge は、OS の既定のアカウントを使用し、ユーザーのデバイス構成に従ってユーザーを自動的にサインインさせます。 
 
 次に、各種類のデバイス構成とそれに依存するユーザー サインイン プロセスのシナリオを以下に説明します。
 
-1. **デバイスがハイブリッド/AAD-J の場合**: このオプションは、Windows 10、下位レベルの Windows、および対応するサーバー バージョンで使用できます。 ユーザーは、Azure Active Directory (AD) アカウントで自動的にサインインします。
-2. **デバイスがドメインに参加している場合**: このオプションは、Windows 10、下位レベルの Windows、および対応するサーバー バージョンで使用できます。 既定では、ドメイン アカウントを持つユーザーは自動的にサインインされません。ユーザーの自動サインインを有効にするには、**ConfigureOnPremisesAccountAutoSignIn** ポリシーを使用します。 Azure AD アカウントを持つユーザーの自動サインインを有効にするには、そのユーザーのデバイスにハイブリッド加入することを検討します。
-3. **OS の既定のアカウントが Microsoft アカウントである場合**: このオプションは、Windows 10 RS3 (バージョン 1709、ビルド 10.0.16299) 以降のバージョンで使用できます。 このシナリオは、エンタープライズ デバイスではほとんど発生しません。 ただし、OS の既定のアカウントが Microsoft アカウントの場合、Microsoft Edge は自動的に Microsoft アカウントでユーザーをサインインします。
+- **デバイスがハイブリッド/AAD-J の場合**: このオプションは、Windows 10、下位レベルの Windows、および対応するサーバー バージョンで使用できます。 ユーザーは、Azure Active Directory (AD) アカウントで自動的にサインインします。
+- **デバイスがドメインに参加している場合**: このオプションは、Windows 10、下位レベルの Windows、および対応するサーバー バージョンで使用できます。 既定では、ドメイン アカウントを持つユーザーは自動的にサインインされません。ユーザーの自動サインインを有効にするには、**ConfigureOnPremisesAccountAutoSignIn** ポリシーを使用します。 Azure AD アカウントを持つユーザーの自動サインインを有効にするには、そのユーザーのデバイスにハイブリッド加入することを検討します。
+- **OS の既定のアカウントが Microsoft アカウントである場合**: このオプションは、Windows 10 RS3 (バージョン 1709、ビルド 10.0.16299) 以降のバージョンで使用できます。 このシナリオは、エンタープライズ デバイスではほとんど発生しません。 ただし、OS の既定のアカウントが Microsoft アカウントである場合、Microsoft Edge は自動的に Microsoft アカウントを使用してユーザーをサインインさせます。
  
  
