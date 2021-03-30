@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7096"
-ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8365"
+ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680531"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401768"
 ---
 # <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Microsoft Intune を使用して Windows 10 の Microsoft Edge ポリシー設定を構成する
 

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794772"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403748"
 ---
 # <a name="workflow-is-not-starting"></a>ワークフローが開始されない
 
 - SharePoint 2010 および SharePoint 2013 のワークフローが開始されない。
 
-    - ワークフローが開始されない場合は、サービスに一時的な問題が発生している可能性があります。この問題が発生すると、ワークフローの進行で断続的な遅延が発生します。 [サービスの正常性ダッシュボード](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。
+    - ワークフローが開始されない場合は、サービスに一時的な問題が発生している可能性があります。この問題が発生すると、ワークフローの進行で断続的な遅延が発生します。 [サービスの正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。
 
     - この問題が発生してから 24 時間以上経過した場合は、サポート チケットを記録してください。 多くの場合、すでに解決策に取り組んでいます。 解決策を完成させるために少なくとも 24 時間を与えてください。
 
@@ -47,5 +47,3 @@ ms.locfileid: "47794772"
 SharePoint Online で Microsoft Flow を試す方法。
 - [フローを作成する](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint and Flow (SharePoint と Flow)](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
