@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823248"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401948"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="5bd8f-102">Microsoft To Do をダウンロードしてインストールする方法</span><span class="sxs-lookup"><span data-stu-id="5bd8f-102">How to download and install Microsoft To Do</span></span>
+# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="b9ceb-102">Microsoft To Do をダウンロードしてインストールする方法</span><span class="sxs-lookup"><span data-stu-id="b9ceb-102">How to download and install Microsoft To Do</span></span>
 
-<span data-ttu-id="5bd8f-103">Win32、iOS、Android、Mac 用アプリの Microsoft To Do アプリは、適切なストアからダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="5bd8f-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
+<span data-ttu-id="b9ceb-103">Win32、iOS、Android、Mac 用アプリの Microsoft To Do アプリは、適切なストアからダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="b9ceb-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
 
-<span data-ttu-id="5bd8f-104">テナントの Microsoft Store アクセスが制限されている場合は、次の「[https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/ja-JP/microsoft-store/distribute-offline-apps)オフライン インストーラー」を参照してください</span><span class="sxs-lookup"><span data-stu-id="5bd8f-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/ja-JP/microsoft-store/distribute-offline-apps) for offline installer</span></span>
+<span data-ttu-id="b9ceb-104">テナントの Microsoft Store アクセスが制限されている場合は、次の「[https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps)オフライン インストーラー」を参照してください</span><span class="sxs-lookup"><span data-stu-id="b9ceb-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) for offline installer</span></span>
 
-<span data-ttu-id="5bd8f-105">**職場** のアカウントを使用して Microsoft Store からアプリをダウンロードするには、アプリを会社の **プライベート ストアに発行する必要があります。**</span><span class="sxs-lookup"><span data-stu-id="5bd8f-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="5bd8f-106">詳細については、[https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)を参照してください</span><span class="sxs-lookup"><span data-stu-id="5bd8f-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
+<span data-ttu-id="b9ceb-105">**職場** のアカウントを使用して Microsoft Store からアプリをダウンロードするには、アプリを会社の **プライベート ストアに発行する必要があります。**</span><span class="sxs-lookup"><span data-stu-id="b9ceb-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="b9ceb-106">詳細については、[https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)を参照してください</span><span class="sxs-lookup"><span data-stu-id="b9ceb-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
