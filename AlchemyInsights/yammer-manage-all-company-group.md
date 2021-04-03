@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688843"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505433"
 ---
 # <a name="all-company-group"></a>会社全体グループ
 
-[**会社全体**] グループは、Yammer ネットワークの作成時に自動的に作成されます。 これは、名前の変更も削除もできない既定のシステム グループです。 [**会社全体**] グループへの投稿はだれでも行えますが、グループにアナウンスを投稿できるのは、Yammer ネットワーク管理者だけです。 [**会社全体**] グループでのエンゲージメントに関する情報を表示するには、[**グループの分析**] を使用します。
+会社全体のコミュニティでは、Yammer の他のコミュニティと同様の機能をサポートしています。 カバー写真や名前付けなどのオプションが含まれます。 Yammer の会社全体の投稿を制限することもできます。 詳細については、 [「会社全体は Yammer の他のコミュニティと同様に動作する」](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)をご参照ください。
 
-詳細については、「[Yammer でグループを管理する](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)」を参照してください。
+## <a name="common-issues-and-solutions"></a>共通の問題と解決策
+
+- 会社全体のカスタマイズまたは投稿の制限は、ネットワーク管理者には利用できません。 サービス リクエストを開き、モダンな "会社全体"グループを有効にします。
+
+- コミュニティ インサイトでは、昔のデータは表示しません。 会社全体が現実のコミュニティになったので、ネットワークの以前のデータは表示されません。
+
+- 会社全体は削除されているようです。 コミュニティが Microsoft 365 グループに接続されている場合、そのグループは削除することができます。 テナントで Microsoft 365 グループを復元する必要があります。
+
