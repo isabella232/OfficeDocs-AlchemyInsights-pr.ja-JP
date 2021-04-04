@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685891"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505073"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker 回復キーにアクセスする
 
@@ -46,5 +46,6 @@ All Key Protectors
 Intune に登録する前にデバイスが暗号化されていた場合は、OOBE プロセス中にデバイスにサインインするために使用される「Microsoftアカウント」 (MSA) に回復キーが関連付けられている可能性があります。 この場合、https://onedrive.live.com/recoverykey にアクセスしてその MSA でサインインすると、回復キーが保存されたデバイスが表示されます。
  
 デバイスがドメインベースのグループ ポリシーによる構成の結果として暗号化された場合、回復情報はオンプレミス Active Directory に保存されます。
- 
+
+回復キーを Azure Active Directory に格納するようにエンドポイント保護ポリシーを構成したが、特定のデバイスのキーがアップロードされていない場合は、MEM コンソールからそのデバイスの回復キーをローテーションすることでアップロードをトリガーできます。 詳細については、「[BitLocker 回復キーのローテーション](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)」を参照してください。
 
