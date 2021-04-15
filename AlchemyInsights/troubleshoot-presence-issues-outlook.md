@@ -1,0 +1,13 @@
+---
+<span data-ttu-id="03e8c-101">title: "Outlook でのプレゼンスの問題のトラブルシューティング" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span><span class="sxs-lookup"><span data-stu-id="03e8c-101">title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span></span>
+- <span data-ttu-id="03e8c-102">9257</span><span class="sxs-lookup"><span data-stu-id="03e8c-102">9257</span></span>
+- <span data-ttu-id="03e8c-103">9003349</span><span class="sxs-lookup"><span data-stu-id="03e8c-103">9003349</span></span>
+---
+
+# <a name="troubleshoot-presence-issues-in-outlook"></a><span data-ttu-id="03e8c-104">Outlook でのプレゼンスの問題のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="03e8c-104">Troubleshoot presence issues in Outlook</span></span>
+
+<span data-ttu-id="03e8c-105">Outlook でユーザーのプレゼンス ステータスの問題を診断して修正するには、[[Microsoft サポート/回復アシスタント] > [Teams Presence シナリオ]](https://aka.ms/SaRA-TeamsPresenceScenario) をダウンロードして実行します。</span><span class="sxs-lookup"><span data-stu-id="03e8c-105">To diagnose and correct issues with the presence status for a user in Outlook, download and run Microsoft Support and Recovery Assistant > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).</span></span>
+
+<span data-ttu-id="03e8c-106">Outlook でのプレゼンスに関する問題を手動でトラブルシューティングするには、「[Outlook でのユーザー プレゼンス ステータスの問題](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)」の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="03e8c-106">To manually troubleshoot an issue with presence in Outlook, follow the steps in [User presence status issues in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span></span>
+
+<span data-ttu-id="03e8c-107">Teams でプレゼンス ステータスが更新されていない場合は、「[実際のプレゼンス ステータスが Teams に反映されていません](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="03e8c-107">If the presence status is not updating in Teams, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span></span>
