@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737022"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692399"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>教育機関のお客様向け Teams の一般的な問題
 
@@ -39,14 +39,14 @@ ms.locfileid: "47737022"
 
 - **Teams の会議とダイヤルイン**: Microsoft Teams での電話会議の有効化またはセットアップに関してサポートが必要ですか? このユーザーを最近作成しましたか? そうであれば、設定が有効になるまで、2 から 24 時間待つ必要があります。 そのユーザーに電話会議のライセンスが与えられ、既定の有料電話番号があることを確認するには、次のようにします:
     1. アクティブなユーザーに移動し、該当するユーザーを選択します。
-    2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス**の **[編集]** をクリックします。
+    2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス** の **[編集]** をクリックします。
     3. ユーザーに、電話会議、Microsoft Teams、および Skype for Business Online (プラン 2) 用に選択したライセンスがあることを確認します。
     4. ユーザー管理センターで、**[すべて表示]**、**[Teams]** の順にクリックします。
     5. Microsoft Teams 管理センターで、**[従来のポータル]** をクリックします。
     6. Skype for Business 管理センターで、**[電話会議]**、**[ユーザー]** の順にクリックします。
     7. 該当するユーザーを選択し、そのユーザーに既定の有料電話番号があることを確認します。
 
-    詳細については、「[通話プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問について Microsoft コマース課金チームにお問い合わせください。
+    詳細については、「[Microsoft Teams Calling プラン](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)」を参照するか、ライセンス関連の質問について Microsoft コマース課金チームにお問い合わせください。
 
     その他のリソース
 
