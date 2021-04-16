@@ -2,7 +2,7 @@
 title: Outlook の Android の連絡先との同期の仕組みについて。
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781360"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810921"
 ---
 # <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook の Android の連絡先との同期の仕組みについて。
 

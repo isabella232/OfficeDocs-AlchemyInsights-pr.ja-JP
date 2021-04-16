@@ -2,7 +2,7 @@
 title: 削除されたパブリック フォルダーを復元する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774536"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809444"
 ---
 # <a name="restore-a-deleted-public-folder"></a>削除されたパブリック フォルダーを復元する
 
