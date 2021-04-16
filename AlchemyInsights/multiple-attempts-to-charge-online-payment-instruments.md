@@ -2,7 +2,7 @@
 title: オンラインでのお支払い方法に対する複数回の請求
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724656"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792713"
 ---
 # <a name="past-due-account"></a>期限を過ぎたアカウントの場合
 
-クレジット カードの有効期限が切れている場合など、いくつかの理由で支払いが拒否される可能性があります。 **残高の決済**機能を使用して、いつでもクレジット カード情報を変更し、支払いについてすぐに再送信できます。
+クレジット カードの有効期限が切れている場合など、いくつかの理由で支払いが拒否される可能性があります。 **残高の決済** 機能を使用して、いつでもクレジット カード情報を変更し、支払いについてすぐに再送信できます。
 
 1. 管理センターで、**[課金情報] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。
 未払い残高のあるサブスクリプションを見つけます。 **[課金情報]** セクションで、**[サブスクリプションに期日を過ぎた支払いがあります]** の横にある **[残高の決済]** をクリックして、未払い残高をすべて支払います。
