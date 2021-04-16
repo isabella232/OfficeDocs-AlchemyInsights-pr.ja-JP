@@ -2,7 +2,7 @@
 title: 差し込み印刷を準備する方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: cdb839c13edac4df1da3208930dd6c8f6814897c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19d30daac8fa39811d65c7b0f3b9f0951907c78d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803513"
 ---
 # <a name="how-to-prepare-a-mail-merge"></a>差し込み印刷を準備する方法
 
