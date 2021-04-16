@@ -2,7 +2,7 @@
 title: Outlook の連絡先をアドレス帳に同期する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737382"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797546"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook の連絡先をアドレス帳に同期する
 

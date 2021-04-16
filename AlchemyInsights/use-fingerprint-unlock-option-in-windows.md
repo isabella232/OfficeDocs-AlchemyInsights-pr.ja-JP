@@ -2,7 +2,7 @@
 title: Windows 10 で指紋ロック解除オプションを使う
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795249"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796682"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Windows 10 で指紋ロック解除オプションを使う
 
@@ -25,7 +25,7 @@ ms.locfileid: "47795249"
 
 指紋を使用して Windows 10 のロックを解除するには、Windows Hello 指紋認証を設定する必要があります。これには少なくとも 1 本の指を追加 (Windows に登録) します。 
 
-1. **[設定] > [アカウント] > [サインイン オプション]** に移動します (または[こちら](ms-settings:signinoptions?activationSource=GetHelp)をクリックします)。 利用可能なサインイン オプションが表示されます。 例:
+1. **[設定] > [アカウント] > [サインイン オプション]** に移動します (または [こちら](ms-settings:signinoptions?activationSource=GetHelp)をクリックします)。 利用可能なサインイン オプションが表示されます。 例:
 
     ![サインイン オプション。](media/sign-in-options.png)
 
@@ -37,7 +37,7 @@ ms.locfileid: "47795249"
 
 **サインイン オプションとして、Windows Hello 指紋認証が利用できない**
 
-Windows Hello 指紋認証が**サインイン オプション**に表示されていない場合は、Windows が PC に接続されている指紋リーダーやスキャナーを認識していないか、システム ポリシーがその利用を認めていないということです (たとえば、PC が職場で管理されている場合など)。 トラブルシューティング: 
+Windows Hello 指紋認証が **サインイン オプション** に表示されていない場合は、Windows が PC に接続されている指紋リーダーやスキャナーを認識していないか、システム ポリシーがその利用を認めていないということです (たとえば、PC が職場で管理されている場合など)。 トラブルシューティング: 
 
 1. タスク バーの **[スタート]** ボタンを選択し、**[デバイス マネージャー]** を探します。
 
