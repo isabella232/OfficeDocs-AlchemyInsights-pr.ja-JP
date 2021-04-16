@@ -2,19 +2,19 @@
 title: "{AimKITimeElapsed} 分経過したが、グループの一覧に配布グループ '{AimKIObject}' が表示されない"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679806"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815071"
 ---
 # <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>{AimKITimeElapsed} 分経過したが、グループの一覧に配布グループ "{AimKIObject}" が表示されない
 

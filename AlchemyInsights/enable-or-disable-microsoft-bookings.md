@@ -2,7 +2,7 @@
 title: Microsoft Bookings ライセンスの有効化または無効化
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5499"
-ms.openlocfilehash: 9e5c1b00cce5363467d72bc005d048e1d0a4e33b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05ee4c8a9e5c3f7b0827d50e2469915f4c1e86a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709768"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814053"
 ---
 # <a name="enable-or-disable-microsoft-bookings"></a>Microsoft Bookings ライセンスの有効化または無効化
 
-**Microsoft 365 アドミンセンター**内でMicrosoft Bookingを有効または無効にします。
+**Microsoft 365 アドミンセンター** 内でMicrosoft Bookingを有効または無効にします。
 
 1. [**設定] に移動し、[[設定](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)** > [**予約**] をクリックします。
 2. [**組織での Bookings の使用を許可する**] チェックボックスをクリックし、組織で Bookings を有効または無効にします。

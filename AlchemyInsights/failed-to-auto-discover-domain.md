@@ -2,7 +2,7 @@
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "3816"
-ms.openlocfilehash: 2ae66cd4ec8ba0113deb4c23803f69b53360ade7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 248a1baac87b09b4c6f29c160beadb52ed0d3983
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782728"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813261"
 ---
 # <a name="failed_to_auto_discover_domain"></a>FAILED_TO_AUTO_DISCOVER_DOMAIN
 
-アクティブなサービス インシデントが発生していて、Teams 管理センターにアクセスできない可能性があります。 詳細については、**サービス正常性ダッシュボード**をご確認ください。
+アクティブなサービス インシデントが発生していて、Teams 管理センターにアクセスできない可能性があります。 詳細については、**サービス正常性ダッシュボード** をご確認ください。
 
 詳細なトラブルシューティングの手順については、Microsoft Teams 管理センターで FAILED_TO_AUTO_DISCOVER_DOMAIN エラーをご覧ください。

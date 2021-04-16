@@ -2,7 +2,7 @@
 title: Teams の出席レポートをダウンロードする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712117"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814702"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Teams の出席レポートをダウンロードする
 

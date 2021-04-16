@@ -2,7 +2,7 @@
 title: Teams と Office 365 A1 の有効化
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e99fcc49108c9e8f87ca204b9f3dfe7fcfdae97a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784435"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813945"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Teams と Office 365 A1 の有効化
 

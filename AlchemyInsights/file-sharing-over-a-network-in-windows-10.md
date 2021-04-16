@@ -2,7 +2,7 @@
 title: Windows 10 におけるネットワーク経由のファイル共有
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813153"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10 におけるネットワーク経由のファイル共有
 
@@ -25,7 +25,7 @@ ms.locfileid: "47745396"
 
 **ネットワーク経由でファイルやフォルダーを共有する方法**
 
-- **エクスプローラー**でファイルを選択 > 一番上にある **[共有]** タブをクリック > **[共有]** セクションで **[特定のユーザー]** をクリック。
+- **エクスプローラー** でファイルを選択 > 一番上にある **[共有]** タブをクリック > **[共有]** セクションで **[特定のユーザー]** をクリック。
 
     ![特定のユーザーとファイルを共有します。](media/share-with-specific-people.png)
           
@@ -33,7 +33,7 @@ ms.locfileid: "47745396"
 
 **ファイルを共有しているネットワーク上のデバイスを表示する方法**
 
-- **エクスプローラー**で **[ネットワーク]** を選択します。 ネットワーク検出が有効になっていない場合、"ネットワーク検出がオフになっており..." というエラー メッセージが表示されます。
+- **エクスプローラー** で **[ネットワーク]** を選択します。 ネットワーク検出が有効になっていない場合、"ネットワーク検出がオフになっており..." というエラー メッセージが表示されます。
 
 - **[ネットワーク検出がオフになっています]** バナーをクリックして、**[ネットワーク検出とファイル共有をオンにする]** をクリックします。
 
