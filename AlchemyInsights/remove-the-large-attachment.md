@@ -2,7 +2,7 @@
 title: 大きい添付ファイルを削除する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799238"
 ---
 # <a name="remove-the-large-attachment"></a>大きい添付ファイルを削除する
 

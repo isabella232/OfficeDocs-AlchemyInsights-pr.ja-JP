@@ -2,7 +2,7 @@
 title: Project サブスクリプションを購入する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693308"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800399"
 ---
 # <a name="purchase-project-subscription"></a>Project サブスクリプションを購入する
 
-管理者は、組織の Project サブスクリプションを **Microsoft 365 管理センター**から購入できます。
+管理者は、組織の Project サブスクリプションを **Microsoft 365 管理センター** から購入できます。
 
 1. **[課金]** > **[[サービスの購入]](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** ページに移動して、組織で購入できるサブスクリプションを表示します。
 

@@ -2,7 +2,7 @@
 title: Teams のダイヤルイン会議番号を削除する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799310"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams のダイヤルイン会議番号を削除する
 
@@ -27,7 +27,7 @@ ms.locfileid: "47795753"
 
 1. 職場アカウントでサインインします。
 
-2. **Microsoft 365 管理センター**に移動します。
+2. **Microsoft 365 管理センター** に移動します。
 
 3. **[管理センター | Teams & Skype]** に移動します。
 
