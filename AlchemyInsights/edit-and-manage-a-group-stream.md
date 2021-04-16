@@ -2,7 +2,7 @@
 title: Microsoft Stream でグループを編集および管理する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: cc4c64468df911f803d7abbb90e5edd1123013fb
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 801c945a88b6edd09fb6c39b3bca0646ace9f84b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48275070"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814449"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="0c377-102">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="0c377-102">Edit and manage a group in Microsoft Stream</span></span>
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="f52a2-102">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="f52a2-102">Edit and manage a group in Microsoft Stream</span></span>
 
-<span data-ttu-id="0c377-103">Microsoft Stream のグループ設定は、グループの所有者が Stream で変更できます。</span><span class="sxs-lookup"><span data-stu-id="0c377-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
+<span data-ttu-id="f52a2-103">Microsoft Stream のグループ設定は、グループの所有者が Stream で変更できます。</span><span class="sxs-lookup"><span data-stu-id="f52a2-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
 
-- [<span data-ttu-id="0c377-104">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="0c377-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
+- [<span data-ttu-id="f52a2-104">Microsoft Stream でグループを編集および管理する</span><span class="sxs-lookup"><span data-stu-id="f52a2-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
