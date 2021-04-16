@@ -13,16 +13,16 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704899"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692147"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Microsoft Teams の 電話システムによるダイレクト ルーティング
+# <a name="direct-routing-for-microsoft-teams"></a>Microsoft Teams のダイレクト ルーティング
 
-[Microsoft Teams の 電話システムによるダイレクト ルーティング](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)の詳細については、次の記事を参照してください。 
+[Microsoft Teams のダイレクト ルーティング](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)の詳細については、次の記事を参照してください。 
 
 - [ダイレクト ルーティングを計画する](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [ダイレクト ルーティングを構成する](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 

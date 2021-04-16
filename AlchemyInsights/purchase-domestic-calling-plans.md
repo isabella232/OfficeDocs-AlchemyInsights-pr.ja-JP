@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 1afafaf5b46db169af0fae099448afd9bc1a077f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50f6932aa6767112e9eacfbf48459783c4419b5c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771510"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692814"
 ---
 # <a name="purchase-domestic-calling-plans"></a>国内通話プランを購入する
 
-Microsoft 365 で利用できる通話プランの種類は、**国内**通話プランと、**国内および国際**通話プランの 2 つがあります。 [国または地域を選択して、組織で使用できる機能をご確認ください](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#select-your-country-or-region-to-see-whats-available-for-your-organization)。
+Microsoft 365 で利用できる通話プランの種類は、**国内** 通話プランと、**国内および国際** 通話プランの 2 つがあります。 [国または地域を選択して、組織で使用できる機能をご確認ください](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#select-your-country-or-region-to-see-whats-available-for-your-organization)。
 
-- 詳細については、[電話システムと通話プラン](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)に関する記事をご覧ください。
-- プランと価格については、[電話システムの価格](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling#Requirements)をご覧ください。
+- 詳細については、「[Microsoft Teams 電話および Microsoft Teams Calling プラン](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)」を参照してください。
+- プランと価格については、「[Microsoft Teams 電話の価格](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling#Requirements)」をご覧ください。
 - 任意の宛先にダイヤル アウトする機能を必要とするユーザーに[コミュニケーション クレジット](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#communications-credits)を追加します。
 
-詳細については、「[国および地域ごとの電話会議および通話プランの利用可能性](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)」を参照してください。 
+詳細については、「[国および地域ごとの電話会議および Microsoft Teams Calling プランの利用可能性](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)」を参照してください。 

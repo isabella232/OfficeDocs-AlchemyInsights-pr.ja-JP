@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662510"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692471"
 ---
 # <a name="pstn-calling-plans"></a>PSTN 通話プラン
 
@@ -26,6 +26,6 @@ ms.locfileid: "47662510"
 
 - 「[通話プランを購入する方法](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)」を参照して、購入プロセスを開始します。
 
-- [コミュニケーション クレジット](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)をセットアップして、ユーザーが**使用可能時間(分)不足**にならないようにします。 料金については[こちら](https://products.office.com/microsoft-teams/voice-calling)をご覧ください。 
+- [コミュニケーション クレジット](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)をセットアップして、ユーザーが **使用可能時間(分)不足** にならないようにします。 料金については[こちら](https://products.office.com/microsoft-teams/voice-calling)をご覧ください。 
 
-- 詳細については、「[電話システムと通話プランを ](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)」または、「[コミュニケーション クレジットとは](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)」を参照してください。
+- 詳細については、「[Microsoft Teams 電話と Microsoft Teams Calling プランを ](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)」または「[コミュニケーション クレジットとは](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)」を参照してください。
