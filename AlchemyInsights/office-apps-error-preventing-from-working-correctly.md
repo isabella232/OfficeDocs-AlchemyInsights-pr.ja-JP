@@ -2,7 +2,7 @@
 title: 'Microsoft 365 アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: aaff626451e389c229cf0ed0532e44b637090fec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ddd01e62dd25f63f6b6941097fd0d49c5cddfe7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802962"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801992"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました
 
