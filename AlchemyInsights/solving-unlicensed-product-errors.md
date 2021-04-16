@@ -2,7 +2,7 @@
 title: ライセンスのない製品というエラーを解決する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eebfb7cea7ae97921bf3c3667818400a17b5e52e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786854"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"ライセンスのない製品" エラーの解決方法の提案
 
