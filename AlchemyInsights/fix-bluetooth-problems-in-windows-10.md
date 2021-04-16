@@ -2,7 +2,7 @@
 title: Windows 10 の Bluetooth の問題を解決する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730164"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812937"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Windows 10 の Bluetooth の問題を解決する
 

@@ -2,7 +2,7 @@
 title: ノートブックを開くときの問題を解決する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: b7628cdbb7cd3bc60b97339cb59854fc73f0139e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744775"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812829"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>ノートブックを開くときの問題を解決する
 

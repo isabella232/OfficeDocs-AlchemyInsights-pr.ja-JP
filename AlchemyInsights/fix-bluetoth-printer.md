@@ -2,7 +2,7 @@
 title: Bluetooth プリンターの問題を解決する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744919"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812901"
 ---
 # <a name="fix-bluetooth-printer-connection-issues"></a>Bluetooth プリンターの接続に関する問題を解決する
 
@@ -27,7 +27,7 @@ Bluetooth プリンターが動作しない場合、次のトラブルシュー�
 1. Bluetooth が有効になっていることを確認します。
     1. [**スタート**]  >  [**設定**]  >  [**デバイス**]  >  [**Bluetooth とその他のデバイス**] の順に選択します。
     2. Bluetooth のトグルを [**オン**] にします。
-2. Bluetooth のトラブルシューティング ツールを実行します。 <br>
+2. Bluetooth のトラブルシューティング ツールを実行します。<br>
     [**スタート**] を選択し [**トラブルシューティングの設定**] を入力し、[**トラブルシューティングの設定**] オプションを選択します。 メニューから [**Bluetooth**] を選択し、[**トラブルシューティング ツールの実行**] を選択 します。
 
 それでも問題が解決しない場合は、Bluetooth プリンターを削除して再インストールしてみてください。

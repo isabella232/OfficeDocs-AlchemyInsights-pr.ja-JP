@@ -2,7 +2,7 @@
 title: Microsoft 365 Education プランを取得する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 0f88a44e92a1bf773ee900b1ad6ba2d349f08af0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52fa2cce9a47574ad4c44f512616c213c70fe378
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812073"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Microsoft 365 Education プランを取得する
 
-所属している機関が Microsoft 365 Education の対象として認定されている場合は、**Microsoft 365 管理センター**で A1、A3、A5 サブスクリプションを追加できます。 
+所属している機関が Microsoft 365 Education の対象として認定されている場合は、**Microsoft 365 管理センター** で A1、A3、A5 サブスクリプションを追加できます。 
 
 1. **[支払い]>[[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=868433)** の順に移動します。
 

@@ -2,7 +2,7 @@
 title: Microsoft 365 アプリのアカウントの状態が正しくありません。エラーを修正する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: ec529291ec9406eba9dc2b0f2cc7a93c77fa3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4654b49289a455c1e6641f47fae573d2fcebc717
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812541"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Microsoft 365 アプリの「アカウントの状態が正しくありません。」エラーを修正する
 

@@ -2,7 +2,7 @@
 title: OneDrive の同期の問題を修正する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 5719a25d1e196b289c9d7d3452e68e4a8dc9b66b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e92e15dcbcb39ac702d91ed2a20dac2cf16c0ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677717"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812793"
 ---
 # <a name="fix-onedrive-sync-issues"></a>OneDrive の同期の問題を修正する
 

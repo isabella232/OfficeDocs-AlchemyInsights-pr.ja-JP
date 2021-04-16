@@ -2,7 +2,7 @@
 title: Teams の電話会議を設定する方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781540"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811065"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 電話会議
 
@@ -28,16 +28,16 @@ ms.locfileid: "47781540"
 
 1. [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) に移動し、該当するユーザーを選択します。
 
-2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス**の **[編集]** をクリックします。
+2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス** の **[編集]** をクリックします。
 
-3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議**のライセンスがない場合、先に[アドオン ライセンスを購入する](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
+3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議** のライセンスがない場合、先に [アドオン ライセンスを購入する](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
 
-4. ユーザー**管理センター**で、**[すべて表示]**、**[Teams]** の順にクリックします。
+4. ユーザー **管理センター** で、**[すべて表示]**、**[Teams]** の順にクリックします。
 
-5. **Microsoft Teams 管理センター**で、**[従来のポータル]** をクリックします。
+5. **Microsoft Teams 管理センター** で、**[従来のポータル]** をクリックします。
 
-6. **Skype for Business 管理センター**で、**[電話会議]**、**[ユーザー]** の順にクリックします。
+6. **Skype for Business 管理センター** で、**[電話会議]**、**[ユーザー]** の順にクリックします。
 
-7. 該当するユーザーを選択し、そのユーザーに**既定の有料電話番号**があることを確認します。
+7. 該当するユーザーを選択し、そのユーザーに **既定の有料電話番号** があることを確認します。
 
-**Microsoft 電話会議**のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)まで電話でお問い合わせください。
+**Microsoft 電話会議** のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)まで電話でお問い合わせください。
