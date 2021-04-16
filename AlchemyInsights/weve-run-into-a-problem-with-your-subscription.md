@@ -2,7 +2,7 @@
 title: アプリの「サブスクリプションに問題が発生しました」メッセージの修正
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: 0fd0883c87b27af501682b84934089b7a8979362
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 509cd022ab3addcc15f00a75cd3253376a8c87e4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725700"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806267"
 ---
 # <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Microsoft 365 アプリの「サブスクリプションに問題が発生しました」メッセージの修正
 
