@@ -2,7 +2,7 @@
 title: Excel がクラッシュした場合
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359302"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804818"
 ---
-# <a name="frequent-excel-crashes"></a><span data-ttu-id="14448-102">Excel が頻繁にクラッシュする場合</span><span class="sxs-lookup"><span data-stu-id="14448-102">Frequent Excel Crashes?</span></span>
+# <a name="frequent-excel-crashes"></a><span data-ttu-id="47b61-102">Excel が頻繁にクラッシュする場合</span><span class="sxs-lookup"><span data-stu-id="47b61-102">Frequent Excel Crashes?</span></span>
 
-<span data-ttu-id="14448-p101">Excel で頻繁にクラッシュする場合、問題のあるアドインが原因になっている可能性があります。次の手順に従って Excel アドインを無効にすることができます。</span><span class="sxs-lookup"><span data-stu-id="14448-p101">Frequent crashes in Excel can be caused by a faulty add-in. You can disable an Excel add-in by following these instructions:</span></span>
+<span data-ttu-id="47b61-p101">Excel で頻繁にクラッシュする場合、問題のあるアドインが原因になっている可能性があります。次の手順に従って Excel アドインを無効にすることができます。</span><span class="sxs-lookup"><span data-stu-id="47b61-p101">Frequent crashes in Excel can be caused by a faulty add-in. You can disable an Excel add-in by following these instructions:</span></span>
   
-1. <span data-ttu-id="14448-105">[**ファイル**]、[**オプション**]、[**アドイン**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="14448-105">Choose **File** \> **Options**, \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="47b61-105">[**ファイル**]、[**オプション**]、[**アドイン**] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="47b61-105">Choose **File** \> **Options**, \> **Add-Ins**.</span></span>
 
-2. <span data-ttu-id="14448-106">[**管理**] ボックスで、[**COM アドイン**] を選択し、[**設定**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="14448-106">In the **Manage** box, choose **COM Add-ins**, and then click **Go**.</span></span>
+2. <span data-ttu-id="47b61-106">[**管理**] ボックスで、[**COM アドイン**] を選択し、[**設定**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="47b61-106">In the **Manage** box, choose **COM Add-ins**, and then click **Go**.</span></span>
 
-3. <span data-ttu-id="14448-107">[使用できるアドイン] ボックスで、無効にするアドインの横にあるチェック ボックスをオフにして、[**OK**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="14448-107">In the Add-Ins available box, clear the check box next to the add-in that you want to disable, and then click **OK**.</span></span>
+3. <span data-ttu-id="47b61-107">[使用できるアドイン] ボックスで、無効にするアドインの横にあるチェック ボックスをオフにして、[**OK**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="47b61-107">In the Add-Ins available box, clear the check box next to the add-in that you want to disable, and then click **OK**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="14448-108">起動時に Excel がクラッシュした場合は、Ctrl キーを押しながらプログラムを起動して、Excel をセーフ モードで起動してください。</span><span class="sxs-lookup"><span data-stu-id="14448-108">If Excel crashes during launch, please launch it in Safe mode by pressing and holding Ctrl while you start the program.</span></span>
+> <span data-ttu-id="47b61-108">起動時に Excel がクラッシュした場合は、Ctrl キーを押しながらプログラムを起動して、Excel をセーフ モードで起動してください。</span><span class="sxs-lookup"><span data-stu-id="47b61-108">If Excel crashes during launch, please launch it in Safe mode by pressing and holding Ctrl while you start the program.</span></span>
   
-<span data-ttu-id="14448-109">それでも問題が発生している場合は、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="14448-109">If you're still having problems, refer to the following articles:</span></span>
+<span data-ttu-id="47b61-109">それでも問題が発生している場合は、次の記事を参照してください。</span><span class="sxs-lookup"><span data-stu-id="47b61-109">If you're still having problems, refer to the following articles:</span></span>
   
-- [<span data-ttu-id="14448-110">PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される</span><span class="sxs-lookup"><span data-stu-id="14448-110">I get a "stopped working" error when I start Office 2016 or 2013 applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [<span data-ttu-id="47b61-110">PC で Office アプリケーションを起動すると、"動作が停止しました" エラーが表示される</span><span class="sxs-lookup"><span data-stu-id="47b61-110">I get a "stopped working" error when I start Office 2016 or 2013 applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [<span data-ttu-id="14448-111">Excel で発生するクラッシュおよび応答が停止する問題をトラブルシューティングする方法</span><span class="sxs-lookup"><span data-stu-id="14448-111">How to troubleshoot crashing and not responding issues with Excel</span></span>](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [<span data-ttu-id="47b61-111">Excel で発生するクラッシュおよび応答が停止する問題をトラブルシューティングする方法</span><span class="sxs-lookup"><span data-stu-id="47b61-111">How to troubleshoot crashing and not responding issues with Excel</span></span>](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [<span data-ttu-id="14448-112">Excel が応答しない、応答を停止する、フリーズする、動作しなくなる</span><span class="sxs-lookup"><span data-stu-id="14448-112">Excel not responding, hangs, freezes or stops working</span></span>](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [<span data-ttu-id="47b61-112">Excel が応答しない、応答を停止する、フリーズする、動作しなくなる</span><span class="sxs-lookup"><span data-stu-id="47b61-112">Excel not responding, hangs, freezes or stops working</span></span>](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
