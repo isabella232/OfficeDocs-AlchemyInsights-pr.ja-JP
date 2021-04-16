@@ -2,7 +2,7 @@
 title: パブリック フォルダーのアクセス許可を設定または変更する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e419c72a890e68fc7b6d40d2b64406e42f9b0769
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789212"
 ---
 # <a name="permissions-and-public-folders"></a>アクセス許可とパブリック フォルダー
 
@@ -29,6 +29,6 @@ ms.locfileid: "47771177"
     
 - PowerShell で Add-PublicFolderClientPermission コマンドレットを使用する手順については、[この記事](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx)を参照してください。Exchange PowerShell への接続方法については、[ここ](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)をクリックしてください。
     
-**メールが有効なパブリック フォルダーに対して外部ユーザーがメールを送信できない場合**、外部メールの配信に必要なアクセス許可がパブリック フォルダーにないことが原因として考えられます。この問題を Outlook を使用して解決する手順については[こちら](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)、PowerShell を使用して解決する手順については[こちら](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)を参照してください。
+**メールが有効なパブリック フォルダーに対して外部ユーザーがメールを送信できない場合**、外部メールの配信に必要なアクセス許可がパブリック フォルダーにないことが原因として考えられます。この問題を Outlook を使用して解決する手順については [こちら](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)、PowerShell を使用して解決する手順については [こちら](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)を参照してください。
   
 
