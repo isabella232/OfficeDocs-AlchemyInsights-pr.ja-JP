@@ -2,7 +2,7 @@
 title: OneNote の同期に関する問題のトラブルシューティング
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782741"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>OneNote の同期に関する問題のトラブルシューティング
 
@@ -29,9 +29,9 @@ ms.locfileid: "47749807"
 
 2. 影響を受けたノートブックの名前の下に示される URL を右クリックし、次に [**コピー**] をクリックします。
 
-3. Web ブラウザーで、[アドレス] ボックスをクリックし、**Ctrl キーを押しながら V キーを押して**コピーした URL を貼り付けます。
+3. Web ブラウザーで、[アドレス] ボックスをクリックし、**Ctrl キーを押しながら V キーを押して** コピーした URL を貼り付けます。
 
-4. **Enter キー**を押して Web 用 OneNote のノートブックを読み込みます。
+4. **Enter キー** を押して Web 用 OneNote のノートブックを読み込みます。
 
 Web 用 OneNote でノートブックを開くことができず、変更が表示される場合は、問題はデスクトップ版の OneNote により引き起こされている可能性があります。 通常、ノートブックを閉じてもう一度開くと、接続が解除されて正常にリセットされます。
 
