@@ -2,7 +2,7 @@
 title: ビデオ テスト
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003535"
 - "6442"
-ms.openlocfilehash: e433c8e0ce5f35409b8b6e9777a4535891181e8c
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: 202db7d7b29913867f058940db5eb12bc469f8d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824224"
 ---
-# <a name="video-test"></a><span data-ttu-id="33107-102">ビデオ テスト</span><span class="sxs-lookup"><span data-stu-id="33107-102">Video test</span></span>
+# <a name="video-test"></a><span data-ttu-id="ee55a-102">ビデオ テスト</span><span class="sxs-lookup"><span data-stu-id="ee55a-102">Video test</span></span>
 
-<span data-ttu-id="33107-103">ここに役立つビデオがあります:</span><span class="sxs-lookup"><span data-stu-id="33107-103">Here we have a helpful video:</span></span>
+<span data-ttu-id="ee55a-103">ここに役立つビデオがあります:</span><span class="sxs-lookup"><span data-stu-id="ee55a-103">Here we have a helpful video:</span></span>
 
 >[!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
 
-<span data-ttu-id="33107-104">ここにいくつかのテキストがあります。</span><span class="sxs-lookup"><span data-stu-id="33107-104">Here is some more text.</span></span>
+<span data-ttu-id="ee55a-104">ここにいくつかのテキストがあります。</span><span class="sxs-lookup"><span data-stu-id="ee55a-104">Here is some more text.</span></span>
