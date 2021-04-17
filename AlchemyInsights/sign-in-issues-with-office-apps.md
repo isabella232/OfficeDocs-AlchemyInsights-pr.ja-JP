@@ -2,7 +2,7 @@
 title: Microsoft 365 アプリへのサインインに関する問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002389"
 - "4657"
-ms.openlocfilehash: 539373c7e66042258d1810de50dfb742788cc05d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6d0addc98c8dcd482cbf2007636af6fb8b5cde2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719742"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831163"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 アプリへのサインインに関する問題
 

@@ -2,7 +2,7 @@
 title: PowerPoint の一般的な問題と解決策
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: c43896cd78e46a80ce5751685877ee1aae4ab503
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: dc5e3363183f5beb90ea4f45ad8e4657640a74e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576292"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831451"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint の一般的な問題と解決策
 

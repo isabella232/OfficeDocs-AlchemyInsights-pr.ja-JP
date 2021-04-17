@@ -2,7 +2,7 @@
 title: パスワードを使用しないで Windows 10 にサインインする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830551"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>パスワードを使用しないで Windows 10 にサインインする
 
@@ -25,7 +25,7 @@ Windows の起動時にパスワードを入力する必要がないようにす
 
 **アカウント パスワードに代わる Windows Hello の安全な代替機能**
 
-**[設定] > [アカウント] > [サインイン オプション]** に移動します (または[こちら](ms-settings:signinoptions?activationSource=GetHelp)をクリックします)。 利用可能なサインイン オプションが表示されます。 例:
+**[設定] > [アカウント] > [サインイン オプション]** に移動します (または [こちら](ms-settings:signinoptions?activationSource=GetHelp)をクリックします)。 利用可能なサインイン オプションが表示されます。 例:
 
 ![サインイン オプション。](media/sign-in-options.png)
 

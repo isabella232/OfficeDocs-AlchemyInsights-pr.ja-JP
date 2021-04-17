@@ -2,7 +2,7 @@
 title: プリンターのトラブルシューティングを行う
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830479"
 ---
 # <a name="troubleshoot-your-printer"></a>プリンターのトラブルシューティングを行う
 
-まず、**プリンター電源サイクル**を試します。 次の手順を実行します。
+まず、**プリンター電源サイクル** を試します。 次の手順を実行します。
 
 1. プリンターをオフにし、電源ケーブルを取り外します。
 
@@ -47,7 +47,7 @@ ms.locfileid: "47689887"
 
     - これら 2 つの接続が異なる場合は、プリンターのネットワークに合わせて PC の接続を変更します。
 
-また、**ネットワーク プリンターを削除して再インストールする**こともできます。
+また、**ネットワーク プリンターを削除して再インストールする** こともできます。
 
 1. **[設定] でプリンターを削除します**。
 

@@ -2,7 +2,7 @@
 title: SharePoint および OneDrive のアラートの受信の遅延
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831235"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint および OneDrive のアラートの受信の遅延
 

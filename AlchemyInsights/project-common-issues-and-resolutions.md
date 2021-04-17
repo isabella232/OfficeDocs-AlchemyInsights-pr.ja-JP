@@ -2,7 +2,7 @@
 title: Project の一般的な問題と解決策
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801729"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830839"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Project の一般的な問題と解決策
 
@@ -27,7 +27,7 @@ Project についてよく寄せられるトピックは次の通りです。
 
 2. **Project Online へのアクセス許可をユーザーに付与する:** [ユーザー、グループ、リソースを追加して Project Online を共有](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)し、他のユーザーと共同作業を行えるようにします。 
 
-3. **Project Online で Project Web App (PWA) のパフォーマンスを調整する:** Project Web App の一般的な設定による[パフォーマンスへの影響とトレードオフ](https://docs.microsoft.com/projectonline/tune-project-online-performance)を確認できます。
+3. **Project Online で Project Web App (PWA) のパフォーマンスを調整する:** Project Web App の一般的な設定による [パフォーマンスへの影響とトレードオフ](https://docs.microsoft.com/projectonline/tune-project-online-performance)を確認できます。
 
 4. **Project デスクトップ クライアントを使用して Project Online に接続する:** [Project Online デスクトップ クライアント](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)を使用して Microsoft 365 環境で Project Online に接続します。 
 
