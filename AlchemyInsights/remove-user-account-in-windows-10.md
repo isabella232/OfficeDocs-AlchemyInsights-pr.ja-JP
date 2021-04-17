@@ -2,7 +2,7 @@
 title: Windows 10 ユーザー アカウントを削除する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835780"
 ---
-# <a name="remove-an-account-in-windows-10"></a><span data-ttu-id="e1fc0-102">Windows 10 でアカウントを削除する</span><span class="sxs-lookup"><span data-stu-id="e1fc0-102">Remove an account in Windows 10</span></span>
+# <a name="remove-an-account-in-windows-10"></a><span data-ttu-id="09f72-102">Windows 10 でアカウントを削除する</span><span class="sxs-lookup"><span data-stu-id="09f72-102">Remove an account in Windows 10</span></span>
 
-<span data-ttu-id="e1fc0-103">Windows 10 からアカウントを削除する方法を説明します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-103">Here's how to remove an account from Windows 10:</span></span>
+<span data-ttu-id="09f72-103">Windows 10 からアカウントを削除する方法を説明します。</span><span class="sxs-lookup"><span data-stu-id="09f72-103">Here's how to remove an account from Windows 10:</span></span>
 
-1. <span data-ttu-id="e1fc0-104">[**スタート**] > [**設定**] > [**アカウント**] > [**家族とその他のユーザー**] (または、Windows 10 Enterprise を使用している場合は [**他のユーザー**]) の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-104">Go to **Start** > **Settings** > **Account** > **Family & other people** (or **Other people**, if you're using Windows 10 Enterprise).</span></span>
-2. <span data-ttu-id="e1fc0-105">削除するアカウントを選択し、[**削除**] を選択し、[**アカウントとデータのを削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-105">Select the account you want to remove, select **Remove**, and then select **Delete account and data**.</span></span>
+1. <span data-ttu-id="09f72-104">[**スタート**] > [**設定**] > [**アカウント**] > [**家族とその他のユーザー**] (または、Windows 10 Enterprise を使用している場合は [**他のユーザー**]) の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="09f72-104">Go to **Start** > **Settings** > **Account** > **Family & other people** (or **Other people**, if you're using Windows 10 Enterprise).</span></span>
+2. <span data-ttu-id="09f72-105">削除するアカウントを選択し、[**削除**] を選択し、[**アカウントとデータのを削除**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="09f72-105">Select the account you want to remove, select **Remove**, and then select **Delete account and data**.</span></span>
  
-<span data-ttu-id="e1fc0-106">**注:** 現在サインイン中のアカウントは削除できません。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-106">**Note:** You can't delete an account that you're currently signed in to.</span></span>  <span data-ttu-id="e1fc0-107">サインイン中のアカウントを置き換える場合は、次の操作を行います。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-107">If you need to replace the account you're signed in to:</span></span>
+<span data-ttu-id="09f72-106">**注:** 現在サインイン中のアカウントは削除できません。</span><span class="sxs-lookup"><span data-stu-id="09f72-106">**Note:** You can't delete an account that you're currently signed in to.</span></span>  <span data-ttu-id="09f72-107">サインイン中のアカウントを置き換える場合は、次の操作を行います。</span><span class="sxs-lookup"><span data-stu-id="09f72-107">If you need to replace the account you're signed in to:</span></span>
 
-1. <span data-ttu-id="e1fc0-108">新しいユーザー アカウントを追加します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-108">Add a new user account.</span></span>
-2. <span data-ttu-id="e1fc0-109">PC で、この新しいアカウントを管理者として設定します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-109">Make the new user account an administrator on your PC.</span></span>
-3. <span data-ttu-id="e1fc0-110">古いユーザー アカウントを削除します。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-110">Delete the old user account.</span></span> <span data-ttu-id="e1fc0-111">ユーザー アカウントを削除すると、そのユーザーに関連付けられている設定、ファイル、データは、すべて完全に失われます。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-111">When you delete a user account, you'll permanently lose all settings, files, and data associated with that user.</span></span> <span data-ttu-id="e1fc0-112">[保存する必要があるものは、次の手順に従ってバックアップします](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)。</span><span class="sxs-lookup"><span data-stu-id="e1fc0-112">[Follow these steps to back up everything you'd like to save](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).</span></span>
+1. <span data-ttu-id="09f72-108">新しいユーザー アカウントを追加します。</span><span class="sxs-lookup"><span data-stu-id="09f72-108">Add a new user account.</span></span>
+2. <span data-ttu-id="09f72-109">PC で、この新しいアカウントを管理者として設定します。</span><span class="sxs-lookup"><span data-stu-id="09f72-109">Make the new user account an administrator on your PC.</span></span>
+3. <span data-ttu-id="09f72-110">古いユーザー アカウントを削除します。</span><span class="sxs-lookup"><span data-stu-id="09f72-110">Delete the old user account.</span></span> <span data-ttu-id="09f72-111">ユーザー アカウントを削除すると、そのユーザーに関連付けられている設定、ファイル、データは、すべて完全に失われます。</span><span class="sxs-lookup"><span data-stu-id="09f72-111">When you delete a user account, you'll permanently lose all settings, files, and data associated with that user.</span></span> <span data-ttu-id="09f72-112">[保存する必要があるものは、次の手順に従ってバックアップします](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)。</span><span class="sxs-lookup"><span data-stu-id="09f72-112">[Follow these steps to back up everything you'd like to save](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).</span></span>
