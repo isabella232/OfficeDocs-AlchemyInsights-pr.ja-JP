@@ -2,7 +2,7 @@
 title: Office クライアント アプリを PC または MAC にインストールする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831955"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office クライアント アプリを PC または MAC にインストールする
 

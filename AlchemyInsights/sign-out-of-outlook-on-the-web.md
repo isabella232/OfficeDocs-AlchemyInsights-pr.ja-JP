@@ -2,7 +2,7 @@
 title: Outlook on the web からサインアウトする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 4cdfec98e65038cdb79f65707a30136965f071fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ce592a9e2707339118ae4ceaa98faa3bfe2606cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797589"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833440"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Outlook on the web からサインアウトする
 

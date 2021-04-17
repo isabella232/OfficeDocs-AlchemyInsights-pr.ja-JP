@@ -2,7 +2,7 @@
 title: ファイルを取得できない
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833332"
 ---
 # <a name="we-cant-get-your-files"></a>ファイルを取得できない
 

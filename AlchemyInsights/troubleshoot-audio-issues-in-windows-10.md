@@ -2,7 +2,7 @@
 title: Windows 10 のオーディオに関する問題をトラブルシューティングする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833296"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10 のオーディオに関する問題をトラブルシューティングする
 

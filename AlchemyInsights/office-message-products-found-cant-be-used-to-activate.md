@@ -2,7 +2,7 @@
 title: Microsoft 365 アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b44c63c3e56b5c748e4d4d4d5bb54a74c32561c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802746"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832927"
 ---
 # <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Microsoft 365 アプリ メッセージ - アカウントで見つかった製品は、ライセンス認証に使用できません
 

@@ -2,7 +2,7 @@
 title: 通話品質の問題をトラブルシューティングする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: 1e323ca437fdd62aab23b5ed8e13b08605a51366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52d50bfd703b9ef9c3fddd42f2a5793f5d7b918
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833260"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>通話品質の問題をトラブルシューティングする
 
@@ -25,7 +25,7 @@ ms.locfileid: "47750240"
 
 Microsoft Teams 管理センターの使用
 
-1. **使用**にあるトラブルシューティングを希望するために通話されるユーザーの NAME をクリックします。
+1. **使用** にあるトラブルシューティングを希望するために通話されるユーザーの NAME をクリックします。
 2. [**通話履歴**] をクリックし、トラブルシューティングする通話または会議を選択します。 最大500レコードが返されます。
 3. [**詳細**] タブをクリックして、通話の品質が低下したり、接続の問題が発生したりしていることを示すイエローとレッドアイテムを探します。
 

@@ -2,7 +2,7 @@
 title: Skype for Business のインストール
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832063"
 ---
 # <a name="install-skype-for-business"></a>Skype for Business をインストールします
 

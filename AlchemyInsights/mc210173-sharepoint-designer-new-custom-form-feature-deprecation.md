@@ -2,7 +2,7 @@
 title: MC210173 - SharePoint Designer の新しいユーザー設定フォーム機能の廃止
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: a53b8885a877cb688cfb42bb4f9108cb2cef2418
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743885"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831811"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 - SharePoint Designer の新しいユーザー設定フォーム機能の廃止
 
@@ -31,4 +31,4 @@ Sharepoint Online 内で[ユーザー設定 フォームを作成する](https:/
 
 PowerApps は、SharePoint Online の最新の機能を操作しているユーザーが、ブラウザー ウィンドウから SharePoint リストおよびドキュメント ライブラリのユーザー設定フォームを作成および編集できる、簡単で強力なツールです。 PowerApps では、従来のコーディング知識や、InfoPath など任意の追加のアプリのダウンロードは必要ありません。
 
-**注**SharePoint Online の従来のユーザーは、PowerApps にアクセスして使用するために、最新のエクスペリエンスに一時的に切り替える必要があります。ただし、PowerApps で作成されるすべてのユーザー設定フォームには、SharePoint Online のクラシック エクスペリエンス ユーザーがアクセスできます。
+**注** SharePoint Online の従来のユーザーは、PowerApps にアクセスして使用するために、最新のエクスペリエンスに一時的に切り替える必要があります。ただし、PowerApps で作成されるすべてのユーザー設定フォームには、SharePoint Online のクラシック エクスペリエンス ユーザーがアクセスできます。

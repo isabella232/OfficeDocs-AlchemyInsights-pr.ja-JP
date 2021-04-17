@@ -2,7 +2,7 @@
 title: OneNote - ノートブックを開くとログイン エラーが発生する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c5800abb7e6446b935551858c6c7864c4d9f0aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832675"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>OneNote ノートブックへのサインインの問題
 
