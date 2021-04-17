@@ -2,7 +2,7 @@
 title: SharePoint リストに関するよくある質問
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: 3929166c68b4d6d724f6f19976f28a468b9e790a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67efc19aa311d8c57825521d57775913b37714da
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800685"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823648"
 ---
 # <a name="sharepoint-lists-faq"></a>SharePoint リストに関するよくある質問
 

@@ -2,7 +2,7 @@
 title: 既存のモニターのトラブルシューティング
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690716"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824584"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>既存のモニターをトラブルシューティングする
 

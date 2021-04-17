@@ -2,7 +2,7 @@
 title: ターミナル サーバーに Office をインストールするときの問題の解決方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823612"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>ターミナル サーバーに Office をインストールするときの問題の解決方法
 

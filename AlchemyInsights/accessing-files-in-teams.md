@@ -2,7 +2,7 @@
 title: Teams 内のファイルへアクセスする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823360"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Microsoft Teams 内のファイルへアクセスする
 
@@ -29,6 +29,6 @@ ms.locfileid: "47668532"
 
 - [Microsoft Teams でのファイルの共有](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)は、SharePoint または OneDrive で構成された設定に基づいて行われます。 
 - Teams でファイルを共有して共同作業できるようにする方法については、「[自分のチームでファイルでの共同作業を行う](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae)」をご覧ください。 
-- 新しいチームメンバーがファイルへのアクセスに遅延が発生した場合は、レプリケーションを完了するためにサポートチケットを開く前に少なくとも**4時間**待ってください。 
+- 新しいチーム メンバーがファイルへアクセスする際に遅延が発生した場合は、少なくとも **4 時間** 待ってから、サポート チケットを開いてレプリケーションを完了してください。 
 
 以前にはユーザーがチーム チャネルの [ファイル] タブからファイルにアクセスでき、「これらのファイルは利用できなくなりました」というエラーが表示される場合は、SharePoint サイトまたはドキュメント ライブラリの名前が変更されているかどうかを確認してください。 Teams の SharePoint サイトとドキュメント ライブラリの名前の変更は、まだサポートされていません。 この問題を解決するには、このチームに使用されているチーム サイトを開いて、ライブラリの名前を [共有ドキュメント] に戻します。
