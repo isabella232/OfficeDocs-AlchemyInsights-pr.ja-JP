@@ -2,7 +2,7 @@
 title: クレジット/払い戻し
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746584"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815872"
 ---
 # <a name="creditrefund"></a>クレジット/払い戻し
 

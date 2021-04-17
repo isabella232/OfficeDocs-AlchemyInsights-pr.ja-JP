@@ -2,7 +2,7 @@
 title: グループを作成する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089267"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816361"
 ---
 # <a name="create-a-group"></a>グループを作成する
 

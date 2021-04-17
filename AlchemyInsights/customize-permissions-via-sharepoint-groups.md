@@ -2,7 +2,7 @@
 title: Sharepoint グループで SharePoint サイトのアクセス許可をカスタマイズする方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 6db066d406bce91fa98d2d1b6a91844acc28642c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6141f801002aba0c74966eebe659a0228d2eda69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731712"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815692"
 ---
 # <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Sharepoint グループで SharePoint サイトのアクセス許可をカスタマイズする方法 
 

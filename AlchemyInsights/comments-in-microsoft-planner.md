@@ -2,7 +2,7 @@
 title: Microsoft Planner のコメント
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 048b63619256c1322837a06115f97127188aec6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817645"
 ---
 # <a name="comments-in-microsoft-planner"></a>Microsoft Planner のコメント
 
@@ -29,7 +29,7 @@ ms.locfileid: "47793583"
 
 - **コメントは保存されていません** - コメントを追加したユーザーには、Microsoft 365 グループにメールを送信するアクセス権限がありません。 このシナリオの詳細については、「[Microsoft Planner のしくみ](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)」を参照してください。
 
-- **アクセス権がありません**というエラー メッセージが表示される、または**ゲスト ユーザーがコメントを追加できません** - グループの受信トレイにメールを送信できないゲスト ユーザーに対して、このメッセージが表示されることがあります。 解決するには、ゲスト ユーザーのメールアドレスが有効であることを確認します。
+- **アクセス権がありません** というエラー メッセージが表示される、または **ゲスト ユーザーがコメントを追加できません** - グループの受信トレイにメールを送信できないゲスト ユーザーに対して、このメッセージが表示されることがあります。 解決するには、ゲスト ユーザーのメールアドレスが有効であることを確認します。
 
 - **削除されたユーザーがメールを受け取っています** - プランから削除される前にユーザーがタスクに対してコメントした場合、メールのスレッドにはそのユーザーがタスクに対するコメントごとに含められます。
 

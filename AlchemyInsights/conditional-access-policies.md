@@ -2,7 +2,7 @@
 title: 条件付きアクセス ポリシー
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817285"
 ---
 # <a name="conditional-access-policies"></a>条件付きアクセス ポリシー
 
@@ -25,7 +25,7 @@ ms.locfileid: "47812264"
 
 詳細については「[Azure AD 条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/)」を参照してください。  
 
-**注**: 2019 年 10 月 21 日以降にテナントが作成され、予期せず MFA の入力を求められた場合は、テナントで[セキュリティの既定](https://aka.ms/securitydefaults)が有効になっている可能性があります。
+**注**: 2019 年 10 月 21 日以降にテナントが作成され、予期せず MFA の入力を求められた場合は、テナントで [セキュリティの既定](https://aka.ms/securitydefaults)が有効になっている可能性があります。
 
 **セキュリティの既定値を管理するには**
 
