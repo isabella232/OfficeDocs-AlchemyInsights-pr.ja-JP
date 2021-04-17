@@ -2,7 +2,7 @@
 title: インターネットに接続できない
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794267"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819445"
 ---
 # <a name="fix-network-connection"></a>ネットワーク接続の修正
 

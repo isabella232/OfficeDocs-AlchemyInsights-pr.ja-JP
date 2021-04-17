@@ -2,7 +2,7 @@
 title: サブスクリプションのパートナーを変更する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5065"
-ms.openlocfilehash: 3dc5f7a64f4af1ffb13338e1e2a8a4d09a170311
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26369a89b46cc9bb4e32b22b6e314575b69671c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818293"
 ---
 # <a name="change-the-partner-for-a-subscription"></a>サブスクリプションのパートナーを変更する
 
-サブスクリプションのパートナーは **Microsoft 365 管理センター**で変更できます。
+サブスクリプションのパートナーは **Microsoft 365 管理センター** で変更できます。
 
 1. 管理センターで、**[課金情報] > [[製品とサービス]](https://go.microsoft.com/fwlink/p/?linkid=842054)** の順に移動します。 
 2. サブスクリプションが複数ある場合は、編集するサブスクリプションの名前を選びます。 

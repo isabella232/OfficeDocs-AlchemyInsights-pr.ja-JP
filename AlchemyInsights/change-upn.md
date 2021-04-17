@@ -2,7 +2,7 @@
 title: UPN を変更する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756468"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818257"
 ---
 # <a name="change-a-users-email-address"></a>ユーザーの電子メール アドレスを変更します。
 

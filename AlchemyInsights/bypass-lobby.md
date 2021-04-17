@@ -2,7 +2,7 @@
 title: ロビーのバイパス
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684955"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820039"
 ---
 # <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Teams でロビーの設定と参加レベルを制御する
 
-ダイヤルイン ユーザー、外部ユーザー、匿名ユーザーを含むすべてのユーザーが**ロビーをバイパス**できるようにするには、PowerShell を使用してこれを行えます。 組織のグローバル会議ポリシーを変更する例を次に示します。
+ダイヤルイン ユーザー、外部ユーザー、匿名ユーザーを含むすべてのユーザーが **ロビーをバイパス** できるようにするには、PowerShell を使用してこれを行えます。 組織のグローバル会議ポリシーを変更する例を次に示します。
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
 現在、このコマンドレットでは Skype for Business PowerShell モジュールを使用する必要があります。 このコマンドレットを使用するための設定方法については、「[PowerShell によるポリシーの管理](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)」を参照してください。
 
-ポリシーの設定が完了したら、ポリシーをユーザーに適用する必要があります。ただし、グローバル ポリシーを変更した場合は、ポリシーは自動的にユーザーに適用されます。 ポリシーを変更した場合、ポリシーが有効になるまで少なくとも **4 時間、最大で 24 時間**待つ必要があります。 
+ポリシーの設定が完了したら、ポリシーをユーザーに適用する必要があります。ただし、グローバル ポリシーを変更した場合は、ポリシーは自動的にユーザーに適用されます。 ポリシーを変更した場合、ポリシーが有効になるまで少なくとも **4 時間、最大で 24 時間** 待つ必要があります。 
 
 これらの変更を行う前に、下のドキュメントをよく確認し、許可される内容について正確に理解するようにします。
 

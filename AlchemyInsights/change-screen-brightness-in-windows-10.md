@@ -2,7 +2,7 @@
 title: Windows 10 で画面の明るさを変更する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: ac9b3b6155713e95d11c2aeab600ad686a5abb20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681985"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818581"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Windows 10 で画面の明るさを変更する
 
-Windows 10 がバージョン 1903 より新しい場合、アクション センターに **[明るさ] スライダー**があります。 アクション センターを開くには、タスク バーの右端にある [**通知**] ボタンをクリックするか、キーボードの **Windows ホーム + A** キーを押します。
+Windows 10 がバージョン 1903 より新しい場合、アクション センターに **[明るさ] スライダー** があります。 アクション センターを開くには、タスク バーの右端にある [**通知**] ボタンをクリックするか、キーボードの **Windows ホーム + A** キーを押します。
 
 ![[明るさ] スライダー](media/brightness-slider.png)
 

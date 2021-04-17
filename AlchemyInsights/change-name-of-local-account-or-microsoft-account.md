@@ -2,7 +2,7 @@
 title: ローカル アカウントまたは Microsoft アカウントの名前の変更
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818941"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>ローカル アカウントまたは Microsoft アカウントの名前の変更
 
