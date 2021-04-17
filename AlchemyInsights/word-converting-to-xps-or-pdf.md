@@ -2,7 +2,7 @@
 title: Word - XPS または PDF 形式に変換する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794844"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834196"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word 文書を XPS または PDF 形式に変換するときの問題を解決する
 

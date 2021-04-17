@@ -2,7 +2,7 @@
 title: Teams Outlook アドイン
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2cfa8f02ed7238d059ec7796786bc1b80d013251
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835024"
 ---
 # <a name="teams-outlook-add-in"></a>Teams Outlook アドイン
 

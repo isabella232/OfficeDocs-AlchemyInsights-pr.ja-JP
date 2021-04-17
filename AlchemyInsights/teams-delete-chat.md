@@ -2,7 +2,7 @@
 title: 'Teams: チャットの削除'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835096"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Microsoft Teams のチャットを削除する
 

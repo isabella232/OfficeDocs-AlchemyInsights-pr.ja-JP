@@ -2,7 +2,7 @@
 title: Microsoft Authenticator アプリを使用する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770088"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834340"
 ---
 # <a name="using-the-microsoft-authenticator-app"></a>Microsoft Authenticator アプリを使用する
 

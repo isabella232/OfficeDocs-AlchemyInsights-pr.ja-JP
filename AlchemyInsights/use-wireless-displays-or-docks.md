@@ -2,7 +2,7 @@
 title: ワイヤレス ディスプレイやドックを使用する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 5b0db5a7be944b9cf5872aa93c0a55bb1fe6b3c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795132"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834412"
 ---
 # <a name="use-wireless-displays-or-docks"></a>ワイヤレス ディスプレイやドックを使用する
 

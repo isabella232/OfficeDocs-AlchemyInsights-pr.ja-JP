@@ -2,7 +2,7 @@
 title: 更新シナリオのトラブルシューティング - タイル エラー
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834916"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>更新シナリオのトラブルシューティング - タイル エラー
 

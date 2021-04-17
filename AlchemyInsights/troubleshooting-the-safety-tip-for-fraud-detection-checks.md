@@ -2,7 +2,7 @@
 title: 不正検出チェックの安全性のヒントのトラブルシューティングを行う
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658415"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834736"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>不正検出チェックの安全性のヒントのトラブルシューティングを行う
 

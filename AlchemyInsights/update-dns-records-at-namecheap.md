@@ -2,7 +2,7 @@
 title: NameCheap で DNS レコードを更新する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: f32b9f820fce03cd8cd5d8f8eb509efbc3cdeb2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036a570db0dd4153be34eafabb2f8864041d3ee0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699560"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834520"
 ---
 # <a name="update-dns-records-at-namecheap"></a>NameCheap で DNS レコードを更新する
 
