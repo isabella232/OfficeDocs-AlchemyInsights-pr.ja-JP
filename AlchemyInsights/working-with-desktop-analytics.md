@@ -2,7 +2,7 @@
 title: Desktop Analytics アカウントを閉じる方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827077"
 ---
 # <a name="working-with-desktop-analytics"></a>デスクトップ分析を使用する
 

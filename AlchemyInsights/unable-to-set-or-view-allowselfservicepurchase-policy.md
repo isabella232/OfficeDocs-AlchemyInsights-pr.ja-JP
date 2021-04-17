@@ -2,7 +2,7 @@
 title: AllowSelfServicePurchase ポリシーを設定または表示できません
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735204"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826096"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase ポリシーを設定または表示できません
 

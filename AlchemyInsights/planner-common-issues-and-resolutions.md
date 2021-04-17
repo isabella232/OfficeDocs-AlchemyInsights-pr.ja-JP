@@ -2,7 +2,7 @@
 title: Planner の一般的な問題と解決策
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802062"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826888"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Planner の一般的な問題と解決策
 
@@ -40,4 +40,4 @@ Microsoft Planner についてよく寄せられるトピックは次の通り�
    - Exchange Online メールボックスなしで[タスクを表示またはタスクにコメントを追加する際の問題](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)について説明します。
    - [すべてのユーザーが Planner のメールを確実に受信できるようにする方法](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)について説明します。
 
-- **タスクの管理:** [タスクへのコメント](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)、および[タスクまたはプランの削除](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)に関する情報を確認します。
+- **タスクの管理:** [タスクへのコメント](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)、および [タスクまたはプランの削除](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)に関する情報を確認します。

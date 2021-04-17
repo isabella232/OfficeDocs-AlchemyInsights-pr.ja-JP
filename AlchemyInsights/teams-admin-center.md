@@ -2,7 +2,7 @@
 title: Teams 管理センター
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826384"
 ---
 # <a name="teams-admin-center"></a>Teams 管理センター
 

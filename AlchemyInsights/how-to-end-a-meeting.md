@@ -2,7 +2,7 @@
 title: 会議を正式に終了する方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780424"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825700"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>会議を正式に終了する方法
 

@@ -2,7 +2,7 @@
 title: Teams で IP ビデオを許可または無効にする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670189"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826348"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Teams で IP ビデオを許可または無効にする
 

@@ -2,7 +2,7 @@
 title: Windows 10 Home を Windows 10 Pro にアップグレードする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 86181f0c14cf9ad20f5da7d22238af2974cf5d06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811890"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827293"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>プロダクト キーまたはデジタル ライセンスのいずれかを使用してアップグレードする
 

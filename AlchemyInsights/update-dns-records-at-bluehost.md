@@ -2,7 +2,7 @@
 title: Bluehost で DNS レコードを更新する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657722"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827653"
 ---
 # <a name="update-dns-records-at-bluehost"></a>Bluehost で DNS レコードを更新する
 

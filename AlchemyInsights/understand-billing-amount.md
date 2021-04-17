@@ -2,7 +2,7 @@
 title: 請求額について理解する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808496"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827869"
 ---
 # <a name="understand-billing-amount"></a>請求額について理解する
 

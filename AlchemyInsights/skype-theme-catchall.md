@@ -2,7 +2,7 @@
 title: Skype テーマのまとめ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726924"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826492"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype for Business の一般的な問題と解決策 
 
@@ -35,4 +35,4 @@ Skype for Business に関する特定の問題については、質問を簡潔�
 
 **Skype 連絡先との通信:** [Skype for Business ユーザーが Skype 連絡先を追加できるようにします](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)。
 
-**Skype for Business を Microsoft Teams へとアップグレードする:** 「[Microsoft Teams へのアップグレードを開始する](https://docs.microsoft.com/microsoftteams/upgrade-start-here)」を確認し、組織で Teams を採用する際の Microsoft Teams との[共存](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence)について詳しく説明します。 
+**Skype for Business を Microsoft Teams へとアップグレードする:** 「[Microsoft Teams へのアップグレードを開始する](https://docs.microsoft.com/microsoftteams/upgrade-start-here)」を確認し、組織で Teams を採用する際の Microsoft Teams との [共存](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence)について詳しく説明します。 
