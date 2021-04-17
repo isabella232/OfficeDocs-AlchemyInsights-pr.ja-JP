@@ -2,7 +2,7 @@
 title: アカウントのロックを解除する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657902"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827761"
 ---
-# <a name="unlocking-an-account"></a><span data-ttu-id="74d96-102">アカウントのロックを解除する</span><span class="sxs-lookup"><span data-stu-id="74d96-102">Unlocking an account</span></span>
+# <a name="unlocking-an-account"></a><span data-ttu-id="4c12f-102">アカウントのロックを解除する</span><span class="sxs-lookup"><span data-stu-id="4c12f-102">Unlocking an account</span></span>
 
-<span data-ttu-id="74d96-103">間違ったパスワードを使用しようとした場合などの侵害が原因で、ユーザーが Microsoft 365 からロックアウトされることがあります。</span><span class="sxs-lookup"><span data-stu-id="74d96-103">It's possible users are locked out of Microsoft 365 due to bad password attempts or other compromises.</span></span> <span data-ttu-id="74d96-104">ユーザーが Microsoft 365 に再度サインインできるようにするには、**サポートリクエストを開く前に、次の手順を実行してください**。</span><span class="sxs-lookup"><span data-stu-id="74d96-104">To help users sign back in to Microsoft 365, **you can attempt the following steps before opening a Support Request**.</span></span> 
+<span data-ttu-id="4c12f-103">間違ったパスワードを使用しようとした場合などの侵害が原因で、ユーザーが Microsoft 365 からロックアウトされることがあります。</span><span class="sxs-lookup"><span data-stu-id="4c12f-103">It's possible users are locked out of Microsoft 365 due to bad password attempts or other compromises.</span></span> <span data-ttu-id="4c12f-104">ユーザーが Microsoft 365 に再度サインインできるようにするには、**サポートリクエストを開く前に、次の手順を実行してください**。</span><span class="sxs-lookup"><span data-stu-id="4c12f-104">To help users sign back in to Microsoft 365, **you can attempt the following steps before opening a Support Request**.</span></span> 
 
-<span data-ttu-id="74d96-105">**メールの制限**</span><span class="sxs-lookup"><span data-stu-id="74d96-105">**Email Restricted**</span></span>
+<span data-ttu-id="4c12f-105">**メールの制限**</span><span class="sxs-lookup"><span data-stu-id="4c12f-105">**Email Restricted**</span></span>
 
-<span data-ttu-id="74d96-106">ユーザーの 1 人がメールを送信できなくなっている場合は、管理者が[自分でアカウントのブロックを解除](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)できます。</span><span class="sxs-lookup"><span data-stu-id="74d96-106">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span></span> <span data-ttu-id="74d96-107">制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。</span><span class="sxs-lookup"><span data-stu-id="74d96-107">The user will be able to send email within an hour after removing the restriction.</span></span>
+<span data-ttu-id="4c12f-106">ユーザーの 1 人がメールを送信できなくなっている場合は、管理者が[自分でアカウントのブロックを解除](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)できます。</span><span class="sxs-lookup"><span data-stu-id="4c12f-106">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span></span> <span data-ttu-id="4c12f-107">制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。</span><span class="sxs-lookup"><span data-stu-id="4c12f-107">The user will be able to send email within an hour after removing the restriction.</span></span>
 
-<span data-ttu-id="74d96-108">**ユーザー パスワードをリセットする**</span><span class="sxs-lookup"><span data-stu-id="74d96-108">**Reset the User Password**</span></span>
+<span data-ttu-id="4c12f-108">**ユーザー パスワードをリセットする**</span><span class="sxs-lookup"><span data-stu-id="4c12f-108">**Reset the User Password**</span></span>
 
-1. <span data-ttu-id="74d96-109">管理センターで、**[ユーザー] > [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="74d96-109">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+1. <span data-ttu-id="4c12f-109">管理センターで、**[ユーザー] > [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="4c12f-109">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
 
-2. <span data-ttu-id="74d96-110">ユーザーを選択して、**[パスワードのリセット]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="74d96-110">Select the user and click **Reset Password**.</span></span>
+2. <span data-ttu-id="4c12f-110">ユーザーを選択して、**[パスワードのリセット]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="4c12f-110">Select the user and click **Reset Password**.</span></span>
 
-<span data-ttu-id="74d96-111">**ユーザーがサインインできるようにする**</span><span class="sxs-lookup"><span data-stu-id="74d96-111">**Make sure the user is allowed to sign in**</span></span>
+<span data-ttu-id="4c12f-111">**ユーザーがサインインできるようにする**</span><span class="sxs-lookup"><span data-stu-id="4c12f-111">**Make sure the user is allowed to sign in**</span></span>
 
-1. <span data-ttu-id="74d96-112">管理センターで、**[ユーザー] > [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="74d96-112">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+1. <span data-ttu-id="4c12f-112">管理センターで、**[ユーザー] > [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="4c12f-112">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
 
-2. <span data-ttu-id="74d96-113">ユーザーを選択して、**[その他のアクション (...)]** をクリックしてから、**[サインイン状態の編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="74d96-113">Select the user and click **More Actions (...)**; then click **Edit sign-in status**.</span></span>
+2. <span data-ttu-id="4c12f-113">ユーザーを選択して、**[その他のアクション (...)]** をクリックしてから、**[サインイン状態の編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="4c12f-113">Select the user and click **More Actions (...)**; then click **Edit sign-in status**.</span></span>
 
-<span data-ttu-id="74d96-114">その他のパスワード再設定シナリオ (セルフサービスによるパスワードのリセットなど) については、「[Microsoft 365 のパスワードをリセットする](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="74d96-114">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+<span data-ttu-id="4c12f-114">その他のパスワード再設定シナリオ (セルフサービスによるパスワードのリセットなど) については、「[Microsoft 365 のパスワードをリセットする](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c12f-114">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 for multiple-attempts-to-charge-online-payment-instrumentsbusiness passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="74d96-115">サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。</span><span class="sxs-lookup"><span data-stu-id="74d96-115">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="74d96-116">万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に記載の手順を実行してください。</span><span class="sxs-lookup"><span data-stu-id="74d96-116">As a precaution, follow the steps in [Responding to a Compromised Email Account in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) for the user.</span></span>
+<span data-ttu-id="4c12f-115">サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。</span><span class="sxs-lookup"><span data-stu-id="4c12f-115">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="4c12f-116">万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に記載の手順を実行してください。</span><span class="sxs-lookup"><span data-stu-id="4c12f-116">As a precaution, follow the steps in [Responding to a Compromised Email Account in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) for the user.</span></span>
