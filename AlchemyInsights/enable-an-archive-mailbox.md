@@ -2,7 +2,8 @@
 title: アーカイブ メールボックスの有効化
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811710"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857885"
 ---
 # <a name="enable-an-archive-mailbox"></a>アーカイブ メールボックスの有効化
 
-自動チェックを実行してアーカイブメールボックスを設定できるようにする場合は、このページの上部にある [戻る <--] ボタンを選択し、そのアカウントのメールアドレスを入力します。
+M365 コンプライアンス センターでアーカイブを有効にするには:
 
-Microsoft 365 のアーカイブ メールボックス (*オンライン アーカイブ*または*インプレース アーカイブ*とも呼ばれます) は、追加のメール ストレージをユーザーに提供します。 ユーザーは、アイテムをアーカイブ メールボックスに移動したり、コピーしたりできます。管理者は、アイテムを自動的にアーカイブ メールボックスに移動させることができる、アーカイブ ポリシーを作成できます。
-  
-アーカイブ メールボックスを作成する方法は次のとおりです。
-  
-1. [https://protection.office.com](https://protection.office.com) に移動します。
+1. [https://compliance.microsoft.com](https://compliance.microsoft.com) に移動します。
+2. **[情報ガバナンス]** を選択します。
+3. 次に、**[アーカイブ]** オプションをクリックします。
 
-2. 管理者アカウントを使って Microsoft 365 にサインインします。
+または、[リンク先](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)をクリックします。  
 
-3. セキュリティ/コンプライアンス センター&amp;の左のウィンドウで、**[情報ガバナンス]** \> **[アーカイブ]** の順にクリックします。
-
-4. アーカイブ メールボックスを有効にするユーザーを選択します。
-
-5. 右の詳細ウィンドウで [**有効**] をクリックし、警告メッセージで [**はい**] をクリックしてアーカイブ メールボックスを有効にします。
-
-アーカイブ メールボックスを一括で有効にするには、(**Shift** キーまたは **Ctrl** キーを使用して) 複数のユーザーを選択し、詳細ウィンドウで [**有効**] をクリックします。
-  
-### <a name="shared-mailboxes"></a>共有メールボックス
-
-共有メールボックスのアーカイブを有効にするには、Exchange Online プラン 2 のライセンス、または Exchange Online Archiving のライセンスの付いた Exchange Online プラン 1 のライセンスが必要です。  
-
-共有メールボックスのアーカイブを有効にするには、次の操作を行います。
+共有メールボックス:
 
 1. [Exchange 管理センター](https://outlook.office365.com/ecp) に移動し、管理者アカウントを使用してサインインします。
-
 2. **[受信者]** > **[共有]** の順に移動します。
-
 3. 共有メールボックスを選択します。
-
 4. 右の詳細ウィンドウの **[インプレース アーカイブ]** で **[有効]** をクリックし、次に **[はい]** をクリックしてアーカイブ メールボックスを有効にします。
 
-詳細については、以下を参照してください。
-  
-- [アーカイブ メールボックスの有効化](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [アーカイブと削除ポリシーを設定する](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+メッセージをアーカイブ メールボックスに移動する方法の詳細については、「[アーカイブと削除ポリシーを設定する](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)」を参照してください。
