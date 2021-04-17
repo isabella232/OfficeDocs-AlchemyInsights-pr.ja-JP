@@ -2,7 +2,7 @@
 title: Visio サブスクリプションを購入する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662357"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835888"
 ---
 # <a name="purchase-visio-subscription"></a>Visio サブスクリプションを購入する
 
-管理者は、組織の Visio サブスクリプションを **Microsoft 365 管理センター**から購入できます。
+管理者は、組織の Visio サブスクリプションを **Microsoft 365 管理センター** から購入できます。
 
 1. **[課金]** > **[[サービスの購入]](https://go.microsoft.com/fwlink/p/?linkid=868433)** ページに移動して、組織で購入できるサブスクリプションを表示します。
 

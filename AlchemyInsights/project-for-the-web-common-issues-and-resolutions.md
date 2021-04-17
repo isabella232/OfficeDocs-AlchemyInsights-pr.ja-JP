@@ -2,7 +2,7 @@
 title: Project for the web の一般的な問題と解決策
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: 6b195b96ec80552c9564530d04bbb41a4ab974f7
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: bc36ee72f5242a4db124931be50f2f9e745ca730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949786"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835960"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Project for the web の一般的な問題と解決策
 

@@ -2,7 +2,7 @@
 title: Microsoft 365 アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802782"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836212"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 アプリのメッセージ - 関連する Office ライセンスが見つかりませんでした
 
