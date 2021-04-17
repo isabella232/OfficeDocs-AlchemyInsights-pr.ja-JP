@@ -2,7 +2,7 @@
 title: 別のメール エイリアスを追加する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fc3f73e1c186b9296a6780b5438ec85a66dee713
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571670"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822676"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>ユーザーのメール エイリアスを作成または追加する
 

@@ -2,7 +2,7 @@
 title: デバイス ベースのライセンスを使用して Office をライセンス認証する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
-ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
+ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50094042"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823000"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>デバイス ベースのライセンスを使用して Office をライセンス認証する
 

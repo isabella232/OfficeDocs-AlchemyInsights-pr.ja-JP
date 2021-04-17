@@ -2,7 +2,7 @@
 title: リストまたはライブラリにコンテンツ タイプを追加する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90dccd7afeb645ab07fc36f79ef18fd1710e7872
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697382"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822820"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>リストまたはライブラリにコンテンツ タイプを追加する
 

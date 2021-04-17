@@ -2,7 +2,7 @@
 title: ライセンス認証/サインインの問題 - 別のアカウントがすでにサインインしている
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 28cab94af5c3e57bce5a41d36c20a57ebfa825ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697742"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822928"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Microsoft 365 アプリでの「申し訳ございません。このコンピューターに、組織内の別のアカウントが既にサインインしています」というメッセージを解決する
 
