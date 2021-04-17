@@ -2,7 +2,7 @@
 title: 既定のビデオ アップロード アクセス許可を制限する
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6622deada7e652bdad86cd95f1564f22634e7b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692012"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835672"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>既定のビデオ アップロード アクセス許可を制限する
 
