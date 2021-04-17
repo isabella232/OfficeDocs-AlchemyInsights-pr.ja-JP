@@ -2,7 +2,7 @@
 title: 自動分類が AIP クライアントで期待どおりに動作しない
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: d7a2246d78cbd6c4ab40c2a4e5a21807933b619a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715206"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820903"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>自動分類が AIP クライアントで期待どおりに動作しない
 

@@ -2,7 +2,7 @@
 title: 'AIP: 期待どおりに動作しないポリシー'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821632"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: 期待どおりに動作しないポリシー
 

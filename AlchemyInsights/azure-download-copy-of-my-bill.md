@@ -2,7 +2,7 @@
 title: Azure で請求書のコピーをダウンロードまたは要求する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: 76f5bd17b93e10bf2325ab1c027b15acf741e90e
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922246"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820867"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Azure で請求書のコピーをダウンロードまたは要求する
 

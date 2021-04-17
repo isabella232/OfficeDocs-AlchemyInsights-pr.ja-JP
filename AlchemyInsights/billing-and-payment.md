@@ -2,7 +2,7 @@
 title: 請求と支払い
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686035"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820399"
 ---
 # <a name="billing-and-payment"></a>請求と支払い
 
@@ -25,7 +25,7 @@ ms.locfileid: "47686035"
 
 **メールで請求書を受信する**
 
-**[請求]** > [[請求の通知]](https://go.microsoft.com/fwlink/p/?linkid=853212) ページに移動してこの機能を**有効**にすると、請求書をメールの添付ファイルとして受け取るユーザーを管理することができます。 請求書は、通知受信者リストのユーザーのメール アドレスに送信されます。 リストには、すべての請求とグローバル管理者が含まれます。  ロールを変更することで、請求書の通知を受け取るユーザーを管理することができます。  グローバルまたは請求管理者ロールを削除すると、そのユーザーが受信者リストから削除され、グローバルまたは請求管理者ロールを追加すると、そのユーザーが受信者リストに追加されます。
+**[請求]** > [[請求の通知]](https://go.microsoft.com/fwlink/p/?linkid=853212) ページに移動してこの機能を **有効** にすると、請求書をメールの添付ファイルとして受け取るユーザーを管理することができます。 請求書は、通知受信者リストのユーザーのメール アドレスに送信されます。 リストには、すべての請求とグローバル管理者が含まれます。  ロールを変更することで、請求書の通知を受け取るユーザーを管理することができます。  グローバルまたは請求管理者ロールを削除すると、そのユーザーが受信者リストから削除され、グローバルまたは請求管理者ロールを追加すると、そのユーザーが受信者リストに追加されます。
 
 **注**: 2 通の異なるメールを受け取ります。1 通目は請求の準備ができたことと、管理センターにログオンしてそれを確認するための手順を伝えるもので、2 通目には請求明細書が添付されています。
 

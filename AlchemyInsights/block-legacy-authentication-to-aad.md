@@ -2,7 +2,7 @@
 title: 条件付きアクセスを使用して Azure AD への従来の認証をブロックする
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06cfee003edae01b43f4c998485b91f256611a42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820147"
 ---
 # <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>条件付きアクセスを使用して Azure AD への従来の認証をブロックする
 
