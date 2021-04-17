@@ -2,7 +2,7 @@
 title: Microsoft Intune の登録オプションに関する問題のトラブルシューティング
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9e375d1ae3f6bfa56c4c050a296a0ae9b0ce05f9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830911"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="7e136-102">Microsoft Intune の登録オプションに関する問題のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="7e136-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="25184-102">Microsoft Intune の登録オプションに関する問題のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="25184-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="7e136-103">今すぐ問題を解決するには、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="7e136-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="25184-103">今すぐ問題を解決するには、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="25184-103">Review the resources listed below to resolve your issue now.</span></span>
   
-- <span data-ttu-id="7e136-104">[Intune の TechNet で一般的な問題の回答および解決策を見つける](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。</span><span class="sxs-lookup"><span data-stu-id="7e136-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="25184-104">[Intune の TechNet で一般的な問題の回答および解決策を見つける](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。</span><span class="sxs-lookup"><span data-stu-id="25184-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
 
-- <span data-ttu-id="7e136-p101">[Intune トラブルシューティング ポータル](https://aka.ms/intunetroubleshooting)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e136-p101">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+- <span data-ttu-id="25184-p101">[Intune トラブルシューティング ポータル](https://aka.ms/intunetroubleshooting)を利用して、診断し、一般的な登録エラーを解決します。詳細については、[このドキュメント](https://docs.microsoft.com/intune/help-desk-operators)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="25184-p101">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-- <span data-ttu-id="7e136-107">登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7e136-107">Review [this document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
+- <span data-ttu-id="25184-107">登録できない一般的なエラーと各エラーの解決策の一覧については、[このドキュメント](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="25184-107">Review [this document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
 
-- <span data-ttu-id="7e136-108">[Microsoft Intune の登録オプションの説明](https://docs.microsoft.com/intune/enrollment-options)。</span><span class="sxs-lookup"><span data-stu-id="7e136-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="25184-108">[Microsoft Intune の登録オプションの説明](https://docs.microsoft.com/intune/enrollment-options)。</span><span class="sxs-lookup"><span data-stu-id="25184-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>

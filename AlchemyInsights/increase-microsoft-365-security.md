@@ -2,7 +2,7 @@
 title: 強化された Microsoft 365 のセキュリティ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 89756a8266ec80766a01bcc2f17d5540b8591de2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e7b175267d1839c46f5dd2ca524e66ae6034c4f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830182"
 ---
-# <a name="increase-microsoft-365-security"></a><span data-ttu-id="b3aac-102">強化された Microsoft 365 のセキュリティ</span><span class="sxs-lookup"><span data-stu-id="b3aac-102">Increase Microsoft 365 Security</span></span>
+# <a name="increase-microsoft-365-security"></a><span data-ttu-id="614ce-102">強化された Microsoft 365 のセキュリティ</span><span class="sxs-lookup"><span data-stu-id="614ce-102">Increase Microsoft 365 Security</span></span>
 
-<span data-ttu-id="b3aac-103">Microsoft 365 テナントの[推奨セキュリティ構成](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide)を確認してください。</span><span class="sxs-lookup"><span data-stu-id="b3aac-103">Review [recommended security configuration](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) for your Microsoft 365 Tenant.</span></span>
+<span data-ttu-id="614ce-103">Microsoft 365 テナントの[推奨セキュリティ構成](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide)を確認してください。</span><span class="sxs-lookup"><span data-stu-id="614ce-103">Review [recommended security configuration](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) for your Microsoft 365 Tenant.</span></span>
 
-- <span data-ttu-id="b3aac-104">[Microsoft セキュア スコア](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide)について学び、[行動を起こして](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) **スコアを上げます**。</span><span class="sxs-lookup"><span data-stu-id="b3aac-104">Learn about the [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) and [take action](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) to **improve your score**.</span></span>
+- <span data-ttu-id="614ce-104">[Microsoft セキュア スコア](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide)について学び、[行動を起こして](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) **スコアを上げます**。</span><span class="sxs-lookup"><span data-stu-id="614ce-104">Learn about the [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) and [take action](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) to **improve your score**.</span></span>
 
-- <span data-ttu-id="b3aac-105">**侵害されたアカウント**を含む[セキュリティ インシデントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide)について説明します。</span><span class="sxs-lookup"><span data-stu-id="b3aac-105">Learn about [Responding to Security Incidents](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), including **compromised accounts**.</span></span>
+- <span data-ttu-id="614ce-105">**侵害されたアカウント** を含む [セキュリティ インシデントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide)について説明します。</span><span class="sxs-lookup"><span data-stu-id="614ce-105">Learn about [Responding to Security Incidents](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), including **compromised accounts**.</span></span>
 
-<span data-ttu-id="b3aac-106">詳細については、「[Microsoft 365 セキュリティの入門](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b3aac-106">For more info, see [Getting Started with Microsoft 365 Security](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide).</span></span> 
+<span data-ttu-id="614ce-106">詳細については、「[Microsoft 365 セキュリティの入門](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="614ce-106">For more info, see [Getting Started with Microsoft 365 Security](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide).</span></span> 
