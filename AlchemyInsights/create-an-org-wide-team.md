@@ -2,7 +2,7 @@
 title: 組織内の全員を含む、組織全体のチームを作成する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 83533db037265355bccb227abac2b3073d3b4215
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291761"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816169"
 ---
-# <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a><span data-ttu-id="b3681-102">組織内の全員を含む、組織全体のチームを作成する</span><span class="sxs-lookup"><span data-stu-id="b3681-102">Create an org-wide Team that includes everyone in your organization</span></span>
+# <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a><span data-ttu-id="d13a5-102">組織内の全員を含む、組織全体のチームを作成する</span><span class="sxs-lookup"><span data-stu-id="d13a5-102">Create an org-wide Team that includes everyone in your organization</span></span>
 
-<span data-ttu-id="b3681-103">会社または組織のすべてのメンバーが含まれているチームを作成することができます。これは、[組織全体にわたるチーム](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)とも呼ばれます。</span><span class="sxs-lookup"><span data-stu-id="b3681-103">You may be able to create a Team that includes all members of your company or organization, also known as an [org-wide Team](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).</span></span>
+<span data-ttu-id="d13a5-103">会社または組織のすべてのメンバーが含まれているチームを作成することができます。これは、[組織全体にわたるチーム](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)とも呼ばれます。</span><span class="sxs-lookup"><span data-stu-id="d13a5-103">You may be able to create a Team that includes all members of your company or organization, also known as an [org-wide Team](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).</span></span>
 
-- <span data-ttu-id="b3681-104">組織の **ユーザー数は 10,000 人以下** ですか?</span><span class="sxs-lookup"><span data-stu-id="b3681-104">Does your organization have **fewer than 10,000 users**?</span></span> <span data-ttu-id="b3681-105">現在、組織全体にわたるチームは、ユーザー数が 10,000 人以下の組織に制限されています。</span><span class="sxs-lookup"><span data-stu-id="b3681-105">Currently org-wide teams are limited to orgs with 10,000 or fewer users.</span></span> <span data-ttu-id="b3681-106">将来的には、この枠を拡大しようと考えています。</span><span class="sxs-lookup"><span data-stu-id="b3681-106">We're looking to increase this limit in the future.</span></span>
+- <span data-ttu-id="d13a5-104">組織の **ユーザー数は 10,000 人以下** ですか?</span><span class="sxs-lookup"><span data-stu-id="d13a5-104">Does your organization have **fewer than 10,000 users**?</span></span> <span data-ttu-id="d13a5-105">現在、組織全体にわたるチームは、ユーザー数が 10,000 人以下の組織に制限されています。</span><span class="sxs-lookup"><span data-stu-id="d13a5-105">Currently org-wide teams are limited to orgs with 10,000 or fewer users.</span></span> <span data-ttu-id="d13a5-106">将来的には、この枠を拡大しようと考えています。</span><span class="sxs-lookup"><span data-stu-id="d13a5-106">We're looking to increase this limit in the future.</span></span>
 
-- <span data-ttu-id="b3681-107">組織全体にわたるチームは、**教育機関向け Teams** では現在のところ **利用できません**。</span><span class="sxs-lookup"><span data-stu-id="b3681-107">Org-wide teams **are currently unavailable** for **Teams for Education**.</span></span>
+- <span data-ttu-id="d13a5-107">組織全体にわたるチームは、**教育機関向け Teams** では現在のところ **利用できません**。</span><span class="sxs-lookup"><span data-stu-id="d13a5-107">Org-wide teams **are currently unavailable** for **Teams for Education**.</span></span>
 
-- <span data-ttu-id="b3681-108">**サービス アカウント**、**ゲスト ユーザー アカウント**、**サインインがブロックされているアカウント** など、組織全体にわたるチームには組み込まれない種類のアカウントがあります。</span><span class="sxs-lookup"><span data-stu-id="b3681-108">Certain types of accounts won't be included in an org-wide team, including **service accounts**, **guest user accounts**, or **accounts blocked from sign-in**.</span></span>
+- <span data-ttu-id="d13a5-108">**サービス アカウント**、**ゲスト ユーザー アカウント**、**サインインがブロックされているアカウント** など、組織全体にわたるチームには組み込まれない種類のアカウントがあります。</span><span class="sxs-lookup"><span data-stu-id="d13a5-108">Certain types of accounts won't be included in an org-wide team, including **service accounts**, **guest user accounts**, or **accounts blocked from sign-in**.</span></span>
 
-<span data-ttu-id="b3681-109">組織全体にわたるチームの詳細については、「[Microsoft Teams で組織全体にわたるチームを作成する](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="b3681-109">For complete information regarding org-wide Teams, see [Create an org-wide team in Microsoft Teams](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).</span></span> 
+<span data-ttu-id="d13a5-109">組織全体にわたるチームの詳細については、「[Microsoft Teams で組織全体にわたるチームを作成する](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="d13a5-109">For complete information regarding org-wide Teams, see [Create an org-wide team in Microsoft Teams](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).</span></span> 
