@@ -2,7 +2,7 @@
 title: サブスクリプションからパートナーを削除する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5064"
-ms.openlocfilehash: a1b9872f53fba2b8d7f633a27b2516b8cc267cb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ec500ac54c3bd610bf83d1f1e237a5e5f2d3c557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828841"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>サブスクリプションからパートナーを削除する
 
-パートナーは **Microsoft 365 管理センター**でサブスクリプションから削除できます。 再販業者関係を自分で削除することは**できません**。 再販業者パートナーに、[パートナーとの再販業者関係を削除する](https://docs.microsoft.com/partner-center/remove-a-relationship)手順に従うように依頼する必要があります。
+パートナーは **Microsoft 365 管理センター** でサブスクリプションから削除できます。 再販業者関係を自分で削除することは **できません**。 再販業者パートナーに、[パートナーとの再販業者関係を削除する](https://docs.microsoft.com/partner-center/remove-a-relationship)手順に従うように依頼する必要があります。
 
 **サブスクリプションからパートナーを削除する**
 

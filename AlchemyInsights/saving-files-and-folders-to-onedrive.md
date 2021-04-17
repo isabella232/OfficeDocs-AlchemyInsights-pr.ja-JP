@@ -2,7 +2,7 @@
 title: OneDrive にファイルやフォルダーを保存する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 1c612a91cc2674e097f108a3d57898e2b24e901b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d6a1b2b7c0aafd539ba2aee24ef70605627b3c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774248"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828625"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>OneDrive にファイルやフォルダーを保存する
 

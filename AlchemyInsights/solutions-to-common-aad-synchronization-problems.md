@@ -2,7 +2,7 @@
 title: 一般的な AAD 同期の問題の解決策
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4867"
-ms.openlocfilehash: 0ca019322ff4ccb2ad1b7dcc109082cc6b55eb18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26e49421b1b0c1d8ce79121f8dbdea16a06c552
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738138"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828229"
 ---
 # <a name="solutions-to-common-aad-synchronization-problems"></a>一般的な AAD 同期の問題の解決策
 

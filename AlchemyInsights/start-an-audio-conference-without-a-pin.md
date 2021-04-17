@@ -2,7 +2,7 @@
 title: PIN を使用せずに音声会議を開始する
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: 2ba4dd1ef2725cf78de51ddcd8b510d90e504096
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 524d2b4d8475907fae18448120983bca8f696f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726600"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828193"
 ---
 # <a name="start-an-audio-conference-without-a-pin"></a>PIN を使用せずに音声会議を開始する
 
 **会議への匿名の発信者の参加を有効または無効にするには**
 
-**Microsoft Teams 管理センター**を使用する場合は、以下の操作を行います。
+**Microsoft Teams 管理センター** を使用する場合は、以下の操作を行います。
 
 1. 左側のナビゲーションで、**[ユーザー]** をクリックします。
 2. 一覧でユーザーを選択し、ページの上部にある **[編集]** をクリックします。

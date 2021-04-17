@@ -2,7 +2,7 @@
 title: 教育機関のお客様向け Teams の一般的な問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 6d1fac07673f6f945f382e4e640cf44afb76717d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829453"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>教育機関のお客様向け Teams の一般的な問題
 
