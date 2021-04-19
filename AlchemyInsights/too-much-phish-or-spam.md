@@ -3,24 +3,27 @@ title: 665 メールボックスに大量のフィッシングまたはスパム
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700244"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824620"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>メールボックスに大量のフィッシングまたはスパムを受信して​​いますか?
 
-Microsoft 365 管理者として、フィッシングまたはスパム メッセージが配信された理由を判断する最良の方法は、[[報告エクスプローラー](https://protection.office.com/reportsubmission)] でサンプルを Microsoft に送信することです。 メッセージのフィルタリングと問題がある理由に関連するフィードバックがすぐに得られます。
+**注** [https://security.microsoft.com](https://security.microsoft.com) で、Microsoft 365 セキュリティ センターにアクセスできます。
+
+Microsoft 365 管理者として、フィッシングまたはスパム メッセージが配信された理由を判断する最良の方法は、[[報告エクスプローラー](https://security.microsoft.com/reportsubmission)] でサンプルを Microsoft に送信することです。 メッセージのフィルタリングと問題がある理由に関連するフィードバックがすぐに得られます。
 
 簡単にするために、ユーザーが[レポート メッセージ アドイン](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)を介して Microsoft に直接報告できるようにすることができます。
 
-**ご存知ですか?**: [メッセージの追跡](https://protection.office.com/messagetrace) から直接サンプルを提出できるようになり、E5/ATP プラン 2 の顧客は、[脅威エクスプローラー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) からサンプルを提出できるようになりました。
+**ご存知ですか?**: [メッセージの追跡](https://security.microsoft.com/messagetrace) から直接サンプルを提出できるようになり、E5/ATP プラン 2 の顧客は、[脅威エクスプローラー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) からサンプルを提出できるようになりました。
