@@ -2,7 +2,7 @@
 title: デバイスは登録待ち状態です
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730740"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815359"
 ---
 # <a name="devices-are-in-awaiting-enrollment-state"></a>デバイスは "登録待ち" 状態です
 
@@ -25,6 +25,6 @@ Desktop Analytics には、このデバイスの診断データはありませ�
 
 この問題はデバイスをターゲット コレクションに最近追加し、まだデータを送信していない場合に発生する可能性があります。 また、デバイスがサービスと適切に通信しておらず、最新の診断データが 28 日以上経過していることも意味します。
 
-デバイスがサービスと通信できることを確認してください。 詳細については、 [エンドポイント](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)を参照してください。
+デバイスがサービスと通信できることを確認してください。 詳細については、「[エンドポイント](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)」を参照してください。
 
 登録待ちステータスの詳細については、「[Monitor Connection Health (接続の正常性を監視する)](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)」を参照してください。
