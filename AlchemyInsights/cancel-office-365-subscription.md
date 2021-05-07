@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 0dc2436fa0e52b1b13348d0f79247fcb75423d95
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348634"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261633"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションをキャンセルしますか?
 
@@ -24,7 +24,7 @@ ms.locfileid: "49348634"
   
 - 試用版のお客様の場合は、キャンセルするためにやるべきことは何もありません。試用版のサブスクリプションは、支払方法を指定しない限り、自動的に期限切れになります。
 - 割り当て済みのライセンス数が 25 未満の場合は、オンラインでサブスクリプションをキャンセルできます。 **[課金]** \> [[お使いの製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動して、キャンセルするサブスクリプションを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[サブスクリプションをキャンセルする]** を選択します。
-- ユーザーに割り当てられたライセンスが 25 よりも多い場合は、[サポートを呼び出してサブスクリプションをキャンセルします](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
+- ユーザーに割り当てられたライセンスが 25 よりも多い場合は、[サポートを呼び出してサブスクリプションをキャンセルします](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
 
 **返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。**
 

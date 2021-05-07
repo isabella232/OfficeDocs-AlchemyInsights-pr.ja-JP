@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811065"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261764"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 電話会議
 
@@ -40,4 +40,4 @@ ms.locfileid: "51811065"
 
 7. 該当するユーザーを選択し、そのユーザーに **既定の有料電話番号** があることを確認します。
 
-**Microsoft 電話会議** のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)まで電話でお問い合わせください。
+**Microsoft 電話会議** のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)まで電話でお問い合わせください。
