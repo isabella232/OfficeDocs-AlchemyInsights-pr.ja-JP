@@ -11,17 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708535"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312409"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Microsoft Edge を kiosk モードで実行する
 
-Microsoft Edge バージョン 77 以降、および Microsoft Edge レガシ バージョン 45 以前でキオスクモードを構成することができます。
+Microsoft Edge バージョン 87 以降、および Microsoft Edge 従来版 バージョン 45 以前でキオスク モードを構成することができます。 詳しくは、「[Microsoft Edge キオスク モードを構成する](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)」をご覧ください。
 
 Windows 10 で実行されるデバイスを、[単一アプリまたはマルチアプリ キオスク モード](https://go.microsoft.com/fwlink/?linkid=2133659)で実行するように構成できます。
 
