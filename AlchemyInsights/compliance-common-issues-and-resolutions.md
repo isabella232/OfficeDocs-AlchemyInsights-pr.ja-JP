@@ -12,27 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817357"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470208"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>コンプライアンスの一般的な問題と解決策
 
+アラートの表示の詳細については、「[セキュリティ/コンプライアンス センターでのアラート ポリシー](/microsoft-365/compliance/alert-policies.md)」を参照してください。
+
 コンプライアンスについてよく寄せられるトピックは次の通りです。
 
-- アーカイブおよびアーカイブに自動的に移動しないメッセージを構成する方法: [アーカイブを有効にし、アーカイブ ポリシーを設定して](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide)、[アーカイブ サイズを拡大する](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide)必要があります。
+- アーカイブおよびアーカイブに自動的に移動しないメッセージを構成する方法: [アーカイブを有効にし、アーカイブ ポリシーを設定して](/microsoft-365/compliance/enable-archive-mailboxes.md)、[アーカイブ サイズを拡大する](/microsoft-365/compliance/enable-unlimited-archiving.md)必要があります。
 
-- アイテム保持ポリシー: コンテンツの保持または削除のための、[保持期間の計算](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age)、[保持タグの追加または削除](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)、[セキュリティ/コンプライアンス センターでのアイテム保持ポリシーの使用](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide)に関する質問。
+- アイテム保持ポリシー: コンテンツの保持または削除のための、[保持期間の計算](/exchange/security-and-compliance/messaging-records-management/retention-age.md)、[保持タグの追加または削除](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md)、[セキュリティ/コンプライアンス センターでのアイテム保持ポリシーの使用](/microsoft-365/compliance/retention-policies.md)に関する質問。
 
-- 電子情報開示およびコンテンツ検索のセットアップとエクスポート: [コンテンツ検索](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide)と[検索結果のエクスポート](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)。
+- 電子情報開示およびコンテンツ検索のセットアップとエクスポート: [コンテンツ検索](/microsoft-365/compliance/search-for-content.md)と[検索結果のエクスポート](/microsoft-365/compliance/export-search-results.md)。
 
-- O365 での監査: [O365 で監査ログを検索](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)します。
+- O365 での監査: [O365 で監査ログを検索](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md)します。
 
-- データ損失防止 (DLP) : 詳細については、「[データ損失防止 (DLP) の概要](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)」を参照してください。
+- データ損失防止 (DLP) : 詳細については、「[データ損失防止 (DLP) の概要](/microsoft-365/compliance/data-loss-prevention-policies.md)」を参照してください。
  
-- 秘密度ラベル: 詳しい手順については、「[秘密度ラベルとそのポリシーを作成し構成する](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)」を参照してください。
+- 秘密度ラベル: 詳しい手順については、「[秘密度ラベルとそのポリシーを作成し構成する](/microsoft-365/compliance/create-sensitivity-labels.md)」を参照してください。
 
 **注:** コンプライアンスの問題に関するより具体的な回答をお求めの場合は、質問を簡潔にまとめ、発生しているエラーまたは使用している機能を含めてください。
