@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751257"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539757"
 ---
 # <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise プランの相違点
 
 Microsoft 365 Enterprise E5 には、Microsoft 365 Enterprise E3 のすべての機能に加えて、次のような高度なセキュリティ対策が含まれています。
 
-- Advanced Threat Protection (ATP)
+- 脅威に対する保護
 - すばやく GDPR データを検出する
 - カスタマー ロックボックス
 - Microsoft 365 Cloud App Security
