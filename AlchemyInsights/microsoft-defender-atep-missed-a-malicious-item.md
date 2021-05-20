@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 634f6804a7b2bfe5ffde62e972bff541fdf3ff68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725196"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544041"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP は悪意のあるアイテムを逃しました
 
 - [Microsoft Defender Response Portal ](https://www.microsoft.com/wdsi/filesubmission/)で分析するために、悪意のあるファイルを Microsoft に送信します。 
 - サインインしている場合は、[Microsoft Defender Response Portal ](https://www.microsoft.com/wdsi/submissionhistory)でファイルの送信履歴を見つけます。
-- 詳細については、「[分析のためにファイルを送信する](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide)」を参照してください。
+- 詳細については、「[分析のためにファイルを送信する](/windows/security/threat-protection/intelligence/submission-guide)」を参照してください。

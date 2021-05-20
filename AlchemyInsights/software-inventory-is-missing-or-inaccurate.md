@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665291"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543969"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>ソフトウェアインベントリが存在しないか不正確です
 
-Microsoft Defender ATP サービスのソフトウェアインベントリは、製品名またはベンダー、その最新バージョン番号、検出された短所と脆弱性を提供します。 詳細については、「[ソフトウェアインベントリ - 脅威と脆弱性の管理](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)」を参照してください。
+Microsoft Defender ATP サービスのソフトウェアインベントリは、製品名またはベンダー、その最新バージョン番号、検出された短所と脆弱性を提供します。 詳細については、「[ソフトウェアインベントリ - 脅威と脆弱性の管理](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)」を参照してください。
 
 次の手順に従って、あいまいな情報や不完全な情報、不正確なバージョン番号、修正されたソフトウェアインベントリ情報を報告できます。  
 
