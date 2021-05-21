@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798957"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544655"
 ---
-# <a name="set-up-spf"></a><span data-ttu-id="01d83-102">SPF をセットアップする</span><span class="sxs-lookup"><span data-stu-id="01d83-102">Set up SPF</span></span>
+# <a name="set-up-spf"></a><span data-ttu-id="fb56b-102">SPF をセットアップする</span><span class="sxs-lookup"><span data-stu-id="fb56b-102">Set up SPF</span></span>
 
-<span data-ttu-id="01d83-p101">DNS レコードを更新し、カスタム ドメインに Sender Policy Framework (SPF) を使用して、カスタム ドメインから送信されたメールを検証できます。これにより、ご使用のドメインから「スプーフィング」メールが送信されるのを防ぐことができます。</span><span class="sxs-lookup"><span data-stu-id="01d83-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="fb56b-p101">DNS レコードを更新し、カスタム ドメインに Sender Policy Framework (SPF) を使用して、カスタム ドメインから送信されたメールを検証できます。これにより、ご使用のドメインから「スプーフィング」メールが送信されるのを防ぐことができます。</span><span class="sxs-lookup"><span data-stu-id="fb56b-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="01d83-105">SPF を設定して、スプーフィングを防止する</span><span class="sxs-lookup"><span data-stu-id="01d83-105">Set up SPF to help prevent spoofing</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="fb56b-105">SPF を設定して、スプーフィングを防止する</span><span class="sxs-lookup"><span data-stu-id="fb56b-105">Set up SPF to help prevent spoofing</span></span>](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [<span data-ttu-id="01d83-106">すべての DNS レコードをセットアップする</span><span class="sxs-lookup"><span data-stu-id="01d83-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="fb56b-106">SPF レコードのトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="fb56b-106">Troubleshooting SPF records</span></span>](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [<span data-ttu-id="fb56b-107">すべての DNS レコードをセットアップする</span><span class="sxs-lookup"><span data-stu-id="fb56b-107">Help setting up all DNS records</span></span>](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

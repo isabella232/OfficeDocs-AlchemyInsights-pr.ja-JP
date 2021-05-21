@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52543114"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="34c91-102">Microsoft Defender ATP のデータの保存場所を変更する</span><span class="sxs-lookup"><span data-stu-id="34c91-102">Change data storage location for Microsoft Defender ATP</span></span>
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="238c6-102">Microsoft Defender ATP のデータの保存場所を変更する</span><span class="sxs-lookup"><span data-stu-id="238c6-102">Change data storage location for Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="34c91-103">Microsoft Defender ATPで使用されるデータ格納場所を変更するには、マイクロソフトでサポート ケースを開きます。</span><span class="sxs-lookup"><span data-stu-id="34c91-103">To change the data storage location used by the Microsoft Defender ATP, open a support case with Microsoft.</span></span>
+<span data-ttu-id="238c6-103">ユーザーが使用するデータ格納場所を変更するにはMicrosoft Defender ATPサポート ケースを Microsoft で開きます。</span><span class="sxs-lookup"><span data-stu-id="238c6-103">To change the data storage location used by the Microsoft Defender ATP, open a support case with Microsoft.</span></span>
