@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751208"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543762"
 ---
 # <a name="create-a-sensitivity-label"></a>秘密度ラベルを作成する
 
 秘密度ラベルを作成するには、次の手順を実行します。
 
 1. **[[Office 365 セキュリティ/コンプライアンス センター]](https://sip.protection.office.com/)、[分類]、[秘密度レベル]** の順に移動します。
-2. **[+ ラベルの作成]** を選択して、**[新しい秘密度ラベル]** ウィザードを起動します。 暗号化設定と自動ラベル付けの詳細については、「[秘密度ラベルの暗号化を使用してコンテンツへのアクセスを制限する](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels)」および「[機密ラベルをコンテンツに自動的に適用する](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)」を参照してください。
-3. さらにラベルを作成するには、これらの手順を繰り返します。 ただし、サブ ラベルを作成する場合は、まず親ラベルを選択してから、[**その他のアクション**] の [**...**] をクリックし、[**サブ ラベルの追加**] をクリックます。
-4. 必要なすべてのラベルを作成したら、ラベルの順序を確認し、必要に応じて上下に移動します。 ラベルの順序を変更するには、[**その他のアクション**] の [**...**] をクリックして、[**上へ移動**] または [**下へ移動**] をクリックします。 
+2. **[+ ラベルの作成]** を選択して、**[新しい秘密度ラベル]** ウィザードを起動します。暗号化設定と自動ラベル付けの詳細については、「[秘密度ラベルの暗号化を使用してコンテンツへのアクセスを制限する](/microsoft-365/compliance/encryption-sensitivity-labels)」および「[機密ラベルをコンテンツに自動的に適用する](/microsoft-365/compliance/apply-sensitivity-label-automatically)」を参照してください。
+3. これらの手順を繰り返して、さらにラベルを作成します。ただし、サブラベルを作成する場合は、まず親ラベルを選択してから、3 つのドット (その他の操作) を選択し、**[サブラベルの追加]** を選択します。
+4. 必要なすべてのラベルを作成したら、ラベルの順序を確認し、必要に応じて上下に移動します。 ラベルの順序を変更するには、3 つのドット (その他の操作) を選択して、**[上へ移動]** または **[下へ移動]** を選択します。 

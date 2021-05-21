@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232264"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543150"
 ---
 # <a name="change-app-license-quantity"></a>アプリのライセンス数を変更する
 
@@ -28,7 +28,7 @@ ms.locfileid: "50232264"
 これを行う方法を示す **ビデオを見る**: [新しいライセンスを購入する](https://go.microsoft.com/fwlink/p/?linkid=2154857)か、[既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します
 
 1. **[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。
-2. **[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけます。 **[その他の操作]** (3 つのドット) を選択してから、**[ライセンスの購入]** を選択します。
+2. **[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけます。 3 つのドット (その他の操作) を選択してから、**[ライセンスの購入]** を選択します。
 3. ライセンスを数を減らす場合は、**[ライセンスの購入]** ウィンドウの上部で、**[ライセンスの削除]** を選択します。
 4. ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。 たとえば、100 のライセンスがあり、さらに 5 つ追加する必要がある場合は、105 と入力します。 ライセンスを 5 つ削除する場合は、95 と入力します。
 5. **[保存]** を選択します。
