@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416175"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544187"
 ---
 # <a name="expired-subscription"></a>期限切れのサブスクリプション
 
@@ -27,13 +27,13 @@ ms.locfileid: "48416175"
 **再アクティブ化**
   
 1. 管理センターで、**[課金]** \> [[お使いの製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
-2. **[製品]** タブで、再アクティブにするサブスクリプションを見つけます。 **その他の操作** (3 つのドット) を選択してから、**[このサブスクリプションを再アクティブ化する]** を選択します。
+2. **[製品]** タブで、再アクティブ化するサブスクリプションを見つけ、3 つのドット (その他の操作) を選択してから、**[このサブスクリプションを再アクティブ化する]** を選択します。
     > [!NOTE]
     > **[このサブスクリプションを再アクティブ化する]** が表示されない場合は、サポートにご連絡ください。
 3. **[このサブスクリプションを再アクティブ化する]** ウィンドウで、ドロップダウン リストから支払い方法を選択するか、**[支払い方法を追加する]** を選択します。
 4. **[保存]** を選択します。
 
-詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションを再度有効にする](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
 
 **新規購入**
   
@@ -42,4 +42,4 @@ ms.locfileid: "48416175"
 3. 必要なライセンス数を入力して、月払いまたは年払いのどちらにするかを選択します。 現在ライセンスを持っていないすべてのユーザーにライセンスを自動的に割り当てるかどうかを選択します。 次に、[**今すぐ支払う**] を選択します。
 4. 残りの手順に従って、チェック アウトを完了します。
 
-詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)」をご覧ください。
+詳細については、「[別のサブスクリプションを購入する](/microsoft-365/commerce/buy-another-subscription)」をご覧ください。

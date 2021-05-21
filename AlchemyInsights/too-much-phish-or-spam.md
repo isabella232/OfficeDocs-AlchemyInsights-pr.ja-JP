@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824620"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544835"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>メールボックスに大量のフィッシングまたはスパムを受信して​​いますか?
 
@@ -26,4 +26,4 @@ Microsoft 365 管理者として、フィッシングまたはスパム メッ�
 
 簡単にするために、ユーザーが[レポート メッセージ アドイン](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)を介して Microsoft に直接報告できるようにすることができます。
 
-**ご存知ですか?**: [メッセージの追跡](https://security.microsoft.com/messagetrace) から直接サンプルを提出できるようになり、E5/ATP プラン 2 の顧客は、[脅威エクスプローラー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) からサンプルを提出できるようになりました。
+**ご存知ですか?**: [メッセージの追跡](https://security.microsoft.com/messagetrace)から直接サンプルを提出できるようになり、E5/Microsoft Defender for Office 365 プラン 2 の顧客は、[脅威エクスプローラー](/microsoft-365/security/office-365-security/threat-explorer)からサンプルを提出できるようになりました。

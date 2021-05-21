@@ -22,4 +22,4 @@ ms.locfileid: "52543114"
 ---
 # <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Microsoft Defender ATP のデータの保存場所を変更する
 
-Microsoft Defender ATPで使用されるデータ格納場所を変更するには、マイクロソフトでサポート ケースを開きます。
+ユーザーが使用するデータ格納場所を変更するにはMicrosoft Defender ATPサポート ケースを Microsoft で開きます。

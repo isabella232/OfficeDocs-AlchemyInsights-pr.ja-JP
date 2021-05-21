@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261764"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544799"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 電話会議
 
-[Microsoft Teams の電話会議](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)を有効にしたり、設定したりする方法について、サポートをご希望ですか?  ユーザーは最近作成されましたか? そうであれば、設定が有効になるまで数時間待つ必要があります。
+[Microsoft Teams の電話会議](/microsoftteams/set-up-audio-conferencing-in-teams)を有効にしたり、設定したりする方法について、サポートをご希望ですか?  ユーザーは最近作成されましたか? そうであれば、設定が有効になるまで数時間待つ必要があります。
 
-[ライセンスを購入した](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)場合、そのユーザーに Microsoft 365 電話会議のライセンスが与えられ、既定の有料電話番号があることを確認してください。
+[ライセンスを購入した](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)場合、そのユーザーに Microsoft 365 電話会議のライセンスが与えられ、既定の有料電話番号があることを確認してください。
 
 1. [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) に移動し、該当するユーザーを選択します。
 
 2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス** の **[編集]** をクリックします。
 
-3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議** のライセンスがない場合、先に [アドオン ライセンスを購入する](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
+3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議** のライセンスがない場合、先に [アドオン ライセンスを購入する](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
 
 4. ユーザー **管理センター** で、**[すべて表示]**、**[Teams]** の順にクリックします。
 
@@ -40,4 +40,4 @@ ms.locfileid: "52261764"
 
 7. 該当するユーザーを選択し、そのユーザーに **既定の有料電話番号** があることを確認します。
 
-**Microsoft 電話会議** のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)まで電話でお問い合わせください。
+**Microsoft 電話会議** のライセンスの購入についてさらにサポートが必要な場合は、[Microsoft 課金サポート](https://go.microsoft.com/fwlink/p/?linkid=518322)までお問い合わせください。

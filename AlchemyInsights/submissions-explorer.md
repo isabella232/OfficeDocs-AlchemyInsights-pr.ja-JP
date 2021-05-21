@@ -1,5 +1,5 @@
 ---
-title: 2554 EOP および ATP の診断に役立つ新しい機能
+title: 2554 EOP と Microsoft Defender for Office 365 の診断に役立つ新機能
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726527"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544907"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>EOP および ATP の診断に役立つ新しい機能
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>EOP と Microsoft Defender for Office 365 の診断に役立つ新機能
 
 管理者として、[[報告エクスプローラー](https://protection.office.com/reportsubmission)] で疑わしいメール メッセージ、URL、およびコンテンツを Microsoft に簡単に報告できるようになりました。 これを使用して、正当なメッセージに誤ってフラグが付けられた理由を理解することもできます。 詳細については、この[お知らせ](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)を参照してください。

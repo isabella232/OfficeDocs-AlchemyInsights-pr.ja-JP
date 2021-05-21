@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801556"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545731"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 の攻撃シミュレータ
 
-- 攻撃シミュレータが見つかりませんか ? 攻撃シミュレータには、 **Microsoft Defender for Office 365 プラン 2 (ATP プラン 2)** または **Office 365 Enterprise E5** が必要です。 攻撃シミュレータは、Microsoft Defender for Office 365 プラン 1 (ATP プラン 1)、Office 365 Enterprise E3、または Microsoft 365 Apps for business サブスクリプションには含まれて **いません** 。
+- 攻撃シミュレータが見つかりませんか ? 攻撃シミュレータには、**Microsoft Defender for Office 365 プラン 2** または **Office 365 Enterprise E5** が必要です。 攻撃シミュレータは、Microsoft Defender for Office 365 プラン 1、Office 365 Enterprise E3、または Microsoft 365 Apps for business サブスクリプションには含まれて **いません**。
 
-- シミュレートされた攻撃を開始するために使用するアカウントには、グローバル管理者またはセキュリティ管理者のアクセス許可および多要素認証 (MFA) が必要です。 攻撃シミュレータの要件の詳細情報については、[このトピック](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)を参照してください。
+- シミュレートされた攻撃を開始するために使用するアカウントには、グローバル管理者またはセキュリティ管理者のアクセス許可および多要素認証 (MFA) が必要です。 攻撃シミュレータの要件の詳細情報については、[このトピック](/microsoft-365/security/office-365-security/attack-simulator)を参照してください。
 
 - **ブルート フォース パスワード** 攻撃シミュレーションに関する重要な注意事項:
 
@@ -33,10 +33,10 @@ ms.locfileid: "48801556"
 
 - **スピア フィッシング** 攻撃のシミュレーションに関する重要な注意事項:
 
-  - 仕様上、 **フィッシング ログイン サーバーの URL** にカスタム値を指定することはできません。
+  - 仕様上、**フィッシング ログイン サーバーの URL** にカスタム値を指定することはできません。
 
-  - 受信者が[レポート メッセージ アドインを有効にする](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)を使用してメッセージをフィッシングとして報告する場合、メッセージのアラートを受信しない場合があります (シミュレートされた攻撃であるため)。
+  - 受信者が[レポート メッセージ アドインを有効にする](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)を使用してメッセージをフィッシングとして報告する場合、メッセージのアラートを受信しない場合があります (シミュレートされた攻撃であるため)。
 
-- レポート: シミュレートされた攻撃が完了したら、[ **攻撃の詳細** ] をクリックしてレポートを確認できます。
+- レポート: シミュレートされた攻撃が完了したら、[**攻撃の詳細**] をクリックしてレポートを確認できます。
 
-- 攻撃シミュレータの詳細な手順および新機能については、「[Microsoft 365 の攻撃シミュレータ](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)」を参照してください。
+- 攻撃シミュレータの詳細な手順および新機能については、「[Microsoft 365 の攻撃シミュレータ](/microsoft-365/security/office-365-security/attack-simulator)」を参照してください。

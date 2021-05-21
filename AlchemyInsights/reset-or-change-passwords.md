@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810201"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569656"
 ---
 # <a name="reset-or-change-passwords"></a>パスワードを再設定または変更する
 
-ユーザーは自分のパスワードを **[マイ アカウント]**  >  [[セキュリティとプライバシー]](https://portal.office.com/account/#security) から変更できます。
+ユーザーが自分のパスワードを変更するには、ユーザーの写真またはイニシャルを選択してから、**[アカウントを表示]** を選択します。
   
 ユーザーが自分のパスワードを忘れた場合は、管理者が **[ユーザー]** > [[アクティブ ユーザー]](https://portal.office.com/adminportal/home#/users) の順に移動して、ユーザーを選択してから **[パスワードの再設定]** をクリックすることでパスワードを再設定できます。
   
-[詳細については、ここをクリック](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)してください。また、ユーザーが忘れたパスワードを自分で再設定することもできます。
+パスワードおよびユーザーによるパスワードのリセットの許可については、「[パスワードをリセットする](/microsoft-365/admin/add-users/reset-passwords)」を参照してください。

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 (ATP) のセットアップ
+title: Microsoft Defender for Office 365 のセットアップ
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708643"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543618"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender for Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Office 365 ATP には、[安全な添付ファイル](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)、[全なリンク](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)、[高度なフィッシング対策](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)などが含まれています。 
+Microsoft Defender for Office 365 には、[安全な添付ファイル](/microsoft-365/security/office-365-security/atp-safe-attachments)、[安全なリンク](/microsoft-365/security/office-365-security/atp-safe-links)、[高度なフィッシング対策](/microsoft-365/security/office-365-security/atp-anti-phishing)などが含まれています。 
 
-ATP は、Office 365 Enterprise E5、Office 365 Education A5、およびMicrosoft 365 Business Premium どのサブスクリプションに含まれています。 サブスクリプションに ATP が含まれていない場合は、ATP をアドオンとして購入することができます。 詳細については、「[Office 365 ATP サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)」を参照してください。
+Microsoft Defender for Office 365 は、Office 365 Enterprise E5、Office 365 Education A5、および Microsoft 365 Business Premium などのサブスクリプションに含まれています。 サブスクリプションにが含まれていない場合は、アドオンとして購入することができます。 詳細については、「[Microsoft Defende for Office 365 サービス説明書](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)」を参照してください。
 
-## <a name="set-up-office-365-atp"></a>Office 365 の ATP を設定します。
+## <a name="set-up-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 を設定する
 
-ATP 保護を有効にするには、ポリシーを設定する必要があります。 「[クイック スタート ガイド: Microsoft Defender for Office 365 のセットアップ](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。
+Microsoft Defender for Office 365 保護を有効にするには、ポリシーを設定する必要があります。 「[クイック スタート ガイド: Microsoft Defender for Office 365 のセットアップ](/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。
 
