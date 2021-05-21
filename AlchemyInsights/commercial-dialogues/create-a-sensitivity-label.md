@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751208"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543762"
 ---
-# <a name="create-a-sensitivity-label"></a><span data-ttu-id="fed08-102">秘密度ラベルを作成する</span><span class="sxs-lookup"><span data-stu-id="fed08-102">Create a sensitivity label</span></span>
+# <a name="create-a-sensitivity-label"></a><span data-ttu-id="ea9ba-102">秘密度ラベルを作成する</span><span class="sxs-lookup"><span data-stu-id="ea9ba-102">Create a sensitivity label</span></span>
 
-<span data-ttu-id="fed08-103">秘密度ラベルを作成するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="fed08-103">To create a sensitivity label, perform the following steps:</span></span>
+<span data-ttu-id="ea9ba-103">秘密度ラベルを作成するには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-103">To create a sensitivity label, perform the following steps:</span></span>
 
-1. <span data-ttu-id="fed08-104">**[[Office 365 セキュリティ/コンプライアンス センター]](https://sip.protection.office.com/)、[分類]、[秘密度レベル]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="fed08-104">Go to the **[Office 365 Security & Compliance Center](https://sip.protection.office.com/) > Classification > Sensitivity labels**.</span></span>
-2. <span data-ttu-id="fed08-105">**[+ ラベルの作成]** を選択して、**[新しい秘密度ラベル]** ウィザードを起動します。</span><span class="sxs-lookup"><span data-stu-id="fed08-105">Click **+ Create a label** to start the **New sensitivity label** wizard.</span></span> <span data-ttu-id="fed08-106">暗号化設定と自動ラベル付けの詳細については、「[秘密度ラベルの暗号化を使用してコンテンツへのアクセスを制限する](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels)」および「[機密ラベルをコンテンツに自動的に適用する](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fed08-106">For more information on encryption settings and auto labeling, see [Restrict access to content by using encryption in sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) and [Apply a sensitivity label to content automatically](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically), respectively.</span></span>
-3. <span data-ttu-id="fed08-107">さらにラベルを作成するには、これらの手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="fed08-107">Repeat these steps to create more labels.</span></span> <span data-ttu-id="fed08-108">ただし、サブ ラベルを作成する場合は、まず親ラベルを選択してから、[**その他のアクション**] の [**...**] をクリックし、[**サブ ラベルの追加**] をクリックます。</span><span class="sxs-lookup"><span data-stu-id="fed08-108">However, if you want to create a sublabel, first select the parent label, click **...** for **More actions**, and then click **Add sub label**.</span></span>
-4. <span data-ttu-id="fed08-109">必要なすべてのラベルを作成したら、ラベルの順序を確認し、必要に応じて上下に移動します。</span><span class="sxs-lookup"><span data-stu-id="fed08-109">When you've created all the labels you need, review their order and if necessary, move them up or down.</span></span> <span data-ttu-id="fed08-110">ラベルの順序を変更するには、[**その他のアクション**] の [**...**] をクリックして、[**上へ移動**] または [**下へ移動**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="fed08-110">To change the order of a label, click **...** for **More actions**, and then click **Move up** or **Move down**.</span></span> 
+1. <span data-ttu-id="ea9ba-104">**[[Office 365 セキュリティ/コンプライアンス センター]](https://sip.protection.office.com/)、[分類]、[秘密度レベル]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-104">Go to the **[Office 365 Security & Compliance Center](https://sip.protection.office.com/) > Classification > Sensitivity labels**.</span></span>
+2. <span data-ttu-id="ea9ba-p101">**[+ ラベルの作成]** を選択して、**[新しい秘密度ラベル]** ウィザードを起動します。暗号化設定と自動ラベル付けの詳細については、「[秘密度ラベルの暗号化を使用してコンテンツへのアクセスを制限する](/microsoft-365/compliance/encryption-sensitivity-labels)」および「[機密ラベルをコンテンツに自動的に適用する](/microsoft-365/compliance/apply-sensitivity-label-automatically)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-p101">Click **+ Create a label** to start the **New sensitivity label** wizard. For more information on encryption settings and auto labeling, see [Restrict access to content by using encryption in sensitivity labels](/microsoft-365/compliance/encryption-sensitivity-labels) and [Apply a sensitivity label to content automatically](/microsoft-365/compliance/apply-sensitivity-label-automatically), respectively.</span></span>
+3. <span data-ttu-id="ea9ba-p102">これらの手順を繰り返して、さらにラベルを作成します。ただし、サブラベルを作成する場合は、まず親ラベルを選択してから、3 つのドット (その他の操作) を選択し、**[サブラベルの追加]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-p102">Repeat these steps to create more labels. However, if you want to create a sublabel, first select the parent label, select the three dots (more actions), and then select **Add sub label**.</span></span>
+4. <span data-ttu-id="ea9ba-109">必要なすべてのラベルを作成したら、ラベルの順序を確認し、必要に応じて上下に移動します。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-109">When you've created all the labels you need, review their order and if necessary, move them up or down.</span></span> <span data-ttu-id="ea9ba-110">ラベルの順序を変更するには、3 つのドット (その他の操作) を選択して、**[上へ移動]** または **[下へ移動]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="ea9ba-110">To change the order of a label, select the three dots (more actions), and then select **Move up** or **Move down**.</span></span> 

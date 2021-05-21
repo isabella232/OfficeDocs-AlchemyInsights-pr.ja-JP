@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237573"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545652"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="c66a9-102">アプリ ライセンスを管理する</span><span class="sxs-lookup"><span data-stu-id="c66a9-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="943da-102">アプリ ライセンスを管理する</span><span class="sxs-lookup"><span data-stu-id="943da-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="c66a9-103">ライセンス数を変更するには</span><span class="sxs-lookup"><span data-stu-id="c66a9-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="943da-103">ライセンス数を変更するには</span><span class="sxs-lookup"><span data-stu-id="943da-103">To change license quantity</span></span>
 
-<span data-ttu-id="c66a9-104">これを行う方法を示す **ビデオを見る**: [新しいライセンスを購入する](https://go.microsoft.com/fwlink/p/?linkid=2154857)か、[既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します</span><span class="sxs-lookup"><span data-stu-id="c66a9-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span></span>
+<span data-ttu-id="943da-104">これを行う方法を示す **ビデオを見る**: [新しいライセンスを購入する](https://go.microsoft.com/fwlink/p/?linkid=2154857)か、[既存のライセンスを削除](https://go.microsoft.com/fwlink/p/?linkid=2154938)します</span><span class="sxs-lookup"><span data-stu-id="943da-104">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)</span></span>
 
-1. <span data-ttu-id="c66a9-105">**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="c66a9-106">**[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけます。</span><span class="sxs-lookup"><span data-stu-id="c66a9-106">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="c66a9-107">**[その他の操作]** (3 つのドット) を選択してから、**[ライセンスの購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-107">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
-3. <span data-ttu-id="c66a9-108">ライセンスを数を減らす場合は、**[ライセンスの購入]** ウィンドウの上部で、**[ライセンスの削除]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-108">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
-4. <span data-ttu-id="c66a9-109">ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-109">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="c66a9-110">たとえば、100 のライセンスがあり、さらに 5 つ追加する必要がある場合は、105 と入力します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-110">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="c66a9-111">ライセンスを 5 つ削除する場合は、95 と入力します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-111">If you want to remove five of them, enter 95.</span></span>
-5. <span data-ttu-id="c66a9-112">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-112">Select **Save**.</span></span>
+1. <span data-ttu-id="943da-105">**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="943da-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="943da-106">**[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけます。</span><span class="sxs-lookup"><span data-stu-id="943da-106">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="943da-107">3 つのドット (その他の操作) を選択してから、**[ライセンスの購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="943da-107">Select the three dots (more actions), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="943da-108">ライセンスを数を減らす場合は、**[ライセンスの購入]** ウィンドウの上部で、**[ライセンスの削除]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="943da-108">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="943da-109">ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。</span><span class="sxs-lookup"><span data-stu-id="943da-109">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="943da-110">たとえば、100 のライセンスがあり、さらに 5 つ追加する必要がある場合は、105 と入力します。</span><span class="sxs-lookup"><span data-stu-id="943da-110">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="943da-111">ライセンスを 5 つ削除する場合は、95 と入力します。</span><span class="sxs-lookup"><span data-stu-id="943da-111">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="943da-112">**[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="943da-112">Select **Save**.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="c66a9-113">アプリ ライセンスを割り当てるには</span><span class="sxs-lookup"><span data-stu-id="c66a9-113">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="943da-113">アプリ ライセンスを割り当てるには</span><span class="sxs-lookup"><span data-stu-id="943da-113">To assign app licenses</span></span>
 
-1. <span data-ttu-id="c66a9-114">**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-114">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="c66a9-115">**[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけて選択します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-115">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
-3. <span data-ttu-id="c66a9-116">**[設定とアクション]** で、**[発行元のポータルで管理する]** へのリンクを選択します。</span><span class="sxs-lookup"><span data-stu-id="c66a9-116">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="943da-114">**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページに移動します。</span><span class="sxs-lookup"><span data-stu-id="943da-114">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="943da-115">**[製品]** タブの **[アプリ]** セクションで、管理するアプリを見つけて選択します。</span><span class="sxs-lookup"><span data-stu-id="943da-115">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="943da-116">**[設定とアクション]** で、**[発行元のポータルで管理する]** へのリンクを選択します。</span><span class="sxs-lookup"><span data-stu-id="943da-116">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
