@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801448"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545273"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="162e5-102">Microsoft Defender for Office 365 のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="162e5-102">Troubleshooting Microsoft Defender for Office 365</span></span>
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="b0e11-102">Microsoft Defender for Office 365 のトラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="b0e11-102">Troubleshooting Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="162e5-103">メッセージの配信に遅延がある場合</span><span class="sxs-lookup"><span data-stu-id="162e5-103">Do you notice delays in message delivery?</span></span> <span data-ttu-id="162e5-104">ATP の安全な添付ファイル ポリシーの [[動的配信]](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) オプションを使用します。</span><span class="sxs-lookup"><span data-stu-id="162e5-104">Use the [Dynamic Delivery](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your ATP Safe Attachments policy.</span></span> <span data-ttu-id="162e5-105">これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。</span><span class="sxs-lookup"><span data-stu-id="162e5-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="b0e11-103">**メッセージの配信に遅延がある場合**</span><span class="sxs-lookup"><span data-stu-id="b0e11-103">**Do you notice delays in message delivery?**</span></span> <span data-ttu-id="b0e11-104">Microsoft Defender for Office 365 の安全な添付ファイル ポリシーの [[動的配信]](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) オプションを使用します。</span><span class="sxs-lookup"><span data-stu-id="b0e11-104">Use the [Dynamic Delivery](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your Microsoft Defender for Office 365 Safe Attachments policy.</span></span> <span data-ttu-id="b0e11-105">これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。</span><span class="sxs-lookup"><span data-stu-id="b0e11-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
 
-- <span data-ttu-id="162e5-106">Microsoft に誤検知を報告する場合</span><span class="sxs-lookup"><span data-stu-id="162e5-106">Do you want to report false positives or false negatives to Microsoft?</span></span> <span data-ttu-id="162e5-107">この[リンク](https://www.microsoft.com/wdsi/filesubmission/)を使用して、分析用にファイルを送信してください。</span><span class="sxs-lookup"><span data-stu-id="162e5-107">Use this [link](https://www.microsoft.com/wdsi/filesubmission/) to submit files for analysis.</span></span>
+- <span data-ttu-id="b0e11-106">**Microsoft に誤検知を報告する場合**</span><span class="sxs-lookup"><span data-stu-id="b0e11-106">**Do you want to report false positives or false negatives to Microsoft?**</span></span> <span data-ttu-id="b0e11-107">[報告エクスプローラー](https://protection.office.com/reportsubmission)を使用します。</span><span class="sxs-lookup"><span data-stu-id="b0e11-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
 
-- <span data-ttu-id="162e5-108">組織内の受信者間で送信される内部電子メールに安全なリンクの保護機能を有効にする方法</span><span class="sxs-lookup"><span data-stu-id="162e5-108">Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?</span></span> <span data-ttu-id="162e5-109">次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="162e5-109">Follow these steps:</span></span>
+<span data-ttu-id="b0e11-108">-\*\* 組織内の受信者間で送信される内部メールに安全なリンクの保護機能を有効にする方法をご存知ですか? 手順は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="b0e11-108">-\*\* Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?\*\* Follow these steps:</span></span>
 
-  1. <span data-ttu-id="162e5-110">[https://protection.office.com](https://protection.office.com) に移動して、全体管理者またはセキュリティ管理者のアカウントでサインインします。</span><span class="sxs-lookup"><span data-stu-id="162e5-110">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+  1. <span data-ttu-id="b0e11-109">[https://protection.office.com](https://protection.office.com) に移動して、全体管理者またはセキュリティ管理者のアカウントでサインインします。</span><span class="sxs-lookup"><span data-stu-id="b0e11-109">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-  2. <span data-ttu-id="162e5-111">左側のナビゲーション ウィンドウにある **[脅威の管理]** で、 **[ポリシー]** \> **[安全なリンク]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="162e5-111">In the left navigation pane under **Threat management** , choose **Policy** \> **Safe Links**.</span></span>
+  2. <span data-ttu-id="b0e11-110">左側のナビゲーション ウィンドウにある **[脅威の管理]** で、**[ポリシー]** \> **[安全なリンク]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="b0e11-110">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Links**.</span></span>
 
-  3. <span data-ttu-id="162e5-112">**[組織全体に適用されるポリシー]** セクションで、ポリシーを選択して **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="162e5-112">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
+  3. <span data-ttu-id="b0e11-111">**[組織全体に適用されるポリシー]** セクションで、ポリシーを選択して **[編集]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="b0e11-111">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
 
-  4. <span data-ttu-id="162e5-113">**[設定]** の下側にある **[組織内で送信されるメッセージに安全なリンクを適用する]** を有効にします。</span><span class="sxs-lookup"><span data-stu-id="162e5-113">Under **Settings** , enable **Apply safe links to messages sent within the organization**.</span></span>
+  4. <span data-ttu-id="b0e11-112">**[設定]** の下側にある **[組織内で送信されるメッセージに安全なリンクを適用する]** を有効にします。</span><span class="sxs-lookup"><span data-stu-id="b0e11-112">Under **Settings**, enable **Apply safe links to messages sent within the organization**.</span></span>
