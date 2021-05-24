@@ -8,31 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
-ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
+ms.openlocfilehash: f30b2f7d237158ae58d6a76676ca4c40d95ef3b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51649753"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544547"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>OneDrive のエラー 0x8004de40 の修正
 
-Windows 7 を実行していてこのエラーが発生した場合は、[更新して、Windows の WinHTTP で TLS 1.1 および TLS 1.2 を既定の安全なプロトコルとして有効にします](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
+エラーコード 0x8004de40 は、OneDrive でクラウドへの接続に関する問題が発生していることを意味します。 
 
-Windows 10 を実行していて、OneDrive で 0x8004de40 エラーが発生した場合:
-
-- Acitve ディレクトリ ドメインに接続されている間に、影響を受けたコンピューターを再起動します。
-- 再起動で問題が修正しない場合は、Azure AD からデバイスを切断してから再度参加させます。 
-
-**注**: 次の手順を実行している間、社内ネットワーク上にいなければなりません。 例えば旅行中など、社内インフラストラクチャに接続できない場合は、これらの手順を実行しないでください。 
-
-1. **[スタート]** を選択し、**[コマンド プロンプト]** を右クリックして **[管理者として実行]** を選択し、管理者特権でのコマンド プロンプトを開きます。
-
-1. 「*dsregcmd /leave*」と入力して **Enter** キーを押します。
-
-1. 操作が終了したら、「*dsregcmd /join*」と入力して **Enter** キーを押します。
-
-1. 完了したら、コマンド プロンプトを閉じます。
-
-1. コンピューターを再起動して、OneDrive にログインします。
+詳細については、「[Error Code: 0x8004de40 when signing in to OneDrive (OneDrive へのサインイン時にエラー コード 0x8004de40 が表示される)](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)」を参照してください。

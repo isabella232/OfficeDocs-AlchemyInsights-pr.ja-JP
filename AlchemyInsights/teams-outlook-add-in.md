@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook アドイン
+title: Teams Outlook アドイン (Teams で共有、今すぐ会議、新しい Teams 会議、Teams 会議に参加)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835024"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542754"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook アドイン
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook アドイン (Teams で共有、今すぐ会議、新しい Teams 会議、Teams 会議に参加)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>不足している Teams Outlook アドインのトラブルシューティングを行うには
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>見つからない Teams Outlook アドインに関するトラブルシューティングを行うには
 
-1. 管理ポータルでサービス診断を実行します。 
-2. サービス診断で問題がないことが示された場合は、[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook アドイン シナリオ** を、該当するユーザーのコンピューターでダウンロードして実行し、クライアントの問題を診断して修正してください。
+1. "Teams アドインが Outlook で見つかりません" という診断を実行して、ユーザーが Teams Outlook アドインを有効にするための正しいポリシーを持っているかどうかを検証します。 診断にアクセスするには、検索ボックスに「**診断: Teams アドインが Outlook で見つからない**」と入力してください。
 
-不足している Teams Outlook アドインのトラブルシューティングを手動で行うには、Teams アドインが一覧表示されない原因となる可能性のある要因の一覧を確認してください。 詳細については、「[Outlook for Windows の Teams 会議アドインが表示されない](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)」を参照してください。
+1. サービス診断で問題がないことが示された場合は、[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook アドイン シナリオ** を、該当するユーザーのコンピューターでダウンロードして実行し、クライアントの問題を診断して修正してください。
+
+不足している Teams Outlook アドインのトラブルシューティングを手動で行うには、Teams アドインが一覧表示されない原因となる可能性のある要因の一覧を確認してください。 詳細については、「[Outlook for Windows の Teams 会議アドインが表示されない](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)」を参照してください。
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>他のユーザーの代理として Teams 会議のスケジュール設定のトラブルシューティングを行うには (委任する)
 
-他のユーザーの代理として Teams 会議のスケジュールを設定するには、「[Microsoft Teams および Exchange Server の対話に関する問題のトラブルシューティング](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)」を参照してください。
+他のユーザーの代理として Teams 会議のスケジュールを設定するには、「[Microsoft Teams および Exchange Server の対話に関する問題のトラブルシューティング](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)」を参照してください。

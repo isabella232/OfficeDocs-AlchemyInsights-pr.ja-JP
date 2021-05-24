@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089265"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573751"
 ---
 # <a name="disable-chat"></a>チャットを無効にする
 
-組織のチャットを無効にするには、使用可能なチャットおよびチャネル メッセージング機能を制御するポリシーを作成します。 これを行う方法は、チャットの構成方法に応じて、いくつかあります。
+組織のチャットを有効または無効にするには、使用可能なチャットおよびチャネル メッセージング機能を制御するポリシーを作成します。 これを行う方法は、チャットの構成内容に応じて、いくつかあります。
 
-- **メッセージング**: Teams 管理センターで、[[メッセージング ポリシー]](https://admin.teams.microsoft.com/)に移動し、**チャットのオン** と **オフ** を切り替えます。 カスタム メッセージング ポリシーと、ポリシーをユーザーに割り当てる方法の詳細については、「[Teams でメッセージング ポリシーを管理する](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)」を参照してください。
-- **会議**: Teams 管理センターで、[[会議ポリシー]](https://admin.teams.microsoft.com/) に移動します。チャットの設定を **[会議でのチャットを許可する]** にします。 カスタム会議ポリシーの作成の詳細については、「[Teams での会議ポリシーを管理する](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)」および「[会議でチャットを許可する](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)」を参照してください。
-- **ゲスト ユーザー**: ゲストがチャットにアクセスできるようにゲスト アクセス ポリシーを構成できます。ゲストは **チャットのオン** と **オフ** を切り替えることができます。 詳細については、「[Teams 管理センターでゲスト アクセスを構成する](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)」を参照してください。
-- **学生**: 学生のチャットを無効にするには、「[教育機関向け Teams ポリシーおよびポリシー パッケージ](https://docs.microsoft.com/microsoftteams/policy-packages-edu)」で、会議でのチャットを許可するオプションと 1 対 1 のチャットを許可するオプションを参照してください。
+- **会議**: Teams 管理センターで、[[会議ポリシー]](https://admin.teams.microsoft.com/) に移動します。チャットの設定を **[会議でのチャットを許可する]** にします。 カスタム会議ポリシーの作成の詳細については、「[Teams での会議ポリシーを管理する](/microsoftteams/meeting-policies-in-teams)」および「[会議でチャットを許可する](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)」を参照してください。
 
+- **メ*ッセージング**: Teams 管理センターで、[[メッセージング ポリシー]](https://admin.teams.microsoft.com/) に移動して、**チャットのオン** と **オフ** を切り替えます。 カスタム メッセージング ポリシーと、ポリシーをユーザーに割り当てる方法の詳細については、「[Teams でメッセージング ポリシーを管理する](/microsoftteams/messaging-policies-in-teams)」を参照してください。
+
+- **学生**: 学生のチャットを無効にするには、「[教育機関向け Teams ポリシーおよびポリシー パッケージ](/microsoftteams/policy-packages-edu)」で、会議でのチャットを許可するオプションと 1 対 1 のチャットを許可するオプションを参照してください。
+
+- ゲスト ユーザー: ゲストがチャットにアクセスできるようにゲスト アクセス ポリシーを構成できます。ゲストは **チャットのオン** と **オフ** を切り替えることができるようになります。 詳細については、「[Teams 管理センターでゲスト アクセスを構成する](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)」を参照してください。
 
 
 
