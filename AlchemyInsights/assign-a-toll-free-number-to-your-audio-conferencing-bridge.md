@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821119"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626082"
 ---
-# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="fc785-102">電話会議ブリッジに無料電話番号を割り当てる</span><span class="sxs-lookup"><span data-stu-id="fc785-102">Assign a toll free number to your audio conferencing bridge</span></span>
+# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="46a62-102">電話会議ブリッジに無料電話番号を割り当てる</span><span class="sxs-lookup"><span data-stu-id="46a62-102">Assign a toll free number to your audio conferencing bridge</span></span>
 
-<span data-ttu-id="fc785-103">電話会議ブリッジに新しい電話番号を割り当てるには:</span><span class="sxs-lookup"><span data-stu-id="fc785-103">To assign the new phone number to your audio conferencing bridge:</span></span>
+<span data-ttu-id="46a62-103">電話会議ブリッジに新しい電話番号を割り当てるには:</span><span class="sxs-lookup"><span data-stu-id="46a62-103">To assign the new phone number to your audio conferencing bridge:</span></span>
 
-1. <span data-ttu-id="fc785-104">自分の職場のアカウントで Office 365 にサインインします。</span><span class="sxs-lookup"><span data-stu-id="fc785-104">Sign in to Office 365 with your work account.</span></span>
-2. <span data-ttu-id="fc785-105">**[Microsoft 365 管理センター] > [管理センター] > [Teams & Skype] > [従来のポータル] > [音声] > [電話番号]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="fc785-105">Go to **Microsoft 365 admin center > Admin centers > Teams & Skype > Legacy portal > Voice > Phone numbers**.</span></span>
-3. <span data-ttu-id="fc785-106">一覧から電話番号を選び、**[操作]** ウィンドウで **[割り当て]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="fc785-106">Select the phone number from the list, and in the **Action** pane, click **Assign**.</span></span>
-4. <span data-ttu-id="fc785-107">**[割り当て]** ページで、**[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="fc785-107">On the **Assign** page, click **Save**.</span></span>
+1. <span data-ttu-id="46a62-104">Microsoft Teams 管理センターにアクセスします。</span><span class="sxs-lookup"><span data-stu-id="46a62-104">Go to the Microsoft Teams admin center.</span></span>
+1. <span data-ttu-id="46a62-105">左側のナビゲーション ウィンドウで、[**会議**]  >  [**会議ブリッジ**] に移動します。</span><span class="sxs-lookup"><span data-stu-id="46a62-105">In the left navigation pane, go to **Meetings** > **Conference bridges**.</span></span>
+1. <span data-ttu-id="46a62-106">既定として設定するサービスの有料電話番号を強調表示します。</span><span class="sxs-lookup"><span data-stu-id="46a62-106">Highlight the service toll number that you want to configure as the default.</span></span>
+1. <span data-ttu-id="46a62-107">**[既定に設定]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="46a62-107">Select **Set as default**.</span></span>
 
-<span data-ttu-id="fc785-108">詳細については、「[電話会議ブリッジの電話番号を変更する](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fc785-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
+<span data-ttu-id="46a62-108">詳細については、「[電話会議ブリッジの電話番号を変更する](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="46a62-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
