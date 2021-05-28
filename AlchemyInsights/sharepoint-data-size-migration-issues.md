@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700892"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694781"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>SharePoint Online へのデータ移行中の問題
 
@@ -25,7 +25,7 @@ ms.locfileid: "47700892"
 
 100 TB を超えるデータを SharePoint Online に移行しているようです。 できるだけ早くサポートできるように、以下の手順に従ってください。 
 
-1. [**新規お問い合わせ**] を選択し、[**新規お問い合わせ**] を選択します。 
+1. [**サポートへのお問い合わせ**] を選択し、[**新しいお問い合わせ**] をクリックします。 
 2. タイトルと説明に「**100 TB を超える SharePoint 移行**」と入力します。
 3. チケットが発行されたら、次の情報でチケットを更新してください。 
 
