@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733854"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696963"
 ---
 # <a name="11-call-recording"></a>1 対 1 通話のレコーディング
 
-管理者は、ユーザーが 1 対 1 通話を録音できるようにするため、今すぐアクションを実行する必要があります。
- 
-2021 年 4 月 12 日から、新しい Teams 通話ポリシー オプション *AllowCloudRecordingForCalls* の適用を開始します。 
+1 対 1 通話で **[録音の開始]** ボタンがグレー表示されている場合は、影響を受けるユーザーのポリシー設定を変更する必要があります。   
 
-現在、1 対 1 通話のレコーディング機能は、Teams 会議ポリシーの *AllowCloudRecording* オプションによって制御されています。 ユーザーが Teams 会議の録音を許可されている場合は、1 対 1 通話を録音することもできます。
+2021 年 5 月 31 日から、新しい Teams 通話ポリシー  *AllowCloudRecordingForCalls* の適用を開始します。 この変更の前は、1 対 1 通話のレコーディングは *AllowCloudRecording* Teams 会議ポリシーによって制御されていました。 この変更は、メッセージ センターの投稿に記載されています:  [(更新) 1 対 1 通話レコーディング ポリシーの紹介](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)。  
 
-すべてのユーザーに 1 対 1 通話の録音を禁止する場合は、何もする必要はありません。 *AllowCloudRecordingForCalls* 通話ポリシー オプションは、既定で $False になります。
+*AllowCloudRecordingForCalls*  通話ポリシー オプションは、既定で **$False** に設定されています。 すべてのユーザーに 1 対 1 通話のレコーディングを禁止する場合は、何もする必要はありません。  
 
-この変更は、次のメッセージ センターの投稿に記載されています: [(更新) 1 対 1 通話のレコーディング ポリシーの概要](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Teams 通話ポリシー オプションを設定するには、[Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) を使用する必要があります。
+1 対 1 通話ですべてのユーザーの通話のレコーディングを有効にするには、Teams PowerShell を使用して次のコマンドレットを実行します。 
 
-**1 対 1 通話で通話レコーディングを有効にするには:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**1 対 1 通話で通話レコーディングを無効にするには:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+または、新しいポリシーを作成して **-AllowCloudRecordingForCalls** を **$true** に設定し、そのポリシーをユーザーに割り当てることもできます。 
 
+詳細については、「[1 対 1 通話レコーディング ポリシー制御は (ほぼ) ここにあります](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)」を参照してください。

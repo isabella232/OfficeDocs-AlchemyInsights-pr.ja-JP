@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809768"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697035"
 ---
 # <a name="recording-in-teams"></a>Teams でレコーディングする
 
-Microsoft Teams 会議の記録を OneDrive または SharePoint に保存できるようになりました。詳細とオプトインについては、次のメッセージ センターの投稿を参照してください。[(更新) Microsoft Teams: OneDrive と SharePoint に保存された会議の記録](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+ユーザーの **[記録の開始]** ボタンがグレー表示されているか、Teams 会議に表示されない場合は、上のボックスに「**診断: 会議レコーディング**」と入力して、会議レコーディングの診断を実行してみてください。 
 
-ストレージの場所を OneDrive または SharePoint に移動すると、お住まいの地域で Stream を使用できるという以前の要件がなくなります。
+Microsoft Teams の会議レコーディングを OneDrive SharePoint に保存できるようになりました。 ストレージの場所を OneDrive と SharePoint に移動すると、ストリームが地域で利用できないために会議レコーディングが機能しなかった問題が修正されます。 詳細については、「[Microsoft Stream の FAQ](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)」を参照してください。
 
-**特定のユーザーに対する会議レコーディングを有効または無効にするための制御を含む**、組織の Teams で **レコーディング機能を有効にして構成する** 方法については、「[Teams のクラウド会議のレコーディング](https://docs.microsoft.com/microsoftteams/cloud-recording)」を参照してください。
+会議レコーディングの保存の詳細については、メッセージ センターの投稿を参照してください: [(更新) Microsoft Teams: OneDrive および SharePoint に保存された会議レコーディング](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)。
 
-**Teams でレコーディングすることができない場合、または Teams でのレコーディング方法を理解する必要がある場合** は、次のいずれかの記事を参照してください。
+特定のユーザーに対する会議レコーディングを有効または無効にするための制御を含む、組織の Teams でレコーディング機能を有効にして構成する方法については、「 [Teams のクラウド会議のレコーディング](/microsoftteams/cloud-recording)」を参照してください。 
 
-- Teams 会議の記録で OneDrive または SharePoint ストレージをまだオプトインしていない場合、これらの機能は Stream の地域および国の可用性に依存します。 会議を記録できない場合には、[お住まいの国または地域で Stream が利用可能](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)かどうかをご確認ください。 詳細については、管理ポータルの次のメッセージ センターの投稿を確認してください。[更新された機能: Microsoft Stream クラウド記録の地域ストレージ制御](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+それでも Teams でレコーディングすることができない場合、または Teams でのレコーディング方法を理解する必要がある場合は、以下を参照してください。 
 
-- Teams での会議レコーディングには、Microsoft Stream に会議の記録をアップロードまたはダウンロードするための Stream ライセンスなどを含む[特定のライセンスとポリシーが割り当てられている必要があります](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)。
+[更新された機能: Microsoft Stream クラウド レコーディング地域ストレージ制御](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- ライセンス、ポリシー、Stream の地域での使用可否など、すべての要件を満たしていることを確認したら、「[Teams の会議を記録する](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24)」を参照してください。
+Teams での会議レコーディングには、Microsoft Stream に会議の記録をアップロードまたはダウンロードするための Stream ライセンスなどを含む特定のライセンスとポリシーが割り当てられている必要があります。 詳細については、「[Teams クラウド会議のレコーディングのための前提条件](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)」を参照してください。
+
+ライセンス、ポリシー、Stream の地域での使用可否など、すべての要件を満たしていることを確認したら、「 [Teams の会議を記録する](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24)」を参照してください。 
