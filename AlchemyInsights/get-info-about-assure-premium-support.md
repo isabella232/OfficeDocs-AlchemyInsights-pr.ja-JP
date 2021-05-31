@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492344"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702059"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Assure および Premium 支援ソフトウェア サポートに関する情報を入手する
+# <a name="get-info-about-premium-assisted-software-support"></a>Premium 支援ソフトウェア サポートに関する情報を入手する
 
-Microsoftは、Windows および Office ソフトウェアのサポートを支援するための 1 対 1 のオプションをいくつか提供しています。
+Microsoftは、Windows および Office ソフトウェアのサポートを支援するための 1 対 1 のオプションを提供しています。
 
-- **Assure ソフトウェア サポート**: 1 年間の Office および Windows ソフトウェアのサポート
-- **Windows プレミアム テクニカル サポート**: 1 回限りの Windows ソフトウェア サポート
 - **Windows プレミアム テクニカル サポート**: 1 回限りの Windows ソフトウェア サポート
 
-詳細情報については、「[個別のソフトウェア サポート オプション: Assure とプレミアム](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium)」を参照してください。
+- **Office プレミアム テクニカル サポート**: 1 回限りの Office ソフトウェア サポート
 
-すでに Assure サブスクリプションを購入していてサポートが必要な場合は、下のチャット ボックスに **talk to the agent (担当者と話す)** と入力して、Assure サブスクライバーであることを担当者に伝えてください。
+**注:** 既存の Assure サブスクリプションをお持ちの場合、Assure はサポート オプションとして提供されなくなったことにご注意ください。 現在のサブスクリプションは、購入した期間中は有効ですが、更新することはできません。
 
