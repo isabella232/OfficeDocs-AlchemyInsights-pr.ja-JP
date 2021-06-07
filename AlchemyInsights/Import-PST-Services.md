@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470262"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721641"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 インポート サービス
 
-Microsoft 365 インポート サービスでは、Exchange Online のメールボックスに複数の PST ファイルを一括インポートすることができます。
-
 インポート サービスにアクセスして、インポート プロセスを開始するには、次の操作を実行します。
 
-1. [セキュリティ/コンプライアンス センター](https://protection.office.com)にアクセスし、組織の管理者アカウントの資格情報を使用してサインインします。
+1. [M365 コンプライアンス センター](https://compliance.microsoft.com/)にアクセスし、組織の管理者アカウントの資格情報を使用してサインインします。
 
-2. **セキュリティ/コンプライアンス センター** の左のウィンドウで、**[情報ガバナンス]、[インポート]** の順にクリックします。
+1. M365 コンプライアンス センターの左のウィンドウで **[ソリューション]** の下にある **[情報ガバナンス]** > **[インポート]** を選択します。
 
-3. **[インポート]** ページで、**[新規インポート ジョブ]** をクリックします。
+1. **[インポート]** ページで、**[新規インポート ジョブ]** を選択します。
 
-4. ウィザードの手順を完了するには、この[ステップ バイ ステップの手順](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)に従って操作します。
+1. ウィザードの手順を完了するには、「[ネットワーク アップロードを使用して、組織の PST ファイルを Microsoft 365 にインポートする](/compliance/use-network-upload-to-import-pst-files)」を参照してください。
 
-**重要**: セキュリティ/コンプライアンス センターの **[インポート]** ページにアクセスするには、[適切なアクセス許可](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)の割り当てが必要です。
+**[インポート]** ページにアクセスするには、適切なアクセス許可が割り当てられていることを確認してください。 詳細については、「[ネットワーク アップロードを使用して PST ファイルをインポートする](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)」を参照してください。
 
-メールボックスに PST をインポートするだけの場合は、[この記事](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)を参照してください。
+PST をメールボックスにインポートする場合は、「[Outlook .pst ファイルからメール、連絡先、予定表をインポートする](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)」を参照してください。
+
+インポートに問題がある場合は、「[PST インポート ジョブに影響する問題](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)」を参照してください。
+
