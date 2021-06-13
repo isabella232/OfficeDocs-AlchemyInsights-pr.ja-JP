@@ -1,5 +1,5 @@
 ---
-title: OneDrive でフォルダーを追加できない状態になっている
+title: OneDrive では現在フォルダーを追加できません
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,9 +20,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52564796"
 ---
-# <a name="onedrive-cant-add-your-folder-right-now"></a>OneDrive でフォルダーを追加できない状態になっている
+# <a name="onedrive-cant-add-your-folder-right-now"></a>OneDrive では現在フォルダーを追加できません
 
-**チェックアウト** または **検証** の列を含むライブラリがある場合、またはライブラリのバージョン設定で **下書きアイテムのセキュリティ** が **編集できるユーザーのみ** または **アイテムを承認できるユーザーのみ** のいずれかに設定されている場合、"申し訳ありません。OneDrive でフォルダーを追加できない状態になっています" というエラーが発生する可能性があります。 
+"申し訳ございません。OneDrive では現在フォルダーを追加できません" というエラーは、**[チェックアウト]** または **[検証]** 列を含むライブラリがある場合、またはライブラリの [バージョン設定] の **[下書きアイテムのセキュリティ]** が、"**編集できるユーザー**" または "**アイテムを承認できるユーザー**" に設定されている場合に発生する可能性があります。 
 
-同期をブロックする列の設定を削除する手順については、「[Restrictions and limitations in OneDrive and SharePoint (OneDrive と SharePoint の制限事項と制約事項)](https://support.microsoft.com/office/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
+同期をブロックする列の設定を削除する手順については、「[OneDrive と SharePoint の制限事項と制約事項](https://support.microsoft.com/office/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 
