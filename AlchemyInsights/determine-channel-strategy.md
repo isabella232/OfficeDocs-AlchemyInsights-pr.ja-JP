@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50696431"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989658"
 ---
 # <a name="determine-channel-strategy"></a>チャネル戦略を決定する
 
-Microsoft Edge は、ブラウザーの更新頻度を制御する 4 つのチャネルでリリースされます。 各チャネルのより詳細な概要については、[チャネルの概要](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview)を参照してください。
+Microsoft Edge は、ブラウザーの更新頻度を制御する 4 つのチャネルでリリースされます。 各チャネルのより詳細な概要については、[チャネルの概要](/DeployEdge/microsoft-edge-channels#channel-overview)を参照してください。
 
 [安定チャネル] は、ほとんどのデバイスに展開する必要があるチャネルですが、複数のチャネルとデバイスの展開を検討する必要があります。
 
