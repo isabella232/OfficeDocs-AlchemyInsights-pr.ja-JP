@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online の PowerShell
+title: Sharepoint PowerShell に接続できません
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774364"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931016"
 ---
-# <a name="sharepoint-online-powershell"></a>SharePoint Online の PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell に接続できません
 
-Sharepoint Online 内で PowerShell またはスクリプトを使用していますか ? 詳細については、以下のリンクをご覧ください。
-- [SharePoint Online 管理シェルの使用を開始する](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [多要素認証 (MFA) を使用して SPO PowerShell に接続する場合](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint のパターンとプラクティス (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) には、SPO に対する複雑な管理アクションを実行できる PowerShell コマンドのライブラリが含まれています。
+SharePoint Online PowerShell モジュールへの接続で問題が発生している場合は、「[SharePoint Online Management Shell への接続中にエラーが発生する](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)」を参照してください。
