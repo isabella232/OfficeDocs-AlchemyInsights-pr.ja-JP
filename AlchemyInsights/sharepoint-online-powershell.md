@@ -1,5 +1,5 @@
 ---
-title: Sharepoint PowerShell に接続できません
+title: SharePoint PowerShell に接続できない
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/14/2021
 ms.locfileid: "52931016"
 ---
-# <a name="sharepoint-powershell-unable-to-connect"></a><span data-ttu-id="8a3ac-102">Sharepoint PowerShell に接続できません</span><span class="sxs-lookup"><span data-stu-id="8a3ac-102">Sharepoint PowerShell unable to connect</span></span>
+# <a name="sharepoint-powershell-unable-to-connect"></a><span data-ttu-id="05cd2-102">SharePoint PowerShell に接続できない</span><span class="sxs-lookup"><span data-stu-id="05cd2-102">Sharepoint PowerShell unable to connect</span></span>
 
-<span data-ttu-id="8a3ac-103">SharePoint Online PowerShell モジュールへの接続で問題が発生している場合は、「[SharePoint Online Management Shell への接続中にエラーが発生する](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8a3ac-103">If you're having issues connecting to SharePoint Online PowerShell module, see [Errors when connecting to SharePoint Online Management Shell](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).</span></span>
+<span data-ttu-id="05cd2-103">SharePoint Online PowerShell モジュールへの接続で問題が発生している場合は、「[SharePoint Online Management Shell への接続中にエラーが発生する](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="05cd2-103">If you're having issues connecting to SharePoint Online PowerShell module, see [Errors when connecting to SharePoint Online Management Shell](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).</span></span>
