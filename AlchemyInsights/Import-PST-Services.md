@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721641"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023108"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 インポート サービス
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721641"
 
 1. M365 コンプライアンス センターの左のウィンドウで **[ソリューション]** の下にある **[情報ガバナンス]** > **[インポート]** を選択します。
 
-1. **[インポート]** ページで、**[新規インポート ジョブ]** を選択します。
+1. **[インポート]** ページで、**[新規インポート ジョブ]** を選択します。 ジョブ名を入力し、**[次へ]** を選択します。
 
-1. ウィザードの手順を完了するには、「[ネットワーク アップロードを使用して、組織の PST ファイルを Microsoft 365 にインポートする](/compliance/use-network-upload-to-import-pst-files)」を参照してください。
+1. **[データのアップロード]** を選択し、**[ジョブ タイプのインポート]** のネットワーク アップロード オプションを使用します。 詳細な手順については、「[ネットワーク アップロードを使用して、組織の PST ファイルを Microsoft 365 にインポートする](/compliance/use-network-upload-to-import-pst-files)」を参照してください。
 
 **[インポート]** ページにアクセスするには、適切なアクセス許可が割り当てられていることを確認してください。 詳細については、「[ネットワーク アップロードを使用して PST ファイルをインポートする](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)」を参照してください。
 
