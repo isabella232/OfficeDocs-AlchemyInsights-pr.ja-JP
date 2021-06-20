@@ -13,16 +13,18 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584192"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023180"
 ---
 # <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Office 365 で電子情報開示エクスポートツールを有効にする
 
-Microsoft Edge では、ClickOnce サポートは既定で有効になりません。 Microsoft Office 365 電子情報開示エクスポート ツールを継続して使用するには、Microsoft Internet Explorer を使用するか、以下のように Chromium ベースの Microsoft Edge で ClickOnce のサポートを有効にする必要があります。
+Microsoft Edge では、ClickOnce サポートは既定で無効になっています。Microsoft Office 365 電子情報開示エクスポート ツールを継続して使用するには、Microsoft Internet Explorer を使用するか、以下のように Chromium ベースの Microsoft Edge で ClickOnce のサポート オプションを有効にする必要があります。
 
 1. edge://flags/#edge に移動します。
 1. **[ClickOnce Support]** オプションで、値を **[Default (既定)]** または **[Disabled (無効)]** から **[Enabled (有効)]** に変更します。
