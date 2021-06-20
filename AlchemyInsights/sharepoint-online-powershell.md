@@ -1,5 +1,5 @@
 ---
-title: Sharepoint PowerShell に接続できません
+title: SharePoint PowerShell に接続できない
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,6 +20,6 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 06/14/2021
 ms.locfileid: "52931016"
 ---
-# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell に接続できません
+# <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell に接続できない
 
 SharePoint Online PowerShell モジュールへの接続で問題が発生している場合は、「[SharePoint Online Management Shell への接続中にエラーが発生する](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)」を参照してください。
