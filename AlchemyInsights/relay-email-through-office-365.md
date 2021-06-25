@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809660"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117988"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>多機能デバイスまたはアプリケーションを設定して、メールを送信します
 
-オプションおよび手順の詳細については、「[多機能デバイスまたはアプリケーションを設定して、Microsoft 365 を使用してメールを送信する方法](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)」を参照してください。
+オプションおよび手順の詳細については、「[多機能デバイスまたはアプリケーションを設定して、Microsoft 365 を使用してメールを送信する方法](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)」を参照してください。
   
-**注:** 最近動作しなくなったデバイスやアプリケーションがある場合、Microsoft では最近、計画通りに [3DES 暗号の無効化](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption)を開始しましたので、ご留意ください。 影響を受けるデバイスを確認するには、「[SMTP Auth クライアントのレポート](https://protection.office.com/mailflow/dashboard)」に移動します。 一般的なエラーとしては、認証失敗/エラー、TLS 失敗/エラー、暗号アルゴリズム エラー、アルゴリズム不一致、接続の解除などがあります。 この問題を解決するには:
+最近動作を停止したデバイスまたはアプリケーションがある場合、最も一般的な問題は次のとおりです。
 
- - **Windows Server 2003 IIS SMTP は動作しなくなります。新しいバージョンの Windows が必要です。**  
- - お使いのアプリケーションまたはデバイスの製造元に問い合わせて、最新の暗号がサポートされているかどうか、または更新プログラムがあるかどうかを確認してください。
+- **SMTP 認証クライアント送信を使用時の認証関連エラー** 最近、SMTP 認証の動作に関連するいくつかの変更を行いました。 問題を解決する方法の詳細については、「[Microsoft 365 または Office 365 を使用して電子メールを送信するプリンター、スキャナー、および LOB アプリケーションの問題を修正する](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)」の「認証失敗」セクションを参照してください。
+- **Office 365 へのセキュリティで保護された接続を行っている間は TLS 1.2 バージョンのみを受け入れます** セキュリティで保護された接続 (TLS) を使用している場合は、アプリケーション デバイスで TLS 1.2 がサポートされていることを確認してください。 詳細については、「[Microsoft 365 および Office 365 GCC での TLS 1.2 の準備](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)」を参照してください。
+ 
+その他の問題と解決策については、「[Microsoft 365 または Office 365 を使用して電子メールを送信するプリンター、スキャナー、および LOB アプリケーションの問題を解決する](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)」を参照してください。
+
+影響を受けるデバイスを確認するには、「[SMTP Auth クライアントのレポート](https://protection.office.com/mailflow/dashboard)」に移動します。
+
+**注**: Exchange Online では、一括メールのシナリオには対応できません。一括商用メール (顧客ニュースレターなど) を送信するには、これらのサービスを専門とするサード パーティのプロバイダーを使用する必要があります。
