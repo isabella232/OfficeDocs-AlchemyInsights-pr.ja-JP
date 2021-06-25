@@ -1,5 +1,5 @@
 ---
-title: 一般法人向け Microsoft 365 のプランと価格
+title: 一般法人向け Microsoft 365 の比較
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790805"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104571"
 ---
 # <a name="compare-microsoft-365-for-business"></a>一般法人向け Microsoft 365 の比較
 
-一般法人向け Microsoft 365 には 3 種類のプランがあります。[一般法人向け Microsoft 365 のプランと価格を比較](https://products.office.com/compare-all-microsoft-office-products?tab=2)してください。  
+一般法人向け Microsoft 365 には 3 種類のプランがあります。機能と価格についての詳細情報は、「[一般法人向け Microsoft 365 のプランの比較](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)」 を参照します。  
