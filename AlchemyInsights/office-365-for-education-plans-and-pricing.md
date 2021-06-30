@@ -14,19 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: f796bc65baccfe4d424a3a690eced472a0ca3561
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53104607"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176562"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="3207d-102">学校全体で Microsoft 365 を無料で入手する</span><span class="sxs-lookup"><span data-stu-id="3207d-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="5a578-102">学校全体で Microsoft 365 を無料で入手する</span><span class="sxs-lookup"><span data-stu-id="5a578-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="3207d-p101">無料の生産性向上ツールを使って教室と学校の共同作業を向上させます。これらのプランを活用するには、お客様が認定されている教育機関であることを確認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3207d-p101">Improve classroom and school collaboration with free productivity tools. You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="5a578-p101">無料の生産性向上ツールを使って教室と学校の共同作業を向上させます。これらのプランを活用するには、お客様が認定されている教育機関であることを確認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="5a578-p101">Improve classroom and school collaboration with free productivity tools. You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="3207d-105">教育機関向けプランを確認する</span><span class="sxs-lookup"><span data-stu-id="3207d-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="5a578-105">教育機関向けプランを確認する</span><span class="sxs-lookup"><span data-stu-id="5a578-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="3207d-106">Office 365 Education の使用を開始する</span><span class="sxs-lookup"><span data-stu-id="3207d-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+- [<span data-ttu-id="5a578-106">Microsoft 365 Education の使用を開始する</span><span class="sxs-lookup"><span data-stu-id="5a578-106">Get started with Microsoft 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
 
-- [<span data-ttu-id="3207d-107">すべての Microsoft 365 サブスクリプションを比較する</span><span class="sxs-lookup"><span data-stu-id="3207d-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="5a578-107">すべての Microsoft 365 サブスクリプションを比較する</span><span class="sxs-lookup"><span data-stu-id="5a578-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
