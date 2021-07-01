@@ -1,5 +1,5 @@
 ---
-title: Teams クライアントがクラッシュした場合
+title: Teams クライアントのクラッシュ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826276"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187726"
 ---
-# <a name="teams-client-crashing"></a>Teams クライアントがクラッシュした場合
+# <a name="teams-client-crashing"></a>Teams クライアントのクラッシュ
 
 Teams クライアントがクラッシュした場合は、次のことを実施してください。
 
 - Teams デスクトップ アプリを使用している場合は、[アプリが完全に更新されていることを確認します](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)。
 
-- すべての [Microsoft 365 の URL とアドレスの範囲](https://docs.microsoft.com/microsoftteams/connectivity-issues)にアクセスできることを確認します。
+- すべての [Microsoft 365 の URL とアドレスの範囲](/microsoftteams/connectivity-issues)にアクセスできることを確認します。
 
-- テナント管理者アカウントでログインし、[サービス正常性ダッシュボード](https://docs.microsoft.com/office365/enterprise/view-service-health)をチェックして、停止やサービスの低下がないことを確認します。
+- テナント管理者アカウントでログインし、[サービス正常性ダッシュボード](/office365/enterprise/view-service-health)をチェックして、停止やサービスの低下がないことを確認します。
 
-- Teams アプリケーションをアンインストールして再インストールする (リンク)
+- Teams アプリケーションをアンインストールして再インストールする
     - コンピューターの %appdata%\Microsoft\teams\ フォルダーに移動して、そのディレクトリにあるすべてのファイルを削除します。
-    - [Teams アプリをダウンロードしてインストールします](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)。可能であれば、管理者として Teams をインストールします (Teams インストーラーを右クリックし、利用可能な場合は [管理者として実行] を選択します)。
+    - [Teams アプリをダウンロードしてインストール](https://www.microsoft.com/microsoft-teams/download-app)し、可能であれば、管理者として Teams をインストールします (Teams インストーラーを右クリックし、利用可能な場合は [**管理者として実行**] を選択します)。
 
-Teams クライアントがまだクラッシュする場合、問題を再現することができますか? その場合には、以下の手順を行います。
+Teams クライアントがそれでもまだクラッシュする場合、その問題を再現を試みてください。 可能な場合:
 
 1. ステップ記録ツールを使用して、手順をキャプチャします。
     - 不要なアプリケーションや機密のアプリケーションをすべて閉じます。
     - ステップ記録ツールを起動し、影響を受けているユーザー アカウントを使用してログインした状態で、問題を再現します。
-    - [記録された再現手順をキャプチャする Teams ログを収集します](https://docs.microsoft.com/microsoftteams/log-files)。 **注**: 影響を受けているユーザーのサインイン アドレスがキャプチャされていることを確認します。
-    - ダンプや障害バケット情報 (Windows) を収集します。 クラッシュが発生しているコンピューターで Windows Powershell を起動し、次のコマンドを実行します。
+    - [記録された再現手順をキャプチャする Teams ログを収集します](/microsoftteams/log-files)。 **注**: 影響を受けているユーザーのサインイン アドレスがキャプチャされていることを確認します。
+    - ダンプや障害バケット情報 (Windows) を収集します。 クラッシュが発生しているコンピューターで Windows Powershell を起動し、次のコマンドを実行します (各コマンドの後に Enter キーを押します):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. サポート ケースにファイルを添付します。
+2. テキスト ファイルが生成され、画面に表示されたら、ファイルを保存してサービス要求に添付します。 
