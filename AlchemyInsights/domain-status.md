@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
-ms.translationtype: HT
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125855"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389186"
 ---
 # <a name="domain-status---no-services-selected"></a>ドメイン ステータス - サービスが選択されていません
 
-ドメインを Exchange などの Microsoft 365 サービスに直接接続すると、ドメインの正常性ステータスが利用可能になります。 これを行うには、Microsoft 365 管理センターに移動し、[**DNSレコード**]  >  [**DNSの管理**]を選択します。
+**サービスが選択** されていないことは、Exchange Online、Skype for Business、Intune などの Microsoft 365 サービス、Microsoft 365 がカスタム ドメインで使用するモバイル デバイス管理を選択していないという意味です。 Exchange ハイブリッド (Exchange オンプレミス Exchange Online) または Exchange と他の Microsoft サービス を使用した外部スパム フィルターを使用している場合は、このメッセージを無視できます。 ドメインの正常性状態は、サービスに直接接続されているドメインでのみ使用できます。
 
-ドメインを Microsoft 365 サービスに直接接続できない場合、ドメインの正常性ステータスは利用できません。 たとえば、電子メール、外部スパム フィルタリング サービスにカスタム DNS ルーティングを使用している場合、または Exchange オンプレミスとExchange Online の両方を使用している場合です (ハイブリッド展開とも呼ばれます)。
+ドメインのサービスを選択するには、次の方法を実行します。
+
+1. **[設定** ドメイン] で、状態メッセージ [サービスなし] が選択されているドメインの横  >  [](https://admin.microsoft.com/Adminportal/Home)にあるボックス **をオンにします**。
+1. [DNS **の管理] を** 選択して、ドメイン セットアップ ウィザードを開始します。
+    - [独自の **DNS レコードを追加する] を選択した** 場合は、メッセージが表示されたら必ずサービスを選択してください。 その他のサービスは、[高度なオプション] **で利用できます**。
+    - [Microsoft に **DNS レコード** を追加する] または [その他のオプションを設定する] を選択すると、利用可能なすべてのサービスが自動的に  >  提案され、選択されます。
+1. ウィザードに進み、DNS セットアップとサービスの選択肢を完了します。
+ 
+ドメインの設定に関するその他のヘルプについては、「 [ドメインに接続するための DNS レコードの追加」を参照してください](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
 
