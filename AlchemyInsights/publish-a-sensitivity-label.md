@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539649"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532260"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>秘密度ラベル用に暗号化を構成する方法
 
-1. [Office 365 セキュリティ/コンプライアンス センター]、[**分類**] > 、[**秘密度レベル**] の順に移動します。
+1. Microsoft 365 コンプライアンス センター > **Information Protection** > **ラベル ポリシー** に移動します。
 
-1. [秘密度ラベル] ページで、[**ラベル ポリシー**] タブを選択し、[**ラベルの公開**] を選択します。
+1. **[+ ラベルの発行]** を選択して、[新しい秘密度ラベル] ウィザードを起動します。
 
 1. [**発行する秘密度ラベルの選択**] をクリックします。 アプリとサービスで使用するラベルを選択し、[**追加**] を選択します。
 

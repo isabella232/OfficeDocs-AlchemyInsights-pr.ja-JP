@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543654"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532188"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>秘密度ラベルの作成方法
 
-1. [Office 365 セキュリティ/コンプライアンス センター]、[**分類**] > 、[**秘密度レベル**] の順に移動します。
+1. Microsoft 365 コンプライアンス センター > **Information Protection** > **ラベル** に移動します。
 
 1. **[+ ラベルの作成]** を選択して、[新しい秘密度ラベル] ウィザードを起動します。
 

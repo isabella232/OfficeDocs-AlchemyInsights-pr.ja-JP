@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800253"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586939"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint のワークフローのトラブルシューティング
 
 **SharePoint のワークフローのトラブルシューティングとデバッグ**
 
-「[Troubleshoot SharePoint workflow validation errors (SharePoint ワークフロー検証エラーのトラブルシューティング)](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)」および「[SharePoint ワークフローをデバッグする](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)」を参照してください。
+詳しくは、以下を参照してください。
+
+- [Microsoft Office SharePoint Online ワークフローの検証エラーのトラブルシューティング](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Microsoft Office SharePoint Online ワークフローをデバッグする](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
+- [ShowScopeDebugInfo を使用して Microsoft Office SharePoint Online 2013 ワークフローのトラブルシューティング データを収集する](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-ワークフローの使用を始めたばかりの場合は、従来の SharePoint ワークフロー ソリューションの代わりに [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) を使用することを検討してください。
+ワークフローの使用を始めたばかりの場合は、従来の SharePoint ワークフロー ソリューションの代わりに [Power Automate](/power-automate/modern-approvals) を使用することを検討してください。
 
-詳細については、「[SharePoint ワークフローを廃棄する](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)」を参照してください。
+詳細については、「[SharePoint ワークフローを廃棄する](/alchemyinsights/sharepoint-workflows-retiring)」を参照してください。
