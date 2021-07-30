@@ -1,6 +1,6 @@
 ---
 title: 監査ログを取得する
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/16/2021
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: ec772e925436aff4924889211f2219f255bb57f1
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: 49743b1e9158319ecb80f0a007d8d73930888df1
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51895971"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630110"
 ---
 # <a name="retrieve-the-audit-logs"></a>監査ログを取得する
 
 最初に監査ログを開いたときは、空になっています。 そこに何があるかを確認するには、検索を行う必要があります。 すべてのアクティビティを検索する一般的な方法は、次のとおりです。
 
-1. 監査ログの検索ページに移動します (または、管理センター>**セキュリティ/コンプライアンス センター** > **検索と調査** > **監査ログの検索** に移動します)。
+1. 監査ログの検索ページに移動します (または、[管理センター] >**[Microsoft 365 コンプライアンス センター]** > **[検索と調査]** > **[監査ログの検索]** に移動します)。
 
 1. **[アクティビティ]** ボックスで、既定の **[すべてのアクティビティの結果を表示]** を受け入れます。
 
