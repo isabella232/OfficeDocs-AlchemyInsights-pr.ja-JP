@@ -3,6 +3,8 @@ title: プロジェクトをユーザーに割り当てる
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: c33253871ea45682351c9f3d15a9ab0e129666a5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 4938f3e20f5540091ee0b255e7b3f752c07d13fd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601757"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688583"
 ---
 # <a name="assign-project-to-users"></a>プロジェクトをユーザーに割り当てる
 
@@ -30,4 +33,4 @@ ms.locfileid: "50601757"
 5. 割り当てまたは削除するには、[**アプリとサービスをオンまたはオフにする**] をクリックします。
 6. **[割り当て]**、**[閉じる]** の順にクリックします。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

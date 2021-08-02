@@ -3,21 +3,24 @@ title: 支払い方法を変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601146"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685307"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 
@@ -33,6 +36,6 @@ ms.locfileid: "50601146"
 6. **[支払方法の追加]** ウィンドウで、アカウント情報を入力し、**[保存]** を選択します。 テナントと同じ国の支払い方法を使用する必要があります。
 7. 新しい支払い方法は、ドロップダウン リストで既に選択されています。 **[置換]** を選択します。
 
-支払い方法を追加、更新、置換、または削除する方法については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+支払い方法を追加、更新、置換、または削除する方法については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
 
-支払い方法を変更する方法については、「[サブスクリプションを支払う方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」をご覧ください。
+支払い方法を変更する方法については、「[サブスクリプションを支払う方法](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」をご覧ください。

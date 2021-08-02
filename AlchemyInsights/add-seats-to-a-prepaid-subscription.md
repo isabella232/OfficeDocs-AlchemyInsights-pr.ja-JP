@@ -3,6 +3,7 @@ title: プリペイド サブスクリプションにシートを追加する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "663"
 - "1500007"
-ms.openlocfilehash: 28601f73a9766a516565d29e1c0f24f20b5e731a
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.date: 04/21/2020
+ms.openlocfilehash: 3fd9ec088bc58cbe062da01be31caf8e7982038a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601156"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680447"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>プリペイド サブスクリプションにシートを追加する
 
-支払い済みのライセンスは、25 文字の英数字コードとして発行されます。 必要なライセンスの購入が完了すると、ライセンスをサブスクリプションに追加できます。
+プリペイド ライセンスは、25 文字の英数字コードとして発行されます。必要なユーザー ライセンスの購入が完了すると、ライセンスをサブスクリプションに追加できます。
 
 1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 2. **[製品]** タブで、ライセンスを追加するサブスクリプションを選択します。

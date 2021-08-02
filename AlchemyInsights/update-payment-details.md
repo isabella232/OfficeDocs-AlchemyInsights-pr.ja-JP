@@ -3,6 +3,8 @@ title: クレジット カード情報を更新する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830326"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685523"
 ---
 # <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830326"
 
 ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。 
 
-詳細については、「[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+詳細については、「[支払い方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。

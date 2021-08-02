@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +13,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
+- commerce_billing
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3ad1bb7a13a9c26dd3e4f9cbee7944e975191c3a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307347"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680540"
 ---
 # <a name="change-how-often-you-pay"></a>支払回数を変更する
 
@@ -34,4 +36,4 @@ ms.locfileid: "48307347"
 > [!NOTE]
 > 月単位または年単位の課金のみが可能です。
 
-詳細については、「[請求頻度を変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)」を参照してください。
+詳細については、「[請求頻度を変更](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)」を参照してください。

@@ -3,6 +3,8 @@ title: プリペイドの更新
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 63f28eb536d965dde1e6cb381632a460a02f7279
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602333"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686171"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>プリペイドの Microsoft 365 の更新
 
@@ -30,4 +33,4 @@ ms.locfileid: "50602333"
     > 複数のプロダクト キーがある場合は、[**別のプロダクト キーを追加する**] を選択してキーを入力できます。
 6. 注文の詳細を確認し、[**使用**] を選択します。
 
-詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。
+詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。

@@ -3,6 +3,7 @@ title: 無料の Minecraft Edition と Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,15 +11,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_subscriptions
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a0b529c1d9966d65604ade2fc812aa2926816e95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60e6ccc8039a58daf7bea9b36fefbf2e02b09a4d
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793577"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680339"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>無料の Minecraft Edition と Office 365 Education
 

@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1243139fadb62b17bee217ecdf6e4f977f539a2e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834700"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685199"
 ---
 # <a name="trying-to-find-a-trial"></a>試用版をお探しですか?
 

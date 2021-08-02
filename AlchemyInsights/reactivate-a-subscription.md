@@ -3,6 +3,7 @@ title: サブスクリプションを再アクティブ化する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 27828325832f3a7313743327a95e6cee0ae26a15
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 999402b5e1f0f45093847721637e42cbbf614d84
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545489"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686531"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションを再度有効にする
 
