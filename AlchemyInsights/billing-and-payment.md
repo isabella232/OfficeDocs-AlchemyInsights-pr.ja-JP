@@ -3,6 +3,8 @@ title: 請求と支払い
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820399"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686891"
 ---
 # <a name="billing-and-payment"></a>請求と支払い
 
@@ -31,7 +34,7 @@ ms.locfileid: "51820399"
 
 **支払い**
 
-お支払いにクレジット カードまたは銀行口座をご利用の場合は、請求書が作成されてから数日以内に、サブスクリプションに関連付けられた支払い方法での請求が行われます。 支払いが上手く処理されない場合は、支払い方法の更新または変更を行います。
+クレジット カードまたは銀行口座による支払いの場合、サブスクリプションに関連付けられている支払方法は、請求書が作成されてから数日以内に課金されます。支払いが上手く処理されない場合は、支払い方法の更新または変更を行います。
 
 新しいカードを追加した後も以前のクレジット カードに対して拒否の通知が表示される場合、その新しいカードをサブスクリプションに関連付ける必要があります。
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820399"
 
 7. 新しい支払い方法は、ドロップダウン リストで既に選択されています。 **[置換]** を選択します。
 
-詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+詳細については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
 
 **請求頻度**
 
 請求は、確認の時に選択した請求頻度に応じて、毎月または毎年行われます。  
 
-**注**: 年間請求で、ライセンスの追加と削除などの変更が行われた場合、期間内の中間に請求書を受け取る場合があります。 [請求頻度を変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)してください。
+**注**: 年間請求で、ライセンスの追加と削除などの変更が行われた場合、期間内の中間に請求書を受け取る場合があります。 [請求頻度を変更](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)してください。
