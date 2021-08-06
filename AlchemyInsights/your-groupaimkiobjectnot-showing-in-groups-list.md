@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907635"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>グループの一覧に自分のグループ {AimKIObject} が表示されない
 

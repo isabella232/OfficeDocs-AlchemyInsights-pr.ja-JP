@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4eedc7853097a393282d13ad2864c19efb324edc31cff456e815180133dd30f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020017"
 ---
 # <a name="uninstall-visio"></a>Visio をアンインストールする
 

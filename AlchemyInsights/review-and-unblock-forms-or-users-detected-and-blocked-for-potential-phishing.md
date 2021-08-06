@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004442"
 - "8044"
-ms.openlocfilehash: 6314e9cb3e1c0906a2125de87c27f91df3560104
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
-ms.translationtype: HT
+ms.openlocfilehash: ea78eebff8f1b77fe425a048241405d7ac0855553cf67c5cb1eed93a8cf7e74d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922488"
 ---
 # <a name="review-and-unblock-forms-or-users-detected-and-blocked-for-potential-phishing"></a>フィッシング詐欺の可能性が検出されてブロックされたフォームまたはユーザーのレビューとブロック解除
 

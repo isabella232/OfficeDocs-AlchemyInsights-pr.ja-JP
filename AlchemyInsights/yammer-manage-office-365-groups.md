@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 12e582b8c1dad79ec4e4ee6b1a72de46871e67d5d7d597bfd90963dcb6647b61
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907707"
 ---
 # <a name="manage-microsoft-365-groups-in-yammer"></a>Yammer で Microsoft 365 グループを管理する
 

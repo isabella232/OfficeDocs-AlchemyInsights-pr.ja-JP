@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
-ms.translationtype: HT
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999749"
 ---
 # <a name="password-writeback-is-not-working"></a>パスワードの書き戻しが機能しません
 

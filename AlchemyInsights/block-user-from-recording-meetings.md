@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: HT
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019189"
 ---
 # <a name="block-user-from-recording-meetings"></a>ユーザーによる会議の記録をブロックする
 

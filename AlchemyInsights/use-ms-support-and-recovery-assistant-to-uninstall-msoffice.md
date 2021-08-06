@@ -15,12 +15,12 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908431"
 ---
 # <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Microsoft サポート/回復アシスタントを使用して Microsoft Office をアンインストールする
 

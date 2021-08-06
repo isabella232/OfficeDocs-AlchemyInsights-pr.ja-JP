@@ -14,18 +14,18 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907815"
 ---
 # <a name="why-cant-i-edit-files"></a>ファイルを編集できないのはなぜですか。
 
 [ファイルを編集できない理由](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)をいくつか見てみましょう。
 
-**チェックアウト、必須**または**検証**の列またはメタデータを含むライブラリがある場合、または**下書きアイテムのセキュリティ**が**編集できるユーザーのみ**に設定されている場合、またはライブラリのバージョン設定で**アイテムを承認できるユーザーのみ**が対象となります。
+**チェックアウト、必須** または **検証** の列またはメタデータを含むライブラリがある場合、または **下書きアイテムのセキュリティ** が **編集できるユーザーのみ** に設定されている場合、またはライブラリのバージョン設定で **アイテムを承認できるユーザーのみ** が対象となります。
 
 - SharePoint ドキュメント ライブラリの場合、これらのアイテムは読み取り専用として同期されます。
 

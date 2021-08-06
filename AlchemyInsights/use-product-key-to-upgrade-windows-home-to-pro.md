@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: 473cea5752dcbfcd7687b17c8e026d53bfe2022e
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: e1afdf755e6b8cd8a65ba753a6a9d2f2bf064d8fb7fbb1543848f29ac499d17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908391"
 ---
 # <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>プロダクト キーを使用して Windows 10 Home を Windows 10 Pro にアップグレードする
 

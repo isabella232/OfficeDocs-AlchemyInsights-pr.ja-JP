@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11279"
 - "3500007"
-ms.openlocfilehash: 6e4277c0bcd4c5bc1507b04c67b36ab11490d69d
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: 841781335617a4abaaeb6cf16c9b6da1634403c0e138e4ad306a109fd474a230
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52676597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923280"
 ---
 # <a name="public-folder-removed-from-outlook-on-the-web-owa-favorites"></a>Outlook on Web (OWA) からパブリック フォルダーが削除された
 

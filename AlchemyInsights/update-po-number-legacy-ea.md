@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908499"
 ---
 # <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>発注書番号の更新 - 従来の EA - 推奨手順
 

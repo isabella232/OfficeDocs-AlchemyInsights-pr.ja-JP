@@ -15,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907887"
 ---
 # <a name="where-is-power-pivot"></a>Power Pivot が表示されません
 

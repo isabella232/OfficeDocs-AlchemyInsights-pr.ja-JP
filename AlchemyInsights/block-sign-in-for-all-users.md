@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019261"
 ---
 # <a name="block-sign-in-for-all-users"></a>すべてのユーザーのサインインをブロックする
 
