@@ -16,12 +16,12 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: 6a7c6683b2b82f3e3fe270d4909f5ecfa5acb639
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 3cc66d1b25308b33797d193c342be3e3a13b7a212bb935ad45e8a0c9f3362781
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060105"
 ---
 # <a name="billing-or-invoice-faq"></a>支払いまたは請求書に関する FAQ
 

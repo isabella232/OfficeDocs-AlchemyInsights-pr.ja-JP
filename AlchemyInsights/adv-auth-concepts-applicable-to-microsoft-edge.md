@@ -14,12 +14,12 @@ ms.custom:
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 8ddec37260ec4e3bcc390dcc8adb7397368de19555ee31be458be033d3886386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934370"
 ---
 # <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Microsoft Edge に適用できる高度な認証の概念
 

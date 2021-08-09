@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f432ec75a71f5d142780c532ed5368c44da54b3a9ac6e0244b4a4a5127b0acff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934164"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Outlook.com にサインインできません
 

@@ -13,12 +13,12 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fcb8b39e2debf8e312a24242c47bfe4b4c5d53488d09cd5ad33d54ae109b10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006427"
 ---
 # <a name="check-in-several-files-at-once"></a>一度に複数のファイルをチェックインする
 

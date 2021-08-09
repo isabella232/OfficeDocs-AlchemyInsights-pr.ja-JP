@@ -13,12 +13,12 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb2891002959cb125488802c53e2f7fd1ed2792b6f46b2055c0ec046c0bd4e52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934802"
 ---
 # <a name="adding-external-users"></a>外部ユーザーの追加
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060573"
 ---
 # <a name="unable-to-send-group-emails"></a>グループ メールを送信できない
 

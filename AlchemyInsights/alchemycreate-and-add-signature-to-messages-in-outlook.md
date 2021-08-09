@@ -13,12 +13,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934184"
 ---
 # <a name="creating-email-signatures"></a>電子メールの署名を作成する
 
