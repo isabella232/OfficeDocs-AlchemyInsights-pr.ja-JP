@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9971"
 - "9005674"
-ms.openlocfilehash: 29f43b718ede200b3c2024b759fca02f13f38c02
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: fae06c14f223a647a70f930334ee90916fb511e89e64abec0af830289c5f3f1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51596078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935666"
 ---
 # <a name="how-to-add-or-remove-extensions-in-microsoft-edge"></a>Microsoft Edge で拡張機能を追加または削除する方法
 

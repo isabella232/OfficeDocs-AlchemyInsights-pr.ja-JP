@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916996"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>Microsoft 365 グループのドメインを変更する
 

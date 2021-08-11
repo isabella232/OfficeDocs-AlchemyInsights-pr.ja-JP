@@ -14,12 +14,12 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960444"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps と Microsoft Flow のプランの延長
 

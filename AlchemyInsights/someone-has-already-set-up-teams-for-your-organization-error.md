@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5fe3dd4c2cea3b50028b28896c33c8dfe7621a6c0b9fdbee4976dfb0e62c3f5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909903"
 ---
 # <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>「既に他のユーザーが組織に Teams をセットアップしています」のエラー
 
 Teams で「既に他のユーザーが組織に Teams をセットアップしています」のエラーが表示される場合は、次の原因が考えられます。
 
-1. 既に他のユーザーが Teams をセットアップした。 招待メールがないか確認するか、[https://teams.microsoft.com](https://teams.microsoft.com)でドメイン資格情報を使用してプライベート/incognito Web ブラウザーで Teams にサインインしてみます。
+1. 他のユーザーが既に Teams を設定しています。招待メールを確認するか、[https://teams.microsoft.com](https://teams.microsoft.com) でドメイン資格情報を使用してプライベート/シークレット Web ブラウザーで Teams にサインインします。
 
 2. 仕事用アカウントと個人用アカウントの両方に関連付けられたメール アドレスでサインインしようとしている。 たとえば、Contoso.com は、Microsoft サービス アカウント (Live ID) と職場アカウント (Active Directory) の両方に使用されます。 この場合、新たなプライベート/incognito ブラウザー ウィンドウで Teams を作成し、サインインの「職場または学校」バージョンを個人バージョンの代わりに選択してください。 それでも問題が解決しない場合は、こうしたリンクを解除し、無料の Teams アカウントを適切に作成する必要があります。 この操作を行うには、「[Microsoft アカウントのメール アドレスまたは電話番号を変更する](https://support.microsoft.com/help/12407)」ページの「サインインに別のアドレスまたは電話番号を使う」にある手順に従います。
 

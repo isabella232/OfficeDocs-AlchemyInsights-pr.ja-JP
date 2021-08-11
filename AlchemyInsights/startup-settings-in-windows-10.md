@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909831"
 ---
 # <a name="startup-settings-in-windows-10"></a>Windows 10 の起動設定
 
@@ -33,7 +33,7 @@ ms.locfileid: "51828157"
 
 2. アプリを右クリックし、[**詳細**]、[**ファイルの場所を開く**] の順にクリックします。 アプリのショートカットが保存されている場所が開きます。 [ファイルの場所を開く] というオプションが表示されない場合は、このアプリは起動時に実行することはできないことを意味します。
 
-3. ファイルの場所が開いた状態で、**Windows ロゴ + R キー** を押し、「**shell:startup**」と入力し、[**OK**] をクリックします。 [スタートアップ] フォルダーが開きます。
+3. ファイルの場所が開いた状態で、**Windows ロゴ + R キー** を押し、「**shell:startup**」と入力し、[**OK**] をクリックします。[スタートアップ] フォルダーが開きます。
 
 4. ファイルの場所からアプリのショートカットをコピーし、[スタートアップ] フォルダーに貼り付けます。
 

@@ -14,12 +14,12 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909939"
 ---
 # <a name="solutions-for-error-30016-4"></a>エラー 30016-4 の解決方法
 

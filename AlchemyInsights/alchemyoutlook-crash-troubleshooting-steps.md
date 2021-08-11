@@ -13,12 +13,12 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933686"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook のクラッシュをトラブルシューティングする手順
 

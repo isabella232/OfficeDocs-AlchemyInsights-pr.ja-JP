@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9685"
-ms.openlocfilehash: 990648d286ec801785201e6513b70534c3d80e3f
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: 588273f43f7c2d57b377b234885cf4283d466919b562536f78a64356422f9f9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951498"
 ---
 # <a name="app-registration-client-secret-or-certificate-issues"></a>アプリ登録クライアントの秘密または証明書の問題
 

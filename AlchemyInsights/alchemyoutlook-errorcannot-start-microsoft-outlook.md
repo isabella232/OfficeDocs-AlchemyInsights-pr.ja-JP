@@ -13,12 +13,12 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933650"
 ---
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook エラー: Microsoft Outlook を起動できません
 

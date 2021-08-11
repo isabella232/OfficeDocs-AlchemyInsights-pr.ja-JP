@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
-ms.translationtype: HT
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951570"
 ---
 # <a name="app-proxy-configuration"></a>アプリ プロキシの構成
 
