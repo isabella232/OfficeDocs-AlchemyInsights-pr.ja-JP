@@ -13,16 +13,16 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093129"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>"サポートされないオペレーティング システム" の解決方法
 
-Microsoft 365 をインストールしようとすると、お使いのデバイスが[システム要件](https://products.office.com/office-system-requirements)を満たしていない場合、**サポートされていないオペレーティング システム** のエラー メッセージが表示されます。
+Microsoft 365 をインストールしようとすると、お使いのデバイスが [システム要件](https://products.office.com/office-system-requirements)を満たしていない場合、**サポートされていないオペレーティング システム** のエラー メッセージが表示されます。
   
 Microsoft 365 には次のものが必要です。
   

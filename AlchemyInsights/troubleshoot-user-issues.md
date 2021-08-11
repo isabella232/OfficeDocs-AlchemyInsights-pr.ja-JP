@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: d9964e50bdea0c41ac14ab3783b579034b5f2c8c
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 0c4ee54a6f1d00e7fd3794539ba185afa4327af1124d8057550806f7fa87de7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092955"
 ---
 # <a name="announcements"></a>お知らせ
 
@@ -34,7 +34,7 @@ Azure AD で新しいユーザーを作成できない問題のトラブルシ�
 1. 新しい標準ユーザーを作成する権限があることを確認します。 新しい標準ユーザーを作成できるのは、Azure Active Directory (AD) のグローバル管理者またはユーザー管理者のみです。 これらの役割のいずれにも属していない場合は、管理者にこれらの役割のいずれかに追加してもらうか、新しいユーザー アカウントを作成するように依頼してください。
 2. ユーザー名が Azure AD で確認済みのドメインにあることを確認してください。 Azure AD に確認済みのカスタム ドメイン名がない場合は、*.onmicrosoft.com で終わる Azure AD イニシャル ドメインを使用できます。
 3. ユーザー名が、オンプレミス AD から Azure AD にフェデレーションされていないドメインにあることを確認してください。 オンプレミスからフェデレーションされたドメイン名でユーザーをクラウドに追加することはできません。
-4. 新しいユーザーに割り当てるユーザー名が、他のユーザーまたは連絡先にないことを確認してください。 ユーザー名は、Azure AD 全体で一意である必要があります。
+4. 新しいユーザーに割り当てるユーザー名が、他のユーザーまたは連絡先にないことを確認してください。ユーザー名は、Azure AD 全体で一意である必要があります。
 5. 「[Azure Active Directory でのロールと管理者](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators)」を参照してください。
 6. Azure AD の[ドメイン名](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)を確認してください。
 7. [監査ログ](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Audit)を確認して、アクションを実行したユーザーとタイミングなど、最近作成または削除されたユーザーに関する詳細情報を確認します。
@@ -47,11 +47,11 @@ Azure AD で新しいユーザーを作成できない問題のトラブルシ�
 セルフサービス サインアップに関する問題のトラブルシューティングを行うには、次の手順を実行します。
 
 1. アプリケーションでセルフサービス サインアップを使用するには、まずテナントのセルフサービス サインアップを有効にします。 
-2. アプリケーションがセルフサービス サインアップをサポートできるようにするには、アプリケーションをユーザーフローに追加します。 次回そのアプリケーションのログイン ページにアクセスすると、**_アカウントをお持ちではありませんか? アカウントを作成_* _ というオプションが表示されます。 これにより、セルフサービスのサインアップ プロセスが開始されます。
+2. アプリケーションがセルフサービス サインアップをサポートできるようにするには、アプリケーションをユーザーフローに追加します。 次回そのアプリケーションのログイン ページにアクセスすると、***[アカウントをお持ちではありませんか? アカウントを作成]*** というオプションが表示されます。 これにより、セルフサービスのサインアップ プロセスが開始されます。
 3. セルフサービス サインアップを使用して Azure AD の組織にデータを入力する方法については、「[Azure ADのセルフサービス サインアップ](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-self-service-signup)」を参照してください。
 4. ユーザーフローを 1 つ以上のアプリケーションに関連付けると、そのアプリにアクセスするユーザーは、ユーザー フローで構成されたオプションを使用して、サインアップしてゲスト アカウントを取得できるようになります。 サインアップとゲスト アカウントの取得の詳細については、ユーザーは「[ゲストユーザーのセルフサービス サインアップ](https://docs.microsoft.com/azure/active-directory/external-identities/self-service-sign-up-user-flow)」を参照してください。
 
-_ *外部ユーザーの招待に関する問題**
+**外部ユーザーの招待に関する問題**
 
 外部ユーザーの招待に関する問題のトラブルシューティングを行うには、次の手順を実行します。
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: e419c72a890e68fc7b6d40d2b64406e42f9b0769
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1868b8b04df012d44781f86ee75120ca443af5be5801074329f17c0e40a5acc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060897"
 ---
 # <a name="permissions-and-public-folders"></a>アクセス許可とパブリック フォルダー
 

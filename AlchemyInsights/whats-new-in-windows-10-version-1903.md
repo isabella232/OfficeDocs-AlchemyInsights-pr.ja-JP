@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970660"
 ---
 # <a name="whats-new-in-windows-10-version-1903"></a>Windows 10 バージョン 1903 の新機能
 

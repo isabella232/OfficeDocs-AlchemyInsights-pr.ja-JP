@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 71c959da8d74a282023f9fbacf14dc4305ed708e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b3d5fc1f0ede6f28c7786ccac36162d9cdfde560d1df5e0c3db8128b5ee51a4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935630"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>追加、削除、またはユーザーによるプロフィール写真の変更を防止する
 

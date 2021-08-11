@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935162"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint カレンダーを追加する
 

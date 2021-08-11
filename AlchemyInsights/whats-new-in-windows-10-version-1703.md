@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970696"
 ---
 # <a name="whats-new-in-windows-10-version-1703"></a>Windows 10 バージョン 1703 の新機能
 

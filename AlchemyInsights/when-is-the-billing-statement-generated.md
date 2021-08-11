@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 52483de10f892cd77bceb11003f006818aa3f13df91fda09c3c3b665ca90ece6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970516"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>請求明細書が生成されるタイミング
 

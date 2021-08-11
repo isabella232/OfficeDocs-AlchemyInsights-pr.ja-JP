@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
-ms.translationtype: HT
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092991"
 ---
 # <a name="troubleshoot-permissions-and-consents"></a>アクセス許可と同意のトラブルシューティング
 
