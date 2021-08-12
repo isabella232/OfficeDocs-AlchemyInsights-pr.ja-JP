@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7788"
 - "9004355"
-ms.openlocfilehash: 2d073367dc1c3e8e117c0b68e205297a65024872
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: e1fd31366f24331e74b7e35887c3275549a7a394b128da560ba7a76437979553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925674"
 ---
 # <a name="issues-signing-in-to-applications"></a>Oアプリケーションへのサインインに関する問題
 
@@ -32,7 +32,7 @@ ms.locfileid: "49901721"
 
 1. 自分またはユーザーが **Azure AD のサインインを完了したが、予期しないプロンプトが表示される** - 記事「[アプリケーションにサインインするときに、予期しない同意プロンプトが表示される](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)」と、「[アプリケーションに同意すると、予期しないエラーが発生する](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)」を参照してください。
 2. 自分またはユーザーが、**アプリケーションに直接サインインしたが、カスタム ポータルまたはアクセス パネルのディープ リンクからアプリケーションにサインインできない**: 「[Azure AD マイ アプリからのアプリケーションへのサインインに関する問題のトラブルシューティング](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)」を参照してください。
-3. 自分またはユーザーが **Azure AD のサインインを完了したが、アプリケーションにエラーメッセージが表示され、ユーザーはサインイン フローを完了できない**: アプリが Azure AD が発行した応答を受け入れなかったことが原因です。 [以下の手順](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error)に従ってトラブルシューティングします。
+3. 自分またはユーザーが **Azure AD のサインインを完了したが、アプリケーションにエラー メッセージが表示され、ユーザーはサインイン フローを完了できない**: アプリが Azure AD が発行した応答を受け入れなかったことが原因です。トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-application-error)を実行してください。
 4. 自分またはユーザーが、**パスワード シングル サインオン用に構成されたギャラリー以外のアプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)のガイダンスに従ってください。
 5. 自分またはユーザーが、**パスワード シングル サインオン用に構成された Azure AD ギャラリー アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)のガイダンスに従ってください。
 6. 自分またはユーザーが **Microsoft アプリケーションにサインインできない**: トラブルシューティングを行うには、[次の手順](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)に従ってください。

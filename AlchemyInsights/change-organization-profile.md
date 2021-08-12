@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: be270d66c4c57da67e4af7ff08a63b6d0745b89e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8c74ddec5080251ff9e9f59df17852fc261d37b6704cf5b28b59272d10e3a661
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968634"
 ---
 # <a name="change-organization-profile"></a>組織プロファイルを変更する
 
