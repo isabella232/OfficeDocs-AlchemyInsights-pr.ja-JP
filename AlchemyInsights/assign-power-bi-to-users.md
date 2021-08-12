@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: c14734e848ebd381d76a985d93d04a7be4b51e45
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 507c950e68b5e95603befdd649f6aba20f81adb578fd3d0939772eb22b9785ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950778"
 ---
 # <a name="assign-power-bi-to-users"></a>ユーザーに Power BI を割り当てる
 

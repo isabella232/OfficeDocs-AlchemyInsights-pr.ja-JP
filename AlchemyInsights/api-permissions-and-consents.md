@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
-ms.translationtype: HT
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932102"
 ---
 # <a name="api-permissions-and-consent"></a>API アクセス許可と同意
 

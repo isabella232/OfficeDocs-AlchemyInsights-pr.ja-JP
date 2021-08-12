@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916168"
 ---
 # <a name="overview-of-advanced-ediscovery"></a>Advanced eDiscovery の概要
 

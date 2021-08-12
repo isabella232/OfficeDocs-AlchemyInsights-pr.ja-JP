@@ -13,14 +13,14 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950958"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>使い損ねていますよ。 管理者に Microsoft Teams を有効にするよう依頼する
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>この機会を逃さないように、管理者に Microsoft Teams を有効にするよう依頼してください。
 
 EDU テナントをお持ちの場合は、Microsoft Teams を手動で有効にする必要があります。 これを行うには、Microsoft 365 管理センター、 **[サービスとアドイン]、[Microsoft Teams]** の順に移動します。 新しい Teams 管理センターを使用している場合は、[ **新しい管理センターを使ってみる**]  を無効にして、[ **サービスとアドイン**] に移動する必要があります。 
 

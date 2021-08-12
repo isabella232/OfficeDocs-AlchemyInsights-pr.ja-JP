@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "9200"
-ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
-ms.translationtype: HT
+ms.openlocfilehash: 078f5798533dfbbf97858f305729f103663644fee3590cdcc877233041adae81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932066"
 ---
 # <a name="api-permissions-and-consent-process"></a>API アクセス許可と同意の手順
 

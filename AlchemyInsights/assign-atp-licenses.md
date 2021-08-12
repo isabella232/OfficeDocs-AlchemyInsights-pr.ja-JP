@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 803455035383dcf5c19739a30e28d740e351ec39
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 49a228c80881384e995a493f5989ddc89a761e3285de6065554d611e94c59a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950922"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender for Office 365
 
