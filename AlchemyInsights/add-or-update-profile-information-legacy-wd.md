@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953838"
 ---
 # <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>プロファイル情報を追加または更新する - 従来の WD - 推奨手順
 

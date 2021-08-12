@@ -12,12 +12,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6856"
-ms.openlocfilehash: 58b4292d03a446ebaf77d4b753c928b8778dab74
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 9ed2a1221cac0951878f97e45baaf2a42236321d27809b9b59f612343f66fd58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953982"
 ---
 # <a name="add-or-replace-payment-method-in-azure"></a>Azure で支払い方法を追加または置換する
 

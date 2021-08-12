@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 784f8c4d58bb8965cec2ce0a3722d0f16e36b16f914b4a154d6f6da58af9dc28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913900"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Windows 10 の Bluetooth の問題を解決する
 
@@ -27,7 +27,7 @@ Bluetooth アイコンは表示されないものの、デバイス マネージ
 
 1. デバイス マネージャーで、**[Bluetooth]** をクリックします。 Bluetooth アダプター名を長押し (または右クリック) し、**[デバイスのアンインストール]** をクリックします。
 
-2. Windows デバイスをシャットダウンし、数秒待ってから、再びオンにします。 Windows によりドライバーの再インストールが試みられます。
+2. Windows デバイスをシャットダウンし、数秒待ってから、再びオンにします。Windows によりドライバーの再インストールが試みられます。
 
 最近 Windows 10 の更新プログラムをインストールするか Windows 10 にアップグレードした場合は、ドライバーの更新プログラムを確認することができます。
 

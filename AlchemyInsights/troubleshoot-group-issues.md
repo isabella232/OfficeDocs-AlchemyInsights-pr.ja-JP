@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7814"
 - "9004358"
-ms.openlocfilehash: 7e2957a27305e8fb0bfd10e21189cef9870c5aaa
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 47f00118a5a4b446b6a3b06f0fc6101d00d11b626eaf249bb6ca962a55f7f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939348"
 ---
 # <a name="troubleshoot-group-issues"></a>グループの問題のトラブルシューティング
 
@@ -49,7 +49,7 @@ Azure Active Directory (AD) グループを Azure AD 役割に割り当てるに
 3. 組み込みのユーザーの属性およびデバイスの属性に加えて、[拡張属性](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership#extension-properties-and-custom-extension-properties)も使用できます。 オンプレミス Windows Server AD または接続された SaaS アプリケーションから拡張属性を同期すると、規則ビルダーのドロップダウン リストに属性が表示されます。 カスタム属性名は、PowerShell を使用してユーザーの属性を照会し、属性名を検索することにより、ディレクトリ内で見つけることができます。 これらは、規則構文で規則を作成する場合にも使用できます。
 4. テナントが適切なライセンスを持っていることを確認します。 動的グループでは、テナントに Azure AD P1 Premium ライセンスが必要です。 Azure AD ライセンス プランのリストは、[こちら](https://azure.microsoft.com/pricing/details/active-directory/)でアクセスできます。 Enterprise Mobility + Security ライセンス プランは、[こちら](https://www.microsoft.com/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing)でアクセスできます。
 5. 動的グループを作成するユーザーの役割が、全体管理者、Intune 管理者、グループ管理者、またはユーザー管理者であることを確認します。
-6. グループが入力されるまでしばらくお待ちください。 テナントのサイズによっては、最初または規則変更後にグループを入力するのに最大 24 時間かかる場合があります。
+6. グループが入力されるまでしばらくお待ちください。テナントのサイズによっては、最初または規則変更後にグループを入力するのに最大 24 時間かかる場合があります。
 7. 詳細については、「[動的グループ メンバシップ用の属性ベースの規則の作成](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership)」を参照してください。
 
 **グループを削除する必要がある**
@@ -62,8 +62,8 @@ Azure Active Directory (AD) グループを Azure AD 役割に割り当てるに
 
 1. Office 365 グループが削除された場合、完全な削除が行われる 30 日前までしか復元できません。 完全に削除されると、グループは復元できなくなります。 グループの復元の詳細は、[こちら](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)を参照してください。
 2. この機能は、セキュリティ グループおよび配布グループではサポートされません。
-3. Office 365 グループの復元が承認されていることを確認します。 全体管理者、グループ管理者、ユーザー アカウント管理者、Intune サービス管理者、パートナー レベル 1 または レベル 2 のサポート、およびグループ所有者はグループを復元できます。
-4. 動的グループを削除して復元すると、そのグループは新しいグループと見なされ、規則に従って再入力されます。 このプロセスには最大 24 時間かかる場合があります。
+3. Office 365 グループの復元が承認されていることを確認します。全体管理者、グループ管理者、ユーザー アカウント管理者、Intune サービス管理者、パートナー レベル 1 または レベル 2 のサポート、およびグループ所有者はグループを復元できます。
+4. 動的グループを削除して復元すると、そのグループは新しいグループと見なされ、規則に従って再入力されます。このプロセスには最大 24 時間かかる場合があります。
 5. 削除されたグループの復元の詳細については、「[Azure Active Directory で削除された Office 365 グループを復元する](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)」を参照してください。
 
 **グループの有効期限ポリシーの構成**

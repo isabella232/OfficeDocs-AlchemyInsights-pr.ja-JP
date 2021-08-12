@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
-ms.translationtype: HT
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913972"
 ---
 # <a name="device-permissions"></a>デバイスのアクセス許可
 
