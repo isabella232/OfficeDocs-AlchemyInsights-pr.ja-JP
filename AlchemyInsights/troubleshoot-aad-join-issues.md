@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "6157"
-ms.openlocfilehash: 0e9f7c95cf522340e9976f668c1d1a9eaff71910
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
-ms.translationtype: HT
+ms.openlocfilehash: 8e902aea30e6891717e08027cc009576d390c9cf2ba1649cbbc68d64883937f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939924"
 ---
 # <a name="troubleshoot-azure-ad-join-issues"></a>ハイブリッド Azure AD 参加のトラブルシューティング
 
@@ -27,4 +27,4 @@ ms.locfileid: "51405859"
 1. Azure AD で操作を実行する権限があることを確認してください。 デバイス登録の設定を管理できるのは、Azure AD のグローバル管理者のみです。
 1. Azure AD 参加の実装を行うには、「[Azure AD 参加の計画](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)」を参照してください。
 
-Azure AD 参加に関する一般的な問題の解決の詳細については、「[Azure AD 参加に関するよくある質問](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq)」を参照してください。また、Windows 10 Pro デバイスについては、「[Windows 10 Pro マシンで Azure AD に参加できない - アップグレードする必要がある - Microsoftコミュニティ](https://answers.microsoft.com/ja-JP/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)」を参照してください。
+Azure AD 参加に関する一般的な問題の解決の詳細については、「[Azure AD 参加に関するよくある質問](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq)」を参照してください。また、Windows 10 Pro デバイスについては、「[Windows 10 Pro マシンで Azure AD に参加できない - アップグレードする必要がある - Microsoftコミュニティ](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)」を参照してください。

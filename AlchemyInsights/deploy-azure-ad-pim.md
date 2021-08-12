@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003895"
 - "6949"
-ms.openlocfilehash: 6c9bbd7e55a283e421f76ebbda70aa579cb8b60c
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: e7e52ebf7fdb6a7cb07cf1d960fc14263ad0dbfab00ea9968feabbfa4b05c975
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914188"
 ---
 # <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Azure AD Privileged Identity Management (PIM)の展開
 

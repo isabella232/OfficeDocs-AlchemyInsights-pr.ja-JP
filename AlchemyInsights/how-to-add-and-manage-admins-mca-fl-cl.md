@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 924e195740e55c53b9605a9b9bd694a72cf9951006d1dc5e888023cd6e3f9d45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963828"
 ---
 # <a name="how-to-add-and-manage-admins"></a>管理者を追加および管理する方法
 

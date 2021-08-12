@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: d0dafe58717cdb8c59fe558e32ca118c0a8f3e2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b40d4cc6524a207889bf8ec0e2459c5d3077e7911a0b173a5ac87bb330d5d2cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947916"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>正当なメッセージが迷惑メールとしてマークされていますか?
 
@@ -29,5 +29,5 @@ ms.locfileid: "47679013"
 
 2. ユーザーに、[メッセージを迷惑メールではないメールとして報告](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)してもらいます。
 
-サポート チケットを開く場合は、以下の電子メール ヘッダーの中から少なくとも **1 つ、元のメッセージ全文**を添付してください。
+サポート チケットを開く場合は、以下の電子メール ヘッダーの中から少なくとも **1 つ、元のメッセージ全文** を添付してください。
   
