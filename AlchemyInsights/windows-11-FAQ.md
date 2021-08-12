@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: 94412b6bff18cbc60fba3c380860d9ad208dbd600a0fa0f6d0c72a22e27de620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907857"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Windows 11 に関するよくあるご質問 (FAQ)
 
@@ -32,12 +32,12 @@ Windows 11 がプレインストールされた PC は、2021 年後半に購入
 
 **Windows 11 を搭載した PC の価格はいくらですか?**
 
-場合によって異なります。 多くの異なる製造元が、Windows 11 を実行するさまざまなデバイスをすべて異なる価格ポイントで提供します。
+それは製品に依ります! 多くの異なる製造元が、Windows 11 を実行するさまざまなデバイスをすべて独自の価格で提供します。
 
 
 **Windows 11 を搭載した PC はどこで購入できますか?**
 
-Windows 11 がプレインストールされた PC は、2021 年後半に幅広い販売店で購入できるようになります。 詳細は後ほどお知らせします。
+Windows 11 がプレインストールされた PC は、2021 年後半に幅広い販売店で購入できるようになります。詳細は後ほど。
 
 
 **アクセサリは Windows 11 で動作しますか?**
@@ -52,7 +52,7 @@ Windows 11 がプレインストールされた PC は、2021 年後半に幅広
 
 **新しい Windows 10 PC が最小要件を満たしているかどうかを確認するにはどうすればよいですか?**
 
-いくつかの方法で確認できます。現在新しい PC の購入を検討している場合は、"Windows 11 への無料アップグレード" という表示を探してください。 販売店の担当者に確認を依頼することもできます。
+いくつかの方法で確認できます。現在新しい PC の購入を検討している場合は、"Windows 11 への無料アップグレード" という商品説明タグを探してください。または販売店の専門販売員にもご確認頂けます。
 
 
 **自分の Windows 10 デバイスで Windows 11 にアップグレードできるようになるのはいつですか?**

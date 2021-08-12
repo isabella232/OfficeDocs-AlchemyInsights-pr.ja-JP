@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929202"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>ユーザーが悪意のあるメールを受信した場合
 
@@ -32,7 +32,7 @@ ms.locfileid: "51815251"
 - 現在の爆発的な結果により、メッセージに含まれる URL またはファイルが悪意のあるものかが確認されます。
 - 評価者からのフィードバック
 
-上書きが見つかった場合、再スキャンは数分で完了します。 メール認証に問題がなかった場合、または配信が上書きによる影響を受けなかった場合でも、評価者からのフィードバックは最大で 1 日かかる可能性があります。
+上書きが見つかった場合、再スキャンは数分で完了します。メール認証に問題がなかった場合、または配信が上書きによる影響を受けなかった場合でも、評価者からのフィードバックは最大で 1 日かかる可能性があります。
 
 メッセージ、URL またはファイル (ブロックされている場合とブロックされていない場合) の最終的な判断に同意できない場合は、再スキャンを行うために、1 日後にメッセージを再送信してください。 メッセージを再送信した後にセキュリティ判定が変わる可能性は十分ありえます。
 

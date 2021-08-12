@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907743"
 ---
 # <a name="workflow-is-not-starting"></a>ワークフローが開始されない
 
@@ -26,7 +26,7 @@ ms.locfileid: "51403748"
 
     - ワークフローが開始されない場合は、サービスに一時的な問題が発生している可能性があります。この問題が発生すると、ワークフローの進行で断続的な遅延が発生します。 [サービスの正常性ダッシュボード](https://admin.microsoft.com/AdminPortal/Home/servicehealth)を確認して、組織が影響を受けるかどうかを調べます。
 
-    - この問題が発生してから 24 時間以上経過した場合は、サポート チケットを記録してください。 多くの場合、すでに解決策に取り組んでいます。 解決策を完成させるために少なくとも 24 時間を与えてください。
+    - この問題が初めて発生してから 24 時間以上経過している場合は、サポート チケットを記録してください。多くの場合は、Microsoft が既に解決策に取り組んでいます。解決策の完成までには 24 時間以上の時間がかかります。
 
 - SharePoint 2010 のワークフローの開始時に遅延がありました。
 
