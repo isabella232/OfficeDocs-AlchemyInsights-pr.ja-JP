@@ -12,12 +12,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007327"
 ---
 # <a name="update-payment-details-in-azure"></a>Azure での支払いの詳細の更新
 

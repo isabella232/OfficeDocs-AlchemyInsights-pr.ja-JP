@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8200"
-ms.openlocfilehash: 5d76bac16d640f8634903abae59fc7e61fa60cb3
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
-ms.translationtype: HT
+ms.openlocfilehash: 2e5069b57f922bf782555467b2a85d9e6ae72967e06ed655212e8574ed4c091b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935882"
 ---
 # <a name="add-email-signature-in-outlook-for-mac"></a>Outlook for Mac でメールの署名を追加する
 

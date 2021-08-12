@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b07c01337694f7acdab594dd46fdf2ff0cfeb70bf6298fb66a7e6736f8a98e96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936278"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>パートナー関係の追加、変更、削除
 

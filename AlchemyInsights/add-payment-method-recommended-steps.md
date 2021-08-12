@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935774"
 ---
 # <a name="add-payment-method---recommended-steps"></a>支払い方法を追加する - 推奨される手順
 

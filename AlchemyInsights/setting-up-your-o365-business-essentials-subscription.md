@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910623"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials サブスクリプションのセットアップ
 

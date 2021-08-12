@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: f7087eaf78cf6a08e5e665f7eba25d617a43a61fb04bc585b5017745fb2f8ee6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007363"
 ---
 # <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 

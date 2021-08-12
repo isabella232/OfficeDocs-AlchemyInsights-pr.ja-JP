@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910407"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint のワークフロー
 

@@ -13,16 +13,16 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910551"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint または OneDrive を使用しようとすると、メンテナンスのため読み取り専用というメッセージが表示される場合
 
-ユーザーが SharePoint または OneDrive を次のシナリオで使用しようとすると、**メンテナンスのため読み取り専用**というメッセージが表示される場合があります。 
+ユーザーが SharePoint または OneDrive を次のシナリオで使用しようとすると、**メンテナンスのため読み取り専用** というメッセージが表示される場合があります。 
 
 -   予定されていたまたは実行中のメンテナンス アクティビティ。  [メッセージ センター](https://portal.office.com/adminportal/home#/messagecenter)に移動して、これらについて確認してください。
 -   発生中の可能性がある、優先度の高いアクティブなサービス インシデント。 [サービス正常性](https://portal.office.com/adminportal/home#/servicehealth)に移動して、アドバイザリおよびインシデントを確認してください。

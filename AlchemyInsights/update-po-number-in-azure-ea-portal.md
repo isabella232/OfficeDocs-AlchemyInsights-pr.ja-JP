@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007183"
 ---
 # <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Azure EA ポータルの PO 番号を更新する-推奨される手順
 

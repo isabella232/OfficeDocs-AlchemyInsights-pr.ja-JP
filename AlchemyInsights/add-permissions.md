@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
-ms.translationtype: HT
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935738"
 ---
 # <a name="add-permissions"></a>アクセス許可を追加する
 
