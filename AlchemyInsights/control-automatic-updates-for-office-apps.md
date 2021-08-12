@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: ab3d6e60bc1b67220adbdf7ba61599a6b7aa663a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f162f11f678e8673d85e52cd9e54cedd7bd6e6a3aee87fcb2731a06d2698ea6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929886"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>Officeアプリの自動更新を制御する
 
@@ -35,4 +35,4 @@ ms.locfileid: "47747781"
     a.  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\  
     b.  ClickToRun\Configuration
 
-**注** OfficeMgmtCOM キーが設定されている場合、**Office** > **アカウント** > **Office Updates**に「システム管理者によって更新が管理されています」というメッセージが表示される場合があります。 詳細は、「[Microsoft Endpoint Configuration Manager を使用して Microsoft 365 Apps の更新プログラムを管理する](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)」をご覧ください。  
+**注** OfficeMgmtCOM キーが設定されている場合、**Office** > **アカウント** > **Office Updates** に「システム管理者によって更新が管理されています」というメッセージが表示される場合があります。 詳細は、「[Microsoft Endpoint Configuration Manager を使用して Microsoft 365 Apps の更新プログラムを管理する](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)」をご覧ください。  

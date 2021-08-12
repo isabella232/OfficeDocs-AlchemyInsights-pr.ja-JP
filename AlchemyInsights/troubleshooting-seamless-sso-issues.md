@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920868"
 ---
 # <a name="troubleshooting-seamless-single-sign-on-issues"></a>シームレスなシングル サインオンの問題に関するトラブルシューティング
 
