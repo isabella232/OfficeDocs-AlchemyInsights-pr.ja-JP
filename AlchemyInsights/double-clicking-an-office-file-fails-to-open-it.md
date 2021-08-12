@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 519051ac0ffc11d2b17c14959464c1123654bef38d6e10efd252b4ff3d8bbc1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965106"
 ---
 # <a name="double-clicking-an-office-file-fails-to-open-it"></a>Office ファイルをダブルクリックしても開かない
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 354602ff39f823922329fc82855c023f331dff2cb1f43a6949653786a6df7f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957321"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype for Business の一般的な問題と解決策 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912063"
 ---
 # <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Windows Virtual Desktop 用の Azure portal を使用してアプリ グループを管理する
 

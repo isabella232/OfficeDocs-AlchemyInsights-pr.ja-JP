@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9374"
-ms.openlocfilehash: 4a9163f199a505df9b2de4f02b7c37a5f5677022
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 6b4d7335461c913a6b5f782756684c5526a96c58c44853ddf9154aa51607bd4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972829"
 ---
 # <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>パスワードベースのシームレス シングル サインオン (SSO) の問題のトラブルシューティング
 

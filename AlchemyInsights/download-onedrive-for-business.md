@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: 1d5ee7fd4b3ed851c3c3b5310e718152052c0c70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e95c9b10bb4689dba90ee4231dd2a8d07259d450dd26f952446edb6ef89eb8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964998"
 ---
 # <a name="download-onedrive-for-business"></a>OneDrive for Business をダウンロードする
 

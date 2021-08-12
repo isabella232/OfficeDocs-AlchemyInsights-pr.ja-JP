@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc8972d56ad63ac1d0bc16910ed74c7121aefb05f786fdd60a77ba89867d1741
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973054"
 ---
 # <a name="questions-before-purchase"></a>購入前の質問
 
@@ -34,7 +34,7 @@ ms.locfileid: "51809912"
 いいえ。 EA サブスクリプションの所有者であれば、RI を購入できます。
 
 **RI の購入は金額コミットメントから控除されますか?**  
-はい。 金額コミットメントが十分でない場合は、使用可能な金額コミットメントを超過する金額の料金の請求が行われます。
+はい。金額コミットメントが十分でない場合は、使用可能な金額コミットメントを超過する金額の料金の請求が行われます。
 
 **予約インスタンスは Windows VM か SQL IP コストのどちらに適用されますか?**  
 予約インスタンスの割引は、コンピューティングの使用状況にのみ適用されます。 Windows IP コストまたは SQL IP コストは個別に課金され、RI 割引は取得できません。 [Azure Reserved VM Instances を含まないソフトウェア コスト](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  

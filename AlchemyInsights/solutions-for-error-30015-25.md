@@ -14,12 +14,12 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: cb5836189a011ce67941329cbdbcf8fc2a6c4734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7d0ede8f78d7c32e11241194c5df8c22bdac398ca095d65691d30b4e93f3f8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957285"
 ---
 # <a name="solutions-for-error-30015-25"></a>エラー 30015-25 の解決方法
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
-ms.translationtype: HT
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50696451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972865"
 ---
 # <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>リンクベースのシームレス シングル サインオン (SSO) の問題のトラブルシューティング
 
