@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 06395bcc1a631adeaa8abb5ad63b971639f226c19e48203078ba1097d43a50f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925170"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft Teams で会議ポリシーを管理する
 

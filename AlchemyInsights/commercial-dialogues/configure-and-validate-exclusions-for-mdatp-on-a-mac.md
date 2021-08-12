@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916348"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Mac で MDATP の除外を構成および検証する
 

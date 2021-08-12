@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003287"
 - "11208"
-ms.openlocfilehash: 3f90f2d2f20756643d72a5a3086fe9e94d9eaf19
-ms.sourcegitcommit: e7b6827015e05fb3280b153605498bfae7d09c7c
-ms.translationtype: HT
+ms.openlocfilehash: 3c401cd3c0bb7b5838b416513c0d0ee6d3846eb9a2e5a18fca8f8b782fda6098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52564782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943164"
 ---
 # <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>設定ガイドを使用して Microsoft Search を開始する
 

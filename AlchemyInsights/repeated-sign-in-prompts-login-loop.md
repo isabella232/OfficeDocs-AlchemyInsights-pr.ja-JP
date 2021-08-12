@@ -14,12 +14,12 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3c3e60a5a2ab0ee2cb9a7b58794ab1ad7faf677c7350b309d968a282db43772
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943416"
 ---
 # <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Microsoft 365 アプリでサインイン プロンプトが繰り返し表示される
 

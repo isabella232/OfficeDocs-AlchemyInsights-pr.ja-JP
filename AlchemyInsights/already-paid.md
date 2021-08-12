@@ -16,12 +16,12 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 6c0798475b5b1aa92f575c6b9ba270193457b9eb
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 91343e19b53aad0831eecac17fc7957893affed3b2581a3e89761b71beaf61b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933002"
 ---
 # <a name="already-paid"></a>お支払い済みですか?
 
