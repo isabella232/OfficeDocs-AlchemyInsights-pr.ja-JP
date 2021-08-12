@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: e935b10083459b81fc58e12bb59c9511defefa6d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: bd25d9bb2af8114786503e129de105c9a0f602c98b206f01770605d1957e3a1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948888"
 ---
 # <a name="search-for-and-delete-email-messages-in-your-organization"></a>組織内の電子メールメッセージの検索と削除
 

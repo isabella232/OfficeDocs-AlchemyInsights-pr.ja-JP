@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972721"
 ---
 # <a name="troubleshoot-prt-issue"></a>PRT 問題のトラブルシューティング
 
@@ -39,7 +39,7 @@ Hybrid Azure AD Join の登録プロセスを実行するには、デバイス�
 
 2. Windows 10 は Azure AD から認証を受けるために、システム コンテキストのもとで Azure AD との通信を試みます。 デバイスがシステム アカウントで Microsoft リソースにアクセスできるかどうかは、テスト デバイス登録接続スクリプトを使用して検証できます。
 
-3. Windows 10 は自己署名証明書を生成し、社内 AD のコンピューター オブジェクトに格納します。 これにはドメイン コントローラーまでの照準線が必要です。
+3. Windows 10 は自己署名証明書を生成し、オンプレミスの AD のコンピュータ オブジェクトに格納します。これにはドメイン コントローラーまでの照準線が必要です。
 
 4. 証明書があるデバイス オブジェクトは、Azure AD Connect を経由して Azure AD に同期されます。 同期サイクルは既定で 30 分間隔ですが、Azure AD Connect の構成によって異なります。 詳細については、この[ドキュメント](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)を参照してください。
 

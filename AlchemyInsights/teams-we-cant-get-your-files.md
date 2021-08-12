@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ef9466abf9d0f31255729a6f935cb502b9c5676f7b25eaae8dd299e0788ecd81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940212"
 ---
 # <a name="we-cant-get-your-files"></a>ファイルを取得できない
 

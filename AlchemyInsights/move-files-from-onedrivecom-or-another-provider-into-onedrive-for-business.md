@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 83841de4411ccd6843e0d2c7761930704b08a3b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a2e347859f08396c183f7a8ff0fb2c6f78bd557184a14abf13b46f5f834e54
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911883"
 ---
 # <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a>OneDrive.com または別のプロバイダーから OneDrive for Business にファイルを移動する
 
-ファイルへのローカルアクセス権がある場合は、Web ブラウザーにファイルをアップロードするか、OneDrive 同期クライアントを使用して、ファイルを OneDrive for Business に移動できます。 移動に役立つ追加のツールがあります。
+ファイルへのローカル アクセス権がある場合は、Web ブラウザーにファイルをアップロードするか、OneDrive 同期クライアントを使用して、ファイルを OneDrive for Business に移動できます。移動に役立つ追加のツールがあります。
 
 - コンテンツを OneDrive for Business に移行する方法の包括的な概要をご覧ください。 詳細については、「[Microsoft 365 にコンテンツを移行する](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)」を参照してください。
 - OneNote ノートブックを移動するには、別の手順が必要です。 詳細については、「[OneNote ノートブックを OneDrive に移動する](https://support.office.com/article/move-a-onenote-notebook-to-onedrive-0af0a141-0bdf-49ab-9e50-45dbcca44082)」を参照してください。

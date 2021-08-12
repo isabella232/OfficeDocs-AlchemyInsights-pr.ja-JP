@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500021"
 - "4689"
-ms.openlocfilehash: 8bc86b8c6da7c6b740688362f671aa4df148ed59
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 3a764461b91e70c2f7ec28392d7016fc5137bb2b89d7d97c6e03cf0c7d9733a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940140"
 ---
 # <a name="transfer-licenses-between-tenants"></a>テナント間でライセンスを譲渡する
 
