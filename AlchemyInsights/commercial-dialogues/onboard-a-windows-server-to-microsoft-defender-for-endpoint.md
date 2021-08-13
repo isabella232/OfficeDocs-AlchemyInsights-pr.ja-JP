@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51bcb58f20b9867d2b75db5ee9df1c62e8b66109
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 0772f67175053be2cb1e8eacece98fe68776e35800763526e3e6f4fd5375228c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967518"
 ---
 # <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Windows サーバーを Microsoft Defender for Endpoint にオンボードする
 

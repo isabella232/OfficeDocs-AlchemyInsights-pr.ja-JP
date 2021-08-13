@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 10efdb5e1a90b3e279b8e1716e66a544d0ee34465245f5670930d8a9364a8cc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977446"
 ---
 # <a name="configure-files-on-demand"></a>ファイル オンデマンドを構成する
 
@@ -28,8 +28,8 @@ OneDrive ファイル オンデマンド機能を利用すれば、OneDrive の�
 
 PC でファイル オンデマンドを構成するには:
 
-1. Windows タスク バーの通知領域で、白または青の **OneDrive** クラウドのアイコンを選択します。 [ **ヘルプと設定** ] の歯車アイコン、[ **設定** ] の順に選択します。
-2. [ **設定** ] タブで、[ **容量を節約し、ファイルを使用するときにダウンロード** ] ボックスをオンにします。  
+1. Windows タスク バーの通知領域で、白または青の **OneDrive** クラウドのアイコンを選択します。 [**ヘルプと設定**] の歯車アイコン、[**設定**] の順に選択します。
+2. [**設定**] タブで、[**容量を節約し、ファイルを使用するときにダウンロード**] ボックスをオンにします。  
 
 レジストリを使用してファイル オンデマンドを構成することもできます。
 
@@ -39,6 +39,6 @@ PC でファイル オンデマンドを構成するには:
 
 `[HKLM\SOFTWARE\Policies\Microsoft\OneDrive]"FilesOnDemandEnabled"="dword:00000001"`
 
-[設定] に [ファイル オンデマンド] オプションが表示されない場合は、サービスの [Windows クラウドのファイル フィルター ドライバー] の開始の種類が 2 (AUTO_START) に設定されていることを確認してください。 このポリシーを有効にすると、次のレジストリ キー値が 2 に設定されます。
+[設定] に [ファイル オンデマンド] オプションが表示されない場合は、サービスの [Windows クラウドのファイル フィルター ドライバー] の開始の種類が 2 (AUTO_START) に設定されていることをご確認ください。この機能を有効にすると、次のレジストリ キーの値が 2 に設定されます。
 
 `[HKLM\SYSTEM\CurrentControlSet\Services\CldFlt]"Start"="dword:00000002"`

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: c7cd2559d1e13d8cfa1fe7665179f2b469ecbb83
-ms.sourcegitcommit: 4b476ea92b3d1c29f26279853183b5f185683051
+ms.openlocfilehash: 51fd4f0abb3b9842085d0de02267037f6782c605eef9fcd64580ab8ccb18b4d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53410881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977482"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>外部ユーザーが Microsoft 365 グループにメールを送信できない
 

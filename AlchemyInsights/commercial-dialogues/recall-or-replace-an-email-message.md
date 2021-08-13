@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967194"
 ---
 # <a name="recall-or-replace-email-message"></a>メール メッセージを取り消す、または置き換える
 
