@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972172"
 ---
 # <a name="manage-card-and-payment-method"></a>カードと支払い方法を管理する
 
@@ -47,7 +47,7 @@ Azure portal では、アカウント管理者として、新しいデビット/
 
 「[支払いの問題/エラーに関するトラブルシューティング](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues)」を参照して、問題が解決するかどうかを確認します。
 
-金融機関によってカードが拒否されたために、カードに保留中の支払が発生している場合は、この問題を解決するために **金融機関** に連絡してください。 以下のポインターを使用します。
+金融機関によってカードが拒否されたために、カードに保留中の支払が発生している場合は、**金融機関** に連絡して問題を解決します。次のポインターを使用してください。
 
 - 以下の点を確認するには、銀行に問い合わせる必要があるかもしれません。 
     - 国際取引がカードで有効になっているかどうか。

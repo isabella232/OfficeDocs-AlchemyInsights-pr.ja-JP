@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8369"
-ms.openlocfilehash: 612ebc7913de55d25804789d9fded4291ead6dcc
-ms.sourcegitcommit: bdbe81bbb5beb641b27b974c69207428eb11e60f
-ms.translationtype: HT
+ms.openlocfilehash: 04f6d8d13f437a45b7d69a592610a84c6240236d17b3596c9ac28dcd3c3cacc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938556"
 ---
 # <a name="accessibility-features-in-microsoft-edge"></a>Microsoft Edge のユーザー補助機能
 

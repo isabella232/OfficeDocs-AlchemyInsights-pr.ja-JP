@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
-ms.translationtype: HT
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938628"
 ---
 # <a name="access-reviews"></a>アクセス レビュー
 

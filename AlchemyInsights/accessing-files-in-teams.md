@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1c2e787bb6be02faea59adbe8b5236897789637696db0e9c48a5d13e9b9a92c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938592"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Microsoft Teams 内のファイルへアクセスする
 
