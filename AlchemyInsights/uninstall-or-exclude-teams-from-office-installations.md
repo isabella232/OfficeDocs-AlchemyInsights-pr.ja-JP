@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a960c96abf6215e3a34908ce8669a0c61298daac829343b3673dbfef0c4cbfc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007723"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>新規または既存の Office のインストールの Teams をアンインストールまたは除外する
 

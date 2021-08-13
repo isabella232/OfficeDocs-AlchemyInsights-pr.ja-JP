@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 631102eb8a52746b2411000376d8434997eea2d92d2b95b0f102acf2a75f9d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093783"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online の外部共有を有効にする
 
