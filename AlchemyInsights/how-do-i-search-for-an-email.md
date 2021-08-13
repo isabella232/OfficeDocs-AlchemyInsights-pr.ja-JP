@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 40bb32851d4b09f2d06e0aaabe84f980ec40d763415dde4f90b5120c242e4bb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927114"
 ---
 # <a name="how-do-i-search-for-an-email"></a>メールの検索方法
 
 メールを検索するには、メールを送信した連絡先を検索するか、メールに含まれるキーワードを検索します。
 
-下部のナビゲーション バーで拡大鏡をタップします。 次に、画面上部のボックスに検索リクエストを入力します。 
+下部のナビゲーション バーで虫眼鏡をタップし、画面上部のボックスに検索のリクエストを入力します。 
 
 **ヒント:** 拡大鏡をダブルタップして、検索ボックスにフォーカスできます。 リクエストを入力すると、結果が表示されます。 

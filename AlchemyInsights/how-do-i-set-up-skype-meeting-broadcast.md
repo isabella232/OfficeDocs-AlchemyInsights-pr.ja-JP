@@ -13,12 +13,12 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927078"
 ---
 # <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Skype 会議ブロードキャストの開始または参加ができませんか ?
 

@@ -16,12 +16,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 8d5f9cfd3a22a08ec3db784f79622b883e967faa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ffc3ef4e4bf3cc2f40ecd1d6ab787ec5a46388c1038555176721dbe57bc7971e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927006"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>クレジット カードの情報を更新する方法
 

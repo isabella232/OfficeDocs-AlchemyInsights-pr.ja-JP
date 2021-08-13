@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954695"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>別のエンタープライズ管理者を追加する - おすすめの手順
 
@@ -37,7 +37,7 @@ ms.locfileid: "49755480"
 
 **部署の管理者を追加するには:**
 
-Azure EA の管理者が部署を作成した後、Azure エンタープライズ管理者は、部署の管理者を追加し、各部署に関連付けることができます。 エンタープライズ登録ごとに、複数の部署の管理者を割り当てることができます。
+Azure EA の管理者が部署を作成した後、Azure エンタープライズ管理者は、部署の管理者を追加し、各部署に関連付けることができます。エンタープライズ登録ごとに、複数の部署の管理者を割り当てることができます。
 
 1. [Azure エンタープライズ ポータル](https://ea.azure.com/)にサインインします。
 1. [ > **部署** の **管理**] タブに移動し、部署を選択します。

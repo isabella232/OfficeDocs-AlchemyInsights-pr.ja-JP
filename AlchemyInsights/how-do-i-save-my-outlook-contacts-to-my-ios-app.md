@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927222"
 ---
 # <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Outlook の連絡先を iOS の連絡先アプリに保存する方法
 
@@ -29,4 +29,4 @@ Outlook の連絡先をネイティブ アドレス帳に保存するには:
  
 保存した連絡先は、iCloud アカウントの連絡先の下に追加されます。 これらの連絡先は、同じ iCloud アカウントでサインインしているすべてのデバイスと同期します。 一度に 1 つのデバイスからのみ連絡先をエクスポートできることに注意してください。
  
-ユーザーが [連絡先のエクスポート] を有効にしている場合、競合の回避のために iPad と iPhone の両方を無効にする必要があります。 複製が調整されるまでに 24 時間かかる場合があります。
+ユーザーが [連絡先のエクスポート] を有効にしている場合、競合の回避のために iPad と iPhone の両方を無効にする必要があります。重複の調整には最大 24 時間かかる場合があります。
