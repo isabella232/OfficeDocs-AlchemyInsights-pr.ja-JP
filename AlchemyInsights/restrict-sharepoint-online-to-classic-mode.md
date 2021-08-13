@@ -13,16 +13,16 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958806"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online のクラシック モードへの制限
 
-いくつかの組織はまだクラシック モードのエクスペリエンスが必要です。 クラシック モードを詳細なレベルで削除する計画はありませんが、リストやライブラリに対して組織全体 (テナント) をクラシック モードに制限することはできなくなります。
+一部の組織では、引き続きクラシック モードのエクスペリエンスが必要です。クラシック モードを詳細なレベルで削除する予定はありませんが、リストやライブラリに対して組織全体 (テナント) をクラシック モードに制限することはできなくなります。
 
 管理者には、次のレベルで提供される詳細なオプト アウト スイッチを使用して、クラシック モードで個々のリストとライブラリを管理する次のオプションがあります。
 

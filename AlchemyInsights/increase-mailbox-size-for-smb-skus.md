@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
-ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
+ms.openlocfilehash: bf7dcad56ffa438df6528cc77e4c8e145e98cb002bbc22ff04d8f08dc7d37232
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49363688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913179"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>メールボックス サイズを拡大するためにプランをアップグレードする
 
@@ -28,8 +28,8 @@ ms.locfileid: "49363688"
 3. [サブスクリプションの詳細] ページの **[製品の詳細とアップグレード]** セクションで、**[組織におすすめのアップグレードを表示する]** を選択します。
 4. **[利用可能なアップグレード]** ページで、必要な新しいプランを見つけて、**[アップグレード]** を選択します。
 5. **[チェックアウト]** ページで、支払い方法を選択または追加してから、**[注文]** を選択します。
-6. **[準備が完了しました]** ページで、 **[アップグレードの状態]** または **[サブスクリプションのセットアップを続行する]** を選択します。
+6. **[準備が完了しました]** ページで、**[アップグレードの状態]** または **[サブスクリプションのセットアップを続行する]** を選択します。
 
-購入手続きが完了すると、Microsoft 365 の切り替えの最終処理に数分かかります。 すぐに新しいサブスクリプションの使用を開始することができます。
+購入手続の完了後、Microsoft 365 による切り替えの最終処理に数分間かかります。新しいサブスクリプションは、すぐに使用開始できます。
 
 詳細については、「[別のプランにアップグレードする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)」を参照してください。

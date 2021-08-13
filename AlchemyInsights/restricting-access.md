@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 8af9546f219474e2382cd2436470385bf3ad31e8
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
-ms.translationtype: HT
+ms.openlocfilehash: 98057b8e34cad19e2118f470dbeacdc8a7e78d9bc941e7f6565743201a541b56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958662"
 ---
 # <a name="restricting-access"></a>アクセスの制限
 
