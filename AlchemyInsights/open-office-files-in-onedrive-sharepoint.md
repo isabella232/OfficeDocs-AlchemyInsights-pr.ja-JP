@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 1cb86975327c76ffa184c0652c97ff2463a840f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26581af10790f2835b77ec08c9651d694523f686c9ed9f0cd3330b631cde4dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944640"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Sharepoint または OneDrive からファイルを開くときの問題 
 
