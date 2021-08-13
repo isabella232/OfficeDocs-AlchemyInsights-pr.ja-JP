@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938736"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>ネットワーク ドライブにマップされた SharePoint ライブラリに関する問題を修正します
 
