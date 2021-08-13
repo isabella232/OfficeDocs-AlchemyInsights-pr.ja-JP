@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924486"
 ---
 # <a name="change-account-information-in-outlook-on-the-web"></a>Outlook on the web でアカウント情報を変更する
 

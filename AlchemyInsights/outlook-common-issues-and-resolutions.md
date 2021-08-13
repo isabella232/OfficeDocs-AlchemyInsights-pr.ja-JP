@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2728"
 - "9000784"
-ms.openlocfilehash: fb3be6afad8450693d06c0ed728a46c1526b2e61
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a7200f7035feb7570fa9309e84a118249b41b925625b84efe43e7c5f480daeca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924774"
 ---
 # <a name="outlook-common-issues-and-resolutions"></a>Outlook の一般的な問題と解決策
 

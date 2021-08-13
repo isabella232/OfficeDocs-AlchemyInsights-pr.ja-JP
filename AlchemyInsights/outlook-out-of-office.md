@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: 4ac8c5c4eac5ae9c1ea1b14595e69d983ee4b007
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb378f0a51ff4cdd16227bbeca4aeceac0002c27e5982d1a2bb25579dc2cd21b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924702"
 ---
 # <a name="set-up-out-of-office-automatic-replies"></a> [外出中] 自動応答の設定
 

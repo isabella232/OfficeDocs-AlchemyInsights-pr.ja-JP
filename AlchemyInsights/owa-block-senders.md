@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e572ac0d8f0316cd440aacf8ab3423fef6327bb104d5181fea51275bd1b4136d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924630"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Outlook on the web で送信者をブロックまたはブロック解除する
 

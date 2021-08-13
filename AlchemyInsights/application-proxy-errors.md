@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
-ms.translationtype: HT
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969832"
 ---
 # <a name="troubleshoot-errors-related-to-application-proxy"></a>アプリケーション プロキシに関連するエラーのトラブルシューティング
 

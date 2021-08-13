@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 30e8e9f83cddccc85dbebf7bedb3ee0d4ad523a81ecbce039208c400f7c87a8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960732"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Planner の一般的な問題と解決策
 

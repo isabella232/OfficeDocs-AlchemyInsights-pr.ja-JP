@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49680444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924666"
 ---
 # <a name="outlook-wont-accept-your-gmail-password"></a>Outlook で Gmail パスワードを利用できない
 
@@ -28,7 +28,7 @@ ms.locfileid: "49680444"
 
 1. ブラウザーから Gmail に移動し、画面の右上隅にある **Google アプリ** アイコンをクリックします。
 1. 左側にある **[セキュリティ]** をクリックします。
-1. Google へのサインインで、**[2 段階認証]** が **[オフ]** の場合は、**[オフ]** の横の **>** をクリックして **[オン]** にします。 それ以外の場合は、手順 4 に進みます。
+1. Google へのサインインで、**[2 段階認証]** が **[オフ]** の場合は、**[オフ]** の横の **>** をクリックして **[オン]** にします。それ以外の場合は、手順 4 に進みます。
 1. 最初の画面で **[続行]** をクリックします。
 1. メッセージが表示されたら、Gmail のパスワードを入力し、**[次へ]** を選択します。
 1. 自分の電話番号を入力して、テキスト メッセージで認証コードを受信するか、音声通話で受信するかを選択します。

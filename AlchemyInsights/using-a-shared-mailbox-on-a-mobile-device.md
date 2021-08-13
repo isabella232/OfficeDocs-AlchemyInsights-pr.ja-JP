@@ -16,12 +16,12 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e8f34bc41e2c60aba32e6fc6f71138042ba7e949df6293c7407452d5e33a680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980218"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>モバイル デバイスでの共有メールボックスの使用
 
