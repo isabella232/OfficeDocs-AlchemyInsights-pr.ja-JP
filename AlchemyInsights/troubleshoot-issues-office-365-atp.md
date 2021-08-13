@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 2a770796fe535725e3bfbbd28ac759eca0c61e3d9c9be94465af2d0988bff7c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939178"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の問題のトラブルシューティング
 
 - **メール メッセージ配信の遅延に気づいた場合は**、 Microsoft Defender for Office 365 の安全な添付ファイル ポリシーの [動的配信] オプションを使用してみてください。 これにより、受信者を悪意のあるファイルから保護しながら、メール メッセージの配信の遅延を回避できます。
 - **誤検知を報告するには**、[報告エクスプローラー](https://protection.office.com/reportsubmission)を使用します。
-- **組織内のユーザー間で送信されるメールに対して、Microsoft Defender for Office 365 の安全なリンクの保護を有効にするには**、 次の手順を実行します。
+- **組織内のユーザー間で送信されるメールに対して、Microsoft Defender for Office 365 の安全なリンクの保護を有効にするには**、次の手順を実行します。
     1. https://protection.office.comに移動して、サインインします。
     2. **脅威管理** > **ポリシー** > **安全なリンク** に移動します。
     3. **[特定の受信者に適用されるポリシー]** で、ポリシーを編集 (または追加) します。

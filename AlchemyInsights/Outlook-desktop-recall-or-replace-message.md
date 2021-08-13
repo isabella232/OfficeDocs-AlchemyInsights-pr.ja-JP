@@ -10,24 +10,24 @@ ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33fe7ebd53d7ff11dbab54ce589aaf58e68c633be4d83a3cdfb00edc7752430e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918400"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Outlook メール メッセージを取り消す、または置き換える
 
-- 管理者は、**PowerShell を使用してユーザーの代理のメッセージを取り消すことが**できます。 管理センターからメッセージを取り消すことはできません。
-- あなたは**あなたの組織内の人々に送られたメッセージだけを取り消すことができます**。 たとえば、Gmail アドレスに送信された場合は、メッセージを取り消すことはできません。
+- 管理者は、**PowerShell を使用してユーザーの代理のメッセージを取り消すことが** できます。 管理センターからメッセージを取り消すことはできません。
+- あなたは **あなたの組織内の人々に送られたメッセージだけを取り消すことができます**。 たとえば、Gmail アドレスに送信された場合は、メッセージを取り消すことはできません。
 - あなたは **PC の Outlook 2016 から送信されたメッセージだけを取り消すことができます**。 ユーザーが、Outlook for Mac またはOutlook on the web を使用してメッセージを送信する場合、取り消すことができません。
 
 送信したメール メッセージを取り消す、または置き換えるには：
 
 1. Outlook ウィンドウの左側のフォルダー ペインで、[送信済みアイテム] フォルダーを選択します。
 1. 取り消したいメッセージをクリックして開きます。
-1. **メッセージ**タブを選択、それから**Actions** > **Recall This Message**を選択。
+1. **メッセージ** タブを選択、それから **Actions** > **Recall This Message** を選択。
 1. [**未読のこのメッセージのコピーを削除する**]を選択、または [**未読のコピーを削除して新しいメッセージに置き換える**] 、そして[**OK**] を選択します。
 1. 代わりのメッセージを送信する場合、メッセージを作成し、[**送信**] を選択します。
 1. メッセージ取り消しの成功または失敗は、受信者のOutlookの設定によって決まります。 取り消しの状況をチェックするステップについては、[こちらの記事](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)を参照してください。

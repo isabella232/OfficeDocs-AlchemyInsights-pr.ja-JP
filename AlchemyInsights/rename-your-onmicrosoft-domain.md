@@ -13,12 +13,12 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7748763d8eb9ea18494d1cbf45ad727f97d2d4067bc19ab7a8e60eeb738b668f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094497"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>onmicrosoft.com ドメインの名前を変更する
 

@@ -16,12 +16,12 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 63f099d78fcdd2c413a5d56b86c77fecd93b6a9c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0a8bbf544cce3f05dfc408ef8403042705741ce6f9f8319538a277f63d697c84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940054"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターで購入を完了できない問題
 

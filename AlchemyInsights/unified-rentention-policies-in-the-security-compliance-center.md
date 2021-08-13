@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972316"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>セキュリティ/コンプライアンス センターの統合されたアイテム保持ポリシー
 

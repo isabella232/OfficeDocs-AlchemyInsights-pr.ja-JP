@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918364"
 ---
 # <a name="alert-policies"></a>アラート ポリシー
 
-Microsoft 365 セキュリティ/コンプライアンス センターは、Office 365 Enterprise または Office 365 US Government E1/G1、E3/G3、E5/G5 サブスクリプションを持つ組織に対してアラートをトリガーする[既定のアラート ポリシー](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)を提供します。そのため、管理者は Office365Alerts@microsoft.com から送信された "低重要度アラート: "アラート ポリシーの名前" などの件名でのアラート メール通知を受信する場合があります。アラート通知は、ユーザーによる以下のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。**
+Microsoft 365 セキュリティ/コンプライアンス センターは、Office 365 Enterprise または Office 365 US Government E1/G1、E3/G3、E5/G5 サブスクリプションを持つ組織に対してアラートをトリガーする[既定のアラート ポリシー](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)を提供します。そのため、管理者は Office365Alerts@microsoft.com から送信された "低重要度アラート: "アラート ポリシーの名前" などの件名でのアラート メール通知を受信する場合があります。アラート通知は、ユーザーによる以下のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。
 
 - メールを転送する受信トレイのルールを作成する。
 - アクセス許可をメールボックスに割り当てる。

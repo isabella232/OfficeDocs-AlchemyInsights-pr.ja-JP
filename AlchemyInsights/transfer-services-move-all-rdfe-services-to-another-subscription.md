@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940066"
 ---
 # <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>サービスの転送 - すべての RDFE サービスを別のサブスクリプションに移動する
 
