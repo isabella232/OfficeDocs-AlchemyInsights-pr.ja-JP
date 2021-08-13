@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937142"
 ---
 # <a name="activation-troubleshooting"></a>ライセンス認証のトラブルシューティング
 
@@ -25,7 +25,7 @@ ms.locfileid: "47697490"
   
 コントロール パネルを使用して正常にアンインストールできない場合は、[サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)を使用して、使用していないバージョンをアンインストールします。
   
-Office がまだライセンス認証されていない場合は、**コントロール パネル**の [**プログラムと機能**] に戻ります。残りの Office インストールを右クリックし、[**変更**] を選択して、[**オンライン修復**] を選択します。オンライン修復には時間がかかる場合があります。次に、確認メッセージが表示されたら、Office を再起動し、職場または学校のアカウントを使用してサインインします。
+Office がまだライセンス認証されていない場合は、**コントロール パネル** の [**プログラムと機能**] に戻ります。残りの Office インストールを右クリックし、[**変更**] を選択して、[**オンライン修復**] を選択します。オンライン修復には時間がかかる場合があります。次に、確認メッセージが表示されたら、Office を再起動し、職場または学校のアカウントを使用してサインインします。
   
 Office がまだライセンス認証されていない場合は、影響を受けたコンピューター上で[ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)をダウンロードして実行し、ライセンス認証の問題を解決します。
   

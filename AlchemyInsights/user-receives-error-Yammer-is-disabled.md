@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6010"
 - "9003111"
-ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2e23d63338ece5332ad4fd2b2d59021eb45d9bf32632d3cc23089c919d4e402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971236"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>ユーザーが受け取ったエラー AADSTS7000112 Yammer が無効になっています
 
@@ -29,7 +29,7 @@ ms.locfileid: "47796653"
 Azure Portal でこの問題を修正し、Yammer へのユーザーアクセスを復元するには：
 
 1.  Azure Active Directory ページを開き、左側のナビゲーションウィンドウの[**管理**]で[**エンタープライズアプリケーション**]を選択します。
-3.  検索ボックスに「** Office 365 Yammer **」と入力し、アプリケーション名を選択して設定を開きます。
+3.  検索ボックスに「**Office 365 Yammer**」と入力し、アプリケーション名を選択して設定を開きます。
 4.  左側のナビゲーションウィンドウの[**管理**]で[**プロパティ**]を選択します。
 5.  [**ユーザーがログインできるようにしますか?**]の値を[**はい**]に設定して、[**保存**]を選択します。
 6.  Yammer に再度サインインします。 クッキーを消去する必要があるかもしれません。
