@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 353381239dc42d34bcc4661f4b6e6a45b6536d4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56dbb5e39198afcebaf389e5d1b433a750a1217fde62d9a31eea15ae80a2b866
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937862"
 ---
 # <a name="activate-visio"></a>Visio のライセンス認証
 

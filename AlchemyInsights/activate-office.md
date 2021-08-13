@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: c5e8b0c5cf948c1a903c178856dad0c524624e7d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4d95aeb2b097c3b44005ad359af3669e10ce924942f57d7e2a5cd7759128b1f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937970"
 ---
 # <a name="activate-office"></a>Office をライセンス認証する
 

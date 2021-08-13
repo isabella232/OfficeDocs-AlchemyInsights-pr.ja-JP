@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc10b443ef420184281a6872887ea0b9571c7dfb88c684d8399ca0c85e9f4ab3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937790"
 ---
 # <a name="activate-windows-10"></a>Windows 10 のライセンス認証を行う
 

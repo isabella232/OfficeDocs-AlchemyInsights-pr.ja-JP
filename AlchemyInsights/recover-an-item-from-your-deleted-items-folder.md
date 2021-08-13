@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 643c58003e62c88cb6ac6cf420f746dd8f03ed82
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: d90c9573cea9823310399bce452cb010343cdca1bfeefef7733550125b20fffc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062409"
 ---
 # <a name="recover-an-item-from-your-deleted-items-folder"></a>[削除済みアイテム] フォルダーからアイテムを復元する
 
