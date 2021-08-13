@@ -13,12 +13,12 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 99830889b92f2eef141368d84b03d5ae5b3ee18a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5a9e2f46c7984f5d0101e9743cfd9d128284269799ec6fb7514a9176b857170c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927330"
 ---
 # <a name="direct-routing-for-microsoft-teams"></a>Microsoft Teams のダイレクト ルーティング
 
