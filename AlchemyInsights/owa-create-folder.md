@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961236"
 ---
 # <a name="create-a-folder"></a>フォルダーを作成する
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: 502279487063b863d90390997f76d3d304fae9ae
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: cecbac79c72d1d4d753d8f2b20dba8776efc82c081aaeee900210104d011d53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969580"
 ---
 # <a name="apply-site-template-to-sharepoint-sites"></a>サイト テンプレートを SharePoint サイトに構成する
 
@@ -26,6 +26,6 @@ SharePoint では、事前入力されたコンテンツ、ページ、および
 
 以前のバージョンの SharePoint ではサイト テンプレートはサイト デザインと呼ばれていましたが、今後はサイト テンプレートと呼ばれます。 
 
-新しいサイトを作成するときにテンプレートを適用したり、既存のサイトにテンプレートを適用したり、サイト テンプレートをカスタマイズしたりすることもできます。 詳細については、[SharePoint サイト テンプレートの適用とカスタマイズ](https://support.microsoft.com/office/39382463-0e45-4d1b-be27-0e96aeec8398) を参照します。
+新しいサイトを作成するときにテンプレートを適用したり、既存のサイトにテンプレートを適用したり、サイト テンプレートをカスタマイズしたりすることもできます。詳細については、「[SharePoint サイト テンプレートの適用とカスタマイズ](https://support.microsoft.com/office/39382463-0e45-4d1b-be27-0e96aeec8398)」を参照してください。
 
 カスタム サイト テンプレート (旧サイト デザイン) を使用する管理者については、[SharePoint サイト デザインとサイト スクリプトの概要](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview) を参照します。

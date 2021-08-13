@@ -16,12 +16,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 009c7d983fb0cbe88a24a7a00b65169f31507b31
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1dee612adbfb18b2e24b8f0dff67b37ef8edf6394da077b792d3d585cf42fc2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927762"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>クレジット カードを追加する方法
 

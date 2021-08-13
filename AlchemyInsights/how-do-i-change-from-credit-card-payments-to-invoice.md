@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: be744c88181d97edfe0f98f2d5e6bc02ff1bf30b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ef61f61209d63dc8abb5527fc9586caf97f8a2de399135410d19289746b535d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927690"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>支払いをクレジット カードから請求書に変更する方法
 
