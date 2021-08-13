@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964305"
 ---
 # <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail 連絡先または Google カレンダーを Office 365 または Outlook に移行する
 

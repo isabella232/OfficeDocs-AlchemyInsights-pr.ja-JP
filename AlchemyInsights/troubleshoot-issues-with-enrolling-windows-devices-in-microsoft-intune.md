@@ -12,12 +12,12 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981046"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Microsoft Intune での Windows デバイスの登録に関する問題のトラブルシューティング
 
@@ -31,7 +31,7 @@ ms.locfileid: "51808976"
   
 -  ユーザーがデバイスの制限を超える数のデバイスを登録しています。こちらのドキュメントを参照して、[デバイスを削除](https://docs.microsoft.com/intune/devices-wipe)するか、[デバイスの制限を変更](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)してください。
 
--  [ユーザーはデバイスを Azure AD に参加させることができます] が、[なし] に設定されています。 すべてに設定するか、ユーザーを選択します。 詳細については、[このドキュメント](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)でご確認ください。
+-  [ユーザーはデバイスを Azure AD に参加させることができます] が [なし] に設定されています。[すべて] に設定するか、ユーザーを選択します。詳しくは、[こちらのドキュメント](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)をご覧ください。
 
 -  デバイスが他のユーザーによって既に登録済みです。その場合には、Azure Intune コンソールから対象デバイスを削除するか、デバイスを手動で登録解除してから、もう一度試します。
 
