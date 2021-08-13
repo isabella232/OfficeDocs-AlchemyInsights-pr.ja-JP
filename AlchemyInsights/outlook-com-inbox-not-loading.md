@@ -12,12 +12,12 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 16e349fa06350264f34802aefa9176d742d7a188
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4788ff4a190fb34a852bf886d14457edbfb48fe438008ac7660ebe5bd377559a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984034"
 ---
 # <a name="empty-inbox"></a>受信トレイを空にする
 

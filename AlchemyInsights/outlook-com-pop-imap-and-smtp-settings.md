@@ -14,12 +14,12 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983818"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Outlook.com の POP、IMAP、SMTP 設定
 
