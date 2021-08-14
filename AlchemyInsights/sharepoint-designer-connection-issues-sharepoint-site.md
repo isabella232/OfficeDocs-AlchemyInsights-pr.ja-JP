@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 997ba3de58485d4fe6d24b926c33348378af8cd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d55f7c1902bb623900fa74bdae70695b6e04ad84ce7b6ea314db614283ec436d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942030"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer の接続に関する問題 
 
@@ -40,6 +40,6 @@ SharePoint Designer で SharePoint サイトへの接続に問題が発生した
 
 手順 3: [Windows デバイスの Office 2013 の先進認証を有効にします](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)。
 
-手順 4: SharePoint Designer の接続を可能にするために、管理者は SharePoint 管理センターの設定で、**カスタム スクリプトの実行を許可**する必要があります。 詳細については、「[カスタム スクリプトを許可または禁止する](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)」を参照してください。
+手順 4: SharePoint Designer 接続を可能にするために、管理者は SharePoint 管理センターの設定で、**カスタム スクリプトの実行を許可する** 必要があります。詳細については、「[カスタム スクリプトを許可または禁止する](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)」を参照してください。
 
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 936c3bc5ad9c76e805b4b8d966853100c2a3f467046a490017813b011ef9b600
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942768"
 ---
 # <a name="sending-mail-as-another-user"></a>別のユーザーとしてメールを送信する
 
