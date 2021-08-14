@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973234"
 ---
 # <a name="privileged-identity-managementpim-role"></a>特権 ID 管理 (PIM) のロール
 
