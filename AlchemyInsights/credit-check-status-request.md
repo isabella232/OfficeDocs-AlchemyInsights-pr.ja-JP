@@ -16,12 +16,12 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 12b717961a8db98c9c8aa32e2c08f0eaac399485
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e8082fe8e36dc398836695f5d988a0e5aa23838d8e36f265296540aaf9bd2738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948780"
 ---
 # <a name="credit-check-status-request"></a>与信審査状態の要求
 

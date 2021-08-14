@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949572"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>特定の Office 365 メール メッセージを自動的に暗号化
 

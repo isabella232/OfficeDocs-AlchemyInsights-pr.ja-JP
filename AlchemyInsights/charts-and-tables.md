@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d66d8f3d5cc016a88715ee72c329b2d8a72039571f5025d267339e9f3126a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949680"
 ---
 # <a name="common-issues-with-tables"></a>表に関する一般的な問題 
 

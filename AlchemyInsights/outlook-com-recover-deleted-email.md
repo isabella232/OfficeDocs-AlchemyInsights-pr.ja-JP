@@ -14,12 +14,12 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095365"
 ---
 # <a name="recover-deleted-email-outlookcom"></a>Outlook.com で削除されたメールを復元する
 
