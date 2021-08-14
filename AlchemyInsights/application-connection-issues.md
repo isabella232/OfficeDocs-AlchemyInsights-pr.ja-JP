@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
-ms.translationtype: HT
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931542"
 ---
 # <a name="application-connection-issues"></a>アプリケーションの接続に関する問題
 

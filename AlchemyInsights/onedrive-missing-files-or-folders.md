@@ -8,12 +8,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 95ce018b618cd4eb48cb7293b753f2b6531dd4fd
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 064086c3bbeed71bfe1f9209bd231cb28462e7ecd9c2bbed40c4716392eabe72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974278"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: 見つからないファイルまたはフォルダ
 
@@ -38,5 +38,5 @@ OneDrive ファイルの多くが削除、上書き、破損、またはマル�
 
 **ローカル マシンの OneDrive 同期クライアントを確認してください**。
 
-OneDrive 同期クライアントを使用してコンピューター上のファイルを同期している場合は、ローカルの同期フォルダーを調べて、正しくアップロードされていることを確認します。 ローカル マシンのごみ箱も確認してください。
+OneDrive 同期クライアントを使用してコンピューター上のファイルを同期している場合は、ローカルの同期フォルダーを調べて、正しくアップロードされていることを確認します。ローカル マシンのごみ箱も確認してください。
 

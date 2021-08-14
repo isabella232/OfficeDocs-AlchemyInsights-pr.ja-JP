@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974350"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 アプリのメッセージ - 申し訳ございません。このコンピューターに、組織内の別のアカウントが既にサインインしています
 
@@ -37,7 +37,7 @@ ms.locfileid: "51836248"
 
 問題が解決しない場合は、次の手順をお試しください。 
 
-- Office のライセンス認証の状態をリセットします。 「[Microsoft 365 Apps for enterprise のライセンス認証の状態をリセットする](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)」を参照してください。
+- Office のライセンス認証の状態をリセットします。「[Microsoft 365 Apps for enterprise のライセンス認証の状態をリセットする](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)」を参照してください。
 
 詳細については、Office での「[申し訳ございません。このコンピューターに、組織内の別のアカウントが既にサインインしています](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)」を参照してください。
 
