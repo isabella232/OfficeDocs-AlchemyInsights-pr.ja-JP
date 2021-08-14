@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: ef61f61209d63dc8abb5527fc9586caf97f8a2de399135410d19289746b535d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927690"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868683"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>支払いをクレジット カードから請求書に変更する方法
 
@@ -34,4 +34,4 @@ ms.locfileid: "53927690"
 6. ご自分の名前、住所、電話番号を入力します。 請求書に表示する発注書番を追加することもできます。
 7. 完了したら、[**保存**] を選択します。
 
-詳細については、「[サブスクリプションの支払い方法](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションの支払い方法](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。
