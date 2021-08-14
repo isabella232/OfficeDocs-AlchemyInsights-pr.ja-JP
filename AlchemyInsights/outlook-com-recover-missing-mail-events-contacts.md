@@ -21,12 +21,12 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063741"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Outlook で見つからないまたは削除されたメール、予定表のイベント、または連絡先を検索および回復する
 

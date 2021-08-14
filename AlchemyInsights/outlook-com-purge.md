@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: 44fb3dc1fe53f25a9cecec726e12c86b0fc2e5e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ee2a56741655be3070b09eeb4e1e423b648250154af7448e230fe2ef1c1950
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095763"
 ---
 # <a name="permanently-delete-email-in-outlookcom"></a>Outlook.com の電子メールを完全に削除する
 

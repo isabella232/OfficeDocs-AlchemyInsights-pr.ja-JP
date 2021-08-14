@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951858"
 ---
 # <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>Microsoft 365 グループに送信されたメールに対して受信した AggregateGroupMailbox の完全な NDR
 
