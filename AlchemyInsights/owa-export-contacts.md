@@ -14,12 +14,12 @@ ms.custom:
 - "8000020"
 - "2003"
 ms.assetid: ''
-ms.openlocfilehash: 311964b1e8e049ad7c26b106d5fe551f2d348170
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7dfdf30ec51f393cb47cb3fe89577923d4ac054579391f1fa9700bb9c3c6319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983278"
 ---
 # <a name="export-contacts"></a>連絡先をエクスポートする
 
@@ -27,7 +27,7 @@ ms.locfileid: "47694208"
  [**ユーザー**] を選択します。
 2. ツールバーで、[**管理**]  >  [**連絡先のエクスポート**] を選択します。 
 3. すべての連絡先をエクスポートするか、それとも特定のフォルダーの連絡先のみをエクスポートするかを選び、[**エクスポート**] を選択します。
-4. ページの下部にある、[**保存**] を選択すると、"contacts.csv" が既定のダウンロード フォルダーに保存されます。 または、[**保存**] の横にある矢印を選択し、**[名前を付けて保存]** を選択します。
+4. ページの下部で、[**保存**] を選択して既定のダウンロード フォルダーに "contacts.csv" を保存します。または、[**保存**] の横にある矢印を選択し、[**名前を付けて保存**] を選択します。
 
 詳細については「[Outlook から連絡先をエクスポートする](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web)」を参照してください。
 

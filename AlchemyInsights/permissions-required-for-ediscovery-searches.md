@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973846"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>電子情報開示の検索に必要なアクセス許可
 

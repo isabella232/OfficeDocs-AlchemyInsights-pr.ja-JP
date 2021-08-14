@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991504"
 ---
 # <a name="reset-or-recover-your-pc"></a>PC を初期状態に戻す、または回復する
 
@@ -31,7 +31,7 @@ PC は、**[設定]、[更新とセキュリティ]、[回復]** から初期状
 
 設定を開けない場合は、サインイン画面から PC を初期状態に戻すことができます。
 
-1. サインイン画面に移動するには、**Windows ロゴ キー + L キー** を押します。次に、画面の右下隅にある [**電源**] ボタン、[**再起動**] の順に選択しながら **Shift** キーを押して PC を再起動します。 PC が Windows 回復環境 (WinRE) で再起動します。
+1. **Windows ロゴ キー + L キー** を押してサインイン画面に移動します。次に、画面の右下隅の [**電源**] ボタン > [**再起動**] を選択しながら、**Shift** キーを押して PC を再起動します。 PC は Windows 回復環境 (WinRE) で再起動されます。
 2. [**オプションの選択**] 画面で、**[トラブルシューティング]、[この PC を初期状態に戻す]** の順に移動し、オプションの 1 つを選択します。
 
 **その他の復元または回復オプション**

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: b7ad905df95526547b9247162a35f1a5c62cdda6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e91a27bebcd10e1cbeb3635a59fbb6bfe8fdf33db1d21e094794fc82d9f0e608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983242"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Outlook on the web で見つからないまたは削除されたメール、予定表のイベント、または連絡先を検索および回復する
 

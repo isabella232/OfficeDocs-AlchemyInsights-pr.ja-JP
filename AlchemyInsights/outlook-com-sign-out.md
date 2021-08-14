@@ -14,12 +14,12 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983386"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Outlook.com からサインアウトする方法
 

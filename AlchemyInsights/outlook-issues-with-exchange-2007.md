@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 5b8988e234a4cb15d7c3388d1727efe5840f3038
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be1c062d4f8d4fce889564f77de9558b16e26b76482f9af8c3a6b5e20966445a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983314"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>「現在のメールボックスからメールを受信することはできません」というエラーの解決策
 Outlook 365/2016 と Exchange 2007 サーバーを一緒に使用しようとすると、次のエラーが表示されます。

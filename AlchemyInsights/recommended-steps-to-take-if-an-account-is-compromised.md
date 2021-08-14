@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: acce676ebb9f4000794669ffb268e7b4fe057f77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 800e0a30bb41302f484acb92210527bfd0a325dc699eea191e6eb0a3d1d4419f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959502"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>アカウントが侵害された場合に推奨される対処方法
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945855"
 ---
 # <a name="having-self-service-password-reset-sspr-problems"></a>セルフサービス パスワード リセット (SSPR) に問題がある場合
 

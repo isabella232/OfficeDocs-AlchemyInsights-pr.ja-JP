@@ -14,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959364"
 ---
 # <a name="remove-the-large-attachment"></a>大きい添付ファイルを削除する
 

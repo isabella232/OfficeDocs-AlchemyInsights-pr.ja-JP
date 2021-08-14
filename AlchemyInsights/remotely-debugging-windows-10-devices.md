@@ -14,12 +14,12 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959400"
 ---
 # <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Windows 10 デバイスのリモート デバッグを開始する
 
