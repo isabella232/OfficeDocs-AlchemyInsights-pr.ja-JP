@@ -15,12 +15,12 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973702"
 ---
 # <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Google Chrome 拡張機能を Microsoft Edge (Chromium) に移植する
 

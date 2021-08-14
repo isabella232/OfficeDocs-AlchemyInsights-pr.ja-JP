@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 2b1ebc385dd860caba1658f6ddea42479b93e896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f36366717c7ff3d44fda341b31fffafd08258a66e1cf10f1bdc53d868001f137
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063201"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>Outlook on the web でメールや連絡先を検索する
 
