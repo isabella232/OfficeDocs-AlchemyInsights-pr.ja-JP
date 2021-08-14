@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995050"
 ---
 # <a name="create-a-communication-compliance-policy"></a>コミュニケーション コンプライアンス ポリシーを作成する
 

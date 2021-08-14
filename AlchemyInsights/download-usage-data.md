@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: HT
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004267"
 ---
 # <a name="download-usage-data"></a>利用状況データのダウンロード
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932894"
 ---
 # <a name="android-enterprise-enrollment---overview"></a>Android Enterprise 登録 - 概要
 
-Android Enterprise 登録を組織で使用するには、最初に  [Intune アカウントを Google Play の管理アカウントに接続する](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise)必要があります。 
+Android Enterprise 登録を組織で使用するには、最初に [Intune アカウントを Google Play の管理アカウントに接続する](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise)必要があります。 
 
 正常に接続できたら、ユーザーに実行させる種類の Android 登録に適した手順を選択します。
 

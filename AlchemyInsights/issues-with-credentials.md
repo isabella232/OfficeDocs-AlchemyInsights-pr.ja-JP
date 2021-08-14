@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
-ms.translationtype: HT
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986824"
 ---
 # <a name="issues-with-credentials"></a>資格情報に関する問題
 

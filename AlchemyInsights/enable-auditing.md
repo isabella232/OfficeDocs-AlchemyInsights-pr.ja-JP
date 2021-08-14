@@ -13,12 +13,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003649"
 ---
 # <a name="enable-and-search-the-audit-log"></a>監査ログを有効にして検索する
 
