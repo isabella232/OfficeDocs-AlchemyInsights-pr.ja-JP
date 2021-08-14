@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989632"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>既存のサイトとハブ サイトを関連付ける
 
@@ -29,7 +29,7 @@ ms.locfileid: "47715746"
 
 >**注**
 >
->[ハブ サイトの関連付け] オプションが存在しないか、サイトが一覧表示されない場合は、ハブ サイトが有効になっていないか、サイトとハブ サイトを関連付けるためのアクセス許可がない可能性があります。 詳細については、管理者にお問い合わせください。
+>[ハブ サイトの関連付け (Hub site association)] オプションが存在しないか、サイトが一覧表示されない場合は、ハブ サイトが有効になっていないか、サイトとハブ サイトを関連付けるためのアクセス許可がない可能性があります。詳細については、管理者にお問い合わせください。
 >
 >ハブ サイトと関連付けることが可能なサイトの数に制限はありません。
   

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962316"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Facebook からファイルを添付またはアップロードできない
 
-Facebook の使用条件を変更したため、2019 年 10 月 23 日以降、Facebook から添付ファイルを直接アップロードできなくなりました。Facebook はクラウドの保管場所の一覧に表示されなくなります。 
+Facebook の使用条件を変更したため、2019 年 10 月 23 日以降、Facebook から添付ファイルを直接アップロードできなくなりました。Facebook はクラウドの保管場所の一覧に表示されなくなります。 
 
 [ストレージ アカウント](https://go.microsoft.com/fwlink/?linkid=2111075)の他のクラウドの保管場所の一覧を管理できます。
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1143"
 - "8000070"
-ms.openlocfilehash: 0dc41ac7b82f6db7596c0fc0105c1541955b35b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd4e3b5422484ec291bf5f300f80db7115a4be226dcf29ad0ede6d9dd0a69ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962568"
 ---
 # <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>¿No puede iniciar sesión en Hotmail o en Outlook.com?
 

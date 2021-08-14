@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: f143b603e50024b665d74ac91cdfbbe82e19303e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d62a760ec3f46f7179e044f25cca8f1b3f01188323330cad11671311eef002e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962424"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"アクセス許可がないようです" を解決する方法
 

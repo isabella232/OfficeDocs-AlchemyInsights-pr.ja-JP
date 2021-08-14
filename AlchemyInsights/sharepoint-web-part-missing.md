@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022612"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>コンテンツ エディターまたはスクリプト エディターの Web パーツがありません
 

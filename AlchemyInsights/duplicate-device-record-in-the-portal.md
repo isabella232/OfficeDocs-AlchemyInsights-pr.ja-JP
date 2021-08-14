@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4386"
-ms.openlocfilehash: e6f477807823e68965ce966faf0a6f50f9472f3d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7eb642f85f437fe216c49ce6b060c9061b477629fbd45f50ca0ef315b8cd32d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004159"
 ---
 # <a name="duplicate-device-record-in-the-portal"></a>ポータルで重複しているデバイス レコード
 
 ポータルで、1 つのデバイスに対して 2 つのレコードが表示されることがあります。これは、そのデバイスが共同管理の状態を Configuration Manager サイトに正しく報告していない場合に発生します。 デバイスの共同管理の状態を調べるには、Configuration Manager コンソールでデバイスの **[共同管理]** 列を確認します。 この列が表示されていない場合は、任意の列見出しを右クリックして、リストから目的の列を選択することで追加できます。
 
-[共同管理] の値は、**[はい]** になっている必要があります。 この値が **[いいえ]** の場合は、クライアント デバイスで Configuration Manager クライアント アプレットを起動して、[全般] タブで **[Co-management]** プロパティを確認します。
+共同管理の値は、**[はい]** にする必要があります。値が **[いいえ]** の場合は、クライアント デバイスで 構成マネージャー クライアント アプレットを開き、[全般] タブの **[共同管理]** プロパティを確認します。
 
 - この値が **[Enabled]** の場合は、クライアントと管理ポイントとの通信に問題があることを示しています。 デバイスの **CcmMessaging.log** を確認して、可能性のある接続の問題を調査してください。
 
