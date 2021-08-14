@@ -16,12 +16,12 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 47cde26b927f46e769957d8f490208eb2e71d216
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 4f0321874e40755346bb23c4925a21f16fb8b7c515bb40acd09dd5bcab4df1e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974386"
 ---
 # <a name="office-365-government-plans"></a>Office 365 Government プラン
 

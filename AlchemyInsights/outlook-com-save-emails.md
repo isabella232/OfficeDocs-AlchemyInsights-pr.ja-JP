@@ -15,12 +15,12 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: a85a6aa5dd10b31029e9341f24679e22318ce264
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 518bce3c59bf7c89d1f2444678b93623066d39b35b6f889696723dd35acbf572
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095223"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Outlook.com でメッセージを保存する
 

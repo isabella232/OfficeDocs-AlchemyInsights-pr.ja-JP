@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 894a6ae8d097391f04d91e2303f23a85ae450cc6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4dc3fffaf3959c2ee2a9a661f507b3058c002bf8b52a46430a6011bbce3a9e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974494"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Office、Visio、Project をインストールするオプションがない
 
@@ -34,7 +34,7 @@ Microsoft 365 アプリを含むサブスクリプションをお持ちの場合
 
 2. Office ライセンスが割り当てられている職場または学校のアカウントでサインインします。
 
-3. [Office] セクションで、言語を選択します。 32 ビット版か 64 ビット版を選択します。
+3. [Office] セクションで、言語を選択します。32 ビット版または 64 ビット版を選択します。
 
 4. **[インストール]** をクリックします。
 

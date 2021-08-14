@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 20dfad09d53d43078de3b57fde7874819582adf3
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: e69deeb4e036dc803a8cf076e3212c255beef4204c6ca78a104750332b5d3a71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947520"
 ---
 # <a name="do-you-need-instructions-for-another-version-of-outlook"></a>別のバージョンの Outlook の手順が必要な場合
 
