@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945378"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Outlook for Mac で代理人を追加または削除する方法
 
@@ -28,7 +28,7 @@ ms.locfileid: "49584193"
 
 1. **[ツール]** メニューの **[アカウント]** をクリックします。
 1. 代理人用アイテムへのアクセスに使用する Exchange アカウントを選択し、**[詳細設定]** をクリックして、**[代理人]** をクリックします。
-1. **[自分の代理人]** で、**[追加]** をクリックします。 。
+1. **[自分の代理人]** で、**[追加]** をクリックします。
 1. 代理人として追加するユーザー名を入力します。
 1. 検索結果の一覧で代理人の名前をクリックして、**[追加]** をクリックします。
  

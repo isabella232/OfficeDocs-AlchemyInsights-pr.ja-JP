@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1073"
 - "6700006"
-ms.openlocfilehash: 929400dcf0ca18ce8f52cb11e5c907064449480e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab6ad9c4bf95ee013c66384ec8449ceb1b56e8f3ea9e95c695dbbab0e9fa3fc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969976"
 ---
 # <a name="application-protection-policy"></a>アプリケーション保護ポリシー
 
@@ -31,7 +31,7 @@ APP の使用を開始するには、[「アプリ保護ポリシーを作成し
 - ユーザーが Intune または EMS ライセンスを持っています。
 - ユーザーは、アプリケーション保護ポリシーの対象グループに属します。
 - 1 人の企業ユーザーのみが、デバイス上の保護されたアプリにサインインします。
-- アプリケーションは、[Intune SDK](https://docs.microsoft.com/intune/app-sdk-get-started) を実装しています。 SDK をサポートするアプリのリストについては、[「Microsoft Intune 保護アプリ」](https://docs.microsoft.com/intune/apps-supported-intune-apps) を参照してください。
+- アプリケーションは [Intune SDK](https://docs.microsoft.com/intune/app-sdk-get-started) を実装しています。SDK をサポートするアプリのリストについては、「[Microsoft Intune 保護アプリ](https://docs.microsoft.com/intune/apps-supported-intune-apps)」を参照してください。
 
 ポリシーは、上記の要件を満たしているユーザーが Intune SDK を有効にしたアプリにサインインすると適用されます。 ポリシーが適用されているかどうかを判断する最も簡単な方法は、ユーザーがポリシーにピンを設定することを要求することです。 
 

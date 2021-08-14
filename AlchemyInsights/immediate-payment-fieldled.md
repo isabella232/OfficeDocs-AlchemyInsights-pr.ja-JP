@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945234"
 ---
 # <a name="make-an-immediate-payment"></a>直ちに支払いを行う
 
