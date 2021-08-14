@@ -13,12 +13,12 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f06aa99b264d7f7a2c00a757bdaed20a4d0e2953f6f9293f4987ae448fb17bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977806"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online での外部共有
 
@@ -35,7 +35,7 @@ ms.locfileid: "47708508"
 - [Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 - [Microsoft ゲスト共有設定リファレンス (Azure Active Directory、Microsoft 365、および SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-外部ユーザーに関するエラーが発生する場合次のリンクをご確認ください。
+外部ユーザーに関するエラーが発生する場合 次のリンクをご確認ください。
 
 - [SharePoint Online と OneDrive for Business での "アクセスが拒否されました"、"このサイトにアクセスするための権限が必要です"、または "ディレクトリにユーザーが見つかりません" というエラー](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - [SharePoint Online または OneDrive for Business でアイテムやサイトを共有する際の、"組織のポリシーにより、これらのユーザーとの共有は許可されていません" というエラー](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

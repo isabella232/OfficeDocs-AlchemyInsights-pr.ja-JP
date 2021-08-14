@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993214"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>標準ユーザー アカウントを Windows 10 の管理者に変更する
 

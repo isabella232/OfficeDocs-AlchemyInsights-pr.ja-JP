@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985546"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>関連情報を検索するコンテンツ検索ツール
 

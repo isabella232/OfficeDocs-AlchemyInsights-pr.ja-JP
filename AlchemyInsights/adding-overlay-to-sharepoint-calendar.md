@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953023"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>SharePoint カレンダーにオーバーレイを追加する
 

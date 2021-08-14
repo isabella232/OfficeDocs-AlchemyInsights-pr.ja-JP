@@ -14,12 +14,12 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 1bc891a912c6753ea6c85d7d4b2a5d802080bd5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c67632e323f2068faba06779b94ba4fd8e9f319e18cefb7977bd3038ca770210
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941608"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>SharePoint で大きなリストおよびライブラリを使用する
 
@@ -31,7 +31,7 @@ SharePoint のリストおよびライブラリには、最大 3,000 万個の�
 
 **インデックスを追加する**
 
-インデックスが作成されていない列によるフィルター処理または並べ替えを実行すると、エラー メッセージが表示される場合があります。 [設定] メニューの [**リストの設定**] から手動で[インデックスを追加](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)してから、**インデックス付きの列**を追加します。
+インデックスが作成されていない列によるフィルター処理または並べ替えを実行すると、エラー メッセージが表示される場合があります。 [設定] メニューの [**リストの設定**] から手動で [インデックスを追加](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)してから、**インデックス付きの列** を追加します。
 
 **リスト ビューを編集する**
 

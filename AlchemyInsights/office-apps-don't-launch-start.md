@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: 91440b891868fa9359a38e33c9ef2efb578a908e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3bca1ede7a2dbaef73f08323db2f3a66289006da126aa5827cff6c78cf20128
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985622"
 ---
 # <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 アプリがクラッシュする、応答を停止する、起動しない
 
