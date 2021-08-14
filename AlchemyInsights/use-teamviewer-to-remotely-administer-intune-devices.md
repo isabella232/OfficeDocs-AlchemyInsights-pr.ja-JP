@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1284"
 - "6700008"
-ms.openlocfilehash: e931b2092ab049bc01c600344cbd4702848abcd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35c82f8b91a4a0a75f8aa376771a20e6684620c55e8a06abe59db22cab945139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990532"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>TeamViewer を使用して Intune デバイスをリモート管理する
 

@@ -14,12 +14,12 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959031"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>削除された Microsoft 365 グループを復元する
 

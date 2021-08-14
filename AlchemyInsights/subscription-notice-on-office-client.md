@@ -14,12 +14,12 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 5682ed0496f17ab4a119aa9608d5e05de7bf060e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0d976db14ee0a83c1221c6f4bc25c054cc95ea3c24907e2877988c3e0648d70b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981838"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Office クライアントのサブスクリプションに関するお知らせ
 

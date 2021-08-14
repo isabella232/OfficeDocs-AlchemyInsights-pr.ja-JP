@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005095"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>クレジット カード番号に関する DLP 問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679446"
 
 **クレジット カード番号に関する DLP 問題**
 
-O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号**を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている**クレジット カード ポリシー**の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。
+O365 で機密情報の種類 DLP を使用しているときに、**クレジット カード番号** を含むコンテンツに対して **データ損失防止 (DLP)** が機能しないという問題が発生する場合があります。その場合は、評価時に DLP ポリシーをトリガーするのに必要な情報がコンテンツに含まれていることを確認してください。たとえば、85% の信頼レベルで構成されている **クレジット カード ポリシー** の場合は、ルールをトリガーするために以下が評価され、検出される必要があります。
   
 - **[書式:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 書式設定あり、または書式設定なし (dddddddddddddddd) の 16 桁の数字 (Luhn テストに合格する必要あり)。
 
@@ -54,7 +54,7 @@ O365 で機密情報の種類 DLP を使用しているときに、**クレジ�
   
   - 有効期限: 2/2009
 
-コンテンツに対して**クレジット カード番号**を検出するために必要なものに関する詳細については、この記事の「[What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)」(クレジット カード番号に関する機密情報の種類の検索基準) を参照してください。
+コンテンツに対して **クレジット カード番号** を検出するために必要なものに関する詳細については、この記事の「[What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)」(クレジット カード番号に関する機密情報の種類の検索基準) を参照してください。
   
 さまざまな組み込みの機密情報の種類を使用している場合は、「[機密情報の種類の検索基準](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)」の記事でその他の種類に必要なものを参照してください。
   

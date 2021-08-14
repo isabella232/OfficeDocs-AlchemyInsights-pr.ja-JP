@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: ea93bb6f3cbbc3424f5e006ffac482a7445c8164
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: a4a05e20833869941e3f7ff699ccd5b3f0bac6d6160baabd8f5d2924b6923edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981802"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online での「エクスプローラーで開く」問題のトラブルシューティング
 
@@ -34,5 +34,5 @@ ms.locfileid: "49086053"
 
 - **[エクスプローラーで開く]** は、Internet Explorer 11 でのみサポートされています。 詳細については、[IE 11 のサポート終了とMicrosoft 365 アプリ](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)を参照してください。 **[エクスプローラーで開く]** は、Microsoft Edge、Google Chrome、Mozilla FireFox を使用した場合の Windows、または Mac プラットフォームでは機能しません。 そのため、**[エクスプローラー ビュー]** オプションが灰色表示になることがあります。 
 
-- **[エクスプローラーで開く]** ボタンは、新しいライブラリ エクスペリエンスには表示されません。 右上にある **[表示]** ドロップダウン (このドロップダウンの名前は、現在のビューによって変化します) をクリックして、**[エクスプローラーで表示]** をクリックしてください。
+- **[エクスプローラーで開く]** ボタンは、新しいライブラリ エクスペリエンスには表示されません。右上にある **[表示]** ドロップダウン (このドロップダウンの名前は、現在のビューによって変化します) をクリックして、**[エクスプローラーで表示]** をクリックしてください。
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004987"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>社会保障番号に伴う DLP の問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679374"
 
 **SSN に関する DLP の問題**
 
-Microsoft 365 で機密情報の種類を使用しているときに、**社会保障番号 (SSN)** を含むコンテンツに対して**データ損失防止 (DLP)** が機能しないという問題は発生していませんか。発生している場合は、コンテンツに DLP ポリシーに必要な情報が含まれていることをご確認ください。 
+Microsoft 365 で機密情報の種類を使用しているときに、**社会保障番号 (SSN)** を含むコンテンツに対して **データ損失防止 (DLP)** が機能しないという問題は発生していませんか。発生している場合は、コンテンツに DLP ポリシーに必要な情報が含まれていることをご確認ください。 
   
 たとえば、85% の信頼レベルで構成された SSN ポリシーでは、以下の内容が評価されるため、ルールをトリガーするためにはこれらの内容が検出される必要があります。
   
