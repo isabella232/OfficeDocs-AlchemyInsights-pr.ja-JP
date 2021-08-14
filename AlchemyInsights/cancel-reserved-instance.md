@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931238"
 ---
 # <a name="cancelling-reservation"></a>予約のキャンセル
 
@@ -61,7 +61,7 @@ ms.locfileid: "51819697"
 
 - 1 月 1 日に 1 年間の RI を月額 10 ドルで購入します。
 - 4 月 7 日に、この予約の払い戻しまたは交換を希望します
-- 最後に支払いが 7 日間発生したので、(1 - 7 ÷ 31) × 10 ドルが返金されます。 (およそ 7.74 ドルです)。
+- 最後の支払いが 7 日間発生したので、(1 - 7 ÷ 31) × 10 ドルが返金されます。(例: 7.74 ドル)
 - キャンセルされる将来の支払いは 80 ドルです。 現在、払い戻しに対するペナルティはありません
 - このキャンセルにより、50,000 ドルの払い戻し限度額から 87.74 ドルが差し引かれます。
 - 交換する場合、新規購入は 87.74 ドルを超える必要があります

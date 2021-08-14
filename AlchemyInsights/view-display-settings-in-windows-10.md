@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: ccdca6bde14980970af5e00798872e53c9b632dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f8167a354c2759e2b883eafd81a6c26b083535afa89503d701b600792f47ff1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990244"
 ---
 # <a name="view-display-settings-in-windows-10"></a>Windows 10 で表示設定を見る
 
-- **[スタート]**  > ** [設定]**  > ** [システム]** > ** [ディスプレイ]** の順に選択します。
+- **[スタート]**  > **[設定]**  > **[システム]** > **[ディスプレイ]** の順に選択します。
     -  テキストとアプリのサイズを変更するには、**[拡大縮小とレイアウト]** の下のドロップダウン メニューからオプションを選択します。
     - 画面の解像度を変更するには、**[ディスプレイの解像度]** の下にあるドロップダウン メニューを使用します。
      

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961739"
 ---
 # <a name="the-new-outlookcom"></a>新しい Outlook.com
 

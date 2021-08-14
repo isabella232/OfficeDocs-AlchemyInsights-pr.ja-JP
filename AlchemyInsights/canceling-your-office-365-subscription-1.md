@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931202"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 サブスクリプションをキャンセルしますか?
 

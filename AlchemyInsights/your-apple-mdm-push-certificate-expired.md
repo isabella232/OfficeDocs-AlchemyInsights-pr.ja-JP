@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997427"
 ---
 # <a name="your-apple-mdm-push-certificate-has-expired"></a>お客様の Apple MDM プッシュ通知証明書は有効期限が切れています
 

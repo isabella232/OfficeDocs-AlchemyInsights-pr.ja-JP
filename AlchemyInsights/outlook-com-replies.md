@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 2d9c7ee84cf793bb8181c8b66f8fc7faadba725a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e3dd79cc2f03da9b0fa98f8f65ab6e6f208438bff8b3d3318529a93de52b7fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961668"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com での返信
 

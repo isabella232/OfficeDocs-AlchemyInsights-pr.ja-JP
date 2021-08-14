@@ -14,12 +14,12 @@ ms.custom:
 - "762"
 - "8000033"
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 78c07d3d335a1f2d786e786e733f10db9128b781
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6a68abbd2ce04b90da55aabda0589fb7877d4cdc368cd34999e0ef919bfad5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961704"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlookcom"></a>Outlook.com でメッセージへの返信またはメッセージの転送をする方法
 
