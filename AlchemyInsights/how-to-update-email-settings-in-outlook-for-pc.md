@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976978"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>PC 版 Outlook でメールの設定を更新する方法
 

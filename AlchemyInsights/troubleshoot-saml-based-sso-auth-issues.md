@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "9409"
-ms.openlocfilehash: c053e252edfcc51c95214c4bff4aded2bded2e23
-ms.sourcegitcommit: 60c504f3ac187eaf1141b3ba701d9e0633bdd968
-ms.translationtype: HT
+ms.openlocfilehash: f64d668c01640c65e7c58940b54e98d6d2aa3c09ab11b55e4fd560874740e3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50696499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039395"
 ---
 # <a name="troubleshoot-saml-based-sso-authentication-issues"></a>SAML ベースの SSO 認証に関する問題を解決
 

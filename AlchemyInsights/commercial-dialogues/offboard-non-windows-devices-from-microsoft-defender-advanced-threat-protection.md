@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967806"
 ---
 # <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Microsoft Defender Advanced Threat Protection (ATP) から Windows 以外のデバイスをオフボードする
 

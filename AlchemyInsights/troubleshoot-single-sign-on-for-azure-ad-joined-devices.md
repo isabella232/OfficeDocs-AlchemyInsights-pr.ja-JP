@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: HT
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039251"
 ---
 # <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Azure AD に参加しているデバイスのシングル サインオンのトラブルシューティング
 
