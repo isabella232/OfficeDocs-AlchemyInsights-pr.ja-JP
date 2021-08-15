@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6671a63d97f24fadc9b34907d75600a3c0ad1c9990a4a8f8d32034c11e8a952e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038405"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>エラー autologon.microsoftazuread-sso dot com:443 のため Teams にログインできない
 

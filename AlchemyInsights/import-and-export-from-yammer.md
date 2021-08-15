@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: dcdf569f96e51a62899761589ef6f9f317517c3a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001477"
 ---
 # <a name="import-and-export-from-yammer"></a>Yammer からのインポートとエクスポート
 

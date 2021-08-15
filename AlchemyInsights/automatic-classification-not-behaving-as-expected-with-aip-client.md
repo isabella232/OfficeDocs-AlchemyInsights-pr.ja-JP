@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93d15b8b65fd52a567ecbb6e1f84363bf2b38946c105896b0b5ef41e49d16ea9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979714"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>自動分類が AIP クライアントで期待どおりに動作しない
 
@@ -29,7 +29,7 @@ ms.locfileid: "51820903"
 4. Azure Information Protection ポリシーに[組み込み情報タイプ](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b)を使用した場合は、コンテンツが予想される形式と一致していることを確認してください。
 5. ラベルが [**自動**] または [**推奨**] 用に適切に構成されていることを確認します。 ([**自動**] ラベル付けはすべての Microsoft 365 アプリで使用できますが、[**推奨**] は Outlook を除くすべての Microsoft 365 アプリで使用できます。)
 6. 以前に手動でラベルが付けられているか、以前に上位の分類で自動的にラベルが付けられているドキュメントと電子メールには自動分類を使用できません。  詳細については、「[自動ラベルと推奨ラベルが適用されるしくみ](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)」をご覧ください。
-7. それでも問題が発生する場合は、Azure Information Protection クライアント ログを収集し、エクスポートしたログを自分のサポート チケットに添付してください。 Azure Information Protection ログをエクスポートするには:
+7. それでも問題が発生する場合は、Azure Information Protection クライアント ログを収集し、エクスポートしたログをサポート チケットに添付してください。Azure Information Protection ログをエクスポートするには、
     - Office ドキュメントを開くか、Outlook で新しいメールを作成します。
     - [**保護/感度** > **へルプとフィードバック**] をクリックします。
     - [**ログのエクスポート**] をクリックします。

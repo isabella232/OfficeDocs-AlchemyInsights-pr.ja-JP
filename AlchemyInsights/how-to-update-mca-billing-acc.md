@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49680548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001513"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA に関連付けられている販売先住所および請求先住所の更新 - 推奨される手順
 

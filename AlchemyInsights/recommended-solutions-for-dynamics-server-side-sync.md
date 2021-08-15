@@ -12,12 +12,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c27f5261de7724373e414fea4ce59625b1b046f444076fe11bc7c16a194464d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991864"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server 側同期の推奨ソリューション
 

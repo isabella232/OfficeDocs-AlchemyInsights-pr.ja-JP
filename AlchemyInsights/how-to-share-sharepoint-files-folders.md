@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4917d91e1567afeacb77f78735d39d14c9286e4318026e1f4daf1fb1c11fde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001765"
 ---
 # <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint または OneDrive のファイルまたはフォルダーを共有する方法
 

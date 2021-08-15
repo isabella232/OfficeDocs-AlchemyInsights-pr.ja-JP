@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030430"
 ---
 # <a name="ediscovery-issues"></a>電子情報開示の問題
 

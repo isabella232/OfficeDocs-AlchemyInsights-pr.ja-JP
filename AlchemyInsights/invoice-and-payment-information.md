@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 6593618d5dafb816aabb9faea51320544a8b4ae24176c4f32e1290acd0475b33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013681"
 ---
 # <a name="invoice-and-payment-information"></a>請求書および支払いの情報
 
