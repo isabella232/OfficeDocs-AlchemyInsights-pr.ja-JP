@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9668"
-ms.openlocfilehash: 05402a6948b8e15aadca7e63e16ebec54a7a5082
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: f67b9e5f5e6c396a33ef638371e21387b2704cd2b1622a9955853b46bdb702b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960660"
 ---
 # <a name="post-to-yammer-by-sending-an-email-message"></a>メール メッセージを送信して Yammer に投稿する
 

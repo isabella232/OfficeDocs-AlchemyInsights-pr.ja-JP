@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 84f1c34b039435b0236462c23e0fbc8c2a14965bb0dca990be58daa61398a05e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024355"
 ---
 # <a name="purchase-power-bi"></a>Power BI を購入する
 

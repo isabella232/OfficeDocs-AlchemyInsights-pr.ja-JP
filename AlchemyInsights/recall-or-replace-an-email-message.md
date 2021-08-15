@@ -14,12 +14,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: 45882b49c5c47b3e0e4519e2339e6c68110bc75aebeaeac2d0ccd009bdfa3f7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024391"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Microsoft 365 でメール メッセージを取り消す、または置き換える
 
@@ -39,7 +39,7 @@ ms.locfileid: "49353511"
 
 取り消しを確認する方法など、詳細については、「[送信したメールメッセージを取り消す、または置き換える](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)」を参照してください。
 
-**_組織内のメール メッセージを検索して削除するには_**、グローバル管理者であることが最も簡単です。グローバル管理者でない場合は、アカウントを電子情報開示マネージャーの役割グループ、またはコンプライアンス検索の管理の役割に追加する必要があります。 メッセージを削除するには、Organization Management ロールグループのメンバーであるか、検索と消去の管理ロールが割り当てられている必要があります。 これらのロールへの権限は、[セキュリティ/コンプライアンス センター](https://protection.office.com/)で付与されます。
+***組織内のメール メッセージを検索して削除するには***、グローバル管理者であることが最も簡単です。グローバル管理者でない場合は、アカウントを電子情報開示マネージャーの役割グループ、またはコンプライアンス検索の管理の役割に追加する必要があります。 メッセージを削除するには、Organization Management ロールグループのメンバーであるか、検索と消去の管理ロールが割り当てられている必要があります。 これらのロールへの権限は、[セキュリティ/コンプライアンス センター](https://protection.office.com/)で付与されます。
 
 1. [コンテンツ検索を作成し、](https://docs.microsoft.com/microsoft-365/compliance/content-search) 削除するメッセージを見つけます。
 2. [セキュリティ/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell)。
