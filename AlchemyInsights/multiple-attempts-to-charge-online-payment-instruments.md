@@ -16,12 +16,12 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: abfee9e87f26c216d3f865ca158d39f0f0d25a0e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 343a2e29540ec416fe7b250daf757cbc194cd90e186f5a0fbf0890947dbb5170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025831"
 ---
 # <a name="past-due-account"></a>期限を過ぎたアカウントの場合
 
