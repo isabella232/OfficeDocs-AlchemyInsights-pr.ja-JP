@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03f960ad1f6dfb4ee0f736d5bf13bf2cf81943011969c988e1f49e9dfa12ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809985"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960048"
 ---
 # <a name="project-online-frequently-requested-topics"></a>Project Online についてよく寄せられるトピック
 

@@ -14,16 +14,16 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960120"
 ---
 # <a name="problems-sharing-with-outlook-customer-manager"></a>Outlook Customer Manager との共有に関する問題
 
-Outlook Customer Manager との共有に関する問題が発生した場合は、最初にブラウザー キャッシュをクリアしてみることをお勧めします。 たとえば、Internet Explorer では次のようになります。
+Outlook Customer Manager との共有に関する問題が発生した場合は、最初にブラウザー キャッシュをクリアしてみることをお勧めします。たとえば、Internet Explorer では次のようになります。
 
 1. **[閲覧履歴]** > **[キャッシュとデータベース]** の下の **[設定]** > **[全般]** > [設定] に移動します。
 2. Web サイト "outlookapps.com" のキャッシュ ファイルを削除します。
