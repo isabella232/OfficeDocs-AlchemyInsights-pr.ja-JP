@@ -14,12 +14,12 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3666d3caa81ff321b1f4e9f641dcf22caae3e37e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b5e7b9b73d6824d54eeb2576a3edda8be12af1e8e38f710c2ab4077482dff9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022987"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>OneDrive または SharePoint からのファイルのダウンロードまたはダウンロードの防止
 

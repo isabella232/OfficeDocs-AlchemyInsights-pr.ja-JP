@@ -14,12 +14,12 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 8d1ecd2bf8adbce205ff54e10895f744cb718d52
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: fa0d579c3211c07f42d8ca959cb548579750fea227f6c4911cea099ca66c1bca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993502"
 ---
 # <a name="how-to-create-an-email-signature"></a>メールの署名を作成する方法
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49565239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993898"
 ---
 # <a name="delete-tenant"></a>テナントの削除
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993430"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Outlook on the web (OWA) で代理人を追加または削除する方法
 

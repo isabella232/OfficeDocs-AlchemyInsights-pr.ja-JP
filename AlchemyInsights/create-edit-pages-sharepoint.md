@@ -11,12 +11,12 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: 508c16ef1e9906c4884064ef21b0527685dd1bb1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b31c708141dd7a16db09a6556bb1f2e982288d098984c13141a7b929c95c0b17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965682"
 ---
 # <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>SharePoint サイトで最新のページを作成および編集する
 
