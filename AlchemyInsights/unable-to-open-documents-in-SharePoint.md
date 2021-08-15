@@ -8,12 +8,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d3c98d799e41ea69d56faa4d591b54f9175ad2ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83c88f507938963e18559e1f5d0facd0c6c7aaa503b2fa2faf3531ca3a57ebf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038297"
 ---
 # <a name="unable-to-open-documents-in-sharepoint"></a>SharePoint でドキュメントを開けない
 

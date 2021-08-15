@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: d4eb4a9415a4d506be7edb9efd3d83208413e9f3
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: cab89cce0d9105a11e4c20271719d5efdca96ac089fa0649192628062b58b3ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956772"
 ---
 # <a name="suspend-or-pause-licenses"></a>ライセンスを停止、または一時停止する
 
@@ -32,6 +32,6 @@ ms.locfileid: "53689339"
 2. 次に、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 3. **[製品]** タブで、更新するサブスクリプションを選択します。
 4. [サブスクリプションの詳細] ページで、**[ライセンスの削除]** を選択します。
-5. **[ライセンスの削除]** ウィンドウで、**[ライセンスの総数]** ボックスにこのサブスクリプションに必要なライセンスの総数を入力し、それから **[保存]** を選択します。 たとえば、100 個のライセンスを持っていて、25 個を一時的に停止、または一時停止する場合は、サブスクリプションの合計ライセンス数として 75 を入力します。
+5. **[ライセンスの削除]** ウィンドウで、**[ライセンスの総数]** ボックスにこのサブスクリプションに必要なライセンスの総数を入力し、それから **[保存]** を選択します。たとえば、100 個のライセンスを持っていて、25 個を一時的に停止、または一時停止する場合は、サブスクリプションの合計ライセンス数として 75 を入力します。
 
-詳細については、「[ライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+詳細については、「[ライセンスの購入/削除](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

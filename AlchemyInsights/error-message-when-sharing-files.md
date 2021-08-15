@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51552ecf6c6ef4e91f092751aa33f55e961b34133fd7e8763e84f1a2c894d5a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030025"
 ---
 # <a name="error-messages-when-sharing"></a>共有時のエラー メッセージ
 
 外部ユーザーと共有しようとしたときにエラー メッセージが表示される場合は、外部共有が有効になっていないか、ユーザーの試みる共有レベルが許可されないように設定されている場合がほとんどです。
   
-新しい SharePoint 管理センターで、左のウィンドウにある **[共有]** をクリックします。 許可する共有レベルを選択します。 サイトの外部共有がオンになっていることを確認します。 
+新しい SharePoint 管理センターの左側ウィンドウにある **[共有]** をクリックし、許可する共有のレベルを選択します。その後、サイトの外部共有が有効になっていることを確認してください。 
   
 ログインしようとしているユーザーがエラー メッセージを受信した場合は、次の手順を実行してください。
   
