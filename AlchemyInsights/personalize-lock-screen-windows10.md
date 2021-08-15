@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: deeb46260003c855e9c51d09dbd053d0461948ba
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 32a940622bea3d687221f5a9dd0b94015978b8ed2b871b0851baa8bdb0fa5357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982558"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Windows 10 のロック画面をパーソナライズする
 
@@ -40,4 +40,4 @@ ms.locfileid: "51038231"
 
 1. [**サインイン画面にロック画面の背景画像を表示する**] がオンになっていることを確認します。
 
-1. [**設定**] に戻り、[**プライバシー**] を選択します。 [**バックグラウンド アプリ**] を選択し、[**アプリをバックグラウンドで実行する**] がチェックされていることを確認します。
+1. [**設定**] に戻り、[**プライバシー**] を選択し、[**バック グラウンド アプリ**] を選択します。[**アプリのバックグラウンド実行を許可する**] がオンになっていることを確認します。

@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005527"
 ---
 # <a name="delete-a-profile"></a>プロファイルを削除する
 
@@ -40,4 +40,4 @@ ms.locfileid: "47680104"
 
 2. **[Microsoft Outlook]** を Ctrl キーを押しながらクリックするか、右クリックし、**[パッケージの内容を表示]** を選択します。
 
-3. **[Contents]**、**[SharedSupport]** の順に選択し、**Outlook プロファイル マネージャー**を起動します。
+3. **[Contents]**、**[SharedSupport]** の順に選択し、**Outlook プロファイル マネージャー** を起動します。
