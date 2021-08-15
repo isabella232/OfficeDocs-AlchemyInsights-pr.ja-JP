@@ -15,12 +15,12 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954738"
 ---
 # <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Chrome ウェブストアから Microsoft Edge に拡張機能を追加する
 

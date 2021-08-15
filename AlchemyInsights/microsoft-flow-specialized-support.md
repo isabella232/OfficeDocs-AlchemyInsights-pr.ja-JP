@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975934"
 ---
 # <a name="microsoft-flow-specialized-support"></a>Microsoft Flow の特別なサポート
 

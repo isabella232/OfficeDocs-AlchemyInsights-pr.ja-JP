@@ -14,12 +14,12 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024859"
 ---
 # <a name="close-your-outlookcom-account"></a>Outlook.com アカウントの使用を停止する
 

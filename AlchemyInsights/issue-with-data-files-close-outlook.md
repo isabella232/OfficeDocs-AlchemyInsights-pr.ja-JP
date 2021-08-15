@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003094"
 - "5849"
-ms.openlocfilehash: 84e81baac7bbf255c6a5af5c32e3418164c49bae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc7a6b0e052fa4b155d5617686c4e11145d074341d0c77c3cdbe75fd70692567
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986968"
 ---
 # <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>データ ファイルの 1 つに問題があり、Outlook を閉じる必要があります
 

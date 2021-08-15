@@ -12,12 +12,12 @@ ms.custom:
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 491fd6fee181a5a1ea30cc7e4a63fb2a9e426738
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b05b7d9cc52df9b8613492339cd4e8cb2419c53dcc09c4f8abae9ca85cc6047a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024715"
 ---
 # <a name="error-550553-in-outlookcom"></a>Outlook.com のエラー 550/553
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7759"
-ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
-ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
-ms.translationtype: HT
+ms.openlocfilehash: 9df021211c8a65997889d9303dbf28a27104cfa95841d4cb810427c652ba0784
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50053090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975898"
 ---
 # <a name="microsoft-graph-api-issues"></a>Microsoft Graph API に関する問題
 
@@ -75,9 +75,9 @@ Microsoft Graph の認証エラーは、いくつかの異なる問題の結果�
 - 十分に構成されていない[アクセス許可スコープ](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)
 - [同意](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)がない
 
-**_Azure Active Directory 認証ライブラリ (ADAL) および Azure AD Graph API (AAD Graph) のサポートの終了_* _
+***Azure Active Directory 認証ライブラリ (ADAL) および Azure AD Graph API (AAD Graph) のサポートの終了*** _
 
-_*2020 年 6 月 30 日以降**、ADAL および Azure AD Graph に新しい機能は追加されなくなります。 テクニカル サポートおよびセキュリティ更新プログラムは引き続き提供されますが、機能の更新プログラムは提供されなくなります。
+**2020 年 6 月 30 日以降**、ADAL および Azure AD Graph に新しい機能は追加されなくなります。 テクニカル サポートおよびセキュリティ更新プログラムは引き続き提供されますが、機能の更新プログラムは提供されなくなります。
 
 **2022 年 6月 30 日以降**、ADAL と Azure AD Graph のサポートは終了し、テクニカル サポートやセキュリティ更新プログラムは提供されなくなります。
 
