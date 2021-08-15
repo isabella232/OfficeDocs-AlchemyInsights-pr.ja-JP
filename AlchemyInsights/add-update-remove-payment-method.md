@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 72278f41f2c29039d407a1ff0ad5680e99dbe45c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 3b6c9931a41ee0d1e654cba59234321b7fc7b696d330a31cc099908cfed6c2e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953730"
 ---
 # <a name="add-update-or-remove-payment-method"></a>支払い方法を追加、更新、削除する
 

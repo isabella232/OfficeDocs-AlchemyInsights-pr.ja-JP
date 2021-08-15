@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953694"
 ---
 # <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>VAT ID または税 ID の追加または更新 - 従来の WD + MCA CL - 推奨される手順
 

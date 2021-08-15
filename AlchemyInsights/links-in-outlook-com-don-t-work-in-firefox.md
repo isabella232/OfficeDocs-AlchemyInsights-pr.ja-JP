@@ -13,12 +13,12 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 68266d51be07f48ea896cf83b147bdeaaf73574d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfb8161f5f3c2a6812ad5f10e6910e5296a3b60bd5494f41cac6d883dc821d1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963072"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Outlook.com のリンクが Firefox で機能しない
 

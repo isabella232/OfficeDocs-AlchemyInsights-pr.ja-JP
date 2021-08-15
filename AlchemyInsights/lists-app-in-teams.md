@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2a2bb2aa00c6dad8d8f8246dda5a74d7a6857270652d21fdbd4eb0a891dac0ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963036"
 ---
 # <a name="lists-app-in-teams"></a>Teams でアプリを一覧表示
 
-Microsoft Teams の Lists アプリは、チームの SharePoint サイトのリストをチャネルの共同作業とチームワーク キャンバスに取り組みます。このアプリを使えば、エンド ユーザーは Teams 内からお気に入りのリストを操作することができます。
+Microsoft Teams の Lists アプリは、チームの SharePoint サイトのリストをチャネルの共同作業とチームワーク キャンバスに取り組みます。 このアプリを使えば、エンド ユーザーは Teams 内からお気に入りのリストを作成することができます。
 
-Lists はすべての Teams ユーザーにプリインストールされており、すべてのチームとチャネルのタブ ギャラリーから直接利用できます。
+リストはすべての Teams ユーザーにプリインストールされており、すべてのチームとチャネルのタブ ギャラリーから直接利用できます。
 
-Teams 管理者は、Microsoft Teams のアクセス許可ポリシーを使用して、アプリの可用性を制御できます。詳細については、「[Microsoft Teams のアプリのアクセス許可ポリシーを管理する](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)」を参照してください。
+Teams 管理者は、Microsoft Teams の権限ポリシーを使用して、アプリの可用性を制御できます。 詳細については、「[Microsoft Teams のアプリのアクセス許可ポリシーを管理する](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)」を参照してください。
 
 **制御の種類:** Teams の管理制御  
 

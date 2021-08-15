@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: ad93c2089a917fdd9fdef9362a997c20dfadee96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5805a110b6d9b8085ba1bd1ef711af2d011a1bedff4c7880197ea061bbe27c05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011269"
 ---
 # <a name="address-book-in-outlookcom"></a>Outlook.com のアドレス帳
 

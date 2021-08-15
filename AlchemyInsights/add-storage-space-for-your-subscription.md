@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10013"
-ms.openlocfilehash: fc1722569d0ad9c44659eb43faafb6bff60c496f
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
-ms.translationtype: HT
+ms.openlocfilehash: e8a86a86cd98fccbfec1855d13a85e5b9b0dd7d90bef313c26a29160528701e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953802"
 ---
 # <a name="add-storage-space-for-your-subscription"></a>サブスクリプションに容量を追加する
 
