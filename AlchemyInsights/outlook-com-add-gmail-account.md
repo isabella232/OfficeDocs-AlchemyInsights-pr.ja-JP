@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55f06a9f19d30526b2d5218223087749d29ff784a492c82858aaeacbd6166391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096591"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Outlook.com に Gmail アカウントを追加する
 
@@ -27,7 +27,7 @@ ms.locfileid: "47672565"
 4. Outlook.com で Gmail から電子メールをインポートする必要があるかどうかと、インポートした電子メールを保存する場所を選択します。
 5. **[OK]** を選択して、Google のサインイン ページに移動します。
 
-接続したアカウントから自分の Outlook.com アカウントへの同期は、一方向のみです。 Outlook.com を使用して Gmail アカウントから送信した電子メールは、Gmail の [送信済みアイテム] には表示されません。
+接続されているアカウントから Outlook.com アカウントに同期することは、一方向のみです。Outlook.com を使用している Gmail アカウントから送信されたメールは、Gmail の送信済みアイテムには表示されません。
 
 Outlook.com の電子メールは、接続した Gmail アカウントから送信できます。 電子メールの作成時に、**[差出人]** を選択してから Gmail アドレスを選択するか、[既定の差出人アドレスを更新](https://go.microsoft.com/fwlink/?linkid=875264)します。
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010693"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook on the web アカウントを Outlook に追加する
 
