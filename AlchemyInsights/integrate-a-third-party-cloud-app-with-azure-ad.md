@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005774"
 - "10020"
-ms.openlocfilehash: 67894669a2ff121efa9338512cf26b64108a6daa
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
-ms.translationtype: HT
+ms.openlocfilehash: 84869ee88a94626b348461d699833ff5ea68a278ca049379a01c5209e4b1d076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099291"
 ---
 # <a name="integrate-a-third-party-cloud-app-with-azure-ad"></a>サードパーティのクラウド アプリを ‎Azure AD と統合
 

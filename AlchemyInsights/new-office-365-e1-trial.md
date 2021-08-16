@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025435"
 ---
 # <a name="new-office-365-e1-trial"></a>新しい Office 365 E1 試用版
 
