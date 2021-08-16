@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004333"
 - "7731"
-ms.openlocfilehash: ab4ffbc78a7cadd8acee3c98eaa5f3323da9c7e3
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
-ms.translationtype: HT
+ms.openlocfilehash: 39336fa8840a28befcad449d0afa59c1df5c6bef5988cb197916a03aa2aa66c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50063730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028009"
 ---
 # <a name="issues-with-authentication-libraries"></a>認証ライブラリに関する問題
 

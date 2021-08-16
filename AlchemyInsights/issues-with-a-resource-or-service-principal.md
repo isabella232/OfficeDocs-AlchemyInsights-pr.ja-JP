@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
-ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
-ms.translationtype: HT
+ms.openlocfilehash: 52b9b2e950d66c2f4105b76c4e2c70ed51320e4a57eb0008c353a9587fcc6510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50035755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028081"
 ---
 # <a name="issues-with-a-resource-or-service-principal"></a>リソースまたはサービス プリンシパルに関する問題
 

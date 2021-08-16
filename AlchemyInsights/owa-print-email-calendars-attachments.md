@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: efc248067bbe771395e01d7269f5f295b456f212
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96cab5ed40813cd5d822ad6c614c93b36733daaa6389df11117c871034c474ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010549"
 ---
 # <a name="print-email-calendars-and-attachments"></a>メール、カレンダー、添付ファイルを印刷する
 
@@ -33,7 +33,7 @@ Outlook on the web でメール メッセージを印刷する
 次の手順を実行して、添付ファイルを印刷する:
 
 1. 印刷する添付ファイルが含まれるメッセージを開きます。
-2. 添付ファイル上にカーソルを移動して、**[ダウンロード]** アイコンを選択します。 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAYAAAD9lDaoAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFicPlKww8AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAhElEQVQokc2Ouw0EIQxE51Yb0AwdUAAlEEFITXRACUikdEBOBwS4AS46xLIfbXgjOfDoecYgoj6P1rqv3oYX+kuo1voIlFKwxxjRWoO19gQ458AYw6aUGsYKAIAxBh8i6rOZcwbnHABG+nh8rZv3kfRTCAFSysPBCbrS7r1HSukWEELgC33WT/YcDQpnAAAAAElFTkSuQmCC' />。
+2. 添付ファイル上にカーソルを移動して、**[ダウンロード]** アイコンを選択します。 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAYAAAD9lDaoAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFicPlKww8AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAhElEQVQokc2Ouw0EIQxE51Yb0AwdUAAlEEFITXRACUikdEBOBwS4AS46xLIfbXgjOfDoecYgoj6P1rqv3oYX+kuo1voIlFKwxxjRWoO19gQ458AYw6aUGsYKAIAxBh8i6rOZcwbnHABG+nh8rZv3kfRTCAFSysPBCbrS7r1HSukWEELgC33WT/YcDQpnAAAAAElFTkSuQmCC' />.
 3. ファイルがダウンロードされた後、適切なプログラムを使ってファイルを開き、印刷オプションを選択します。たとえば、Word で .doc ファイルを開いて印刷します。
 
 詳細については、「[ Outlook on the web でメール メッセージ、添付ファイル、カレンダーを印刷する](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b)」を参照してください。
