@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968598"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>サインインに使用するアカウントの種類を変更する
 
@@ -27,4 +27,4 @@ Windows 10 へのサインインに使用するアカウントの種類を変更
 2. メールアドレスにリンクされていないローカル アカウントを現在使用していて、Microsoft アカウントを使用したい場合は、[**Microsoft アカウントでのサインインに切り替える**] を選択します。
 3. メールアドレスにリンクされている Microsoft アカウントを現在使用していて、ローカル アカウントを使用したい場合は、[**ローカル アカウントでのサインインに切り替える**] を選択します。
 4. 必要な場合はパスワードを入力して、[**次へ**] を選択します。
-5. デバイスを再起動します。 次回サインインすると、切り替え先のアカウントが表示されます。
+5. デバイスを再起動します。次回サインインすると、切り替え先のアカウントが表示されます。

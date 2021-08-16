@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: df8d5cc492d0c0505ec3ecc67b2e7baea45f9ce3
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 81467d0af12e98774b7d04c70f82f4c8fbd4b8c39295f7eaa925cbfe14042f9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045821"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>ドメイン名の文字の大きさやスペルを変更
 

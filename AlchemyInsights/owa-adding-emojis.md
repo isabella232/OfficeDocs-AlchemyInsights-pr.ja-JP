@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: efef5230aefde5a4d54ec9743cadb7ece78324c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f431fa0b25913719882a6b346b7ddb49e721a756eabf1859132c95ced41843c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010621"
 ---
 # <a name="add-emojis-or-gifs-in-outlook-on-the-web"></a>Outlook on the web に絵文字や GIF を追加する
 

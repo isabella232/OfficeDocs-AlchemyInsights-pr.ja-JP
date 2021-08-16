@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002469"
 - "4805"
-ms.openlocfilehash: 2e324ec4c48dfa63b419d214f26c1f8f4bdcbb0b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b7553dcb1c158c52a01e8465273c81f43db2c2c0c44d51da1bb3e39d698d18c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019729"
 ---
 # <a name="assign-microsoft-stream-admins"></a>Microsoft Stream 管理者を割り当てる
 
-ユーザーに Stream 管理者の役割を割り当てるには、Office 365 グローバル管理者の役割が必要です。 詳細については、次の記事を参照してください。
+ユーザーに Stream 管理者の役割を割り当てるには、Office 365 全体管理者の役割が割り当てられている必要があります。詳細については、以下を参照してください。
 
 - [Microsoft Stream 管理者を割り当てる](https://docs.microsoft.com/stream/assign-administrator-user-role)

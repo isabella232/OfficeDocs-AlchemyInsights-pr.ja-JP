@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: 8f0b17005f5d93f2e0643ce0ef7d13545b40d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84c3086d2be1376254b10e702ae61d8ea13a372cbae6eee874562a8c1235566d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010585"
 ---
 # <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Outlook on the web で言語、日付と時刻の形式、またはタイム ゾーンを変更する
 

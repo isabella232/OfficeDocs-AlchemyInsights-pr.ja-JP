@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020089"
 ---
 # <a name="understand-billing-amount"></a>請求額を理解する
 
@@ -54,7 +54,7 @@ Azure 無料アカウントに含まれていないサービスを展開した�
 
 **Azure Free Account は Enterprise Agreement (EA) の顧客とどのように連携しますか?**  
 
-このオファーは EA のお客様にはご利用いただけません。 ただし、お客様が無料アカウントをお持ちで、後で EA 階層に移行した場合、無料アカウントの特典は、無料アカウントのサインアップ時から12か月間継続されます。
+このオファーは EA のお客様にはご利用いただけません。ただし、お客様が無料アカウントをお持ちで、後で EA 階層に移行した場合、無料アカウントの特典は、無料アカウントのサインアップ時から 12 か月間継続されます。
 
 **無料利用枠で提供されるサービスを使用したら、最初の 200 ドルのクレジットから料金が引かれますか?**  
 
