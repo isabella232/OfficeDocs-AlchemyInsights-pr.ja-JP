@@ -12,16 +12,16 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064209"
 ---
 # <a name="cant-get-verification-codes"></a>確認コードを受け取れない
 
-連絡用メール アドレスまたは電話番号にアクセスできない場合は、 Microsoft アカウントの[「セキュリティの基本」](https://account.microsoft.com/security) ページに移動し、サインイン ページの **[どれも持っていない]** を選択して、セキュリティ情報の置き換えをするための手順に従います。
+連絡用メール アドレスまたは電話番号にアクセスできない場合は、 Microsoft アカウントの [「セキュリティの基本」](https://account.microsoft.com/security) ページに移動し、サインイン ページの **[どれも持っていない]** を選択して、セキュリティ情報の置き換えをするための手順に従います。
 
 *注:* [「Microsoft Authenticator アプリ」](https://go.microsoft.com/fwlink/?linkid=2016117)では、ユーザーに確認コードを提供するためのインターネット接続を必要としません。
 
