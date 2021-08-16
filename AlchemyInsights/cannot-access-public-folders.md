@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996635"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook はパブリック フォルダーに接続できません
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067125"
 ---
 # <a name="key-capabilities-of-windows-virtual-desktop"></a>Windows Virtual Desktop の主な機能
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996419"
 ---
 # <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Teams での着信の転送、グループ通話、および同時呼び出し
 

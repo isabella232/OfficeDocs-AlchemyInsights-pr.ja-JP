@@ -12,12 +12,12 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038522"
 ---
 # <a name="unable-to-delete-items"></a>アイテムが削除できない
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
-ms.translationtype: HT
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067017"
 ---
 # <a name="logs-and-reporting"></a>ログとレポーティング
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: b97ab936ff43ee9d4e67309c09cc8dc4c0dd91bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 331254b5e52275370dec9e4a66ac2840d2052991265e2f51e6ded149441556c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027424"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 アプリ エラー: アプリケーションを正しく起動できませんでした (0xc0000142)
 
@@ -27,9 +27,9 @@ ms.locfileid: "47743470"
 - Office のオンライン修復を実行し、コンピューターを再起動します。 詳細については、「[Office アプリケーションを修復する](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)」を参照してください。
 - [**開始**]  >  [**実行**] に移動して、**services.msc** と入力します。 [**Microsoft Office クイック実行サービス**] を右クリックし、[**再起動**] を選択します。
 - システム ファイル チェッカーを使用して、見つからないまたは壊れたシステム ファイルを修復して、コンピューターを再起動します。 詳細については、「[システム ファイル チェッカー ツールを使用して見つからないまたは壊れたシステム ファイルを修復する](https://support.microsoft.com/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)」を参照してください。
-- Office をアンインストールし、再インストールします。 詳細については、「[PC から Office をアンインストールする](https://support.microsoft.com/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)」を参照してください。
+- Office をアンインストールして再インストールします。詳細については、「[PC から Office をアンインストールする](https://support.microsoft.com/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)」を参照してください。
 
-詳しくは、以下を参照してください。  
+詳細については、以下を参照してください。  
 
 - 「[Microsoft Office アプリを開くときのエラー](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)」  
 

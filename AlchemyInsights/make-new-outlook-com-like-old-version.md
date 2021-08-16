@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067089"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>新しい Outlook.com の外観を古いバージョンにする方法
 

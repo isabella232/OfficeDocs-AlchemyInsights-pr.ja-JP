@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: 56e1ce994353c83d4735682daada233faa5ae8ad
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ea51c9e54e18418daf0696ed43fa0636af2b8f5cda5b1a876f2b6cc13eaad6fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038558"
 ---
 # <a name="turn-on-and-off-automatic-updates-in-windows"></a>Windows で自動更新のオン/オフを切り替える
 
@@ -41,7 +41,7 @@ ms.locfileid: "51405804"
 
 1. [設定] を開いて、[**個人用設定**] を選択します。  
 1. [**色**] をクリックして、[**色を選択する**] で、ドロップダウン オプションから [**カスタム**] を選択します。  
-1. [**既定の Windows モードを選択してください**] で、[**黒**] を選択して、[**Choose your default 既定のアプリモードを選択します**] で、[**白**] を選択します。
+1. [**既定の Windows モードを選択してください**] で、[**黒**] を選択して、[**既定のアプリモードを選択します**] で、[**白**] を選択します。
 
 **注意:** ダーク テーマは、Windows 10 バージョン 1607 で追加されました。 [設定] でこれらのオプションが表示されない場合は、最新の Windows の更新プログラムがインストールされていることを確認してください。
 
@@ -53,7 +53,7 @@ ms.locfileid: "51405804"
 
 **注意:** Microsoft ストアから、さまざまな新しいテーマを追加することもできます。[**Microsoft ストアで追加のテーマを取得**] をクリックするか、Web サイトからおすすめのテーマをダウンロードします。
 
-**テーマを削除するには:**
+**接続を削除するには:**
 
 1. [**スタート**]  >  [**設定**]  >  [**個人用設定**]  >  [**テーマ**] の順に選択します。 
 1. テーマのタイルを右クリックするか、長押しして、[**削除**] を選択します。 
