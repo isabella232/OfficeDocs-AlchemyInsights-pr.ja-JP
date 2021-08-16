@@ -14,12 +14,12 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 61eb90f0d9dcb257b969c08cbd9e7901402ca08d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c72869a70725ca3010a4fde9c08be2326f45ca9a4339014ae34f092747cd5876
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000541"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft Bookings アプリ
 

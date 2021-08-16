@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: a267e643031323baa448e51bca1b18a3030f43c2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 5d560f62a349540fd0ba6a5df3cd0c210d1743c57ab7c74fac2967a90be23c80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017029"
 ---
 # <a name="fix-problem-viewing-protected-message-in-outlook"></a>Outlook で保護されたメッセージを表示する際の問題を解決する
 

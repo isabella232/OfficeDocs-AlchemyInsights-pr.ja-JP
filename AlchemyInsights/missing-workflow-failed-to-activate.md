@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d703e87f355f05bf4a1d71e5daddce96db988380bb48accc81c95f1ba91fbb2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065433"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>ライセンス認証が失敗したワークフローが表示されない
 
@@ -34,11 +34,11 @@ Microsoft SharePoint サイト コレクションにおいて、グローバル�
   
 2. **[ワークフロー]** リボンの **[管理]** セクションで、**[グローバルに発行]** を選択します。表示される確認ダイアログ ボックスで **[OK]** を選択します。 
   
-3. Web ブラウザーで、サイト コレクションのルート Web サイトを見つけて、**[サイトの設定]** \> **[サイト コレクションの機能]** の順にアクセスします。次に、**ワークフロー**機能を切り替えます。 
+3. Web ブラウザーで、サイト コレクションのルート Web サイトを見つけて、**[サイトの設定]** \> **[サイト コレクションの機能]** の順にアクセスします。次に、**ワークフロー** 機能を切り替えます。 
   
-本機能が*アクティブ化*されている場合は、**[非アクティブ化]** をクリックしてから、**[アクティブ化]** をクリックします。 
+本機能が *アクティブ化* されている場合は、**[非アクティブ化]** をクリックしてから、**[アクティブ化]** をクリックします。 
   
-本機能が*非アクティブ化*されている場合は、**[アクティブ化]** をクリックします。 
+本機能が *非アクティブ化* されている場合は、**[アクティブ化]** をクリックします。 
   
 詳細については、次の[記事](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)を参照してください。
   

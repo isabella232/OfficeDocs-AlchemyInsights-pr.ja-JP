@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: dd33f21c461ef1a08a027866787891c2d7a619b5a1ca7ff36817f72400f3dd90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028981"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 の購入方法
 

@@ -17,12 +17,12 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 3d7e0337de5272750af818c107d6305a6e45730e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 404bc420898e20d313125a86f89a2e7f100a727feee7640211900701cd558f04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029017"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>クレジットカードまたは銀行口座取引明細書で料金請求を確認する方法
 

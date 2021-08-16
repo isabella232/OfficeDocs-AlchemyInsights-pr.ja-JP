@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 0ddd01e62dd25f63f6b6941097fd0d49c5cddfe7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1110269061d6ac39cbe39d56c22d4f03ece8d5f5bfeba01949899bccc724bf45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065253"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 アプリ エラー: エラーが発生したため、アプリが正常に機能できなくなりました
 
@@ -28,7 +28,7 @@ ms.locfileid: "51801992"
 - コントロール パネルを使用して [Office を修復する](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Office を[アンインストール](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)し、再インストールする
 
-**注:** 特定のドキュメントに問題が発生した場合、それらのドキュメントが破損している可能性があります。 「[How to troubleshoot damaged documents (文書が破損している場合のトラブルシューティング方法)](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)」を参照してください。
+**注:** 特定のドキュメントに問題が発生した場合、それらのドキュメントが破損している可能性があります。[文書が破損した場合のトラブルシューティング](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)に関する記事をご覧ください。
 
 詳細については、以下を参照してください。 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 9c139589d1ab6fef122acabe3341259ab3722b03
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
-ms.translationtype: HT
+ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054283"
 ---
 # <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>新しい Microsoft Edge の機能の詳細
 
