@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 5b3c42eaa4af881235ee5029063fa741ee4e952c451a6b87085f2294d2cd3f71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069177"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Outlook for Mac でパスワード プロンプトが繰り返し表示される場合
 

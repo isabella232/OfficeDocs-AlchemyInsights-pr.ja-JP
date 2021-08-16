@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 16c77b78e509ecdd256a651f87f845ee9c7b59af
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: eed66fdb85190b41bb1cf63151f5f1407a072a67eb2cb4622a23313e2592ac85
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069213"
 ---
 # <a name="exchange-license-management"></a>Exchange ライセンス管理
 
