@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988209"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>メールボックスに転送を設定したユーザーとその方法を確認する
 

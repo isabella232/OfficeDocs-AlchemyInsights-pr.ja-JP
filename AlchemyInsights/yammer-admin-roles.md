@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
-ms.translationtype: HT
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989704"
 ---
 # <a name="about-yammer-admins"></a>Yammer 管理者について
 

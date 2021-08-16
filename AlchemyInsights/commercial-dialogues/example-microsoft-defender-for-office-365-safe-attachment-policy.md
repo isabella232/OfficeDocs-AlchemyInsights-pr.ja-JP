@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988300"
 ---
 # <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Microsoft Defender for Office 365 の安全な添付ファイル ポリシーの例
 

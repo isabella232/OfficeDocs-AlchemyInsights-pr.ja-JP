@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c24451fba8b8ab8fe7a1778bb292dec6678e1ef487076d27458c9aeb4963c683
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069717"
 ---
 # <a name="conditional-access-with-intune"></a>Intune での条件付きアクセス
 
 Intune で **条件付きアクセス** を使用するには、次の 3 つの手順が必要です。
 
-- **コンプライアンス ポリシー** を作成し ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows))、デバイスが準拠しているとみなされるために満たす必要がある設定を定義します。 たとえば、準拠していると見なされるには、デバイスには少なくとも 6 桁の暗証番号 (pin) が必要です。
-- **条件付きアクセス ポリシー** を作成し、どのリソースを保護し、リソースへのアクセスにはどのような条件が必要かを定義します。  [たとえば、](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) 企業のメールにアクセスするにはデバイスが準拠している必要があります。
+- **コンプライアンス ポリシー** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android)、[iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios)、[Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) を作成して、デバイスが準拠していると見なされるよう満たす必要がある設定を定義します。たとえば、準拠と見なされるには、デバイスには少なくとも 6 桁の暗証番号が必要です。
+- 保護されているリソース、およびそれらのリソースにアクセスするために満たす必要がある条件を定義する、**条件付きアクセス ポリシー** を作成します。[たとえば、](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)企業メールにアクセスする前に、デバイスを準拠させる必要があります。
 - **コンプライアンス ポリシー** と **条件付きアクセス ポリシー** の両方を確認することは、目的のユーザーのグループを対象としています。これには、Azure Active Directory のユーザーで特定のグループを作成することが必要な場合があります。
 
 **便利なリンク:**

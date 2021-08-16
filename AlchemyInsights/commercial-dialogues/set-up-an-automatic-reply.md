@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994942"
 ---
 # <a name="set-up-an-automatic-reply"></a>自動応答を設定する
 

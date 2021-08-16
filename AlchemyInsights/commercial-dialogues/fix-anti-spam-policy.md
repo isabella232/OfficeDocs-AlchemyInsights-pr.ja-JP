@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988264"
 ---
 # <a name="fix-anti-spam-policy"></a>迷惑メール対策ポリシーを修正する
 

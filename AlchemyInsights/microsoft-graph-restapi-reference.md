@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012529"
 ---
 # <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST API のリファレンス
 
