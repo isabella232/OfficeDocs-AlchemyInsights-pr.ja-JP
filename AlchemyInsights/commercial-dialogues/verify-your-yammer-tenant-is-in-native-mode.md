@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070257"
 ---
 # <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Yammer テナントがネイティブ モードであることを確認する
 
