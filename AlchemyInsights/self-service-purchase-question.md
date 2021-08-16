@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 75a9d02793498715a0f75528ef01fb59d5015f72ea11949267f2a7d36ff19550
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074325"
 ---
 # <a name="self-service-purchase"></a>セルフサービス購入
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045101"
 ---
 # <a name="view-or-modify-a-journal-rule"></a>ジャーナル ルールを表示または変更する
 

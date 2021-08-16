@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014221"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office クライアント アプリを PC または MAC にインストールする
 
@@ -33,7 +33,7 @@ Microsoft 365 アプリを含むサブスクリプションをお持ちの場合
 
 1. [ポータル ページ](https://portal.office.com/OLS/MySoftware.aspx)に移動します。
 2. Office ライセンスが割り当てられた職場または学校のアカウントでサインインします。 
-3. [Office] セクションで、言語を選択します。 32 ビット版か 64 ビット版を選択します。
+3. [Office] セクションで、言語を選択します。32 ビット版または 64 ビット版を選択します。
 4. **[インストール]** をクリックします。
 
 Office のインストール時の詳細な手順およびトラブルシューティングについては、「[Office を PC または Mac にダウンロードしてインストールまたは再インストールする](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)」を参照してください。 Visio または Project のインストールに関する具体的な手順については、「[Visio をインストールする](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)」または「[Project をインストールする](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)」を参照してください。 複数のユーザーに Office を展開する場合は、「[Office 展開ツール (ODT) の使用](https://docs.microsoft.com/alchemyinsights/using-the-office-deployment-tool)」を参照してください。

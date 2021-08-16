@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 3715bb2f8ed8649c1a8cb493a177a28e5cf2a196
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9d036dc69e467516d362cc39a3d3262789f75b08d72367e1e7b6dba513687058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045317"
 ---
 # <a name="block-downloads-for-view-only-files-in-sharepoint-and-onedrive"></a>SharePoint および OneDrive の表示専用ファイルのダウンロードを禁止する
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: dcc0f24e807c4fcf4930cd9d988d053d894171f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab24766fb3685a90bd29b66168364b7451e1c98685ed792eb595bec9cb1b0ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032239"
 ---
 # <a name="create-a-site"></a>サイトを作成する
 
