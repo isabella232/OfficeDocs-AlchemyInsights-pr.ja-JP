@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012313"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams - ゲスト アクセス
 
@@ -30,4 +30,4 @@ Teams で組織外のユーザーとの通信に関するサポートが必要�
 
 詳細については、使い方ビデオを含む「[Microsoft Teams でのゲスト アクセス](https://docs.microsoft.com/microsoftteams/guest-access)」をご覧ください。
 
-**オプション 2: 外部アクセス (フェデレーション) を有効にする**外部アクセス (フェデレーション) も有効にする場合は、[Teams 管理センター] で、[[組織全体の設定]、[外部アクセス]](https://admin.teams.microsoft.com/company-wide-settings/external-communications) の順に移動して、[ユーザーが Skype for Business および Teams ユーザーと通信できるようにする] を有効にしてから、「[Teams のユーザーが別の組織のユーザーとチャットおよび通信できるようにする](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)」のすべての手順に従います。
+**オプション 2: 外部アクセス (フェデレーション) を有効にする** 外部アクセス (フェデレーション) も有効にする場合は、[Teams 管理センター] で、[[組織全体の設定]、[外部アクセス]](https://admin.teams.microsoft.com/company-wide-settings/external-communications) の順に移動して、[ユーザーが Skype for Business および Teams ユーザーと通信できるようにする] を有効にしてから、「[Teams のユーザーが別の組織のユーザーとチャットおよび通信できるようにする](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)」のすべての手順に従います。
