@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
-ms.translationtype: HT
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069969"
 ---
 # <a name="conditional-access-issues"></a>条件付きアクセスの問題
 

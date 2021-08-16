@@ -12,12 +12,12 @@ ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.custom:
 - "273"
 - "1500006"
-ms.openlocfilehash: a56be036f78d7eab3361a318793460bb4f7891e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01a08834a569a00203114d9c1ad4e3e4f1f503252d61db9843b31654aad78019
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998337"
 ---
 # <a name="access-the-domains-page"></a>[Domains] ページにアクセスする
 
