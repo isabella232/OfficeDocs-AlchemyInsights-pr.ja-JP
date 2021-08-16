@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966978"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296056"
 ---
 # <a name="release-quarantined-messages"></a>隔離されたメッセージの解放
 
-すべての受信者への 1 つまたは一連の検疫済みメッセージを解放するか、すべての受信者の一覧から選んだ特定のユーザーへのメッセージのみを解放することができます。
+すべての受信者への 1 つまたは一連の検疫済みメッセージを解放するか、すべての受信者の一覧から選んだ特定のユーザーへのメッセージのみを解放することができます。 次の操作を実行してください。
 
-1. [[セキュリティ/コンプライアンス センター]](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-2. **[脅威の管理]**、 > **[レビュー]**、 > **[検疫]** の順に移動します。
-3. 解放するメッセージを選択します。
-4. メッセージを解放した後は、[**更新**] を選んでデータを更新し、メッセージをダブルクリックします。 選んだ受信者にメッセージが解放されたことを確認できます。
+1. [メール] Microsoft 365 Defenderで、[メール <https://security.microsoft.com> の送信] **[グループ&検疫]** \> **に移動** \> **します**。
+
+   [検疫] ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/quarantine> 。
+
+2. [検疫 **] ページ** で、[電子メール] **タブが** 選択されていることを確認し、次のいずれかの手順を実行します。
+   - **単一メッセージ**: メッセージを選択します。 表示される詳細フライアウトで、[電子メールのリリース] を選択し、必要なオプションを構成し、[メッセージのリリース]**をクリックします**。
+   - **複数のメッセージ**: 最大 100 個のメッセージを選択して、すべての受信者にメッセージを解放します (個々の元の受信者を指定できない)。 表示される **[一括操作]** ドロップダウン リストで、[メッセージのリリース] を選択し、必要なオプションを構成し、[メッセージのリリース]**をクリックします**。
+
+詳細については、次の記事を参照してください。
+
+- [ユーザーが検閲済みメッセージを検出して解放する](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [管理者として検疫済みメッセージとファイルを管理する](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

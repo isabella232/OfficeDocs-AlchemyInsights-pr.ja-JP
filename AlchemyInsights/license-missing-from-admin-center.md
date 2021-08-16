@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 279e79c575dc8725250524663f6e6ea4a96e1230
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 7094fb4ee17fd4d609ea0739269cf6b3780f4355
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688475"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295804"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>ライセンスが管理センターにないか、表示されない
 

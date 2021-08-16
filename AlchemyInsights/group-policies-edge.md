@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 5afae22d7327a5d841964c12c73d70904ae72132b82810af74d32fc15ef30d6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963972"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295876"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Microsoft Edge で利用可能な更新関連のグループ ポリシーを使用する
 
-Microsoft Edge (バージョン 77 以降) で利用可能なポリシーを使用して、Microsoft Edge の更新方法とタイミングを制御します。詳細については、「[Microsoft Edge - 更新ポリシー](/DeployEdge/microsoft-edge-update-policies#available-policies)」を参照してください。
+Microsoft Edge (バージョン 77 以降) で利用可能なポリシーを使用して、Microsoft Edge の更新方法とタイミングを制御します。詳細については、「[Microsoft Edge - 更新ポリシー](https://docs.microsoft.com/DeployEdge/microsoft-edge-update-policies#available-policies)」を参照してください。

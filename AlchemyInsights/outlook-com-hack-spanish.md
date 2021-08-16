@@ -14,12 +14,12 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: f7b66212cbea119b5cfe6d6d131506020c0d6051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28167e392ab581d24f44a5ffebce49597ec7abe5ea6a1520b70d99382bbb6e2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096267"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 

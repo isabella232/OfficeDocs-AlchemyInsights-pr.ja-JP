@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 768b31e26045e8276785261b26a04cdde478577f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295768"
 ---
 # <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Outlook for Mac で単一のフォルダーの代理アクセス権を管理する
 
@@ -28,5 +28,4 @@ ms.locfileid: "54066801"
 
 アクセス許可レベルをカスタマイズするには、必要なアイテムのチェック ボックスを選択し、**[アイテムの編集]** や **[アイテムの削除]** で、必要なアクセス許可レベルを選択します。
 
-> [!NOTE]
-> アクセス許可レベルを **なし** に設定すると、代理人は一覧に残り、後ですばやくアクセス許可を元に戻すことができます。 アクセス許可レベルの詳細については、「[共有と代理人について](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)」を参照してください。
+**注**: アクセス許可レベルを **なし** に設定すると、代理人は一覧に残り、後ですばやくアクセス許可を元に戻すことができます。 アクセス許可レベルの詳細については、「[共有と代理人について](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)」を参照してください。
