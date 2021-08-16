@@ -16,12 +16,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041519"
 ---
 # <a name="block-or-unblock-senders"></a>送信者をブロックまたはブロック解除する
 
