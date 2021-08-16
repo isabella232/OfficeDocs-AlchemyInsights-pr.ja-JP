@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077799"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint または OneDrive の記憶域を管理する
 
