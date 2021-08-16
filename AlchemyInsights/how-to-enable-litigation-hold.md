@@ -14,12 +14,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067521"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>メールボックスを訴訟ホールドの状態にする
 

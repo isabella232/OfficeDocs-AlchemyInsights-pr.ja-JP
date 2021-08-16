@@ -11,12 +11,12 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73c57123c2d1405de90c41ab13b752cf3ccd7201d3d17bb8e6f6ae25a2e0e7ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067557"
 ---
 # <a name="how-to-activate-office"></a>Office をライセンス認証する方法
 

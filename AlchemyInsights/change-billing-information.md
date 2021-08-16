@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
-ms.openlocfilehash: 736cf7124474c4e6b2349b1e93a328ba43b1ed81
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9d3bbf0745654af2e1c563a78c3d22aa2d57833bd2a6d5a940f613083fb497f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082587"
 ---
 # <a name="change-billing-information"></a>お支払い情報を変更する
 

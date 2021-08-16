@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020701"
 ---
 # <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Outlook Mobile での共有メールボックスのセットアップをトラブルシューティングする
 

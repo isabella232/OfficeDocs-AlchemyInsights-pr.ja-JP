@@ -13,12 +13,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074937"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理センターでのアイテム保持ポリシー
 
@@ -32,7 +32,7 @@ Exchange 管理センターのアイテム保持ポリシーがメールボッ�
 
   **解決策:** 管理フォルダー用アシスタントを実行します。
 
-- メールボックスで **RetentionHold** が **有効** になっています。 メールボックスが RetentionHold に配置されている場合、その間、メールボックスのアイテム保持ポリシーは処理されません。
+- メールボックスで **RetentionHold** が **有効** になっています。メールボックスが RetentionHold に配置されている場合、その間、メールボックスのアイテム保持ポリシーは処理されません。
 
   **解決策:** 保持ホールド設定の状態を確認し、必要に応じて更新します。 詳細については、「[メールボックスのアイテム保持ホールド](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)」を参照してください。
  

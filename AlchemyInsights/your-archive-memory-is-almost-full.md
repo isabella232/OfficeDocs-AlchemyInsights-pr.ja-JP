@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
-ms.translationtype: HT
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046757"
 ---
 # <a name="your-archive-mailbox-is-almost-full"></a>アーカイブ メールボックスがほぼいっぱいです
 

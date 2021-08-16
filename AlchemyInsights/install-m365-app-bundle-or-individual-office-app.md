@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067413"
 ---
 # <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Microsoft 365 アプリ バンドルまたは個別の Office アプリをインストールする
 

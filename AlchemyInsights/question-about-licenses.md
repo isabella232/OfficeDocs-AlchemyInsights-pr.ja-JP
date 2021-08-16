@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.openlocfilehash: d88460df028ad72b9d097d67d71125fff7113efc
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: feff70ce521cae0c710e8e68bac405d07bd7cc96372338e922beadb09c5fd592
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075138"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Microsoft 365 ライセンスに関する質問
 

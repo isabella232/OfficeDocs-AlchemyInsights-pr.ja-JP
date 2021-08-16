@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: b0fe9d7f62738b96c9887f7b18fc29c90436ee71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29383f8b4c943871cdf12c2056d946f4ad841de0260a13fc824031daa78c0e6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082515"
 ---
 # <a name="change-your-profile-name"></a>プロファイル名を変更する
 
