@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 562537f0a8d53cf1526c6a9069b1f98721a90538
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
-ms.translationtype: HT
+ms.openlocfilehash: 6ad924147812186610fdef8bf443c76f6663ec35e5e38720783fd4b0369bc579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101883"
 ---
 # <a name="dlp-reporting-and-alerts"></a>DLP レポートと警告
 
