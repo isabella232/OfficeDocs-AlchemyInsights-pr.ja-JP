@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995446"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (セキュリティと ID)
 

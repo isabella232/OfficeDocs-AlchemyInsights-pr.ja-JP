@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 3ad1bb7a13a9c26dd3e4f9cbee7944e975191c3a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: f4f579cae0f50aa24e6719c67935f2b705a8fa305a8e791387eedfee29f1f016
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018289"
 ---
 # <a name="change-how-often-you-pay"></a>支払回数を変更する
 

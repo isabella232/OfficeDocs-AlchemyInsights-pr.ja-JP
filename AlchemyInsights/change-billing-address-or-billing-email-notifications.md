@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4dd0257f7dd87cfe3a47c0206aa6225f95fe1770
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 770d8762489767438101a0b6bdb86713aed4149ed2314ae1c94e3d6066a67496
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018469"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>請求先住所や請求のメール通知の変更
 

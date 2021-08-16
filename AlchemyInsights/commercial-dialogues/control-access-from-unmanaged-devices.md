@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 077979bb58234fdc7bddac76f25c2dfa7767addd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 088bff5b5d033bf7d8af6b056fd9a0ef570df63cc72977bc228f8256fbeb4e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005743"
 ---
 # <a name="control-the-access-from-unmanaged-devices"></a>非管理対象デバイスからのアクセスを制御する
 
-Microsoft 365 の SharePoint またはグローバル管理者は、非管理対象デバイスからの SharePoint および OneDrive のコンテンツに対するアクセスをブロックまたは制限することができます。 詳細については、「[非管理対象デバイスからのアクセスを制御する](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)」を参照してください。
+Microsoft 365 の SharePoint またはグローバル管理者は、アンマネージド デバイスからの SharePoint および OneDrive のコンテンツに対するアクセスをブロックまたは制限することができます。詳細については、「[アンマネージド デバイスからのアクセスを制御する](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)」を参照してください。

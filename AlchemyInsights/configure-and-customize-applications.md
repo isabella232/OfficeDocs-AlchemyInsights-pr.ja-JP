@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
-ms.translationtype: HT
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044993"
 ---
 # <a name="configure-and-customize-applications"></a>アプリケーションの構成とカスタマイズ
 

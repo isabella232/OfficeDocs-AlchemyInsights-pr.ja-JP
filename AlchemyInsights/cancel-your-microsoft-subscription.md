@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 5a753e6ef663281916626747df836bc57c459d97
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e489ede7cd40d59633cf9347ae2afbef788cadf52fee36d8858b5fb283b1f140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035813"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft サブスクリプションをキャンセルする
 

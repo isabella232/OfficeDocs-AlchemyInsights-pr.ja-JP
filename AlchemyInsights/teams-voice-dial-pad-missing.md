@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3d6856e643e7b0fe435333b87d2a27b76f8e3763be676554819d0147a352273f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981262"
 ---
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>Microsoft Teams でダイヤル パッドが見つからない 
 

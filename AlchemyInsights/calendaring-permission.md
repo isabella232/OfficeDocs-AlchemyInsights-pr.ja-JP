@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: ef522719c152c9629522a3feb2ab986d46b0e58a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca71f3570cd11cf107ff0ee376796470c88536d5d1e1adbebd4d816ea470d5f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035921"
 ---
 # <a name="calendar-permissions"></a>予定表のアクセス許可
 

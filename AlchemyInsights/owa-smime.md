@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 2351504b2fd3c24ee5c4d1c0442e6408444dc48c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21744afbb5709ad994457643412859bbfd68f455158dbdaebe1f5c2d5ec39138
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982738"
 ---
 # <a name="encrypt-messages-using-smime"></a>S/MIME を使用したメッセージの暗号化
 

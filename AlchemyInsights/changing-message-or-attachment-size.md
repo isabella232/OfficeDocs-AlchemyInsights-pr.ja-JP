@@ -11,12 +11,12 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be448aea85d2a498f380c628b6a80680cd68ff34852c39568b227ede3f1c2c24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968166"
 ---
 # <a name="changing-message-or-attachment-size"></a>メッセージまたは添付ファイルのサイズを変更する
 

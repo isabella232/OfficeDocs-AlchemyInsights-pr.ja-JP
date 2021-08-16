@@ -13,12 +13,12 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: c6061aaaf151d66817eff0a824f757defb238ca0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7bc10eda1ebf95fe0529e8b19f62571d11ee532836984eb18c5fa9b4647ca3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035957"
 ---
 # <a name="calendar-sharing-in-outlook"></a>Outlook での予定表の共有
 
