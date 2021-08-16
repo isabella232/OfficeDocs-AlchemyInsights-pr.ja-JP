@@ -14,12 +14,12 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48300120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044453"
 ---
 # <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>マップされたネットワーク ドライブを構成しトラブルシューティングする方法
 

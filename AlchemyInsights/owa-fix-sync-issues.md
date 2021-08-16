@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: 18e1e6192cf7c4954d295013fc4f87ee95d20bf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c488fc199d0a3372bdc40520f1e905af18234c14cbf81c9ee2242f9770962687
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983134"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Outlook on the web の同期問題の解決方法
 
