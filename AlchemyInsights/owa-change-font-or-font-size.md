@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: f85f4112bd884dd55da186645b622999fc5d0eac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a43154eec64bf8081c7c12f5a5df13cfbfec84af79245daedb86bcc3ac3a5192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999929"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Outlook on the web でフォントまたはフォント サイズを変更する
 

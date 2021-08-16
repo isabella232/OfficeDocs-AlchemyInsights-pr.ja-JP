@@ -12,12 +12,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: e6b8aad52d492d9db9de9abb9be182fe12d0bd62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028df27091397c0aba894683e3f6dd5b3e0fbc0b0170c7cc96d4da423dfd3119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984826"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive の一般的な問題と解決策
 
@@ -26,6 +26,6 @@ OneDrive の問題に関してよく寄せられるトピックを次に示し�
 - **OneDrive の同期設定**: [OneDrive for Business ファイルの同期](https://go.microsoft.com/fwlink/?linkid=533375)や [SharePoint ファイルの同期](https://go.microsoft.com/fwlink/?linkid=871666)は、Windows 向けの OneDrive 同期クライアントを使用して行えます。  Mac を使用している場合 同じ方法で、[ファイルを OneDrive と同期](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f)できます。
 
 - **OneDrive 同期のトラブルシューティング**: OneDrive での同期が期待どおりに行われない場合は、Windows での [OneDrive の同期に関する問題をトラブルシューティング](https://go.microsoft.com/fwlink/?linkid=866431)できます。 Mac を使用している場合 Mac の場合も、[同期に関する問題をトラブルシューティング](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)できます。
-- **OneDrive の制限**: OneDrive と同期する際に適用されるファイル名とファイルの種類に関する[制限事項](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)をご確認ください。
+- **OneDrive の制限**: OneDrive と同期する際に適用されるファイル名とファイルの種類に関する [制限事項](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)をご確認ください。
 - **OneDrive の記憶域**: [特定のユーザーの OneDrive の記憶域を変更する](https://docs.microsoft.com/onedrive/change-user-storage)方法または [OneDrive for Business の記憶域を管理する](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)方法をご覧ください。
 - **監査ログ**: [監査ログの検索を使用して](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)ファイル、フォルダー、ユーザー、またはアクセス許可のアクティビティを確認する方法をご確認ください。 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984718"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>AdBlock を有効にすると Google Chrome でメールが読めない
 

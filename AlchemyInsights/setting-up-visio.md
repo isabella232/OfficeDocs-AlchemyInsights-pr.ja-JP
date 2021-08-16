@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: b5c77fe13124722afecd6b733fc4785878e53299
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae6af789d4de4d99b7ca0699e012bcbb2d715651765a17fcb7f16b91084acb04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051671"
 ---
 # <a name="setting-up-visio"></a>Visio の設定
 

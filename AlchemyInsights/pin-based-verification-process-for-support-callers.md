@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6218"
 - "9003321"
-ms.openlocfilehash: 2ffb254f914d738dff09976d5c574b6c3036f793
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 008ce3ebcbc04929b54839f5ad6a1392596c48669149d32e7ebe6159bedf9036
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999641"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>サポート呼び出し元の PIN ベースの検証プロセス
 
-メッセージ センターの投稿 MC219951 は、呼び出し元の管理者の発信者 ID がアカウントに関連付けられている電話番号と一致しない場合の電話サポートの新しい PIN ベースの検証手順を発表しました。 詳細については、「[メッセージ センター](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter)」をご覧ください。 
+メッセージ センターの投稿 MC219951 は、呼び出し元の管理者の発信者 ID がアカウントに関連付けられている電話番号と一致しない場合の電話サポートの新しい PIN ベースの検証手順を発表しました。詳細については、「[メッセージ センター](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter)」をご覧ください。 
 
 管理ポータルで管理者の電話番号を追加または確認するには:  
 

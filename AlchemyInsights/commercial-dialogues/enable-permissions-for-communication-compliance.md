@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058727"
 ---
 # <a name="enable-permissions-for-communication-compliance"></a>通信コンプライアンスのためのアクセス許可を有効にする
 

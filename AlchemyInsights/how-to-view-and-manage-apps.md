@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0d621c6439b6b95cee2c3d1b2997339f964802319984443e97a81e492babb6ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015193"
 ---
 # <a name="how-to-view-and-manage-apps"></a>アプリを表示および管理する方法
 
