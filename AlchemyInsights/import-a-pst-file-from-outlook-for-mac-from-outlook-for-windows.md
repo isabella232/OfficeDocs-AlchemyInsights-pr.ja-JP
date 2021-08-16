@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987400"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Outlook for Windows から Outlook for Mac に .pst ファイルをインポートする 
 

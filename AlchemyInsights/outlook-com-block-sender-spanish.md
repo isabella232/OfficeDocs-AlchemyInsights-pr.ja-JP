@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064605"
 ---
 # <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 

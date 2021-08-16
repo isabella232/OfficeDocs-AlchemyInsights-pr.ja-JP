@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 0c343aa404e0a83b90dbf5687bad06f05320dbd6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 460f5f13bcff7bc7c44b1444c66c64cfaa1d697e4f427cb0d2d75555fd84a928
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064641"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Outlook.com で誕生日の予定表を追加する
 

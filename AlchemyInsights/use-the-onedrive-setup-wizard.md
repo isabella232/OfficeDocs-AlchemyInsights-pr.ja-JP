@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 38b985b1aeba19604e7dfc9a9156a22795fa35ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 418a60cc31471627aa06c35120faca173acfe6be8c850e676ec82fcf9c44673d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037865"
 ---
 # <a name="set-up-onedrive"></a>OneDrive の設定
 

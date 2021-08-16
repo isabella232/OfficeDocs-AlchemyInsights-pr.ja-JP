@@ -13,12 +13,12 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028657"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>メール フロー ルール (トランスポート ルールとも呼ばれます)
 

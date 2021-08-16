@@ -13,16 +13,16 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 1e55d9d579c389dfe731f887a2a08c6234de2787
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: 398496448089d4480119a2eb21221dc11f13c6c1f3bcbd931d6c18033f2e734e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51596096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987554"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Windows Virtual Desktop の問題を特定する
 
-Windows Virtual Desktop の診断では、1 つの Powershell コマンドレットを使用しますが、オプションのパラメータを多数含み、問題を絞り込んで特定します。 開始するには、 
+Windows Virtual Desktop の診断では、1 つの Powershell コマンドレットを使用しますが、オプションのパラメータがたくさんあり、これにより問題を絞り込んで特定します。 
 
 1. Windows Virtual Desktop PowerShell モジュールをダウンロードしてインポートします。 詳細については、「[Windows PowerShell の Windows Virtual Desktop コマンドレット](https://docs.microsoft.com/powershell/windows-virtual-desktop/overview)」を参照してください。
 

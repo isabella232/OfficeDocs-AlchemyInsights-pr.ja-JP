@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987364"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook のメール、連絡先、予定表のアイテムをインポートおよびエクスポートする
 

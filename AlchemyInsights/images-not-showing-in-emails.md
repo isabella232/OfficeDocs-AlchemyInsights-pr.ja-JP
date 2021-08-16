@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987508"
 ---
 # <a name="images-not-showing-in-emails"></a>メールに画像が表示されない
 
-Microsoft は、一部のお客様についてメールに画像またはピクチャが表示されないという問題を把握しております。 ご不便をおかけして申し訳ございません。
+Microsoft は、一部のお客様についてメールに画像またはピクチャが表示されないという問題を把握しております。ご不便をおかけして申し訳ございません。

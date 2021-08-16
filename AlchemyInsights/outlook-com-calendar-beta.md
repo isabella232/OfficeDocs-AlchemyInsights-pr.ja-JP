@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064569"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com に搭載予定の新しいカレンダーのエクスペリエンス
 

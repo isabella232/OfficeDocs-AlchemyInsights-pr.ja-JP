@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064677"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>他のメール アカウントを Outlook.com に追加する
 
@@ -31,7 +31,7 @@ ms.locfileid: "47672781"
 2. [**接続されているアカウント**] で、[**Gmail**] または [**その他のメール アカウント**] を選択します。
 3. [アカウントを接続] ページで、表示名 (このメール アカウントからのメール メッセージを受け取った受信者に対して表示される名前) と、Outlook.com アカウントに接続するメール アカウントの完全なメール アドレスとパスワードを入力します。
 
-Outlook.com アカウントに接続している任意のアカウントからメールを送信することができます。メールの作成時に、[**差出人**] を選択し、使用するメール アドレスを選択するか、または[既定の差出人アドレスを更新](https://go.microsoft.com/fwlink/?linkid=875264)します。
+Outlook.com アカウントに接続している任意のアカウントからメールを送信することができます。メールの作成時に、[**差出人**] を選択し、使用するメール アドレスを選択するか、または [既定の差出人アドレスを更新](https://go.microsoft.com/fwlink/?linkid=875264)します。
 
 詳細については、「[その他のメール アカウントを Outlook.com に追加する](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)」を参照してください。
 

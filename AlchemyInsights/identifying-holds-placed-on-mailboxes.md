@@ -13,16 +13,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987574"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>メールボックスの保留を特定する
 
-特定できない**保留**で**保持されている** Microsoft 365 コンテンツはありますか? **メールボックス**で保留を見つけられる場所を**確認**する必要がありますか? 次のいずれかの方法で、保留 (*保持機能*) を適用できます。
+自分では特定できない **保留** によって **保持** されている Microsoft 365 コンテンツがある場合、または **メールボックス** のどこに保留があるのかを **確認** する必要がある場合、保留 (*保持機能*) は、次のいずれかの方法で適用できます。
   
 - 訴訟ホールド
 

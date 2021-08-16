@@ -8,12 +8,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: a81179e0a9523f43c538a41af7c49f6dd7c485ae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50d413ae7389c3ecd281b3a87d64736be8fc8044f1b20a103bd3f45c97473502
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064713"
 ---
 # <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: '変更の処理中' のトラブルシューティング
 

@@ -14,12 +14,12 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: ef2ed382c187e899bf20295a7aa9fe0b8f619a75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 820730e9a1cf52e979818f52045b5dfc4ff2fc8e6f43adf695182ff5d148f4b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984538"
 ---
 # <a name="change-your-email-address"></a>メール アドレスを変更する
 
