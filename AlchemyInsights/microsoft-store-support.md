@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005680"
 - "9751"
-ms.openlocfilehash: 87c5c263e138e0ee025248dc074b84c24496df0e
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: HT
+ms.openlocfilehash: c93bceab8d576f1658039f171ff4cf44a279b26c4773b8670cdad63f27bafbc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066261"
 ---
 # <a name="microsoft-store-support"></a>Microsoft Store サポート
 

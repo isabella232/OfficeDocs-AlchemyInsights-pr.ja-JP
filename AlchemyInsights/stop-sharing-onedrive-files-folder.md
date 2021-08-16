@@ -13,15 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: 4f498cc2658a9a78fd802cffe4a947acb57f6af3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4282bb30a94a1d8179e56772f79350ac9c6f756d87ccfbec46e0418a3cc18612
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021133"
 ---
 # <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>OneDrive または SharePoint のファイルまたはフォルダーの共有を停止する方法
 
 アイテムの所有者である場合は、アイテムの共有を中止したり、共有相手を確認したり、他のユーザーが持つアクセス許可を変更したりできます。
 
-[OneDrive または SharePoint のファイルまたはフォルダーの共有を停止する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+詳しくは、以下を参照してください。 
+
+- [OneDrive または SharePoint のファイルまたはフォルダーの共有を停止する](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Microsoft Office SharePoint Online から削除されたユーザーを削除する方法](/sharepoint/remove-users)
