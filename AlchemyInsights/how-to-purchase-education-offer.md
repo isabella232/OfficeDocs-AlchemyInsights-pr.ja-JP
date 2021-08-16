@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 3f75c3158a0dba8f916357974782490ddec6a1edb4432185ee50c93e71d47034
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977086"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>教育機関向けプランの購入方法
 

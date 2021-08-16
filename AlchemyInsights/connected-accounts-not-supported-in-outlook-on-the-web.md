@@ -12,12 +12,12 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 480cb83aebe85efac51c9ca8970e1ddc9bb96e30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c6422e74401ac03f25e588b575b439147c3d183d069ac0c579973cab326ff84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978454"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>接続されたアカウントはサポートされていません
 

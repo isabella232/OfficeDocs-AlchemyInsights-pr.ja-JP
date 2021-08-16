@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967986"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Microsoft 365 Defender のライセンス
 

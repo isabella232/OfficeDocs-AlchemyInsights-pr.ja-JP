@@ -15,12 +15,12 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 2ebfabc02b937557439a4fa13da3e5cfcadf2e5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b42a67b7608d6471b2bcf4ba6c12c7239ccc6504b07ee0eaba17b570cd3869e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041231"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Outlook.com でメールと予定表を印刷する
 
