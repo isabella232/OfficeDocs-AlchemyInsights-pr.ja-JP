@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030799"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP のカスタム タイプの必要性
 
@@ -26,7 +26,7 @@ ms.locfileid: "47712189"
 
 **DLP にはカスタム情報の種類が必要な場合があります**
 
-データ損失防止（DLP）ポリシーを使用すると、組織内の機密データを識別し保護することができます。 場合によっては、組織のデータを保護するために独自の**カスタム**機密情報の種類を作成する必要があります。
+データ損失防止（DLP）ポリシーを使用すると、組織内の機密データを識別し保護することができます。 場合によっては、組織のデータを保護するために独自の **カスタム** 機密情報の種類を作成する必要があります。
 
 たとえば、組織では、固有の形式で従業員 ID やその他のデータを識別して保護する必要があることがあります。もしそうであれば、詳細について以下の記事を参照してください。
   

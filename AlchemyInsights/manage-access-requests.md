@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8674f8612dc2310b622f9324a515bb5d88b43271ac9d1a474eefa1be3cae750
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066837"
 ---
 # <a name="manage-access-requests"></a>アクセス依頼を管理する
 

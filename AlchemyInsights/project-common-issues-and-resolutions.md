@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039683"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Project の一般的な問題と解決策
 
 Project についてよく寄せられるトピックは次の通りです。
 
-1. **Project の使用を開始する:** [Project Online の使用を開始](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)し、お客様の環境で [Project Online の計画を立て、実装し、管理する](https://docs.microsoft.com/projectonline/project-online)方法について説明します。 重要な制限事項について、「[Project Online ソフトウェアの制限および境界](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits)」を確認してください。
+1. **Project の使用を開始する:** [Project Online の使用を開始](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online)し、お客様の環境で [Project Online の計画を立て、実装し、管理する](https://docs.microsoft.com/projectonline/project-online)方法について説明します。重要な制限事項について、「[Project Online ソフトウェアの制限および境界](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits)」を確認してください。
 
 2. **Project Online へのアクセス許可をユーザーに付与する:** [ユーザー、グループ、リソースを追加して Project Online を共有](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)し、他のユーザーと共同作業を行えるようにします。 
 

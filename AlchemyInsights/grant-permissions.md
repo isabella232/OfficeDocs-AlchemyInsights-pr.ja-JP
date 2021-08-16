@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
-ms.translationtype: HT
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056387"
 ---
 # <a name="grant-permissions"></a>アクセス許可を付与する
 

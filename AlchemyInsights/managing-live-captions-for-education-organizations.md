@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066702"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>教育機関向けのライブ キャプションの管理
 
-教育機関の管理者は、学生と教師の安全と教育者向けのポリシー パッケージの使用を検討することをお勧めします。 詳細については、以下を参照してください。  
+教育機関の管理者は、学生と教師の安全と教師向けのポリシー パッケージの使用を検討することをお勧めします。詳細については、以下を参照してください。  
 
 - [Microsoft Teams のポリシー パッケージ](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)。  
     

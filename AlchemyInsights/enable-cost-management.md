@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49680445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003574"
 ---
 # <a name="enable-cost-management"></a>原価管理を有効にする
 
@@ -35,7 +35,7 @@ Azure ポータルにログインした後は、課金 API を使用して、請
 3. アクセスをオンにして、変更を保存すると、サブスクリプション範囲内役割のユーザーは請求書をダウンロードできます。
 
 > [!NOTE]
-> アカウント管理者は、メールで請求書を送信するように設定することもできます。 詳細については、「[メールで請求書を取得する](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date??)」を参照してください。
+> アカウント管理者は、メールで請求書を送信するように設定することもできます。 詳細については、「[メールで請求書を取得する](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)」を参照してください。
 
 **ユーザーを課金リーダーの役割に追加する方法**
 
@@ -52,7 +52,7 @@ Azure ポータルにログインした後は、課金 API を使用して、請
 - [サポートされる Microsoft Azure の提供](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [原価分析のコストを確認する](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
 - [課金情報にアクセス許可を付与する](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Microsoft 顧客契約へのアクセス許可の確認](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date??WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Microsoft 顧客契約へのアクセス許可の確認](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 
