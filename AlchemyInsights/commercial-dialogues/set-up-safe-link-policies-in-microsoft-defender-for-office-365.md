@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070365"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 で安全なリンク ポリシーを設定する
 

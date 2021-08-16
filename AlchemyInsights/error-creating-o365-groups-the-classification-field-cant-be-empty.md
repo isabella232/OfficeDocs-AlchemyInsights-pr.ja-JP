@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: 51facd7ab62b7902d7fdb3a8b480d8b07a4d40ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eace2672535b04812d39aaa566603c33b95bd5069d7f0fd79e76990efd42c43d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100587"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>O365 グループの作成エラー: 分類フィールドを空にすることはできません
 

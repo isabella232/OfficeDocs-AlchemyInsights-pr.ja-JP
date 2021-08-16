@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: ca9be1c329fcac4dc5ea988bbce31cf27d70e199
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: fc4caf4426a6bd4b238727dfc56f21eb3a56d4eea8251c17611ea430e1a9ce05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070437"
 ---
 # <a name="set-up-and-configure-email-encryption"></a>メールの暗号化をセットアップして構成する
 

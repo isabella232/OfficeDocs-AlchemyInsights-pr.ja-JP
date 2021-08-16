@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031447"
 ---
 # <a name="deploy-office-to-remote-users-wizard"></a>[Office をリモート ユーザーに展開する] ウィザード
 

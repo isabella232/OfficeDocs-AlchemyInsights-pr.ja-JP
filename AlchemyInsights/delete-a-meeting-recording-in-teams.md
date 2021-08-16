@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c8e6c1bc9a64cca6bf84c13e71387629326f62f4
-ms.sourcegitcommit: dd4054a97ac9c317cb559994846a9695543ddc2c
+ms.openlocfilehash: b58ca3d72eb7e937fbc33beb87a5f47e4b6280ca845224f973189e689c33c03c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031555"
 ---
 # <a name="delete-a-meeting-recording-in-teams"></a>Teams の会議の記録を削除する
 

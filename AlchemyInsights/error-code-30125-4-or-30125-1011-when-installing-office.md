@@ -12,12 +12,12 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100695"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Office のインストール時にエラー コード 30125-4 または 30125-1011 が表示される
 

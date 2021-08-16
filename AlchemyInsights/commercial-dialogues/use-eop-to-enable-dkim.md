@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070310"
 ---
 # <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Exchange Online PowerShell を使用して特定のドメインに対して DKIM を有効にする
 

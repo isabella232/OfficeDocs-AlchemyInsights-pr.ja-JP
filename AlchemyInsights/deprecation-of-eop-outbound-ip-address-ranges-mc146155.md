@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031267"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP 送信 IP アドレスの範囲の廃止
 
