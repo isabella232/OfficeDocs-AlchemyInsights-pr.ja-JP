@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874400"
 ---
 # <a name="domain-status---no-services-selected"></a>ドメイン ステータス - サービスが選択されていません
 
@@ -32,5 +32,5 @@ ms.locfileid: "53947448"
     - [Microsoft に **DNS レコード** を追加する] または [その他のオプションを設定する] を選択すると、利用可能なすべてのサービスが自動的に  >  提案され、選択されます。
 1. ウィザードに進み、DNS セットアップとサービスの選択肢を完了します。
  
-ドメインの設定に関するその他のヘルプについては、「 [ドメインに接続するための DNS レコードの追加」を参照してください](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
+ドメインの設定に関するその他のヘルプについては、「 [ドメインに接続するための DNS レコードの追加」を参照してください](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
 

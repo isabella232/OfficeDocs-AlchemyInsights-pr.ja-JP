@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: 20627d950af44b799a23a6d1f177f71cca7f275b
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 04073a0adbd9ce47e36bb59c7363c5e11a04cede5e339e1876eb6aa374b3762c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52732087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068853"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>Bluetooth デバイスの音質を修正する
 
@@ -26,7 +26,7 @@ ms.locfileid: "52732087"
 
 - 音声が Bluetooth デバイス経由で再生されていることを確認します。 [**スタート**] ボタンを選択して、[**設定**] > [**システム**] > [**サウンド**] を選びます。 [**出力デバイスを選択してください**] の下で、Bluetooth オーディオ デバイスを選択します。
 
-- Bluetooth 経由でのファイル共有など、Bluetooth を使用している可能性がある他の操作を一時停止します。 詳細については、「[Windows 10 でサウンドの問題を解決する](https://support.microsoft.com/ja-JP/help/4026994)」を参照してください。
+- Bluetooth 経由でのファイル共有など、Bluetooth を使用している可能性がある他の操作を一時停止します。 詳細については、「[Windows 10 でサウンドの問題を解決する](https://support.microsoft.com/en-us/help/4026994)」を参照してください。
 
 - Bluetooth デバイスの音質を最適にするためにステレオが選択されていることを確認します。
     1. タスクバーの右側にある [**ボリューム**] を選択し、矢じりアイコンを選択して再生デバイスを選びます。

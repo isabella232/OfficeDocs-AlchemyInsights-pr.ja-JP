@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099687"
 ---
 # <a name="rules-and-alerts-error-the-operation-failed"></a>仕分けルールと通知のエラー: 「操作に失敗しました」
 

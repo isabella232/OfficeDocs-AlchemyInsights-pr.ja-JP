@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6ce3151ee6ec7529a4eeb8e4fb85354777f8b93d3c90461a12518af680ae60f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100011"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>SharePoint Online のファイルのアップロード制限
 

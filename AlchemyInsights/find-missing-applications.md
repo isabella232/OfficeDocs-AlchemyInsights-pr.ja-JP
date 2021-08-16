@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
-ms.translationtype: HT
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068925"
 ---
 # <a name="find-missing-applications"></a>不足しているアプリケーションを見つける
 

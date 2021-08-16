@@ -12,16 +12,16 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026083"
 ---
 # <a name="modernize-the-classic-home-page"></a>クラシック ホーム ページをモダン化する
 
-クラシック SharePoint チーム サイトのホーム ページに対する最近の更新プログラムは、「作業の開始」、「ドキュメント ライブラリ」、「ニュースフィード」 など、*すぐに使用可能な既定の Web パーツのみ*が含まれているクラシック チーム サイトのホームページ (STS # 0) に影響します。
+クラシック SharePoint チーム サイトのホーム ページに対する最近の更新プログラムは、「作業の開始」、「ドキュメント ライブラリ」、「ニュースフィード」 など、*すぐに使用可能な既定の Web パーツのみ* が含まれているクラシック チーム サイトのホームページ (STS # 0) に影響します。
 
 変更の詳細については、[こちら](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)をご覧ください。 
 

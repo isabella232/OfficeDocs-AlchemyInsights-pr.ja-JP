@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
-ms.translationtype: HT
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028297"
 ---
 # <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>自分のオンプレミス アプリとシームレスな SSO の統合に関する問題
 

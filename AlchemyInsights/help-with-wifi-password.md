@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a24840cdc823eb3c9a52fcb02839310c15a96dc4026bb43169683db3c80a7be0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099778"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Wi-Fi パスワードに関するヘルプが必要な場合
 
@@ -38,7 +38,7 @@ ms.locfileid: "51038334"
 
 残念ながら、現在その Wi-Fi ネットワークを使用していない場合は、Wi-Fi パスワードを見つけることはできません。 ルーターに関するその他のヘルプについては、ルーターの製造元に問い合わせるか、そのサポート Web サイトにアクセスしてください。
 
-ルーターが新しい場合は、Wi-Fi の名前とパスワードがルーターまたはルーターの元の箱に記載されている場合があります。 資格情報は次のように表示されます。
+ルーターが新しい場合は、Wi-Fi の名前とパスワードがルーターまたはルーターの元の箱に記載されている場合があります。資格情報は次のように表示されます。
 
 ネットワーク SSID: XXXXXXX ネットワーク キー: XXXXXXXX
 
