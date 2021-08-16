@@ -11,12 +11,12 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e83453ed21348cc723b25bbf071709363d1eeaf2efda5e630c6431f62d348037
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015733"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Outlook for Mac でルールを作成する方法
 

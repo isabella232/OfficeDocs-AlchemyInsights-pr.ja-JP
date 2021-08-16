@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
-ms.translationtype: HT
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039971"
 ---
 # <a name="problems-resetting-password"></a>パスワードのリセットに関する問題
 
