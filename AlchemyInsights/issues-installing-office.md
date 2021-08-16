@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013141"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office のインストール時の問題の解決方法
 
@@ -30,7 +30,7 @@ Office のエラーを修正するために、次のいずれかの解決方法�
 - Office の以前のトレースをすべてクリーンアップし、サポート/回復アシスタント (SaRA) を使用して再インストールします。 
 
     - [サポート/回復アシスタント](https://aka.ms/SARA-OfficeUninstall-Alchemy)をダウンロードしてインストールします。 起動後に、**[Office 製品のアンインストール]** からアンインストールするバージョン (ある場合) を選択して **[次へ]** をクリックします。 各画面の操作を続行して、プロンプトが表示されたらコンピューターを再起動します。 再起動後に、SaRA が自動的に再開してアンインストール処理を完了します。
-    - SaRA を使用して[Office を再インストール](https://aka.ms/sara-officeinstall)します。 **注**: SaRA を使用して Visio または Project を設定する場合は、[[Visio をインストールする]](https://aka.ms/SaRA-VisioSetupScenario) または [[Project をインストールする]](https://aka.ms/SaRA-ProjectSetupScenario) を使用します。  
+    - SaRA を使用して [Office を再インストールします](https://aka.ms/sara-officeinstall)。**注**: SaRA を使用して Visio または Project をセットアップするには、[[Visio のインストール]](https://aka.ms/SaRA-VisioSetupScenario) を使用するか、[[Project のインストール]](https://aka.ms/SaRA-ProjectSetupScenario) をします。  
 
 - [Office オフライン インストーラーを使用](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)して Office をインストールします。
 

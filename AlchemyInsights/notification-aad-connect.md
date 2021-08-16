@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: HT
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097311"
 ---
 # <a name="notification-aad-connect"></a>AAD Connect の通知
 

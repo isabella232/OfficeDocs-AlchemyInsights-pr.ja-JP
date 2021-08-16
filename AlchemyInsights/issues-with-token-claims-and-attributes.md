@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
-ms.translationtype: HT
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012889"
 ---
 # <a name="issues-with-token-claims-and-attributes"></a>トークンの要求と属性に関する問題
 
