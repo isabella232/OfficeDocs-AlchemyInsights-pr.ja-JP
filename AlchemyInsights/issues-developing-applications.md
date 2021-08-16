@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013429"
 ---
 # <a name="issues-developing-applications"></a>アプリケーションの開発に関する問題
 
@@ -30,7 +30,7 @@ Azure Active Directory (AD) アプリを作成するときに発生する最も�
 - [アプリケーションにアクセス許可を付与する方法がわかりません](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [委任されたアクセス許可とアプリケーションのアクセス許可の違いがわかりません](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Azure Active Directory 認証ライブラリ (ADAL) および Azure AD Graph API (AAD Graph) のサポートの終了** _
+***Azure Active Directory 認証ライブラリ (ADAL) および Azure AD Graph API (AAD Graph) のサポートの終了*** _
 
 - 2020 年 6 月 30 日以降、Azure Active Directory 認証ライブラリ (ADAL) および Azure AD Graph API (AAD Graph) に新しい機能を追加しなくなります。 テクニカル サポートおよびセキュリティ更新プログラムは引き続き提供されますが、機能の更新プログラムは提供されなくなります。
 
@@ -40,7 +40,7 @@ Azure Active Directory (AD) アプリを作成するときに発生する最も�
 
     - これ以降に AAD Graph を使用するアプリは、AAD Graph エンドポイントからの応答を受信しなくなる場合があります
 
-_ *ADAL 移行**
+**ADAL 移行**
 
 Microsoft アプリを使用している場合、最新の機能とセキュリティ更新プログラムを備えた Microsoft Authentication Library (MSAL) に更新することをお勧めします。 この推奨事項は、Microsoft がサポート終了期限までにアプリを MSAL に移行するプロセスを開始することに関連しています。 
 
