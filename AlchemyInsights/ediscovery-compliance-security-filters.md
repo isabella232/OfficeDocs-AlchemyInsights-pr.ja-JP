@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101271"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>コンテンツ検索/エクスポート中に結果が返されない
 

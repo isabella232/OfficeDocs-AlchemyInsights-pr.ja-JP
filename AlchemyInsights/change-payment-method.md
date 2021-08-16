@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 96fe38b88ffe51d7820abe1c1c0e90cfc005ce8a0fe61171cb682fa33acf2675
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070941"
 ---
 # <a name="change-payment-method"></a>支払い方法を変更する
 

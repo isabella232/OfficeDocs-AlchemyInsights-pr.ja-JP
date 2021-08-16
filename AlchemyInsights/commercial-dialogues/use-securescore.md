@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033787"
 ---
 # <a name="use-securescore"></a>SecureScore の使用
 
