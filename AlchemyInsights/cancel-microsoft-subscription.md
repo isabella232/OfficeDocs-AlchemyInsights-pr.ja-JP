@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 7dc234cb6cf9f05735fed621fe332575a79b2512
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 381ede315b62b969a62bdba3bc3fc94acf94f275e94cf0b71dfd20c000f6b517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071727"
 ---
 # <a name="cancel-microsoft-subscription"></a>Microsoft サブスクリプションを解約する
 
@@ -25,4 +25,4 @@ Xbox Live や Microsoft 365 などの Microsoft サブスクリプションま�
 
 **注意**: 払い戻し、返品、交換については、「[Microsoft Store から購入した商品を返品して交換または払い戻しを受ける](https://support.microsoft.com/help/10558)」を参照してください。 [注文履歴](https://account.microsoft.com/billing/orders/)では、Microsoft から注文したものを確認できます。 
 
-**注意**: 継続請求を無効にした後に請求が表示されている場合は、有効期限後に無効にした可能性があります。 [詳細情報](https://support.microsoft.com/help/10640) を参照してください。 
+**注**: 継続請求を無効にした後に請求が表示されている場合は、有効期限後に無効にした可能性があります。[詳細情報](https://support.microsoft.com/help/10640)。 

@@ -15,12 +15,12 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1b537e0fd2d222674954baddd5339e53fcbffc27bb1bf2636d93895137f320b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071661"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>サインインできない場合またはパスワードを忘れた場合
 

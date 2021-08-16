@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49680521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101451"
 ---
 # <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Microsoft Edge (Chromium) のプログレッシブ Web アプリ (PWA) に関する詳細
 
