@@ -16,12 +16,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: dcad436c5aa5793560a758d1b5806ecd412f09cd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8130918019ffdfdaaa3838afbb629b1b493c7de6ead7a6367a17482c7764a152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067756"
 ---
 # <a name="help-understanding-your-bill"></a>課金内容についての説明
 
