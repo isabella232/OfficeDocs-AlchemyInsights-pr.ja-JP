@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072561"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word がクラッシュする、または応答しない
 
-Word が頻繁にクラッシュする場合は、アドインの欠陥が原因である可能性があります。 次の手順を実行すると、Word アドインを無効にできます。
+Word で頻繁にクラッシュする場合、問題のあるアドインが原因になっている可能性があります。次の手順に従って Word アドインを無効にすることができます。
 
 1. **[ファイル]** > **[オプション]** > **[アドイン]** の順に移動します。
 2. **[管理]** リストで、**[COM アドイン]** を選択し、**[移動]** を選択します。

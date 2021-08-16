@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: 509cd022ab3addcc15f00a75cd3253376a8c87e4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cd7d14dedb0d9c3dd16df885a31b99e60d87aa19b43e8ca2b5f46e6ce7b5e035
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072813"
 ---
 # <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Microsoft 365 アプリの「サブスクリプションに問題が発生しました」メッセージの修正
 
