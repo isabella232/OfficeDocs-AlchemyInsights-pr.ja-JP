@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988264"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898861"
 ---
 # <a name="fix-anti-spam-policy"></a>迷惑メール対策ポリシーを修正する
 
-テナントのカスタムの迷惑メール対策ポリシーがこのメッセージに影響を与えました。 ポリシーを確認するには、次の操作を行います。
+スパム対策ポリシーの 1 つが、このメッセージに影響を与えました。 ポリシーを確認するには、次の手順を実行します。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動し、**[脅威の管理]** > **[ポリシー]** > [[スパム対策]](https://go.microsoft.com/fwlink/?linkid=2101518) の順に移動します。
-2. **[カスタム]** タブで、**[既定の迷惑メール フィルター ポリシー]** または作成したその他のカスタム ポリシーを選択し、**[ポリシーの編集]** を選択します。
-3. **[迷惑メールのプロパティ]** オプションを展開し、**[迷惑メールとしてマーク]** 設定を確認します。
+1. [ポリシー] Microsoft 365 Defenderで、[ポリシー] セクションの [&ルール脅威ポリシー&スパム対策ポリシーを電子メールで送信する] <https://security.microsoft.com/>  \>  \>  \> **に移動** します。
 
-迷惑メール フィルター ポリシーの構成の詳細については、「[カスタムの迷惑メール フィルター ポリシー設定を構成する](https://go.microsoft.com/fwlink/?linkid=2101054)」を参照してください。
+   **[スパム対策ポリシー]** ページに直接移動するには、<https://security.microsoft.com/antispam> を使用します。
+
+2. [スパム **対策ポリシー** ] ページで、ポリシーの名前をクリックしてポリシーを選択します **([** 種類]は [カスタムスパム対策ポリシー] または [**名前** はスパム対策受信ポリシー **(既定)]** です)。
+
+3. 表示される詳細フライアウトで、[メールの一括しきい値 **&** スパムプロパティ] セクションの [スパムしきい値とプロパティの編集] をクリックし、[アクションの編集] を選択し、[スパムとしてマーク] 設定を確認します。
+
+詳細については、「[EOP でのスパム対策ポリシーの構成](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)」を参照してください。

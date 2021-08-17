@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0e4c2607c5105d2811ed077dc269ae75f066efe1dd45bbb9936b2336a370a052
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976546"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889835"
 ---
 # <a name="manage-subscription-renewal"></a>サブスクリプションの更新を管理する
 
@@ -31,5 +31,5 @@ ms.locfileid: "53976546"
 3. **[定期請求を編集する]** ウィンドウで、**[オン]**、**[オン、1 回更新]**、または **[オフ]** を選択します。
 4. **[保存]** を選択します。
 
-詳細については、[「継続請求をオフまたはオンにする」](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。
+詳細については、[「継続請求をオフまたはオンにする」](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 52483de10f892cd77bceb11003f006818aa3f13df91fda09c3c3b665ca90ece6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 223f489e54c14fb7d72359f1c0acc72922f01b275991465219d52f592267d4ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899061"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>請求明細書が生成されるタイミング
 
@@ -31,4 +31,4 @@ ms.locfileid: "53970516"
 
 クレジットカードまたは銀行口座 (該当する場合)の支払い は、**請求日** 後の日付で決済されます。
   
-詳細については、[請求書を把握する](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)を参照してください。
+詳細については、[請求書を把握する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)を参照してください。

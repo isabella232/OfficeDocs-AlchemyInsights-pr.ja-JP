@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 33e344f6d6ea15139ff88bcce4885da62456d8ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 732e6ec9dc3750b9e05f1ad1e2bbfb10f9f8abdd8f407f1a6f82eca3a7f34872
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110001"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>OneNote で不足しているデータを解決する
 
@@ -25,7 +25,7 @@ ms.locfileid: "51798770"
 
 - Onedrive 上のノートブックが誤って削除された場合は、「[OneDrive で削除したファイルまたはフォルダーを復元する](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)」の手順に従ってノートブックを回復できます。
 - 既定では、削除された OneDrive 上のノートブックは 30 日以内であれば復元できます。「[削除された OneDrive を復元する](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)」の手順に従ってください。
-- OneNote で想定とは異なるアカウントが使用されている可能性があります。 個人用の Microsoft アカウントの他に職場または学校のアカウントをお持ちの場合は、すべてのノートブックを表示するには他のアカウントを追加する必要があります (「[OneNote でアカウントを追加する](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)」に記載される手順を参照してください)。
+- OneNote で想定とは異なるアカウントが使用されている可能性があります。個人用の Microsoft アカウントの他に職場または学校のアカウントをお持ちの場合は、すべてのノートブックを表示するには他のアカウントを追加する必要があります (「[OneNote でアカウントを追加する](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)」に記載される手順を参照してください)。
 
 **ノートブックにノートが表示されない**
 

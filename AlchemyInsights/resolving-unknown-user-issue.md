@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109929"
 ---
 # <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Teams チャットの「不明なユーザー」の問題の解決
 

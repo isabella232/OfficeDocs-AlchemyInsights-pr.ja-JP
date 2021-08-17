@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 88af5b4a2ef679307189c4eef5ada86965bc799e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898897"
 ---
 # <a name="change-your-billing-address"></a>請求先住所を変更する
 
@@ -35,7 +35,7 @@ ms.locfileid: "53685415"
 3. [**支払方法の詳細**] ページで、[**編集**] をクリックします。
 4. 請求先住所を更新し、**[保存]、[完了]** の順にクリックします。
 
-アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)」をご覧ください。
+アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)」をご覧ください。
 
 **課金アカウントの情報を変更する**
 

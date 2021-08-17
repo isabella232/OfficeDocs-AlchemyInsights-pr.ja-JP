@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: c97aa5dca553791b13297963a7953570bc5aa031a43ddf5234d5352f09c7eec6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f1a006b24fe77438bc0d54d72bec440128740ac417d7a9dfc93c90d8f0d49ad
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037613"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889507"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Microsoft Edge (Chromium) でトラッキング防止を使用する
 
@@ -28,6 +28,6 @@ ms.locfileid: "54037613"
 
 - **基本**。 カスタマイズした広告を受け取り、Web 上での追跡を気にしないユーザー向けで、制限が最も軽く設計されています。 基本機能により、フィンガープリンターやクリプトマイナーのような悪意のあるトラッカーに対してユーザーを保護します。
 - **バランス**。 規定のレベルで、Web で表示される広告を少なくしたいユーザー向けに設計されています。 バランスレベルは、ユーザーが関与しないサイトのトラッカーをブロックするだけでなく、互換性の問題のリスクを最小限に抑えるためです。
-- **厳格**。 制限が厳しく、プライバシーを最大限に高く保つためには Web サイトの互換性を損なっても構わないユーザー向けに設計されています。
+- **厳格**。制限が厳しく、プライバシーを最大限に高く保つためには Web サイトの互換性を損なっても構わないユーザー向けに設計されています。
 
-プライバシー設定を更新する場合は、Edge ブラウザーの **設定** > **プライバシー、検索、およびサービス** に移動します。 トラッキング防止設定の更新、トラッカーのブロック、閲覧データの消去など、データを安全に維持するためのその他のプライバシーおよびセキュリティ オプションの探索が可能です。 詳細については、「[Microsoft Edge (Chromium) でのトラッキング防止](/microsoft-edge/web-platform/tracking-prevention)」を参照してください。 
+プライバシー設定を更新する場合は、Edge ブラウザーの **設定** > **プライバシー、検索、およびサービス** に移動します。 トラッキング防止設定の更新、トラッカーのブロック、閲覧データの消去など、データを安全に維持するためのその他のプライバシーおよびセキュリティ オプションの探索が可能です。 詳細については、「[Microsoft Edge (Chromium) でのトラッキング防止](https://docs.microsoft.com/microsoft-edge/web-platform/tracking-prevention)」を参照してください。 

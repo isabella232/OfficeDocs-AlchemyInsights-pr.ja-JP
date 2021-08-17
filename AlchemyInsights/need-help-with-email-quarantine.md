@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077397"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889731"
 ---
 # <a name="need-help-with-email-quarantine"></a>メールの検疫についてサポートが必要な場合
 
-- **メール メッセージを検疫から表示および解放する** には、「[Office 365 セキュリティ/コンプライアンス センターの検疫ページ](https://protection.office.com/quarantine)」に移動します。詳細な手順は [こちら](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)です。
-- メッセージが **誤って検疫された (誤検知)** 場合は、[検疫] ページでメッセージが選択されていることを確認して、[分析のために Microsoft にメッセージの報告を行う] をクリックします。 
-- [検疫の理由] フィールドで、**メッセージが検疫された理由** を見つけます。
-- **検疫されたメールがなくなった場合** 検疫されたメールの中には、エンド ユーザーが解放できないものがあります。 これらは、信頼性の高いフィッシング詐欺メール、マルウェア、またはトランスポート操作として分類されたメッセージである可能性があります。 管理者は、[これらのメッセージを表示、解放、または削除](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)できます。 
+- **エンド ユーザーとして検疫からメール メッセージを表示および解放する** には、**[確認]** \> **[検疫]** または直接 <https://security.microsoft.com/quarantine> で Microsoft 365 Defender ポータルの **[検疫]** ページに移動します。 詳細な手順については、「[検疫されたメッセージの表示](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages)」を参照してください。
+- メッセージが **誤って検疫された (誤検知)** 場合は、リストからメッセージを選択し、**[分析のために Microsoft にメッセージの報告を行う]** をクリックします。
+- **[検疫の理由]** フィールドで、**メッセージが検疫された理由** を見つけます。
+- **検疫にメール メッセージがありませんか?** 検疫されたメールの中には、エンド ユーザーが表示または解放できないものがあります。 これらは、信頼性の高いフィッシング、マルウェア、またはメール フロー ルール (トランスポート ルールとも呼ばれます) によって分類されたメッセージである可能性があります。 管理者は、これらのメッセージを表示、解放、または削除できます。 詳細については、「[EOP の管理者として検疫済みのメッセージやファイルを管理する](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)」を参照してください。
