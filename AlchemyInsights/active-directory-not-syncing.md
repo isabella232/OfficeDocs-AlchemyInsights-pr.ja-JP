@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937106"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889223"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory が同期しない
 
@@ -29,8 +29,8 @@ ms.locfileid: "53937106"
 
 1. [AADConnect の最新バージョンをダウンロードします](https://go.microsoft.com/fwlink/?LinkId=615771)。
 
-2. [高速インストール手順に従います](/azure/active-directory/hybrid/how-to-connect-install-express)。
+2. [高速インストール手順に従います](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)。
 
-Azure AD Connect は、Windows Server 2012 以降にインストールする必要があります。 このサーバーはドメイン参加型である必要があり、ドメイン コントローラーまたはメンバー サーバーの場合があります。 Azure AD Connect の要件と前提条件の完全なリストについては、[Azure AD Connect の前提条件](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)をご覧ください。
+Azure AD Connect は、Windows Server 2012 以降にインストールする必要があります。 このサーバーはドメイン参加型である必要があり、ドメイン コントローラーまたはメンバー サーバーの場合があります。 Azure AD Connect の要件と前提条件の完全なリストについては、[Azure AD Connect の前提条件](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)をご覧ください。
 
-AADConnect サービス アカウントの詳細については、「[Azure AD Connect: アカウントとアクセス許可](/azure/active-directory/hybrid/reference-connect-accounts-permissions)」を参照してください。
+AADConnect サービス アカウントの詳細については、「[Azure AD Connect: アカウントとアクセス許可](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)」を参照してください。

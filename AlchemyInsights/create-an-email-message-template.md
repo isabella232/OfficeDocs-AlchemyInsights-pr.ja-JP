@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080571"
 ---
 # <a name="create-an-email-message-template"></a>メール メッセージのテンプレートを作成する
 

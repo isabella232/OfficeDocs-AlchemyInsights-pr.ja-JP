@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005383"
 - "9275"
-ms.openlocfilehash: 9927112608ae58751e43c1bf0592fbd4a7cf1a0e
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
-ms.translationtype: HT
+ms.openlocfilehash: 508e48fd0e46557de075f4752da017ab8cc326923a965350140e598f7f7cf557
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054911"
 ---
 # <a name="unable-to-sendreceive-email-tofrom-office-365-because-of-the-tls-10-and-tls-11-disablement"></a>TLS 1.0 および TLS 1.1 の無効化のため、Office 365 でメールを送受信できない
 

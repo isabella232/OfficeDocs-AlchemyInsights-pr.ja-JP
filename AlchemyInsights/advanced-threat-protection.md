@@ -11,23 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952218"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888963"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
 - 安全な添付ファイル、安全なリンク、およびフィッシング詐欺対策は、Microsoft Defender for Office 365 の一部です。 Enterprise E5、Education A5、Microsoft 365 Business Premium には、Microsoft Defender for Office 365 が含まれます。 それ以外のすべてのプランには、アドオンの Defender for Office 365 サブスクリプションが必要です。
 
-- Microsoft Defender for Office 365 でユーザーを保護するには、適切なライセンスを割り当てる必要があります。 ユーザーに対してライセンスを一括適用する方法については、[「ユーザーの追加とライセンスの割り当て を同時に行う」](/microsoft-365/admin/add-users/add-users)を参照してください。
+- Microsoft Defender for Office 365 でユーザーを保護するには、適切なライセンスを割り当てる必要があります。 ユーザーに対してライセンスを一括適用する方法については、[「ユーザーの追加とライセンスの割り当て を同時に行う」](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)を参照してください。
 
-- グローバル管理者またはセキュリティ管理者は、セキュリティ/コンプライアンス センターの **[脅威の管理]** \> **[ポリシー]** で Microsoft Defender for Office 365 の機能にアクセスできます。
+- グローバル管理者またはセキュリティ管理者は、Microsoft Defender for Office 365 の機能に、**[メールと共同作業] セクション**、\>**[ポリシーとルール]**、\>**[脅威ポリシー]** の Microsoft 365 Defender ポータルでアクセスできます。
 
-- 安全な添付ファイル ポリシーと安全なリンク ポリシーは、組織全体や特定のドメインを対象にすることもできるし、それよりも小規模なユーザーのグループを対象にすることもできます。
+- 安全な添付ファイル ポリシーと安全なリンク ポリシーは、特定のドメイン、グループ メンバー、または個人ユーザーにスコープすることができます。 ドメイン、グループ メンバーシップ、または個人ユーザーに基づいて、安全な添付ファイルおよび安全なリンク ポリシーに例外を指定することもできます。
 
-- 既定の安全な添付ファイル ポリシーはありません。 [ポリシーを作成](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)して、ユーザーに適用する必要があります。
+- メール メッセージを保護する既定の安全な添付ファイル ポリシーはありません。 メールの安全な添付ファイルを保護するために、[ポリシーを作成する](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)必要があります。
 
-- 組織のすべてのユーザーに適用される既定の安全なリンク ポリシーがあります。 このポリシーを編集したり、カスタム ポリシーを作成したりするには、[「Microsoft Defender for Office 365 で安全なリンク ポリシーを設定する」](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)をご参照ください。
+  SharePoint、OneDrive、Microsoft Teams の安全な添付ファイルは、グローバルに有効または無効にすることができ、安全な添付ファイル ポリシーは必要ありません。 詳細については、「[SharePoint、OneDrive、Microsoft Teams の安全な添付ファイル](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)」を参照してください。
+
+- メール メッセージまたは Microsoft Teams を保護する既定の安全なリンク ポリシーはありません。 メールおよび Teams の安全なリンクを保護するために、[ポリシーを作成する](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)必要があります。
+
+  Office 365 アプリ向けの安全なリンクの保護は、Microsoft Defender for Office 365 のライセンスを付与された組織内のすべてのユーザーに適用され、そのユーザーがアクティブな安全なリンク ポリシーに含まれているかどうかは関係ありません。 詳細については、「[Office 365 アプリ向けの安全なリンク設定](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps)」を参照してください。

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 49a228c80881384e995a493f5989ddc89a761e3285de6065554d611e94c59a2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888895"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender for Office 365
 
@@ -33,4 +33,4 @@ Microsoft Defender for Office 365 は、Microsoft 365 管理センターでユ�
 5. 割り当てまたは削除するには、[**アプリとサービスをオンまたはオフにする**] をクリックします。
 6. **[割り当て]**、**[閉じる]** の順にクリックします。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

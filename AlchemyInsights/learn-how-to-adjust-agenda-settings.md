@@ -14,12 +14,12 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054119"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>予定一覧の設定を調整する方法の説明
 

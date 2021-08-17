@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2aba4611863c8d3617fa682219c298ed00949739f5425ccd2b8f6bba18b28a1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108345"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Teams の電話会議を設定する
 
@@ -25,7 +25,7 @@ ms.locfileid: "51828481"
 
 Microsoft Teams で電話会議を有効にしたり、設定したりする方法について、サポートをご希望ですか?
 
-このユーザーを最近作成しましたか?  そうであれば、設定が有効になるまで、2 から 24 時間待つ必要があります。
+このユーザーを最近作成しましたか? そうであれば、設定が有効になるまで、2 から 24 時間待つ必要があります。
 
 そのユーザーに電話会議のライセンスが与えられ、既定の有料電話番号があることを確認するには、次のようにします:
 
