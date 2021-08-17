@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034939"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896080"
 ---
 # <a name="fix-tenant-policy-action-override"></a>テナント ポリシーを修正 (アクションの上書き)
 
-テナントの迷惑メール対策ポリシーがこのメッセージに影響を与えました。 ポリシーを確認するには、次の操作を行います。
+スパム対策ポリシーの 1 つが、このメッセージに影響を与えました。 ポリシーを確認するには、次の手順を実行します。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動し、**[脅威の管理]** > **[ポリシー]** > [[スパム対策]](https://go.microsoft.com/fwlink/?linkid=2101518) の順に移動します。
-2. **ポリシー ソース** で以下が表示されているかどうかを確認します:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC message**
+1. [ポリシー] Microsoft 365 Defenderで、[ポリシー] セクションの [&ルール脅威ポリシー&スパム対策ポリシーを電子メールで送信する] <https://security.microsoft.com/>  \>  \>  \> **に移動** します。
 
-    その場合は、**[カスタム]** で、メッセージに影響を与えたポリシーの設定を確認します。 すべての Exchange Online Protection のユーザーに適用された **標準設定** によってメッセージが影響された可能性があります。
+   **[スパム対策ポリシー]** ページに直接移動するには、<https://security.microsoft.com/antispam> を使用します。
 
-迷惑メール フィルター ポリシーの構成の詳細については、「[迷惑メール フィルター ポリシーを構成する](https://go.microsoft.com/fwlink/?linkid=2101431)」を参照してください。
+2. [スパム **対策ポリシー** ] ページで、ポリシーの名前をクリックしてポリシーを選択します **([** 種類]は [カスタムスパム対策ポリシー] または [**名前** はスパム対策受信ポリシー **(既定)]** です)。
+3. 表示される詳細フライアウトで、[アクション] セクション **の [アクションの編集** ] **を選択** します。
+4. [**メッセージアクション]** セクションで、スパム、高信頼スパム、フィッシング、および高信頼フィッシングの評決を確認して、次の値が選択されている場合を確認します。 
+   - **X ヘッダーの追加**
+   - **件名の先頭にテキストを追加する**
+   - **メッセージを電子メール アドレスにリダイレクトする**
+   - **メッセージを削除する**
+   - **アクションなし**
+
+   すべての Exchange Online Protection のユーザーに適用された **標準設定** によってメッセージが影響された可能性があります。
+
+詳細については、「[EOP でのスパム対策ポリシーの構成](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)」を参照してください。

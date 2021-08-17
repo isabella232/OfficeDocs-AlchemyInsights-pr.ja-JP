@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087429"
 ---
 # <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>モバイル デバイスでの Office アプリの機能の Microsoft 365 サブスクリプション ベースの可用性に関する詳細
 

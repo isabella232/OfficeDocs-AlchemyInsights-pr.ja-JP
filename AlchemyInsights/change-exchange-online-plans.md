@@ -11,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: d6e44d4ee5afeb57c023663b39175a95c75f5b59
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: af2fcebc3da76f0b81b441e55901cf73a0f03c1db86b23014332673d77cde88e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685451"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895564"
 ---
 # <a name="change-exchange-online-plans"></a>Exchange Online のプランを変更する
 

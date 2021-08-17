@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059601"
 ---
 # <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Teams でロビーの設定と参加レベルを制御する
 

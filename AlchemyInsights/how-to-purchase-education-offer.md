@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 3f75c3158a0dba8f916357974782490ddec6a1edb4432185ee50c93e71d47034
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895832"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>教育機関向けプランの購入方法
 
@@ -34,4 +34,4 @@ Office 365 Education の利用が承認されました。購入するには、�
 
 試用版サブスクリプションとは別のサブスクリプションを購入する場合は、 **[課金]** \> [購入サービス](https://go.microsoft.com/fwlink/p/?linkid=868433) ページの順に移動します。 **[教育機関向けプラン]** で、使用するプランを選択します。
 
-詳細については、「[無料試用版からサブスクリプションを購入する](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)」を参照してください。
+詳細については、「[無料試用版からサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)」を参照してください。

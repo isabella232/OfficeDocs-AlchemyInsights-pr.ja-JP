@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895892"
 ---
 # <a name="expired-subscription"></a>期限切れのサブスクリプション
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029737"
 3. **[このサブスクリプションを再アクティブ化する]** ウィンドウで、ドロップダウン リストから支払い方法を選択するか、**[支払い方法を追加する]** を選択します。
 4. **[保存]** を選択します。
 
-詳細については、「[サブスクリプションを再度有効にする](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
 
 **新規購入**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029737"
 3. 必要なライセンス数を入力して、月払いまたは年払いのどちらにするかを選択します。 現在ライセンスを持っていないすべてのユーザーにライセンスを自動的に割り当てるかどうかを選択します。 次に、[**今すぐ支払う**] を選択します。
 4. 残りの手順に従って、チェック アウトを完了します。
 
-詳細については、「[別のサブスクリプションを購入する](/microsoft-365/commerce/buy-another-subscription)」をご覧ください。
+詳細については、「[別のサブスクリプションを購入する](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)」をご覧ください。

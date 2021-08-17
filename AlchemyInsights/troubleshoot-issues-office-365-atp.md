@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 2a770796fe535725e3bfbbd28ac759eca0c61e3d9c9be94465af2d0988bff7c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890307"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の問題のトラブルシューティング
 
@@ -29,4 +29,4 @@ ms.locfileid: "53939178"
     4. **組織内で送信されたメッセージに安全なリンクを適用する** を選択します。
     5. ポリシーを保存します。変更が適用されるまでに最長で 30 分かかる場合があります。
 
-- Microsoft Defender for Office 365 に関するその他のヘルプ情報を入手するには、「[Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。
+- Microsoft Defender for Office 365 に関するその他のヘルプ情報を入手するには、「[Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)」を参照してください。

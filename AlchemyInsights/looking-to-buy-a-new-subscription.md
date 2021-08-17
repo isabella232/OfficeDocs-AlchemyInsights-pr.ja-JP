@@ -4,20 +4,20 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ca35096b112b55227edca68384e66b58b87bdae9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895452"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>新しいサブスクリプションを購入する場合
 
@@ -33,8 +33,8 @@ ms.locfileid: "53680663"
 
  **その他のリソース:** 
   
-- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](/microsoft-365/admin/add-users/add-users)
+- [一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [サブスクリプションをキャンセルする](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- サブスクリプションの切り替えに関心がある場合は、「[別の一般法人向け Microsoft 365 プランに切り替える](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)」を参照してください。
+- サブスクリプションの切り替えに関心がある場合は、「[別の一般法人向け Microsoft 365 プランに切り替える](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)」を参照してください。

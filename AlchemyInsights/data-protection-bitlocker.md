@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118599"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Intune で Bitlocker 暗号化を有効にする
 
@@ -42,8 +42,7 @@ A: Intune Endpoint Protectionポリシーの設定は、[Bitlocker CSP](https://
 Q: エンド ユーザーの操作を必要とせずに、デバイスで Bitlocker を有効にするにはどうすればよいですか?<br>
 A: 必要な前提条件が満たされている限り、Intune を使用して Bitlocker の "Silent Encryption" を有効にできます。 デバイス要件およびサイレント暗号化を有効にするためのポリシー設定の例についての詳細は、次のドキュメント: 「[Bitlocker 暗号化を静かに有効化する](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)」をご参照ください。 <br><br>
 
-Q: デバイスが、暗号化方法と暗号強度 (XTS-AES-128) に対する OS の既定の設定を使用している Bitlocker で暗号化されている場合、新しい設定を使用してドライブの再暗号化を自動でトリガーできる、設定の異なるポリシーを適用することはできますか?<br>
-A: いいえ。 新しい暗号の設定を適用するには、ドライブの暗号化を最初に解除する必要があります。<br><br>
+Q: デバイスが、暗号化方法と暗号強度 (XTS-AES-128) に対する OS の既定の設定を使用している Bitlocker で暗号化されている場合、新しい設定を使用してドライブの再暗号化を自動でトリガーできる、設定の異なるポリシーを適用することはできますか?<br>A: いいえ。新しい暗号の設定を適用するには、ドライブの暗号化を最初に解除する必要があります。<br><br>
 **注**: OOBE 中に行われる Autopilot の自動暗号化を使用してデバイスが登録されている場合は、OS の既定値の代わりに使用されるポリシー ベースの設定を許可する Intune ポリシーが評価されるまで、トリガーされません。
  
 Q: Intune ポリシーを適用した結果としてデバイスが暗号化されている場合、そのポリシーが削除されれば、デバイスの暗号は解除されますか?<br>
