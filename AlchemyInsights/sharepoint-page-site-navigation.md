@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ba34694f0551ade14efd902cfbefc4a7f7d5a62b8d2ea4dbc70424efd772798
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107688"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>SharePoint サイトでのサイトとページのナビゲーション
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952506"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883056"
 ---
 # <a name="admin-password-reset"></a>管理者パスワードのリセット
 
@@ -29,4 +29,4 @@ ms.locfileid: "53952506"
 
 - 別の管理者がパスワードをリセットするには、**[ユーザー] > [[アクティブ ユーザー]](https://portal.office.com/adminportal/home#/users)** の順に移動し、アカウントを選択して、キー アイコンをクリックします。  または、資格情報がキャッシュされている場合は、[新しい管理者アカウントを作成](https://portal.office.com/adminportal/home#/users)して、そのアカウントでログオンしてから、自分の管理者パスワードを再設定できます。
 
-その他のパスワード リセットのシナリオについては、「[Office 365 Business のパスワードをリセットする](/microsoft-365/admin/add-users/reset-passwords)」を参照するか、サポート ケースを開いてお問い合わせください。
+その他のパスワード リセットのシナリオについては、「[Office 365 Business のパスワードをリセットする](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)」を参照するか、サポート ケースを開いてお問い合わせください。

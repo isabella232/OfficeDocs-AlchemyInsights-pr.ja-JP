@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070365"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882572"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 で安全なリンク ポリシーを設定する
 
-Microsoft Defender for Office 365 の安全なリンクに関する既定のポリシーは既に作成されています。 構成を変更するには、次の方法を実行します。
+1. [ポリシー] Microsoft 365 Defenderで、[ポリシー] セクション&の [&脅威ポリシーとリンクセーフメールを送信する] <https://security.microsoft.com/>  \>  \>  \> **に移動** します。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-2. **[脅威の管理]** > **[ポリシー]** を選択。 **[ポリシー ]** ページで、[[Microsoft Defender for Office 365 安全なリンクの設定] を選択](https://go.microsoft.com/fwlink/?linkid=2101058)。
-3. **[組織全体に適用されるポリシー]** セクションで、**[既定]**、**[編集]** の順に選択します。
-4. **[以下の URL をブロックする]** セクションで、組織内のユーザーのアクセスを防止する 1 つ以上の URL を指定します。 詳細については、[「[安全なリンク] の [次の URL をブロックする] ](https://go.microsoft.com/fwlink/?linkid=2092123)のリストを参照してください。
-5. **[メールを除くコンテンツに適用される設定**] セクションで、使用するオプションをオン (またはオフ) にします。 (すべてのオプションをオンにすることをお勧めします)。
-6. **[保存]** を選択します。
+   [リンク] ページに直接 **移動セーフを** 使用します <https://security.microsoft.com/safelinksv2> 。
+
+2. [リンク **セーフ] ページ** で、次の手順を実行します。
+   - 新しいポリシーを作成するには、**[+ 作成]** を選択します。 ポリシー設定の定義に役立つウィザードが起動します。
+   - 既存のポリシーを編集するには、ポリシーの名前をクリックしてポリシーを選択します。 表示される詳細フライアウトで、構成する設定を含むセクションで [編集] を選択します。
+   - セーフ リンク保護からの URL をブロックしたり、サポートされている Office 365 アプリの セーフ リンクの設定を構成したりするには、[グローバル設定] をクリックし、必要な設定を構成し、[保存] をクリック **します**。
+
+3. 設定を確認した後、[送信 ] **(新規** ) または [保存 (編集]) **を選択** します。
+
+詳細については、次の記事を参照してください。
+
+- [Microsoft Defender セーフのリンク ポリシーを設定Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Microsoft Defender の [リンク] セーフのグローバル設定を構成するOffice 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
