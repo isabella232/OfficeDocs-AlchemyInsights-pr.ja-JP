@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 04f745987f9136412d3b0183520681d1e724faba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f5b2eff0b8d0ec5f58aa71d25efe3a69f146d987a0a55bab59c5076a1ba7cea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040980"
 ---
 # <a name="read-receipts"></a>開封確認
 

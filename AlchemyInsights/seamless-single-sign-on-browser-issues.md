@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
-ms.translationtype: HT
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50696474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074289"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>シームレス シングル サインオン (SSO) ブラウザーの問題のトラブルシューティング
 

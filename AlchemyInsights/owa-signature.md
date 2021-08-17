@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: dfce7bfb522f565dff3e1a63b024efbc0afb88c2
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 550b1025213ae54c17aed9ae5829896d2c83a6196b3251bbd80a36e14e790b45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040943"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Outlook on the web でメール署名を作成する
 
