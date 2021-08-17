@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 6593618d5dafb816aabb9faea51320544a8b4ae24176c4f32e1290acd0475b33
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892132"
 ---
 # <a name="invoice-and-payment-information"></a>請求書および支払いの情報
 
 **支払い**
 
-Microsoft 365 for business のサブスクリプションを Microsoft から直接購入する場合、クレジットカードまたはデビットカードでお支払いいただけます。  国/地域によっては、銀行口座で支払うこともできます。  これらのお支払い方法の管理とトラブルシューティングの方法については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」をご覧ください。 クレジットカードが拒否され、支払い情報が更新されたときの問題を解決することができます。
+Microsoft 365 for business のサブスクリプションを Microsoft から直接購入する場合、クレジットカードまたはデビットカードでお支払いいただけます。  国/地域によっては、銀行口座で支払うこともできます。  これらのお支払い方法の管理とトラブルシューティングの方法については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」をご覧ください。 クレジットカードが拒否され、支払い情報が更新されたときの問題を解決することができます。
 
 **請求書/請求書**
 
@@ -37,4 +37,4 @@ Microsoft 365 for business のサブスクリプションを Microsoft から直
 
 請求書は、購入時に選択した請求頻度に応じて、毎月または毎年作成されます。  毎年支払いがあった場合、サブスクリプションのライセンスを追加または削除するときに、課金期間中に課金されることがあります。
 
-- 詳細については、「[Microsoft 365 for](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)business の請求書について」を参照してください。
+- 詳細については、「[Microsoft 365 for](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)business の請求書について」を参照してください。
