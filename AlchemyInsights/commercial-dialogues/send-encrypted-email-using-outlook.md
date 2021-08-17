@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081544"
 ---
 # <a name="send-encrypted-email-using-outlook"></a>Outlook を使用して暗号化されたメールを送信する
 

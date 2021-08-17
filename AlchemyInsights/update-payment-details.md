@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: f7087eaf78cf6a08e5e665f7eba25d617a43a61fb04bc585b5017745fb2f8ee6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007363"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892432"
 ---
 # <a name="update-credit-card-information"></a>クレジット カード情報を更新する
 
@@ -44,4 +44,4 @@ ms.locfileid: "54007363"
 
 ページの読み込みで問題が発生している場合は、別のブラウザーで Web ページを開いてみるか、プライベート ブラウザー ウィンドウ (Microsoft Edge の InPrivate ウィンドウまたは Google Chrome のシークレット ウィンドウなど) でページを開いてみてください。 
 
-詳細については、「[支払い方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+詳細については、「[支払い方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。

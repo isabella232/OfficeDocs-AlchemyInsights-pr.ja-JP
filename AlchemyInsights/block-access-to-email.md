@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060033"
 ---
 # <a name="block-access-to-email"></a>メールへのアクセスをブロックする
 

@@ -13,12 +13,12 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117021"
 ---
 # <a name="focused-inbox-in-outlook"></a>Outlook の優先受信トレイ
 

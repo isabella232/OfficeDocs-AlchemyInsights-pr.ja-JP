@@ -13,12 +13,12 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117057"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Outlook Mobile の優先受信トレイ
 

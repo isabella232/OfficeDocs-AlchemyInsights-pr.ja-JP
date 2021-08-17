@@ -15,12 +15,12 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091608"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>予定表を共有する場合のポリシー エラー
 

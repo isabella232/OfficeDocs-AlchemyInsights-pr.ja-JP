@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, shegu
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 36419ce92877f0b0bedcb08e2f7cbd3da66193b9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892200"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>サブスクリプションのライセンスを購入または削除する
 
@@ -32,10 +32,10 @@ ms.locfileid: "53685271"
 4. ライセンスを購入または削除するには、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。たとえば、100 個のライセンスがあり、さらに 25 個を追加する場合は、125 と入力します。ライセンスを 25 個削除する場合は、75 と入力します。
 5. **[保存]** を選択します。
 
-ライセンスを割り当てる方法の詳細については、「[ユーザーにライセンスを割り当てる](/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
+ライセンスを割り当てる方法の詳細については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
 
 **参照資料**
   
-- 「[ライセンスの購入または削除](/microsoft-365/commerce/licenses/buy-licenses)」
-- [一般法人向け Microsoft 365 をキャンセルする](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [一般法人向け Microsoft 365 サブスクリプションを試用する/購入する](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- 「[ライセンスの購入または削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」
+- [一般法人向け Microsoft 365 をキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [一般法人向け Microsoft 365 サブスクリプションを試用する/購入する](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

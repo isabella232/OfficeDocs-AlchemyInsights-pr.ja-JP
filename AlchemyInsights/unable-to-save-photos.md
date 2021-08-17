@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6583ea94b1169249571f57051c569ad3371edd72
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
-ms.translationtype: HT
+ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52897515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091715"
 ---
 # <a name="unable-to-save-user-photos"></a>ユーザーの写真を保存できません
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: a06403c1c5c576ba5ad259ccb95a8d3808943ff1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8d0b3f225e4da1809f556b13c86a3a861104db4a448e68e95a9c2b2822217cf0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083559"
 ---
 # <a name="visio-license-management"></a>Visio ライセンス管理
 

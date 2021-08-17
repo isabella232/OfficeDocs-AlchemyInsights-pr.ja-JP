@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966798"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313432"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 でフィッシング詐欺対策ポリシーを設定する
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-2. **[脅威の管理]** > **[ポリシー]** の順に選択します。 **[ポリシー ]** ページで、[[Microsoft Defender for Office 365 フィッシング詐欺対策]](https://go.microsoft.com/fwlink/?linkid=2101369) を選択します。
-3. **[フィッシング詐欺対策]** ページで、次のいずれかの操作を行います。
-    1. 新しいポリシーを作成するには、**[+ 作成]** を選択します。
-    1. 既存のポリシーを編集するには、**[フィッシング詐欺対策]** ページに表示されている一覧からポリシー名を選択します。 表示されたページで、変更を行う設定の横にある **[編集]** を選択します。 フィッシング詐欺対策ポリシーの定義をサポートするウィザードが起動します。
-4. 新しいポリシーを作成している場合には、ポリシーの名前、説明、設定を指定します。
-5. 設定を確認したら、必要に応じて **[このポリシーを作成する]** または **[保存する]** を選択します。
+1. [ポリシー] Microsoft 365 Defenderで、[ポリシー] セクションの&ルール脅威&フィッシング対策ポリシーにメールを送信する」 に <https://security.microsoft.com/>  \>  \>  \> **移動** します。
+
+   フィッシング対策ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/antiphishing> 。
+
+2. [フィッシング **対策] ページで** 、次のいずれかの手順を実行します。
+   - 新しいポリシーを作成するには、**[+ 作成]** を選択します。 ポリシー設定の定義に役立つウィザードが起動します。
+   - 既存のポリシーを編集するには、ポリシーの名前をクリックしてポリシーを選択します。 表示される詳細フライアウトで、構成する設定を含むセクションで [編集] を選択します。
+
+3. 設定を確認した後、[送信 ] **(新規** ) または [保存 (編集]) **を選択** します。
+
+詳細については[、「Microsoft Defender でフィッシング対策ポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)を構成する」を参照Office 365。
