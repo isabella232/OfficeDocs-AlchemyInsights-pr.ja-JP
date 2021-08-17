@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105825"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>フロー認証エラーのトラブルシューティング
 

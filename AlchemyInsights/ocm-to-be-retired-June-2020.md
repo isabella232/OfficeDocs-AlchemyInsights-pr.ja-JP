@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d4c1507c810f2368d9cc52909d9d9b67e036e9d199603b46a4e992a41df898e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077079"
 ---
 # <a name="ocm-to-be-retired-june-2020"></a>OCM は 2020 年 6 月に廃止予定
 

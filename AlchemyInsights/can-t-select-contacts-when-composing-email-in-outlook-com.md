@@ -15,12 +15,12 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045965"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>メールを作成する場合に連絡先を選択できない
 

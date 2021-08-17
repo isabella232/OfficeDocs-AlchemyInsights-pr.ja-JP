@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9375"
-ms.openlocfilehash: e4ddde6176d9ab021b93e23b3cb363e10b1c1048
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
-ms.translationtype: HT
+ms.openlocfilehash: 5880ee37a2fcc98b34231cc9960fb3f87fa184b07bd81ccd37d0ea5a78170af0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105783"
 ---
 # <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>OIDC ベースのシームレス シングル サインオン (SSO) の問題のトラブルシューティング
 

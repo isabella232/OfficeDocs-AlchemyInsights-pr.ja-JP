@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046109"
 ---
 # <a name="calendar-permissions"></a>予定表のアクセス許可
 

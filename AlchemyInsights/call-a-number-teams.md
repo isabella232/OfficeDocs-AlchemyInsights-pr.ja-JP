@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046037"
 ---
 # <a name="call-a-phone-number-in-teams"></a>Teamsで電話番号に電話をかける
 
