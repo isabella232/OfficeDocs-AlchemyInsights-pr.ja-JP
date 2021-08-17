@@ -14,12 +14,12 @@ ms.custom:
 - "7103"
 - "8296"
 - "9004617"
-ms.openlocfilehash: d9ad762c4c5c50990e94212c9bd00d8a5e8e3cf5
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 014f152461fcba169fab80eb7ebaddfe31fcc8dcdc69f945e7ca318bd90a12a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075441"
 ---
 # <a name="open-microsoft-edge-devtools"></a>Microsoft Edge DevTools を開く
 
