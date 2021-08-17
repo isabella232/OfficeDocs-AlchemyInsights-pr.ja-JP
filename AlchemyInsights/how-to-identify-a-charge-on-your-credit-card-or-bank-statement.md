@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -17,12 +17,12 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 404bc420898e20d313125a86f89a2e7f100a727feee7640211900701cd558f04
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82e14310556b46cec30c8ec861992a36930b6c2d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029017"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320842"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>クレジットカードまたは銀行口座取引明細書で料金請求を確認する方法
 

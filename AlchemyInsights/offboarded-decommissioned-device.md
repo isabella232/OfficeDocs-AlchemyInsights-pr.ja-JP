@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076657"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892008"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>オフボードまたは廃止されたデバイスをデバイス インベントリから削除する場合の問題点
 
@@ -32,11 +32,11 @@ Microsoft Defender for Endpoint では現在、オフボードまたは使用を
 
 詳細については、以下を参照してください。
 
-[Microsoft Defender for Endpoint サービスのオフボード デバイス](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Microsoft Defender for Endpoint サービスのオフボード デバイス](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[脅威と脆弱性の管理における露出スコア](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[脅威と脆弱性の管理における露出スコア](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Microsoft Defender for Endpoint で問題が発生したセンサーの修正](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Microsoft Defender for Endpoint で問題が発生したセンサーの修正](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [タグの効果的な使用方法 (パート 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

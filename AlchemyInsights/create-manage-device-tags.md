@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069537"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898205"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>デバイス タグまたはグループの作成と管理
 
-デバイスにタグを追加して、論理グループ アフィリエーションを作成します。 デバイス タグはネットワークの適切なマッピングをサポートし、さまざまなタグを添付してコンテキストをキャプチャし、インシデントの一部として動的リストを作成できるようにします。 タグは、デバイス リスト ビューでフィルターとして使用したり、デバイスをグループ化するために使用できます。 デバイスのグループ化の詳細については、「[デバイス タグの作成と管理](/microsoft-365/security/defender-endpoint/machine-tags)」を参照してください。
+デバイスにタグを追加して、論理グループ アフィリエーションを作成します。 デバイス タグはネットワークの適切なマッピングをサポートし、さまざまなタグを添付してコンテキストをキャプチャし、インシデントの一部として動的リストを作成できるようにします。 タグは、デバイス リスト ビューでフィルターとして使用したり、デバイスをグループ化するために使用できます。 デバイスのグループ化の詳細については、「[デバイス タグの作成と管理](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags)」を参照してください。
 
 次の方法でデバイスにタグを追加できます。
 
@@ -32,7 +32,7 @@ ms.locfileid: "54069537"
  
 **注:** タグがデバイスに追加されてから、デバイス リストおよびデバイス ページにタグが表示されるまでには、遅延が発生する可能性があります。
 
-API を使用してデバイス タグを追加するには、「[デバイス タグ API の追加または削除](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags)」を参照してください。
+API を使用してデバイス タグを追加するには、「[デバイス タグ API の追加または削除](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags)」を参照してください。
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>ポータルを使用してデバイス タグを追加および管理する
 
@@ -51,4 +51,4 @@ API を使用してデバイス タグを追加するには、「[デバイス �
 
 タグがデバイス ビューに追加され、デバイス リスト ビューに反映されます。 その後、[タグ] フィルターを使用して、関連するデバイスのリストを表示できます。
 
-詳細については、「[デバイス タグの作成と管理](/microsoft-365/security/defender-endpoint/machine-tags)」を参照してください。
+詳細については、「[デバイス タグの作成と管理](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags)」を参照してください。

@@ -13,12 +13,12 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083235"
 ---
 # <a name="winsock-error-10061"></a>Winsock エラー 10061
 
@@ -32,4 +32,4 @@ ms.locfileid: "47698867"
 
 - コネクタでスマート ホストとターゲット サーバーの設定を確認します。
 
-Microsoft 365 はこの方法で*着信*接続をブロックしないことに注意してください。
+Microsoft 365 はこの方法で *着信* 接続をブロックしないことに注意してください。

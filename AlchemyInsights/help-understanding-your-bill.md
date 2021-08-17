@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 8130918019ffdfdaaa3838afbb629b1b493c7de6ead7a6367a17482c7764a152
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54067756"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320948"
 ---
 # <a name="help-understanding-your-bill"></a>課金内容についての説明
 
@@ -35,4 +35,4 @@ ms.locfileid: "54067756"
 
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
 
-請求書の詳細については、[請求書](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)に関するページを参照してください。
+請求書の詳細については、[請求書](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)に関するページを参照してください。

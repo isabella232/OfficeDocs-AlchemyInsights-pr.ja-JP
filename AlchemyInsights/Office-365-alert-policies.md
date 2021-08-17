@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918364"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891684"
 ---
 # <a name="alert-policies"></a>アラート ポリシー
 
-Microsoft 365 セキュリティ/コンプライアンス センターは、Office 365 Enterprise または Office 365 US Government E1/G1、E3/G3、E5/G5 サブスクリプションを持つ組織に対してアラートをトリガーする[既定のアラート ポリシー](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)を提供します。そのため、管理者は Office365Alerts@microsoft.com から送信された "低重要度アラート: "アラート ポリシーの名前" などの件名でのアラート メール通知を受信する場合があります。アラート通知は、ユーザーによる以下のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。
+Microsoft 365 には、Microsoft 365 Enterprise または Microsoft 365 US Government E1/G1、E3/G3、E5/G5 サブスクリプションを持つ組織に対してアラートをトリガーする [既定のアラート ポリシー](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)が含まれます。そのため、管理者は Office365Alerts@microsoft.com から送信された "低重要度アラート: *アラート ポリシーの名前*" などの件名でのアラート メール通知を受信する場合があります。アラート通知は、ユーザーによる以下のような一般的なアクティビティに対してアラートがトリガーされたときに送信されます。
 
 - メールを転送する受信トレイのルールを作成する。
 - アクセス許可をメールボックスに割り当てる。
@@ -31,9 +31,10 @@ Microsoft 365 セキュリティ/コンプライアンス センターは、Offi
 
 アラートを確認して対応するには、次の操作を実行します。
 
-1. [セキュリティ/コンプライアンス センター](https://protection.office.com)に移動して、サインインします。
-2. [**アラート**] >  [**アラートの表示**] の順にクリックします。
-3. アラートをクリックして、アラートに関する情報を含むポップアップ ページを表示させます。
+1. 次のいずれかの手順を実行します。
+   - <https://compliance.microsoft.com> の Microsoft 365 コンプライアンス センターで、**[アラート]** に移動します。 または、**[アラート]** ページに直接移動するには、<https://compliance.microsoft.com/compliancealerts> を使用します。
+   - <https://security.microsoft.com> の Microsoft 365 Defender ポータルで、**[インシデントとアラート]** \> **[アラート]** の順に移動します。 または、**[アラート]** ページに直接移動するには、<https://security.microsoft.com/alerts> を使用します。
+2. アラートをクリックして、アラートに関する情報を含むポップアップ ページを表示させます。
 
 アラートに対して、[不審な受信トレイのルールの削除](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)などの操作を実行することができます。または、単にアラートのポップアップ ページで **[解決]** をクリックして、アラートを閉じることもできます。
 
@@ -45,4 +46,4 @@ Microsoft 365 セキュリティ/コンプライアンス センターは、Offi
 - アカウントのセキュリティについての詳細を確認する
 - 自分自身を再認証する
 
-このようなメール メッセージを受信した場合、Microsoft から送信されたものではありませんので、フィッシング詐欺を疑ってください。そうしたメールを受け取ったら、[Microsoft に報告してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)。
+これらの種類の要求を含むメール メッセージを受信した場合、それは Microsoft から送信されたものではないため、フィッシング詐欺と見なす必要があります。 これらの種類の要求を含むメッセージを受信した場合は、[そのメッセージを Microsoft に報告してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)。

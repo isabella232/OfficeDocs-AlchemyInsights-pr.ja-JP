@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034975"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898249"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Microsoft Defender for Office365 の一般的な問題を修正する
 
 Microsoft Defender for Office365 の一般的な問題に対するいくつかの解決策を次に示します。
 
-- **メッセージの遅延:** メッセージの配信が遅れる問題が発生している場合は、安全な添付ファイル ポリシー内で **動的配信** オプションを使用します。 詳細については、「[安全な添付ファイル ポリシー内の動的配信](https://go.microsoft.com/fwlink/?linkid=2094106)」を参照してください。
-- **誤検知または誤検知の結果を報告する:** 次のリンクを使用して Microsoft にメッセージを報告してください: [Microsoft Defender Response Portal](https://go.microsoft.com/fwlink/?linkid=2092835)。
-- **安全なリンクの保護を有効にする:**
-    1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)にログインします。
-    2. **[脅威管理]** > **[ポリシー]** > **[安全なリンク]** の順に移動します。
-    3. **[特定の受信者に適用されるポリシー]** で、構成されたポリシーを開きます。
-    4. **[設定]** の下側にある **[組織内で送信されるメッセージに安全なリンクを適用する]** を選択します。
+- **メッセージの遅延**:
+
+  メール配信の遅延は、メッセージの添付ファイルセーフによって発生する可能性があります。 詳細については、「添付ファイルポリシー[設定セーフを参照してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)。
+
+- **誤検知または負の結果を報告する**:
+
+  詳細については、「[メッセージとファイルを Microsoft に報告する](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)」を参照してください。
+
+- **[リンクセーフを有効にする**:
+
+  1. [ポリシー] Microsoft 365 Defenderで、[ポリシー] セクション&の [&脅威ポリシーとリンクセーフメールを送信する] <https://security.microsoft.com/>  \>  \>  \> **に移動** します。
+
+     [リンク] ページに直接 **移動セーフを** 使用します <https://security.microsoft.com/safelinksv2> 。
+
+  2. [リンク **セーフ] ページ** で、ポリシーの名前をクリックしてポリシーを選択します。
+  3. 表示される詳細フライアウトで、次のいずれかの手順を実行します。
+     - 新しいポリシーを作成するには、**[+ 作成]** を選択します。 ポリシー設定の定義に役立つウィザードが起動します。
+     - 既存のポリシーを編集するには、ポリシーの名前をクリックしてポリシーを選択します。 表示される詳細フライアウトで、[保護の設定]**セクションで [編集****] を選択** します。
+  4. [保護の **設定] ページ** で、次の設定を構成します。
+     - [メッセージ内の不明な潜在的に悪意のある URL の **アクションを選択する] をオンにします**。
+     - **組織内で送信されたメッセージに安全なリンクを適用する** を選択します。
+
+  詳細については、「Microsoft Defender for セーフのリンク ポリシーをセットアップする[」を参照Office 365。](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

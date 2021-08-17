@@ -12,12 +12,12 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083019"
 ---
 # <a name="working-with-ios-vpp-applications"></a>iOS VPP アプリケーションとの連携
 

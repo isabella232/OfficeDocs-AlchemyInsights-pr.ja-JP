@@ -11,12 +11,12 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 38eb63760ecb16480b140e026565c7323473e8cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b38246a350fb0a2ad0c73ed7e126e8addf97eb008a3130954a2c01ecc8f4eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083271"
 ---
 # <a name="install-office"></a>Office をインストールする
 

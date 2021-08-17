@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026227"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892052"
 ---
 # <a name="missing-emails-in-quarantine"></a>検疫されたメールがなくなった場合
 
-管理者は、[これらのメッセージを表示、解放、または削除](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)できます。
+管理者は、[これらのメッセージを表示、解放、または削除](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)できます
 
-セキュリティ/コンプライアンス センターを開くには、[https://protection.office.com](https://protection.office.com/) へ移動します。 検疫ページを直接開くには、[https://protection.office.com/quarantine](https://protection.office.com/quarantine) にアクセスします。  
+<https://security.microsoft.com> の Microsoft 365 Defender ポータルで、**[確認]** \> **[検疫]** の順に移動します。 または、[**検疫**] ページに直接移動するには、<https://security.microsoft.com/quarantine> を使用します。  
 
-次の値に基づいて検索できます。  
-
-- **[メッセージ ID]**: メッセージのグローバル一意識別子。 一覧でメッセージを選択すると、表示される **[詳細]** ポップアップ ウィンドウに **[メッセージ ID]** 値が表示されます。 管理者は、[メッセージ追跡](/microsoft-365/security/office-365-security/message-trace-scc)を使用して、メッセージとそれに対応する [メッセージ ID] 値を検索できます。
-- **[送信者のメール アドレス]**: 単一の送信者のメール アドレス。
-- **[受信者のメール アドレス]**: 単一の受信者のメール アドレス。
-- **[件名]**: メッセージの件名全体を使用します。 この検索では大文字と小文字は区別されません。
-
-検索条件を入力したら、![[更新] ボタン](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **[更新]** をクリックすると、結果がフィルター処理されます。
+使用できる検索/フィルター値の詳細については、「[EOP で管理者として検疫されたメッセージとファイルを管理する](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)」を参照してください。
 
 検疫内のメッセージとファイルを表示および管理するコマンドレットは、次のとおりです。
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): このコマンドレットはメッセージ専用であり、SharePoint Online、OneDrive for Business、Teams 用の Microsoft Defender for Office 365 からのマルウェア ファイルではないことに注意してください。
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): このコマンドレットはメッセージ専用であり、SharePoint、OneDrive、または Microsoft Teams の安全な添付ファイルからのファイルではないことに注意してください。
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
