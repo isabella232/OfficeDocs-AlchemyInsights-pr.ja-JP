@@ -1,5 +1,5 @@
 ---
-title: SharePoint、OneDrive、Microsoft Teams の Microsoft Defender for Office 365 を有効にする
+title: オンライン、セーフ、SharePointの添付ファイルOneDrive有効Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058871"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894468"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams の Microsoft Defender for Office 365 を有効にする
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>オンライン、セーフ、SharePointの添付ファイルOneDrive有効Microsoft Teams
 
-1. グローバル管理者またはセキュリティ管理者の資格情報を使用して、[Office 365 セキュリティ/コンプライアンス センター](https://protection.office.com/)にログインします。
-2. 左側のウィンドウで **[脅威の管理]** を選択し、**[ポリシー]** > [[安全な添付ファイル]](https://protection.office.com/safeattachment) の順に選択します。
-3. **[SharePoint、OneDrive、Microsoft Teams 用の Microsoft Defender for Office 365 をオンにする]** を選択してから **[保存]** を選択します。
+1. グローバル管理者またはセキュリティ管理者の資格情報を使用して、Microsoft 365 Defender ポータルを開き、[ポリシー] セクションの [ポリシー & ルールの脅威ポリシーセーフ添付ファイル] に <https://security.microsoft.com>  \>  \> **移動** します。
+
+   [添付ファイル] ページに **直接移動セーフを** 使用します <https://security.microsoft.com/safeattachmentv2> 。
+
+2. [添付ファイル **セーフ] ページで**、[グローバル設定]**をクリックします**。
+3. 表示されるフライアウトで **、[SharePoint、OneDrive、** および Microsoft Teams に対して Microsoft Office 365 Defender を有効にする] を選択し、[保存] を選択 **します**。
+
     > [!TIP]
     >
-    > - グローバル管理者または SharePoint Online 管理者として、**DisallowInfectedFileDownload** パラメーターを *true* に設定して、次の PowerShell コマンドレットを実行します: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [検出されたファイルに対する警告を設定する](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > 次の手順を実行して、セーフ、SharePoint、およびOneDriveの保護を強化Microsoft Teams。
+    >
+    > - ユーザーが悪意のあるファイルをダウンロードするのを防ぐには `$true` 、SharePoint Online PowerShell の **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** コマンドレットの *DisallowInfectedFileDownload* パラメーターの値を使用します。 詳細については、「ユーザーが[悪意のあるファイルをダウンロードSharePointオンライン PowerShell を使用する」を参照してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)。
+    > - [検出されたファイルのアラート ポリシーを作成する](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-詳細については、「[SharePoint、OneDrive、Microsoft Teams 用の Microsoft Defender for Office 365](https://go.microsoft.com/fwlink/?linkid=2092041)」を参照してください。
+詳細については、「添付ファイル[セーフOffice 365、SharePoint、OneDrive」を参照Microsoft Teams。](https://go.microsoft.com/fwlink/?linkid=2092041)

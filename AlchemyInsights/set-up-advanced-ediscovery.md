@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108597"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893692"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Advanced eDiscovery を設定する
 
@@ -40,6 +40,6 @@ Advanced eDiscovery 機能を使用すると、テキスト分析、機械学習
 
 **4. Advanced eDiscovery ケースを作成する**
 
-Advanced eDiscovery の設定に必要な手順の詳細については、「[Advanced eDiscovery の使用を開始する](/microsoft-365/compliance/get-started-with-advanced-ediscovery)」をご覧ください。
+Advanced eDiscovery の設定に必要な手順の詳細については、「[Advanced eDiscovery の使用を開始する](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery)」をご覧ください。
 
-ケースの作成および管理方法については、「[Microsoft 365 で Advanced eDiscovery ケースを作成および管理する](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)」を参照してください。
+ケースの作成および管理方法については、「[Microsoft 365 で Advanced eDiscovery ケースを作成および管理する](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)」を参照してください。

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889387"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314317"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>サブスクリプションをアクティブ化または再アクティブ化する
 
@@ -36,8 +36,9 @@ ms.locfileid: "57889387"
 1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 2. **[製品]** タブで、再アクティブにするサブスクリプションを見つけます。
 3. 3 つのドット (その他の操作) を選択してから、**[サブスクリプションのキャンセル]** を選択します。
-    > [!IMPORTANT]
-    > 実行できる操作として **[このサブスクリプションを再アクティブ化する]** が表示されていない場合、[電話でサポートに連絡](https://go.microsoft.com/fwlink/p/?linkid=518322)して、サブスクリプションのライセンスの再認証を依頼してください。
+
+    **重要**: 実行できる操作として **[このサブスクリプションを再アクティブ化する]** が表示されていない場合、[電話でサポートに連絡](https://go.microsoft.com/fwlink/p/?linkid=518322)して、サブスクリプションのライセンスの再認証を依頼してください。
+
 4. **[このサブスクリプションを再アクティブ化する]** ウィンドウで、ドロップダウン リストから既存の支払い方法を選択するか、**[支払い方法を追加する]** を選択します。
 5. **[再アクティブ化]** を選択します。
 

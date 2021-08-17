@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889259"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314245"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 アプリのライセンス認証
 
-**注**: 以前のバージョンの Windows (Windows 7 など) を使用している場合は、TLS 1.2 が既定で有効になっていることを確認します。 詳細については、「[Windows の WinHTTP で TLS 1.1 および TLS 1.2 を既定のセキュリティ で保護されたプロトコルとして有効にするための更新プログラム](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)」を参照してください。
+**注**: 以前のバージョンの Windows (Windows 7 SP1、Windows Server 2008 R2 など) を使用している場合は、[Easy Fix](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) を使用して TLS 1.2 を既定で有効にします。 詳細については、「[Windows の WinHTTP で TLS 1.1 および TLS 1.2 を既定のセキュリティ で保護されたプロトコルとして有効にするための更新プログラム](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)」を参照してください。
 
 Office のライセンス認証については、次の記事を参照してください。
 
@@ -38,7 +38,7 @@ Office のライセンス認証に関する問題の修正については、次�
 
 - [Office for Mac のインストールやライセンス認証ができない場合の対応策](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**ヒント** Windows マシンでは、一般的な Office のサインインに関する問題のいくつかを診断し、自動的に修正することができます。 **[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-OfficeSignInScenario)** をダウンロードして実行し、自動化ツールを使用します。
+**ヒント**: Windows マシンでは、一般的な Office のサインインに関する問題のいくつかを診断し、自動的に修正することができます。 **[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA-OfficeSignInScenario)** をダウンロードして実行し、自動化ツールを使用します。
 
 Microsoft 365 アプリにサインインできない場合は、以下の手順に従ってください。
 
