@@ -12,12 +12,12 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 613b1f9ec8462d88804dd93f1ad73f649216c39a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75a6fb29e8aaf925bd44ffe820d879dbb84bfe07e4667f07808b610b5ab162fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055487"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>Office のインストールが応答を停止するか、処理を停止する
 

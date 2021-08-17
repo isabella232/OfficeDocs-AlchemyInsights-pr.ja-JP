@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890603"
 ---
 # <a name="run-a-message-trace"></a>メッセージ追跡を実行する
 
-メッセージ追跡は、Office 365 セキュリティ/コンプライアンス センターのメールフローセクションで実行されます。
+メッセージ トレースは、Exchange **ポータル** のメッセージ トレースMicrosoft 365 Defender実行できます <https://security.microsoft.com> 。
 
-メッセージ追跡を実行する方法については、「[Office 365 セキュリティ/コンプライアンス センターのメッセージ追跡](https://go.microsoft.com/fwlink/?linkid=2103855)」を参照してください。
+詳細については、「Microsoft 365 Defender[ポータル」を参照してください。](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
