@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883136"
 ---
 # <a name="outbound-relay-pool"></a>送信中継プール
 
-Microsoft は、Microsoft 365 経由でメールを中継または転送するための構成をいくつか変更しています。 特定のシナリオにおけるメッセージは、特別な中継プールを使用して Microsoft 365 経由で転送または中継されます。 中継プールを使用して送信したメールが、受信者の迷惑メール フォルダに入ってしまう場合があります。 詳細については、「[送信中継プール](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)」をご覧ください。
+Microsoft は、Microsoft 365 経由でメールを中継または転送するための構成をいくつか変更しています。 特定のシナリオにおけるメッセージは、特別な中継プールを使用して Microsoft 365 経由で転送または中継されます。 中継プールを使用して送信したメールが、受信者の迷惑メール フォルダに入ってしまう場合があります。 詳細については、「[送信中継プール](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)」をご覧ください。
 
 中継プールを使用したシナリオを回避するには、転送/中継されたメッセージが以下のいずれかの条件を満たしていることを確認してください。
 

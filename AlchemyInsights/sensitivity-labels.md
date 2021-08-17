@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: HT
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50484082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052427"
 ---
 # <a name="sensitivity-labels"></a>機密ラベル
 

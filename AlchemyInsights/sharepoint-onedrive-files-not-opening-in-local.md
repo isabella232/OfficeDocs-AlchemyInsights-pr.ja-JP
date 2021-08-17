@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b4b1096f8c5b7a728bc79bebef715cfdc6dcb498a178a78fc0e0fff0faa5585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107805"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>SharePoint から Office ファイルを開くときの問題
 

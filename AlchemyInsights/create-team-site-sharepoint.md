@@ -14,12 +14,12 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 497e4cd8cacb9eedd25dd08ab341310f462f33ab4f5e1410058f34e99d2e7d75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48300121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080139"
 ---
 # <a name="how-to-create-a-team-site-in-sharepoint"></a>SharePoint でチーム サイトを作成する方法
 

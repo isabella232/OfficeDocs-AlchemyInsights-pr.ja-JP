@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052643"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>テンプレートに基づいてメール メッセージを送信する
 

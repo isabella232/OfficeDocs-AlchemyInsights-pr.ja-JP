@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883360"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft セキュア スコア
 
-Microsoft セキュア スコア を使用すると、環境をより安全にすることができます。 セキュリティのクレジット スコアと考えてください。 組織のセキュリティを向上させるのに役立つ可能性のあるアクションを示します。
+Microsoft セキュア スコア を使用すると、環境をより安全にすることができます。 セキュリティのクレジット スコアと考えてください。 組織のセキュリティを向上させるのに役立つアクションを示します。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-1. Microsoft セキュア スコア カードを選択するか、[Microsoft セキュア スコア](https://go.microsoft.com/fwlink/?linkid=2099589)に移動します。
-    > [!TIP]
-    >  [Microsoft セキュア スコア概要] ページで、組織のセキュリティ保護に関する推奨事項の [改善アクション] を選択します。 表で [フィルター] または [グループ化] を選択して、順番に実行した方がよいアクションをすばやく特定できます。
-1. リストから改善アクションを選択します。 アクションの簡単な説明を示すポップアップが表示されます。
-1. **[設定の表示]** をクリックし、**次の手順** に記載されているガイダンスに従います。
+1. [セキュリティで保護Microsoft 365 Defender] <https://security.microsoft.com> ポータルで、[セキュリティで保護されたスコア **] に移動します**。
+
+   [セキュリティで保護されたスコア] **ページに直接移動** するには、 <https://security.microsoft.com/securescore>
+
+2. [確認 **するアクション]** **セクションと**[上位の改善アクション] セクションの [概要] タブで、組織のセキュリティ保護に関する推奨事項をメモします。
+
+3. [改善アクション **] タブ** で、[改善のランク] アクション エントリ tht に [To **address]** または **[Regressed]** の Status 値が設定されています。  表の **[フィルター] または** **[グループ** 化] を使用して、順番に完了した方が適切なアクションをすばやく識別できます。
+
+4. [改善アクション **] タブの** 一覧から [To address] または [Regressed]**アイテムを選択** します。新しいページが開き、完全な説明と[**管理]** ボタンが表示され、問題が解決されます。
+
     > [!NOTE]
     > 推奨されるセキュリティ機能を構成するためのポイントが与えられますが、一部のアクションには **[スコアなし]** というラベルが付いていることに注意してください。 これは、その改善アクションを実行しても、スコアに対してポイントは付与されないことを示しています。 それ以外の場合、スコアが更新されるまでに *最大 24 時間かかる* 場合があります。
 
-Microsoft セキュア スコアの詳細については、「[Microsoft セキュア スコア](https://go.microsoft.com/fwlink/?linkid=2103077)」を参照してください。
+Microsoft セキュア スコアの詳細については、「[Microsoft セキュア スコア](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)」を参照してください。
