@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9654"
-ms.openlocfilehash: 00b5821e2edad8b60ff60b1f85264d81c72277e4
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: 0dee7e44a8701e1df924b9657cce6cf9d90160e58277d667f6069a4cbcf87ce5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057107"
 ---
 # <a name="find-missing-applications-on-app-registration-blade"></a>アプリ登録ブレードで不足しているアプリケーションを見つける
 

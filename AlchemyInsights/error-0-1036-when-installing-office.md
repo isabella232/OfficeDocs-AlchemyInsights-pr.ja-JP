@@ -12,12 +12,12 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057179"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Office のインストール時のエラー 0-1036
 
