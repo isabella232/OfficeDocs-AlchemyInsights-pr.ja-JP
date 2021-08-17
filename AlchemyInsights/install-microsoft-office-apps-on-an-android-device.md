@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078051"
 ---
 # <a name="install-microsoft-office-apps-on-an-android-device"></a>Android デバイスに Microsoft Office アプリをインストールする
 

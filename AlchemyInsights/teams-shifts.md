@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106497"
 ---
 # <a name="using-teams-shifts"></a>Teams シフトの使用
 

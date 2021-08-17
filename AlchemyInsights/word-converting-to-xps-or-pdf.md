@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047225"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Word 文書を XPS または PDF 形式に変換するときの問題を解決する
 
