@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 71b82307b3491d5d9dbd6cf4325c33645e036475a3a8a5a563e6e84e921fe52a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7c89101624deec1aed566e833634917207204ad04021175a131a0f14f79317f6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020377"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899285"
 ---
 # <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Microsoft Defender ATP ポータルにアクセスできない
 
 「**ポータルへのアクセスが許可されていません**」というメッセージを受け取った場合、Microsoft Defender ATP はセキュリティ監視、インシデント調査および応答製品であり、アクセスはユーザーによって制限および制御されていることに注意してください。 
 
-詳細については、「[Microsoft Defender セキュリティ センターへのユーザー アクセスの割り当て](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)」をご覧ください。
+詳細については、「[Microsoft Defender セキュリティ センターへのユーザー アクセスの割り当て](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)」をご覧ください。

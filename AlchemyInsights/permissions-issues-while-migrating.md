@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 39b36a85319ccd71278571f3a3cbbc7cf0b9f0fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8c2cc4c13ed095987c7312bb752bac6b1940d92a3f7b229a99787273cb4883
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086601"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>ユーザー プロファイルと写真の同期
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972280"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899249"
 ---
 # <a name="unlocking-an-account"></a>アカウントのロックを解除する
 
@@ -25,7 +25,7 @@ ms.locfileid: "53972280"
 
 **メールの制限**
 
-ユーザーの 1 人がメールを送信できなくなっている場合は、管理者が[自分でアカウントのブロックを解除](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)できます。 制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。
+ユーザーの 1 人がメールを送信できなくなっている場合は、管理者が[自分でアカウントのブロックを解除](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)できます。 制限を削除してから 1 時間以内に、そのユーザーはメールを送信できるようになります。
 
 **ユーザー パスワードをリセットする**
 
@@ -39,6 +39,6 @@ ms.locfileid: "53972280"
 
 2. ユーザーを選択してから 3 つのドット (その他の操作) をクリックし、**[サインイン状態の編集]** をクリックします。
 
-その他のパスワード再設定シナリオ (セルフサービスによるパスワードのリセットなど) については、「[Microsoft 365 のパスワードをリセットする](/microsoft-365/admin/add-users/reset-passwords)」を参照してください。
+その他のパスワード再設定シナリオ (セルフサービスによるパスワードのリセットなど) については、「[Microsoft 365 のパスワードをリセットする](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)」を参照してください。
 
-サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。 万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に記載の手順を実行してください。
+サービスでアカウントの侵害や送信スパムの証拠が検出されると、ユーザーはメールを送信できなくなります。 万一に備え、そのユーザーに対して、「[侵害された Microsoft 365 電子メール アカウントへの対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)」に記載の手順を実行してください。

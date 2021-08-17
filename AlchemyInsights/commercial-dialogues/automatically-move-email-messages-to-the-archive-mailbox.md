@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 14ded561ee2b3c244fadbdab42fd0e833a1c66d5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 57dbfd116bbae227f2288ce23edeaaa833fadf54ca3b10b95c49512758542e32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059231"
 ---
 # <a name="automatically-move-email-messages-to-the-archive-mailbox"></a>アーカイブ メールボックスへのメール メッセージの自動的な移動
 
