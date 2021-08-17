@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893060"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314921"
 ---
 # <a name="billing-and-payment"></a>請求と支払い
 
@@ -46,8 +46,7 @@ ms.locfileid: "57893060"
 
 4. 既存の支払い方法を使用する場合は、ドロップダウン リストからいずれかのオプションを選択して、**[置換]** を選択します。
 
-    > [!NOTE]
-    > 請求プロファイルに関連付けられているサブスクリプションがある場合は、クレジット カードまたはデビット カードのみ支払いに使用できます。 **[支払方法]** ページに銀行口座が表示されている場合は、ドロップダウン リストで選択することはできません。
+    **注**: 請求プロファイルに関連付けられているサブスクリプションがある場合は、クレジット カードまたはデビット カードのみ支払いに使用できます。 **[支払方法]** ページに銀行口座が表示されている場合は、ドロップダウン リストで選択することはできません。
 
 5. 新しい支払方法を追加するには、**[支払方法の追加]** を選択します。
 

@@ -12,12 +12,12 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "9000298"
 - "1924"
-ms.openlocfilehash: a8c6fdd8790ec5b50c36c910448e0e1580902caf
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: d6a0f3a18981d9012aa64cffc3e9730ae550485083def4c229f1b2235ff98403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085305"
 ---
 # <a name="change-the-default-site-language-in-sharepoint-or-onedrive"></a>SharePoint または OneDrive の既定のサイト言語を変更する 
 

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61236d1e0174248cdb49284d6c6c7d49df51e7e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888963"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315083"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 

@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895012"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>脅威管理を使用してアカウントのブロックを解除する
 
-その手順は次のとおりです。 
+その手順は次のとおりです。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-1. **[脅威の管理]**  >  **[レビュー]** の順に選択します。 **[レビュー]** ページで、**[[制限されたユーザー]](https://go.microsoft.com/fwlink/?linkid=2103514)** を選択します。
-1. 侵害されたアカウントがリストに表示されている場合は、**[アカウントのブロック解除]** をクリックします。 アカウントは、通常 1 時間以内に再度メッセージを送信できるようになります。
+1. [電子メール] の [Microsoft 365 Defender] <https://security.microsoft.com> \> **ポータルに移動&[制限** \> **付きユーザー]** \> **をクリックします**。
+
+   [制限付きユーザー] ページ **に直接移動するには** 、 を使用します <https://security.microsoft.com/restrictedusers> 。
+
+2. ユーザーが一覧に表示されている場合は、ユーザーを選択し、[ブロック解除] **を選択します**。 ポップアップ ウィンドウの手順に従い、[**はい**] を選択して確認します。
+
+   アカウントは、通常 1 時間以内に再度メッセージを送信できるようになります。
+
+詳細については、「制限付き [ユーザー ポータルからブロックされたユーザーを削除する」を参照してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)。

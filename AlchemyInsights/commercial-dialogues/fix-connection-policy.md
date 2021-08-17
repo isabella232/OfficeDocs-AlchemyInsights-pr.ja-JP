@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888411"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314849"
 ---
 # <a name="fix-connection-policy"></a>接続 ポリシーを修正
 
@@ -33,7 +33,6 @@ ms.locfileid: "57888411"
 
 4. [次の **IP** アドレスまたはアドレス範囲からのメッセージを常に許可する] セクションのエントリを確認し、[安全な一覧を有効にする] が **選択されている場合** を確認します。
 
-   > [!NOTE]
-   > Microsoft は、信頼できる送信者のサード パーティ ソースにサブスクライブしています。 セーフ リストが有効になっている場合、これらの信頼できる送信者は誤ってスパムとしてマークされません。 このオプションを選択することをお勧めします。これは、受信する誤検知 (スパムに分類される良いメール) の数を減らすためです。
+   **注**: Microsoft は、信頼できる送信者のサード パーティソースにサブスクライブしています。 セーフ リストが有効になっている場合、これらの信頼できる送信者は誤ってスパムとしてマークされません。 このオプションを選択することをお勧めします。これは、受信する誤検知 (スパムに分類される良いメール) の数を減らすためです。
 
 詳細については、「[接続フィルターを構成する](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)」を参照してください。

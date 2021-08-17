@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895124"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>不審なメール、URL、添付ファイルを報告
 
-不審なメールや誤ってフィルターされたメールへの調査を必要とされているということを把握しました。 報告エクスプローラーを使用して分析に関する問題を報告できるようにします。これによってすぐにフィードバックを得ることができます。 手順の概要は次のとおりです。
+不審なメールや誤ってフィルターされたメールへの調査を必要とされているということを把握しました。 Submits ポータルを使用して分析のために問題を提出する際に役立ちます。これは、すぐにフィードバックを提供します。 手順の概要は次のとおりです。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動し、**[脅威の管理]** > [[報告]](https://go.microsoft.com/fwlink/?linkid=2101521) の順に移動します。
-2. **+ 新規の報告** を選択します。 メール、URL、またはファイルのどれかを送信するオプションのポップアップが表示されます。
-    > [!NOTE]
-    > Microsoft の受信トレイに不審なメッセージがある場合は、ユーザーに [レポート メッセージ アドイン](https://go.microsoft.com/fwlink/?linkid=2092385) を使用して報告してもらうように伝えます。
+1. ポータルの [Microsoft 365 Defender] <https://security.microsoft.com> で、[メールの **送信] &に** \> **移動します**。
+
+   [申請] ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/reportsubmission> 。
+
+2. [申請 **] ページで** 、[分析 **用に送信** ] タブが選択されているのを確認し、[+ 分析のために Microsoft に送信] **をクリックします**。
+
+3. 電子メール、URL、またはファイルを送信するオプションを指定して、フライアウトが表示されます。
+
+詳細については、「管理申請を [使用して疑わしいスパム、フィッシング、URL、](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)ファイルを Microsoft に提出する」を参照してください。
+
+> [!NOTE]
+> レポート メッセージ アドインまたはレポート フィッシング アドインを使用して、受信トレイで疑わしいメッセージを報告する必要があるユーザーに [通知します](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)。

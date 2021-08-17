@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105681"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314425"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>SAML 署名による証明書の問題のトラブルシューティング
 
@@ -31,13 +31,11 @@ SAML 署名による証明書の問題を解決するには、次の推奨手順
 
 3. この証明書の有効期限が切れた場合は、新しい証明書を作成し、アプリケーション ベンダーに更新してから、Azure 側でアクティブにします。 詳細については、「[有効期限が切れそうな証明書を更新する](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire)」をご覧ください。
 
-> [!NOTE]
-> 証明書の有効期限が切れた場合、ユーザーはブロックされません。
+**注**: 証明書の有効期限が切れた場合、ユーザーはブロックされません。
 
 4. 現在の証明書の有効期限が切れる前に、[通知を受信するための電子メールアドレスを追加](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration)します。
 
-> [!NOTE]
-> 手順 4 は省略可能です。
+**注**: 手順 4 は省略可能です。
 
 5. アプリケーションの SAML 証明書の署名オプションと証明書の署名アルゴリズムを変更します。 詳細については、「[証明書の署名オプションと署名アルゴリズムの変更](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)」をご覧ください。
 

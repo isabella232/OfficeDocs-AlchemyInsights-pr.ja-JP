@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: d4a8ad11054e16f0b8c7c85995d4fc6b1500ff7e0fb28f9fc495b7cff07dbb2e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea38a6d4a093c3908b8987988746c2f49f052df320ca0a327446435389a90ce9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995555"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896196"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Microsoft Edge でコマンド ライン オプションを使用して、プロキシ設定を構成する
 
@@ -26,7 +26,7 @@ Microsoft Edge バージョン77 以降では、ネットワーク スタック�
 
 詳細については、以下を参照してください。
 
-- [ネットワーク設定](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
-- [プロキシ設定のためのコマンド ライン オプション](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [ネットワーク設定](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [プロキシ設定のためのコマンド ライン オプション](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
 - [詳細構成の設定およびその他のオプション](https://go.microsoft.com/fwlink/?linkid=2134293)
-- [Chrome SameSite Cookie の動作](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Chrome SameSite Cookie の動作](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
