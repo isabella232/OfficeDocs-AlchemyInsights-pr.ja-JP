@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048161"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>[エクスプローラーで開く] を使用して問題を解決します
 
