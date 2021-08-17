@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: 8f50c22952a26b62b1af01a5a94ae334d7aff529
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 74271dc6203cb290add22cfd3a243e500b983cfae7b06bf7f47e892b868ff4e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053255"
 ---
 # <a name="remove-or-turn-off-microsoft-teams"></a>Microsoft Teams を削除またはオフにする
 
