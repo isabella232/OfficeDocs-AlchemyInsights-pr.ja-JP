@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, shegu
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 1c1bf0b5380fc51c64981309f17abf614fbe7e86
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686027"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892932"
 ---
 # <a name="buy-additional-licenses"></a>追加のライセンスを購入する
 
@@ -31,8 +31,8 @@ ms.locfileid: "53686027"
 3. **[合計ライセンス]** ボックスの **[新しい数量]** に、このサブスクリプションに必要なライセンスの合計数を入力します。たとえば、100 個のライセンスがあり、さらに 25 個を追加する場合は、125 と入力します。
 4. **[保存]** を選択します。
 
-詳細については、「[ライセンスの購入/削除](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+詳細については、「[ライセンスの購入/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
 
 **その他のリソース**
 
-[一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](/microsoft-365/admin/manage/assign-licenses-to-users)
+[一般法人向け Microsoft 365 ライセンスをユーザーに割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

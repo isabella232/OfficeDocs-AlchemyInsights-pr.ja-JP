@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
-ms.translationtype: HT
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109245"
 ---
 # <a name="saml-assertions-tokens"></a>SAML アサーション (トークン)
 

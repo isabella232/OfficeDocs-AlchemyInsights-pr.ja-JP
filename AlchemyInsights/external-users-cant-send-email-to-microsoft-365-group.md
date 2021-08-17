@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: 51fd4f0abb3b9842085d0de02267037f6782c605eef9fcd64580ab8ccb18b4d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88890b757c7fc7b44d3f474cce5b8c79f7e78e07fb9e1572e1a27f8f17e36274
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977482"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892656"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>外部ユーザーが Microsoft 365 グループにメールを送信できない
 
@@ -30,4 +30,4 @@ ms.locfileid: "53977482"
 4. [**保存**] を選択します。</br>
     設定が反映されるまで、最大1時間かかります。 
 
-Microsoft 365 グループへのメール送信に関する問題が解決しない場合は、「[Microsoft 365 for Business 管理者としてメール配信の問題を検出して修正する」](/exchange/troubleshoot/email-delivery/email-delivery-issues) を参照します。
+Microsoft 365 グループへのメール送信に関する問題が解決しない場合は、「[Microsoft 365 for Business 管理者としてメール配信の問題を検出して修正する」](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues) を参照します。

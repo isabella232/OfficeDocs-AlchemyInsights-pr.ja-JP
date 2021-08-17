@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918900"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312830"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必要な Alchemy ヘッダー H1、H2 が機能していません。"
 Alchemy 作成のベスト プラクティスとガイドライン:
@@ -27,8 +27,8 @@ Alchemy 作成のベスト プラクティスとガイドライン:
     1. [Alchemy パートナー ポータル](https://alchemyportal.azurewebsites.net)からのルール ID またはバケット ID を ms.custom フィールドに含めます。例: ***ms.custom: 100021***
 1. このファイルの冒頭にある残りのメタデータをテンプレートとして使用します。
 1. [Alchemy Partner ポータル](https://alchemyportal.azurewebsites.net)で、セクション [**Customer Insight Title:**] まで下方向に移動し、それをインサイトの H1 タイトルの出発点として使用します。 
-    > [!NOTE]
-    > Alchemy Insight に含むことができる H1 は上部の 1 つに限られます。そうしなければ、運用環境では中断されます。H2 はレンダリングされないため、**太字** またはその他の規則を使用して、個別のセクションを表します。
+
+**注**: Alchemy Insight に含むことができる H1 は上部の 1 つに限られます。そうしなければ、運用環境では中断されます。H2 はレンダリングされないため、**太字** またはその他の規則を使用して、個別のセクションを表します。
 1. 次に、Alchemy Rule ページの Customer Insights セクションにある下書きの資料を使用して、本文のテキストを入力します。
     1. 箇条書きを使用できます。
     1. 段落番号も使用できます。

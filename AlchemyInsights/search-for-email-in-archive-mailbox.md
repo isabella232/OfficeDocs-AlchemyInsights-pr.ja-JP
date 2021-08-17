@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109137"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>アーカイブ メールボックスでメールを検索する
 
-Microsoft 365 のアーカイブ メールボックスが有効になると、**電子情報開示の検索とエクスポート**を使用して、プライマリ メールボックスとアーカイブ メールボックスの両方でコンテンツを見つけられるようになります。 **電子情報開示検索のエクスポート** を使用してコンテンツを検索するための詳細情報については、[こちら](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)で説明されている手順を実行してください。
+Microsoft 365 でアーカイブ メールボックスを有効にすると、**[電子情報開示の検索とエクスポート]** を使用して、プライマリ メールボックスとアーカイブ メールボックスの両方でコンテンツを検出できます。コンテンツを見つけるために **[電子情報開示検索のエクスポート]** を使用する方法については、[ここ](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)で説明されている手順に従ってください。
   
-アイテム保持ポリシーにメールボックスを追加すると、そのコンテンツを保持することもできます。 これで、プライマリー メールボックスとアーカイブ メールボックスの両方のコンテンツが保持されます。 アイテム保持ポリシーを作成してメールを保持するための詳細情報については、[こちら](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)で説明されている手順を参照してください。
+メールボックスをアイテム保持ポリシーに追加することで、そのコンテンツを保持することもできます。これにより、保留中のプライマリ メールボックスとアーカイブ メールボックスの両方にコンテンツが配置されます。メールを保持するためのアイテム保持ポリシーの作成について詳しくは、[こちら](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)で説明されている手順を参照してください。
   

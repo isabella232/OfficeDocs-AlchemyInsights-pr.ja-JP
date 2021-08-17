@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927150"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892604"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 電話会議
 
-[Microsoft Teams の電話会議](/microsoftteams/set-up-audio-conferencing-in-teams)を有効にしたり、設定したりする方法について、サポートをご希望ですか?  ユーザーは最近作成されましたか? そうであれば、設定が有効になるまで数時間待つ必要があります。
+[Microsoft Teams の電話会議](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)を有効にしたり、設定したりする方法について、サポートをご希望ですか?  ユーザーは最近作成されましたか? そうであれば、設定が有効になるまで数時間待つ必要があります。
 
-[ライセンスを購入した](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)場合、そのユーザーに Microsoft 365 電話会議のライセンスが与えられ、既定の有料電話番号があることを確認してください。
+[ライセンスを購入した](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)場合、そのユーザーに Microsoft 365 電話会議のライセンスが与えられ、既定の有料電話番号があることを確認してください。
 
 1. [[アクティブなユーザー]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) に移動し、該当するユーザーを選択します。
 
 2. 管理センター バージョンに応じて、**[ライセンスとアプリ]** を選択するか、**製品ライセンス** の **[編集]** をクリックします。
 
-3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議** のライセンスがない場合、先に [アドオン ライセンスを購入する](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
+3. ユーザーに、**Microsoft 365 電話会議、Microsoft Teams**、**Skype for Business Online (プラン 2)** 用に選択したライセンスがあることを確認します。 **Microsoft 365 電話会議** のライセンスがない場合、先に [アドオン ライセンスを購入する](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)必要があります。
 
 4. ユーザー **管理センター** で、**[すべて表示]**、**[Teams]** の順にクリックします。
 

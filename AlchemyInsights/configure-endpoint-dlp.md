@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: f29d8476881fb3f93b369c057efed0acdd2169baf956ab43bf3c0ade527e9437
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4a4dbd60f98e86cf2a4d861a763f75ada04f9e500164c01cb858a1537148a62f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033535"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892804"
 ---
 # <a name="configure-endpoint-dlp"></a>エンドポイント DLP を構成する
 
-Microsoft エンドポイント DLP を使用すると、 DLP の保護およびモニタリング機能を Windows 10 デバイス上の機密情報にまで拡張できます。 デバイスがデバイス管理に組み込まれたら、DLP ポリシーを作成してアイテムに保護アクションを適用できます。 アクティビティ エクスプローラーを使用して、機密アイテムのアクティビティを監視できます。 詳細については、「[デバイス管理にデバイスを組み込む](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)」を参照してください。  
+Microsoft エンドポイント DLP を使用すると、 DLP の保護およびモニタリング機能を Windows 10 デバイス上の機密情報にまで拡張できます。 デバイスがデバイス管理に組み込まれたら、DLP ポリシーを作成してアイテムに保護アクションを適用できます。 アクティビティ エクスプローラーを使用して、機密アイテムのアクティビティを監視できます。 詳細については、「[デバイス管理にデバイスを組み込む](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)」を参照してください。  
 
 エンドポイント DLP の使用を開始するには:
 
-- 適切な SKU/サブスクリプションライセンスがあることを確認します。 詳細については、「[SKU/サブスクリプションライセンス](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)」を参照してください。
-- デバイス管理を有効にしたり、オンボーディング ページにアクセスしたり、デバイス監視をオン/オフするために必要なアクセス許可を確認します。詳細は「[アクセス許可](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions)」を参照してください。
-- オンボーディング デバイスの手順に従って、デバイスをデバイス管理に組み込みことができます。 詳細については、「[オンボーディング デバイス](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices)」を参照してください。 
-- 機密アイテムを保護する DLP ポリシーを作成します。 詳細については、「[エンドポイント DLP ポリシーのシナリオ](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)」を参照してください。
+- 適切な SKU/サブスクリプションライセンスがあることを確認します。 詳細については、「[SKU/サブスクリプションライセンス](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)」を参照してください。
+- デバイス管理を有効にしたり、オンボーディング ページにアクセスしたり、デバイス監視をオン/オフするために必要なアクセス許可を確認します。詳細は「[アクセス許可](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions)」を参照してください。
+- オンボーディング デバイスの手順に従って、デバイスをデバイス管理に組み込みことができます。 詳細については、「[オンボーディング デバイス](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices)」を参照してください。 
+- 機密アイテムを保護する DLP ポリシーを作成します。 詳細については、「[エンドポイント DLP ポリシーのシナリオ](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)」を参照してください。
 
-Microsoft エンドポイント DLP の詳細については、「[Microsoft 365 エンドポイントのデータ損失防止について学ぶ (プレビュー)](/microsoft-365/compliance/endpoint-dlp-learn-about) 」を参照してください。
+Microsoft エンドポイント DLP の詳細については、「[Microsoft 365 エンドポイントのデータ損失防止について学ぶ (プレビュー)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about) 」を参照してください。
 
 **サポートが必要な場合の重要なデータ収集手順:**
 

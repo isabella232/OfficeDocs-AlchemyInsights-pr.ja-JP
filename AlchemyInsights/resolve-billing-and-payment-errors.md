@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5853ffad9ce1f19d2cbbf107b83ae485512ec539328fc609b507e41e1a22c9e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110469"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>請求および支払いエラーの解決
 
 請求と支払いのエラーに関連するいくつかの一般的なシナリオを以下に示します
 
 - **請求金額** は、予想していた金額とは異なります。
-- ライセンスがサブスクリプションから追加または削除された。 ライセンスが契約期間中に変更された場合、次の請求書に反映されます。 この変更を示すために、前のサービス期間のクレジットおよび再請求が表示される場合があります。
+- ご使用のサブスクリプションに対してライセンスの追加または削除が行われています。ライセンスが途中で変更されると、その内容が以降の請求書に反映されます。この変更を考慮して前のサービス期間に対するクレジットおよび再請求が表示される場合があります。
 - サブスクリプションが取り消されました。取り消し後に未払額からクレジットを差し引いた請求書が届きます。
 - サブスクリプションが更新されて新しい利用規約が適用され、ライセンス料金が変更されました。
 - 請求書の詳細については、[請求書](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)に関するページを参照してください。

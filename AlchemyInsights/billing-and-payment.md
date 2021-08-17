@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686891"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893060"
 ---
 # <a name="billing-and-payment"></a>請求と支払い
 
@@ -55,10 +55,10 @@ ms.locfileid: "53686891"
 
 7. 新しい支払い方法は、ドロップダウン リストで既に選択されています。 **[置換]** を選択します。
 
-詳細については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
 
 **請求頻度**
 
 請求は、確認の時に選択した請求頻度に応じて、毎月または毎年行われます。  
 
-**注**: 年間請求で、ライセンスの追加と削除などの変更が行われた場合、期間内の中間に請求書を受け取る場合があります。 [請求頻度を変更](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)してください。
+**注**: 年間請求で、ライセンスの追加と削除などの変更が行われた場合、期間内の中間に請求書を受け取る場合があります。 [請求頻度を変更](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)してください。

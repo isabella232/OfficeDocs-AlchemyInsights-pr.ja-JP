@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 1dee612adbfb18b2e24b8f0dff67b37ef8edf6394da077b792d3d585cf42fc2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cbfd7790c1805b2a6399e7a346ab3d471575a8c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927762"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313172"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>クレジット カードを追加する方法
 
@@ -33,4 +33,4 @@ ms.locfileid: "53927762"
 
 4. 新しいクレジット カードまたは銀行口座に関する情報を入力して、**[保存]** をクリックします。
 
-詳細については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。
+詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」を参照してください。

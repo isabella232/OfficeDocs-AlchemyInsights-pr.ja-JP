@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 96677aa7ad38185e35999dac4f18e65e88624ed8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892544"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Microsoft 365 Apps for business サブスクリプションのライセンスを購入する方法
 
@@ -32,4 +32,4 @@ ms.locfileid: "53689195"
 3. **[ライセンスの購入]** ウィンドウで、**[ライセンスの総数]** ボックスにある **[新しい数量]** に、このサブスクリプションに必要なライセンスの総数を入力します。たとえば、100 個のライセンスがあり、さらに 25 個を追加する場合は、125 と入力します。
 4. **[保存]** を選択します。
 
-詳細については、「[ライセンスの購入/削除](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+詳細については、「[ライセンスの購入/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

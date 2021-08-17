@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
-ms.translationtype: HT
+ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082371"
 ---
 # <a name="change-your-background-for-a-teams-meeting"></a>Teams 会議の背景を変更する
 

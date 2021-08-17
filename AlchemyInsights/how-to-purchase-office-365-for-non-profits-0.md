@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 34605f479af412d6bc806dd96a22583a2299f3ad
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: a53a827b192b6d02b7879364232e09d1002b4e0e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687035"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313080"
 ---
 # <a name="microsoft-365-for-nonprofits---declined"></a>非営利団体向け Microsoft 365 - 拒否
 

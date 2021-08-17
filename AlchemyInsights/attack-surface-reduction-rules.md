@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072201"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893140"
 ---
 # <a name="attack-surface-reduction-rules"></a>攻撃面の減少ルール
 
 ファイルやフォルダーを除外すると、攻撃面の減少ルールで指定された保護機能が著しく低下します。 ルールでブロックされたはずのファイルは実行が許可され、レポートやイベントは記録されません。 除外は、除外を許可するすべてのルールに適用されます。
 
-ASR の除外項目は、Microsoft Defender ウイルス対策の除外項目と同じ構文を使用します。 詳細については、「[Windows Defender ウイルス対策のスキャンの除外項目の構成と検証](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus)」を参照してください。 問題を回避するには、「[除外を定義する際に避ける必要のある一般的な間違い](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)」を確認してください。
+ASR の除外項目は、Microsoft Defender ウイルス対策の除外項目と同じ構文を使用します。 詳細については、「[Windows Defender ウイルス対策のスキャンの除外項目の構成と検証](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus)」を参照してください。 問題を回避するには、「[除外を定義する際に避ける必要のある一般的な間違い](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)」を確認してください。
 
-すべての ASR ルールが除外項目をサポートしているわけではありません。 ルールが除外項目をサポートしているかどうかを検証するには、テーブル「[攻撃面の減少ルール](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)」を参照してください。
+すべての ASR ルールが除外項目をサポートしているわけではありません。 ルールが除外項目をサポートしているかどうかを検証するには、テーブル「[攻撃面の減少ルール](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)」を参照してください。
 
 ## <a name="attack-surface-reduction-rules"></a>攻撃面の減少ルール
 
@@ -34,11 +34,11 @@ ASR の除外項目は、Microsoft Defender ウイルス対策の除外項目と
 
 詳細については、以下を参照してください。
 
-- [ASR ルール GUID をマッピングして名前をつける](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [ASR ルール GUID をマッピングして名前をつける](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - ASR ルールの要件は、以下のとおりです。
-    - [Windows 10 バージョン 1709 以降](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise バージョン 1709 以降](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Server バージョン 1803 (半期チャネル) 以降](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 バージョン 1709 以降](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterprise バージョン 1709 以降](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Server バージョン 1803 (半期チャネル) 以降](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>適用する適切な除外項目を特定する
 
@@ -50,15 +50,15 @@ ASR の除外項目は、Microsoft Defender ウイルス対策の除外項目と
     - 除外項目はできるだけ厳密にしてください。
     - 必要に応じてワイルドカードを適用します (User 変数の置き換えなど)。
 
-1. 展開の必要性に応じて、除外事項を適用します。 詳細については、「[攻撃面の減少ルールをカスタマイズする](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction)」を参照してください。
+1. 展開の必要性に応じて、除外事項を適用します。 詳細については、「[攻撃面の減少ルールをカスタマイズする](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction)」を参照してください。
 
 ## <a name="exclusion-is-not-honored"></a>除外事項が受け入れられない
 
-1. ルールが除外事項をサポートしているかどうか判断します。 詳細については、「[攻撃面の減少ルール](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)」を参照してください。
+1. ルールが除外事項をサポートしているかどうか判断します。 詳細については、「[攻撃面の減少ルール](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)」を参照してください。
 
-1. 適用された除外項目を確認し、タイプミスや誤って解釈されたワイルドカードがないか、イベント データで検証します。 詳細については、「[サポートされる除外タイプ](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)」を参照してください
+1. 適用された除外項目を確認し、タイプミスや誤って解釈されたワイルドカードがないか、イベント データで検証します。 詳細については、「[サポートされる除外タイプ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)」を参照してください
 
-1. ルールの影響が大きすぎる場合は、ルールを監査モードに戻してさらに検証を行うことを検討します。 詳細については、「[Microsoft Defender for Endpoint 機能が監査モードで動作する方法を確認する](/microsoft-365/security/defender-endpoint/audit-windows-defender)」を参照してください。
+1. ルールの影響が大きすぎる場合は、ルールを監査モードに戻してさらに検証を行うことを検討します。 詳細については、「[Microsoft Defender for Endpoint 機能が監査モードで動作する方法を確認する](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender)」を参照してください。
 
 1. このコマンドを使用してサポート ケースを開くためのサポートデータを収集します。
     
