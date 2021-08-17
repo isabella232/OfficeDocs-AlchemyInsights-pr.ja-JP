@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300012"
 - "7420"
-ms.openlocfilehash: a304504f7483036884878639dfa6ebfc3cdfcac8
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
-ms.translationtype: HT
+ms.openlocfilehash: c4059364cd8aba920dba833c88a69413bad95a2c3b895599d9f6895b50ff73d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079635"
 ---
 # <a name="deploy-ad-fs"></a>AD FS を展開する
 

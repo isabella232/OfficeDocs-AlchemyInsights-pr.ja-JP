@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079671"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP ポリシーのヒントに関する問題
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958707"
 
 - コンテンツが、[機密情報の種類エンティティ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)に略述されているルールをトリガーするために必要な点を満たしていることを確認します。
 
-- ポリシーのヒントは OWA と Outlook の両方に表示されます。 ただし、Outlook 2013 以降をお使いの場合、ポリシー ヒントは特定の条件でのみ表示されます。 特定の条件の一覧については、「[ポリシー ヒントの詳細について Outlook 2013 以降でサポートされている条件を確認する](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)」をご覧ください。
+- ポリシーのヒントは OWA と Outlook の両方に表示されます。ただし、Outlook 2013 以降をお使いの場合、ポリシー ヒントは特定の条件でのみ表示されます。特定の条件の一覧については、「[ポリシー ヒントの詳細について Outlook 2013 以降でサポートされている条件を確認する](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)」をご覧ください。
 
 DLP ポリシー ヒントの詳細については、「[DLP ポリシー ヒント のリファレンス](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)」 および「[ DLP ポリシー ヒント サポート マトリックス](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)」をご覧ください。

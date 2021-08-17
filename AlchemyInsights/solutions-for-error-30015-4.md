@@ -14,12 +14,12 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 74aca1fb73e85bc7796047f7e77022f4f418ffc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34dbeb3bcfffe7ff79a8ee753f5187abdb5c58891f93bfac5fd8acb794f4f5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050267"
 ---
 # <a name="solutions-for-error-30015-4"></a>エラー 30015-4 の解決方法
 

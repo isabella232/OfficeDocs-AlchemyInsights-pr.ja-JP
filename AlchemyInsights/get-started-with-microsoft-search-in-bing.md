@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9260"
-ms.openlocfilehash: f7ae2b7bf9349f4a5d31b4c8dad20be4948f478e
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
-ms.translationtype: HT
+ms.openlocfilehash: a5d506a0784200c2e11d338a3b973128748785474bc957b8f75f67a72324503b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079311"
 ---
 # <a name="get-started-with-microsoft-search-in-bing"></a>Bing で Microsoft Search の使用を開始する
 
