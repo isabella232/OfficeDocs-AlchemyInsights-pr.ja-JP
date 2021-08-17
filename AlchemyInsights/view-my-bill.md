@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 738db9f208659c4b9ecfdb2d7fd1e8409913938f
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 644b2d03700ae605ada126184e59752f7e0d048aea464e21532ce5d4a589cf62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037433"
 ---
 # <a name="view-my-bill-or-invoice"></a>課金内容または請求書を表示する
 

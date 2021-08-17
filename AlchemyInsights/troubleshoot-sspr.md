@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
-ms.translationtype: HT
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038963"
 ---
 # <a name="troubleshoot-sspr"></a>SSPR のトラブルシューティング
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073533"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>プロダクト キーまたはデジタル ライセンスのいずれかを使用してアップグレードする
 

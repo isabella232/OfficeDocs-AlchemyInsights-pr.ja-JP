@@ -14,12 +14,12 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103413"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Microsoft Edge で複数のプロファイルを作成する
 
