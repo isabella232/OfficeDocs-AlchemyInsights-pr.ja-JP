@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: a3815d6fcabcfe81b079657c68adb89d7be244ca128af3473c6b22c1a4f7c833
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104072"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894556"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory 参加
 
-1. 初めてデバイス登録を設定する場合は、「[Azure Active Directory でのデバイス管理の概要](/azure/active-directory/devices/overview)」を確認してください。このガイドでは、デバイスを Azure AD の制御下に配置する方法について説明しています。 
-1. デバイスを Azure AD に直接登録し、それらを Intune に登録する場合は、[構成済み Intune](/mem/intune/enrollment/device-enrollment) があり、最初に[ライセンス](/mem/intune/fundamentals/licenses-assign)が設定されていることを確認する必要があります。
+1. 初めてデバイス登録を設定する場合は、「[Azure Active Directory でのデバイス管理の概要](https://docs.microsoft.com/azure/active-directory/devices/overview)」を確認してください。このガイドでは、デバイスを Azure AD の制御下に配置する方法について説明しています。 
+1. デバイスを Azure AD に直接登録し、それらを Intune に登録する場合は、[構成済み Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) があり、最初に[ライセンス](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)が設定されていることを確認する必要があります。
 1. Azure AD で操作を実行する権限があることを確認してください。 デバイス登録の設定を管理できるのは、Azure AD のグローバル管理者のみです。
-1. Azure AD 参加の実装を行うには、「[Azure AD 参加の計画](/azure/active-directory/devices/azureadjoin-plan)」を参照してください。
+1. Azure AD 参加の実装を行うには、「[Azure AD 参加の計画](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)」を参照してください。
 
-Azure AD 参加に関する一般的な問題の解決の詳細については、「[Azure AD 参加に関するよくある質問](/azure/active-directory/devices/faq)」を参照してください。また、Windows 10 Pro デバイスについては、「[Windows 10 Pro マシンで Azure AD に参加できない - アップグレードする必要がある - Microsoftコミュニティ](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)」を参照してください。
+Azure AD 参加に関する一般的な問題の解決の詳細については、「[Azure AD 参加に関するよくある質問](https://docs.microsoft.com/azure/active-directory/devices/faq)」を参照してください。また、Windows 10 Pro デバイスについては、「[Windows 10 Pro マシンで Azure AD に参加できない - アップグレードする必要がある - Microsoftコミュニティ](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)」を参照してください。

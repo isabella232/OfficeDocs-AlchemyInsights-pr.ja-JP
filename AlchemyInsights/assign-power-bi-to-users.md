@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: 507c950e68b5e95603befdd649f6aba20f81adb578fd3d0939772eb22b9785ec
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950778"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894744"
 ---
 # <a name="assign-power-bi-to-users"></a>ユーザーに Power BI を割り当てる
 
@@ -33,4 +33,4 @@ Power BI は、**Microsoft 365 管理センター** でユーザーに割り当�
 5. 割り当てまたは削除するには、[**アプリとサービスをオンまたはオフにする**] をクリックします。
 6. **[割り当て]**、**[閉じる]** の順にクリックします。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

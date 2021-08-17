@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: c894da50d74f6d238be65ce74094257f9bd631de5ce579d1aaa511292c2523e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111369"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com でのスパムと迷惑メール
 
