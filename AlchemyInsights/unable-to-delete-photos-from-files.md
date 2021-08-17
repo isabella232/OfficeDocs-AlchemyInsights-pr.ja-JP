@@ -15,18 +15,18 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104961"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>ファイルから写真を削除できない
 
 Outlook.com のファイルから写真を削除するには:
   
-1. **受信トレイ**か **[送信済みアイテム]** フォルダーに移動し、ファイルや写真が添付されているメール メッセージを削除します。
+1. **受信トレイ** か **[送信済みアイテム]** フォルダーに移動し、ファイルや写真が添付されているメール メッセージを削除します。
 
 2. **[削除済みアイテム]** からアイテムを削除します。
 

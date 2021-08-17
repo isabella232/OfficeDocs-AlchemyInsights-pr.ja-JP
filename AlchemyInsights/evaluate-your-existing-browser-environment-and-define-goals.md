@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: 5b03d188aa78be83928cf262f1d86f3f933c85ab
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: ff965b3f2fd747763185fcf4cd43479b1cd7189ed737005c2aca4a723df135cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50696433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043661"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>既存のブラウザー環境を評価し、目標を定義する
 
-時間をかけて現在のブラウザーの状態とプロジェクトのビジョンを理解することで、すべてのプロジェクト関係者が一致して、同じ目標に向けて取り組むことができます。 次の手順を実行します。
+時間をかけて現在のブラウザーの状態とプロジェクトのビジョンを理解することで、すべてのプロジェクト関係者が一致して、同じ目標に向けて取り組むことができます。次の手順に従ってください。
 
 1. 現在の状態を定義する。 次の状況について検討しましょう。
 - 現在、どのブラウザーが環境に展開されていますか?

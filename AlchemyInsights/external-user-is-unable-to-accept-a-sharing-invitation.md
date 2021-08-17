@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043625"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>外部連絡先が、共有の招待を承諾することができない
 
