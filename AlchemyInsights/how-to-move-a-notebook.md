@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d2846a1102e4d6441f6fe288a338190a98ad568e0204835f0c1e1f4ea634cf56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043031"
 ---
 # <a name="how-to-move-a-onenote-notebook"></a>OneNote ノートブックを移動する方法
 

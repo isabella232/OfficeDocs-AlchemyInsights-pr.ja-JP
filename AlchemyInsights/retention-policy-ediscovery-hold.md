@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074829"
 ---
 # <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>SharePoint Online または OneDrive for Business でアイテムを削除できない
 

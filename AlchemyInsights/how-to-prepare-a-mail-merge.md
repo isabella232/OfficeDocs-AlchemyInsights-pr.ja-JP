@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: 19d30daac8fa39811d65c7b0f3b9f0951907c78d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a29a0284f7b2dbb480021aa7a67c2e58a9aea833185bdbce1b1c1c05e554f222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042995"
 ---
 # <a name="how-to-prepare-a-mail-merge"></a>差し込み印刷を準備する方法
 

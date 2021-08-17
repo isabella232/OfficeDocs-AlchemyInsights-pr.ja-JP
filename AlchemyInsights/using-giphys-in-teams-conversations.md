@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104313"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Teams 会話での Giphy の使用
 
-Teams チャットの Giphy アクセスは、既定で有効になっています。 管理者は、[メッセージング ポリシーを設定](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)し、**[会話で Giphy を使用する]** が **[オン]** であることを確認することで、ユーザーが Giphy を使用できるかどうかを制御できます。
+Teams チャットの Giphy アクセスは、既定で有効になっています。管理者は、[メッセージング ポリシーを設定](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)し、**[会話で Giphy を使用する]** が **[オン]** であることを確認することで、ユーザーが Giphy を使用できるかどうかを制御できます。
 
 GIF が Teams 会話で期待どおりに動作しない場合は、次のことを確認します。
 
