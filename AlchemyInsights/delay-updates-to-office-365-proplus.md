@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102864"
 ---
 # <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for enterprise の更新プログラム受信の延期期間
 

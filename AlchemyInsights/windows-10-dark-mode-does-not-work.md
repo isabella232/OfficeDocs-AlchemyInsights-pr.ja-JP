@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6245"
 - "9003346"
-ms.openlocfilehash: f0a95f4b045f2735c3aab879941b3237c6a27fb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b8e04a53a12cc2bd1a748ddc8df2f98df2d703fd6143f797d816e602005d13b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036821"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Windows 10 のダーク モードが機能しない
 
 **Windows 10 のバージョンを確認 (および更新) する**
 
-まず、Windows 10 のバージョンを確認します。 ダーク モードが正しく機能するには、少なくとも 2019 年 11 月の更新プログラム (バージョン「1909」とも呼ばれる) を実行する必要があります。  
+まず、Windows 10 のバージョンを確認します。ダーク モードが正しく機能するには、少なくとも 2019 年 11 月の更新プログラム (バージョン “1909” とも呼ばれる) を実行する必要があります。  
 
 1. タスクバーの [**スタート**] ボタンを選択またはタップして、「**winver**」と入力します。 
 2. **winver Run command** オプションを選択またはタップして、バージョン情報ウィンドウを表示します。
