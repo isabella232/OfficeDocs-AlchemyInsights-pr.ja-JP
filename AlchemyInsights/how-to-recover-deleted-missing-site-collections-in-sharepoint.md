@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 20211a15d02d5051782f6fc6c044211f0b70661d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c65f9a472190a8121eeb0bd99165e9c65398eb97ce362de954d491078e322f44
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078555"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>表示されないか削除されたサイト コレクションを復元する
 
@@ -28,6 +28,6 @@ ms.locfileid: "47779344"
 
 お探しのサイトが見つからない場合は、[Microsoft 365 セキュリティ/コンプライアンス センター&amp;で監査ログを検索](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)できます。
 
-**注:** "最新の" チーム サイトは**従来の** SharePoint 管理者 UI では表示されません。 [新しい Sharepoint 管理センター](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)から "最新の" サイトのリストにアクセスできます。
+**注:** "最新の" チーム サイトは **従来の** SharePoint 管理者 UI では表示されません。 [新しい Sharepoint 管理センター](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)から "最新の" サイトのリストにアクセスできます。
 
 

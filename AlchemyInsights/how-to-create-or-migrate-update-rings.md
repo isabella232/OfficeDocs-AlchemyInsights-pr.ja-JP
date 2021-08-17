@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48462088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078807"
 ---
 # <a name="how-to-create-or-migrate-update-rings"></a>更新リングを作成または移行する方法
 

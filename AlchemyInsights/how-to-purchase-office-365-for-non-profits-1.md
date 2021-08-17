@@ -16,12 +16,12 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 14aec3bc77d72264bdb45abe2191fa3993d6e2e8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 28066ed85e4160b10a86b4381f04467412bbf41a2821bf1f6bf6cc878acd80f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078700"
 ---
 # <a name="microsoft-365-for-nonprofits---approved"></a>非営利団体向け Microsoft 365
 

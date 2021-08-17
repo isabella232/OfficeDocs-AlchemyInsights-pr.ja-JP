@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: ebdb65c76837b4a31c8f6cff89223481dec1ef804275608cfd60986a4f089204
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049538"
 ---
 # <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>請求書での支払いに切り替える (小切手/電信送金)
 

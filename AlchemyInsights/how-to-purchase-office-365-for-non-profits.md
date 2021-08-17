@@ -16,12 +16,12 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: f960e4aad46c2d480a7dc168f3c05fc1b9e50700
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 57195a476e53f1788d583ef087f853a85968879a3e621414d717f41eacf1b304
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078627"
 ---
 # <a name="microsoft-365-for-nonprofits---under-review"></a>非営利団体向け Microsoft 365 - 現在検討中
 
