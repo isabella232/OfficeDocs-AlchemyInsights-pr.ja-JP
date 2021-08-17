@@ -14,12 +14,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080895"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint サイトを作成する
 
@@ -27,6 +27,6 @@ SharePoint 管理センターで[アクティブなサイト](https://admin.micr
 
 ## <a name="tips"></a>ヒント:
 
-- 既存のサイトと同じ URL のサイトを作成することは**できません**。 サイトを削除し、その URL を再利用する場合は、削除したサイトがまだ [[削除されたサイト](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)] の下に存在している場合があります。 URL を再利用するには、サイトを完全に削除する必要があります。 PowerShell を使ってサイトを完全に削除するには、[Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) コマンドレットの例を参照してください。
-- 一部のユーザーはサイトを作成できない場合があります。 「[SharePoint Online のサイト作成を管理する](https://docs.microsoft.com/sharepoint/manage-site-creation)」を参照してください。
-- サイトの**作成中**に、サイトが予想以上に長く停止しているように見えることがあります。 この問題が発生してから 24 時間以上経過した場合は、サポート チケットを記録してください。 多くの場合、すでに解決策に取り組んでいます。 解決策を完成させるために少なくとも 24 時間を与えてください。
+- 既存のサイトと同じ URL を持つサイトを作成することは **できません**。サイトを削除し、その URL を再利用する場合は、削除したサイトが [[削除されたサイト]](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) 下にまだ存在する可能性があります。URL を再利用するには、サイトを完全に削除する必要があります。Powershell を使用してサイトを完全に削除するには、[Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) コマンドレットの例を参照してください。
+- ユーザーによっては、サイトを作成できない場合があります。[「SharePoint Online のサイト作成を管理する」を参照してください](https://docs.microsoft.com/sharepoint/manage-site-creation)。
+- サイトが **作成中に** 予想より長く停止しているように見えることがあります。この問題が初めて発生してから 24 時間以上経過している場合は、サポート チケットを記録してください。多くの場合は、Microsoft が既に解決策に取り組んでいます。解決策の完成までには 24 時間以上の時間がかかります。

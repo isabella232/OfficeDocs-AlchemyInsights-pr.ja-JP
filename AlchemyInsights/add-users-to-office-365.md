@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 7afc9d7a442bb6a1fdcc6cc624ba9039562a2796faa576592cc7d64dad42ff62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c3bdd6ff2428be9c0b8f5d39934d44c76a26d97da2eabf5b74bc528a6db5b1c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953226"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890815"
 ---
 # <a name="add-a-user"></a>ユーザーの追加
 
@@ -28,4 +28,4 @@ ms.locfileid: "53953226"
 
 3. ウィザードに従って、ユーザー情報、製品ライセンス、オプションの役割、プロファイル情報を追加します。
 
-詳細については、「[ユーザーを個別に、またはまとめて追加する](/microsoft-365/admin/add-users/add-users)」を参照してください。
+詳細については、「[ユーザーを個別に、またはまとめて追加する](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)」を参照してください。
