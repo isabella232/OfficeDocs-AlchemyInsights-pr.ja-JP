@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 02c480e04ee3c5b897f67ad10493cbc59d4505c3cae8e44974d79a03ea111ca7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049574"
 ---
 # <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Microsoft 365 アプリでのサブスクリプションの通知メッセージ
 
@@ -29,7 +29,7 @@ ms.locfileid: "51832459"
 
 - Office アプリを開き、**[ファイル] > [アカウント]** の順に移動して、すべてのアカウントからサインアウトします。 ライセンスが有効なユーザー アカウントを使用して、もう一度サインインします。 詳細については、「[Office のアカウント](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)」を参照してください。
 
-- Office アプリを開き、**[ファイル] > [アカウント] > [更新オプション] > [今すぐ更新]** の順に移動して、影響を受けているマシンの Office を更新します。 詳細な手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
+- Office アプリを開き、**[ファイル] > [アカウント] > [更新オプション] > [今すぐ更新]** の順に移動して、影響を受けているマシンの Office を更新します。詳細な手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 
 - [ライセンス認証のトラブルシューティング ツール](https://aka.ms/SARA-OfficeActivation-Alchemy)を実行し、コンピューターを再起動します。
 

@@ -14,12 +14,12 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050159"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Office のインストール時にエラー コード 30174-4 が表示される
 

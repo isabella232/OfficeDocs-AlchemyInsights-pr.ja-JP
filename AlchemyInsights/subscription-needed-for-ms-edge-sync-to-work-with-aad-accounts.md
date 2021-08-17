@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049610"
 ---
 # <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Azure Active Directory アカウントを操作するために、Microsoft Edge の同期に必要なサブスクリプション
 

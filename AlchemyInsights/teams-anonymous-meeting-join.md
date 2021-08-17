@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106950"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>匿名ユーザーが Teams 会議に参加することを許可または禁止する
 
