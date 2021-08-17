@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926322"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887445"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Edge ブラウザーを使用するとインジケーターが機能しない
 
-インジケーターを作成した後、Edge (スマートスクリーン) によって受け入れられません。 詳細については、「[IP および URL/ドメインのインジケーターを作成する](/microsoft-365/security/defender-endpoint/indicator-ip-domain)」を参照してください。
+インジケーターを作成した後、Edge (スマートスクリーン) によって受け入れられません。 詳細については、「[IP および URL/ドメインのインジケーターを作成する](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)」を参照してください。
 
 ## <a name="step-1-ensure-the-following"></a>手順 1: 次のことを確認する
 
@@ -34,7 +34,7 @@ ms.locfileid: "53926322"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>手順 2: 潜在的な問題のトラブルシューティング
 
-- クライアントが要件を満たしていることを確認してください。 詳細については、「[IP および URL/ドメインのインジケーターを作成する](/microsoft-365/security/defender-endpoint/indicator-ip-domain)」を参照してください。
+- クライアントが要件を満たしていることを確認してください。 詳細については、「[IP および URL/ドメインのインジケーターを作成する](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)」を参照してください。
 - Edge ブラウザーの最新バージョンを実行していることを確認してください。 最新バージョンを確認するには、「[お使いの Microsoft Edge のバージョンを確認する](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)」を参照してください。
 - Edge ブラウザーを再起動します。
 - インジケーターをセットアップしたサイトに移動します。 サイトが期待どおりに表示されない場合は、手順 3 に進みます。 

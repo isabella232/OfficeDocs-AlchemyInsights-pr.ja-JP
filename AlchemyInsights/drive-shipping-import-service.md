@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52732086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888307"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 インポート サービスのドライブ配送
 
@@ -34,12 +34,11 @@ ms.locfileid: "52732086"
 
 覚えておきたい点がいくつかあります。
 
-- PST ファイルを Microsoft 365 メールボックスにインポートするには、Exchange Online で Mailbox Import Export の役割が割り当てられている必要があります。
-20 GB を超える PST の場合、パフォーマンスに影響する可能性があります。
+- PST ファイルを Microsoft 365 メールボックスにインポートするには、Exchange Online で Mailbox Import Export の役割が割り当てられている必要があります。20 GB を超える PST の場合、パフォーマンスに影響する可能性があります。
 
 - 2.5 インチのソリッドステート ドライブ (SSD) または 2.5 インチまたは 3.5 インチの SATA II/III 内部ハード ドライブのみがサポートされています。
 PST ファイルを含むハード ドライブは、BitLocker で暗号化する必要があります。
 
 - ドライブ送付で PST ファイルを Microsoft 365 メールボックスにインポートする費用は、データ 1 GB 当たり $2 USD です。
 
-PST のインポートにドライブ配送方法を使用する際の詳細については、「[ドライブ配送を使用して組織の PST ファイルをインポートする](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)」を参照してください。
+PST のインポートにドライブ配送方法を使用する際の詳細については、「[ドライブ配送を使用して組織の PST ファイルをインポートする](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)」を参照してください。

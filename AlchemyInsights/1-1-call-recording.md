@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918996"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886144"
 ---
 # <a name="11-call-recording"></a>1 対 1 通話のレコーディング
 
@@ -28,7 +28,7 @@ ms.locfileid: "53918996"
 
 *AllowCloudRecordingForCalls*  通話ポリシー オプションは、既定で **$False** に設定されています。 すべてのユーザーに 1 対 1 通話のレコーディングを禁止する場合は、何もする必要はありません。  
 
-1 対 1 通話ですべてのユーザーの通話のレコーディングを有効にするには、 [Teams PowerShell](/microsoftteams/teams-powershell-install) を使用して次のコマンドレットを実行します。 
+1 対 1 通話ですべてのユーザーの通話のレコーディングを有効にするには、 [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) を使用して次のコマンドレットを実行します。 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

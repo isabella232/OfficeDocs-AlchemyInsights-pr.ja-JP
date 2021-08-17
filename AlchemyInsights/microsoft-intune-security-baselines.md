@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886637"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Microsoft Intune セキュリティ ベースラインを使用して Windows 10 デバイスを構成する
 
@@ -30,5 +30,5 @@ Intune セキュリティ ベースラインは、ユーザーとデバイスを
 
 Intune を使用したことがなく、どこから手を付けたらよいか分からない場合、セキュリティ ベースラインはセキュリティで保護されたプロファイルをすばやく作成して展開するのに役立ちます。 セキュリティ ベースラインは Intune に組み込まれており、最先端の管理機能が含まれています。そのため、現在グループ ポリシーを使用している場合は、セキュリティ ベースラインを使用すると、管理目的で Intune に移行する作業がはるかに簡単になります。
 
-詳細については、「[Windows セキュリティ ベースライン](/windows/security/threat-protection/windows-security-baselines)」および「[モバイル デバイス管理](/windows/client-management/mdm/)」を参照してください。
+詳細については、「[Windows セキュリティ ベースライン](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines)」および「[モバイル デバイス管理](https://docs.microsoft.com/windows/client-management/mdm/)」を参照してください。
 
