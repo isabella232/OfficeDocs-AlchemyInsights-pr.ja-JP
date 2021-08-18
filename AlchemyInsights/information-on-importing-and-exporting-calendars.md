@@ -14,12 +14,12 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: 9630d13564d7fc97fb72f4778930f7b92b91529c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c85b27eb4484ba02a3d3d39c7a0b5d39304674181c4e68c1fb8a54e9e8d6560e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115473"
 ---
 # <a name="importing-and-exporting-calendars"></a>予定表のインポートとエクスポート
 

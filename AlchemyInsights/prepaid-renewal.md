@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314533"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901969"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>プリペイドの Microsoft 365 の更新
 
@@ -28,7 +28,9 @@ ms.locfileid: "58314533"
 2. **[製品]** タブで、延長するサブスクリプションを選択します。
 3. サブスクリプションの詳細ページの **[サブスクリプションと支払い設定]** セクションで、**[終了日の延長]** を選択します。
 4. [**ユーザー ライセンスの更新または追加**] ページで [**新しい未使用プロダクト キーの使用**] を選択し、[**次へ**] を選択します。
-5. プロダクト キーを入力し、**[次へ]** を選択します。  **注**: 複数のプロダクト キーがある場合は、[**別のプロダクト キーを追加する**] を選択してキーを入力できます。
+5. プロダクト キーを入力し、[**次へ**] を選択します。
+    > [!NOTE]
+    > 複数のプロダクト キーがある場合は、[**別のプロダクト キーを追加する**] を選択してキーを入力できます。
 6. 注文の詳細を確認し、[**使用**] を選択します。
 
 詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。

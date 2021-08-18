@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115509"
 ---
 # <a name="information-about-gdpr"></a>GDPR に関する情報
 
-- [GDPR をシンプルに: 中小企業向けのガイド](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [GDPR をシンプルに: 中小企業向けのガイド](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - [Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted) の使用を開始します。
 
@@ -31,7 +31,7 @@ ms.locfileid: "57899441"
 
   - [監査レポート](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- **データ主体の要求** (DSR) に関する情報 (検出、アクセス、修正、制限、削除、エクスポート) は、[ここ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)にあります。
+- **データ主体の要求** (DSR) に関する情報 (検出、アクセス、修正、制限、削除、エクスポート) は、[ここ](/microsoft-365/compliance/gdpr-dsr-office365)にあります。
 
 - **データ侵害の通知** に関する情報は、[ここ](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)にあります。
 

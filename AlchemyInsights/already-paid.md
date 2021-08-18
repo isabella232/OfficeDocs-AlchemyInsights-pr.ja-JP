@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 91343e19b53aad0831eecac17fc7957893affed3b2581a3e89761b71beaf61b8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c250831ba9770e6ce454b7680ed05f5747d69761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319153"
 ---
 # <a name="already-paid"></a>お支払い済みですか?
 

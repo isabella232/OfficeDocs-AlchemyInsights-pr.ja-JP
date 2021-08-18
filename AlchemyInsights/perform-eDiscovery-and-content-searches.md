@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317481"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902049"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>コンテンツ検索と電子情報開示検索の実行方法
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317481"
 4. キーワードやコンテンツの場所など、必須の検索条件を入力します。
 5. **[保存および実行]** を選択して検索に名前を付け、検索を開始し、その結果を確認します。
 
-**注**: **[Microsoft 365 コンプライアンス センター]** > **[ソリューション]** で、**[電子情報開示]** を展開し、目的の [電子情報開示] ツールを選択します。
+> [!NOTE]
+> **[Microsoft 365 コンプライアンス センター]** > **[ソリューション]** で、**[電子情報開示]** を展開し、目的の [電子情報開示] ツールを選択します。
 
 コンテンツ検索、結果のエクスポート、およびデータを保持するための電子情報開示ケースの作成に関する詳細な手順については、[[コンテンツ検索](https://docs.microsoft.com/microsoft-365/compliance/content-search)] および [[電子情報開示ケース](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)] を参照してください。
 

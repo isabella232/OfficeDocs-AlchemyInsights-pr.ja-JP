@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: HT
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090885"
 ---
 # <a name="intune-enrollment"></a>Intune の登録
 

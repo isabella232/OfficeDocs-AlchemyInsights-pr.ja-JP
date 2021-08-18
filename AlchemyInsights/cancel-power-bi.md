@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899545"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318955"
 ---
 # <a name="cancel-power-bi"></a>Power BI をキャンセルする
 
@@ -33,7 +33,6 @@ Power BI は、Microsoft 365 管理センターでキャンセルできます。
 
 **返金: 日割り計算された残高は、次の請求サイクルの間に返金されます。**
 
-> [!NOTE]
-> キャンセルを行うためのオプションが表示されない場合は、サブスクリプションを選択して詳細ページを表示します。 **[Subscription and payment settings]** (サブスクリプションと支払設定) セクションで、**[サブスクリプションのキャンセル]** を選択します。
+**注**: キャンセルを行うためのオプションが表示されない場合は、サブスクリプションを選択して詳細ページを表示します。 **[Subscription and payment settings]** (サブスクリプションと支払設定) セクションで、**[サブスクリプションのキャンセル]** を選択します。
 
 詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」を参照してください。

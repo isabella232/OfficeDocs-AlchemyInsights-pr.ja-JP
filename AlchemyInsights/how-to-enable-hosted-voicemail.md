@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055559"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318653"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>ホステッド ボイスメールを有効にする方法
 
@@ -31,5 +31,4 @@ RPS への接続の詳細については、「[Microsoft Teams PowerShell の概
 1. Teams 管理者は、Teams のリモート PowerShell にログインする必要があります。
 1. PowerShell プロンプトから、Teams 管理者は **set-csuser user@contoso.com -HostedVoiceMail $true** を実行できます。ここで、sip uri は問題のユーザーです。
 
-> [!NOTE]
-> ポリシーの変更を複製するには、最大 24 時間かかります。
+**注**: ポリシーの変更を複製するには、最大 24 時間かかります。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902265"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>監査ログで IP アドレスを見つける
 
@@ -28,7 +28,8 @@ ms.locfileid: "58303582"
    - [ソリューションの <https://compliance.microsoft.com> Microsoft 365 コンプライアンス センター] の [ソリューション監査]**に** \> **移動します**。 または、[監査] ページに直接 **移動するには** 、 を使用します <https://compliance.microsoft.com/auditlogsearch> 。
    - [監査] Microsoft 365 Defenderポータル <https://security.microsoft.com> で、[監査] に **移動します**。 または、[監査] ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/auditlogsearch> 。
 
-    **注**: 監査を有効にする必要があるという通知が表示された場合は、次に進んでオンにしてください。 この機能が有効になっていない場合、検索結果は前の日付からデータを取得できません。
+    > [!NOTE]
+    > 監査を有効にする必要があるという通知が表示された場合は、先に進んで今すぐ有効にしてください。 この機能が有効になっていない場合、検索結果は前の日付からデータを取得できません。
 
 2. [監査 **] ページで** 、[検索] タブ **が** 選択されているのを確認し、次の設定を構成します。
    - **日付と時刻の範囲**: [開始] ボックスと [終了] ボックスで日付/時刻 **の範囲****を** 選択します。

@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115437"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>訴訟ホールドおよびインプレース保持に関して
 
