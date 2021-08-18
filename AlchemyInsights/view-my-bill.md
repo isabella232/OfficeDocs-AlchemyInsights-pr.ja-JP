@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 644b2d03700ae605ada126184e59752f7e0d048aea464e21532ce5d4a589cf62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037433"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899985"
 ---
 # <a name="view-my-bill-or-invoice"></a>課金内容または請求書を表示する
 
@@ -31,4 +31,4 @@ ms.locfileid: "54037433"
 
 3. 請求書を印刷するには、PDF ファイルで請求書をダウンロードし、**[印刷]** をクリックします。
 
-詳細については、「[課金内容または請求書を表示する](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)」をご覧ください。
+詳細については、「[課金内容または請求書を表示する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)」をご覧ください。

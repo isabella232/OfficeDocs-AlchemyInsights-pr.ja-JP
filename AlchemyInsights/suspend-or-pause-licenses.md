@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: cab89cce0d9105a11e4c20271719d5efdca96ac089fa0649192628062b58b3ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956772"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900114"
 ---
 # <a name="suspend-or-pause-licenses"></a>ライセンスを停止、または一時停止する
 
@@ -28,10 +28,10 @@ ms.locfileid: "53956772"
 
 ライセンス使用を一時的に停止、または一時停止するには、Microsoft 365 管理センター からライセンスを削除し、後で追加し直すことができます。
 
-1. サブスクリプションからライセンスを削除する前に、最初に[ユーザーからライセンスの割り当てを解除](/microsoft-365/admin/manage/remove-licenses-from-users)する必要があります。
+1. サブスクリプションからライセンスを削除する前に、最初に[ユーザーからライセンスの割り当てを解除](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)する必要があります。
 2. 次に、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページに移動します。
 3. **[製品]** タブで、更新するサブスクリプションを選択します。
 4. [サブスクリプションの詳細] ページで、**[ライセンスの削除]** を選択します。
 5. **[ライセンスの削除]** ウィンドウで、**[ライセンスの総数]** ボックスにこのサブスクリプションに必要なライセンスの総数を入力し、それから **[保存]** を選択します。たとえば、100 個のライセンスを持っていて、25 個を一時的に停止、または一時停止する場合は、サブスクリプションの合計ライセンス数として 75 を入力します。
 
-詳細については、「[ライセンスの購入/削除](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+詳細については、「[ライセンスの購入/削除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
