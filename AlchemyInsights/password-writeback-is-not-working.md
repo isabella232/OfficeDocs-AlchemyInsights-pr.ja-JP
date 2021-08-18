@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999749"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324928"
 ---
 # <a name="password-writeback-is-not-working"></a>パスワードの書き戻しが機能しません
 
@@ -31,8 +31,7 @@ ms.locfileid: "53999749"
     - ライセンス要件の詳細については、「[Azure AD セルフサービスによるパスワードのリセットのライセンス要件](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)」を参照してください。
 - 適切なライセンスの 1 つを持つ、少なくとも 1 つの管理者アカウントと 1 つのテスト ユーザー アカウントがあります。
 - パスワードの書き戻しを機能させるには、Azure AD Connect をプライマリ ドメイン コントローラーのエミュレーターに接続する必要があります。 Active Directory 同期コネクタの **[プロパティ]** を右クリックし、**[ディレクトリ パーティションを構成する]** を選択することで、プライマリ ドメイン コントローラーを使用するように Azure AD Connect を構成できます。 そこから、**[ドメイン コントローラーの接続設定]** セクションを探し、**[優先ドメイン コントローラーのみを使用する]** というタイトルのチェック ボックスをオンにします。
-  > [!NOTE]
-  > 優先 DC が PDC エミュレーターでない場合でも、Azure AD Connect はパスワードの書き戻しのために PDC に連絡します。
+    **注**:優先 DC が PDC エミュレーターではない場合、Azure AD Connectパスワードライトバックのために PDC に引き続きアクセスします。
 - テナントでパスワードのリセットが構成され、有効になっています。 詳細については、「[ユーザーが Azure AD パスワードをリセットできるようにする](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)」をご覧ください。
 - パスワードの書き戻しを有効にするために使用されている管理者アカウントがクラウド管理者アカウントであることを確認してください (オンプレミス AD ではなく Azure AD で作成されます)
 - Windows Server 2008 R2、Windows Server 2012、または最新のサービスパックがインストールされた Windows Server 2012 R2 を実行しているシングルまたはマルチフォレスト AD オンプレミス展開があります

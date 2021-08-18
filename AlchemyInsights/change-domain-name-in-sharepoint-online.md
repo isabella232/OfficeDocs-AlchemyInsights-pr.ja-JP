@@ -11,12 +11,12 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119829"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>SharePoint Online でドメイン名を変更する
 

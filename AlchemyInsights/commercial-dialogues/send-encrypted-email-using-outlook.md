@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f419187662050ba68b5c0bb8d416be5908732561
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081544"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324692"
 ---
 # <a name="send-encrypted-email-using-outlook"></a>Outlook を使用して暗号化されたメールを送信する
 
@@ -30,8 +30,7 @@ ms.locfileid: "54081544"
 2. Outlook on the web の場合:  a. メール メッセージを作成し、**[� > 暗号化]** を選択します。
     b. **[暗号化]** または **[転送不可]** のいずれかをクリックします。
 
-> [!TIP]
-> 既知のファイル形式は保護されています。 ただし、OneDrive for Business から添付ファイルとして送信されるファイルは暗号化されません。 サポートされているすべてのファイルの種類の一覧については、「[Azure Information Protection クライアントでサポートされているファイルの種類](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)」を参照してください。
+**ヒント**: 既知のファイル形式が保護されています。 ただし、OneDrive for Business から添付ファイルとして送信されるファイルは暗号化されません。 サポートされているすべてのファイルの種類の一覧については、「[Azure Information Protection クライアントでサポートされているファイルの種類](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)」を参照してください。
 
 詳細については、「[PC 版 Outlook での暗号化されたメッセージの送信、表示、および返信](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)」を参照してください。
 

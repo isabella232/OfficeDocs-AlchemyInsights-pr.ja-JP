@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967374"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324774"
 ---
 # <a name="publish-sensitivity-labels"></a>秘密度レベルを発行する
 
@@ -29,8 +29,9 @@ ms.locfileid: "53967374"
 3. **[ラベルの発行]** をクリックします。
 4. **[発行する秘密度ラベルの選択]** を選びます。 
 5. アプリとサービスで使用するラベルを選択し、**[追加]** をクリックします。
-> [!IMPORTANT]
-> サブラベルを選択する場合は、必ず親ラベルも選択してください。
+
+**重要**: サブラベルを選択する場合は、必ず親ラベルも選択してください。
+
 6. 選択したラベルを確認します。 変更するには、**[編集]** をクリックします。それ以外の場合は、**[次へ]** をクリックします。
 7. 指示に従ってポリシー設定を構成します。
 8. 異なるユーザーや場所に対して、異なるポリシー設定が必要な場合は、次の手順を繰り返します。 たとえば、ユーザーのグループにラベルを追加したり、ユーザーのサブセットに別の既定のラベルを作成したりできます。

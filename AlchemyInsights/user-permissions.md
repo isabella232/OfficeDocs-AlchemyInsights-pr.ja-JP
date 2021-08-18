@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908355"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324856"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint および OneDrive でのユーザーのアクセス許可
 
@@ -32,10 +32,9 @@ ms.locfileid: "53908355"
     
     コミュニケーション サイトでは、右上の [**サイトの共有**] をクリックして、ユーザー名を入力し、アクセス許可レベル (読み取り、編集、またはフル コントロール) を選択します。 
     
-    従来のチーム サイトの場合は、右上の [**共有**] をクリックします。招待するユーザー名を入力します。組織内の全員と共有するときは「すべてのユーザー」と入力します。[**共有**] をクリックします。
+    従来のチーム サイトでは、右上の [**共有**] をクリックします。招待するユーザー名を入力するか、「すべてのユーザー」と入力すると組織全員と共有できます。[**共有**] をクリックします。
     
-> [!NOTE]
-> サイトのメンバーではあるがサイトの所有者ではない場合、ユーザーをサイトに招待することはできますが、その招待では、サイト所有者が承認または拒否できるアクセス要求が生成されます。 
+**注**: サイトのメンバーではあるがサイトの所有者ではない場合、ユーザーをサイトに招待することはできますが、その招待では、サイト所有者が承認または拒否できるアクセス要求が生成されます。 
   
 [ファイルまたはフォルダーをユーザーと共有する方法について](https://go.microsoft.com/fwlink/?linkid=533408)
   

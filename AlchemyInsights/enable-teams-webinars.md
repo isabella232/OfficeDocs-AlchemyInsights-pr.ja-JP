@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 5efb8ffad0ad2c7d32a2ac334b960484b6fa5545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688979"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325346"
 ---
 # <a name="enable-teams-webinars"></a>Teams のウェビナーを有効にする
 
-ウェビナー登録は既定で有効になっています。 会議の登録を無効にする場合は、Teams 管理センターを使用できます。 
+ウェビナー登録は既定で有効になっています。会議の登録を無効にする場合は、Teams 管理センターを使用できます。 
 
 1. [Teams 管理センター](https://admin.teams.microsoft.com/policies/meetings) に移動します。 
 
@@ -38,6 +38,6 @@ ms.locfileid: "53688979"
 
 3. **[全般]** で、**[登録できるユーザー]** 設定に移動し、**[全員]** または **[社内の全員]** を選択します。 
 
-**注**: 会議の設定で匿名参加がオフになっている場合、匿名ユーザーはウェビナーに参加できません。 この設定の有効化の詳細については、「 [Microsoft Teams で会議設定を管理する](/microsoftteams/meeting-settings-in-teams)」を参照してください。 
+**注**: 会議の設定で匿名参加がオフになっている場合、匿名ユーザーはウェビナーに参加できません。 この設定の有効化の詳細については、「 [Microsoft Teams で会議設定を管理する](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)」を参照してください。 
 
-ウェビナーに登録できるユーザーの構成と、Teams PowerShell を使用してこれらのポリシーを管理する方法の詳細については、「 [ウェビナーに登録できるユーザーの構成](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)」を参照してください。 Microsoft Lists の設定の詳細については、「 [Microsoft Lists のコントロール設定](/sharepoint/control-lists)」を参照してください。 
+ウェビナーに登録できるユーザーの構成と、Teams PowerShell を使用してこれらのポリシーを管理する方法の詳細については、「 [ウェビナーに登録できるユーザーの構成](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)」を参照してください。 Microsoft Lists の設定の詳細については、「 [Microsoft Lists のコントロール設定](https://docs.microsoft.com/sharepoint/control-lists)」を参照してください。 

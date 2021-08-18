@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868683"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323791"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>支払いをクレジット カードから請求書に変更する方法
 
-> [!NOTE]
-> サブスクリプションの費用が特定の金額を超えている場合にのみ、請求書による支払いに変更できます。 請求書による支払いに変更する前に、まずクレジット カード、デビット カード、または銀行口座の未払い分を支払う必要があります。
+**注**: サブスクリプションの費用が特定の金額を超えている場合にのみ、請求書による支払いに変更できます。 請求書による支払いに変更する前に、まずクレジット カード、デビット カード、または銀行口座の未払い分を支払う必要があります。
 
 1. 管理センターで、**[課金]** > [[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054) ページの順に移動します。
 2. **[製品]** タブで、別の支払い方法で支払いたいサブスクリプションを見つけます。

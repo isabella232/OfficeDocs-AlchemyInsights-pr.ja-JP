@@ -14,12 +14,12 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120009"
 ---
 # <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Microsoft Teams クライアントに予定表アイコンが表示されない
 

@@ -14,12 +14,12 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119973"
 ---
 # <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Office 365 管理センターを使用して予定表の共有を有効にする
 

@@ -13,12 +13,12 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119924"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>予定表の共有に関する問題のトラブルシューティング
 

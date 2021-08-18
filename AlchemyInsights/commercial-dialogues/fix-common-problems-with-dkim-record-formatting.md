@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e55175e7613d220eaf956d3c7fd02213dcd5803d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930066"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323995"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>DKIM レコードの書式設定に関する一般的な問題を修正する
 
@@ -28,5 +28,4 @@ DKIM セットアップの問題を修正するには、DKIM CNAME レコード 
 
 DNS レコード全般についてサポートが必要な場合は、「[任意の DNS ホスティング プロバイダーで Office 365 用に DNS レコードを作成する](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。
 
-> [!NOTE]
-> ドメインの DNS ホスティン グサービスで DKIM DNS レコードを作成または更新したら、その DNS レコードが伝達されるまで待機する必要があります。
+**注**: ドメインの DNS ホスティング サービスで DKIM DNS レコードを作成または更新した後、DNS レコードが伝達されるのを待つ必要があります。
