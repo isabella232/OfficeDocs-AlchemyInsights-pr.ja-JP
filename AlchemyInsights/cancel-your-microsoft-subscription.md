@@ -11,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001727"
 - "3824"
-ms.openlocfilehash: e489ede7cd40d59633cf9347ae2afbef788cadf52fee36d8858b5fb283b1f140
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2d4e344d56dee84634f37624b5b3dfc1e8d5a098
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54035813"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331418"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft サブスクリプションをキャンセルする
 

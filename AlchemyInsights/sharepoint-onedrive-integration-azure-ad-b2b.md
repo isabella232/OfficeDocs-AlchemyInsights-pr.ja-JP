@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12463"
 - "9007456"
-ms.openlocfilehash: 43d323d9baeaf676de19734cac4c4666c6a502e43ee263fdc3ed037567472208
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 664e79b7397abb368621fc22780ff578699d172a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897212"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331766"
 ---
 # <a name="sharepoint-and-onedrive-integration-with-azure-ad-b2b"></a>SharePoint および OneDrive の Azure AD B2B との統合
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963792"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339037"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>管理者の追加および管理方法 - 推奨される手順
 
@@ -75,7 +75,7 @@ Azure Active Directory (Azure AD) 組織から、新しいユーザーを追加�
 - [チュートリアル: RBAC および Azure ポータルを使用してユーザーにアクセス権を付与する](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Azure での RBAC のトラブルシューティング](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Azure 管理グループでリソースを編成する](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [メールで Azure 請求書のコピーを要求する方法](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [メールで Azure 請求書のコピーを要求する方法](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Azure でクレジット カードまたはデビット カードを追加、更新、または削除する方法](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [サブスクリプションの管理 (再アクティブ化/キャンセル/切り替え)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

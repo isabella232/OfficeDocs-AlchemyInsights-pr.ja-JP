@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985641"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331898"
 ---
 # <a name="more-info-about-retention-policies"></a>アイテム保持ポリシーの詳細情報
 
@@ -52,5 +52,4 @@ ms.locfileid: "53985641"
   - [リストまたはライブラリの IRM](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [IRM の概要](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> 従来の電子情報開示、IRM、またはサイトのクローズと削除のポリシーをまだ使用している場合は、セキュリティ/コンプライアンス ポリシーに移行することを強くお勧めします。
+**注**: 従来の電子情報開示、IRM、またはサイトのクローズと削除のポリシーをまだ使用している場合は、セキュリティ/コンプライアンス ポリシーに移行することを強くお勧めします。

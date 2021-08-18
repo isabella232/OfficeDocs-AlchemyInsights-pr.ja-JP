@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: f0dd464832b43acceae9774514747e52df0ba17fc11f10c9663449cba21ae9ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c226f51b848ba42162f66edcba1137a8c5f0d738
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076611"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331954"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>学校全体で Microsoft 365 を無料で入手する
 

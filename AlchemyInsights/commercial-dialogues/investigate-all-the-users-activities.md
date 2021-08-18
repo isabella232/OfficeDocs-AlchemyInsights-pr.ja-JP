@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332348"
 ---
 # <a name="investigate-all-the-users-activities"></a>すべてのユーザーのアクティビティを調査する
 
@@ -28,8 +28,7 @@ ms.locfileid: "57898801"
    - [ソリューションの <https://compliance.microsoft.com> Microsoft 365 コンプライアンス センター] の [ソリューション監査]**に** \> **移動します**。 または、[監査] ページに直接 **移動するには** 、 を使用します <https://compliance.microsoft.com/auditlogsearch> 。
    - [監査] Microsoft 365 Defenderポータル <https://security.microsoft.com> で、[監査] に **移動します**。 または、[監査] ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/auditlogsearch> 。
 
-    > [!NOTE]
-    > この機能を有効にする必要があるという通知が表示された場合は、先に進んで今すぐ有効にしてください。 この機能が有効になっていない場合、検索結果は前の日付からデータを取得できません。
+    **注**: 機能を有効にする必要があるという通知が表示された場合は、次に進んでオンにします。 この機能が有効になっていない場合、検索結果は前の日付からデータを取得できません。
 
 2. [監査 **] ページの** [検索] **タブで** 、次の設定を構成します。
    - **日付と時刻の範囲**: [開始] ボックスと [終了] ボックスで日付/時刻 **の範囲****を** 選択します。

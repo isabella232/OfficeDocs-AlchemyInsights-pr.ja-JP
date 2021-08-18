@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545273"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330821"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 のトラブルシューティング
 
-- **メッセージの配信に遅延がある場合** Microsoft Defender for Office 365 の安全な添付ファイル ポリシーの [[動的配信]](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) オプションを使用します。 これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。
+- **メッセージの配信に遅延がある場合** Microsoft Defender for Office 365 の安全な添付ファイル ポリシーの [[動的配信]](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) オプションを使用します。 これにより、メッセージの遅延を回避すると同時に、悪意のあるファイルから受信者を保護できるようになります。
 
-- **Microsoft に誤検知を報告する場合** [報告エクスプローラー](https://protection.office.com/reportsubmission)を使用します。
+- **Microsoft に誤検知を報告するには**、[報告エクスプローラー](https://protection.office.com/reportsubmission)を使用します。
 
 -** 組織内の受信者間で送信される内部メールに安全なリンクの保護機能を有効にする方法をご存知ですか? 手順は次のとおりです。
 

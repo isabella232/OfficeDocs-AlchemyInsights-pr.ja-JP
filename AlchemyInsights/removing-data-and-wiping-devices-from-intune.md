@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922238"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331046"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Intune からのデータの削除とデバイスのワイプ
 
@@ -32,8 +32,7 @@ Device Retire およびDevice Wipe リモートアクションを使用して、
 4. [**はい**] を選択して確認します。 ワイプが完了するまで、デバイスのアクションステータスは *[破棄の保留中]* と表示されます。
     アクションが完了すると、管理対象デバイスのリストにモバイルデバイスが表示されなくなります。
 
-> [!NOTE]
-> 会社のデータを Azure AD に結合されたデバイスから削除することはできません。 
+**注**: 会社のデータを Azure AD に結合されたデバイスから削除することはできません。 
 
 何が保持され何が削除されるかなど、破棄およびワイプ アクションの効果の詳細については、以下のドキュメントを参照してください。
 

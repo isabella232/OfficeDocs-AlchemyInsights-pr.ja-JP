@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 770d8762489767438101a0b6bdb86713aed4149ed2314ae1c94e3d6066a67496
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54018469"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332486"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>請求先住所や請求のメール通知の変更
 
@@ -45,4 +45,4 @@ ms.locfileid: "54018469"
 
 4. [**連絡用メール アドレス**] ボックスに使用する連絡用メール アドレスを入力し、[**保存**] をクリックします。
 
-アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)」を参照してください。
+アドレスと通知の変更の詳細については、「[一般法人向け Microsoft 365 の請求先住所を変更する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)」を参照してください。

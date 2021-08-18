@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12051"
 - "9007100"
-ms.openlocfilehash: 5ab4d07a9f292d2a39f9e00be997beab1990f83211d7177a46cc310effbe4553
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a2a3d9c46c152e0505f158d7833ba23de76f4487
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892096"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331082"
 ---
 # <a name="use-javascript-in-webview2"></a>WebView2 で JavaScript を使用する
 
