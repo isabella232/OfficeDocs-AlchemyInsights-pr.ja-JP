@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d72693900cc2bf0824ae119b8d2ba48e7376765a621eb9f31eb0fe053735f0b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112881"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>OneNote の一般的な問題と解決策
 

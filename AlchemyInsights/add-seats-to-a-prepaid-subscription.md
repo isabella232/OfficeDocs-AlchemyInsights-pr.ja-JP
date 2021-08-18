@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f4666a45695450e01efd5356de50a38a4f6c7aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935594"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316053"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>プリペイド サブスクリプションにシートを追加する
 
@@ -30,9 +30,7 @@ ms.locfileid: "53935594"
 2. **[製品]** タブで、ライセンスを追加するサブスクリプションを選択します。
 3. [サブスクリプションの詳細] ページの **[ライセンス]** セクションで、**[ライセンスを追加する]** を選択します。
 4. [**さらにライセンスを追加する**] ウィンドウで、[**新しい未使用プロダクト キーの使用**] を選択し、[**次へ**] を選択します。
-5. プロダクト キーを入力し、[**次へ**] を選択します。
-    > [!NOTE]
-    > 複数のプロダクト キーがある場合は、[**別のプロダクト キーを追加する**] を選択してキーを入力できます。
+5. プロダクト キーを入力し、**[次へ]** を選択します。  **注**: 複数のプロダクト キーがある場合は、[**別のプロダクト キーを追加する**] を選択してキーを入力できます。
 6. 注文の詳細を確認し、[**使用**] を選択します。
 
 詳細については、「[プロダクト キーを使用するための有料のサブスクリプションにライセンスを追加するか、サブスクリプションを延長する](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)」を参照してください。

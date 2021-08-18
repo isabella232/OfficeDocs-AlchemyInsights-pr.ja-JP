@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 340b197f21f48122ba1fdc60e1ce7cfb0f75f432
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082371"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315843"
 ---
 # <a name="change-your-background-for-a-teams-meeting"></a>Teams 会議の背景を変更する
 
@@ -25,5 +25,4 @@ ms.locfileid: "54082371"
 
 会議前または会議中に背景を変更する方法の詳細については、「[Teams 会議の背景を変更する](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)」を参照してください。
 
-> [!NOTE]
-> 現時点では、Linux ユーザーはこの機能を使用できません。 最適化された仮想デスクトップ インフラストラクチャ (VDI) で Teams を使用している場合は、背景効果も使用できません。
+**注**: 今のところ、Linux ユーザーは、この機能を使用することはできません。 最適化された仮想デスクトップ インフラストラクチャ (VDI) で Teams を使用している場合は、背景効果も使用できません。

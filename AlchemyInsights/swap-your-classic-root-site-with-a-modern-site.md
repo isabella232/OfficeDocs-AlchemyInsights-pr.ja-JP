@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940824"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316145"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>モダン サイトとクラシック ルート サイトを入れ替える
 
@@ -28,13 +28,13 @@ ms.locfileid: "53940824"
     - [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) を使用して、元のサイトをアーカイブしながら、別のサイトとサイトの場所を交換します。 チーム サイト (グループに接続されていない) とコミュニケーション サイトの両方で使用することができます。 
 
 - 間もなく、追加機能が導入されて、引き続きサイトのコンテンツを使用できるようになりますが、既存のサイトをコミュニケーション サイトに変換します。 
->[!Important]
->これらの機能は、段階的にロールアウトされます。 定期的にメッセージ センターで更新プログラムについてご確認ください。 
+
+**重要**: これらの機能は、段階的にロールアウトされます。 定期的にメッセージ センターで更新プログラムについてご確認ください。 
 
 ## <a name="known-issues-with-swapping-sites"></a>サイトの入れ替えに関する既知の問題
 
 - ターゲット サイトでは、短時間の間、"見つかりません" (HTTP 404) というエラーを返す場合があります。
 - 検索インデックスを更新するには、コンテンツが再クロールされる必要があります。 要求される手動ステップはありません。つまり、これは自動的に行われます。
 - "静的" リンクに依存するもの (ファイルの同期や OneNote ファイルなど) は、手動で修正される必要があります。
-- ソース サイトが組織のニュース サイトだった場合は、URL を更新します。  すべての組織のニュース サイトの一覧を取得します。
+- ソース サイトが組織のニュース サイトだった場合は、URL を更新します。  すべての組織のニュース サイトの一覧を取得します。
 - Project Server サイトを検証し、それらが正しく関連付けられていることを確認することが必要な場合があります。

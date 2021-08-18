@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1812"
 - "9000229"
-ms.openlocfilehash: 559685f024c4cf6842aa41fc2e532287ceacae10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc98578e36534cb68c8f09b64cacbbc062196ce38b30111a695e2e5d6029971f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112665"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Outlook.com で休日の予定表を追加する
 

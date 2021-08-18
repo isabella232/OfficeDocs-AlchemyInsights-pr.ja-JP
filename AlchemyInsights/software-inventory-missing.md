@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084648"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897601"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>ソフトウェアインベントリが存在しないか不正確です
 
@@ -32,8 +32,8 @@ ms.locfileid: "54084648"
 
 1. ソフトウェアがどのように検出されたかについては、ソフトウェア エビデンス セクションを確認してください。
 1. ソフトウェアがサポートされているかどうか確認してください。 ソフトウェアは、現在、脅威や脆弱性の管理に対応していなくても、デバイス レベルでしか表示することができない場合があります。 ただし、限られたデータのみ使用可能です。
-1. ポータルで誤りを報告する手順については、「[誤りを報告する](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)」を参照してください。
+1. ポータルで誤りを報告する手順については、「[誤りを報告する](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)」を参照してください。
    
     **注**: MDE ポータルでの誤りの報告は、エンジニアリングへの一方通行のチャネルです。 緊急性の高い問題の場合は、サポート チケットを開きます。
 
-詳細については、「[ソフトウェアインベントリ - 脅威と脆弱性の管理](/microsoft-365/security/defender-endpoint/tvm-software-inventory)」を参照してください。
+詳細については、「[ソフトウェアインベントリ - 脅威と脆弱性の管理](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory)」を参照してください。

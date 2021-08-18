@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ace8e256e3771f82512abcb9e20b832381eedf80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951858"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315915"
 ---
 # <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>Microsoft 365 グループに送信されたメールに対して受信した AggregateGroupMailbox の完全な NDR
 
@@ -26,8 +26,7 @@ ms.locfileid: "53951858"
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
-> [!NOTE]
-> **-SentTo** の SMTP アドレスを、テナントの集約グループのメールボックスの SMTP アドレスに置き換えます。 受信した NDR から集約グループのメールボックスの SMTP アドレスを取得できます。
+**注**: **-SentTo** の SMTP アドレスを、テナントの集約グループのメールボックスの SMTP アドレスに置き換えます。 受信した NDR から集約グループのメールボックスの SMTP アドレスを取得できます。
 
 
 
