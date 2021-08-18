@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085809"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online の一般的な問題と解決策
 
@@ -24,7 +24,7 @@ SharePoint Online についてよく寄せられるトピックは次の通り�
 
 - **はじめに**: [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) を使用して、職場を接続する美しくパワフルなイントラネットを構築します。 「[例](https://lookbook.microsoft.com/)」を参照して、「[デザインのガイダンス](https://spdesign.azurewebsites.net/)」を入手してください。 SharePoint Online の概要については、「[SharePoint Online の概要](https://docs.microsoft.com/sharepoint/introduction)」を参照してください。
 
-- **アクセス許可**: [アクセス許可方針の作成](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)および[アクセス許可レベルの理解](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
+- **アクセス許可**: [アクセス許可方針の作成](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)および [アクセス許可レベルの理解](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
 - **共有**: 「[組織内の他のユーザーとの共有](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)」または「[組織外の他のユーザーとの共有](https://docs.microsoft.com/sharepoint/external-sharing-overview)」。
 

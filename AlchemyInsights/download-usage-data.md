@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004267"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315589"
 ---
 # <a name="download-usage-data"></a>利用状況データのダウンロード
 
@@ -26,8 +26,7 @@ Azure エンタープライズ契約に関連付けられているサブスク�
 
 エンタープライズ Azure (EA) の顧客として利用状況データを表示およびダウンロードするには、次の手順を実行します。
 
-> [!NOTE]
-> [料金の表示] ポリシーが有効になっているエンタープライズ管理者、アカウント所有者、または部門管理者である必要があります。 
+**注**: 表示料金ポリシーが有効になっている場合は、エンタープライズ管理者、アカウント所有者、または部門管理者である必要があります。 
 
 1. Azure ポータルにサインインし、**[コストの管理と課金]** で検索します。
 2. 課金プロファイルを選択し、**[利用状況 + 料金]** をクリックします。

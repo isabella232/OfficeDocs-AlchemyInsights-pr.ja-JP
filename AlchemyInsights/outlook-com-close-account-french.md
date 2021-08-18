@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1152"
 - "8000075"
-ms.openlocfilehash: dfd129fbace9698f9cf161e1df58dbeafb26c054
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74aeeb51a054aa6f9a711105cf85480859424d245f136d3461fdcdb9f1115146
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112125"
 ---
 # <a name="fermer-votre-compte-outlookcom"></a>Fermer votre compte Outlook.com
 

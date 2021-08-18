@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: a08036976b7f9c962a68e782d9b5a11df14dceeb
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688511"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896420"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>未払い残高を手動で支払う
 
@@ -35,4 +35,4 @@ ms.locfileid: "53688511"
 3. 右側のウィンドウで、現在の支払い方法を選択するか、別の支払い方法を選択するか、新しい支払い方法を追加してから、**[残高の決済]** を選択します。
 4. 銀行で必要な場合は、追加のセキュリティと認証の詳細を提供するように求められます。
 
-詳細については、「[支払方法を管理する](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」および「[サブスクリプションの支払い](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。
+詳細については、「[支払方法を管理する](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)」および「[サブスクリプションの支払い](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)」を参照してください。

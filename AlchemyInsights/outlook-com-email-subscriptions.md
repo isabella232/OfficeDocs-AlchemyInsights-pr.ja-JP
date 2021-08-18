@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111909"
 ---
 # <a name="email-subscriptions"></a>メール サブスクリプション
 
@@ -31,5 +31,5 @@ Outlook.com は、メール メッセージがメッセージ内に "購読を�
 2. [Outlook.com サブスクリプション](https://go.microsoft.com/fwlink/?linkid=2110887)設定を開き、[**購読を解除する**] を選択します。
 
 注: 購読しているメールを送信する会社からメールを受信した場合にのみ、この機能が表示されます。
-クエリが Microsoft 365 の有料サブスクリプションに関するものである場合は、[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) にアクセスするか、「[Microsoft 365 の詳細について](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)」をご覧ください。
+クエリが Microsoft 365 の有料サブスクリプションに関するものである場合は、[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) にアクセスするか、「[Microsoft 365 の詳細について](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)」をご覧ください。
   

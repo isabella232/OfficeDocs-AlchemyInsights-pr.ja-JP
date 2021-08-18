@@ -14,12 +14,12 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2df6749cac63e1f2dfbc0caacd5872abf31eadedb7819efaa2d4a05be56f8e4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111981"
 ---
 # <a name="create-a-folder-in-outlookcom"></a>Outlook.com でフォルダーを作成する
 
