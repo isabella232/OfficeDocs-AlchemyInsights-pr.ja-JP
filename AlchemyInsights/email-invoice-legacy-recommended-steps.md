@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003626"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326510"
 ---
 # <a name="e-mail-invoice---legacy"></a>メールによる請求書 - 従来版
 
@@ -52,5 +52,4 @@ ms.locfileid: "54003626"
 4. Azure サブスクリプションを選択し、[**Allow others to download invoice**] (他のユーザーによる請求書のダウンロードを許可) をクリックします。
 5. [**オン**] を選択し、次にページの上部にある [**保存**] を選択します。
 
-> [!NOTE]
-アカウント管理者でない場合は、アカウント管理者に連絡し、上記の指示に従ってオプトインしたり、受信者を追加したり、他のユーザーに請求書のダウンロードを許可したりしてください。
+**注**: アカウント管理者でない場合は、アカウント管理者に連絡し、上記の指示に従ってオプトインしたり、受信者を追加したり、他のユーザーに請求書のダウンロードを許可したりしてください。

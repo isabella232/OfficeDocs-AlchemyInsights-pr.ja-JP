@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4698a2eaaca196673dcf227405dcca1bfa441ea7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030241"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326546"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>FastTrack の対象となるサービスとプラン
 
@@ -25,8 +25,7 @@ Office 365 用 FastTrack Center 特典を使用すると、FastTrack スペシ�
 
 FastTrack ポータルからヘルプを取得するには、[[FastTrack ポータル]](https://go.microsoft.com/fwlink/?linkid=2125443) にサインインし、手順に従って **Microsoft 365 のサポート リクエスト フォーム** に記入します。
 
-> [!NOTE]
-> サインインに問題がある場合、または追加の支援が必要な場合は、[ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com) に電子メールを送信してください。
+**注**: サインインに問題がある場合や、追加のサポートが必要な場合は、メールをメールで送信 [ftcrfa@microsoft.com。](mailto:ftcrfa@microsoft.com)
 
 エンタープライズ ビジネスから教育機関まで、さまざまな業界向けに FastTrack に適格なさまざまなプランがあります。
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 1243139fadb62b17bee217ecdf6e4f977f539a2e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685199"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327256"
 ---
 # <a name="trying-to-find-a-trial"></a>試用版をお探しですか?
 
@@ -31,8 +31,7 @@ ms.locfileid: "53685199"
 
 2. ニーズに合ったサブスクリプションを選択し、[**無料試用版を取得**] を選択します。
 
-    > [!NOTE]
-    > 一部のサブスクリプションには試用版が用意されていません。サブスクリプションにカーソルを合わせても [**無料試用版を取得**] が表示されない場合、試用版はご利用いただけません。
+    **注**: 一部のサブスクリプションには試用版が用意されていません。サブスクリプションにカーソルを合わせても [**無料試用版を取得**] が表示されない場合、試用版はご利用いただけません。
   
 3. セキュリティ対策として検証を追加するために、クレジット カードまたはその他の支払い方法を入力するように求められることがあります。この無料試用版に対して料金を請求されることはありません。支払い情報はファイルに保存されますが、お客様の承認がなければいかなる購入にも利用されません。
 

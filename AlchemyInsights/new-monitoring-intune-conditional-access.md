@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025507"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327562"
 ---
 # <a name="monitor-intune-conditional-access"></a>Intune 条件付きアクセスを監視
 
@@ -39,5 +39,4 @@ ms.locfileid: "54025507"
 - [トラブルシューティング ポリシー](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Intune デバイス コンプライアンスの監視](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> これらの手順は、Azure Active Directory 機能の条件付きアクセスに関するトラブルシューティングを行う場合にのみ役立ちます。 また、Exchange ポリシーを使用してメール アクセスをブロックしているデバイスを検疫することも可能です。 Exchange デバイス管理の詳細については、[**こちら**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)) を参照してください。
+**注**: これらの手順は、条件付きアクセス機能のトラブルシューティングAzure Active Directoryにのみ役立ちます。 また、Exchange ポリシーを使用してメール アクセスをブロックしているデバイスを検疫することも可能です。 Exchange デバイス管理の詳細については、[**こちら**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)) を参照してください。

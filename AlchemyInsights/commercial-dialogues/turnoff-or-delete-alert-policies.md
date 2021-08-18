@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dddd01139d40f4ce97e0e8a18c1a98ac9dbd8aefd01ca7f27c9b30eb532701a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: edc41ecc9db1b3d163d1b44a669dd72fcdfef3ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090952"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326700"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>アラート ポリシーをオフにするか削除する
 
 手順は次のとおりです。
 
-1. [Office 365 セキュリティ/コンプライアンス センター](https://go.microsoft.com/fwlink/p/?linkid=2077143)に移動します。
-1. **[アラート]** > [[アラート ポリシー]](https://go.microsoft.com/fwlink/?linkid=2103208) を選択します。
-1. カスタム ポリシーの場合は、リストから選択し、**[ポリシーの削除]** を選択します。 リストから複数のカスタム ポリシーを選択することにより、複数のカスタム ポリシーを一度に有効化、無効化、または削除できます。
+1. 次のいずれかの操作を実行します。
+   - [アラート] Microsoft 365 コンプライアンス センター <https://compliance.microsoft.com> で、[アラート] セクションの [ポリシー **]** \> アラート ポリシーに **移動** します。 または、[アラート ポリシー] ページに直接 **移動するには** 、 を使用します <https://compliance.microsoft.com/alertpolicies> 。
+   - [ポリシー] Microsoft 365 Defenderで、[ポリシー] & <https://security.microsoft.com> **に** \> **移動します**。 または、[アラート ポリシー] ページに直接 **移動するには** 、 を使用します <https://security.microsoft.com/alertpolicies> 。
+2. カスタム ポリシーの場合は、リストから選択し、**[ポリシーの削除]** を選択します。 リストから複数のカスタム ポリシーを選択することにより、複数のカスタム ポリシーを一度に有効化、無効化、または削除できます。
 
-> [!NOTE]
-> システム ポリシーの場合、削除することはできませんが、有効または無効にしてから、ニーズに合わせて新しいポリシーを作成できます。
+**注**: システム ポリシーの場合は削除できますが、そのポリシーを有効または無効にしてから、ニーズに合わせて新しいポリシーを作成できます。

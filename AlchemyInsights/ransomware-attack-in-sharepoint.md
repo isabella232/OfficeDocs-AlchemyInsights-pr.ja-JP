@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893200"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327526"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint または OneDrive のランサムウェア攻撃
 

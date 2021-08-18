@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874400"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326582"
 ---
 # <a name="domain-status---no-services-selected"></a>ドメイン ステータス - サービスが選択されていません
 
