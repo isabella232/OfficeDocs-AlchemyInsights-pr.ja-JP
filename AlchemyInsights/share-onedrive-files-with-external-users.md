@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051599"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320602"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>組織外のユーザーと OneDrive でファイルを共有する
 
@@ -31,8 +31,7 @@ ms.locfileid: "54051599"
     
   - **特定のユーザー**: 指定したユーザーにのみアクセス権が付与されます。ただし、他のユーザーが既にアクセス権を持っている場合があります。ユーザーが共有の招待を転送した場合、アイテムへのアクセス権を既に持っているユーザーのみがリンクを使用できるようになります。 
     
-    > [!NOTE]
-    > これらのオプションのいずれかが使用できない場合、または別のリンクの種類が既定で表示されるようにする場合は、自分の組織全体の設定を変更することができます。そのためには、OneDrive 管理センターに移動し、左側のウィンドウにある [**共有**] をクリックします。[詳細情報](https://go.microsoft.com/fwlink/?linkid=871961)
+    **注**: これらのオプションのいずれかが使用できない場合、または別のリンクの種類が既定で表示されるようにする場合は、自分の組織全体の設定を変更することができます。そのためには、OneDrive 管理センターに移動し、左側のウィンドウにある [**共有**] をクリックします。[詳細情報](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. 既定では、[**編集の許可**] が有効になっています。ファイルの表示のみをユーザーに許可する場合は、このチェック ボックスをオフにします。 
     

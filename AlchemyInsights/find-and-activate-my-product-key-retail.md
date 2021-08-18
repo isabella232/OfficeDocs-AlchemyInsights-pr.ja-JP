@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068889"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320994"
 ---
 # <a name="retail-prepaid-card"></a>小売用のプリペイド カード
 
 Microsoft 365 Business Standard を小売店舗から購入した場合は、次の手順で有効期限を延長するか、既存のサブスクリプションにライセンスを追加します。
 
-> [!NOTE]
-> プロダクト キーを使用した有効期限の延長や、既存の Microsoft 365 Business Standard サブスクリプションへのライセンスの追加を行うには、同じMicrosoft 365 サブスクリプションの新しい未使用のキーが必要です。 以前使用したキーの再利用はできないため、元の Microsoft 365 プロダクト キーを入力することはできません。
+**注**: プロダクト キーを使用して有効期限を延長したり、既存の Microsoft 365 Business Standard サブスクリプションにライセンスを追加したりするには、同じ Microsoft 365 サブスクリプションの新しい未使用のキーが必要です。 以前使用したキーの再利用はできないため、元の Microsoft 365 プロダクト キーを入力することはできません。
 
 1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 2. 延長するかライセンスを追加するサブスクリプションを見つけてください。 [[終了日の延長]](https://go.microsoft.com/fwlink/p/?linkid=842054) または [[ライセンスの追加]](https://go.microsoft.com/fwlink/p/?linkid=842054) を選択します。

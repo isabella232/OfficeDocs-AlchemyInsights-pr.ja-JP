@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9666"
-ms.openlocfilehash: d933c2b7fa73d6ab1fd91a452ed5736d084cdd18
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
-ms.translationtype: HT
+ms.openlocfilehash: 855921cb5a1e84355a436a5a1f67a2518240fb804c14286f86e7f2fca306bb30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117453"
 ---
 # <a name="feeds-in-yammer"></a>Yammer のフィード
 

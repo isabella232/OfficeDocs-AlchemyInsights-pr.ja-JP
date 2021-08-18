@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994870"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320361"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>ClientAccessServerEnabled を True に設定する
 
@@ -26,11 +26,10 @@ ms.locfileid: "53994870"
 
 1. Exchange Online PowerShell に接続します。
 
-> [!NOTE]
-> Exchange Online PowerShell に接続するには、グローバル管理者または Exchange 管理者アカウントを使用してサインインする必要があります。
+    **注**: PowerShell にExchange Onlineするには、グローバル管理者または管理者アカウントを使用してサインインExchange必要があります。
 
    a. Windows PowerShell を開き、次のコマンドを実行します: `$UserCredential = Get-Credential`
-b. **[Windows PowerShell 資格情報の要求]** ダイアログ ボックスで、職場または学校のアカウントとパスワードを入力します。 **[OK]** をクリックします。 
+   b. **[Windows PowerShell 資格情報の要求]** ダイアログ ボックスで、職場または学校のアカウントとパスワードを入力します。 **[OK]** をクリックします。 
 
 2. 次のコマンドを実行して、新しいセッションを作成します。
 
@@ -46,8 +45,7 @@ b. **[Windows PowerShell 資格情報の要求]** ダイアログ ボックス�
 
     a. **ClientAccessServerEnabled** 設定が **False** に設定されている場合は、次のコマンドレットを実行します: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> 次のコマンドを使用して、PowerShell セッションを常に閉じます: `Remove-PSSession $Session`
+**ヒント**: 次のコマンドを使用して、powershell セッションを常に閉じます。 `Remove-PSSession $Session`
 
 詳細については、「[Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)」をご覧ください。
 

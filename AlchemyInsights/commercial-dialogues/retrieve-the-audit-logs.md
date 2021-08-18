@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893596"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320448"
 ---
 # <a name="retrieve-the-audit-logs"></a>監査ログを取得する
 

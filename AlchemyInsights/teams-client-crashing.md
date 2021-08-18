@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890343"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321630"
 ---
 # <a name="teams-client-crashing"></a>Teams クライアントのクラッシュ
 
@@ -38,10 +38,11 @@ Teams クライアントがそれでもまだクラッシュする場合、そ�
 1. ステップ記録ツールを使用して、手順をキャプチャします。
     - 不要なアプリケーションや機密のアプリケーションをすべて閉じます。
     - ステップ記録ツールを起動し、影響を受けているユーザー アカウントを使用してログインした状態で、問題を再現します。
-    - [記録された再現手順をキャプチャする Teams ログを収集します](https://docs.microsoft.com/microsoftteams/log-files)。 **注**: 影響を受けているユーザーのサインイン アドレスがキャプチャされていることを確認します。
+    - [記録された再現手順をキャプチャする Teams ログを収集します](https://docs.microsoft.com/microsoftteams/log-files)。 
+    
+    **注**: 影響を受けているユーザーのサインイン アドレスがキャプチャされていることを確認します。
     - ダンプや障害バケット情報 (Windows) を収集します。クラッシュが発生しているコンピューターで Windows Powershell を起動し、次のコマンドを実行します (各コマンドの後に Enter キーを押します):
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. テキスト ファイルが生成され、画面に表示されたら、ファイルを保存してサービス要求に添付します。 

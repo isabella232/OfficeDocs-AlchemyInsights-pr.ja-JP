@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9385"
 - "9861"
-ms.openlocfilehash: 66613381a9d07b9e79152cb1fa7f746d02d40f26
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 933264dc876dffc54b5a3fb4ab0630236fab2efa16c6fccc9dc31716cf366129
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117921"
 ---
 # <a name="enable-seamless-single-sign-on-sso"></a>シームレスなシングル サインオン (SSO) を有効にする
 
