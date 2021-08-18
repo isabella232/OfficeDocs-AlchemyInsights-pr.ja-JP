@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118533"
 ---
 # <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365 グループに属しているサイトを削除する
 
@@ -43,7 +43,7 @@ ms.locfileid: "47731208"
 
 サイトを削除する:
   
-1. 新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にある**チェック ボックス**をクリックします。 
+1. 新しい SharePoint 管理センターの[サイト] ページで、削除するサイトの横にある **チェック ボックス** をクリックします。 
     
 2. [リボン] ツールバーで、**[削除]** をクリックします。
     

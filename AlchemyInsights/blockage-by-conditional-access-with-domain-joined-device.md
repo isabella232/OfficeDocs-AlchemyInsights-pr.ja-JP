@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: f0d092dfbc805b1e4fa7d26803227118b39ecacca9fa330bb5de8458d4aa0f57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950301"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323443"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>ドメイン参加済みのデバイスで条件付きアクセスによりブロックされる
 
@@ -52,8 +52,7 @@ Azure AD PRT を保持しているか確認するには、デバイスで `dsreg
 
 この問題を解決するには、影響を受けたデバイスで`dsregcmd/leave` を実行し、Azure AD にもう一度参加してください。詳細については、 [ドキュメント](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices).を参照してください。
 
-> [!NOTE]
-> Windows 10、1809 更新プログラムで VPN またはクラウド プロキシを使用しているデバイスで、"AzureAdPrt" の状態に関する問題、または SSO を使用するアプリの問題 (PRT があるにもかかわらず、Outlook がメールボックスに接続しない場合) が発生する場合は、このパッチ [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) または 4 月の累積更新プログラム [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) を適用して、これらのマシンで PRT 障害が発生しないようにします。
+**注**: Windows 10、1809 更新プログラムで VPN またはクラウド プロキシを使用しているデバイスで、"AzureAdPrt" の状態に関する問題、または SSO を使用するアプリの問題 (PRT があるにもかかわらず、Outlook がメールボックスに接続しない場合) が発生する場合は、このパッチ [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) または 4 月の累積更新プログラム [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) を適用して、これらのマシンで PRT 障害が発生しないようにします。
 
 
 

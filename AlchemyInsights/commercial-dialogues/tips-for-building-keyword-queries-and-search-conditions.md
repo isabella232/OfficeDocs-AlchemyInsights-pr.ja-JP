@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 8d653e97e1a95ac14e49bfe6e03af0b65da5a4c7
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: 59c7a2d9d6484bbaa1103fb13a3aa4fbd5e2ab745208e9474362029cf6406234
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119109"
 ---
 # <a name="tips-for-building-keyword-queries-and-search-conditions"></a>キーワード クエリと検索条件を作成するためのヒント
 

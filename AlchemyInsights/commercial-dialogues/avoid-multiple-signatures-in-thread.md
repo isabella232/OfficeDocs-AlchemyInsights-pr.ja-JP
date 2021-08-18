@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
-ms.translationtype: HT
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119325"
 ---
 # <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>メール スレッドに複数の署名が追加されないようにする
 

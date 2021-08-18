@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707887"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321912"
 ---
 # <a name="issues-with-links-and-urls"></a>リンクおよび URL に関する問題
 
-リダイレクト URI/応答 URL (どちらの表現も置き替え可能) は、Microsoft ID プラットフォームがアプリ要求トークンを返すために使用する URL です。 これらの URL の詳細については、以下の記事を参照してください。
+リダイレクト URI/応答 URL (どちらの表現も置き替え可能) は、Microsoft ID プラットフォームがアプリ要求トークンを返すために使用する URL です。これらの URL の詳細については、以下の記事を参照してください。
 
 - [認証フローとアプリケーション シナリオ](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - 各シナリオの **アプリ登録** ページのリダイレクト URI に関する情報。
 - [リダイレクト URI/応答 URL の制限事項](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
@@ -42,15 +42,13 @@ ms.locfileid: "50707887"
     - プラットフォーム (iOS/Android/UWP)
     - iOS のバンドル ID、Android のパッケージ名と署名ハッシュなど、アプリを作成するために使用される情報 Azure portal アプリの登録が役立ちます。 詳細については、「[プラットフォーム構成およびリダイレクト URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)」を参照してください。
 
-> [!NOTE]
-> Web API およびトークン取得の一部のサイレント方法 (IWA およびユーザー名/パスワード) には、リダイレクト URI は必要ありません。
+**注**: Web API およびトークン取得の一部のサイレント方法 (IWA およびユーザー名/パスワード) には、リダイレクト URI は必要ありません。
 
 **Web アプリケーションを展開しましたが、展開したアプリをテストすると URL 不一致メッセージが表示されます**
 
 Web アプリケーションを展開しているすべてのロケーションにリダイレクト URI を追加します。 詳細については、「[Azure portal を使用して Web アプリを登録する](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)」を参照してください。
 
-> [!NOTE]
-> アプリケーションをロケーションに展開した直後に、そのロケーションのリダイレクト URI を追加します。
+**注**: アプリケーションをロケーションに展開した直後に、そのロケーションのリダイレクト URI を追加します。
 
 **応答 URL を十分に登録できません**
 

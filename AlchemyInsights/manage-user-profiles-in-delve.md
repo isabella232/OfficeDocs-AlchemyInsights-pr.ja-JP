@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b99d4950c72d3167368e3a2754e9cb9e4c6348f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042203"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322857"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Delve でユーザー プロファイルを管理する
 
@@ -28,8 +28,7 @@ Office Delve では、ユーザーが自分のユーザー プロファイルを
     
 - Delve の言語と時刻の形式を変更する
     
-> [!NOTE]
-> ユーザーがプロファイル画像を更新しても、変更が SharePoint または OneDrive に表示されない場合は、Web ブラウザーを開いて、[Office.com にアクセス](https://www.office.com)し、職場または学校アカウントでサインインし、OneDrive または SharePoint のタイルをクリックするようユーザーに依頼します。これにより、プロファイル画像の同期を求めるメッセージが表示されます。ユーザーは、プライベート バージョンのブラウザーでこの手順を実行することが必要な場合もあります。 
+**注**: ユーザーがプロファイル画像を更新しても、変更が SharePoint または OneDrive に表示されない場合は、Web ブラウザーを開いて、[Office.com にアクセス](https://www.office.com)し、職場または学校アカウントでサインインし、OneDrive または SharePoint のタイルをクリックするようユーザーに依頼します。これにより、プロファイル画像の同期を求めるメッセージが表示されます。ユーザーは、プライベート バージョンのブラウザーでこの手順を実行することが必要な場合もあります。 
   
 [Delve でのプロファイルの更新の詳細情報](https://go.microsoft.com/fwlink/?linkid=735070)
   

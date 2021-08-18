@@ -12,12 +12,12 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: b27dc0251ac89fa6e47744ac42ba9a95c8568c21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2db0671d2d7caa1540704e74a8330e0791f68f1dfc2a5b3bf9988f8d716b684
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118497"
 ---
 # <a name="dynamics-crm-import-solutions"></a>Dynamics CRM インポート ソリューション
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a4505b586f474568ea6ec71f23f3c7eab868fe05
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322300"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>Microsoft 365 グループのドメインを変更する
 
@@ -29,5 +29,4 @@ Microsoft 365 グループの作成時にそのドメインを変更するには
 - 変更する M365 グループを検索して選択し、**[全般]** タブの **[メール アドレス]** の下にある **[編集]** をクリックします。
 - これで、プライマリ メール アドレスのドメインを変更でき、メール エイリアスを追加することもできます。
 
-> [!IMPORTANT]
-> 通常の配布グループとメール対応セキュリティ グループを使用すると、M365 管理センターの **[グループ]** セクションから管理する設定を減らすことができます。 詳細を管理する場合は、M365 管理センターで編集するときに **[設定]** タブをクリックし、**[Exchange管理センター] オプションで [その他の設定を管理する]** を選択します。
+> **重要**: 通常の配布グループとメール対応セキュリティ グループを使用すると、M365 管理センターの **[グループ]** セクションから管理する設定を減らすことができます。 詳細を管理する場合は、M365 管理センターで編集するときに **[設定]** タブをクリックし、**[Exchange管理センター] オプションで [その他の設定を管理する]** を選択します。

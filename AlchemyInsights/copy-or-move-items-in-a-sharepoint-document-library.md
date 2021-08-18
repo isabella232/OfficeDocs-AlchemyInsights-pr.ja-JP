@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119145"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>SharePoint ドキュメント ライブラリでアイテムをコピーまたは移動する
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e050074f26025906561237c9ef487ed4743f93b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988840"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322254"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Office 365 で特定の メール メッセージを自動的に暗号化
 
@@ -33,8 +33,7 @@ ms.locfileid: "53988840"
 9. 省略可能な選択を選びます (この時点でできる省略可能な選択の一覧のうち、多くは簡単にするために既定の設定のままにしておくことができます)。
 10. **[保存]** をクリックします。
 
-> [!IMPORTANT]
-> いつでも戻ってこのルールを編集することができます。
+**重要**: このルールは後でいつでも戻って編集できます。
 
 暗号化のルール作成の詳細については、「[Office 365 でメール メッセージを暗号化するためにメール フロー ルールを定義する](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
 
