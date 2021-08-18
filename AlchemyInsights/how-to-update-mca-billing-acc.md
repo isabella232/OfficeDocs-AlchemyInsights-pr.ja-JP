@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001513"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320035"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA に関連付けられている販売先住所および請求先住所の更新 - 推奨される手順
 
 Microsoft 顧客契約 (MCA) に関連付けられている販売先住所および請求先住所を更新できます。 
 
-> [!NOTE]
-> Azure Active Directory のユーザー プロファイル情報を変更できるのは、ユーザー管理者だけです。 ユーザーの管理者役割が割り当てられていない場合は、ユーザー管理者に問い合わせてください。 ユーザーのプロファイルの変更の詳細については、「[Azure Active Directory を使用してユーザーのプロファイル情報を追加または更新する](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)」を参照してください。
+**注**: Azure Active Directory のユーザー プロファイル情報を変更できるのは、ユーザー管理者だけです。 ユーザーの管理者役割が割り当てられていない場合は、ユーザー管理者に問い合わせてください。 ユーザーのプロファイルの変更の詳細については、「[Azure Active Directory を使用してユーザーのプロファイル情報を追加または更新する](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)」を参照してください。
 
 **販売先住所**: 販売先住所は、課金アカウントの責任者である組織または個人の住所および連絡先情報です。 課金アカウント用に作成されたすべての請求書に表示されます。
 

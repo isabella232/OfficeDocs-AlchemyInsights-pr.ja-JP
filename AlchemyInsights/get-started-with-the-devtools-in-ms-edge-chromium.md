@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116373"
 ---
 # <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Microsoft Edge (Chromium) の開発者ツールの使用を開始する
 

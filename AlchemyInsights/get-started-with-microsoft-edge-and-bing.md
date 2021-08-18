@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: HT
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51038265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116409"
 ---
 # <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edge + Bing を使い始める
 
