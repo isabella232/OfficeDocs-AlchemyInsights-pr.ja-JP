@@ -13,12 +13,12 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088221"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlook と Outlook on the web の委任についてのトラブルシューティング
 

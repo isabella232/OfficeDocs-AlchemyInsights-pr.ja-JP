@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100407"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316645"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>アイテムを Outlook for Mac のアーカイブ ファイルにエクスポートする
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100407"
 
 1. **[ツール]** タブで、**[エクスポート]** をクリックします。
 
-> [!NOTE]
-> [**エクスポート**] ボタンが表示されない場合は、 Outlook の最新バージョンがインストールされているか確認します。 Outlook の [**ヘルプ**] メニューで、[**更新プログラムのチェック**] をクリックします。 Outlook のすべての更新プログラムが適用されても [**エクスポート**] ボタンが表示されない場合は、Outlook の [**ファイル**] メニューで [**エクスポート**] を探してください。
+    **注**: [**エクスポート**] ボタンが表示されない場合は、 Outlook の最新バージョンがインストールされているか確認します。 Outlook の [**ヘルプ**] メニューで、[**更新プログラムのチェック**] をクリックします。 Outlook のすべての更新プログラムが適用されても [**エクスポート**] ボタンが表示されない場合は、Outlook の [**ファイル**] メニューで [**エクスポート**] を探してください。
 
 2. [**アーカイブ ファイル (.olm) にエクスポート**] ボックスで、エクスポートしたいアイテムのチェック ボックスをオンにして、[**継続**] をクリックします。
 

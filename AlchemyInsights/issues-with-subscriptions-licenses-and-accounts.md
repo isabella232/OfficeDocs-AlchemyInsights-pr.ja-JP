@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
-ms.translationtype: HT
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087969"
 ---
 # <a name="issues-with-subscriptions-licenses-and-accounts"></a>サブスクリプション、ライセンス、およびアカウントに関する問題
 

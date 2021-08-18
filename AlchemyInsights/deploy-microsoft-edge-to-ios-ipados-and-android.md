@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914152"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316879"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Microsoft Edge を iOS、iPadOS、および Android に展開する
 
 以下に要約するガイド付きシナリオは、iOS、iPadOS、および Android デバイスのユーザーに Microsoft Edge を割り当てるのに役立ちます。
 
-> [!NOTE]
-> ユーザーがモバイル デバイスに登録できないようにした場合、このガイド シナリオは機能せず、ユーザーが Microsoft Edge を自分でインストールする必要があります。
+**注**: ユーザーがモバイル デバイスに登録できないようにした場合、このガイド シナリオは機能せず、ユーザーが Microsoft Edge を自分でインストールする必要があります。
 
 ガイド付きシナリオには、次の手順が含まれます。
 

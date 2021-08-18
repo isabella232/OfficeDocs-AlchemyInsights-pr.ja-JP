@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088005"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 アプリへのサインインに関する問題
 

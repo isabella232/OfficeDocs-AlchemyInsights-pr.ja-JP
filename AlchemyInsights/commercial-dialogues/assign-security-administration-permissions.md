@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: a1be177e9a86f96812c019f7247edcb9b05af974
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 715ebc8dff3426e86b7a0d3ce53476e835923056bd569c111282ec074a7cef9e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897353"
 ---
 # <a name="assign-the-security-administrator-permission"></a>セキュリティ管理者のアクセス許可を割り当てる
 

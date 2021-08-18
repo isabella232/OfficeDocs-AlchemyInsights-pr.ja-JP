@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883360"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316981"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft セキュア スコア
 
@@ -34,7 +34,6 @@ Microsoft セキュア スコア を使用すると、環境をより安全に�
 
 4. [改善アクション **] タブの** 一覧から [To address] または [Regressed]**アイテムを選択** します。新しいページが開き、完全な説明と[**管理]** ボタンが表示され、問題が解決されます。
 
-    > [!NOTE]
-    > 推奨されるセキュリティ機能を構成するためのポイントが与えられますが、一部のアクションには **[スコアなし]** というラベルが付いていることに注意してください。 これは、その改善アクションを実行しても、スコアに対してポイントは付与されないことを示しています。 それ以外の場合、スコアが更新されるまでに *最大 24 時間かかる* 場合があります。
+    **注**: 推奨されるセキュリティ機能を構成するためのポイントが与えられるが、一部のアクションには **[Not Scored]** というラベルが付く点に注意してください。 これは、その改善アクションを実行しても、スコアに対してポイントは付与されないことを示しています。 それ以外の場合、スコアが更新されるまでに *最大 24 時間かかる* 場合があります。
 
 Microsoft セキュア スコアの詳細については、「[Microsoft セキュア スコア](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)」を参照してください。

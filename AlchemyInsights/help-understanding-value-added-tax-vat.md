@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 73c844b3571e607d3fddd7727387ec2b62544f6d
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ca6499046cf96e305bac812ba4445b5b7168954a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686639"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316527"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>付加価値税 (VAT) についての説明
 
