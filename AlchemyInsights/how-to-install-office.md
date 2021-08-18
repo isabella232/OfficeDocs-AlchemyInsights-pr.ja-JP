@@ -12,19 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 188063432bec2e1bdec07c11cbaf6731ab6046d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200642"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328953"
 ---
 # <a name="how-to-install-office"></a>Office のインストール方法
 
 Office クライアント アプリをインストールする場合は、ビジネス用サブスクリプション (Microsoft 365 Business Standard、Microsoft 365 Apps for business、または Office 365 Education など) を取得していることを確認します。
   
-> [!NOTE]
-> [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) は、[家庭向け Office](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) 製品であり、ビジネス用のサブスクリプションには含まれません。 Visio または Project の特定の手順については、「[Visio をインストールする](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA)」または「[Project をインストールする](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA)」を参照してください。
+**注**: [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) は、[家庭向け Office](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) 製品であり、一般法人向けのサブスクリプションには含まれません。Visio または Project の具体的な手順については、「[Visio をインストールする](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA)」または「[Project をインストールする](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA)」を参照してください。
 
 ユーザー アカウントを作成して、自分のドメインを追加します。このユーザーには[ライセンスが割り当てられている](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ことを確認してください。
 

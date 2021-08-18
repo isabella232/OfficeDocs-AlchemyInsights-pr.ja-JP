@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914008"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330377"
 ---
 # <a name="device-in-pending-state"></a>保留状態のデバイス
 
@@ -40,8 +40,7 @@ Hybrid Azure AD Join の登録プロセスを実行するには、デバイス�
     1. まず、デバイスはクライアント側の SCP からの情報をレジストリ [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD] に取得しようとします。 詳細については、「[ドキュメント](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)」を参照してください。
     1. 失敗した場合、デバイスは社内 Active Directory と通信し、SCP からテナント情報を取得します。 SCP を検証するには、この[ドキュメント](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)を参照してください。
 
-    > [!NOTE]
-    > Active Directory で SCP を有効にし、クライアント側の SCP は最初の認証のときだけに使用することをおすすめします。
+    **注**: Active Directory で SCP を有効にし、クライアント側の SCP は最初の認証のときだけに使用することをお勧めします。
 
 2. Windows 10 は Azure AD から認証を受けるために、システム コンテキストのもとで Azure AD との通信を試みます。
 
@@ -55,11 +54,9 @@ Hybrid Azure AD Join の登録プロセスを実行するには、デバイス�
 
 6. ユーザーが次回 Windows 10 にログインするときに、登録が完了します。
 
-    > [!NOTE]
-    > デバイスが VPN 上にあり、ログオフとログインがドメイン接続を終了させる場合、手動で登録を開始することができます。そのためには、次の手順を実行します。
-    >
-    > `dsregcmd /join` をローカルで管理者プロンプトに、または PSExec からリモートで PC に発行します。
-    >
-    > 例: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **注**: デバイスが VPN 上にあり、ログオフとログインがドメイン接続を終了させる場合、手動で登録を開始することができます。 それには、次の手順を実行します。
+    
+    `dsregcmd /join` をローカルで管理者プロンプトに、または PSExec からリモートで PC に発行します。\
+    例: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Azure Active Directory デバイス登録に関する一般的な問題については、「[デバイスに関する FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq)」を参照してください。

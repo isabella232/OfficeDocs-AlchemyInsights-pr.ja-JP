@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034687"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327923"
 ---
 # <a name="get-started-with-communication-compliance"></a>コミュニケーション コンプライアンスの使用を開始する
 
@@ -35,5 +35,4 @@ ms.locfileid: "54034687"
 * Office 365 Enterprise E5 サブスクリプション (有料または試用版)
 * Office 365 Advanced Compliance アドオンが含まれている Office 365 Enterprise E3 サブスクリプション (新しいサブスクリプションでは利用できなくなりました。注を参照してください)
 
-    > [!NOTE]
-    > 既存の Office 365 Enterprise E5 プランがなく、インサイダー リスク管理をお試しになりたい場合は、[Microsoft 365 を既存のサブスクリプションに追加](https://go.microsoft.com/fwlink/?linkid=2130508)するか、Office 365 Enterprise E5 の試用版にサインアップすることができます。
+    **注**: 既存の Office 365 Enterprise E5 プランをお持ちで、インサイダー リスク管理を試す場合は [](https://go.microsoft.com/fwlink/?linkid=2130508)、Microsoft 365 を既存のサブスクリプションに追加するか、Office 365 Enterprise E5 の試用版にサインアップできます。

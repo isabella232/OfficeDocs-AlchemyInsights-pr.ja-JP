@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998948"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328295"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>サブスクリプションの管理 - セキュリティおよびコンプライアンスの要求 - azure の業界コンプライアンス認定
 
@@ -38,8 +38,7 @@ ms.locfileid: "53998948"
 
 - **GDPR コンプライアンス**: データ処理契約について質問がある場合は、「オンラインサービス規約」の 7 ページから始まる「データ保護規約」を参照してください。 OST には主要なデータ処理条件が含まれていますが、標準の商業契約に組み込まれています。 特に、GDPR の責務に関する契約上のコミットメントを提供します。 さらに、42 ページから始まる「添付資料 4 」の契約の最後にある GDPR 固有の条件を参照してください。 これらのセクションでは、データ プロセッサおよび別のデータ プロセッサのサブ プロセッサとしての Microsoft の GDPR の責務について説明します。
 
-> [!NOTE]
-> 他の PDF ビューアの問題が指摘されているため、Adobe Acrobat Reader を使用して PDF ドキュメントを開くことを強くお勧めします。また、エラーが発生する可能性があるため、ファイルをブラウザ ウィンドウで開くのではなく、ローカルにダウンロードすることをお勧めします。
+**注**: 他の PDF ビューアの問題が指摘されているため、Adobe Acrobat Reader を使用して PDF ドキュメントを開くことを強くお勧めします。また、エラーが発生する可能性があるため、ファイルをブラウザ ウィンドウで開くのではなく、ローカルにダウンロードすることをお勧めします。
 
 - **HDS コンプライアンス**: Azure は、フランスの要件に従って認定された「ヘルス データ ホスティング」になりました。 詳細については、「Microsoft Azure is now certified to host sensitive health data in France」を参照してください。
 
@@ -49,8 +48,7 @@ ms.locfileid: "53998948"
 
 - **サブプロセッサ の変更に関するお客様への通知**: Microsoft の個人データ サブプロセッサ リストへの変更の通知を受け取ることを選択できます。
 
-> [!NOTE]
-> オンライン サービスの顧客データと個人データ リストの通知は完全に自動化されています。 詳細については、「Microsofts データ保護リソース」を参照してください。
+**注**: オンライン サービスの顧客データと個人データ リストの通知は完全に自動化されています。 詳細については、「Microsofts データ保護リソース」を参照してください。
 
 **おすすめのドキュメント**
 

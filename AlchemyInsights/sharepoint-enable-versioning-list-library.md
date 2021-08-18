@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085845"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328377"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint と OneDrive でのバージョン管理 
 
@@ -39,7 +39,6 @@ SharePoint リストまたはライブラリでバージョン管理が有効に
 
 - [バージョン管理の制限](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Microsoft 365 ユーザーの場合は、新しい OneDrive for Business のライブラリを作成すると、規定でバージョン管理がオンになるようになりました。しかも、ドキュメントの最新 500 バージョンが自動的に保存されます。 これは、重要なドキュメントやデータの損失防止に役立ちます。 OneDrive for Business サイトやチーム サイトに、バージョン管理が有効になっていない既存のライブラリがある場合は、それらのバージョン管理をいつでもオンにできます。
+**注**: Microsoft 365 ユーザーの場合は、新しい OneDrive for Business のライブラリを作成すると、規定でバージョン管理がオンになるようになりました。しかも、ドキュメントの最新 500 バージョンが自動的に保存されます。 これは、重要なドキュメントやデータの損失防止に役立ちます。 OneDrive for Business サイトやチーム サイトに、バージョン管理が有効になっていない既存のライブラリがある場合は、それらのバージョン管理をいつでもオンにできます。
 
 

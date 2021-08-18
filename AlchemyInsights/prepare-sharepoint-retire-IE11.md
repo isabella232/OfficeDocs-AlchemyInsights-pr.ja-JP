@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11527"
 - "9000292"
-ms.openlocfilehash: dc2e952cf69f065ec6d5cd80712661d285d3d95a9110e09434239ed83fc43617
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1a5ba3f56280a0e67da758fb32465a82932f950b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893804"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328683"
 ---
 # <a name="prepare-your-sharepoint-environment-for-the-retirement-of-internet-explorer-11"></a>Internet Explorer 11 の使用停止に向けた SharePoint 環境の準備
 
