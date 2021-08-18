@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972613"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900693"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>OneDrive へのサインインに関するトラブルシューティング
 
@@ -29,7 +29,7 @@ ms.locfileid: "53972613"
 
 **OneDrive 同期クライアントへのサインインに関するトラブルシューティング**
 
-- エラー コード 0x004de40 を解決する手順については、「[OneDrive にサインインした場合のエラー コード 0x8004de40](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)」を参照してください。
+- エラー コード 0x004de40 を解決する手順については、「[OneDrive にサインインした場合のエラー コード 0x8004de40](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)」を参照してください。
 - サイトにアクセスして OneDrive または SharePoint サイトにサインインし、サイトのメニュー バーの上部にある **[同期]** ボタンをクリックします。
 - OneDrive.com ではなく、OneDrive for Business にサインインしていることを確認してください。 アクセスする URL が onedrive.live.com で始まる場合、それは OneDrive for Business の場所ではありません。 確実に OneDrive for Business にサインインする簡単な方法は、このリンク https://portal.office.com/onedrive を使用し、職場または学校のアカウントを使用してログオンすることです。
 - 問題が解消されない場合は、[OneDrive のリセット](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c)を検討してください。
@@ -48,5 +48,5 @@ ms.locfileid: "53972613"
 
 **その他のトラブルシューティングのヒント**
 
-グローバル管理者、ライセンス管理者、またはユーザー管理者の場合は、[影響を受けるユーザーに正しいライセンスを割り当て](/microsoft-365/admin/manage/assign-licenses-to-users)てください。
+グローバル管理者、ライセンス管理者、またはユーザー管理者の場合は、[影響を受けるユーザーに正しいライセンスを割り当て](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)てください。
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49680453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114177"
 ---
 # <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge はプライバシー設定を構成する
 

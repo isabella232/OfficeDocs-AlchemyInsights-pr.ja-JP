@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900433"
 ---
 # <a name="cancel-project-subscription"></a>Project サブスクリプションをキャンセルする
 
@@ -32,4 +32,4 @@ ms.locfileid: "54071409"
 
 **返金**: 日割り計算された残高は、次の請求サイクルの間に返金されます。
 
-詳細については、「[サブスクリプションをキャンセルする](/microsoft-365/commerce/subscriptions/cancel-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションをキャンセルする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)」を参照してください。

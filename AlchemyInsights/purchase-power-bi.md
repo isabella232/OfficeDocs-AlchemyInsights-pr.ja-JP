@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 84f1c34b039435b0236462c23e0fbc8c2a14965bb0dca990be58daa61398a05e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54024355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900961"
 ---
 # <a name="purchase-power-bi"></a>Power BI を購入する
 
@@ -33,6 +33,6 @@ Power BI は、**Microsoft 365 管理センター** で購入できます。
 5. 価格情報を確認し、[**次へ**] を選択します。
 6. 支払情報を入力して、**[注文]**  >  **[管理者ホームに移動する**] の順に選びます。
 
-ユーザーにライセンスを割り当てる方法については、「[ユーザーにライセンスを割り当てる](/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
+ユーザーにライセンスを割り当てる方法については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ビジネス サブスクリプションのライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ビジネス サブスクリプションのライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)」をご覧ください。

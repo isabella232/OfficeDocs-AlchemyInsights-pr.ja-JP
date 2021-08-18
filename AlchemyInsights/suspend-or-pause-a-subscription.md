@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107022"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317349"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>サブスクリプションを停止、または一時停止する
 
@@ -27,6 +27,6 @@ ms.locfileid: "54107022"
 
 1. 管理センターで、**[課金]** > **[[製品]](https://go.microsoft.com/fwlink/p/?linkid=842054)** ページの順に移動します。
 2. **[製品]** タブで、キャンセルするサブスクリプションを見つけます。3 つのドット (その他の操作) を選択し、**[サブスクリプションのキャンセル]** を選択します。
-3. サブスクリプションの状態が **[無効]** として表示され、サブスクリプションがキャンセルされた日付が表示されます。 サブスクリプションは90 日間無効な状態のまま残り、削除されるか[再アクティブ化](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) されるまで機能が制限されます。
+3. サブスクリプションの状態が **[無効]** として表示され、サブスクリプションがキャンセルされた日付が表示されます。 サブスクリプションは90 日間無効な状態のまま残り、削除されるか[再アクティブ化](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) されるまで機能が制限されます。
 
-詳細については、「[サブスクリプションをキャンセルした場合](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)」と「[データを保存する](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)」をご覧ください。
+詳細については、「[サブスクリプションをキャンセルした場合](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)」と「[データを保存する](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)」をご覧ください。

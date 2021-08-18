@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10978"
 - "9006450"
-ms.openlocfilehash: e30c42bda3eb34c3f99cc4f134ca5dfeefe6cd8e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 46df184db80768c05fc7f373fe610a0db1c87bc1f5af419537a3534ecea05784
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316491"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899837"
 ---
 # <a name="learn-about-the-security-features-of-microsoft-edge"></a>Microsoft Edge のセキュリティ機能の詳細
 

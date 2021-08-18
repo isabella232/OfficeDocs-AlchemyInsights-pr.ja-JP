@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972316"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900513"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>セキュリティ/コンプライアンス センターの統合されたアイテム保持ポリシー
 
@@ -31,6 +31,6 @@ ms.locfileid: "53972316"
       
 Exchange メール、OneDrive、SharePoint、チーム コンテンツなどの、コンテンツのアイテム保持ポリシーの詳細については、[「アイテム保持ポリシーの概要」](https://go.microsoft.com/fwlink/?linkid=2127785)をご覧ください。  
     
-Exchange 管理センターとセキュリティ & コンプライアンス センターでアイテム保持ポリシーを並行して使用している場合は、[「以前の機能ではなく、アイテム保持ポリシーを使用する」](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)ために、この推奨事項を確認してください。  
+Exchange 管理センターとセキュリティ & コンプライアンス センターでアイテム保持ポリシーを並行して使用している場合は、[「以前の機能ではなく、アイテム保持ポリシーを使用する」](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)ために、この推奨事項を確認してください。  
     
-チームの保持の詳細については、[「Teams のアイテム保持ポリシー」](/microsoftteams/retention-policies)をご覧ください。
+チームの保持の詳細については、[「Teams のアイテム保持ポリシー」](https://docs.microsoft.com/microsoftteams/retention-policies)をご覧ください。

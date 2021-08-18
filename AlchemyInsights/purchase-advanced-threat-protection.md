@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901029"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 を購入する
 
-Microsoft Defender for Office 365 は、Microsoft 365 E5、Office 365 E5、Office 365 A5、Microsoft 365 Business Premium などの特定のサブスクリプションに含まれています。 サブスクリプションに Defender for Office 365 が含まれていない場合は、特定のサブスクリプションへのアドオンとして [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp) を購入できます。 Microsoft 365 管理センターで購入するには:
+Microsoft Defender for Office 365 は、Microsoft 365 E5、Office 365 E5、Office 365 A5、Microsoft 365 Business Premium などの特定のサブスクリプションに含まれています。 サブスクリプションに Defender for Office 365 が含まれていない場合は、特定のサブスクリプションへのアドオンとして [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) を購入できます。 Microsoft 365 管理センターで購入するには:
 
 1. 管理センターで、**[課金]**  >  [[サービスを購入する]](https://go.microsoft.com/fwlink/p/?linkid=868433) ページに移動します。
 2. **[サービスの購入]** ページの下部にある **[アドオン]** セクションで、Microsoft Defender for Office 365 アドオンを見つけ、**[詳細]** を選択します。
@@ -33,6 +33,6 @@ Microsoft Defender for Office 365 は、Microsoft 365 E5、Office 365 E5、Offic
 5. 必要に応じて、注文と価格の情報を確認し、**[次へ]** を選択します。
 6. 支払い方法を選択するか、新しい支払い方法を追加し、**[注文]**  >  **[管理ホームに移動する]** を選択します。
 
-ユーザーにライセンスを割り当てる方法については、「[ユーザーにライセンスを割り当てる](/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
+ユーザーにライセンスを割り当てる方法については、「[ユーザーにライセンスを割り当てる](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)」をご覧ください。
 
-追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。
+追加のライセンスを購入する方法、ライセンスを削除する方法については、「[ライセンスを購入または削除する](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)」をご覧ください。

@@ -14,12 +14,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089445"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>メールにアクセスしようとしたときに TenantAccessBlockedException エラーが表示される場合
 
