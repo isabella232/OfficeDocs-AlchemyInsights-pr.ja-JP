@@ -12,17 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004361"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339073"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Teams の出席レポートをダウンロードする
 
-会議の開催者は、会議中に出席レポートをダウンロードできます。 管理者は、Teams 会議ポリシーを設定して、会議の開催者が会議の出席レポートをダウンロードできるかどうかを制御します。 既定では、レポートのダウンロード機能はオフになっています。 この機能をオンにする手順については、「[会議ポリシーの設定 - 会議の出席レポート](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)」をご覧ください。
+会議の開催者は、会議中に出席レポートをダウンロードできます。管理者は、Teams 会議ポリシーを設定して、会議の開催者が会議出席レポートをダウンロードできるかどうかを制御します。 
 
-有効にすると、会議中に、会議の開催者は [**参加者を表示**] を選択し、[**参加者リストをダウンロード**] を選択できます。 詳細については、「[Teams の出席レポートをダウンロードする](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)」および「[Microsoft Teams 会議の出席レポート](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)」を参照してください。
+既定では、レポートのダウンロード機能はオフになっています。 
 
-**重要**: 出席レポートは、会議が進行中で参加者がいる間にのみダウンロードできます。
+出席レポートを有効にするには: 
+1.  [Teams 管理センター](https://admin.teams.microsoft.com/policies/meetings) に移動します。
+1.  **[グローバル (組織全体の既定値)]** またはその他の特定のポリシーを選択します。
+1.  **[全般]** で、**[エンゲージメント レポートを許可する]** 設定に移動し、[**有効にする**] を選択します。
+
+出席レポートの詳細については、以下を参照してください。
+
+- [会議のポリシーの設定-会議出席レポート](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+- [Teams の出席レポートをダウンロードする](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
+- [Microsoft Teams 会議出席レポート](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
