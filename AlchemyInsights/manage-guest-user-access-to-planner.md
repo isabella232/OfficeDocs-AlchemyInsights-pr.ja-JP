@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bc99d720f4d76266d25c1a38db1e9aabc8cfd228859b634a657230ac9cde2d89
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114861"
 ---
 # <a name="manage-guest-user-access-to-planner"></a>Planner へのゲスト ユーザー アクセスを管理する
 

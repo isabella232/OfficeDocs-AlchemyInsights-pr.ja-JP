@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901473"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 脅威エキスパート - 標的型攻撃通知
 
@@ -38,4 +38,4 @@ Microsoft 脅威エキスパートから、以下の媒体を通じて、標的�
 
 メールにて標的型攻撃通知を受信するには、メール通知ルールを作成します。 
 
-詳細については、「[Microsoft 脅威エキスパートの機能を構成および管理する](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)」を参照してください。
+詳細については、「[Microsoft 脅威エキスパートの機能を構成および管理する](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)」を参照してください。

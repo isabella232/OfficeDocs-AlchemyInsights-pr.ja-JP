@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317349"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900805"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>サブスクリプションを停止、または一時停止する
 

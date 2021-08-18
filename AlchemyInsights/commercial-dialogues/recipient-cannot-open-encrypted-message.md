@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967158"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317747"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Outlook で保護されたメッセージを表示する際の問題を解決する
 
@@ -28,8 +28,7 @@ ms.locfileid: "53967158"
 
 1. 使用しているメール クライアントに応じて、**[メッセージを読む]** または同様の指示をクリックします。 ユーザーは、サインインすると一時使用コードを受信できるページにリダイレクトされます。
 
-> [!NOTE]
-> Gmail ユーザーは、Gmail でサインインするよう求められます。 **[許可]** をクリックすると、メッセージが新しいタブで開きます。
+    **注**: Gmail ユーザーの場合は、Gmail でサインインを求めるメッセージが表示されます。 **[許可]** をクリックすると、メッセージが新しいタブで開きます。
 
 2. メールで一時使用コードを確認し、ブラウザー ウィンドウにコードを入力します。
 

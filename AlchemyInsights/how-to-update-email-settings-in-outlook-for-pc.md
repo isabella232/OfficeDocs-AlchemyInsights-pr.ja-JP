@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976978"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318385"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>PC 版 Outlook でメールの設定を更新する方法
 
@@ -31,8 +31,7 @@ ms.locfileid: "53976978"
 
 5. 受信または送信サーバーのポートまたは SSL の設定を更新する必要がある場合は、 [**高度**] タブに移動し、必要な変更を加えます。
 
-> [!NOTE]
-> **AOL および Verizon のお客様の場合**: **送受信サーバーの暗号化された接続** の下にあるドロップダウン ボックスから [**SSL/TLS**] を選択すると、2017 年 11 月 7 日以降も継続してメールを送受信できます。
+    **注**: **AOL および Verizon のお客様の場合**: **送受信サーバーの暗号化された接続** の下にあるドロップダウン ボックスから **[SSL/TLS]** を選択すると、2017 年 11 月 7 日以降も継続してメールを送受信できます。
 
 6. 設定の更新が完了したら、[**OK**]、[**次へ**]、[**完了**] の順にクリックします。
 
