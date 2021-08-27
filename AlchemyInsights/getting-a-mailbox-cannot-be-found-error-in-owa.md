@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056495"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522359"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Outlook on the web で「メールボックスが見つかりませんでした」というエラーが表示される場合
 
-Outlook on the web を使用しているときに、「**メールボックスが見つかりませんでした**」というエラーが表示された場合は、Outlook on the web への接続時に使用したアカウントに Exchange Online ライセンスが付与されていないため、そのアカウントにメールボックスが関連付けられていません。管理者は、次の手順に従ってアカウントにライセンスを割り当てることができます。
+Outlook Web App (OWA) エラーが発生した場合: "*ユーザー* のメールボックスが見つかりませんでした。" というエラーは、ログインしているユーザーに Exchange Onlince ライセンスと sp がないことを意味します。このユーザー アカウントに Exchange Online メールボックスは関連付けられません。 
 
-1. [Microsoft 365 管理センター](https://portal.office.com/adminportal/home#/homepage)を開き、[**ユーザー**] セクションの [**アクティブ ユーザー**] に移動して、エラーが表示されているユーザーを選択します。
+組織の管理者は次の手順に従って Microsoft 365 管理センターから Exchange ライセンスをユーザーに割り当てることができます。
 
-2. 開いたユーザー ページで、[**ライセンスとアプリ**] セクションに移動し、該当する [**場所**] の値を選択し、Exchange Online を含むライセンスを割り当てます (ライセンスを展開して、その詳細を表示します)。終了したら、[**変更を保存**] をクリックします。
-
-ライセンスが既にユーザー アカウントに割り当てられている場合には、ライセンスを削除して再割り当てすると、問題を解決してシステムで適切にプロビジョニングすることができます。 
-
-- M365 Exchange Online (他の場合も) サブスクリプションが最新であり、最近期限が切れていないか確認します。
-
-サブスクリプションの有効期限が切れておらず、有効なライセンスがユーザー アカウントに割り当てられている場合、ライセンスがプロビジョニングされるのに最大 24 時間かかることがあります。問題解決まで待つ必要がある場合もあります。詳細については、「[ライセンスの割り当てと管理](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)」をご覧ください。
+1. [[アクティブなユーザー]](https://portal.office.com/adminportal/home#/users) に移動し、ユーザーを選択してから **[製品ライセンス]**  >  **[編集]** の順に選択します。 
+1. 要求された場所を設定する
+1. Exchange Online サービス プランがあるライセンスを割り当てます。
