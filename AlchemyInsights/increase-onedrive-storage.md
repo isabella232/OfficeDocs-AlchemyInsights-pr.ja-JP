@@ -26,4 +26,4 @@ Microsoft 365 の全体管理者または SharePoint 管理者として、Micros
 
 詳細については、「[特定のユーザーの OneDrive の記憶域を変更する](https://docs.microsoft.com/onedrive/change-user-storage)」を参照してください。
 
-**注意**: 組織内のユーザーが使用できるストレージを確認するには、「 [完全なサブスクリプションの比較の表](https://go.microsoft.com/fwlink/?linkid=2139145)」を参照してください。 
+**注意**: 組織内のユーザーが使用できるストレージを確認するには、「 [完全なサブスクリプション比較表](https://go.microsoft.com/fwlink/?linkid=2139145)」を参照してください。 
