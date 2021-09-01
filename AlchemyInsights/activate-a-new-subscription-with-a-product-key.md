@@ -14,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "480"
 - "1500028"
+ms.date: 07/30/2021
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: ebc8a577ec08f2114e6c8a0ace794f37b09e8684a894f93388a57656eda495e4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d25b88b2af5210e729f71e275f01da7cbdebb2c2
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53938412"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842915"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>プロダクト キーで新しいサブスクリプションをアクティブにする
 
