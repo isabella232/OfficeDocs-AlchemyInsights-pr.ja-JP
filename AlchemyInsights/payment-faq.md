@@ -3,7 +3,6 @@ title: 支払いに関するよく寄せられる質問
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310936"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841906"
 ---
 # <a name="payment-faq"></a>支払いに関するよく寄せられる質問
 

@@ -3,7 +3,7 @@ title: ライセンスまたはサブスクリプションについてよく寄�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,13 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: c43b3d5b7e140fe91812b42b8622c826f9987f29
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316455"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836722"
 ---
 # <a name="license-or-subscription-faq"></a>ライセンスまたはサブスクリプションについてよく寄せられる質問 (FAQ)
 

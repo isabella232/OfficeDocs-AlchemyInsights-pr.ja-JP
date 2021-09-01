@@ -3,7 +3,6 @@ title: 請求先住所や請求のメール通知の変更
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332486"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842014"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>請求先住所や請求のメール通知の変更
 
