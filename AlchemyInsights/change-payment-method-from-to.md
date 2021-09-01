@@ -3,7 +3,6 @@ title: 支払い方法を変更する
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: a99f93ef4858a19de2d134a882a34867795afd4e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: eb2b357c47d6b437eb23df58a1e3bba98d606a99
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327072"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844571"
 ---
 # <a name="change-payment-method-fromto"></a>支払い方法を変更する
 

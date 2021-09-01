@@ -3,7 +3,6 @@ title: ユーザーに Power BI を割り当てる
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: 52c85712f81d8373a7c24d363fc3598e1fa4edd2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 84cbfc27eee9d979f2b25a0f6b9ea3ccf4211e09
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329239"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844499"
 ---
 # <a name="assign-power-bi-to-users"></a>ユーザーに Power BI を割り当てる
 

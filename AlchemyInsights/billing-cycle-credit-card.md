@@ -3,7 +3,6 @@ title: 請求サイクル クレジット カード
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
+ms.date: 08/10/2021
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: df29f379e807e116222e9803454e750928f2a1b1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b5a4288a4c625414a8b09bef517e03bdc2d8c780
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325848"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845111"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>Microsoft for business の支払方法
 

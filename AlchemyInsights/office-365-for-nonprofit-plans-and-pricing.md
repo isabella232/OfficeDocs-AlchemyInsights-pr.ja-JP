@@ -3,7 +3,6 @@ title: 非営利団体向け Microsoft 365 のプランと価格
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "478"
 - "1500026"
+ms.date: 04/21/2020
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6b155a9345ed53137e953bdffff7bba7dfb0a96e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295627"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844355"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>非営利団体向け Microsoft 365 のプランと価格
 

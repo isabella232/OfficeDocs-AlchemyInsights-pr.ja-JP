@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: a7788812f206c5836dfa46fa40c82a4a23b323ba
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 561615f53e876839f11c4ffdacdefdf34998f7e5
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452071"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844247"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 サブスクリプションとライセンス管理についてよく寄せられる質問
 

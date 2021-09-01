@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "349"
 - "1500012"
+ms.date: 08/10/2021
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4748b9515f5699465213d06eb845678a882bb9be
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116004"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844751"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>サブスクリプションを再アクティブ化し、継続請求を管理する方法
 
@@ -32,7 +32,7 @@ ms.locfileid: "54116004"
 3. **[このサブスクリプションを再アクティブ化する]** ウィンドウで、ドロップダウン リストから支払い方法を選択するか、**[支払い方法を追加する]** を選択します。
 4. **[保存]** を選択します。
 
-詳細については、「[サブスクリプションを再度有効にする](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
+詳細については、「[サブスクリプションを再度有効にする](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)」を参照してください。
 
 月次請求または年次請求を管理する場合は、**[継続請求]** の有効/無効を切り替えます。
   
@@ -42,4 +42,4 @@ ms.locfileid: "54116004"
 4. **[継続請求の設定の編集]**  ウィンドウで、**[オン]**、**[オン、ただし一度更新]**、または **[オフにする]** を選択します。
 5. **[保存]** を選択します。
 
-詳細については、[「継続請求をオフまたはオンにする」](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。
+詳細については、[「継続請求をオフまたはオンにする」](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) を参照してください。

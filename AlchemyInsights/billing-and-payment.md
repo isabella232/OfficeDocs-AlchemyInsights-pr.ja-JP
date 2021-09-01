@@ -3,7 +3,6 @@ title: 請求と支払い
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314921"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844967"
 ---
 # <a name="billing-and-payment"></a>請求と支払い
 
