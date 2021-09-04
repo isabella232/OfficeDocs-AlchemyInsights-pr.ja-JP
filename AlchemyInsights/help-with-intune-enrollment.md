@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811569"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884022"
 ---
 # <a name="help-with-intune-enrollment"></a>Intune 登録に関するヘルプ
 
@@ -32,6 +34,6 @@ ms.locfileid: "51811569"
 
 **デバイス登録のトラブルシューティング**
 
-1. Intune トラブルシューティング ポータルを使用して、一般的な登録エラーを診断および解決します。 [この](https://docs.microsoft.com/intune/help-desk-operators)ドキュメントで詳細を確認してください。
+1. Intune トラブルシューティング ポータルを利用して、診断し、一般的な登録エラーを解決します。詳細については、[この](https://docs.microsoft.com/intune/help-desk-operators)ドキュメントを参照してください。
 
 2. 登録および解決を妨げる一般的なエラーの一覧については、[トラブルシューティングのガイド](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)と[トラブルシューティングのドキュメント](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)をご覧ください。
