@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8341"
-ms.openlocfilehash: 1f8492dfc3238f72f70528d920d2f9d68c6fc528ea2cb7f551b178c163255916
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a02df731417fb1782fbdcb9ea9130f505ba60b9
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992783"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923667"
 ---
 # <a name="learn-more-about-microsoft-viva-topics"></a>Microsoft Viva トピックの詳細
 
-Viva トピックを試す準備ができている場合は、[本日、試用版と購入版をご利用いただけます](https://aka.ms/BuyVivaTopics)。
+Viva トピックを試す準備ができている場合は、[本日、試用版と購入版をご利用いただけます](https://aka.ms/BuyVivaTopics)。 
 
-詳細については、[Viva トピック リソース センター](https://aka.ms/viva/topics/resources)を参照してください。
+詳細については、「概要」[をMicrosoft Viva トピックしてください](https://docs.microsoft.com/microsoft-365/knowledge/topic-experiences-overview)。 
