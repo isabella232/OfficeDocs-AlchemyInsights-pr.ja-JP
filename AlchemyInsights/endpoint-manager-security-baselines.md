@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978166"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923559"
 ---
 # <a name="endpoint-manager---security-baselines"></a>エンドポイント マネージャー - セキュリティベースライン
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978166"
 展開するベースラインのバージョンを最も効果的に変更する方法については、「[Microsoft Intune でセキュリティ ベースライン プロファイルを管理する](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)」を参照してください。
 
 セキュリティ ベースラインを展開した後は、展開の状態を監視し、デバイス別に設定を確認できます。
+
+セキュリティ ベースラインには多くの設定が含まれているため、構成の変更を確認し、テストを実行して、すべての設定がデバイスとビジネス ニーズに適していることを確認することが重要です。
 
 **注:** ベースラインのレポート データがデバイスへの初期展開から表示されるまでに最大で 24 時間、さらに更新されるまでに最大 6 時間かかる場合があります。 
 
