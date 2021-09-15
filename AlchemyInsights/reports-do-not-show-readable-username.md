@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316408"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327819"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Microsoft 365 管理センターのレポートに読み取り可能なユーザー名が表示されない
 
@@ -30,5 +30,5 @@ Microsoft 365 管理センターのレポートにはユーザー名は表示さ
 
 グローバル管理者は、組織のプライバシー設定で許可されている場合、テナントのこの変更を元に戻し、識別可能なユーザー情報を表示できます。テナントの変更を元に戻すには:
 
-1. 管理センターで、**[設定]** > **[組織の設定]** > [**[サービス]**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services) の順に移動し、**[レポート]** を選択します。 
+1. 管理センターで、**[設定]** > **[組織の設定]** > [**[サービス]**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) の順に移動し、**[レポート]** を選択します。 
 1. **[ユーザー情報の表示方法の選択]** で、**[レポートに識別可能なユーザー情報を表示する]** を選択し、レポートを再実行します。
