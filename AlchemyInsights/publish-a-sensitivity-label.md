@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062877"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475222"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>秘密度ラベル用に暗号化を構成する方法
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062877"
 1. 複数のラベル ポリシーを作成すると、ユーザーまたは場所の競合が発生することがあります。ポリシーの順序を確認し、必要に応じてこれらを上下に移動します。 ラベル ポリシーの順序を変更するには、3 つのドット (その他の操作) を選択して、**[上へ移動]** または **[下へ移動]** を選択します。
 
 ウィザードを完了すると、ラベル ポリシーが自動的に発行されます。
+
+詳細については、「[秘密度ラベルとそのポリシーを作成して構成する](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)」を参照してください。
