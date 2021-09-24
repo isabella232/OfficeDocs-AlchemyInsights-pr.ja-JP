@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329377"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475474"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online での「エクスプローラーで開く」問題のトラブルシューティング
 
@@ -32,7 +32,7 @@ ms.locfileid: "58329377"
 **注**:
 - 同期によりファイルへのローカルアクセスが許可され、最高のパフォーマンスが提供されるため、SharePoint ファイルを[ファイル オンデマンド](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us)を提供する[新しい OneDrive 同期クライアント](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us)と同期することをお勧めします。
 
-- **[エクスプローラーで開く]** は、Internet Explorer 11 でのみサポートされています。 詳細については、[IE 11 のサポート終了とMicrosoft 365 アプリ](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)を参照してください。 **[エクスプローラーで開く]** は、Microsoft Edge、Google Chrome、Mozilla FireFox を使用した場合の Windows、または Mac プラットフォームでは機能しません。 そのため、**[エクスプローラー ビュー]** オプションが灰色表示になることがあります。 
+- **[エクスプローラーで開く]** は、Microsoft Edge ブラウザーでのみサポートされています。 詳細については、「[Microsoft Edge のエクスプローラーで SharePoint ファイルを表示する](https://docs.microsoft.com/SharePoint/sharepoint-view-in-edge)」および「[Microsoft Edge レガシ バージョンのサポートの終了](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)」をご覧ください。 **[エクスプローラーで開く]** は Windows の Google Chrome、Mozilla Firefox、または Mac プラットフォームでは機能しないため、**[エクスプローラーで表示]** オプションがグレー表示される可能性があります。
 
 - **[エクスプローラーで開く]** ボタンは、新しいライブラリ エクスペリエンスには表示されません。右上にある **[表示]** ドロップダウン (このドロップダウンの名前は、現在のビューによって変化します) をクリックして、**[エクスプローラーで表示]** をクリックしてください。
 
