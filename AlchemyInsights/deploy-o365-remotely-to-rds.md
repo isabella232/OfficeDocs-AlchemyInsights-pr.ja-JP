@@ -1,5 +1,5 @@
 ---
-title: RDS、ターミナル サーバー、または VDI で共有して使用する Microsoft 365 Apps for enterprise の展開
+title: RDS、ターミナル サーバー、または VDI で共有して使用する Microsoft 365 Apps の展開
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041011"
+ms.locfileid: "60077255"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS、ターミナル サーバー、または VDI で共有して使用する Microsoft 365 Apps for enterprise の展開
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>RDS、ターミナル サーバー、または VDI で共有して使用する Microsoft 365 Apps の展開
 
 リモート デスクトップ サービス (RDS、旧称ターミナル サービス) を使用して Microsoft 365 Apps を展開するには、以下の操作を行う必要があります。
 
 - 簡単な修正プログラムを使用して TLS 1.2 を既定として有効にし、以前のバージョンの Windows (Windows 7 SP1、Windows Server 2008 R2 など) を実行します。 簡単な修正プログラムや詳細については、「[Windows の WinHTTP で TLS 1.1 および TLS 1.2 を既定のセキュリティで保護されたプロトコルとして有効にするための更新プログラム](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)」を参照してください。 
-- Microsoft 365 Apps for enterprise (旧称 Office 365 Plus) を含むプランがあります。 たとえば、Office 365 E3 や Microsoft 365 E5、Project Plan 3 や Visio Plan 2 などのデスクトップ版の Project や Visio を含むプラン、または Microsoft 365 Apps for business などの Microsoft 365 Business Premium プランです。
-- 共有コンピューターのライセンス認証を有効にします。 詳細は、「[Microsoft 365 Apps に対する共有コンピューターのライセンス認証の概要](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)」をご覧ください。
+- Microsoft 365 Apps for enterprise (旧称 Office 365 Plus) を含むプランがあります。たとえば、Office 365 E3 や Microsoft 365 E5、Project Plan 3 や Visio Plan 2 などのデスクトップ版の Project や Visio を含むプラン、または Microsoft 365 Apps for business などの Microsoft 365 Business Premium プランです。
+- 共有コンピューターのライセンス認証を有効にします。詳細は、「[Microsoft 365 Apps に対する共有コンピューターのライセンス認証の概要](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)」をご覧ください。
 
-**注**: 共有コンピューターのライセンス認証モードで Microsoft 365 Apps for enterprise をインストールするには、[Microsoft サポート/回復アシスタント](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds)をダウンロードして実行します。 Office 展開ツールを使用したカスタム インストールの前提条件、セットアップ手順、ガイダンスに関する詳細については、「[リモート デスクトップ サービスを使用して Microsoft 365 Apps を展開する](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)」を参照してください。
+**注**: 共有コンピューターのライセンス認証モードで Microsoft 365 Apps for enterprise をインストールするには、[Microsoft サポート/回復アシスタント](https://aka.ms/SaRA_OfficeSCA_M365Portal)をダウンロードして実行します。 Office 展開ツールを使用したカスタム インストールの前提条件、セットアップ手順、ガイダンスに関する詳細については、「[リモート デスクトップ サービスを使用して Microsoft 365 Apps を展開する](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)」を参照してください。
 
 共有コンピューターのライセンス認証に関連するエラーを修正するには、以下をご覧ください。
 
