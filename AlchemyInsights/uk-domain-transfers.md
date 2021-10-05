@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077219"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102370"
 ---
 # <a name="uk-domain-transfers"></a>.uk ドメインの転送
 
 英国でのドメイン転送には、新しいレジストラーの IPS タグが必要です。 IPS タグは、Microsoft 管理ポータルのドメイン転送ウィザードで入力できます。
 
-- **[設定]** > **[ドメイン]** に移動し、ドメインをダブル クリックし、**[ドメインの転送]** を選択して転送ウィザードを開始します。
+- **[設定]** > [**[ドメイン]**](https://admin.microsoft.com/#/Domains) に移動し、ドメインをダブル クリックし、**[ドメインの転送]** を選択して転送ウィザードを開始します。
 
 タグが変更されると、ドメインはすぐに新しいレジストラーに転送されます。転送を完了するには、新しいレジストラーを使用して転送手数料を支払ったり、転送されたドメインをアカウントに追加したりする必要があります。
 
