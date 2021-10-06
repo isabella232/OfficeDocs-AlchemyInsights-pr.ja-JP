@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103917"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131899"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Microsoft Teams と Skype for Business の通話キュー 
 
-通話キューの使用を開始するには、次のリンクを参照してください。
+通話キューには、特定のライセンスとリソース アカウントが必要です。 詳細については、「Teams 自動応答と通話キューのプラン: 前提条件」を参照してください (https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites。 
 
-- [クラウド通話キューを作成する](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [自動応答および呼び出しキューの通話に Teams から直接応答する](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Microsoft Teams で通話キューを作成および設定する方法については「 [通話キューの作成](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)」を参照してください。 
+
+詳細については、「[Teams から直接自動応答と通話キュー通話を行う](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)」を参照してください。 
